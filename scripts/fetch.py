@@ -1,12 +1,11 @@
 #!/usr/bin/env python3
 """
-The Trade — Server-side data fetcher v19.2
-Uses yfinance Python library (handles Yahoo's auth crumb properly).
-Plus Frankfurter for FX, CoinGecko for crypto.
-Runs in GitHub Actions every 10 minutes.
+The Trade — Server-side data fetcher v19.3
+Critical fix: validates against NaN before writing JSON (NaN breaks JS parser).
 """
 
 import json
+import math
 import time
 import re
 from datetime import datetime, timezone, timedelta
@@ -14,7 +13,6 @@ from pathlib import Path
 import requests
 import xml.etree.ElementTree as ET
 
-# yfinance handles Yahoo's cookie/crumb authentication that breaks raw HTTP calls
 import yfinance as yf
 
 IST = timezone(timedelta(hours=5, minutes=30))
@@ -24,65 +22,59 @@ DATA_DIR.mkdir(exist_ok=True)
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
 HEADERS = {"User-Agent": UA, "Accept": "*/*", "Accept-Language": "en-US,en;q=0.9"}
 
-# ─────────────────────────────────────────────────────────
-# YAHOO via yfinance library — handles auth properly
-# ─────────────────────────────────────────────────────────
+
+def safe_float(x):
+    """Return None if x is NaN/Inf/invalid, otherwise float."""
+    try:
+        v = float(x)
+        if math.isnan(v) or math.isinf(v):
+            return None
+        return v
+    except (TypeError, ValueError):
+        return None
+
 
 YAHOO_SYMBOLS = {
-    # Indian
-    "NIFTY":     "^NSEI",
-    "BANKNIFTY": "^NSEBANK",
-    "INDIAVIX":  "^INDIAVIX",
-    # US
-    "SP500":     "^GSPC",
-    "NASDAQ":    "^IXIC",
-    "DOW":       "^DJI",
-    # Europe
-    "DAX":       "^GDAXI",
-    "FTSE":      "^FTSE",
-    "CAC":       "^FCHI",
-    # Asia
-    "NIKKEI":    "^N225",
-    "HSI":       "^HSI",
-    "KOSPI":     "^KS11",
-    # Dollar
-    "DXY":       "DX-Y.NYB",
-    # FX
-    "USDINR":    "INR=X",
-    "EURUSD":    "EURUSD=X",
-    # Commodities
-    "BRENT":     "BZ=F",
-    "WTI":       "CL=F",
-    "GOLD":      "GC=F",
-    "SILVER":    "SI=F",
-    "COPPER":    "HG=F",
-    # Crypto
-    "BTC":       "BTC-USD",
-    "ETH":       "ETH-USD",
+    "NIFTY": "^NSEI", "BANKNIFTY": "^NSEBANK", "INDIAVIX": "^INDIAVIX",
+    "SP500": "^GSPC", "NASDAQ": "^IXIC", "DOW": "^DJI",
+    "DAX": "^GDAXI", "FTSE": "^FTSE", "CAC": "^FCHI",
+    "NIKKEI": "^N225", "HSI": "^HSI", "KOSPI": "^KS11",
+    "DXY": "DX-Y.NYB",
+    "USDINR": "INR=X", "EURUSD": "EURUSD=X",
+    "BRENT": "BZ=F", "WTI": "CL=F",
+    "GOLD": "GC=F", "SILVER": "SI=F", "COPPER": "HG=F",
+    "BTC": "BTC-USD", "ETH": "ETH-USD",
 }
 
 
 def fetch_yf(symbol, key):
-    """Use yfinance Ticker. Returns price + prev OHLC."""
+    """Fetch from yfinance. Skip rows with NaN. Use last 2 valid rows."""
     try:
         ticker = yf.Ticker(symbol)
-        hist = ticker.history(period="10d", auto_adjust=False)
+        hist = ticker.history(period="15d", auto_adjust=False)
         if hist is None or len(hist) < 2:
+            return None
+        # Drop rows with NaN close
+        hist = hist.dropna(subset=["Close"])
+        if len(hist) < 2:
             return None
         latest = hist.iloc[-1]
         prev = hist.iloc[-2]
-        price = float(latest["Close"])
-        prev_close = float(prev["Close"])
-        if price <= 0 or prev_close <= 0:
+        price = safe_float(latest["Close"])
+        prev_close = safe_float(prev["Close"])
+        if price is None or prev_close is None or price <= 0 or prev_close <= 0:
             return None
+        prev_high = safe_float(prev["High"]) or prev_close
+        prev_low = safe_float(prev["Low"]) or prev_close
+        prev_open = safe_float(prev["Open"]) or prev_close
         return {
-            "price": round(price, 2),
-            "prev": round(prev_close, 2),
-            "change": round(price - prev_close, 2),
+            "price": round(price, 4),
+            "prev": round(prev_close, 4),
+            "change": round(price - prev_close, 4),
             "pct": round((price - prev_close) / prev_close * 100, 3),
-            "prevHigh": round(float(prev["High"]), 2),
-            "prevLow": round(float(prev["Low"]), 2),
-            "prevOpen": round(float(prev["Open"]), 2),
+            "prevHigh": round(prev_high, 4),
+            "prevLow": round(prev_low, 4),
+            "prevOpen": round(prev_open, 4),
             "ts": int(time.time()),
             "source": "yfinance",
         }
@@ -100,40 +92,29 @@ def fetch_all_yf():
             dec = 0 if key == "BTC" else 2
             print(f"  ✓ {key:10s} {v['price']:>12,.{dec}f}  ({v['pct']:+.2f}%)")
         else:
-            print(f"  ✗ {key:10s} FAILED")
+            print(f"  ✗ {key:10s} skipped (no valid data — likely market closed)")
         time.sleep(0.4)
     return out
 
 
-# ─────────────────────────────────────────────────────────
-# FRANKFURTER fallback for FX (in case yfinance fails)
-# ─────────────────────────────────────────────────────────
-
 def fetch_frankfurter_fx():
-    """USD/INR fallback from ECB via Frankfurter. Free, no auth."""
     try:
         r = requests.get("https://api.frankfurter.app/latest?from=USD&to=INR",
                          headers=HEADERS, timeout=8)
         if r.status_code != 200:
             return None
         j = r.json()
-        rate = j.get("rates", {}).get("INR")
+        rate = safe_float(j.get("rates", {}).get("INR"))
         if rate:
             return {
-                "price": round(rate, 4),
-                "prev": round(rate, 4),
+                "price": round(rate, 4), "prev": round(rate, 4),
                 "change": 0, "pct": 0,
-                "source": "frankfurter",
-                "ts": int(time.time()),
+                "source": "frankfurter", "ts": int(time.time()),
             }
     except Exception:
         pass
     return None
 
-
-# ─────────────────────────────────────────────────────────
-# COINGECKO fallback for crypto
-# ─────────────────────────────────────────────────────────
 
 def fetch_coingecko():
     out = {}
@@ -143,47 +124,33 @@ def fetch_coingecko():
             headers=HEADERS, timeout=10)
         if r.status_code == 200:
             j = r.json()
-            if j.get("bitcoin", {}).get("usd"):
-                btc = j["bitcoin"]
-                out["BTC"] = {
-                    "price": round(btc["usd"], 0),
-                    "prev": round(btc["usd"] / (1 + btc.get("usd_24h_change", 0)/100), 0) if btc.get("usd_24h_change") else round(btc["usd"], 0),
-                    "change": round(btc["usd"] * btc.get("usd_24h_change", 0) / 100, 0),
-                    "pct": round(btc.get("usd_24h_change", 0), 3),
-                    "source": "coingecko",
-                    "ts": int(time.time()),
-                }
-            if j.get("ethereum", {}).get("usd"):
-                eth = j["ethereum"]
-                out["ETH"] = {
-                    "price": round(eth["usd"], 2),
-                    "prev": round(eth["usd"] / (1 + eth.get("usd_24h_change", 0)/100), 2) if eth.get("usd_24h_change") else round(eth["usd"], 2),
-                    "change": round(eth["usd"] * eth.get("usd_24h_change", 0) / 100, 2),
-                    "pct": round(eth.get("usd_24h_change", 0), 3),
-                    "source": "coingecko",
-                    "ts": int(time.time()),
-                }
+            for ck, ok in [("bitcoin", "BTC"), ("ethereum", "ETH")]:
+                c = j.get(ck, {})
+                price = safe_float(c.get("usd"))
+                pct = safe_float(c.get("usd_24h_change")) or 0
+                if price:
+                    prev = price / (1 + pct/100) if pct else price
+                    out[ok] = {
+                        "price": round(price, 0 if ok == "BTC" else 2),
+                        "prev": round(prev, 0 if ok == "BTC" else 2),
+                        "change": round(price - prev, 0 if ok == "BTC" else 2),
+                        "pct": round(pct, 3),
+                        "source": "coingecko", "ts": int(time.time()),
+                    }
     except Exception as e:
         print(f"  CoinGecko error: {e}")
     return out
 
 
-# ─────────────────────────────────────────────────────────
-# NSE OPTION CHAIN — best effort with persistent session
-# ─────────────────────────────────────────────────────────
-
 def fetch_nse_option_chain(symbol, max_retries=3):
     session = requests.Session()
     session.headers.update({
-        "User-Agent": UA,
-        "Accept": "*/*",
+        "User-Agent": UA, "Accept": "*/*",
         "Accept-Language": "en-US,en;q=0.9",
         "Accept-Encoding": "gzip, deflate, br",
         "Referer": "https://www.nseindia.com/option-chain",
         "Connection": "keep-alive",
-        "Sec-Fetch-Dest": "empty",
-        "Sec-Fetch-Mode": "cors",
-        "Sec-Fetch-Site": "same-origin",
+        "Sec-Fetch-Dest": "empty", "Sec-Fetch-Mode": "cors", "Sec-Fetch-Site": "same-origin",
     })
     for attempt in range(max_retries):
         try:
@@ -210,7 +177,7 @@ def parse_option_chain(raw):
         return None
     records = raw.get("records", {})
     data = records.get("data", [])
-    underlying = records.get("underlyingValue")
+    underlying = safe_float(records.get("underlyingValue"))
     expiry_dates = records.get("expiryDates", [])
     nearest_expiry = expiry_dates[0] if expiry_dates else None
     strikes = {}
@@ -221,30 +188,20 @@ def parse_option_chain(raw):
         if sp is None:
             continue
         entry = {"strike": sp}
-        if row.get("CE"):
-            ce = row["CE"]
-            entry["CE"] = {
-                "ltp": ce.get("lastPrice"), "oi": ce.get("openInterest"),
-                "iv": ce.get("impliedVolatility"),
-                "bid": ce.get("bidprice"), "ask": ce.get("askPrice"),
-            }
-        if row.get("PE"):
-            pe = row["PE"]
-            entry["PE"] = {
-                "ltp": pe.get("lastPrice"), "oi": pe.get("openInterest"),
-                "iv": pe.get("impliedVolatility"),
-                "bid": pe.get("bidprice"), "ask": pe.get("askPrice"),
-            }
+        for side in ("CE", "PE"):
+            if row.get(side):
+                leg = row[side]
+                entry[side] = {
+                    "ltp": safe_float(leg.get("lastPrice")),
+                    "oi": safe_float(leg.get("openInterest")),
+                    "iv": safe_float(leg.get("impliedVolatility")),
+                    "bid": safe_float(leg.get("bidprice")),
+                    "ask": safe_float(leg.get("askPrice")),
+                }
         strikes[str(sp)] = entry
-    return {
-        "underlying": underlying, "expiry": nearest_expiry,
-        "strikes": strikes, "ts": int(time.time()),
-    }
+    return {"underlying": underlying, "expiry": nearest_expiry,
+            "strikes": strikes, "ts": int(time.time())}
 
-
-# ─────────────────────────────────────────────────────────
-# RSS NEWS
-# ─────────────────────────────────────────────────────────
 
 NEWS_SOURCES = [
     ("MoneyControl", "https://www.moneycontrol.com/rss/marketsnews.xml"),
@@ -286,9 +243,12 @@ def fetch_all_news():
     return all_items[:30]
 
 
-# ─────────────────────────────────────────────────────────
-# MAIN
-# ─────────────────────────────────────────────────────────
+def safe_dump(obj, path):
+    """Write JSON with allow_nan=False so any sneaky NaN/Inf raises an error
+    rather than producing invalid JSON the frontend can't parse."""
+    text = json.dumps(obj, indent=2, allow_nan=False)
+    Path(path).write_text(text)
+
 
 def main():
     print(f"=== Fetch run @ {datetime.now(IST).isoformat()} ===")
@@ -296,7 +256,7 @@ def main():
     print("\n[1/4] Yahoo Finance via yfinance library…")
     quotes = fetch_all_yf()
 
-    print("\n[2/4] Fallbacks (Frankfurter FX, CoinGecko crypto)…")
+    print("\n[2/4] Fallbacks…")
     if "USDINR" not in quotes:
         fx = fetch_frankfurter_fx()
         if fx:
@@ -307,7 +267,7 @@ def main():
         for k, v in cg.items():
             if k not in quotes:
                 quotes[k] = v
-                print(f"  ✓ {k} fallback {v['price']}")
+                print(f"  ✓ {k} fallback")
 
     print("\n[3/4] NSE Option Chain…")
     nifty_oc = fetch_nse_option_chain("NIFTY")
@@ -329,9 +289,9 @@ def main():
         "fetchedAtIso": datetime.now(IST).isoformat(),
         "quotes": quotes,
     }
-    (DATA_DIR / "snapshot.json").write_text(json.dumps(snapshot, indent=2))
-    (DATA_DIR / "option_chain.json").write_text(json.dumps(option_chain, indent=2))
-    (DATA_DIR / "news.json").write_text(json.dumps({"items": news, "fetchedAt": int(time.time())}, indent=2))
+    safe_dump(snapshot, DATA_DIR / "snapshot.json")
+    safe_dump(option_chain, DATA_DIR / "option_chain.json")
+    safe_dump({"items": news, "fetchedAt": int(time.time())}, DATA_DIR / "news.json")
 
     print(f"\n✓ Wrote data/snapshot.json ({len(quotes)} quotes)")
     print(f"✓ Wrote data/option_chain.json")
