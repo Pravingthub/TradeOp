@@ -1,5 +1,30 @@
 {
-  "fetchedAt": 1779123250,
-  "fetchedAtIso": "2026-05-18T22:24:10.108686+05:30",
-  "quotes": {}
+  "fetchedAt": 1779123858,
+  "fetchedAtIso": "2026-05-18T22:34:18.313078+05:30",
+  "quotes": {
+    "USDINR": {
+      "price": 96.35,
+      "prev": 96.35,
+      "change": 0,
+      "pct": 0,
+      "source": "frankfurter",
+      "ts": 1779123845
+    },
+    "BTC": {
+      "price": 76405,
+      "prev": 77979.0,
+      "change": -1542.0,
+      "pct": -2.018,
+      "source": "coingecko",
+      "ts": 1779123846
+    },
+    "ETH": {
+      "price": 2097.57,
+      "prev": 2181.9,
+      "change": -81.08,
+      "pct": -3.865,
+      "source": "coingecko",
+      "ts": 1779123846
+    }
+  }
 }
