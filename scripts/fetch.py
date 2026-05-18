@@ -1,18 +1,25 @@
 #!/usr/bin/env python3
 """
-The Trade — Server-side data fetcher v19.3
-Critical fix: validates against NaN before writing JSON (NaN breaks JS parser).
+The Trade — Server-side data fetcher v19.4
+
+Returns TWO sessions per symbol:
+- todaySession: most recent bar (today's if available)
+- priorSession: the bar before that
+
+Each session includes date so frontend knows which day's data it has.
+
+Frontend picks based on mode:
+- Pre-Market (planning tomorrow) -> uses todaySession for pivots
+- Live (trading today) -> uses priorSession for pivots
 """
 
 import json
 import math
 import time
-import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import requests
 import xml.etree.ElementTree as ET
-
 import yfinance as yf
 
 IST = timezone(timedelta(hours=5, minutes=30))
@@ -24,7 +31,6 @@ HEADERS = {"User-Agent": UA, "Accept": "*/*", "Accept-Language": "en-US,en;q=0.9
 
 
 def safe_float(x):
-    """Return None if x is NaN/Inf/invalid, otherwise float."""
     try:
         v = float(x)
         if math.isnan(v) or math.isinf(v):
@@ -47,34 +53,66 @@ YAHOO_SYMBOLS = {
 }
 
 
+def round_session(s):
+    """Round all numeric fields in a session dict to 4 decimal places."""
+    if not s:
+        return s
+    out = {}
+    for k, v in s.items():
+        if isinstance(v, float):
+            out[k] = round(v, 4)
+        else:
+            out[k] = v
+    return out
+
+
 def fetch_yf(symbol, key):
-    """Fetch from yfinance. Skip rows with NaN. Use last 2 valid rows."""
+    """Returns price + today's session OHLC + prior session OHLC."""
     try:
         ticker = yf.Ticker(symbol)
         hist = ticker.history(period="15d", auto_adjust=False)
         if hist is None or len(hist) < 2:
             return None
-        # Drop rows with NaN close
         hist = hist.dropna(subset=["Close"])
         if len(hist) < 2:
             return None
+
         latest = hist.iloc[-1]
-        prev = hist.iloc[-2]
-        price = safe_float(latest["Close"])
-        prev_close = safe_float(prev["Close"])
-        if price is None or prev_close is None or price <= 0 or prev_close <= 0:
+        prior = hist.iloc[-2]
+
+        latest_close = safe_float(latest["Close"])
+        prior_close = safe_float(prior["Close"])
+        if not latest_close or not prior_close or latest_close <= 0 or prior_close <= 0:
             return None
-        prev_high = safe_float(prev["High"]) or prev_close
-        prev_low = safe_float(prev["Low"]) or prev_close
-        prev_open = safe_float(prev["Open"]) or prev_close
+
+        try:
+            latest_date = hist.index[-1].strftime("%Y-%m-%d")
+            prior_date = hist.index[-2].strftime("%Y-%m-%d")
+        except Exception:
+            latest_date = prior_date = None
+
+        today_session = round_session({
+            "open": safe_float(latest["Open"]),
+            "high": safe_float(latest["High"]),
+            "low": safe_float(latest["Low"]),
+            "close": latest_close,
+            "date": latest_date,
+        })
+        prior_session = round_session({
+            "open": safe_float(prior["Open"]),
+            "high": safe_float(prior["High"]),
+            "low": safe_float(prior["Low"]),
+            "close": prior_close,
+            "date": prior_date,
+        })
+
         return {
-            "price": round(price, 4),
-            "prev": round(prev_close, 4),
-            "change": round(price - prev_close, 4),
-            "pct": round((price - prev_close) / prev_close * 100, 3),
-            "prevHigh": round(prev_high, 4),
-            "prevLow": round(prev_low, 4),
-            "prevOpen": round(prev_open, 4),
+            "price": round(latest_close, 4),
+            "prev": round(prior_close, 4),
+            "change": round(latest_close - prior_close, 4),
+            "pct": round((latest_close - prior_close) / prior_close * 100, 3),
+            "todaySession": today_session,
+            "priorSession": prior_session,
             "ts": int(time.time()),
             "source": "yfinance",
         }
@@ -90,9 +128,13 @@ def fetch_all_yf():
         if v:
             out[key] = v
             dec = 0 if key == "BTC" else 2
-            print(f"  ✓ {key:10s} {v['price']:>12,.{dec}f}  ({v['pct']:+.2f}%)")
+            t = v.get("todaySession") or {}
+            p = v.get("priorSession") or {}
+            print(f"  OK {key:10s} {v['price']:>12,.{dec}f}  ({v['pct']:+.2f}%)")
+            print(f"     today  {t.get('date')}: H={t.get('high')} L={t.get('low')} C={t.get('close')}")
+            print(f"     prior  {p.get('date')}: H={p.get('high')} L={p.get('low')} C={p.get('close')}")
         else:
-            print(f"  ✗ {key:10s} skipped (no valid data — likely market closed)")
+            print(f"  -- {key:10s} skipped (no valid data)")
         time.sleep(0.4)
     return out
 
@@ -109,6 +151,8 @@ def fetch_frankfurter_fx():
             return {
                 "price": round(rate, 4), "prev": round(rate, 4),
                 "change": 0, "pct": 0,
+                "todaySession": {"open": rate, "high": rate, "low": rate, "close": rate, "date": None},
+                "priorSession": {"open": rate, "high": rate, "low": rate, "close": rate, "date": None},
                 "source": "frankfurter", "ts": int(time.time()),
             }
     except Exception:
@@ -130,11 +174,16 @@ def fetch_coingecko():
                 pct = safe_float(c.get("usd_24h_change")) or 0
                 if price:
                     prev = price / (1 + pct/100) if pct else price
+                    dec = 0 if ok == "BTC" else 2
                     out[ok] = {
-                        "price": round(price, 0 if ok == "BTC" else 2),
-                        "prev": round(prev, 0 if ok == "BTC" else 2),
-                        "change": round(price - prev, 0 if ok == "BTC" else 2),
+                        "price": round(price, dec),
+                        "prev": round(prev, dec),
+                        "change": round(price - prev, dec),
                         "pct": round(pct, 3),
+                        "todaySession": {"open": round(price, dec), "high": round(price, dec),
+                                         "low": round(price, dec), "close": round(price, dec), "date": None},
+                        "priorSession": {"open": round(prev, dec), "high": round(prev, dec),
+                                         "low": round(prev, dec), "close": round(prev, dec), "date": None},
                         "source": "coingecko", "ts": int(time.time()),
                     }
     except Exception as e:
@@ -212,6 +261,7 @@ NEWS_SOURCES = [
     ("Google India News", "https://news.google.com/rss/search?q=india+stock+market+when:1h&hl=en-IN&gl=IN&ceid=IN:en"),
 ]
 
+
 def fetch_rss(name, url):
     try:
         r = requests.get(url, headers=HEADERS, timeout=8)
@@ -244,32 +294,29 @@ def fetch_all_news():
 
 
 def safe_dump(obj, path):
-    """Write JSON with allow_nan=False so any sneaky NaN/Inf raises an error
-    rather than producing invalid JSON the frontend can't parse."""
     text = json.dumps(obj, indent=2, allow_nan=False)
     Path(path).write_text(text)
 
 
 def main():
     print(f"=== Fetch run @ {datetime.now(IST).isoformat()} ===")
-
-    print("\n[1/4] Yahoo Finance via yfinance library…")
+    print("\n[1/4] Yahoo Finance via yfinance library...")
     quotes = fetch_all_yf()
 
-    print("\n[2/4] Fallbacks…")
+    print("\n[2/4] Fallbacks...")
     if "USDINR" not in quotes:
         fx = fetch_frankfurter_fx()
         if fx:
             quotes["USDINR"] = fx
-            print(f"  ✓ USDINR fallback {fx['price']:.4f}")
+            print(f"  OK USDINR fallback")
     if "BTC" not in quotes or "ETH" not in quotes:
         cg = fetch_coingecko()
         for k, v in cg.items():
             if k not in quotes:
                 quotes[k] = v
-                print(f"  ✓ {k} fallback")
+                print(f"  OK {k} fallback")
 
-    print("\n[3/4] NSE Option Chain…")
+    print("\n[3/4] NSE Option Chain...")
     nifty_oc = fetch_nse_option_chain("NIFTY")
     bn_oc = fetch_nse_option_chain("BANKNIFTY")
     option_chain = {
@@ -280,7 +327,7 @@ def main():
     print(f"  NIFTY chain: {'OK' if option_chain['NIFTY'] else 'FAILED'}")
     print(f"  BANKNIFTY chain: {'OK' if option_chain['BANKNIFTY'] else 'FAILED'}")
 
-    print("\n[4/4] News RSS…")
+    print("\n[4/4] News RSS...")
     news = fetch_all_news()
     print(f"  Total: {len(news)} headlines")
 
@@ -293,9 +340,9 @@ def main():
     safe_dump(option_chain, DATA_DIR / "option_chain.json")
     safe_dump({"items": news, "fetchedAt": int(time.time())}, DATA_DIR / "news.json")
 
-    print(f"\n✓ Wrote data/snapshot.json ({len(quotes)} quotes)")
-    print(f"✓ Wrote data/option_chain.json")
-    print(f"✓ Wrote data/news.json ({len(news)} items)")
+    print(f"\nOK Wrote data/snapshot.json ({len(quotes)} quotes)")
+    print(f"OK Wrote data/option_chain.json")
+    print(f"OK Wrote data/news.json ({len(news)} items)")
 
 
 if __name__ == "__main__":
