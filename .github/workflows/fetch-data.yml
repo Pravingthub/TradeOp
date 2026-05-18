@@ -2,15 +2,12 @@ name: Fetch Market Data
 
 on:
   schedule:
-    # Every 10 minutes during extended market hours (covers Asia + India + Europe + US pre-market)
-    # GitHub cron uses UTC. IST = UTC+5:30. We want 6:00-23:30 IST = 00:30-18:00 UTC.
     - cron: '*/10 0-18 * * 1-5'
-    # Weekend (Sat/Sun): once an hour for catching US Friday close and Monday pre-market context
     - cron: '0 */1 * * 0,6'
-  workflow_dispatch:  # Allows manual trigger from Actions tab
+  workflow_dispatch:
 
 permissions:
-  contents: write  # Required to commit JSON back to repo
+  contents: write
 
 jobs:
   fetch:
@@ -27,7 +24,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests beautifulsoup4 lxml
+          pip install requests beautifulsoup4 lxml yfinance
 
       - name: Run fetcher
         run: python scripts/fetch.py
