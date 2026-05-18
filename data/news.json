@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "IOC Q4 results: Cons PAT surges 78% YoY to Rs 14,458 crore, revenue rises 7%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ioc-q4-results-cons-pat-surges-78-yoy-to-rs-14458-crore-revenue-rises-7/articleshow/131182133.cms",
+      "pubDate": "Mon, 18 May 2026 22:29:53 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Warsh to be sworn in as Fed chair at White House on Friday, Fox Business reports",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warsh-to-be-sworn-in-as-fed-chair-at-white-house-on-friday-fox-business-reports/articleshow/131182140.cms",
+      "pubDate": "Mon, 18 May 2026 22:29:46 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131180950.cms",
       "pubDate": "Mon, 18 May 2026 21:36:32 +0530"
@@ -17,18 +29,6 @@
       "title": "Market Trading Guide: Buy PB Fintech, GE Shipping on Tuesday for gains up to 12%",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-pb-fintech-ge-shipping-on-tuesday-for-gains-up-to-12/articleshow/131180117.cms",
       "pubDate": "Mon, 18 May 2026 20:36:57 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "IGL Q4 Results: Cons PAT falls 25% YoY to Rs 341 crore, revenue up 6%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/igl-q4-results-cons-pat-falls-25-yoy-to-rs-341-crore-revenue-up-6/articleshow/131179961.cms",
-      "pubDate": "Mon, 18 May 2026 20:25:16 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "NextEra Energy strikes $66.8 billion deal for Dominion in bets on AI power demand",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nextera-energy-strikes-66-8-billion-deal-for-dominion-in-bets-on-ai-power-demand/articleshow/131179481.cms",
-      "pubDate": "Mon, 18 May 2026 20:00:51 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Indian Oil Q4 net profit jumps 57% on strong margins; declares 12.5% dividend",
+      "link": "https://www.cnbctv18.com/market/stocks/indian-oil-share-price-q4-net-profit-jumps-57-on-strong-margins-declares-12-5-dividend-ws-l-19908453.htm",
+      "pubDate": "Mon, 18 May 2026 22:48:42 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Puravankara swings to profit in Q4 as revenue triples; sales value surges 190%",
       "link": "https://www.cnbctv18.com/market/stocks/puravankara-share-price-swings-to-profit-in-q4-as-revenue-triples-sales-value-surges-190-ws-l-19908391.htm",
       "pubDate": "Mon, 18 May 2026 22:20:18 +0530"
@@ -85,16 +91,22 @@
       "pubDate": "Mon, 18 May 2026 21:20:03 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Afcons Infra reports \u20b988-cr Q4 loss as revenue, margins slide; declares dividend",
-      "link": "https://www.cnbctv18.com/market/afcons-infra-share-price-q4-results-q4-loss-revenue-ebitda-margins-dividend-order-book-ws-l-19908381.htm",
-      "pubDate": "Mon, 18 May 2026 21:00:34 +0530"
+      "src": "Google India News",
+      "title": "Britannia Industries Schedules Analyst and Institutional Investors Group Meet for May 22, 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT1dCM2VIdUVUX2JaQ0JwOWdPZTdCV0Z3bkNxd0lfV0Z5OVo1MzJsMU1vOFpHd25oYk9KQnNEZXRGNWt2YjZDZC01bTZPWGdUd2g4RHJuY09QQmlmSzQ5UW00b0RYU3FSajBrS0JsdVZVQVJKazdzQVh1enFtQThhZDBkLXZ2cjl3UW96cVRaSnRqZFEwQloyb1FiZ3RKSDdEVV95NzFIMlVMMVJLUkwyVzhqOFFSemNST203R2k0SXRLUVpYMF9ubGdsMXppTkFCQ1hUcG90dTJkTEUwd1pGOTZOTkw?oc=5",
+      "pubDate": "Mon, 18 May 2026 17:33:57 GMT"
     },
     {
       "src": "Google India News",
       "title": "Benchmark indices recover from sharp early losses - financialexpress.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVUVMc0NjQkZ1Wm4yWks3S2tiR1NZXzhBR240YTZrLVVfZVA3ZGhwV3NsX0dXWXdkdDY3NmZQWDNhWnpjVmVYTmxlZ3hHWmtjYzZaRHIyX3ZJOUtESFZJYzQ0MkRoclhZVVlwVk51cTVVYzZhMTB4SUFsRWdySWJfTEhGUnctal9NNnd5NmJ4c2toQW5CRDJtLVhxWXp6M0ppTFNQV9IBqwFBVV95cUxPYXlOTWlRX0NURjZsX2pBdGprc1JjMExZcnYyWk1RdGdJVHJlRTA0eDdYR0JEVVNqN1Q3OUpubG9HVGlYX1A5NHVIVVBLUmdxWnYyVGJjN1VLbzYtZGc4S0FaOHhISXVQdTR2dGh4VndqT0NDaGhIaDJrcUZaUzhZd1g2YktEQWt2LUJjN3Z0MjlOa0toWTUyRENhQVZldUlWUDY3Q1dIanh6M3c?oc=5",
       "pubDate": "Mon, 18 May 2026 16:58:02 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOd08ydEZDZ0hBc1RLWmdURFBYMjVQRHUxc0IxSXM5NDhCcGwzVG1wZjdDNWtFTEtMOThqdVlFQjFlZEVsUlk3SUgwc0lqR2dsenZRdDhwSW9md0J4MVNMOTBZWDNBYnBaUGRmODd3QWM1OVJaTUlUMmhGY25BNnpKQzhTcUNVUVRrX3ZlX01tU2VGZy1kWlRyUEdfLTRTWWx1ZGlhUV9Ya21KTG5vN1NIM3NVWUNrVWJNRGRENUJ4YThEd1M2MC1rZWZFTUpsN2JDWUhKMjFvT0JxajJILWIzVNIB5gFBVV95cUxQcVpuVVV0V201dHZ6LUNSMm5HdlJYeUFEMGllQklSQVU5dTlVLWN4NTFBdHBBZExGdllNWlpmNVRlS1RaRWxBV3ExNmlCeFFsa0d6MHBIdFpEMlpaa2lVUnpnZHhVYzVqeVJEVjgtbHN1Qjlyd05SUVZhNXFISkdRYzFnd2lseTJKZFBlVWtfM2ZrRVB2d1E1TFVjRzJVaUN2d2J0ajhFcE5LYzJfRXNRdmxuLWVuS2NGMnhHX0F4RHpzcTFBMUlFeUc2R25fWmxfaVFmVnI0WHVXZnluUjVuQ3RzN3k1Zw?oc=5",
+      "pubDate": "Mon, 18 May 2026 17:06:49 GMT"
     },
     {
       "src": "Google India News",
@@ -107,19 +119,7 @@
       "title": "Future-ready market regulation needs expertise, credibility, consultation - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ1NkQl8tQXRTOGlDZFJkVW5nWjBGLWwtanBzT1NuUnNZZmZTMnZKRkM0clRjQjBvSFQ0R0xlMDduOG9XMC1XZnE2VHZuRUZGZXdoRnMtWVFSRGZRaEVzRm9BM2FiWVk4RWZ2Nk0wSFhWZlBOeTlaMUY3LW5GS3BPZ05QVGZIMHVNVjR4cXB3VE4wSXd4aXgtUzhPbS15dVhlZW5yaWJhSUZuUE9PYWF1MTlEU3hDb0ZWcDNzbHB5XzZhbTRZNF9QMkpGd3Jia05oSDJRamEzS1bSAd4BQVVfeXFMUFhOMS1KZFV4TFNPRlJPY1hhUE53U211VXVxSW5oaW9KTktBSk9QcU4wMmJOaWNyZXFnTDlERjE3N1BTWENmX0pvcW80Z1d6VGRpYVRFZlVBc1FGZ2pDdjVKRVYta2hyQ0dlQnlaMDZ4RE9iVTRGX09LMjNGMGlpekRpdC1INmlpa3c1T3ktVkdIZXhuLU1GeWpicDJFX1cxOVBlbHE4Q2Y2Q0NZdzNEdUR5LVlZcXpxMVhZUFZuVXZlNlJ2TkpBdVF2ejVpSi1KOEFkWE9VdkIzZ3ZYWnJB?oc=5",
       "pubDate": "Mon, 18 May 2026 16:48:45 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "LIC Members Approve Bonus Share Issue and Key Director Appointments via Postal Ballot - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWhHR3h1R1JhTUFEM21CbENMN25kdGVQaENiNFJkTnpXR2YtaUZBbzdwSFoyUHl5SHh6LV9XdWdtTS05UkFLLVFvc1g0XzIxeDdudHZSMXA4d040eUVjU3o4SVp6UHBteEpad2I3WUVnaGNLOWJUMmtoMnE3bEY2Q3cySC1fZXJxMUd6RFVUQi1KTnBxSXEtazM2NHZEdHdpVGJhWUFRNmlYZlAwM1JZNUlfTjExb2JjX3hBRl9ZVGZqX2ZBa1BNeldobGVhb1pFQUtUOUVXYzdSUQ?oc=5",
-      "pubDate": "Mon, 18 May 2026 16:43:33 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "These large-caps have \u2018strong buy\u2019 & \u2018buy\u2019 recos and an upside potential of up to 25% - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZktvdlpWTGlnamN3SVl6eDZCVjU3elM3UlpNel9ZcUZrUklGaGNYdmYyS0pZdWNyanBJQ1VRSVVqWkVfNWlBUDhHTVNuUHNOOTRtTFFoRTE0bTVWbmg3aE1lMUgzWU1JbDVXRXRVSlV0aThIUmVfOW11RGNOUnJkUzkyUkUySDB2MFVCU2k4STY3SVNxWHhXNlM4RU00SGZkck0tcE1mRXYxUGRlbTVCWHhwaDRIbkVXdXdIX2dvR1Vtc1JYbklPMF9FT3FJVnlnaEpSZGQ3X3lSQ1kyRjBYdE5NSEFPdHM?oc=5",
-      "pubDate": "Mon, 18 May 2026 17:01:56 GMT"
     }
   ],
-  "fetchedAt": 1779124213
+  "fetchedAt": 1779125906
 }
