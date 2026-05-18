@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-The Trade — Server-side data fetcher v19.1
-Uses Stooq + Frankfurter + CoinGecko instead of Yahoo Finance (which blocks GitHub IPs).
+The Trade — Server-side data fetcher v19.2
+Uses yfinance Python library (handles Yahoo's auth crumb properly).
+Plus Frankfurter for FX, CoinGecko for crypto.
 Runs in GitHub Actions every 10 minutes.
 """
 
@@ -13,255 +14,165 @@ from pathlib import Path
 import requests
 import xml.etree.ElementTree as ET
 
+# yfinance handles Yahoo's cookie/crumb authentication that breaks raw HTTP calls
+import yfinance as yf
+
 IST = timezone(timedelta(hours=5, minutes=30))
 DATA_DIR = Path("data")
 DATA_DIR.mkdir(exist_ok=True)
 
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
-HEADERS = {
-    "User-Agent": UA,
-    "Accept": "*/*",
-    "Accept-Language": "en-US,en;q=0.9",
-}
+HEADERS = {"User-Agent": UA, "Accept": "*/*", "Accept-Language": "en-US,en;q=0.9"}
 
 # ─────────────────────────────────────────────────────────
-# STOOQ — primary source for indices + commodities
-# Stooq returns daily CSV. Confirmed works from GitHub Actions.
+# YAHOO via yfinance library — handles auth properly
 # ─────────────────────────────────────────────────────────
 
-# Stooq symbols. ^nsei = Nifty 50, ^nseb = Bank Nifty
-STOOQ_SYMBOLS = {
+YAHOO_SYMBOLS = {
     # Indian
-    "NIFTY":     "^nsei",
-    "BANKNIFTY": "^nseb",
-    # US indices
-    "SP500":     "^spx",
-    "NASDAQ":    "^ndq",
-    "DOW":       "^dji",
+    "NIFTY":     "^NSEI",
+    "BANKNIFTY": "^NSEBANK",
+    "INDIAVIX":  "^INDIAVIX",
+    # US
+    "SP500":     "^GSPC",
+    "NASDAQ":    "^IXIC",
+    "DOW":       "^DJI",
     # Europe
-    "DAX":       "^dax",
-    "FTSE":      "^ftm",
-    "CAC":       "^cac",
+    "DAX":       "^GDAXI",
+    "FTSE":      "^FTSE",
+    "CAC":       "^FCHI",
     # Asia
-    "NIKKEI":    "^nkx",
-    "HSI":       "^hsi",
-    "SHCOMP":    "^shc",
+    "NIKKEI":    "^N225",
+    "HSI":       "^HSI",
+    "KOSPI":     "^KS11",
     # Dollar
-    "DXY":       "^dxy",
-    # Commodities (Stooq uses these tickers)
-    "BRENT":     "cb.f",   # Brent futures continuous
-    "WTI":       "cl.f",   # WTI futures
-    "GOLD":      "gc.f",   # Gold futures
-    "SILVER":    "si.f",   # Silver futures
+    "DXY":       "DX-Y.NYB",
+    # FX
+    "USDINR":    "INR=X",
+    "EURUSD":    "EURUSD=X",
+    # Commodities
+    "BRENT":     "BZ=F",
+    "WTI":       "CL=F",
+    "GOLD":      "GC=F",
+    "SILVER":    "SI=F",
+    "COPPER":    "HG=F",
+    # Crypto
+    "BTC":       "BTC-USD",
+    "ETH":       "ETH-USD",
 }
 
-def fetch_stooq_quote(symbol):
-    """Fetch from Stooq CSV. Returns latest + previous day OHLC."""
-    # Historical CSV for last 10 days — gives us today + prev
-    url = f"https://stooq.com/q/d/l/?s={symbol}&i=d"
+
+def fetch_yf(symbol, key):
+    """Use yfinance Ticker. Returns price + prev OHLC."""
     try:
-        r = requests.get(url, headers=HEADERS, timeout=10)
-        if r.status_code != 200 or len(r.text) < 50:
+        ticker = yf.Ticker(symbol)
+        hist = ticker.history(period="10d", auto_adjust=False)
+        if hist is None or len(hist) < 2:
             return None
-        lines = r.text.strip().split("\n")
-        if len(lines) < 3:  # need at least header + 2 rows
+        latest = hist.iloc[-1]
+        prev = hist.iloc[-2]
+        price = float(latest["Close"])
+        prev_close = float(prev["Close"])
+        if price <= 0 or prev_close <= 0:
             return None
-        # Header: Date,Open,High,Low,Close,Volume
-        # Take last 2 rows (today, yesterday)
-        latest = lines[-1].split(",")
-        prev = lines[-2].split(",")
-        try:
-            price = float(latest[4])  # today's close
-            prev_close = float(prev[4])
-            prev_high = float(prev[2])
-            prev_low = float(prev[3])
-            prev_open = float(prev[1])
-            return {
-                "price": round(price, 2),
-                "prev": round(prev_close, 2),
-                "change": round(price - prev_close, 2),
-                "pct": round((price - prev_close) / prev_close * 100, 3),
-                "prevHigh": round(prev_high, 2),
-                "prevLow": round(prev_low, 2),
-                "prevOpen": round(prev_open, 2),
-                "ts": int(time.time()),
-                "source": "stooq",
-            }
-        except (ValueError, IndexError):
-            return None
+        return {
+            "price": round(price, 2),
+            "prev": round(prev_close, 2),
+            "change": round(price - prev_close, 2),
+            "pct": round((price - prev_close) / prev_close * 100, 3),
+            "prevHigh": round(float(prev["High"]), 2),
+            "prevLow": round(float(prev["Low"]), 2),
+            "prevOpen": round(float(prev["Open"]), 2),
+            "ts": int(time.time()),
+            "source": "yfinance",
+        }
     except Exception as e:
-        print(f"  Stooq fetch error {symbol}: {e}")
+        print(f"  {key} yf error: {e}")
         return None
 
 
-def fetch_stooq_intraday(symbol):
-    """Stooq intraday — uses 'light' quote endpoint. Fallback for indices that need fresher data."""
-    url = f"https://stooq.com/q/l/?s={symbol}&f=sd2t2ohlcv&h&e=csv"
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=8)
-        if r.status_code != 200:
-            return None
-        lines = r.text.strip().split("\n")
-        if len(lines) < 2:
-            return None
-        hdr = lines[0].split(",")
-        vals = lines[1].split(",")
-        d = dict(zip(hdr, vals))
-        try:
-            return {
-                "open": float(d.get("Open", 0)) if d.get("Open") and d.get("Open") != "N/D" else None,
-                "high": float(d.get("High", 0)) if d.get("High") and d.get("High") != "N/D" else None,
-                "low":  float(d.get("Low", 0)) if d.get("Low") and d.get("Low") != "N/D" else None,
-                "close": float(d.get("Close", 0)) if d.get("Close") and d.get("Close") != "N/D" else None,
-                "date": d.get("Date", ""),
-            }
-        except ValueError:
-            return None
-    except Exception:
-        return None
-
-
-def fetch_all_stooq():
+def fetch_all_yf():
     out = {}
-    for key, sym in STOOQ_SYMBOLS.items():
-        v = fetch_stooq_quote(sym)
+    for key, sym in YAHOO_SYMBOLS.items():
+        v = fetch_yf(sym, key)
         if v:
             out[key] = v
-            print(f"  ✓ {key:10s} {v['price']:>12,.2f}  ({v['pct']:+.2f}%)")
+            dec = 0 if key == "BTC" else 2
+            print(f"  ✓ {key:10s} {v['price']:>12,.{dec}f}  ({v['pct']:+.2f}%)")
         else:
             print(f"  ✗ {key:10s} FAILED")
-        time.sleep(0.3)
+        time.sleep(0.4)
     return out
 
 
 # ─────────────────────────────────────────────────────────
-# FRANKFURTER — FX rates from ECB. Free, no auth, no rate limits.
+# FRANKFURTER fallback for FX (in case yfinance fails)
 # ─────────────────────────────────────────────────────────
 
-def fetch_fx():
-    """Fetch USD/INR from Frankfurter. Computes pct change vs yesterday."""
-    out = {}
+def fetch_frankfurter_fx():
+    """USD/INR fallback from ECB via Frankfurter. Free, no auth."""
     try:
-        # Latest USD->INR
         r = requests.get("https://api.frankfurter.app/latest?from=USD&to=INR",
                          headers=HEADERS, timeout=8)
         if r.status_code != 200:
-            return out
+            return None
         j = r.json()
-        today_rate = j.get("rates", {}).get("INR")
-        date_today = j.get("date")
-
-        # Yesterday's rate
-        # Frankfurter doesn't support 'yesterday' directly; use last 2 days
-        r2 = requests.get(f"https://api.frankfurter.app/{date_today}..?from=USD&to=INR",
-                          headers=HEADERS, timeout=8)
-        if r2.status_code == 200:
-            j2 = r2.json()
-            dates = sorted(j2.get("rates", {}).keys())
-            if len(dates) >= 2:
-                prev_rate = j2["rates"][dates[-2]]["INR"]
-                out["USDINR"] = {
-                    "price": round(today_rate, 4),
-                    "prev": round(prev_rate, 4),
-                    "change": round(today_rate - prev_rate, 4),
-                    "pct": round((today_rate - prev_rate) / prev_rate * 100, 3),
-                    "source": "frankfurter",
-                    "ts": int(time.time()),
-                }
-                print(f"  ✓ USDINR     {today_rate:>12,.4f}  ({out['USDINR']['pct']:+.2f}%)")
-            else:
-                out["USDINR"] = {
-                    "price": round(today_rate, 4),
-                    "prev": round(today_rate, 4),
-                    "change": 0,
-                    "pct": 0,
-                    "source": "frankfurter",
-                    "ts": int(time.time()),
-                }
-                print(f"  ✓ USDINR     {today_rate:>12,.4f}  (no prev)")
-    except Exception as e:
-        print(f"  ✗ USDINR FX fetch failed: {e}")
-    return out
-
-
-# ─────────────────────────────────────────────────────────
-# COINGECKO — crypto, free, no auth, CORS-friendly
-# ─────────────────────────────────────────────────────────
-
-def fetch_crypto():
-    out = {}
-    try:
-        url = "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true"
-        r = requests.get(url, headers=HEADERS, timeout=10)
-        if r.status_code != 200:
-            return out
-        j = r.json()
-        btc = j.get("bitcoin", {})
-        eth = j.get("ethereum", {})
-        if btc.get("usd"):
-            out["BTC"] = {
-                "price": round(btc["usd"], 0),
-                "prev": round(btc["usd"] / (1 + btc.get("usd_24h_change", 0)/100), 0) if btc.get("usd_24h_change") else round(btc["usd"], 0),
-                "change": round(btc["usd"] * btc.get("usd_24h_change", 0) / 100, 0),
-                "pct": round(btc.get("usd_24h_change", 0), 3),
-                "source": "coingecko",
+        rate = j.get("rates", {}).get("INR")
+        if rate:
+            return {
+                "price": round(rate, 4),
+                "prev": round(rate, 4),
+                "change": 0, "pct": 0,
+                "source": "frankfurter",
                 "ts": int(time.time()),
             }
-            print(f"  ✓ BTC        {btc['usd']:>12,.0f}  ({out['BTC']['pct']:+.2f}%)")
-        if eth.get("usd"):
-            out["ETH"] = {
-                "price": round(eth["usd"], 2),
-                "prev": round(eth["usd"] / (1 + eth.get("usd_24h_change", 0)/100), 2) if eth.get("usd_24h_change") else round(eth["usd"], 2),
-                "change": round(eth["usd"] * eth.get("usd_24h_change", 0) / 100, 2),
-                "pct": round(eth.get("usd_24h_change", 0), 3),
-                "source": "coingecko",
-                "ts": int(time.time()),
-            }
-            print(f"  ✓ ETH        {eth['usd']:>12,.2f}  ({out['ETH']['pct']:+.2f}%)")
-    except Exception as e:
-        print(f"  ✗ Crypto fetch failed: {e}")
-    return out
-
-
-# ─────────────────────────────────────────────────────────
-# INDIA VIX — scrape from Moneycontrol or Investing
-# ─────────────────────────────────────────────────────────
-
-def fetch_india_vix():
-    """Try multiple sources for India VIX."""
-    # Try Moneycontrol first
-    try:
-        url = "https://www.moneycontrol.com/indian-indices/india-vix-36.html"
-        r = requests.get(url, headers={**HEADERS, "Accept": "text/html"}, timeout=10)
-        if r.status_code == 200:
-            html = r.text
-            # Try to find the price using regex on common patterns
-            # Moneycontrol has data-something="<price>" attributes
-            m = re.search(r'"lastprice"[:\s]*"?(\d+\.?\d*)"?', html)
-            prev_m = re.search(r'"prevclose"[:\s]*"?(\d+\.?\d*)"?', html)
-            if m:
-                price = float(m.group(1))
-                prev = float(prev_m.group(1)) if prev_m else price
-                if price > 5 and price < 100:  # sanity check
-                    return {
-                        "price": round(price, 2),
-                        "prev": round(prev, 2),
-                        "change": round(price - prev, 2),
-                        "pct": round((price - prev) / prev * 100, 3) if prev else 0,
-                        "source": "moneycontrol",
-                        "ts": int(time.time()),
-                    }
-    except Exception as e:
-        print(f"  Moneycontrol VIX scrape failed: {e}")
+    except Exception:
+        pass
     return None
 
 
 # ─────────────────────────────────────────────────────────
-# NSE OPTION CHAIN — best effort
+# COINGECKO fallback for crypto
+# ─────────────────────────────────────────────────────────
+
+def fetch_coingecko():
+    out = {}
+    try:
+        r = requests.get(
+            "https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum&vs_currencies=usd&include_24hr_change=true",
+            headers=HEADERS, timeout=10)
+        if r.status_code == 200:
+            j = r.json()
+            if j.get("bitcoin", {}).get("usd"):
+                btc = j["bitcoin"]
+                out["BTC"] = {
+                    "price": round(btc["usd"], 0),
+                    "prev": round(btc["usd"] / (1 + btc.get("usd_24h_change", 0)/100), 0) if btc.get("usd_24h_change") else round(btc["usd"], 0),
+                    "change": round(btc["usd"] * btc.get("usd_24h_change", 0) / 100, 0),
+                    "pct": round(btc.get("usd_24h_change", 0), 3),
+                    "source": "coingecko",
+                    "ts": int(time.time()),
+                }
+            if j.get("ethereum", {}).get("usd"):
+                eth = j["ethereum"]
+                out["ETH"] = {
+                    "price": round(eth["usd"], 2),
+                    "prev": round(eth["usd"] / (1 + eth.get("usd_24h_change", 0)/100), 2) if eth.get("usd_24h_change") else round(eth["usd"], 2),
+                    "change": round(eth["usd"] * eth.get("usd_24h_change", 0) / 100, 2),
+                    "pct": round(eth.get("usd_24h_change", 0), 3),
+                    "source": "coingecko",
+                    "ts": int(time.time()),
+                }
+    except Exception as e:
+        print(f"  CoinGecko error: {e}")
+    return out
+
+
+# ─────────────────────────────────────────────────────────
+# NSE OPTION CHAIN — best effort with persistent session
 # ─────────────────────────────────────────────────────────
 
 def fetch_nse_option_chain(symbol, max_retries=3):
-    """NSE with persistent session + retries. Often blocked from GH but worth trying."""
     session = requests.Session()
     session.headers.update({
         "User-Agent": UA,
@@ -276,7 +187,6 @@ def fetch_nse_option_chain(symbol, max_retries=3):
     })
     for attempt in range(max_retries):
         try:
-            # Cookie warmup chain
             session.get("https://www.nseindia.com/", timeout=10)
             time.sleep(1.5)
             session.get("https://www.nseindia.com/option-chain", timeout=10)
@@ -314,27 +224,21 @@ def parse_option_chain(raw):
         if row.get("CE"):
             ce = row["CE"]
             entry["CE"] = {
-                "ltp": ce.get("lastPrice"),
-                "oi": ce.get("openInterest"),
+                "ltp": ce.get("lastPrice"), "oi": ce.get("openInterest"),
                 "iv": ce.get("impliedVolatility"),
-                "bid": ce.get("bidprice"),
-                "ask": ce.get("askPrice"),
+                "bid": ce.get("bidprice"), "ask": ce.get("askPrice"),
             }
         if row.get("PE"):
             pe = row["PE"]
             entry["PE"] = {
-                "ltp": pe.get("lastPrice"),
-                "oi": pe.get("openInterest"),
+                "ltp": pe.get("lastPrice"), "oi": pe.get("openInterest"),
                 "iv": pe.get("impliedVolatility"),
-                "bid": pe.get("bidprice"),
-                "ask": pe.get("askPrice"),
+                "bid": pe.get("bidprice"), "ask": pe.get("askPrice"),
             }
         strikes[str(sp)] = entry
     return {
-        "underlying": underlying,
-        "expiry": nearest_expiry,
-        "strikes": strikes,
-        "ts": int(time.time()),
+        "underlying": underlying, "expiry": nearest_expiry,
+        "strikes": strikes, "ts": int(time.time()),
     }
 
 
@@ -348,7 +252,7 @@ NEWS_SOURCES = [
     ("Business Standard", "https://www.business-standard.com/rss/markets-106.rss"),
     ("LiveMint Markets", "https://www.livemint.com/rss/markets"),
     ("CNBC TV18", "https://www.cnbctv18.com/commonfeeds/v1/cne/rss/market.xml"),
-    ("Reuters India", "https://news.google.com/rss/search?q=india+stock+market+when:1h&hl=en-IN&gl=IN&ceid=IN:en"),
+    ("Google India News", "https://news.google.com/rss/search?q=india+stock+market+when:1h&hl=en-IN&gl=IN&ceid=IN:en"),
 ]
 
 def fetch_rss(name, url):
@@ -389,22 +293,21 @@ def fetch_all_news():
 def main():
     print(f"=== Fetch run @ {datetime.now(IST).isoformat()} ===")
 
-    print("\n[1/4] Stooq quotes (indices + commodities)…")
-    quotes = fetch_all_stooq()
+    print("\n[1/4] Yahoo Finance via yfinance library…")
+    quotes = fetch_all_yf()
 
-    print("\n[2/4] FX + Crypto…")
-    fx = fetch_fx()
-    quotes.update(fx)
-    crypto = fetch_crypto()
-    quotes.update(crypto)
-
-    print("\n[2b/4] India VIX scrape…")
-    vix = fetch_india_vix()
-    if vix:
-        quotes["INDIAVIX"] = vix
-        print(f"  ✓ INDIAVIX   {vix['price']:>12,.2f}  ({vix['pct']:+.2f}%)")
-    else:
-        print(f"  ✗ INDIAVIX failed (fallback: estimate from Nifty range)")
+    print("\n[2/4] Fallbacks (Frankfurter FX, CoinGecko crypto)…")
+    if "USDINR" not in quotes:
+        fx = fetch_frankfurter_fx()
+        if fx:
+            quotes["USDINR"] = fx
+            print(f"  ✓ USDINR fallback {fx['price']:.4f}")
+    if "BTC" not in quotes or "ETH" not in quotes:
+        cg = fetch_coingecko()
+        for k, v in cg.items():
+            if k not in quotes:
+                quotes[k] = v
+                print(f"  ✓ {k} fallback {v['price']}")
 
     print("\n[3/4] NSE Option Chain…")
     nifty_oc = fetch_nse_option_chain("NIFTY")
@@ -414,7 +317,7 @@ def main():
         "BANKNIFTY": parse_option_chain(bn_oc) if bn_oc else None,
         "fetchedAt": int(time.time()),
     }
-    print(f"  NIFTY chain: {'OK' if option_chain['NIFTY'] else 'FAILED (NSE blocks GH IPs — will retry, mobile fetch may work)'}")
+    print(f"  NIFTY chain: {'OK' if option_chain['NIFTY'] else 'FAILED'}")
     print(f"  BANKNIFTY chain: {'OK' if option_chain['BANKNIFTY'] else 'FAILED'}")
 
     print("\n[4/4] News RSS…")
