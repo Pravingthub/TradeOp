@@ -80,7 +80,8 @@ header{display:flex;align-items:center;justify-content:space-between;gap:10px;pa
 .pivot-card{display:none;background:linear-gradient(135deg,#14181f 0%,#1c2333 100%);border:2px solid var(--violet);border-radius:14px;padding:14px;margin-bottom:12px}
 .pivot-card.show{display:block;animation:fadeUp 0.4s ease}
 @keyframes fadeUp{from{opacity:0;transform:translateY(15px)}to{opacity:1;transform:translateY(0)}}
-.pivot-title{font-family:'JetBrains Mono',monospace;font-size:10.5px;letter-spacing:0.15em;text-transform:uppercase;color:var(--violet);font-weight:800;margin-bottom:4px}
+.piv-index-dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:8px;vertical-align:middle}
+.pivot-title{font-family:'JetBrains Mono',monospace;font-size:10.5px;letter-spacing:0.15em;text-transform:uppercase;color:var(--violet);font-weight:800;margin-bottom:4px;display:flex;align-items:center}
 .pivot-sub{font-size:11px;color:var(--text-2);margin-bottom:12px;font-family:'JetBrains Mono',monospace}
 .pivot-sub b{color:var(--text)}
 .pivot-section{margin-bottom:14px}
@@ -281,27 +282,50 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
   </div>
 </div>
 
-<div class="pivot-card" id="pivotCard">
-  <div class="pivot-title">📐 Pivot Levels</div>
-  <div class="pivot-sub" id="pivotSub">—</div>
+<div class="pivot-card" id="pivotCard_n">
+  <div class="pivot-title"><span class="piv-index-dot" style="background:var(--amber)"></span>Nifty 50 · Pivot Levels</div>
+  <div class="pivot-sub" id="pivotSub_n">—</div>
 
   <div class="pivot-section">
     <div class="pivot-shead">Classic Pivots <span class="ssub">(R3/R2/R1/P/S1/S2/S3)</span></div>
-    <div class="pivot-grid" id="classicGrid"></div>
+    <div class="pivot-grid" id="classicGrid_n"></div>
   </div>
 
   <div class="pivot-section">
     <div class="pivot-shead">CPR (Central Pivot Range) <span class="ssub">TC · P · BC</span></div>
-    <div class="cpr-grid" id="cprGrid"></div>
-    <div class="cpr-interp" id="cprInterp">—</div>
+    <div class="cpr-grid" id="cprGrid_n"></div>
+    <div class="cpr-interp" id="cprInterp_n">—</div>
   </div>
 
   <div class="pivot-section">
     <div class="pivot-shead">Camarilla <span class="ssub">H4/H3 resistance · L3/L4 support</span></div>
-    <div class="pivot-grid" id="camGrid"></div>
+    <div class="pivot-grid" id="camGrid_n"></div>
   </div>
 
-  <div class="range-line" id="rangeLine">—</div>
+  <div class="range-line" id="rangeLine_n">—</div>
+</div>
+
+<div class="pivot-card pivot-card-bn" id="pivotCard_b">
+  <div class="pivot-title"><span class="piv-index-dot" style="background:var(--violet)"></span>Bank Nifty · Pivot Levels</div>
+  <div class="pivot-sub" id="pivotSub_b">—</div>
+
+  <div class="pivot-section">
+    <div class="pivot-shead">Classic Pivots <span class="ssub">(R3/R2/R1/P/S1/S2/S3)</span></div>
+    <div class="pivot-grid" id="classicGrid_b"></div>
+  </div>
+
+  <div class="pivot-section">
+    <div class="pivot-shead">CPR (Central Pivot Range) <span class="ssub">TC · P · BC</span></div>
+    <div class="cpr-grid" id="cprGrid_b"></div>
+    <div class="cpr-interp" id="cprInterp_b">—</div>
+  </div>
+
+  <div class="pivot-section">
+    <div class="pivot-shead">Camarilla <span class="ssub">H4/H3 resistance · L3/L4 support</span></div>
+    <div class="pivot-grid" id="camGrid_b"></div>
+  </div>
+
+  <div class="range-line" id="rangeLine_b">—</div>
 </div>
 
 <div class="global-card">
@@ -385,13 +409,13 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
 </div>
 
 <div class="disclaimer">
-  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.5 · Pivot-aware engine · No-cache</strong>
+  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.6 · Pivot-aware engine · No-cache</strong>
   Backend fetches via yfinance every 10 min. Pre-Market uses today's session for tomorrow's pivots. Live Trade uses yesterday's session for today's pivots. Engine factors pivot proximity into trade selection. Not investment advice.
 </div>
 
 <footer>
   <span class="tag">நல்ல வர்த்தகம் · Trade Well</span>
-  v19.5 · pivot-aware · no-cache
+  v19.6 · pivot-aware · no-cache
 </footer>
 
 </div>
@@ -579,25 +603,25 @@ async function refreshAll(){
 }
 
 // PIVOT DISPLAY (Pre-Market mode)
-function renderPivots(symbol,name,piv){
+function renderPivots(suffix,name,piv){
   if(!piv)return;
-  const card=document.getElementById('pivotCard');
-  const sub=document.getElementById('pivotSub');
-  sub.innerHTML=`<b>${name}</b> · From today's H=<b>${fmt(piv.H,2)}</b> L=<b>${fmt(piv.L,2)}</b> C=<b>${fmt(piv.C,2)}</b>`;
+  const card=document.getElementById('pivotCard_'+suffix);
+  const sub=document.getElementById('pivotSub_'+suffix);
+  sub.innerHTML=`From today's H=<b>${fmt(piv.H,2)}</b> L=<b>${fmt(piv.L,2)}</b> C=<b>${fmt(piv.C,2)}</b>`;
 
   const classic=[
     {l:'S3',v:piv.S3,t:'s'},{l:'S2',v:piv.S2,t:'s'},{l:'S1',v:piv.S1,t:'s'},
     {l:'P',v:piv.P,t:'p'},
     {l:'R1',v:piv.R1,t:'r'},{l:'R2',v:piv.R2,t:'r'},{l:'R3',v:piv.R3,t:'r'},
   ];
-  document.getElementById('classicGrid').innerHTML=classic.map(p=>`<div class="piv ${p.t}"><div class="pl">${p.l}</div><div class="pv">${fmt(p.v,0)}</div></div>`).join('');
+  document.getElementById('classicGrid_'+suffix).innerHTML=classic.map(p=>`<div class="piv ${p.t}"><div class="pl">${p.l}</div><div class="pv">${fmt(p.v,0)}</div></div>`).join('');
 
-  document.getElementById('cprGrid').innerHTML=`
+  document.getElementById('cprGrid_'+suffix).innerHTML=`
     <div class="cpr-row tc"><div class="cl">TC (Top)</div><div class="cv">${fmt(piv.TC,0)}</div></div>
     <div class="cpr-row p"><div class="cl">P (Pivot)</div><div class="cv">${fmt(piv.P,0)}</div></div>
     <div class="cpr-row bc"><div class="cl">BC (Bottom)</div><div class="cv">${fmt(piv.BC,0)}</div></div>
   `;
-  const interp=document.getElementById('cprInterp');
+  const interp=document.getElementById('cprInterp_'+suffix);
   interp.classList.remove('narrow','wide');
   if(piv.cprType==='narrow'){
     interp.classList.add('narrow');
@@ -614,9 +638,9 @@ function renderPivots(symbol,name,piv){
     {l:'C',v:piv.C,t:'p'},
     {l:'H3',v:piv.H3,t:'r'},{l:'H4',v:piv.H4,t:'r'},
   ];
-  document.getElementById('camGrid').innerHTML=cam.map(p=>`<div class="piv ${p.t}"><div class="pl">${p.l}</div><div class="pv">${fmt(p.v,0)}</div></div>`).join('');
+  document.getElementById('camGrid_'+suffix).innerHTML=cam.map(p=>`<div class="piv ${p.t}"><div class="pl">${p.l}</div><div class="pv">${fmt(p.v,0)}</div></div>`).join('');
 
-  document.getElementById('rangeLine').innerHTML=`Expected range: <b>${fmt(piv.S2,0)} — ${fmt(piv.R2,0)}</b> (between S2 and R2)`;
+  document.getElementById('rangeLine_'+suffix).innerHTML=`Expected range: <b>${fmt(piv.S2,0)} — ${fmt(piv.R2,0)}</b> (between S2 and R2)`;
   card.classList.add('show');
 }
 
@@ -821,7 +845,8 @@ function setMode(newMode){
   applySessionToInputs();
   // Clear stale outputs
   document.getElementById('gapHero').classList.remove('show');
-  document.getElementById('pivotCard').classList.remove('show');
+  document.getElementById('pivotCard_n').classList.remove('show');
+  document.getElementById('pivotCard_b').classList.remove('show');
   document.getElementById('compareCard').classList.remove('show');
   document.getElementById('tradeSafe').classList.remove('show');
   document.getElementById('tradeRisky').classList.remove('show');
@@ -841,7 +866,8 @@ function runPremarket(){
   const nPiv=calcPivots(nHigh,nLow,nClose);
   const bPiv=calcPivots(bHigh,bLow,bClose);
 
-  renderPivots('NIFTY','Nifty 50',nPiv);
+  renderPivots('n','Nifty 50',nPiv);
+  renderPivots('b','Bank Nifty',bPiv);
 
   // Simple gap prediction based on global cues
   const usAvg=((data.SP?.pct||0)+(data.NDX?.pct||0))/2;
@@ -869,7 +895,7 @@ function runPremarket(){
   document.getElementById('bPrev').textContent=fmt(bClose,0);
   document.getElementById('bGap').textContent=(bnPts>=0?'+':'')+fmt(bnPts,0);
   document.getElementById('bOpen').textContent=fmt(bOpen,0);
-  document.getElementById('pivotCard').scrollIntoView({behavior:'smooth',block:'start'});
+  document.getElementById('pivotCard_n').scrollIntoView({behavior:'smooth',block:'start'});
 }
 
 function renderLegRow(leg,idx,kind){
