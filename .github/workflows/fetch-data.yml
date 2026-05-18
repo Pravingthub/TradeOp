@@ -2,8 +2,13 @@ name: Fetch Market Data
 
 on:
   schedule:
+    # Indian market hours + margin (5:30 AM IST - 11:30 PM IST = UTC 0-18) every 10 min, weekdays
     - cron: '*/10 0-18 * * 1-5'
-    - cron: '0 */1 * * 0,6'
+    # US/overnight hours (11:30 PM IST - 5:30 AM IST = UTC 18-23 + 0) every 30 min, weekdays
+    # Catches US market close (1:30 AM IST) and post-close updates
+    - cron: '*/30 19-23 * * 1-5'
+    # Weekends — hourly to capture US Friday close and Asian Sunday open
+    - cron: '0 * * * 0,6'
   workflow_dispatch:
 
 permissions:
