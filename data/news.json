@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "White House reviews ban on trading through best price on stocks",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/white-house-reviews-ban-on-trading-through-best-price-on-stocks/articleshow/131185207.cms",
+      "pubDate": "Tue, 19 May 2026 00:57:45 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "IOC Q4 results: Cons PAT surges 78% YoY to Rs 14,458 crore, revenue rises 7%",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ioc-q4-results-cons-pat-surges-78-yoy-to-rs-14458-crore-revenue-rises-7/articleshow/131182133.cms",
       "pubDate": "Mon, 18 May 2026 22:29:53 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Mon, 18 May 2026 21:14:51 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Market Trading Guide: Buy PB Fintech, GE Shipping on Tuesday for gains up to 12%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-pb-fintech-ge-shipping-on-tuesday-for-gains-up-to-12/articleshow/131180117.cms",
-      "pubDate": "Mon, 18 May 2026 20:36:57 +0530"
+      "src": "LiveMint Markets",
+      "title": "NACHO Is On, But Memory Chipmakers Rally Isn\u2019t Over",
+      "link": "https://www.livemint.com/market/nacho-is-on-but-memory-chipmakers-rally-isn-t-over-11779131914106.html",
+      "pubDate": "Tue, 19 May 2026 00:48:33 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -53,12 +59,6 @@
       "title": "US stock market today: S&amp;P 500, Dow futures fall up to 0.8% as crude prices stay elevated; Brent hits $112",
       "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-dow-futures-fall-up-to-0-8-as-crude-prices-stay-elevated-brent-hits-112-11779103160749.html",
       "pubDate": "Mon, 18 May 2026 17:50:10 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US stocks to buy for short term: From MP Materials to Arista Networks- Appreciate CEO suggests picking these 5 shares",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-to-buy-for-short-term-from-mp-materials-to-arista-networks-appreciate-ceo-suggests-picking-these-5-shares-11779104769479.html",
-      "pubDate": "Mon, 18 May 2026 17:21:50 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Worried about stock market crash? Here's what retail, SIP investors and traders should do - MSN",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPTHJYdEQyc1hweTF4YS1IWWpvY0pRb0ZscnNveTBEVnVCc3RhbVpHejFrUjNsV1hsbGIxWF80TU81NEstYzdQSTdOMkhZWF9md3dENW1DU19Ga1VSbjF6TVRBUHpfbG9feHB3MUxQRDRWVFBmWU1qRm1EOXVHVGNRc3gxNk8xWGFyandvQ0FXamp3OGQtQXdJbGFGdjQ1Z3ZoYkF5ejlCWGZYNG9pSnZzbEROa2JjdXg4ZjlpSGlheVVXNHNjN1pja09VaHJzeWprT0ZUUlNmZHV5dXg0ay1ZVmlYUktXOW9iVzVaYXZkdnVwbFpaT19hWg?oc=5",
-      "pubDate": "Mon, 18 May 2026 18:14:55 GMT"
+      "title": "Why is stock market down today? Sensex, Nifty crash over 1%, Rs 7 lakh crore wiped out - top reasons for fall - MSN",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWmgyOHpmazBjSnFtM1d1T21jRF95SDhlRmFVQk9GM3A3THFtX1ktTnM5SGNlQnJxc1RVZ0NlZzMtZDF4WllSN0djQmlCcjNQQ1ZBUmNPdlV5R1d2R0pkMEF0UnVQcTdrRzN1dGZqMURGQ1RQVmtsQ3JwdmZKNE1IazZNQUViMEFkM0xpS3dqdWZBYWN2eV9zTjhyaGNGaFdqektOR1hyUzZ2Y2lxaDJob3NYMjJ0aVpLaVpPaDBNMmZ4WlkxRjNieElxeVRXRnVBZWhJTldkMTNLdjE4eURCT0ZlWkV3UzNQSXJGcHZYdmYzZUwxaTlPMW5famhmc05iWVlEM1o3S3FjOXVuTkE?oc=5",
+      "pubDate": "Mon, 18 May 2026 20:14:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Colgate-Palmolive (India) Schedules Analyst Conference Call for Q4 and Full-Year FY26 Results on May 22, 2026 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVExlTDFfQW9YT0pNUU1iRXB4Qkg5emtqV2lLZmk3UmlYYWs0Z0R4Z1F5MkJMYk1LM1pTb1B5NjJBN19uQ05pQVBfWWdsczdXZDcycmhXY21tV04waGdFT2ctaG5zakwxa3VYZnMyU0R1dTA5bmstdExBV3VlcFJUb1lmWHE5dEpibEd3THV4TEdFblF2WTV6NkduWURIMTRNT2FmUWVtM2NJLUxVWHNJUTFPX21vVU05LUZzX1hDcVhHU0dXcEpEeGkweEY0aXRHRWNSZzZzcXRIaUhQbGVyVm51TG80c3lpYmdjczAydDdfMFVGeFE?oc=5",
-      "pubDate": "Mon, 18 May 2026 18:18:56 GMT"
+      "title": "Carraro India Limited Schedules Q4 FY26 Earnings Conference Call for May 27, 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVmN0NUF1RkQwRFplTEl0MFhvREdUS1dUMVB3Vzk5YzVIcjdxMUhvaHRqdGVCMjZKQnFCRXVQcDNEUW1PcjdCY28zUHFqS2lhXzhIYkdBWlJXS25icDdhVjdEbVI1ZERFY1ltTGtucXVnREdGMkpId1F2UUphM01MclBjOTZxTF9tSk8zRG1qSTd6LWxmNHZPQjFMM2dhdzVSOXBYR2llYVdja1dQanZMbmZjVkhWb3IxOHdWcC1scEpOS01xS3VRc2FCZjRDbkw4dUFn?oc=5",
+      "pubDate": "Mon, 18 May 2026 20:08:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indoco Remedies Completes Transfer of Ophthalmic Division to Sunways (India) Private Limited on Slump Sale Basis - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQenhJV1BnQlhuUlVEemxKWnBpVndYNzdZS3l4dUpWRmMwWWRPRkk4Sk9GaTlpTGdKUF83dWtKU0dzVFNaX0h5bEpVYkdqZlhPUVB4OVJ3MTNTYUtXaDVhaGlTSDNZXzJpVFZsT1dreFlDMHV5Qzk3d3Q4Ry1aSlRhS0hqd3pORVJtWTMzbDhVcE5HRmVuWkUxbzluZzZpdWZPSjVxWk00WS16UE5YbE5JZGpDU0RKNEJTZzN0SnJ5UTk0dlphXzNyanp4bmRkOFlqUjdtSjBYN0ZXbU9iODAzalhOZ2VRSEoxNlZHbVo4N3hHV01RQlVDekNKYw?oc=5",
-      "pubDate": "Mon, 18 May 2026 18:08:35 GMT"
+      "title": "White House reviews ban on trading through best price on stocks - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNlBKT3M2UEtHa3dBaUx4YURpcDlnbGxVUzFRRnJITVFOck1zRWQ4cTVhRkk1aXpUczNqMnFjZkktTHJOelFyTVlOVldOSHJ1MlJwa0drVVJYVnl4Q2xaTEgtdlpZMDRNVjJIcXl6LWQtVlRLRVRSNk4xeDU3RWhqX050U21oVVZwOUlWZUNFd28yMEFyS3Z4Z3hVeEE4VU1icWdRUkhlZ2IwdThHWFlVSkd3MTg0cm54SkRZVmNIdFBLWFUyT2hxX2x3bU1LTzBjM1ZudzYwRlY2WVNm0gHcAUFVX3lxTE82UEpPczZQS0drd0FpTHhhRGlwOWdsbFVTMVFGckhNUU5yTXNFZDhxNWFGSTVpelRzM2oycWNmSS1Mck56UXJNWU5WV05IcnUyUnBrR2tVUlhWeXhDbFpMSC12WlkwNE1WMkhxeXotZC1WVEtFVFI2TjF4NTdFaGpfTnRTbWhVVnA5SVZlQ0V3bzIwQXJLdnhneFV4QThVTWJxZ1FSSGVnYjB1OEdYWVVKR3cxODRybnhKRFlWY0h0UEtYVTJPaHFfbHdtTUtPMGMzVm53NjBGVjZZU2Y?oc=5",
+      "pubDate": "Mon, 18 May 2026 19:27:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Just like Maxwell\u2026': Rep. Subramanyam DROPS BOMBSHELL on Jeffrey Epstein's prison treatment - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWl9ETVVGV3QxSkhYcXZwb3FqM3JsR0M3dWhlbHZzSzRyWnNVdkFLODZsTEYwUjJIQVZiN3JHUmx4eFV3QVFDV1pZTC13YnFTMWgycFZob0QteWZ2QzJzTVl2Vk1EVHdkZ1NjaHNVNy1hQmI4dFpuTUJucF9OSUp2SV8zLXlnaFQ3Rm5KS2p1YzcwTFNPYXlzNHB3anFqdEc5R0xRYUlwTDZncUdjcjZFNTFMUXdRcl9ycXVCQUhsV2ZjQWU4bERDTGRFNVBmbl9jZjA5TW5NVmdXNGJpTlhmT192X2dYUTdDWUxHU0JzRXNEZTlzVmdIa0VXSEXSAYICQVVfeXFMTm1sWmY3TUJvaWRabl9VOWdDTFVURERQcmoyZnlUNXFfb2poUG5mak9TQ2E5X254TjJkS1NRQXRfckl3QWtvX3NDelFpRldEbTIxQWJlMlJHdU50NDduYTBtbENnWkd0YUZKOTY4VXF0dkM4QllsZDNJWVV0NWM0WkhER0hZTDQ1TzZ1REdWc2dPQlM1eTBqd284SDgxOUlxajNpM0ZBc1hha2o4Q3Y5VUl2MkVYUTUxMUpJOXB1TVE4ZWt3SmliWUljWGJpRFREUmM1ejZEaWVnQk1nemphTk9uOFJzN3ZRWEZScmV4OUR1aTFKaXFjblFHTkJxUlBsQWd3?oc=5",
-      "pubDate": "Mon, 18 May 2026 17:55:45 GMT"
+      "title": "Airtel STUNS Dalal Street: Becomes India's 2nd-Most Valuable Company By Beating HDFC In Market Cap - Mint",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTTAtNW9Kd2ZHM3NzNVJTZmRrMThISmFIWEp3cF9ERlZyc2Y5b0ZZX2pGbXhXM245cnphQUM1Y0lYODdyOUpnd0JUVWJYb1ZJcHlYM0Jyd2p0WUttbU9NWTZyRVlsdTZqMHhjZTV4S3hWTGZUTmVLOGpnblBCakNBZExHNEpMMlE1RkRBQXhKck1jalJOXzlJNVlXMmJVcWFwdXVEU1RKZjZuV1k2MENaTTV0SFp4YzhrcmxwODZlN1JSc1ItdjBhNl9odWEya3lLWFFmbHFDcC1pNkxJNkdMQlB30gHnAUFVX3lxTFBfRlNPZzR4eG10Q0g3OE5aRmdaY3gwaTc3VXlWYTRhZXJqeG55Q1N5VWt4c1ZhYkVDSDlfZ0VDZE9jTDJ5VHVHSWlNN1V1eGlTNk0tbTB0ME9lZDlfbGJRbFNOY3VGdzE3UHU2LWRrTkgtM0p6Zy1oMDgzeWhXRmlPV0Zvc3FUeXJmRWxjNS02U3lfSTVpOEFfVmh5YjZkajFoMEJoaERuUkNhTGR4MVZ1RFFfVWpKQ2hlUU1WQ0MwSEpfakN6bzNLVG95UTNud29sQzJmd21SbnBzRnpEOXBtOGRzTHdTVQ?oc=5",
+      "pubDate": "Mon, 18 May 2026 19:53:52 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Caprihans India Limited Schedules Board Meeting on May 25, 2026 to Approve Q4FY26 Audited Financial Results - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNnZXOEpHWFRDbF9yUUVaM1RQTndLVXdvME9jRUxOR2hYY3FHbTlBbDlNYy1uR25MOUJva1JnaWMyc1FIcWtHZHlDQlNFWEQ1VGxZMGtUQ1ltVzlnRWcxazNzbzE2SFNxYVJXNjdoWm4xMGhseW9UR3g3ci0tUUVWVHlpbXRuaW1EdTI1eHBSdXlDRVhWeERkNWc3VzZscWF2UnlTdHVGMUU1TUtGdGFMUmtfNTI3bllIZWpoZVpWcjNoRWFmNmNuTk5VMVhEZVBiS2h3U25QcjhxSVVhV2xBM01zb09zb3lGY3Z3NUZkbF85RWNEekE?oc=5",
-      "pubDate": "Mon, 18 May 2026 18:02:28 GMT"
+      "title": "Eveready Industries India Faces Rs. 7.11 Crore Damages Order Over Alleged Unauthorized Occupation in New Delhi - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSGlneWNkV2VxcU9zamJVRzlDNDUydS1JSXk1WF9wMFRYU2lNY0h0cXRfeHZRbV80SXMwVTRncWJmTHRnTjFneGh6RFFOMElvZ1JndjY3ZFJZMlByLUV0M1VLb3Q4VnlnbTRFcUZCUUswVXNxOFc1eVQ0WXlFa1BGdHo3WFhtZUNCbDZsbDNmYkkxbmNsRzNyRWNKcVFUdUpPVDZ4SnpDVU1iSmViOXNtQlBwZUk0OW5zWXE0elZFUFVRVktIRHYweWNodXE1UkV2S2RRZUxXXzNQTFhJaTdjR0xPOG1UdV9qVEJxbnlsSTJJdUpKVFRXSld3?oc=5",
+      "pubDate": "Mon, 18 May 2026 20:02:51 GMT"
     }
   ],
-  "fetchedAt": 1779130232
+  "fetchedAt": 1779135671
 }
