@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: Nasdaq falls as technology stocks slide, Treasury yields climb",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-falls-as-technology-stocks-slide-treasury-yields-climb/articleshow/131185648.cms",
+      "pubDate": "Tue, 19 May 2026 01:42:47 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "White House reviews ban on trading through best price on stocks",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/white-house-reviews-ban-on-trading-through-best-price-on-stocks/articleshow/131185207.cms",
       "pubDate": "Tue, 19 May 2026 00:57:45 +0530"
@@ -23,12 +29,6 @@
       "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131180950.cms",
       "pubDate": "Mon, 18 May 2026 21:36:32 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sebi proposes easing call recording rules for research analysts dealing with institutional investors",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-easing-call-recording-rules-for-research-analysts-dealing-with-institutional-investors/articleshow/131180701.cms",
-      "pubDate": "Mon, 18 May 2026 21:14:51 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,21 +92,15 @@
     },
     {
       "src": "Google India News",
+      "title": "Ingersoll-Rand (India) Limited Schedules Board Meeting on May 29, 2026 for Q4FY26 Results and Final Dividend Consideration - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNY3F2aDVYanlqYUQ4bVRiM284RU5NS3liY1ZoTDFUV1FjcnhMM1FIWlZxS0ZCdXJtbHJoWkt3ME50RWo2LVF2X0txX2FWQkVqSXRFemhmZFM2dUdhOW5OR0ZvdXNEdjJOWlc1Y3BqRDdsVUtzZlpRTXBldXp5QXhfN3V3ME1fOWVvaV9PNVV0azllUmwwUkFsRG9sYkd5R09ITGxZaEQ3WWF4RmZ2akNxMFhmT3NpUmQzSV9NeDVlamR5WUlocFBjN21ybklqOWVKUWhyaHBnRkVQZmVrbjFCSWxmeTg4N2o3SFBKbGF1V2lsQVRiYWpNbEk1M3dWOGcteU5xTl9GYw?oc=5",
+      "pubDate": "Mon, 18 May 2026 20:33:37 GMT"
+    },
+    {
+      "src": "Google India News",
       "title": "Why is stock market down today? Sensex, Nifty crash over 1%, Rs 7 lakh crore wiped out - top reasons for fall - MSN",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPWmgyOHpmazBjSnFtM1d1T21jRF95SDhlRmFVQk9GM3A3THFtX1ktTnM5SGNlQnJxc1RVZ0NlZzMtZDF4WllSN0djQmlCcjNQQ1ZBUmNPdlV5R1d2R0pkMEF0UnVQcTdrRzN1dGZqMURGQ1RQVmtsQ3JwdmZKNE1IazZNQUViMEFkM0xpS3dqdWZBYWN2eV9zTjhyaGNGaFdqektOR1hyUzZ2Y2lxaDJob3NYMjJ0aVpLaVpPaDBNMmZ4WlkxRjNieElxeVRXRnVBZWhJTldkMTNLdjE4eURCT0ZlWkV3UzNQSXJGcHZYdmYzZUwxaTlPMW5famhmc05iWVlEM1o3S3FjOXVuTkE?oc=5",
       "pubDate": "Mon, 18 May 2026 20:14:55 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Carraro India Limited Schedules Q4 FY26 Earnings Conference Call for May 27, 2026 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVmN0NUF1RkQwRFplTEl0MFhvREdUS1dUMVB3Vzk5YzVIcjdxMUhvaHRqdGVCMjZKQnFCRXVQcDNEUW1PcjdCY28zUHFqS2lhXzhIYkdBWlJXS25icDdhVjdEbVI1ZERFY1ltTGtucXVnREdGMkpId1F2UUphM01MclBjOTZxTF9tSk8zRG1qSTd6LWxmNHZPQjFMM2dhdzVSOXBYR2llYVdja1dQanZMbmZjVkhWb3IxOHdWcC1scEpOS01xS3VRc2FCZjRDbkw4dUFn?oc=5",
-      "pubDate": "Mon, 18 May 2026 20:08:57 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "White House reviews ban on trading through best price on stocks - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNlBKT3M2UEtHa3dBaUx4YURpcDlnbGxVUzFRRnJITVFOck1zRWQ4cTVhRkk1aXpUczNqMnFjZkktTHJOelFyTVlOVldOSHJ1MlJwa0drVVJYVnl4Q2xaTEgtdlpZMDRNVjJIcXl6LWQtVlRLRVRSNk4xeDU3RWhqX050U21oVVZwOUlWZUNFd28yMEFyS3Z4Z3hVeEE4VU1icWdRUkhlZ2IwdThHWFlVSkd3MTg0cm54SkRZVmNIdFBLWFUyT2hxX2x3bU1LTzBjM1ZudzYwRlY2WVNm0gHcAUFVX3lxTE82UEpPczZQS0drd0FpTHhhRGlwOWdsbFVTMVFGckhNUU5yTXNFZDhxNWFGSTVpelRzM2oycWNmSS1Mck56UXJNWU5WV05IcnUyUnBrR2tVUlhWeXhDbFpMSC12WlkwNE1WMkhxeXotZC1WVEtFVFI2TjF4NTdFaGpfTnRTbWhVVnA5SVZlQ0V3bzIwQXJLdnhneFV4QThVTWJxZ1FSSGVnYjB1OEdYWVVKR3cxODRybnhKRFlWY0h0UEtYVTJPaHFfbHdtTUtPMGMzVm53NjBGVjZZU2Y?oc=5",
-      "pubDate": "Mon, 18 May 2026 19:27:00 GMT"
     },
     {
       "src": "Google India News",
@@ -116,10 +110,16 @@
     },
     {
       "src": "Google India News",
-      "title": "Eveready Industries India Faces Rs. 7.11 Crore Damages Order Over Alleged Unauthorized Occupation in New Delhi - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSGlneWNkV2VxcU9zamJVRzlDNDUydS1JSXk1WF9wMFRYU2lNY0h0cXRfeHZRbV80SXMwVTRncWJmTHRnTjFneGh6RFFOMElvZ1JndjY3ZFJZMlByLUV0M1VLb3Q4VnlnbTRFcUZCUUswVXNxOFc1eVQ0WXlFa1BGdHo3WFhtZUNCbDZsbDNmYkkxbmNsRzNyRWNKcVFUdUpPVDZ4SnpDVU1iSmViOXNtQlBwZUk0OW5zWXE0elZFUFVRVktIRHYweWNodXE1UkV2S2RRZUxXXzNQTFhJaTdjR0xPOG1UdV9qVEJxbnlsSTJJdUpKVFRXSld3?oc=5",
-      "pubDate": "Mon, 18 May 2026 20:02:51 GMT"
+      "title": "Manipur National Highway closed over 'missing persons' - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjY4WXZnY3pBRFN0bmFoSDdPVFRuQ3NITm9kbW5LWWhEbHNLZzhPNGUyS0l3ZlFYTGV2WWNDUDUtajZHdVhyaDctR2p5dHQwMldQRV8zZWZMNHozT0hJcTFHMkFOak92dnR4Qnl0bjQ5ZkxXeW5zZEk3aGFpa3FXdllsOG9WQWZvZVBzbjhSNTF6b3l3RFZQWGNrUXN6aFV3Wm94aFpTNzdRN2h4LVJDQ21BSXYtdTBCTjgzUGFB0gG-AUFVX3lxTE9SNjhZdmdjekFEU3RuYWhIN09UVG5Dc0hOb2RtbktZaERsc0tnOE80ZTJLSXdmUVhMZXZZY0NQNS1qNkd1WHJoNy1Hanl0dDAyV1BFXzNlZkw0ejNPSElxMUcyQU5qT3Z2dHhCeXRuNDlmTFd5bnNkSTdoYWlrcVd2WWw4b1ZBZm9lUHNuOFI1MXpveXdEVlBYY2tRc3poVXdab3hoWlM3N1E3aHgtUkNDbUFJdi11MEJOODNQYUE?oc=5",
+      "pubDate": "Mon, 18 May 2026 20:04:00 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "HeidelbergCement India Receives Regulatory Consent to Set Up Cement Blending and Grinding Unit in Madhya Pradesh - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSHR4TTVnMFFWUk16czVzS1FzSDQ0b1VRQkYzSnc4NHNFQnBKUkM2UFRDQXVPM2xCdi1SWjNDOVdJOGR4SzZVQzVPb2NTejN6M3c3MkpyRDJkNnJvWkVXVm5MQnBWY0drUUpmOHpEd2JiN24xM2ZyVzF3eHNaMC1GMEdoZWctOXBFWlZRQ2l5d0FvSUtxeG5WWTlHLXpQSUcxSkFfR2pNV09tR2Zndm9FWlEtcldTOFl2Zm1aRWRCa0ZqcWNiTzlWWVAtd3dGX3JOVnJuLTdybElSNHFUdmdZdUhScFI2YmlJNi11T2pCNUdnT05HaGtCeFJKb1AyQQ?oc=5",
+      "pubDate": "Mon, 18 May 2026 20:23:37 GMT"
     }
   ],
-  "fetchedAt": 1779135671
+  "fetchedAt": 1779136932
 }
