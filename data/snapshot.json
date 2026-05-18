@@ -1,30 +1,248 @@
 {
-  "fetchedAt": 1779123858,
-  "fetchedAtIso": "2026-05-18T22:34:18.313078+05:30",
+  "fetchedAt": 1779124213,
+  "fetchedAtIso": "2026-05-18T22:40:13.429390+05:30",
   "quotes": {
+    "NIFTY": {
+      "price": 23649.95,
+      "prev": 23643.5,
+      "change": 6.45,
+      "pct": 0.027,
+      "prevHigh": 23839.3,
+      "prevLow": 23610.3,
+      "prevOpen": 23731.4,
+      "ts": 1779124188,
+      "source": "yfinance"
+    },
+    "BANKNIFTY": {
+      "price": 53537.0,
+      "prev": 53710.35,
+      "change": -173.35,
+      "pct": -0.323,
+      "prevHigh": 54325.45,
+      "prevLow": 53628.3,
+      "prevOpen": 54207.75,
+      "ts": 1779124189,
+      "source": "yfinance"
+    },
+    "INDIAVIX": {
+      "price": 19.63,
+      "prev": 18.79,
+      "change": 0.84,
+      "pct": 4.47,
+      "prevHigh": 19.01,
+      "prevLow": 17.42,
+      "prevOpen": 18.61,
+      "ts": 1779124189,
+      "source": "yfinance"
+    },
+    "SP500": {
+      "price": 7388.53,
+      "prev": 7408.5,
+      "change": -19.97,
+      "pct": -0.27,
+      "prevHigh": 7454.85,
+      "prevLow": 7397.5,
+      "prevOpen": 7445.11,
+      "ts": 1779124190,
+      "source": "yfinance"
+    },
+    "NASDAQ": {
+      "price": 26050.41,
+      "prev": 26225.14,
+      "change": -174.73,
+      "pct": -0.666,
+      "prevHigh": 26460.76,
+      "prevLow": 26097.54,
+      "prevOpen": 26288.92,
+      "ts": 1779124190,
+      "source": "yfinance"
+    },
+    "DOW": {
+      "price": 49565.36,
+      "prev": 49526.17,
+      "change": 39.19,
+      "pct": 0.079,
+      "prevHigh": 49930.26,
+      "prevLow": 49503.57,
+      "prevOpen": 49930.26,
+      "ts": 1779124191,
+      "source": "yfinance"
+    },
+    "DAX": {
+      "price": 24307.92,
+      "prev": 23950.57,
+      "change": 357.35,
+      "pct": 1.492,
+      "prevHigh": 24297.95,
+      "prevLow": 23917.63,
+      "prevOpen": 24229.29,
+      "ts": 1779124192,
+      "source": "yfinance"
+    },
+    "FTSE": {
+      "price": 10323.75,
+      "prev": 10195.4,
+      "change": 128.35,
+      "pct": 1.259,
+      "prevHigh": 10375.7,
+      "prevLow": 10163.6,
+      "prevOpen": 10375.4,
+      "ts": 1779124192,
+      "source": "yfinance"
+    },
+    "CAC": {
+      "price": 7987.49,
+      "prev": 7952.55,
+      "change": 34.94,
+      "pct": 0.439,
+      "prevHigh": 8043.57,
+      "prevLow": 7942.45,
+      "prevOpen": 8003.06,
+      "ts": 1779124193,
+      "source": "yfinance"
+    },
+    "NIKKEI": {
+      "price": NaN,
+      "prev": 61409.29,
+      "change": NaN,
+      "pct": NaN,
+      "prevHigh": 63235.77,
+      "prevLow": 60937.3,
+      "prevOpen": 62878.71,
+      "ts": 1779124193,
+      "source": "yfinance"
+    },
+    "HSI": {
+      "price": NaN,
+      "prev": 25962.73,
+      "change": NaN,
+      "pct": NaN,
+      "prevHigh": 26391.02,
+      "prevLow": 25847.15,
+      "prevOpen": 26391.02,
+      "ts": 1779124194,
+      "source": "yfinance"
+    },
+    "KOSPI": {
+      "price": NaN,
+      "prev": 7493.18,
+      "change": NaN,
+      "pct": NaN,
+      "prevHigh": 8046.78,
+      "prevLow": 7371.68,
+      "prevOpen": 7951.75,
+      "ts": 1779124194,
+      "source": "yfinance"
+    },
+    "DXY": {
+      "price": 99.03,
+      "prev": 99.27,
+      "change": -0.24,
+      "pct": -0.246,
+      "prevHigh": 99.32,
+      "prevLow": 98.92,
+      "prevOpen": 98.93,
+      "ts": 1779124195,
+      "source": "yfinance"
+    },
     "USDINR": {
-      "price": 96.35,
-      "prev": 96.35,
-      "change": 0,
-      "pct": 0,
-      "source": "frankfurter",
-      "ts": 1779123845
+      "price": 96.34,
+      "prev": 95.71,
+      "change": 0.63,
+      "pct": 0.658,
+      "prevHigh": 96.11,
+      "prevLow": 95.4,
+      "prevOpen": 95.71,
+      "ts": 1779124195,
+      "source": "yfinance"
+    },
+    "EURUSD": {
+      "price": 1.17,
+      "prev": 1.17,
+      "change": -0.0,
+      "pct": -0.061,
+      "prevHigh": 1.17,
+      "prevLow": 1.16,
+      "prevOpen": 1.17,
+      "ts": 1779124196,
+      "source": "yfinance"
+    },
+    "BRENT": {
+      "price": 111.03,
+      "prev": 109.26,
+      "change": 1.77,
+      "pct": 1.62,
+      "prevHigh": 109.73,
+      "prevLow": 106.05,
+      "prevOpen": 106.57,
+      "ts": 1779124197,
+      "source": "yfinance"
+    },
+    "WTI": {
+      "price": 102.94,
+      "prev": 105.42,
+      "change": -2.48,
+      "pct": -2.352,
+      "prevHigh": 106.0,
+      "prevLow": 101.48,
+      "prevOpen": 102.06,
+      "ts": 1779124197,
+      "source": "yfinance"
+    },
+    "GOLD": {
+      "price": 4554.1,
+      "prev": 4555.8,
+      "change": -1.7,
+      "pct": -0.037,
+      "prevHigh": 4615.2,
+      "prevLow": 4524.3,
+      "prevOpen": 4615.2,
+      "ts": 1779124198,
+      "source": "yfinance"
+    },
+    "SILVER": {
+      "price": 77.31,
+      "prev": 77.16,
+      "change": 0.15,
+      "pct": 0.193,
+      "prevHigh": 80.61,
+      "prevLow": 76.0,
+      "prevOpen": 80.61,
+      "ts": 1779124198,
+      "source": "yfinance"
+    },
+    "COPPER": {
+      "price": 6.31,
+      "prev": 6.25,
+      "change": 0.06,
+      "pct": 0.992,
+      "prevHigh": 6.52,
+      "prevLow": 6.23,
+      "prevOpen": 6.52,
+      "ts": 1779124199,
+      "source": "yfinance"
     },
     "BTC": {
-      "price": 76405,
-      "prev": 77979.0,
-      "change": -1542.0,
-      "pct": -2.018,
-      "source": "coingecko",
-      "ts": 1779123846
+      "price": 76495.11,
+      "prev": 77429.35,
+      "change": -934.24,
+      "pct": -1.207,
+      "prevHigh": 78539.4,
+      "prevLow": 76783.41,
+      "prevOpen": 78133.59,
+      "ts": 1779124199,
+      "source": "yfinance"
     },
     "ETH": {
-      "price": 2097.57,
-      "prev": 2181.9,
-      "change": -81.08,
-      "pct": -3.865,
-      "source": "coingecko",
-      "ts": 1779123846
+      "price": 2102.09,
+      "prev": 2127.65,
+      "change": -25.56,
+      "pct": -1.201,
+      "prevHigh": 2196.78,
+      "prevLow": 2097.02,
+      "prevOpen": 2179.85,
+      "ts": 1779124200,
+      "source": "yfinance"
     }
   }
 }
