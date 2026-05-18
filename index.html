@@ -3,6 +3,9 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
 <title>The Trade</title>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,600;9..144,800&family=DM+Sans:wght@300;400;500;700&family=JetBrains+Mono:wght@400;500;700&family=Noto+Sans+Tamil:wght@400;600&display=swap" rel="stylesheet" />
 <style>
@@ -57,9 +60,11 @@ header{display:flex;align-items:center;justify-content:space-between;gap:10px;pa
 .index-title.nifty .dot{background:var(--amber)}
 .index-title.bn .dot{background:var(--violet)}
 .index-title .src-tag{margin-left:auto;font-size:8.5px;color:var(--text-3);font-weight:400}
-.index-row{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:5px}
-.index-row.three{grid-template-columns:1fr 1fr 1fr}
-@media (max-width:460px){.index-row{grid-template-columns:1fr 1fr}.index-row.three{grid-template-columns:1fr 1fr}}
+.index-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5px}
+.index-row.live{grid-template-columns:1fr 1fr 1fr;gap:5px}
+.index-row.live .qf.spot-cell{grid-column:1 / -1;margin-bottom:5px}
+.index-row.live .qf.spot-cell input{font-size:15px;padding:11px 9px;background:rgba(255,182,39,0.08);border-color:rgba(255,182,39,0.4)}
+@media (max-width:460px){.index-row{grid-template-columns:1fr 1fr 1fr}.index-row.live{grid-template-columns:1fr 1fr 1fr}}
 .qf{display:flex;flex-direction:column;gap:3px}
 .qf.hidden{display:none}
 .qf label{font-family:'JetBrains Mono',monospace;font-size:9px;letter-spacing:0.1em;text-transform:uppercase;color:var(--text-3)}
@@ -248,7 +253,7 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
   <div class="index-block">
     <div class="index-title nifty"><span class="dot"></span>Nifty 50<span class="src-tag" id="nifty-src">—</span></div>
     <div class="index-row" id="nRow">
-      <div class="qf hidden" id="nSpotWrap"><label>Spot</label><input type="number" id="nSpot" step="0.05" inputmode="decimal" /></div>
+      <div class="qf spot-cell hidden" id="nSpotWrap"><label>Spot (Live)</label><input type="number" id="nSpot" step="0.05" inputmode="decimal" /></div>
       <div class="qf"><label>Session High</label><input type="number" id="nHigh" step="0.05" inputmode="decimal" /></div>
       <div class="qf"><label>Session Low</label><input type="number" id="nLow" step="0.05" inputmode="decimal" /></div>
       <div class="qf"><label>Session Close</label><input type="number" id="nClose" step="0.05" inputmode="decimal" /></div>
@@ -258,7 +263,7 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
   <div class="index-block">
     <div class="index-title bn"><span class="dot"></span>Bank Nifty<span class="src-tag" id="bn-src">—</span></div>
     <div class="index-row" id="bRow">
-      <div class="qf hidden" id="bSpotWrap"><label>Spot</label><input type="number" id="bSpot" step="0.05" inputmode="decimal" /></div>
+      <div class="qf spot-cell hidden" id="bSpotWrap"><label>Spot (Live)</label><input type="number" id="bSpot" step="0.05" inputmode="decimal" /></div>
       <div class="qf"><label>Session High</label><input type="number" id="bHigh" step="0.05" inputmode="decimal" /></div>
       <div class="qf"><label>Session Low</label><input type="number" id="bLow" step="0.05" inputmode="decimal" /></div>
       <div class="qf"><label>Session Close</label><input type="number" id="bClose" step="0.05" inputmode="decimal" /></div>
@@ -380,13 +385,13 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
 </div>
 
 <div class="disclaimer">
-  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.4 · Pivot-aware engine</strong>
+  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.5 · Pivot-aware engine · No-cache</strong>
   Backend fetches via yfinance every 10 min. Pre-Market uses today's session for tomorrow's pivots. Live Trade uses yesterday's session for today's pivots. Engine factors pivot proximity into trade selection. Not investment advice.
 </div>
 
 <footer>
   <span class="tag">நல்ல வர்த்தகம் · Trade Well</span>
-  v19.4 · pivot-aware
+  v19.5 · pivot-aware · no-cache
 </footer>
 
 </div>
@@ -804,8 +809,8 @@ function setMode(newMode){
   document.getElementById('modeLive').classList.toggle('active',mode==='live');
   document.getElementById('nSpotWrap').classList.toggle('hidden',mode==='premarket');
   document.getElementById('bSpotWrap').classList.toggle('hidden',mode==='premarket');
-  document.getElementById('nRow').classList.toggle('three',mode==='premarket');
-  document.getElementById('bRow').classList.toggle('three',mode==='premarket');
+  document.getElementById('nRow').classList.toggle('live',mode==='live');
+  document.getElementById('bRow').classList.toggle('live',mode==='live');
   if(mode==='premarket'){
     document.getElementById('inputTitle').textContent='⚡ Pre-Market · Plan Tomorrow';
     document.getElementById('genBtn').textContent='⚡ Show Pivots + Predict Gap';
