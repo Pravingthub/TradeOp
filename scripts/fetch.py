@@ -1,9 +1,15 @@
 #!/usr/bin/env python3
 """
-The Trade — Server-side data fetcher v19.5
-Adds anti-regression merge: if yfinance returns older data than what's already in snapshot.json,
-the existing newer data is preserved per-symbol. Prevents transient yfinance hiccups from
-rolling back known-good data (e.g. NSE Asian markets sometimes lose recent days).
+The Trade — Server-side data fetcher v19.6
+Adds best-known session tracking: maintains a separate data/best_session.json
+that records the LATEST date ever seen per symbol per session. On each run, if
+yfinance returns OLDER session dates than what's in best_session, the new fetch
+is patched to restore the best-known data. Bulletproof against yfinance
+regressions across days, not just consecutive runs.
+
+Bootstraps best_session.json from existing snapshot.json on first run after deploy.
+If best_session.json gets corrupted, simply delete it via GitHub UI and the next
+run will re-bootstrap from current snapshot.
 
 Returns TWO sessions per symbol:
 - todaySession: most recent bar (today's if available)
@@ -296,59 +302,116 @@ def fetch_all_news():
     return all_items[:30]
 
 
-def safe_dump(obj, path):
-    text = json.dumps(obj, indent=2, allow_nan=False)
-    Path(path).write_text(text)
+def load_best_session(best_path, existing_path):
+    """
+    Load best-known session data. If best_session.json doesn't exist, bootstrap
+    from existing snapshot.json (treats current snapshot as the starting baseline).
+    """
+    if best_path.exists():
+        try:
+            return json.loads(best_path.read_text()), False
+        except Exception as e:
+            print(f"  Could not read best_session.json ({e}), starting fresh")
+            return {}, False
+
+    # Bootstrap from existing snapshot
+    if existing_path.exists():
+        try:
+            existing = json.loads(existing_path.read_text())
+            quotes = existing.get("quotes", {})
+            bootstrap = {}
+            for sym, data in quotes.items():
+                td = data.get("todaySession")
+                pr = data.get("priorSession")
+                if td or pr:
+                    bootstrap[sym] = {}
+                    if td: bootstrap[sym]["todaySession"] = td
+                    if pr: bootstrap[sym]["priorSession"] = pr
+            return bootstrap, True
+        except Exception as e:
+            print(f"  Could not bootstrap from existing snapshot ({e})")
+
+    return {}, False
 
 
-def merge_with_existing(new_quotes, existing_path):
-    """
-    Anti-regression merge: if existing snapshot has NEWER session data
-    than new fetch (per symbol), keep the existing one.
-    Prevents yfinance hiccups from rolling back known-good data.
-    """
+def load_existing_quotes(existing_path):
+    """Load existing snapshot quotes for missing-symbol retention."""
     if not existing_path.exists():
-        return new_quotes, []
-
+        return {}
     try:
         existing = json.loads(existing_path.read_text())
-        existing_quotes = existing.get("quotes", {})
-    except Exception as e:
-        print(f"  Could not read existing snapshot ({e}), using new data")
-        return new_quotes, []
+        return existing.get("quotes", {})
+    except Exception:
+        return {}
 
+
+def merge_with_best(new_quotes, existing_quotes, best_data):
+    """
+    Three layers of protection:
+    1. SYMBOL RETENTION — if new fetch is missing a symbol entirely (network failure),
+       keep the symbol from existing snapshot.
+    2. SESSION RESTORATION — for each symbol's todaySession and priorSession, if
+       best_data has a strictly NEWER date, restore that session data into the new
+       fetch. Protects against yfinance regressing days backward.
+    3. UPDATE BEST — if new fetch has a newer or same date, update best_data so it
+       tracks the latest known good state.
+
+    Returns (merged_quotes, updated_best_data, log_messages).
+    """
     merged = {}
-    kept_symbols = []
+    new_best = json.loads(json.dumps(best_data))  # deep copy
+    log = []
+
     for sym, new_data in new_quotes.items():
-        new_today_date = (new_data.get("todaySession") or {}).get("date")
-        old_data = existing_quotes.get(sym)
-        if not old_data:
-            merged[sym] = new_data
-            continue
-        old_today_date = (old_data.get("todaySession") or {}).get("date")
+        # Copy new data, but session fields may get overridden
+        merged[sym] = dict(new_data)
 
-        # If old has newer or equal date, AND old has H/L/C, keep old.
-        # This prevents regression but allows updates within the same trading day
-        # (e.g. updated close after market hours).
-        if old_today_date and new_today_date:
-            if old_today_date > new_today_date:
-                # Old data is newer — KEEP OLD (regression protection)
-                merged[sym] = old_data
-                kept_symbols.append(f"{sym}({old_today_date} kept, new was {new_today_date})")
-                continue
-            elif old_today_date == new_today_date:
-                # Same date — prefer the new data (it may have updated close)
-                merged[sym] = new_data
-                continue
-        merged[sym] = new_data
+        best_for_sym = best_data.get(sym, {})
 
-    # Also retain symbols that existed in old but are missing from new (rare network failure)
+        for session_key in ("todaySession", "priorSession"):
+            new_session = new_data.get(session_key) or {}
+            new_date = new_session.get("date")
+            best_session = best_for_sym.get(session_key) or {}
+            best_date = best_session.get("date")
+
+            if best_date and new_date and best_date > new_date:
+                # Best is strictly newer — restore it
+                merged[sym][session_key] = best_session
+                log.append(
+                    f"{sym}.{session_key}: RESTORED {best_date} "
+                    f"(yfinance returned {new_date})"
+                )
+            elif best_date and not new_date:
+                # New is empty, best has data — restore
+                merged[sym][session_key] = best_session
+                log.append(
+                    f"{sym}.{session_key}: RESTORED {best_date} (yfinance returned nothing)"
+                )
+            elif new_date:
+                # New is newer or equal (or best is missing) — accept new + update best
+                if not best_date or new_date >= best_date:
+                    if sym not in new_best:
+                        new_best[sym] = {}
+                    new_best[sym][session_key] = new_session
+                    if not best_date:
+                        log.append(f"{sym}.{session_key}: first seen {new_date}")
+                    elif new_date > best_date:
+                        log.append(
+                            f"{sym}.{session_key}: advanced {best_date} -> {new_date}"
+                        )
+
+    # Retain symbols completely missing from new fetch
     for sym, old_data in existing_quotes.items():
         if sym not in merged:
             merged[sym] = old_data
-            kept_symbols.append(f"{sym}(retained — missing from new fetch)")
+            log.append(f"{sym}: WHOLE SYMBOL retained (missing from new fetch)")
 
-    return merged, kept_symbols
+    return merged, new_best, log
+
+
+def safe_dump(obj, path):
+    text = json.dumps(obj, indent=2, allow_nan=False)
+    Path(path).write_text(text)
 
 
 def main():
@@ -369,16 +432,29 @@ def main():
                 quotes[k] = v
                 print(f"  OK {k} fallback")
 
-    # Anti-regression: never let newer-than-fetch data get overwritten by older
-    print("\n[2.5/4] Anti-regression merge with existing snapshot...")
+    # Anti-regression: best-known session tracking
+    print("\n[2.5/4] Best-known session merge...")
     snapshot_path = DATA_DIR / "snapshot.json"
-    quotes, kept = merge_with_existing(quotes, snapshot_path)
-    if kept:
-        print(f"  Preserved {len(kept)} symbol(s) from existing snapshot:")
-        for k in kept:
-            print(f"    - {k}")
+    best_path = DATA_DIR / "best_session.json"
+    existing_quotes = load_existing_quotes(snapshot_path)
+    best_data, bootstrapped = load_best_session(best_path, snapshot_path)
+
+    if bootstrapped:
+        print(f"  Bootstrapped best_session.json from existing snapshot ({len(best_data)} symbols)")
+    elif best_data:
+        print(f"  Loaded best_session.json ({len(best_data)} symbols tracked)")
     else:
-        print(f"  All new data accepted (no regressions detected)")
+        print(f"  Fresh start — no best_session.json found")
+
+    quotes, best_data, log = merge_with_best(quotes, existing_quotes, best_data)
+    if log:
+        print(f"  Merge actions ({len(log)}):")
+        for entry in log[:20]:  # cap log output
+            print(f"    - {entry}")
+        if len(log) > 20:
+            print(f"    ... and {len(log) - 20} more")
+    else:
+        print(f"  No merge actions needed (all fresh)")
 
     print("\n[3/4] NSE Option Chain...")
     nifty_oc = fetch_nse_option_chain("NIFTY")
@@ -403,10 +479,12 @@ def main():
     safe_dump(snapshot, snapshot_path)
     safe_dump(option_chain, DATA_DIR / "option_chain.json")
     safe_dump({"items": news, "fetchedAt": int(time.time())}, DATA_DIR / "news.json")
+    safe_dump(best_data, best_path)
 
     print(f"\nOK Wrote data/snapshot.json ({len(quotes)} quotes)")
     print(f"OK Wrote data/option_chain.json")
     print(f"OK Wrote data/news.json ({len(news)} items)")
+    print(f"OK Wrote data/best_session.json ({len(best_data)} symbols)")
 
 
 if __name__ == "__main__":
