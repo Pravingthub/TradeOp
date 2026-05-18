@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
-The Trade — Server-side data fetcher v19.4
+The Trade — Server-side data fetcher v19.5
+Adds anti-regression merge: if yfinance returns older data than what's already in snapshot.json,
+the existing newer data is preserved per-symbol. Prevents transient yfinance hiccups from
+rolling back known-good data (e.g. NSE Asian markets sometimes lose recent days).
 
 Returns TWO sessions per symbol:
 - todaySession: most recent bar (today's if available)
@@ -298,6 +301,56 @@ def safe_dump(obj, path):
     Path(path).write_text(text)
 
 
+def merge_with_existing(new_quotes, existing_path):
+    """
+    Anti-regression merge: if existing snapshot has NEWER session data
+    than new fetch (per symbol), keep the existing one.
+    Prevents yfinance hiccups from rolling back known-good data.
+    """
+    if not existing_path.exists():
+        return new_quotes, []
+
+    try:
+        existing = json.loads(existing_path.read_text())
+        existing_quotes = existing.get("quotes", {})
+    except Exception as e:
+        print(f"  Could not read existing snapshot ({e}), using new data")
+        return new_quotes, []
+
+    merged = {}
+    kept_symbols = []
+    for sym, new_data in new_quotes.items():
+        new_today_date = (new_data.get("todaySession") or {}).get("date")
+        old_data = existing_quotes.get(sym)
+        if not old_data:
+            merged[sym] = new_data
+            continue
+        old_today_date = (old_data.get("todaySession") or {}).get("date")
+
+        # If old has newer or equal date, AND old has H/L/C, keep old.
+        # This prevents regression but allows updates within the same trading day
+        # (e.g. updated close after market hours).
+        if old_today_date and new_today_date:
+            if old_today_date > new_today_date:
+                # Old data is newer — KEEP OLD (regression protection)
+                merged[sym] = old_data
+                kept_symbols.append(f"{sym}({old_today_date} kept, new was {new_today_date})")
+                continue
+            elif old_today_date == new_today_date:
+                # Same date — prefer the new data (it may have updated close)
+                merged[sym] = new_data
+                continue
+        merged[sym] = new_data
+
+    # Also retain symbols that existed in old but are missing from new (rare network failure)
+    for sym, old_data in existing_quotes.items():
+        if sym not in merged:
+            merged[sym] = old_data
+            kept_symbols.append(f"{sym}(retained — missing from new fetch)")
+
+    return merged, kept_symbols
+
+
 def main():
     print(f"=== Fetch run @ {datetime.now(IST).isoformat()} ===")
     print("\n[1/4] Yahoo Finance via yfinance library...")
@@ -315,6 +368,17 @@ def main():
             if k not in quotes:
                 quotes[k] = v
                 print(f"  OK {k} fallback")
+
+    # Anti-regression: never let newer-than-fetch data get overwritten by older
+    print("\n[2.5/4] Anti-regression merge with existing snapshot...")
+    snapshot_path = DATA_DIR / "snapshot.json"
+    quotes, kept = merge_with_existing(quotes, snapshot_path)
+    if kept:
+        print(f"  Preserved {len(kept)} symbol(s) from existing snapshot:")
+        for k in kept:
+            print(f"    - {k}")
+    else:
+        print(f"  All new data accepted (no regressions detected)")
 
     print("\n[3/4] NSE Option Chain...")
     nifty_oc = fetch_nse_option_chain("NIFTY")
@@ -336,7 +400,7 @@ def main():
         "fetchedAtIso": datetime.now(IST).isoformat(),
         "quotes": quotes,
     }
-    safe_dump(snapshot, DATA_DIR / "snapshot.json")
+    safe_dump(snapshot, snapshot_path)
     safe_dump(option_chain, DATA_DIR / "option_chain.json")
     safe_dump({"items": news, "fetchedAt": int(time.time())}, DATA_DIR / "news.json")
 
