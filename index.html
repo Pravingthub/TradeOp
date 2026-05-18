@@ -44,10 +44,22 @@ header{display:flex;align-items:center;justify-content:space-between;gap:10px;pa
 .news-item .ns{font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--text-3);margin-top:2px}
 .news-item a{color:inherit;text-decoration:none}
 .flags-row{display:flex;gap:5px;flex-wrap:wrap}
-.flag-toggle{padding:6px 10px;background:var(--bg-3);border:1px solid var(--line);border-radius:6px;cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:9.5px;text-transform:uppercase;color:var(--text-2);font-weight:600}
+.flag-toggle{padding:6px 10px;background:var(--bg-3);border:1px solid var(--line);border-radius:6px;cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:9.5px;text-transform:uppercase;color:var(--text-2);font-weight:600;display:inline-flex;align-items:center;gap:5px}
 .flag-toggle.on{background:rgba(255,90,107,0.15);border-color:var(--bear);color:var(--bear)}
 .flag-toggle.on.bull{background:rgba(45,217,163,0.15);border-color:var(--bull);color:var(--bull)}
 .flag-toggle.on.amber{background:rgba(255,182,39,0.15);border-color:var(--amber);color:var(--amber)}
+.flag-toggle.suggested{border-color:rgba(255,182,39,0.5);box-shadow:0 0 0 1px rgba(255,182,39,0.2)}
+.auto-badge{background:var(--amber);color:var(--ink);font-size:7.5px;padding:1px 4px;border-radius:3px;font-weight:800;letter-spacing:0.05em}
+.suggestion-box{background:rgba(255,182,39,0.08);border:1px solid rgba(255,182,39,0.3);border-radius:8px;padding:9px 11px;margin-bottom:9px;animation:fadeUp 0.3s ease}
+.sg-title{font-family:'JetBrains Mono',monospace;font-size:9.5px;letter-spacing:0.1em;text-transform:uppercase;color:var(--amber);font-weight:700;margin-bottom:6px}
+.sg-list{display:flex;flex-direction:column;gap:4px;margin-bottom:5px}
+.sg-item{font-size:11px;color:var(--text);line-height:1.4;padding:4px 0;border-bottom:1px dotted rgba(255,182,39,0.15)}
+.sg-item:last-child{border-bottom:none}
+.sg-item .sg-tag{display:inline-block;background:rgba(255,182,39,0.2);color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:8.5px;padding:1px 5px;border-radius:3px;margin-right:6px;font-weight:700;letter-spacing:0.05em}
+.sg-item .sg-quote{color:var(--text-2);font-style:italic;font-size:10.5px}
+.sg-hint{font-size:9.5px;color:var(--text-3);font-style:italic;margin-top:4px}
+.muhurat-row{margin-top:8px;display:flex;gap:6px;flex-wrap:wrap}
+.muhurat-badge{display:inline-block;padding:5px 9px;background:rgba(157,124,255,0.15);border:1px solid rgba(157,124,255,0.4);border-radius:5px;font-family:'JetBrains Mono',monospace;font-size:9.5px;color:var(--violet);font-weight:700;letter-spacing:0.05em}
 .input-card{background:linear-gradient(135deg,#1a1f2e 0%,#232a3a 100%);border:2px solid var(--amber);border-radius:14px;padding:16px;margin-bottom:12px}
 .input-title{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.15em;text-transform:uppercase;color:var(--amber);font-weight:700;margin-bottom:6px}
 .input-sub{font-size:12px;color:var(--text-2);margin-bottom:14px}
@@ -149,9 +161,24 @@ header{display:flex;align-items:center;justify-content:space-between;gap:10px;pa
 .gap-grid .gb-r .v{font-family:'JetBrains Mono',monospace;font-weight:700}
 .gap-grid .gb-r.big .v{font-size:14px;color:var(--amber)}
 .gap-hero.up .gap-grid .gb-r.big .v{color:var(--bull)}.gap-hero.down .gap-grid .gb-r.big .v{color:var(--bear)}
+.signals-toggle{background:transparent;border:1px dashed var(--line-2);color:var(--text-3);padding:10px 14px;cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:10px;letter-spacing:0.12em;text-transform:uppercase;width:100%;text-align:center;border-radius:7px;margin-bottom:12px;font-weight:700}
+.signals-toggle:hover{color:var(--text)}
+.signals-content{display:none;background:var(--bg-2);border:1px solid var(--line);border-radius:9px;padding:10px 12px;margin-bottom:12px}
+.signals-content.open{display:block}
+.signal-row{display:flex;align-items:center;justify-content:space-between;padding:7px 0;border-bottom:1px solid var(--line);font-size:11.5px;gap:10px}
+.signal-row:last-child{border-bottom:none}
+.sig-name{color:var(--text-2);flex:1;font-size:11px}
+.sig-detail{display:block;font-size:9.5px;color:var(--text-3);margin-top:1px;font-family:'JetBrains Mono',monospace}
+.sig-val{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:10.5px;min-width:38px;text-align:right;padding:2px 7px;border-radius:3px}
+.sig-val.up{background:rgba(45,217,163,0.15);color:var(--bull)}
+.sig-val.down{background:rgba(255,90,107,0.15);color:var(--bear)}
+.sig-val.flat{background:var(--bg-3);color:var(--text-2)}
 
 .compare-card,.trade-card{display:none}
 .compare-card.show,.trade-card.show{display:block;animation:fadeUp 0.4s ease}
+.trade-group{margin-bottom:14px}
+.trade-group-title{font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.15em;text-transform:uppercase;color:var(--text-2);font-weight:800;margin-bottom:8px;padding:6px 2px;display:flex;align-items:center;gap:8px;border-bottom:1px dashed var(--line-2)}
+.tg-dot{display:inline-block;width:10px;height:10px;border-radius:50%}
 .compare-card{background:var(--bg-2);border:1px solid var(--line);border-radius:11px;padding:12px;margin-bottom:12px}
 .compare-grid{display:grid;grid-template-columns:1fr 1fr;gap:8px}
 .compare-cell{padding:11px;background:var(--bg-3);border:1.5px solid var(--line);border-radius:9px;position:relative}
@@ -236,13 +263,22 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
 </div>
 
 <div class="flags-card">
-  <div class="flags-title">⚡ Today's Events · Tap What Applies</div>
+  <div class="flags-title">⚡ Today's Events · Auto-suggested from news + date</div>
+  <div class="suggestion-box" id="suggestionBox" style="display:none">
+    <div class="sg-title">📰 Detected from news + calendar</div>
+    <div class="sg-list" id="sgList"></div>
+    <div class="sg-hint">Tap the flags below to apply. Detection is keyword-based, verify before acting.</div>
+  </div>
   <div class="flags-row">
-    <label class="flag-toggle" data-flag="geo">🌐 Geo Escalation</label>
-    <label class="flag-toggle" data-flag="rbi">🏦 RBI Policy</label>
-    <label class="flag-toggle" data-flag="fed">🇺🇸 Fed/FOMC</label>
-    <label class="flag-toggle" data-flag="expiry">⏰ Expiry Day</label>
-    <label class="flag-toggle bull" data-flag="budget">💰 Budget</label>
+    <label class="flag-toggle" data-flag="geo">🌐 Geo Escalation <span class="auto-badge" id="auto-geo" style="display:none">AUTO</span></label>
+    <label class="flag-toggle" data-flag="rbi">🏦 RBI Policy <span class="auto-badge" id="auto-rbi" style="display:none">AUTO</span></label>
+    <label class="flag-toggle" data-flag="fed">🇺🇸 Fed/FOMC <span class="auto-badge" id="auto-fed" style="display:none">AUTO</span></label>
+    <label class="flag-toggle" data-flag="expiry">⏰ Expiry Day <span class="auto-badge" id="auto-expiry" style="display:none">AUTO</span></label>
+    <label class="flag-toggle bull" data-flag="budget">💰 Budget <span class="auto-badge" id="auto-budget" style="display:none">AUTO</span></label>
+  </div>
+  <div class="muhurat-row" id="muhuratRow" style="display:none">
+    <span class="muhurat-badge" id="muhuratRahu" style="display:none">🕉 Rahu Kaal Active</span>
+    <span class="muhurat-badge" id="muhuratYama" style="display:none">🕉 Yamaganda Active</span>
   </div>
 </div>
 
@@ -366,56 +402,101 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
   </div>
 </div>
 
+<button class="signals-toggle" id="sigToggle" style="display:none">▾ All Signals · Why this gap prediction</button>
+<div class="signals-content" id="signalsList"></div>
+
 <div class="compare-card" id="compareCard">
-  <div class="news-title">Side-by-Side · Engine Pick</div>
+  <div class="news-title">Engine Bias · Both Indices</div>
   <div class="compare-grid">
-    <div class="compare-cell" id="cmpNifty"><span class="pick-tag">Picked</span><div class="ch">Nifty 50</div><div class="cscore" id="nScore">—</div><div class="clab" id="nLabel">—</div></div>
-    <div class="compare-cell" id="cmpBN"><span class="pick-tag">Picked</span><div class="ch">Bank Nifty</div><div class="cscore" id="bScore">—</div><div class="clab" id="bLabel">—</div></div>
+    <div class="compare-cell" id="cmpNifty"><div class="ch">Nifty 50</div><div class="cscore" id="nScore">—</div><div class="clab" id="nLabel">—</div></div>
+    <div class="compare-cell" id="cmpBN"><div class="ch">Bank Nifty</div><div class="cscore" id="bScore">—</div><div class="clab" id="bLabel">—</div></div>
   </div>
 </div>
 
-<div class="trade-card" id="tradeSafe">
-  <div class="trade-stripe"><span>⚡ Conservative · Spread <span class="risk-tag safe">SAFE</span></span><span id="safeScore">—</span></div>
-  <div class="trade-body">
-    <div class="trade-name" id="safeName">—</div>
-    <div class="trade-meta" id="safeMeta">—</div>
-    <div class="pivot-context" id="safePivotCtx" style="display:none"></div>
-    <div id="safeLegs"></div>
-    <div class="numbers">
-      <div class="num"><div class="nk">Max Risk / Lot</div><div class="nv" id="safeRisk">—</div></div>
-      <div class="num"><div class="nk">Max Reward / Lot</div><div class="nv" id="safeReward">—</div></div>
-      <div class="num"><div class="nk">Suggested Lots</div><div class="nv" id="safeLots">—</div></div>
-      <div class="num"><div class="nk">Stop Level</div><div class="nv" id="safeStop">—</div></div>
+<div class="trade-group" id="tradeGroupN" style="display:none">
+  <div class="trade-group-title"><span class="tg-dot" style="background:var(--amber)"></span>Nifty 50 · Trade Setups</div>
+
+  <div class="trade-card" id="tradeSafe_n">
+    <div class="trade-stripe"><span>⚡ Conservative · Spread <span class="risk-tag safe">SAFE</span></span><span id="safeScore_n">—</span></div>
+    <div class="trade-body">
+      <div class="trade-name" id="safeName_n">—</div>
+      <div class="trade-meta" id="safeMeta_n">—</div>
+      <div class="pivot-context" id="safePivotCtx_n" style="display:none"></div>
+      <div id="safeLegs_n"></div>
+      <div class="numbers">
+        <div class="num"><div class="nk">Max Risk / Lot</div><div class="nv" id="safeRisk_n">—</div></div>
+        <div class="num"><div class="nk">Max Reward / Lot</div><div class="nv" id="safeReward_n">—</div></div>
+        <div class="num"><div class="nk">Suggested Lots</div><div class="nv" id="safeLots_n">—</div></div>
+        <div class="num"><div class="nk">Stop Level</div><div class="nv" id="safeStop_n">—</div></div>
+      </div>
+      <div class="layman"><div class="layman-h">What To Do</div><div id="safeSteps_n"></div></div>
     </div>
-    <div class="layman"><div class="layman-h">What To Do</div><div id="safeSteps"></div></div>
+  </div>
+
+  <div class="trade-card" id="tradeRisky_n">
+    <div class="trade-stripe"><span>🔥 Aggressive · Naked <span class="risk-tag risky">RISKY</span></span><span id="riskyScore_n">—</span></div>
+    <div class="trade-body">
+      <div class="trade-name" id="riskyName_n">—</div>
+      <div class="trade-meta" id="riskyMeta_n">—</div>
+      <div id="riskyLegs_n"></div>
+      <div class="numbers">
+        <div class="num"><div class="nk">Max Risk / Lot</div><div class="nv" id="riskyRisk_n">—</div></div>
+        <div class="num"><div class="nk">Potential Reward</div><div class="nv" id="riskyReward_n">—</div></div>
+        <div class="num"><div class="nk">Suggested Lots</div><div class="nv" id="riskyLots_n">—</div></div>
+        <div class="num"><div class="nk">Stop Level</div><div class="nv" id="riskyStop_n">—</div></div>
+      </div>
+      <div class="layman"><div class="layman-h">What To Do</div><div id="riskySteps_n"></div></div>
+      <div class="risk-warn"><strong>⚠ Risk</strong>Naked options can lose 100% overnight. SEBI: ~93% F&amp;O traders lose money.</div>
+    </div>
   </div>
 </div>
 
-<div class="trade-card" id="tradeRisky">
-  <div class="trade-stripe"><span>🔥 Aggressive · Naked <span class="risk-tag risky">RISKY</span></span><span id="riskyScore">—</span></div>
-  <div class="trade-body">
-    <div class="trade-name" id="riskyName">—</div>
-    <div class="trade-meta" id="riskyMeta">—</div>
-    <div id="riskyLegs"></div>
-    <div class="numbers">
-      <div class="num"><div class="nk">Max Risk / Lot</div><div class="nv" id="riskyRisk">—</div></div>
-      <div class="num"><div class="nk">Potential Reward</div><div class="nv" id="riskyReward">—</div></div>
-      <div class="num"><div class="nk">Suggested Lots</div><div class="nv" id="riskyLots">—</div></div>
-      <div class="num"><div class="nk">Stop Level</div><div class="nv" id="riskyStop">—</div></div>
+<div class="trade-group" id="tradeGroupB" style="display:none">
+  <div class="trade-group-title"><span class="tg-dot" style="background:var(--violet)"></span>Bank Nifty · Trade Setups</div>
+
+  <div class="trade-card" id="tradeSafe_b">
+    <div class="trade-stripe"><span>⚡ Conservative · Spread <span class="risk-tag safe">SAFE</span></span><span id="safeScore_b">—</span></div>
+    <div class="trade-body">
+      <div class="trade-name" id="safeName_b">—</div>
+      <div class="trade-meta" id="safeMeta_b">—</div>
+      <div class="pivot-context" id="safePivotCtx_b" style="display:none"></div>
+      <div id="safeLegs_b"></div>
+      <div class="numbers">
+        <div class="num"><div class="nk">Max Risk / Lot</div><div class="nv" id="safeRisk_b">—</div></div>
+        <div class="num"><div class="nk">Max Reward / Lot</div><div class="nv" id="safeReward_b">—</div></div>
+        <div class="num"><div class="nk">Suggested Lots</div><div class="nv" id="safeLots_b">—</div></div>
+        <div class="num"><div class="nk">Stop Level</div><div class="nv" id="safeStop_b">—</div></div>
+      </div>
+      <div class="layman"><div class="layman-h">What To Do</div><div id="safeSteps_b"></div></div>
     </div>
-    <div class="layman"><div class="layman-h">What To Do</div><div id="riskySteps"></div></div>
-    <div class="risk-warn"><strong>⚠ Risk</strong>Naked options can lose 100% overnight. SEBI: ~93% F&amp;O traders lose money.</div>
+  </div>
+
+  <div class="trade-card" id="tradeRisky_b">
+    <div class="trade-stripe"><span>🔥 Aggressive · Naked <span class="risk-tag risky">RISKY</span></span><span id="riskyScore_b">—</span></div>
+    <div class="trade-body">
+      <div class="trade-name" id="riskyName_b">—</div>
+      <div class="trade-meta" id="riskyMeta_b">—</div>
+      <div id="riskyLegs_b"></div>
+      <div class="numbers">
+        <div class="num"><div class="nk">Max Risk / Lot</div><div class="nv" id="riskyRisk_b">—</div></div>
+        <div class="num"><div class="nk">Potential Reward</div><div class="nv" id="riskyReward_b">—</div></div>
+        <div class="num"><div class="nk">Suggested Lots</div><div class="nv" id="riskyLots_b">—</div></div>
+        <div class="num"><div class="nk">Stop Level</div><div class="nv" id="riskyStop_b">—</div></div>
+      </div>
+      <div class="layman"><div class="layman-h">What To Do</div><div id="riskySteps_b"></div></div>
+      <div class="risk-warn"><strong>⚠ Risk</strong>Naked options can lose 100% overnight. SEBI: ~93% F&amp;O traders lose money.</div>
+    </div>
   </div>
 </div>
 
 <div class="disclaimer">
-  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.6 · Pivot-aware engine · No-cache</strong>
-  Backend fetches via yfinance every 10 min. Pre-Market uses today's session for tomorrow's pivots. Live Trade uses yesterday's session for today's pivots. Engine factors pivot proximity into trade selection. Not investment advice.
+  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.7 · Pro-engine · Dual-index · Auto-events</strong>
+  Backend fetches via yfinance every 10 min. Pre-Market factors US/Asia/Europe overnight, USD/INR, Brent, Gold, BTC, DXY, VIX direction+level, geo/RBI/Fed/expiry/budget flags, and Muhurat into gap prediction. Live Trade builds setups for BOTH Nifty and Bank Nifty independently. Engine reduces position size during Rahu Kaal / Yamaganda. Not investment advice.
 </div>
 
 <footer>
   <span class="tag">நல்ல வர்த்தகம் · Trade Well</span>
-  v19.6 · pivot-aware · no-cache
+  v19.7 · pro-engine · dual-index · auto-events
 </footer>
 
 </div>
@@ -424,14 +505,28 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
 const data = {};
 const sessions = {};
 let mode = 'premarket';
-let currentTrade = null;
-let currentPivots = null;
+// currentTrades object now holds per-index trade state (see below)
 let optionChain = null;
-const flags = {geo:false,rbi:false,fed:false,expiry:false,budget:false};
+const flags = {geo:false,rbi:false,fed:false,expiry:false,budget:false,muhuratRahu:false,muhuratYama:false};
 
 function istNow(){const n=new Date();return new Date(n.getTime()+(n.getTimezoneOffset()*60000)+(5.5*3600000))}
 function fmt(n,dec=2){if(n==null||isNaN(n))return'—';return Number(n).toLocaleString('en-IN',{minimumFractionDigits:dec,maximumFractionDigits:dec})}
 function fmtDate(s){if(!s)return'—';const d=new Date(s);return d.toLocaleDateString('en-IN',{day:'2-digit',month:'short'})}
+
+// Muhurat: traditional Hindu inauspicious time slots
+// Rahu Kaal and Yamaganda — each ~90 minutes, slot varies by weekday
+function muhuratNow(){
+  const ist=istNow();
+  const dow=ist.getDay(); // 0=Sun, 1=Mon...6=Sat
+  // Rahu Kaal slot (1-8) for each day: standard Vedic table, slot of 90min starting 6 AM
+  const rahuSlot = {1:2, 2:7, 3:5, 4:6, 5:4, 6:3, 0:8}[dow];
+  const yamaSlot = {1:4, 2:3, 3:2, 4:1, 5:7, 6:6, 0:5}[dow];
+  const slotMins = (slot)=>({s:6*60+(slot-1)*90, e:6*60+slot*90});
+  const r = slotMins(rahuSlot);
+  const y = slotMins(yamaSlot);
+  const nowMin = ist.getHours()*60 + ist.getMinutes();
+  return {inRahu: nowMin>=r.s && nowMin<r.e, inYama: nowMin>=y.s && nowMin<y.e};
+}
 function detectSession(){
   const ist=istNow();const min=ist.getHours()*60+ist.getMinutes();const dow=ist.getDay();
   if(dow===0||dow===6)return{tag:'WEEKEND',w:{us:1.2,eu:0.8,asia:1.0,mom:0.5,piv:0.8,vix:1.0}};
@@ -595,11 +690,120 @@ function renderNews(newsData){
 }
 function escapeHtml(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')}
 
+// ============================================
+// EVENT AUTO-DETECTION from news headlines + calendar
+// ============================================
+const EVENT_KEYWORDS = {
+  geo: {
+    label:'Geo Escalation',
+    patterns:[/\biran\b/i,/\bisrael\b/i,/\bgaza\b/i,/\brussia\b/i,/\bukraine\b/i,/\bdrone strike\b/i,/\bmissile\b/i,/\bwar\b/i,/\bretaliat/i,/\bescalat/i,/\bnuclear\b/i,/\bhouthi\b/i,/\bhamas\b/i,/\battack\b/i],
+  },
+  rbi: {
+    label:'RBI Policy',
+    patterns:[/\brbi\b/i,/\bmpc\b/i,/\brepo rate\b/i,/\bmonetary policy\b/i,/\breserve bank\b/i,/\bmalhotra\b/i,/\bdas\b.*\brbi\b/i],
+  },
+  fed: {
+    label:'Fed/FOMC',
+    patterns:[/\bfed\b/i,/\bfomc\b/i,/\bpowell\b/i,/\brate decision\b/i,/\brate cut\b/i,/\brate hike\b/i,/\bjackson hole\b/i,/\bjerome\b/i,/\bfederal reserve\b/i,/\bwarsh\b/i],
+  },
+  budget: {
+    label:'Budget',
+    patterns:[/\bunion budget\b/i,/\bbudget 202[0-9]\b/i,/\bsitharaman\b/i,/\bfiscal deficit\b/i,/\bbudget allocation\b/i],
+  },
+};
+
+function detectExpiryDay(){
+  const ist=istNow();
+  const dow=ist.getDay();
+  const hour=ist.getHours();
+  // Tuesday is weekly expiry for Nifty (post Sep 2025 rule). BN expires Wednesday (varies, currently same).
+  // Trigger: Monday after 3:30 PM (planning for Tue) OR Tuesday all day
+  if(dow===2) return {triggered:true,reason:'Today is Tuesday — weekly Nifty/BN expiry'};
+  if(dow===1 && hour>=15) return {triggered:true,reason:'Tomorrow is Tuesday — weekly expiry'};
+  return {triggered:false};
+}
+
+function scanHeadlinesForEvents(newsData){
+  const detected = {geo:[],rbi:[],fed:[],budget:[]};
+  if(!newsData||!newsData.items) return detected;
+  const items = newsData.items.slice(0,30);
+  for(const item of items){
+    const title = item.title || '';
+    for(const [key, def] of Object.entries(EVENT_KEYWORDS)){
+      for(const pat of def.patterns){
+        if(pat.test(title)){
+          detected[key].push({title, src:item.src});
+          break;
+        }
+      }
+    }
+  }
+  return detected;
+}
+
+function applyEventDetection(newsData){
+  const detected = scanHeadlinesForEvents(newsData);
+  const expiry = detectExpiryDay();
+  const muh = muhuratNow();
+  
+  // Build suggestion list
+  const suggestions = [];
+  for(const [key, hits] of Object.entries(detected)){
+    if(hits.length > 0){
+      suggestions.push({
+        key, count:hits.length,
+        label:EVENT_KEYWORDS[key].label,
+        sample:hits[0].title,
+        src:hits[0].src,
+      });
+      // Mark flag as suggested
+      document.querySelector(`[data-flag="${key}"]`)?.classList.add('suggested');
+      const badge = document.getElementById('auto-'+key);
+      if(badge) badge.style.display='inline-block';
+    } else {
+      document.querySelector(`[data-flag="${key}"]`)?.classList.remove('suggested');
+      const badge = document.getElementById('auto-'+key);
+      if(badge) badge.style.display='none';
+    }
+  }
+  
+  if(expiry.triggered){
+    suggestions.push({key:'expiry', count:1, label:'Expiry Day', sample:expiry.reason, src:'Calendar'});
+    document.querySelector('[data-flag="expiry"]')?.classList.add('suggested');
+    document.getElementById('auto-expiry').style.display='inline-block';
+  } else {
+    document.querySelector('[data-flag="expiry"]')?.classList.remove('suggested');
+    document.getElementById('auto-expiry').style.display='none';
+  }
+  
+  // Muhurat badges
+  document.getElementById('muhuratRahu').style.display = muh.inRahu ? 'inline-block' : 'none';
+  document.getElementById('muhuratYama').style.display = muh.inYama ? 'inline-block' : 'none';
+  document.getElementById('muhuratRow').style.display = (muh.inRahu || muh.inYama) ? 'flex' : 'none';
+  flags.muhuratRahu = muh.inRahu;
+  flags.muhuratYama = muh.inYama;
+  
+  // Render suggestion box
+  const box = document.getElementById('suggestionBox');
+  const list = document.getElementById('sgList');
+  if(suggestions.length === 0){
+    box.style.display = 'none';
+  } else {
+    box.style.display = 'block';
+    list.innerHTML = suggestions.map(s=>{
+      const sampleText = s.key==='expiry'
+        ? `<span class="sg-quote">${escapeHtml(s.sample)}</span>`
+        : `<span class="sg-quote">"${escapeHtml(s.sample.slice(0,80))}${s.sample.length>80?'…':''}"</span> · ${s.src}`;
+      return `<div class="sg-item"><span class="sg-tag">${s.label}${s.count>1?' ×'+s.count:''}</span>${sampleText}</div>`;
+    }).join('');
+  }
+}
+
 async function refreshAll(){
   const [snap,oc,news]=await Promise.all([loadSnapshot(),loadOptionChain(),loadNews()]);
   if(snap)applySnapshot(snap);
   if(oc)optionChain=oc;
-  if(news)renderNews(news);
+  if(news){renderNews(news); applyEventDetection(news);}
 }
 
 // PIVOT DISPLAY (Pre-Market mode)
@@ -848,8 +1052,151 @@ function setMode(newMode){
   document.getElementById('pivotCard_n').classList.remove('show');
   document.getElementById('pivotCard_b').classList.remove('show');
   document.getElementById('compareCard').classList.remove('show');
-  document.getElementById('tradeSafe').classList.remove('show');
-  document.getElementById('tradeRisky').classList.remove('show');
+  document.getElementById('tradeGroupN').style.display = 'none';
+  document.getElementById('tradeGroupB').style.display = 'none';
+  document.getElementById('tradeSafe_n').classList.remove('show');
+  document.getElementById('tradeRisky_n').classList.remove('show');
+  document.getElementById('tradeSafe_b').classList.remove('show');
+  document.getElementById('tradeRisky_b').classList.remove('show');
+  const sigList = document.getElementById('signalsList');
+  if(sigList) sigList.classList.remove('open');
+  const sigToggle = document.getElementById('sigToggle');
+  if(sigToggle){sigToggle.style.display='none'; sigToggle.textContent='▾ All Signals · Why this gap prediction';}
+}
+
+// COMPREHENSIVE GAP PREDICTOR — factors all global cues + events + VIX + muhurat
+function predictGap(prevClose){
+  let pctGap = 0;
+  const sigs = [];
+  const ist = istNow();
+  const isMonday = ist.getDay() === 1;
+  const weekendMult = isMonday ? 1.6 : 1.0;
+
+  // US overnight (S&P + Nasdaq + Dow average)
+  const usVals = [data.SP?.pct, data.NDX?.pct, data.DOW?.pct].filter(v=>v!=null);
+  if(usVals.length){
+    const usAvg = usVals.reduce((a,b)=>a+b,0) / usVals.length;
+    const contrib = usAvg * 0.35 * weekendMult;
+    pctGap += contrib;
+    sigs.push({n:`US overnight${isMonday?' (×1.6 wknd)':''}`, d:`avg ${usAvg>0?'+':''}${usAvg.toFixed(2)}%`, s:Math.round(contrib*10), w:0.35});
+  }
+
+  // Asian session
+  const asianVals = [data.NIK?.pct, data.HSI?.pct].filter(v=>v!=null);
+  if(asianVals.length){
+    const asiaAvg = asianVals.reduce((a,b)=>a+b,0) / asianVals.length;
+    const contrib = asiaAvg * 0.20;
+    pctGap += contrib;
+    sigs.push({n:'Asia (Nikkei+HSI)', d:`avg ${asiaAvg>0?'+':''}${asiaAvg.toFixed(2)}%`, s:Math.round(contrib*10), w:0.20});
+  }
+
+  // European close
+  const euVals = [data.DAX?.pct, data.FTSE?.pct].filter(v=>v!=null);
+  if(euVals.length){
+    const euAvg = euVals.reduce((a,b)=>a+b,0) / euVals.length;
+    const contrib = euAvg * 0.10;
+    pctGap += contrib;
+    sigs.push({n:'Europe (DAX+FTSE)', d:`avg ${euAvg>0?'+':''}${euAvg.toFixed(2)}%`, s:Math.round(contrib*10), w:0.10});
+  }
+
+  // USD/INR (rupee weakening = bearish for India)
+  const inrPct = data.INR?.pct;
+  if(inrPct!=null){
+    const contrib = -inrPct * 0.5;
+    pctGap += contrib;
+    sigs.push({n:'USD/INR', d:`${inrPct>0?'+':''}${inrPct.toFixed(2)}% (${inrPct>0?'rupee weak':'rupee strong'})`, s:Math.round(contrib*10), w:0.10});
+  }
+
+  // Brent crude (>$110 = bearish for India)
+  const brent = data.BRENT?.price;
+  const brentPct = data.BRENT?.pct;
+  if(brent!=null && brentPct!=null){
+    let contrib = 0, tag = '';
+    if(brent > 110 && brentPct > 1){contrib = -0.15; tag = `${brent.toFixed(0)} surging (>$110 bearish)`;}
+    else if(brentPct > 2){contrib = -0.10; tag = `${brent.toFixed(0)} jumping +${brentPct.toFixed(2)}%`;}
+    else if(brentPct > 1){contrib = -0.06; tag = `${brent.toFixed(0)} +${brentPct.toFixed(2)}%`;}
+    else if(brentPct < -2){contrib = +0.08; tag = `${brent.toFixed(0)} falling ${brentPct.toFixed(2)}%`;}
+    else if(brentPct < -1){contrib = +0.04; tag = `${brent.toFixed(0)} ${brentPct.toFixed(2)}%`;}
+    if(contrib !== 0){
+      pctGap += contrib;
+      sigs.push({n:'Brent crude', d:tag, s:Math.round(contrib*100), w:0.08});
+    }
+  }
+
+  // Gold (safe-haven flow)
+  const goldPct = data.GOLD?.pct;
+  if(goldPct!=null && Math.abs(goldPct) > 1){
+    const contrib = -goldPct * 0.05;
+    pctGap += contrib;
+    sigs.push({n:'Gold (safe-haven)', d:`${goldPct>0?'+':''}${goldPct.toFixed(2)}%`, s:Math.round(contrib*50), w:0.05});
+  }
+
+  // BTC sentiment
+  const btcPct = data.BTC?.pct;
+  if(btcPct!=null && Math.abs(btcPct) > 2){
+    const contrib = btcPct * 0.03;
+    pctGap += contrib;
+    sigs.push({n:'BTC (risk-on)', d:`${btcPct>0?'+':''}${btcPct.toFixed(2)}%`, s:Math.round(contrib*30), w:0.05});
+  }
+
+  // DXY (dollar strength)
+  const dxyPct = data.DXY?.pct;
+  if(dxyPct!=null && Math.abs(dxyPct) > 0.3){
+    const contrib = -dxyPct * 0.2;
+    pctGap += contrib;
+    sigs.push({n:'DXY (dollar idx)', d:`${dxyPct>0?'+':''}${dxyPct.toFixed(2)}%`, s:Math.round(contrib*30), w:0.05});
+  }
+
+  // VIX direction & level
+  const vix = parseFloat(document.getElementById('vix').value);
+  const vixChg = parseFloat(document.getElementById('vixChg').value);
+  if(!isNaN(vixChg) && Math.abs(vixChg) > 2){
+    let contrib = 0, tag = '';
+    if(vixChg > 8){contrib = -0.20; tag = `+${vixChg.toFixed(2)}% spike`;}
+    else if(vixChg > 4){contrib = -0.12; tag = `+${vixChg.toFixed(2)}% rising`;}
+    else if(vixChg > 2){contrib = -0.06; tag = `+${vixChg.toFixed(2)}%`;}
+    else if(vixChg < -8){contrib = +0.12; tag = `${vixChg.toFixed(2)}% collapse`;}
+    else if(vixChg < -4){contrib = +0.07; tag = `${vixChg.toFixed(2)}% easing`;}
+    else if(vixChg < -2){contrib = +0.03; tag = `${vixChg.toFixed(2)}%`;}
+    if(contrib !== 0){
+      pctGap += contrib;
+      sigs.push({n:'VIX Δ direction', d:tag, s:Math.round(contrib*50), w:0.12});
+    }
+  }
+  if(!isNaN(vix)){
+    let vixMult = 1.0, tag = `${vix.toFixed(2)} normal`;
+    if(vix > 22){vixMult = 1.4; tag = `${vix.toFixed(2)} extreme fear`;}
+    else if(vix > 18){vixMult = 1.2; tag = `${vix.toFixed(2)} elevated`;}
+    else if(vix < 13){vixMult = 0.8; tag = `${vix.toFixed(2)} complacent`;}
+    pctGap *= vixMult;
+    sigs.push({n:'VIX level', d:tag, s:vixMult>1?+1:vixMult<1?-1:0, w:0});
+  }
+
+  // Event flags
+  if(flags.geo){pctGap -= 0.3; sigs.push({n:'🌐 Geo escalation', d:'−0.3% bias', s:-3, w:0});}
+  if(flags.rbi){pctGap *= 1.2; sigs.push({n:'🏦 RBI policy day', d:'×1.2 amplifier', s:0, w:0});}
+  if(flags.fed){pctGap *= 1.15; sigs.push({n:'🇺🇸 Fed/FOMC', d:'×1.15 amplifier', s:0, w:0});}
+  if(flags.expiry){pctGap *= 1.1; sigs.push({n:'⏰ Expiry day', d:'×1.1 (prefer spreads)', s:0, w:0});}
+  if(flags.budget){pctGap += 0.2; sigs.push({n:'💰 Budget optimism', d:'+0.2% bias', s:+2, w:0});}
+  if(flags.muhuratRahu){sigs.push({n:'🕉 Rahu Kaal', d:'Active — reduce size', s:-1, w:0});}
+  if(flags.muhuratYama){sigs.push({n:'🕉 Yamaganda', d:'Active — reduce size', s:-1, w:0});}
+
+  // Confidence calculation — based on signal alignment
+  let confidence = 30;
+  const weightedSigs = sigs.filter(s => s.w > 0);
+  if(weightedSigs.length > 0){
+    const dominantSign = Math.sign(pctGap) || 1;
+    let alignedWeight = 0, totalWeight = 0;
+    for(const s of weightedSigs){
+      totalWeight += s.w;
+      if(Math.sign(s.s) === dominantSign) alignedWeight += s.w;
+    }
+    const alignmentRatio = totalWeight > 0 ? alignedWeight / totalWeight : 0;
+    confidence = Math.round(35 + alignmentRatio * 45 + Math.min(15, Math.abs(pctGap) * 10));
+    confidence = Math.min(92, Math.max(25, confidence));
+  }
+
+  return {pctGap, confidence, sigs};
 }
 
 function runPremarket(){
@@ -862,43 +1209,61 @@ function runPremarket(){
   const vix=parseFloat(document.getElementById('vix').value);
   if([nHigh,nLow,nClose,bHigh,bLow,bClose,vix].some(v=>isNaN(v)||v<=0)){alert('Inputs missing.');return;}
 
-  // Calculate pivots for Nifty (the displayed one)
   const nPiv=calcPivots(nHigh,nLow,nClose);
   const bPiv=calcPivots(bHigh,bLow,bClose);
-
   renderPivots('n','Nifty 50',nPiv);
   renderPivots('b','Bank Nifty',bPiv);
 
-  // Simple gap prediction based on global cues
-  const usAvg=((data.SP?.pct||0)+(data.NDX?.pct||0))/2;
-  const pctGap=usAvg*0.35;
-  const gapPts=(pctGap/100)*nClose;
-  const bnPts=(pctGap*1.3/100)*bClose;
-  const nOpen=nClose+gapPts;
-  const bOpen=bClose+bnPts;
+  // Comprehensive gap prediction
+  const result = predictGap(nClose);
+  const pctGap = result.pctGap;
+  const bnPct = pctGap * 1.3; // BN typically 1.3× Nifty's move
+
+  const gapPts = (pctGap/100) * nClose;
+  const bnPts = (bnPct/100) * bClose;
+  const nOpen = nClose + gapPts;
+  const bOpen = bClose + bnPts;
 
   let gapClass,arrow,stripeLabel,headline;
-  const absPct=Math.abs(pctGap);
-  if(absPct<0.08){gapClass='flat';arrow='≈';stripeLabel='Flat Open Expected';headline=`Nifty likely opens <span class="pts">flat</span> near ${fmt(nClose,0)}`;}
-  else if(pctGap>0){gapClass='up';arrow='▲';stripeLabel='Gap-Up Expected';headline=`Nifty likely <span class="pts">gaps up +${fmt(gapPts,0)} pts</span> opens near ${fmt(nOpen,0)}`;}
-  else{gapClass='down';arrow='▼';stripeLabel='Gap-Down Expected';headline=`Nifty likely <span class="pts">gaps down ${fmt(gapPts,0)} pts</span> opens near ${fmt(nOpen,0)}`;}
+  const absPct = Math.abs(pctGap);
+  if(absPct < 0.08){gapClass='flat'; arrow='≈'; stripeLabel='Flat Open Expected'; headline=`Both indices likely open <span class="pts">flat</span>`;}
+  else if(pctGap > 0){gapClass='up'; arrow='▲'; stripeLabel=absPct<0.3?'Small Gap-Up':'Gap-Up Expected'; headline=`<span class="pts">GAP UP</span> · Both indices open higher`;}
+  else{gapClass='down'; arrow='▼'; stripeLabel=absPct<0.3?'Small Gap-Down':'Gap-Down Expected'; headline=`<span class="pts">GAP DOWN</span> · Both indices open lower`;}
 
-  const hero=document.getElementById('gapHero');
-  hero.classList.remove('up','down','flat');hero.classList.add('show',gapClass);
-  document.getElementById('gapStripeLabel').textContent=stripeLabel;
-  document.getElementById('gapBadge').textContent=`${Math.round(50+Math.abs(usAvg)*15)}% conf`;
-  document.getElementById('gapArrow').textContent=arrow;
-  document.getElementById('gapHeadline').innerHTML=headline;
-  document.getElementById('nPrev').textContent=fmt(nClose,0);
-  document.getElementById('nGap').textContent=(gapPts>=0?'+':'')+fmt(gapPts,0);
-  document.getElementById('nOpen').textContent=fmt(nOpen,0);
-  document.getElementById('bPrev').textContent=fmt(bClose,0);
-  document.getElementById('bGap').textContent=(bnPts>=0?'+':'')+fmt(bnPts,0);
-  document.getElementById('bOpen').textContent=fmt(bOpen,0);
+  const hero = document.getElementById('gapHero');
+  hero.classList.remove('up','down','flat'); hero.classList.add('show', gapClass);
+  document.getElementById('gapStripeLabel').textContent = stripeLabel;
+  document.getElementById('gapBadge').textContent = `${result.confidence}% conf`;
+  document.getElementById('gapArrow').textContent = arrow;
+  document.getElementById('gapHeadline').innerHTML = headline;
+  document.getElementById('nPrev').textContent = fmt(nClose,0);
+  document.getElementById('nGap').textContent = (gapPts>=0?'+':'')+fmt(gapPts,0);
+  document.getElementById('nOpen').textContent = fmt(nOpen,0);
+  document.getElementById('bPrev').textContent = fmt(bClose,0);
+  document.getElementById('bGap').textContent = (bnPts>=0?'+':'')+fmt(bnPts,0);
+  document.getElementById('bOpen').textContent = fmt(bOpen,0);
+
+  // Render signals panel
+  renderSignals(result.sigs);
+
   document.getElementById('pivotCard_n').scrollIntoView({behavior:'smooth',block:'start'});
 }
 
-function renderLegRow(leg,idx,kind){
+function renderSignals(sigs){
+  const el = document.getElementById('signalsList');
+  const toggle = document.getElementById('sigToggle');
+  if(!el || !sigs || sigs.length === 0){
+    if(toggle) toggle.style.display = 'none';
+    return;
+  }
+  el.innerHTML = sigs.map(s=>{
+    const dir = s.s>0?'up':s.s<0?'down':'flat';
+    return `<div class="signal-row"><div class="sig-name">${s.n}<span class="sig-detail">${s.d}</span></div><div class="sig-val ${dir}">${s.s>0?'+':''}${s.s}</div></div>`;
+  }).join('');
+  if(toggle) toggle.style.display = 'block';
+}
+
+function renderLegRow(leg,idx,kind,suffix){
   const liveValue=(leg.livePrem!=null&&!isNaN(leg.livePrem))?leg.livePrem.toFixed(2):'';
   return `<div class="leg-row">
     <div class="leg-top">
@@ -907,10 +1272,112 @@ function renderLegRow(leg,idx,kind){
     </div>
     <div class="leg-mid">
       <span class="leg-est">Est <strong>₹${fmt(leg.prem,1)}</strong>/sh</span>
-      <span class="leg-live-input"><span class="live-lab">Live ₹</span><input type="number" data-kind="${kind}" data-idx="${idx}" value="${liveValue}" placeholder="${leg.prem.toFixed(1)}" step="0.05" inputmode="decimal" /></span>
+      <span class="leg-live-input"><span class="live-lab">Live ₹</span><input type="number" data-kind="${kind}" data-idx="${idx}" data-suffix="${suffix||'n'}" value="${liveValue}" placeholder="${leg.prem.toFixed(1)}" step="0.05" inputmode="decimal" /></span>
     </div>
     <button class="copy-btn" data-sym="${leg.sym}">⧉ Copy</button>
   </div>`;
+}
+
+// Holds current trades per index so live-premium inputs can update them
+const currentTrades = {n:null, b:null};
+
+function eventModifiersScore(ctxBiasScore){
+  // Returns score adjustment from event flags
+  let delta = 0;
+  if(flags.geo) delta -= 6;
+  if(flags.budget) delta += 4;
+  if(flags.muhuratRahu) delta -= 2;
+  if(flags.muhuratYama) delta -= 1;
+  // RBI/Fed are bias amplifiers, not direct adjustments
+  return delta;
+}
+
+function scoreFromCtx(ctx){
+  let s = 50;
+  const biasMap = {'extreme-bull':+25,'strong-bull':+18,'bull':+12,'mild-bull':+6,'neutral':0,'mild-bear':-6,'bear':-12,'strong-bear':-18,'extreme-bear':-25};
+  s += biasMap[ctx.bias] || 0;
+  if(ctx.inCPR) s += ctx.cprType === 'narrow' ? 0 : 5;
+  // Apply event modifiers
+  s += eventModifiersScore();
+  // RBI/Fed amplify bias direction
+  const ampMult = (flags.rbi ? 1.2 : 1) * (flags.fed ? 1.15 : 1);
+  if(ampMult > 1){
+    const diff = s - 50;
+    s = 50 + diff * ampMult;
+  }
+  return Math.round(Math.max(0, Math.min(100, s)));
+}
+
+function renderTradeGroup(suffix, indexName, spot, piv, vix, score){
+  const und = suffix === 'n' ? 'NIFTY' : 'BANKNIFTY';
+  const trade = buildTradeWithPivots(spot, piv, vix, und);
+  currentTrades[suffix] = trade;
+
+  // Reduce position size if muhurat or specific events
+  const muhuratPenalty = (flags.muhuratRahu || flags.muhuratYama) ? 0.75 : 1.0;
+  const expiryAdjust = flags.expiry ? 0.85 : 1.0; // smaller size on expiry day
+  const sizingMult = muhuratPenalty * expiryAdjust;
+
+  // Render SAFE (spread)
+  const safeCard = document.getElementById('tradeSafe_'+suffix);
+  safeCard.classList.remove('bull','bear','neutral');
+  safeCard.classList.add('show', trade.bias);
+  document.getElementById('safeScore_'+suffix).textContent = `${score}/100`;
+  document.getElementById('safeName_'+suffix).innerHTML = `Engine reads <span class="name-em">${trade.ctx.bias.replace('-',' ')}</span> · ${trade.spread.name}`;
+  document.getElementById('safeMeta_'+suffix).innerHTML = `${trade.und} <strong>${fmt(spot)}</strong> · VIX <strong>${fmt(vix)}</strong> · Exp <strong>${trade.exp.str}</strong>`;
+  const pctxEl = document.getElementById('safePivotCtx_'+suffix);
+  pctxEl.style.display = 'block';
+  const flagBadges = [];
+  if(flags.geo) flagBadges.push('🌐 Geo');
+  if(flags.rbi) flagBadges.push('🏦 RBI×1.2');
+  if(flags.fed) flagBadges.push('🇺🇸 Fed×1.15');
+  if(flags.expiry) flagBadges.push('⏰ Expiry');
+  if(flags.budget) flagBadges.push('💰 Budget');
+  if(flags.muhuratRahu) flagBadges.push('🕉 Rahu');
+  if(flags.muhuratYama) flagBadges.push('🕉 Yama');
+  const flagLine = flagBadges.length ? `<div class="pv-line" style="margin-top:5px;color:var(--amber)">Events: ${flagBadges.join(' · ')}${sizingMult<1?` · sizing ×${sizingMult.toFixed(2)}`:''}</div>` : '';
+  pctxEl.innerHTML = `<strong>📐 Pivot Logic</strong>
+    <div class="pv-line">${trade.strategyReason}</div>
+    <div class="pv-line" style="margin-top:5px">Pivot <b>${fmt(piv.P,0)}</b> · CPR <b>${fmt(piv.BC,0)}-${fmt(piv.TC,0)}</b> (${piv.cprType})</div>
+    <div class="pv-line">R1 <b>${fmt(piv.R1,0)}</b> · R2 <b>${fmt(piv.R2,0)}</b> · S1 <b>${fmt(piv.S1,0)}</b> · S2 <b>${fmt(piv.S2,0)}</b></div>
+    ${flagLine}`;
+  document.getElementById('safeLegs_'+suffix).innerHTML = trade.spread.legs.map((l,i)=>renderLegRow(l,i,'spread',suffix)).join('');
+  const sc = recalcSpread(trade);
+  document.getElementById('safeRisk_'+suffix).textContent = '₹'+fmt(sc.maxRisk,0);
+  document.getElementById('safeReward_'+suffix).textContent = '₹'+fmt(sc.maxReward,0);
+  document.getElementById('safeStop_'+suffix).textContent = typeof trade.stop==='number'?fmt(trade.stop,0):trade.stop;
+  const cap = parseFloat(document.getElementById('capital').value);
+  const lots = (!isNaN(cap)&&cap>0&&sc.maxRisk>0) ? Math.max(0, Math.floor((cap*0.01*sizingMult)/sc.maxRisk)) : 0;
+  document.getElementById('safeLots_'+suffix).textContent = lots===0?'0 (over-risk)':`${lots} lot${lots>1?'s':''}${sizingMult<1?' (reduced)':''}`;
+  document.getElementById('safeSteps_'+suffix).innerHTML = `
+    <div class="layman-step"><span class="num-dot">1</span><span class="step-text">Place all legs <strong>together</strong> as basket order.</span></div>
+    <div class="layman-step"><span class="num-dot">2</span><span class="step-text"><span class="bull-c">Target:</span> ${typeof trade.target==='number'?fmt(trade.target,0):trade.target}, or 50% profit.</span></div>
+    <div class="layman-step"><span class="num-dot">3</span><span class="step-text"><span class="bear-c">Stop:</span> ${typeof trade.stop==='number'?fmt(trade.stop,0):trade.stop}.</span></div>
+    <div class="layman-step"><span class="num-dot">4</span><span class="step-text">Close by <strong>Tue 3:00 PM</strong>.</span></div>`;
+
+  // Render RISKY (naked) if applicable
+  const riskyCard = document.getElementById('tradeRisky_'+suffix);
+  if(trade.naked){
+    riskyCard.classList.remove('bull','bear','neutral');
+    riskyCard.classList.add('show', trade.bias);
+    document.getElementById('riskyScore_'+suffix).textContent = `${score}/100`;
+    document.getElementById('riskyName_'+suffix).innerHTML = `Aggressive · <span class="name-em">${trade.naked.name}</span>`;
+    document.getElementById('riskyMeta_'+suffix).innerHTML = `${trade.und} <strong>${fmt(spot)}</strong> · Single leg · ATM ${trade.atm}`;
+    document.getElementById('riskyLegs_'+suffix).innerHTML = renderLegRow(trade.naked.leg,0,'naked',suffix);
+    const nc = recalcNaked(trade);
+    document.getElementById('riskyRisk_'+suffix).textContent = '₹'+fmt(nc.maxRisk,0);
+    document.getElementById('riskyReward_'+suffix).textContent = '≈ 2-4× premium';
+    document.getElementById('riskyStop_'+suffix).textContent = typeof trade.stop==='number'?fmt(trade.stop,0):trade.stop;
+    const rlots = (!isNaN(cap)&&cap>0&&nc.maxRisk>0) ? Math.max(0, Math.floor((cap*0.005*sizingMult)/nc.maxRisk)) : 0;
+    document.getElementById('riskyLots_'+suffix).textContent = rlots===0?'0 (over-risk)':`${rlots} lot${rlots>1?'s':''}${sizingMult<1?' (reduced)':''}`;
+    document.getElementById('riskySteps_'+suffix).innerHTML = `
+      <div class="layman-step"><span class="num-dot">1</span><span class="step-text"><strong>Single leg.</strong> Pay premium upfront.</span></div>
+      <div class="layman-step"><span class="num-dot">2</span><span class="step-text"><span class="bull-c">Target:</span> ${typeof trade.target==='number'?fmt(trade.target,0):trade.target}, or premium 2×.</span></div>
+      <div class="layman-step"><span class="num-dot">3</span><span class="step-text"><span class="bear-c">Stop:</span> ${typeof trade.stop==='number'?fmt(trade.stop,0):trade.stop}, or premium -40%.</span></div>
+      <div class="layman-step"><span class="num-dot">4</span><span class="step-text">Theta bleed — close same day if possible.</span></div>`;
+  } else {
+    riskyCard.classList.remove('show');
+  }
 }
 
 function runLive(){
@@ -929,100 +1396,40 @@ function runLive(){
   const bPiv=calcPivots(bHigh,bLow,bClose);
   const nCtx=classifySpotVsPivots(nSpot,nPiv);
   const bCtx=classifySpotVsPivots(bSpot,bPiv);
+  const nScore=scoreFromCtx(nCtx);
+  const bScore=scoreFromCtx(bCtx);
 
-  // Score: distance from pivot magnitude
-  function scoreFor(ctx,spot,piv){
-    let s=50;
-    const biasMap={'extreme-bull':+25,'strong-bull':+18,'bull':+12,'mild-bull':+6,'neutral':0,'mild-bear':-6,'bear':-12,'strong-bear':-18,'extreme-bear':-25};
-    s+=biasMap[ctx.bias]||0;
-    if(ctx.inCPR)s+=ctx.cprType==='narrow'?0:5; // wide CPR = stable neutral
-    return Math.round(Math.max(0,Math.min(100,s)));
-  }
-  const nScore=scoreFor(nCtx,nSpot,nPiv);
-  const bScore=scoreFor(bCtx,bSpot,bPiv);
-  const pickBN=Math.abs(bScore-50)>Math.abs(nScore-50);
-
+  // Bias summary card (no longer a "picker")
   document.getElementById('compareCard').classList.add('show');
   document.getElementById('nScore').textContent=`${nScore}/100`;
   document.getElementById('bScore').textContent=`${bScore}/100`;
   document.getElementById('nLabel').textContent=nCtx.bias.replace('-',' ');
   document.getElementById('bLabel').textContent=bCtx.bias.replace('-',' ');
-  document.getElementById('cmpNifty').classList.toggle('picked',!pickBN);
-  document.getElementById('cmpBN').classList.toggle('picked',pickBN);
+  // Both highlighted, no "picked"
+  document.getElementById('cmpNifty').classList.remove('picked');
+  document.getElementById('cmpBN').classList.remove('picked');
 
-  const pickedSpot=pickBN?bSpot:nSpot;
-  const pickedPiv=pickBN?bPiv:nPiv;
-  const und=pickBN?'BANKNIFTY':'NIFTY';
-  const score=pickBN?bScore:nScore;
-
-  currentTrade=buildTradeWithPivots(pickedSpot,pickedPiv,vix,und);
-  currentPivots=pickedPiv;
-
-  // Render Safe trade
-  const safeCard=document.getElementById('tradeSafe');
-  safeCard.classList.remove('bull','bear','neutral');
-  safeCard.classList.add('show',currentTrade.bias);
-  document.getElementById('safeScore').textContent=`${score}/100`;
-  document.getElementById('safeName').innerHTML=`Engine reads <span class="name-em">${currentTrade.ctx.bias.replace('-',' ')}</span> · ${currentTrade.spread.name}`;
-  document.getElementById('safeMeta').innerHTML=`${currentTrade.und} <strong>${fmt(pickedSpot)}</strong> · VIX <strong>${fmt(vix)}</strong> · Exp <strong>${currentTrade.exp.str}</strong>`;
-  // Pivot context box
-  const pctxEl=document.getElementById('safePivotCtx');
-  pctxEl.style.display='block';
-  pctxEl.innerHTML=`<strong>📐 Pivot Logic</strong>
-    <div class="pv-line">${currentTrade.strategyReason}</div>
-    <div class="pv-line" style="margin-top:5px">Pivot <b>${fmt(pickedPiv.P,0)}</b> · CPR <b>${fmt(pickedPiv.BC,0)}-${fmt(pickedPiv.TC,0)}</b> (${pickedPiv.cprType})</div>
-    <div class="pv-line">R1 <b>${fmt(pickedPiv.R1,0)}</b> · R2 <b>${fmt(pickedPiv.R2,0)}</b> · S1 <b>${fmt(pickedPiv.S1,0)}</b> · S2 <b>${fmt(pickedPiv.S2,0)}</b></div>`;
-  document.getElementById('safeLegs').innerHTML=currentTrade.spread.legs.map((l,i)=>renderLegRow(l,i,'spread')).join('');
-  const sc=recalcSpread(currentTrade);
-  document.getElementById('safeRisk').textContent='₹'+fmt(sc.maxRisk,0);
-  document.getElementById('safeReward').textContent='₹'+fmt(sc.maxReward,0);
-  document.getElementById('safeStop').textContent=typeof currentTrade.stop==='number'?fmt(currentTrade.stop,0):currentTrade.stop;
-  const cap=parseFloat(document.getElementById('capital').value);
-  const lots=(!isNaN(cap)&&cap>0&&sc.maxRisk>0)?Math.max(0,Math.floor((cap*0.01)/sc.maxRisk)):0;
-  document.getElementById('safeLots').textContent=lots===0?'0 (over-risk)':`${lots} lot${lots>1?'s':''}`;
-  document.getElementById('safeSteps').innerHTML=`
-    <div class="layman-step"><span class="num-dot">1</span><span class="step-text">Place all legs <strong>together</strong> as basket order.</span></div>
-    <div class="layman-step"><span class="num-dot">2</span><span class="step-text"><span class="bull-c">Target:</span> ${typeof currentTrade.target==='number'?fmt(currentTrade.target,0):currentTrade.target}, or 50% profit.</span></div>
-    <div class="layman-step"><span class="num-dot">3</span><span class="step-text"><span class="bear-c">Stop:</span> ${typeof currentTrade.stop==='number'?fmt(currentTrade.stop,0):currentTrade.stop}.</span></div>
-    <div class="layman-step"><span class="num-dot">4</span><span class="step-text">Close by <strong>Tue 3:00 PM</strong>.</span></div>`;
-
-  // Render Risky trade
-  if(currentTrade.naked){
-    const riskyCard=document.getElementById('tradeRisky');
-    riskyCard.classList.remove('bull','bear','neutral');
-    riskyCard.classList.add('show',currentTrade.bias);
-    document.getElementById('riskyScore').textContent=`${score}/100`;
-    document.getElementById('riskyName').innerHTML=`Aggressive · <span class="name-em">${currentTrade.naked.name}</span>`;
-    document.getElementById('riskyMeta').innerHTML=`${currentTrade.und} <strong>${fmt(pickedSpot)}</strong> · Single leg · ATM ${currentTrade.atm}`;
-    document.getElementById('riskyLegs').innerHTML=renderLegRow(currentTrade.naked.leg,0,'naked');
-    const nc=recalcNaked(currentTrade);
-    document.getElementById('riskyRisk').textContent='₹'+fmt(nc.maxRisk,0);
-    document.getElementById('riskyReward').textContent='≈ 2-4× premium';
-    document.getElementById('riskyStop').textContent=typeof currentTrade.stop==='number'?fmt(currentTrade.stop,0):currentTrade.stop;
-    const rlots=(!isNaN(cap)&&cap>0&&nc.maxRisk>0)?Math.max(0,Math.floor((cap*0.005)/nc.maxRisk)):0;
-    document.getElementById('riskyLots').textContent=rlots===0?'0 (over-risk)':`${rlots} lot${rlots>1?'s':''}`;
-    document.getElementById('riskySteps').innerHTML=`
-      <div class="layman-step"><span class="num-dot">1</span><span class="step-text"><strong>Single leg.</strong> Pay premium upfront.</span></div>
-      <div class="layman-step"><span class="num-dot">2</span><span class="step-text"><span class="bull-c">Target:</span> ${typeof currentTrade.target==='number'?fmt(currentTrade.target,0):currentTrade.target}, or premium 2×.</span></div>
-      <div class="layman-step"><span class="num-dot">3</span><span class="step-text"><span class="bear-c">Stop:</span> ${typeof currentTrade.stop==='number'?fmt(currentTrade.stop,0):currentTrade.stop}, or premium -40%.</span></div>
-      <div class="layman-step"><span class="num-dot">4</span><span class="step-text">Theta bleed — close same day if possible.</span></div>`;
-  }else{
-    document.getElementById('tradeRisky').classList.remove('show');
-  }
+  // Render BOTH index trade groups
+  document.getElementById('tradeGroupN').style.display = 'block';
+  document.getElementById('tradeGroupB').style.display = 'block';
+  renderTradeGroup('n','Nifty 50',nSpot,nPiv,vix,nScore);
+  renderTradeGroup('b','Bank Nifty',bSpot,bPiv,vix,bScore);
 
   // Wire live premium inputs
   document.querySelectorAll('.leg-live-input input').forEach(input=>{
     input.addEventListener('input',(e)=>{
-      const k=e.target.dataset.kind,i=parseInt(e.target.dataset.idx);
+      const k=e.target.dataset.kind, i=parseInt(e.target.dataset.idx), sfx=e.target.dataset.suffix;
+      const tr = currentTrades[sfx];
+      if(!tr) return;
       const val=parseFloat(e.target.value);
-      if(k==='spread')currentTrade.spread.legs[i].livePrem=isNaN(val)?null:val;
-      else if(k==='naked')currentTrade.naked.leg.livePrem=isNaN(val)?null:val;
-      const sc2=recalcSpread(currentTrade);
-      document.getElementById('safeRisk').textContent='₹'+fmt(sc2.maxRisk,0);
-      document.getElementById('safeReward').textContent='₹'+fmt(sc2.maxReward,0);
-      if(currentTrade.naked){
-        const nc2=recalcNaked(currentTrade);
-        document.getElementById('riskyRisk').textContent='₹'+fmt(nc2.maxRisk,0);
+      if(k==='spread') tr.spread.legs[i].livePrem = isNaN(val)?null:val;
+      else if(k==='naked') tr.naked.leg.livePrem = isNaN(val)?null:val;
+      const sc2 = recalcSpread(tr);
+      document.getElementById('safeRisk_'+sfx).textContent = '₹'+fmt(sc2.maxRisk,0);
+      document.getElementById('safeReward_'+sfx).textContent = '₹'+fmt(sc2.maxReward,0);
+      if(tr.naked){
+        const nc2 = recalcNaked(tr);
+        document.getElementById('riskyRisk_'+sfx).textContent = '₹'+fmt(nc2.maxRisk,0);
       }
     });
   });
@@ -1045,6 +1452,11 @@ document.getElementById('refreshAllBtn').addEventListener('click',refreshAll);
 document.getElementById('genBtn').addEventListener('click',run);
 document.getElementById('modePremarket').addEventListener('click',()=>setMode('premarket'));
 document.getElementById('modeLive').addEventListener('click',()=>setMode('live'));
+document.getElementById('sigToggle').addEventListener('click',(e)=>{
+  const c=document.getElementById('signalsList');
+  c.classList.toggle('open');
+  e.target.textContent = c.classList.contains('open') ? '▴ Hide signals' : '▾ All Signals · Why this gap prediction';
+});
 document.querySelectorAll('.flag-toggle').forEach(el=>{
   el.addEventListener('click',(e)=>{
     e.preventDefault();
