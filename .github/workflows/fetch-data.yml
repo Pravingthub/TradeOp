@@ -1,0 +1,45 @@
+name: Fetch Market Data
+
+on:
+  schedule:
+    # Every 10 minutes during extended market hours (covers Asia + India + Europe + US pre-market)
+    # GitHub cron uses UTC. IST = UTC+5:30. We want 6:00-23:30 IST = 00:30-18:00 UTC.
+    - cron: '*/10 0-18 * * 1-5'
+    # Weekend (Sat/Sun): once an hour for catching US Friday close and Monday pre-market context
+    - cron: '0 */1 * * 0,6'
+  workflow_dispatch:  # Allows manual trigger from Actions tab
+
+permissions:
+  contents: write  # Required to commit JSON back to repo
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml
+
+      - name: Run fetcher
+        run: python scripts/fetch.py
+
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/snapshot.json data/news.json data/option_chain.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: refresh $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
