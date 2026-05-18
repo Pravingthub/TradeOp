@@ -1376,7 +1376,27 @@ function renderTradeGroup(suffix, indexName, spot, piv, vix, score){
       <div class="layman-step"><span class="num-dot">3</span><span class="step-text"><span class="bear-c">Stop:</span> ${typeof trade.stop==='number'?fmt(trade.stop,0):trade.stop}, or premium -40%.</span></div>
       <div class="layman-step"><span class="num-dot">4</span><span class="step-text">Theta bleed — close same day if possible.</span></div>`;
   } else {
-    riskyCard.classList.remove('show');
+    // Neutral bias — explain why no naked option is recommended
+    riskyCard.classList.remove('bull','bear');
+    riskyCard.classList.add('show','neutral');
+    document.getElementById('riskyScore_'+suffix).textContent = `${score}/100`;
+    document.getElementById('riskyName_'+suffix).innerHTML = `Aggressive · <span class="name-em" style="color:var(--text-2)">Not Recommended</span>`;
+    document.getElementById('riskyMeta_'+suffix).innerHTML = `${trade.und} <strong>${fmt(spot)}</strong> · Engine reads <strong>neutral</strong>`;
+    document.getElementById('riskyLegs_'+suffix).innerHTML = `<div class="pivot-context" style="display:block;background:rgba(255,182,39,0.08);border-color:rgba(255,182,39,0.3)">
+      <strong style="color:var(--amber)">⚠ No directional view</strong>
+      <div class="pv-line" style="margin-top:6px">Spot ${fmt(spot,0)} sits near pivot ${fmt(piv.P,0)}, inside CPR (${piv.cprType}). No clear bull/bear edge.</div>
+      <div class="pv-line" style="margin-top:5px">Naked options need a <b>directional view</b> — buying calls/puts here is a coin-flip that loses to theta decay.</div>
+      <div class="pv-line" style="margin-top:5px">Better play: the <b>Iron Condor</b> above (Conservative card). It profits if spot stays between ${fmt(piv.S1,0)}–${fmt(piv.R1,0)}.</div>
+      <div class="pv-line" style="margin-top:5px;color:var(--text-3)">If you still want a directional bet, wait for a breakout above R1 (${fmt(piv.R1,0)}) or breakdown below S1 (${fmt(piv.S1,0)}) and re-run the engine.</div>
+    </div>`;
+    document.getElementById('riskyRisk_'+suffix).textContent = '—';
+    document.getElementById('riskyReward_'+suffix).textContent = '—';
+    document.getElementById('riskyStop_'+suffix).textContent = '—';
+    document.getElementById('riskyLots_'+suffix).textContent = 'Skip';
+    document.getElementById('riskySteps_'+suffix).innerHTML = `
+      <div class="layman-step"><span class="num-dot">1</span><span class="step-text">Don't take a naked directional trade without conviction.</span></div>
+      <div class="layman-step"><span class="num-dot">2</span><span class="step-text">If you want exposure, use the Iron Condor above.</span></div>
+      <div class="layman-step"><span class="num-dot">3</span><span class="step-text">Or wait for a breakout/breakdown — then re-run.</span></div>`;
   }
 }
 
