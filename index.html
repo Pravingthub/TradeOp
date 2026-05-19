@@ -490,13 +490,13 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
 </div>
 
 <div class="disclaimer">
-  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.7 · Pro-engine · Dual-index · Auto-events</strong>
+  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.8 · Pro-engine · Dual-index · Auto-events</strong>
   Backend fetches via yfinance every 10 min. Pre-Market factors US/Asia/Europe overnight, USD/INR, Brent, Gold, BTC, DXY, VIX direction+level, geo/RBI/Fed/expiry/budget flags, and Muhurat into gap prediction. Live Trade builds setups for BOTH Nifty and Bank Nifty independently. Engine reduces position size during Rahu Kaal / Yamaganda. Not investment advice.
 </div>
 
 <footer>
   <span class="tag">நல்ல வர்த்தகம் · Trade Well</span>
-  v19.7 · pro-engine · dual-index · auto-events
+  v19.8 · pro-engine · dual-index · smart-session
 </footer>
 
 </div>
@@ -622,28 +622,93 @@ function applySnapshot(snap){
   return true;
 }
 
+// Helper: get today's IST date as YYYY-MM-DD
+function istTodayStr(){
+  const ist=istNow();
+  return ist.toISOString().slice(0,10);
+}
+// Helper: get the LAST completed trading day in IST (Mon-Fri, accounting for weekends)
+// If today is Mon, last completed = Fri. If today is Sat/Sun, last completed = Fri.
+function lastCompletedTradingDay(){
+  const ist=istNow();
+  const dow=ist.getDay(); // 0=Sun, 1=Mon...6=Sat
+  let daysBack=1;
+  if(dow===1)daysBack=3; // Monday → Friday
+  else if(dow===0)daysBack=2; // Sunday → Friday
+  else if(dow===6)daysBack=1; // Saturday → Friday
+  // After 3:30 PM today, "last completed" could be today itself.
+  // But that's handled separately by the session-picker below.
+  const d=new Date(ist.getTime() - daysBack*86400000);
+  return d.toISOString().slice(0,10);
+}
+
+// SMART SESSION PICKER
+// yfinance can be in different states:
+//   State 1 (ideal): todaySession=today's developing, priorSession=yesterday's complete
+//   State 2 (lag):   todaySession=yesterday's complete, priorSession=day-before
+//   State 3 (stale): both fields point at older dates entirely
+//
+// For Pre-Market mode: want the LATEST completed session (to project NEXT day's pivots)
+// For Live Trade mode: want YESTERDAY's completed session (to project TODAY's pivots)
+//
+// Strategy: pick the freshest date in {todaySession, priorSession} that is <= the "target" date.
+// Pre-Market target: today (or last weekday if weekend) — accept latest completed
+// Live Trade target: yesterday's completed trading day — accept that or whatever's closest
+function pickSession(sym, mode){
+  const s=sessions[sym];
+  if(!s)return {sess:null, sourceField:null};
+  const today=istTodayStr();
+  const yesterday=lastCompletedTradingDay();
+
+  const cand=[];
+  if(s.today && s.today.date) cand.push({sess:s.today, date:s.today.date, field:'today'});
+  if(s.prior && s.prior.date) cand.push({sess:s.prior, date:s.prior.date, field:'prior'});
+  if(cand.length===0)return {sess:null, sourceField:null};
+
+  // Sort by date descending (newest first)
+  cand.sort((a,b)=>b.date.localeCompare(a.date));
+
+  if(mode==='premarket'){
+    // Use the newest available — that's "today's completed" for tomorrow's pivots
+    return {sess:cand[0].sess, sourceField:cand[0].field};
+  } else {
+    // Live mode: want yesterday's completed (for today's pivots)
+    // Prefer the candidate that matches `yesterday` exactly, else most recent that's <= today
+    const exact=cand.find(c=>c.date===yesterday);
+    if(exact)return {sess:exact.sess, sourceField:exact.field};
+    // Fall back to candidate that is <= today (avoid future-dated, which shouldn't happen but safe)
+    const recent=cand.find(c=>c.date<=today);
+    if(recent)return {sess:recent.sess, sourceField:recent.field};
+    return {sess:cand[0].sess, sourceField:cand[0].field};
+  }
+}
+
 function applySessionToInputs(){
-  // Pre-market mode: use TODAY's session (most recent) -> for tomorrow's pivots
-  // Live mode: use PRIOR session (yesterday's) -> for today's pivots
-  const useToday=(mode==='premarket');
-  const sessKey=useToday?'today':'prior';
   let labelDate='—';
+  let isStale=false;
+  const yesterday=lastCompletedTradingDay();
 
   if(sessions.NIFTY){
-    const s=sessions.NIFTY[sessKey];
+    const pick=pickSession('NIFTY', mode);
+    const s=pick.sess;
     if(s){
       document.getElementById('nifty-src').textContent='✓ '+(s.date?fmtDate(s.date):'live');
       if(s.high)setInputIfChanged('nHigh',s.high,2);
       if(s.low)setInputIfChanged('nLow',s.low,2);
       if(s.close)setInputIfChanged('nClose',s.close,2);
-      if(s.date)labelDate=fmtDate(s.date);
+      if(s.date){
+        labelDate=fmtDate(s.date);
+        // Detect stale: in live mode, if picked date doesn't match yesterday → yfinance lagging
+        if(mode==='live' && s.date !== yesterday) isStale=true;
+      }
     }
     if(mode==='live'&&sessions.NIFTY.price){
       setInputIfChanged('nSpot',sessions.NIFTY.price,2);
     }
   }
   if(sessions.BANKNIFTY){
-    const s=sessions.BANKNIFTY[sessKey];
+    const pick=pickSession('BANKNIFTY', mode);
+    const s=pick.sess;
     if(s){
       document.getElementById('bn-src').textContent='✓ '+(s.date?fmtDate(s.date):'live');
       if(s.high)setInputIfChanged('bHigh',s.high,2);
@@ -655,16 +720,24 @@ function applySessionToInputs(){
     }
   }
   if(sessions.INDIAVIX){
-    const s=sessions.INDIAVIX[sessKey];
+    const pick=pickSession('INDIAVIX', mode);
+    const s=pick.sess;
     if(s&&s.close)setInputIfChanged('vix',s.close,2);
     if(sessions.INDIAVIX.pct!=null)setInputIfChanged('vixChg',sessions.INDIAVIX.pct,2);
   }
   // Session banner
   const banner=document.getElementById('sessionLabel');
-  if(useToday){
+  if(mode==='premarket'){
     banner.textContent=`Today's session (${labelDate}) - calculating tomorrow's pivots`;
+    banner.classList.remove('warn');
   }else{
-    banner.textContent=`Yesterday's session (${labelDate}) - calculating today's pivots`;
+    if(isStale){
+      banner.innerHTML=`<span style="color:var(--amber)">⚠ Data lag</span> · Using session (${labelDate}) - calculating today's pivots`;
+      banner.classList.add('warn');
+    } else {
+      banner.textContent=`Yesterday's session (${labelDate}) - calculating today's pivots`;
+      banner.classList.remove('warn');
+    }
   }
 }
 
@@ -1495,3 +1568,4 @@ setInterval(refreshAll,60000);
 </script>
 </body>
 </html>
+
