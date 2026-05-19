@@ -20,7 +20,9 @@ header{display:flex;align-items:center;justify-content:space-between;gap:10px;pa
 .clock{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--text-3);text-align:right;line-height:1.4}
 .clock #liveClock{color:var(--text);font-weight:600;font-size:13px}
 .clock #sessionTag{font-size:9.5px;letter-spacing:0.12em;text-transform:uppercase;color:var(--amber);margin-top:2px}
-.master-bar{display:flex;gap:8px;align-items:center;background:linear-gradient(135deg,#1a1f2e 0%,#232a3a 100%);border:2px solid var(--amber);border-radius:12px;padding:10px 12px;margin-bottom:12px;flex-wrap:wrap}
+.master-bar{display:flex;gap:8px;align-items:center;background:linear-gradient(135deg,#1a1f2e 0%,#232a3a 100%);border:2px solid var(--amber);border-radius:12px;padding:10px 12px;margin-bottom:6px;flex-wrap:wrap}
+.press-hint{font-size:9.5px;color:var(--text-3);font-style:italic;margin-bottom:12px;padding:0 4px;text-align:center;letter-spacing:0.02em}
+.master-btn{transition:transform 0.1s ease;touch-action:manipulation;user-select:none;-webkit-user-select:none}
 .master-btn{background:var(--amber);color:var(--ink);border:none;padding:10px 16px;border-radius:7px;cursor:pointer;font-family:'JetBrains Mono',monospace;font-size:11px;letter-spacing:0.1em;text-transform:uppercase;font-weight:800}
 .master-btn:active{transform:scale(0.97)}
 .last-refresh{margin-left:auto;font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--text-3)}
@@ -248,9 +250,10 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
 </header>
 
 <div class="master-bar">
-  <button class="master-btn" id="refreshAllBtn">⟳ Refresh</button>
+  <button class="master-btn" id="refreshAllBtn" title="Tap: refresh data · Long-press: trigger workflow">⟳ Refresh</button>
   <div class="last-refresh">Data: <span class="lr-time" id="lastRefresh">—</span><span class="staleness" id="stalenessTag">—</span></div>
 </div>
+<div class="press-hint">Long-press Refresh to force a fresh backend fetch (opens GitHub Actions)</div>
 
 <div class="mode-bar">
   <button class="mode-btn active" id="modePremarket">Pre-Market · Plan Tomorrow</button>
@@ -490,13 +493,13 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
 </div>
 
 <div class="disclaimer">
-  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.9 · Pro-engine · Dual-index · Auto-events</strong>
+  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.10 · Pro-engine · Dual-index · Auto-events</strong>
   Backend fetches via yfinance every 10 min. Pre-Market factors US/Asia/Europe overnight, USD/INR, Brent, Gold, BTC, DXY, VIX direction+level, geo/RBI/Fed/expiry/budget flags, and Muhurat into gap prediction. Live Trade builds setups for BOTH Nifty and Bank Nifty independently. Engine reduces position size during Rahu Kaal / Yamaganda. Not investment advice.
 </div>
 
 <footer>
   <span class="tag">நல்ல வர்த்தகம் · Trade Well</span>
-  v19.9 · pro-engine · dual-index · smart-session · auto-reload
+  v19.10 · pro-engine · dual-index · smart-session · long-press-trigger
 </footer>
 
 </div>
@@ -1541,7 +1544,38 @@ function updateClock(){
 }
 
 // EVENTS
-document.getElementById('refreshAllBtn').addEventListener('click',refreshAll);
+// Refresh button:
+//   Short tap = refresh data from existing snapshot.json
+//   Long press (700ms+) = open GitHub Actions page in new tab so user can manually trigger workflow
+(function(){
+  const btn = document.getElementById('refreshAllBtn');
+  const ACTIONS_URL = 'https://github.com/Pravingthub/TradeOp/actions/workflows/fetch-data.yml';
+  let pressTimer = null;
+  let longPressed = false;
+  btn.addEventListener('pointerdown', () => {
+    longPressed = false;
+    pressTimer = setTimeout(() => {
+      longPressed = true;
+      // Visual feedback before opening
+      btn.style.transform = 'scale(0.95)';
+      setTimeout(() => { btn.style.transform = ''; }, 150);
+      window.open(ACTIONS_URL, '_blank');
+    }, 700);
+  });
+  btn.addEventListener('pointerup', () => {
+    if(pressTimer){ clearTimeout(pressTimer); pressTimer = null; }
+  });
+  btn.addEventListener('pointerleave', () => {
+    if(pressTimer){ clearTimeout(pressTimer); pressTimer = null; }
+  });
+  btn.addEventListener('pointercancel', () => {
+    if(pressTimer){ clearTimeout(pressTimer); pressTimer = null; }
+  });
+  btn.addEventListener('click', (e) => {
+    if(longPressed){ longPressed = false; e.preventDefault(); return; }
+    refreshAll();
+  });
+})();
 document.getElementById('genBtn').addEventListener('click',run);
 document.getElementById('modePremarket').addEventListener('click',()=>setMode('premarket'));
 document.getElementById('modeLive').addEventListener('click',()=>setMode('live'));
@@ -1569,14 +1603,14 @@ setInterval(refreshAll,60000);
 // AUTO-RELOAD-ON-NEW-VERSION
 // Bypasses Chrome's HTML cache. Every 60 seconds, fetch index.html with cache-busting
 // query param, scrape the APP_VERSION constant from it, and force-reload if it changed.
-const APP_VERSION = 'v19.9-' + '20260519-1';  // bump on every deploy
+const APP_VERSION = 'v19.10b-' + '20260519-2';  // bump on every deploy
 
 async function checkForNewVersion(){
   try {
     const r = await fetch('index.html?check=' + Date.now(), {cache: 'no-store'});
     if(!r.ok) return;
     const text = await r.text();
-    // Match: const APP_VERSION = 'v19.9-20260519-1';
+    // Match: const APP_VERSION = 'v19.10-20260519-1';
     const m = text.match(/const APP_VERSION = ['"]([^'"]+)['"]/);
     if(m && m[1] && m[1] !== APP_VERSION){
       console.log('[auto-update] new version detected:', m[1], 'reloading...');
