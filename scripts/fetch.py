@@ -1,15 +1,12 @@
 #!/usr/bin/env python3
 """
-The Trade — Server-side data fetcher v19.6
-Adds best-known session tracking: maintains a separate data/best_session.json
-that records the LATEST date ever seen per symbol per session. On each run, if
-yfinance returns OLDER session dates than what's in best_session, the new fetch
-is patched to restore the best-known data. Bulletproof against yfinance
-regressions across days, not just consecutive runs.
-
-Bootstraps best_session.json from existing snapshot.json on first run after deploy.
-If best_session.json gets corrupted, simply delete it via GitHub UI and the next
-run will re-bootstrap from current snapshot.
+The Trade — Server-side data fetcher v19.7
+- Best-known session tracking (from v19.6): permanent regression protection
+- TradingView UDF fallback for Indian indices: when yfinance returns stale dates
+  during IST market hours (9 AM - 4 PM), automatically patches NIFTY/BANKNIFTY/INDIAVIX
+  with fresh real-time data from TradingView's public scanner API.
+- Outside market hours, skips TV fetch to save quota — best_session protects against
+  regressions overnight.
 
 Returns TWO sessions per symbol:
 - todaySession: most recent bar (today's if available)
@@ -198,6 +195,100 @@ def fetch_coingecko():
     except Exception as e:
         print(f"  CoinGecko error: {e}")
     return out
+
+
+# TradingView UDF symbol mapping for Indian indices
+TV_SYMBOLS = {
+    "NIFTY": "NSE:NIFTY",
+    "BANKNIFTY": "NSE:BANKNIFTY",
+    "INDIAVIX": "NSE:INDIAVIX",
+}
+
+
+def fetch_tradingview_indian():
+    """
+    Fallback for Indian indices using TradingView's public scanner API.
+    Returns real-time quote + session H/L/C even when yfinance is stale.
+    Only used to PATCH yfinance gaps — not as primary source.
+    """
+    out = {}
+    url = "https://scanner.tradingview.com/india/scan"
+    tv_headers = {
+        "Accept": "application/json",
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0",
+        "Origin": "https://www.tradingview.com",
+        "Referer": "https://www.tradingview.com/",
+    }
+    payload = {
+        "symbols": {"tickers": list(TV_SYMBOLS.values()), "query": {"types": []}},
+        "columns": ["name", "close", "open", "high", "low", "change", "change_abs"],
+    }
+    try:
+        r = requests.post(url, json=payload, headers=tv_headers, timeout=10)
+        if not r.ok:
+            print(f"  TradingView fallback HTTP {r.status_code}")
+            return out
+        j = r.json()
+        rows = j.get("data", [])
+        today = datetime.now(IST).strftime("%Y-%m-%d")
+        for row in rows:
+            ticker = row.get("s", "")
+            cols = row.get("d", [])
+            if len(cols) < 7:
+                continue
+            our_key = None
+            for k, v in TV_SYMBOLS.items():
+                if v == ticker:
+                    our_key = k
+                    break
+            if not our_key:
+                continue
+            try:
+                close = safe_float(cols[1])
+                opn = safe_float(cols[2])
+                high = safe_float(cols[3])
+                low = safe_float(cols[4])
+                pct = safe_float(cols[5])
+                chg = safe_float(cols[6])
+                if close is None:
+                    continue
+                prev = (close - chg) if chg is not None else close
+                out[our_key] = {
+                    "price": round(close, 4),
+                    "prev": round(prev, 4) if prev else close,
+                    "change": round(chg, 4) if chg is not None else 0,
+                    "pct": round(pct, 3) if pct is not None else 0,
+                    "todaySession": {
+                        "open": round(opn, 4) if opn else close,
+                        "high": round(high, 4) if high else close,
+                        "low": round(low, 4) if low else close,
+                        "close": round(close, 4),
+                        "date": today,
+                    },
+                    "priorSession": None,  # filled by best_session merge from earlier yfinance data
+                    "ts": int(time.time()),
+                    "source": "tradingview-fallback",
+                }
+            except Exception as e:
+                print(f"  TV row parse failed for {ticker}: {e}")
+    except Exception as e:
+        print(f"  TradingView fallback failed: {e}")
+    return out
+
+
+def should_patch_with_tv(yf_data, target_date):
+    """
+    Returns True if yfinance data is missing OR older than target_date.
+    Used to decide whether to patch a symbol with TradingView data.
+    """
+    if not yf_data:
+        return True
+    today_sess = yf_data.get("todaySession") or {}
+    yf_date = today_sess.get("date")
+    if not yf_date:
+        return True
+    return yf_date < target_date
 
 
 def fetch_nse_option_chain(symbol, max_retries=3):
@@ -431,6 +522,32 @@ def main():
             if k not in quotes:
                 quotes[k] = v
                 print(f"  OK {k} fallback")
+
+    # TradingView fallback for stale Indian indices (yfinance has lag for ^NSEI/^NSEBANK/^INDIAVIX)
+    # If yfinance returned dates older than today during IST market hours, fetch fresh from TV
+    today_ist = datetime.now(IST).strftime("%Y-%m-%d")
+    ist_hour = datetime.now(IST).hour
+    is_market_hours = (9 <= ist_hour < 16)  # 9 AM - 4 PM IST window
+    indian_stale = []
+    for sym in ["NIFTY", "BANKNIFTY", "INDIAVIX"]:
+        if should_patch_with_tv(quotes.get(sym), today_ist):
+            indian_stale.append(sym)
+    if indian_stale and is_market_hours:
+        print(f"  Indian symbols stale during market hours: {indian_stale}")
+        print(f"  Fetching TradingView fallback...")
+        tv = fetch_tradingview_indian()
+        for sym in indian_stale:
+            if sym in tv:
+                # Preserve the existing priorSession from yfinance (still useful) but patch todaySession
+                old = quotes.get(sym) or {}
+                old_prior = old.get("priorSession")
+                quotes[sym] = tv[sym]
+                # If yfinance had a valid priorSession, keep it (TV doesn't provide prior)
+                if old_prior:
+                    quotes[sym]["priorSession"] = old_prior
+                print(f"  OK {sym} patched from TradingView ({tv[sym]['price']})")
+    elif indian_stale:
+        print(f"  Indian symbols stale ({indian_stale}) but outside market hours — skipping TV fetch")
 
     # Anti-regression: best-known session tracking
     print("\n[2.5/4] Best-known session merge...")
