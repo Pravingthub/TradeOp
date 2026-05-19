@@ -1788,14 +1788,14 @@ setInterval(refreshAll,60000);
 // AUTO-RELOAD-ON-NEW-VERSION
 // Bypasses Chrome's HTML cache. Every 60 seconds, fetch index.html with cache-busting
 // query param, scrape the APP_VERSION constant from it, and force-reload if it changed.
-const APP_VERSION = 'v19.11-' + '20260519-3';  // bump on every deploy
+const APP_VERSION = 'v19.11-build3';  // bump on every deploy
 
 async function checkForNewVersion(){
   try {
     const r = await fetch('index.html?check=' + Date.now(), {cache: 'no-store'});
     if(!r.ok) return;
     const text = await r.text();
-    // Match: const APP_VERSION = 'v19.11-20260519-1';
+    // Match: const APP_VERSION = 'v19.11-build3';
     const m = text.match(/const APP_VERSION = ['"]([^'"]+)['"]/);
     if(m && m[1] && m[1] !== APP_VERSION){
       console.log('[auto-update] new version detected:', m[1], 'reloading...');
@@ -1806,10 +1806,9 @@ async function checkForNewVersion(){
     // Silent fail — network errors are fine, we'll retry next interval
   }
 }
-// Check every 60 seconds (same cadence as refreshAll)
+// Check every 60 seconds
 setInterval(checkForNewVersion, 60000);
-// Also check after 5 seconds of page load (catches immediate stale-cache scenarios)
-setTimeout(checkForNewVersion, 5000);
+// Note: removed the 5-second startup check — caused issues when version regex didn't match exactly
 </script>
 </body>
 </html>
