@@ -493,13 +493,13 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
 </div>
 
 <div class="disclaimer">
-  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.12b · Pro-engine · Dual-index · Auto-events</strong>
+  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.12c · Pro-engine · Dual-index · Auto-events</strong>
   Backend fetches via yfinance every 10 min. Pre-Market factors US/Asia/Europe overnight, USD/INR, Brent, Gold, BTC, DXY, VIX direction+level, geo/RBI/Fed/expiry/budget flags, and Muhurat into gap prediction. Live Trade builds setups for BOTH Nifty and Bank Nifty independently. Engine reduces position size during Rahu Kaal / Yamaganda. Not investment advice.
 </div>
 
 <footer>
   <span class="tag">நல்ல வர்த்தகம் · Trade Well</span>
-  v19.12b · pro-engine · dual-index · smart-session · long-press-trigger · intraday-aware · time-aware
+  v19.12c · pro-engine · dual-index · smart-session · long-press-trigger · intraday-aware
 </footer>
 
 </div>
@@ -663,12 +663,6 @@ function pickSession(sym, mode){
   const today=istTodayStr();
   const yesterday=lastCompletedTradingDay();
 
-  // Detect if market is currently open (IST) — if yes, never use today's partial data
-  const _ist=istNow();
-  const _dow=_ist.getDay();
-  const _min=_ist.getHours()*60+_ist.getMinutes();
-  const _isMarketOpen = (_dow!==0 && _dow!==6) && _min>=9*60+15 && _min<15*60+30;
-
   const cand=[];
   if(s.today && s.today.date) cand.push({sess:s.today, date:s.today.date, field:'today'});
   if(s.prior && s.prior.date) cand.push({sess:s.prior, date:s.prior.date, field:'prior'});
@@ -677,20 +671,18 @@ function pickSession(sym, mode){
   // Sort by date descending (newest first)
   cand.sort((a,b)=>b.date.localeCompare(a.date));
 
-  // SAFETY: during live market hours, never pick today's (partial) data for pivot math
-  const safeCand = _isMarketOpen ? cand.filter(c => c.date !== today) : cand;
-  const useCand = safeCand.length > 0 ? safeCand : cand;  // fallback if nothing safe
-
   if(mode==='premarket'){
-    // Use the newest available
-    return {sess:useCand[0].sess, sourceField:useCand[0].field};
+    // Use the newest available — that's "today's completed" for tomorrow's pivots
+    return {sess:cand[0].sess, sourceField:cand[0].field};
   } else {
-    // Live mode: want yesterday's completed
-    const exact=useCand.find(c=>c.date===yesterday);
+    // Live mode: want yesterday's completed (for today's pivots)
+    // Prefer the candidate that matches `yesterday` exactly, else most recent that's <= today
+    const exact=cand.find(c=>c.date===yesterday);
     if(exact)return {sess:exact.sess, sourceField:exact.field};
-    const recent=useCand.find(c=>c.date<=today);
+    // Fall back to candidate that is <= today (avoid future-dated, which shouldn't happen but safe)
+    const recent=cand.find(c=>c.date<=today);
     if(recent)return {sess:recent.sess, sourceField:recent.field};
-    return {sess:useCand[0].sess, sourceField:useCand[0].field};
+    return {sess:cand[0].sess, sourceField:cand[0].field};
   }
 }
 
@@ -736,22 +728,11 @@ function applySessionToInputs(){
     if(s&&s.close)setInputIfChanged('vix',s.close,2);
     if(sessions.INDIAVIX.pct!=null)setInputIfChanged('vixChg',sessions.INDIAVIX.pct,2);
   }
-  // Session banner — be honest about whether market is currently open
+  // Session banner
   const banner=document.getElementById('sessionLabel');
-  // Determine current IST market state (inline — minimal change)
-  const _ist=istNow();
-  const _dow=_ist.getDay();
-  const _min=_ist.getHours()*60+_ist.getMinutes();
-  const _isWeekend=(_dow===0 || _dow===6);
-  const _isMarketOpen = !_isWeekend && _min>=9*60+15 && _min<15*60+30;
   if(mode==='premarket'){
-    if(_isMarketOpen){
-      banner.innerHTML=`<span style="color:var(--amber)">⚠ Market is OPEN.</span> Using session (<b>${labelDate}</b>). <b>Switch to Live Trade tab</b> for current-day analysis.`;
-      banner.classList.add('warn');
-    } else {
-      banner.textContent=`Today's session (${labelDate}) - calculating next session's pivots`;
-      banner.classList.remove('warn');
-    }
+    banner.textContent=`Today's session (${labelDate}) - calculating tomorrow's pivots`;
+    banner.classList.remove('warn');
   }else{
     if(isStale){
       banner.innerHTML=`<span style="color:var(--amber)">⚠ Data lag</span> · Using session (${labelDate}) - calculating today's pivots`;
@@ -1720,4 +1701,21 @@ function runLive(){
     input.addEventListener('input',(e)=>{
       const k=e.target.dataset.kind, i=parseInt(e.target.dataset.idx), sfx=e.target.dataset.suffix;
       const tr = currentTrades[sfx];
-      if(!
+      if(!tr) return;
+      const val=parseFloat(e.target.value);
+      if(k==='spread') tr.spread.legs[i].livePrem = isNaN(val)?null:val;
+      else if(k==='naked') tr.naked.leg.livePrem = isNaN(val)?null:val;
+      const sc2 = recalcSpread(tr);
+      document.getElementById('safeRisk_'+sfx).textContent = '₹'+fmt(sc2.maxRisk,0);
+      document.getElementById('safeReward_'+sfx).textContent = '₹'+fmt(sc2.maxReward,0);
+      if(tr.naked){
+        const nc2 = recalcNaked(tr);
+        document.getElementById('riskyRisk_'+sfx).textContent = '₹'+fmt(nc2.maxRisk,0);
+      }
+    });
+  });
+  document.querySelectorAll('.copy-btn').forEach(btn=>{
+    btn.onclick=()=>{navigator.clipboard.writeText(btn.dataset.sym).then(()=>{btn.textContent='✓';btn.classList.add('copied');setTimeout(()=>{btn.textContent='⧉ Copy';btn.classList.remove('copied');},1500);});};
+  });
+
+  document.getElementById('compar
