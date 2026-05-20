@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "OpenAI preparing to file for IPO in coming days or weeks, WSJ reports",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-preparing-to-file-for-ipo-in-coming-days-or-weeks-wsj-reports/articleshow/131231301.cms",
+      "pubDate": "Wed, 20 May 2026 22:18:15 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Lincoln International valued at $2.3 billion as shares jump in NYSE debut",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/lincoln-international-valued-at-2-3-billion-as-shares-jump-in-nyse-debut/articleshow/131231102.cms",
+      "pubDate": "Wed, 20 May 2026 22:07:43 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131230699.cms",
       "pubDate": "Wed, 20 May 2026 21:38:52 +0530"
@@ -17,18 +29,6 @@
       "title": "Market Trading Guide: Buy Manappuram Finance and Apollo Micro Systems on Thursday for gains up to 8%",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-manappuram-finance-and-apollo-micro-systems-on-thursday-for-gains-up-to-8/articleshow/131230264.cms",
       "pubDate": "Wed, 20 May 2026 21:02:50 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Households pull Rs 54,786 cr worth of equities from secondary markets in FY25; invest record Rs 5.43 lakh crore in mutual funds",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/households-pull-rs-54786-cr-worth-of-equities-from-secondary-markets-in-fy25-invest-record-rs-5-43-lakh-crore-in-mutual-funds/articleshow/131230228.cms",
-      "pubDate": "Wed, 20 May 2026 20:57:58 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "NCDEX launches India\u2019s first rainfall-based weather derivatives contract",
-      "link": "https://economictimes.indiatimes.com/markets/options/ncdex-launches-indias-first-rainfall-based-weather-derivatives-contract/articleshow/131229494.cms",
-      "pubDate": "Wed, 20 May 2026 20:16:50 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -56,70 +56,70 @@
     },
     {
       "src": "LiveMint Markets",
-      "title": "US Stock Market Today LIVE: Dow, S&P 500, Nasdaq today; top movers, Fed, earnings updates",
+      "title": "US Stock Market Today | Dow Jones | Nasdaq Live: Top movers, Fed, earnings updates",
       "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-live-dow-jones-nasdaq-s-p-500-today-top-movers-fed-earnings-11779283256088.html",
       "pubDate": "Wed, 20 May 2026 19:21:15 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Pace Digitek wins \u20b9265 crore BSNL BharatNet project to expand fibre network in Sikkim",
-      "link": "https://www.cnbctv18.com/market/pace-digitek-wins-rs-265-crore-bsnl-bharatnet-project-to-expand-fibre-network-in-sikkim-ws-l-19910257.htm",
-      "pubDate": "Wed, 20 May 2026 21:25:03 +0530"
+      "title": "Fed minutes show more officials warning of rate-hike scenario",
+      "link": "https://www.cnbctv18.com/market/fed-minutes-show-more-officials-warning-of-rate-hike-scenario-19910371.htm",
+      "pubDate": "Wed, 20 May 2026 23:58:35 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Jeff Bezos likens AI boom to the 1990s biotech bubble, says society will benefit anyway",
-      "link": "https://www.cnbctv18.com/market/bezos-likens-ai-boom-to-the-1990s-biotech-bubble-says-society-will-benefit-anyway-ws-l-19910273.htm",
-      "pubDate": "Wed, 20 May 2026 21:21:07 +0530"
+      "title": "Saatvik Green Energy Q4 net profit falls 36% to \u20b960 crore as expenses surge",
+      "link": "https://www.cnbctv18.com/market/earnings/saatvik-green-energy-q4-net-profit-falls-36-percent-on-higher-expenses-ws-l-19910355.htm",
+      "pubDate": "Wed, 20 May 2026 23:16:10 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "JK Cement receives letter of intent from Andhra Pradesh govt for limestone mining",
-      "link": "https://www.cnbctv18.com/market/stocks/jk-cement-share-price-receives-letter-of-intent-from-andhra-pradesh-govt-for-limestone-mining-ws-l-19910297.htm",
-      "pubDate": "Wed, 20 May 2026 21:18:27 +0530"
+      "title": "OpenAI eyes confidential IPO filing as early as Friday",
+      "link": "https://www.cnbctv18.com/business/companies/openai-eyes-confidential-ipo-filing-as-early-as-friday-ws-l-19910350.htm",
+      "pubDate": "Wed, 20 May 2026 23:10:10 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "US stocks rise as WTI slips below $100, traders await Nvidia earnings",
-      "link": "https://www.cnbctv18.com/market/us-stocks-rise-as-wti-slips-below-usd-100-traders-await-nvidia-earnings-ws-l-19910286.htm",
-      "pubDate": "Wed, 20 May 2026 20:31:45 +0530"
+      "title": "Strides Pharma Science receives 5 USFDA observations after Bengaluru facility inspection",
+      "link": "https://www.cnbctv18.com/market/stocks/strides-pharma-science-share-price-receives-5-usfda-observations-after-bengaluru-facility-inspection-ws-l-19910345.htm",
+      "pubDate": "Wed, 20 May 2026 22:49:22 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Arvind SmartSpaces Q4 profit more than doubles; approves \u20b9300 cr NCDs, declares \u20b92.25 dividend",
-      "link": "https://www.cnbctv18.com/market/stocks/arvind-smartspaces-share-price-q4-profit-more-than-doubles-approves-rs-300-cr-ncds-declares-rs-2-25-dividend-ws-l-19910269.htm",
-      "pubDate": "Wed, 20 May 2026 21:21:33 +0530"
+      "title": "Household savings routed via securities market jump to \u20b96.91 lakh crore in FY25",
+      "link": "https://www.cnbctv18.com/business/household-savings-routed-via-securities-market-jump-to-rs-6-91-lakh-crore-in-fy25-ws-l-19910338.htm",
+      "pubDate": "Wed, 20 May 2026 22:21:23 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZ08tQUY2Y0tKV1hjMzZhdGg4YlA4ZGRuWGFxQnZGd1B4RkFhRWZBai0tUG11VXJRZEJDWWpNOXpNaWtDeDVrc29Ucjh2STJwWS1YRXZtZFMtZjc3UG9KdklYVXgyby10aTQ2amxIUTZqaTE5aGQ1ekdPS3VQbUNrX0xkNThpLTZDUTZRSTZNZUR6VFMzVUp0Y3V6ckE1T2JwRGRkLVQ0UzJ6S3Z1akdXeURHRHdzU21yeUNBNEJyV2M4dnpGa3lHTzJFd2ZLd0s5NTE2dnhUeWpGT2NkeUJQTUdn0gHnAUFVX3lxTE9ZcG03SjJnT2JSMjE0U01Qd2dfeS05SkVXdG9RQ0F3cWppX3ZXRWVGZDFHR082dTd3Tk1ieTRvWTk5azYtSGhoNXFENnJKeFJjS3lsdm1LcEdyMzd6SGpER2Fha01uNEFSbXh0cFV3V1p5djd3ZUlid25ZMnRqTEtaNFkzNWFLMjNFazlockR1akQ3bVFBSzhONzFtYnl4akZ0RFJoLXZKbEN3ZWU1ZDBZSnhWWktxU1MybThBQW1YVkZyUmZ2NkFWXzgxZWRUWFdwSkNWWnM3NGdGNzhFNThxZTV5YzcyNA?oc=5",
-      "pubDate": "Wed, 20 May 2026 16:08:52 GMT"
+      "title": "AI doesn't dream of revolution: \u2018Marxist AI\u2019 says less about machine consciousness than about human labour - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTW9wTlBjOFZTcHFGaFpCa1AzNVZETENPak1zbDkyLXAtQ1kzTENkREFoVDZmTXJ0VXdNdjc1dElIRFJvbk5uTjNiRWhOVEYwWkxvVl8xMXJ6VVhiU0l4N0FHaVczWmNvM3NkT0FGSUloVjl1RmtzOHdHaU9LVDE2YWpncVBHU0RYX0o2YllYdWg3RXYwLVZ1U2RacURNS0liMmpqWjZlN0MzZXdVS3c0TWZfZk14VVpDY0xCX1MzRXJMUFhKeGFlaG8wRlBrUUx4V3NEUFBGZ3dTbXZoMnN2akdKb2RYd1Y3RjV4MVFkWFg4cjBEZDZlUHFja09WY19fellQd2JpekczLWo2eWhVRHlBVGRmdUc0TGVGN1ZscjAwREXSAagCQVVfeXFMTkQwOEp4a2lXcEVTZEVpMEZFQ3NwNkp5TkcycDhvSGF5MTdfTHIyMjVTVjJ5U0FrMGZHVF9QaElsTkdEZWhHYXhOTzVSbHZabTNwTGJMdGFSLURIMnpKdDJHY2tQdS1ZaXhCVGs5VU4xZTl0TVBtdVB6a2RGczE1ellYbkNEcHAyOHpDdWc2NzRSUTdqSGJiVXFJS2hyd3lkWExqbHFIMERESnZjVmxNN2NrVU1JWFJpcjdNVG1JelNtTDhXNXlLM0ZyQ0NlZXMwMTd0YmVrZmlidk1DTUg3RzRITE1tWGN1NGJ5aC14aXV2VFcyTlJmeGpaZ1J0OElSLWFGbUxySW55Y1VBcGRFczFESnJPQnp1RVI4dHN1N05NbE4tY1ZUVzk?oc=5",
+      "pubDate": "Wed, 20 May 2026 18:17:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ice cream cart in Belagavi to 2,100cr empire in 9 years. And the meltdown - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOEVIdEJfOWlKQTRzUUFpblJ1VG1zcnZSMmJNeWE2TVRlSk9aNnlkbV9UcTExLUJvTTJieTk2MHN1TXQyZHRhZWR2TGxKdGFrRHhWV2Jac2ZIZ0x5X1h4LXREWmkwbkdFUURuR0lNQzNlWkg2T0NyRjZZNHJabW52aWd1ZEZWY0hwVnJoX0dpekI5QUxoLU5Ec1NZUkRXNjhDN1ZQQU5Zb0NPcW9LMlBsR3E2Vk5KZlZzZm1sZWNBTWg2aXVLY2ZDdGlFSEtIVUdEVFVSTU1yQ2NlVjV1ZVNxRnBn0gHnAUFVX3lxTE1OdDZlWkM1SWZrRU42WUJ5ZmFfaTllMVR2ckdvQXIxb3V2dy1oQ1o3bUhfZnRFX1VfTDY3RG45d05ndTExaDA4aWZETmxzSFlrRHl1T29tamNOaWs4MEtUYkF2TjJpZFhrUUZXVTlQN3VScFpJMEs2YnkwdWE4Mmx4YWRuaDNIcTZwdkxnYnZvM19OaHoxYnZQWUJlSHZ2SkJMaWl3STFEa1EyMExicFozSjhnbGV1VnpKalBqNzVQTHRtaFpBei0tMm9PRElvTDRZWlVxcXJaQlRaM3Qzc0ZXcC05RnA3bw?oc=5",
-      "pubDate": "Wed, 20 May 2026 16:10:00 GMT"
+      "title": "Parnax Lab board meets May 28 to consider Q4, FY26 results - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUREOXlCYWJMNDZndjBURGVBVlo4Z19uNi1sQndzTElHZkdZWHFzN0RrX1VvNzBYcFZjRWpnbXhEcF9qSDNZV2xabkFqMEl2eTdfbzVjM1h3b0Q5dzNFd0kwbWJLMXQtT3RvUldzbzJFa0tpd3lhbVV6ODdvbFdrbUVHbERqQ0Z5Si1zOW1YR0ZkOFZ4SUpYcVlMVXZQMjg1ekZpRGdOY2JyYi12cFltUHpTc3c?oc=5",
+      "pubDate": "Wed, 20 May 2026 18:09:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Why Kashmir\u2019s Businesses Rarely Reach Dalal Street - Kashmir Observer",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQmtuQlpmUEhvc1pRZ29mM1JXZ0VkYVg4eHAyYlg1NnVEMnh4aFM2NTU5NkpMQXNCOGVjclltT09YUkhDSFJHS09QQnZQNWxlX2dqNy14X2dVM0VyeldrQ295UDd1bUxSeEY1NjdWU2hsVXlRMFN0b2pscmZrc3U5R2xaVGpCNnlMbHRzSjZFV2RtOWM?oc=5",
-      "pubDate": "Wed, 20 May 2026 15:34:13 GMT"
+      "title": "Trade Setup For May 21: Nifty Bulls Eye 23,800 Breakout Amid Positive Cues \u2014 Check Key Levels - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdU1IM08yQ2h6MDVBMTNtY2dxdldnNkV6M05Ic2cwUms1cFNKOTVpN2sxLVFhZElQTjlESDdONTFELXpDNV8zckplZHRQQmpJUHNSck45WXhlU2ZxMUUyRmV5a2hNZHppbzhCc1IwTVlzX2gyMFM3SFFDU3hjWHo4YTlBa3pNWXRtYVYyYzFDM3BnclRPSnEyNlR4bkhHMjFMOGk4N3lVckppRGxyUmNxemd1Mnpoazk4T0p2OHZBeU43czlqVm12cWJtbzZVQWvSAdcBQVVfeXFMTnd5LUxlU295TnVnQjh1YlMyNmxLb0swdmtXRmUxblc0VF9ESEd3TXEwLVltTDV5My1lWVM3WW4zdFRtQjJqblFla20xeWRybzNvQ2haSFRHZjByWUM2RFNnQUZiaVRkd2dmRTNuYmVpOU9Xc3hoLTdxb01ReTVUT0NFMG1Bd19sRVRFVnJRNmFNck9lMDV4OWZMYmptUlJ3Q1J5SG04Z2o3X0N3dG1BNFFXVlpNMnRoanQwelVxRUNyVFVPQWVkUFVtVjZOWmRtbTc0aVgtcEk?oc=5",
+      "pubDate": "Wed, 20 May 2026 17:49:32 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Khadim India schedules Q4FY26 results conference call - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX21lcUdMOTlzWGgxWjRnd2tKR0Q2S2Zhb3dOY3BFNDVJYUNhemNqRDNyTWJXYUthVkxXdW8ycHRNazZrOFlrYk9HUmdGSmw4aGFWWE1HYjNvR3U4czNiYW83QjBTQWE1SWY3SDlHc1RGUzNKQndOTzdEYmpkaUtjZWxrSHQ3MVZiUFdYSUwyaFd2XzBPamdDUFVWczI3Qy1WU191a19CQmlJVU9udWlN?oc=5",
-      "pubDate": "Wed, 20 May 2026 16:06:37 GMT"
+      "title": "Nifty, Sensex, Nifty Bank outlook for today: GIFT Nifty up 26 points; key levels to watch - MSN",
+      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPRnpQaTVoWV9QRmJtU2tRMnJ4ekxPWm82cDc4QV9idnI1bmNVSHM1NjYyTkhncXpDRkxIdUpnM1RCM2dxMUVDcEJDUEE1WnRLMUlBZzRSY0lOQnpoQ2dsSW9ueFJEZzdyRXc0dTNxdTZMTXZsUjhKV0hSQVlKUWJSbTJhdW02NUNVbWktWjk0REtxd2k3dkFwaS16NXUtSXBHaHVudGpaUVVkVjBjTm5zX3FuYmdLdWQ1aWlQZGhRRF85MWQ4SnFjXzNMRkprdXBLRjV1b1NTVXMzZ3JxN2xMWFpMNS13S05pemN0YldwU242OHZXalJ2LWxOeVBpamZhSTlRSjVXNV9IOF94dGR6ZG1IR3hvSjRERVg3NDEzTEZUaERLTnROV1JiYTFwY1NBOWxKX0hOT2xaZVd1ZV81NXFLZkNtSDZzazdTSlEtbGZrWEVrcjY0VG1HTWJqWUU2Ui1ORjJlak02N2sxVWVvNnVvOWhrMjZSeHVsOUdxa3NObTVOVk8zZ20xUHNHUWQ0eW1odWNISjczb2dLV2hV?oc=5",
+      "pubDate": "Wed, 20 May 2026 17:46:51 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Disa India Q4 FY26: Profit Growth Masks Revenue Concerns as Stock Trades at Premium Valuation - Markets Mojo",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPazI2SjF4VVctQmtSWjFqNXBGSDFHSlFnYzZxWjVtRnhreWF2ZGJGeENNOWZVT2Z3STdMbGlvdVJYV19QQ19qN3R2Y3R2VzlYdjFWREdicy1NMjN2UkdOT3p4MnRPQm1FRml4dkVuUjYyZkRleDdad29mTHdaZGhmRlJ1RHNjc2VKRWpPZlhORmZKaktVN2lseVFJUU5nWElWTng5OF9TYTZKMUJCNzhtVzExdFMybHZkSVdrTDhrcWVzNGUwN0taeHFXbGFqUXo1RHNUUVNHYU50OTc5bmlXNVRxaw?oc=5",
-      "pubDate": "Wed, 20 May 2026 16:14:50 GMT"
+      "title": "Separating business of war from economics of oil - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXlPbkhTZG1VaUZKdXNwdFBDM3pORVdIWVJZaGhhSTg3allFOUNweTY0ZkFlTVZITVA5LTZWdFhROThRVzUxZjJLWlJzQ1haZkstVUdTQWFjUkxWOFhCQmZWVkNJRU12WnZGZzBqQnhEZjRyYUlGS3dILXVKNkFLSTNTcW9KQWU5OVJzdnFZcVo0NEtUbV9jb0pzcndpYlhIS1p30gGwAUFVX3lxTE1QV3lMSmVYRlkySWI4eE9GWEpKWHhoQTN1R05wSDBVWGEtT0Q2U1pRV1JKQ0E2Zjhjd1FhNUVfWU9lTHIzTmNxWU9adjkzUzdhNUQ1ZDdXa2tscnVYUFJnR0dDY3R4Z3JfTVpYMmY3S2w5MVQyd3VKMzFnVUNiNnJZbUpOakp2Y3JJakV1bzhzUjl4UFlVeVFDMjBwV3pncjZRTllCZzdmUGNILW9aa3Z4?oc=5",
+      "pubDate": "Wed, 20 May 2026 18:30:00 GMT"
     }
   ],
-  "fetchedAt": 1779294185
+  "fetchedAt": 1779302219
 }
