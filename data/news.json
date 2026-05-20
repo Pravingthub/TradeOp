@@ -2,33 +2,45 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: Dow soars 600 pts, Nasdaq 1.5% as chip stocks rally eyeing Nvidia results, Iran peace deal hopes",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-rises-as-chip-stocks-rally-ahead-of-nvidia-results/articleshow/131235246.cms",
+      "pubDate": "Thu, 21 May 2026 01:33:57 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Apollo Hospitals FY26 profit jumps 34% to Rs 1,942 crore on growth across core businesses",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-hospitals-fy26-profit-jumps-34-to-rs-1942-crore-on-growth-across-core-businesses/articleshow/131233889.cms",
+      "pubDate": "Thu, 21 May 2026 00:08:45 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "One-year forward rupee rate breaches 100 per US dollar mark",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/one-year-forward-rupee-rate-breaches-100-per-us-dollar-mark/articleshow/131233715.cms",
+      "pubDate": "Wed, 20 May 2026 23:55:55 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Fed minutes show more policymakers were prepared to lay groundwork for rate hike",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-minutes-show-more-policymakers-were-prepared-to-lay-groundwork-for-rate-hike/articleshow/131233644.cms",
+      "pubDate": "Wed, 20 May 2026 23:55:49 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "OpenAI preparing to file for IPO in coming days or weeks, WSJ reports",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-preparing-to-file-for-ipo-in-coming-days-or-weeks-wsj-reports/articleshow/131231301.cms",
       "pubDate": "Wed, 20 May 2026 22:18:15 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Lincoln International valued at $2.3 billion as shares jump in NYSE debut",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/lincoln-international-valued-at-2-3-billion-as-shares-jump-in-nyse-debut/articleshow/131231102.cms",
-      "pubDate": "Wed, 20 May 2026 22:07:43 +0530"
+      "src": "LiveMint Markets",
+      "title": "Dollar dips on hopes for Iran deal, yen near danger zone",
+      "link": "https://www.livemint.com/market/dollar-dips-on-hopes-for-iran-deal-yen-near-danger-zone-11779303420971.html",
+      "pubDate": "Thu, 21 May 2026 00:27:00 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131230699.cms",
-      "pubDate": "Wed, 20 May 2026 21:38:52 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "RBI to infuse liquidity via $5 billion dollar rupee swap auction on May 26",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-to-infuse-liquidity-via-5-billion-dollar-rupee-swap-auction-on-may-26/articleshow/131230353.cms",
-      "pubDate": "Wed, 20 May 2026 21:08:45 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Market Trading Guide: Buy Manappuram Finance and Apollo Micro Systems on Thursday for gains up to 8%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-manappuram-finance-and-apollo-micro-systems-on-thursday-for-gains-up-to-8/articleshow/131230264.cms",
-      "pubDate": "Wed, 20 May 2026 21:02:50 +0530"
+      "src": "LiveMint Markets",
+      "title": "Tepid demand for US Treasury auction shows investor jitters over Iran war",
+      "link": "https://www.livemint.com/market/tepid-demand-for-us-treasury-auction-shows-investor-jitters-over-iran-war-11779302186614.html",
+      "pubDate": "Thu, 21 May 2026 00:06:26 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -47,18 +59,6 @@
       "title": "Supreme Court reserves verdict again on Yes Bank\u2019s  \u20b98,415-crore AT1 bond write-off",
       "link": "https://www.livemint.com/market/bonds/yes-bank-at1-bonds-supreme-court-reserves-verdict-11779280571743.html",
       "pubDate": "Wed, 20 May 2026 19:40:12 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Reserve Bank of India to hold $5 billion USD/INR forex swap auction on 26 May to ease banking system liquidity",
-      "link": "https://www.livemint.com/market/reserve-bank-of-india-to-hold-5-billion-usd-inr-forex-swap-auction-on-26-may-to-ease-banking-system-liquidity-11779284880234.html",
-      "pubDate": "Wed, 20 May 2026 19:26:31 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US Stock Market Today | Dow Jones | Nasdaq Live: Top movers, Fed, earnings updates",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-live-dow-jones-nasdaq-s-p-500-today-top-movers-fed-earnings-11779283256088.html",
-      "pubDate": "Wed, 20 May 2026 19:21:15 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "AI doesn't dream of revolution: \u2018Marxist AI\u2019 says less about machine consciousness than about human labour - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQTW9wTlBjOFZTcHFGaFpCa1AzNVZETENPak1zbDkyLXAtQ1kzTENkREFoVDZmTXJ0VXdNdjc1dElIRFJvbk5uTjNiRWhOVEYwWkxvVl8xMXJ6VVhiU0l4N0FHaVczWmNvM3NkT0FGSUloVjl1RmtzOHdHaU9LVDE2YWpncVBHU0RYX0o2YllYdWg3RXYwLVZ1U2RacURNS0liMmpqWjZlN0MzZXdVS3c0TWZfZk14VVpDY0xCX1MzRXJMUFhKeGFlaG8wRlBrUUx4V3NEUFBGZ3dTbXZoMnN2akdKb2RYd1Y3RjV4MVFkWFg4cjBEZDZlUHFja09WY19fellQd2JpekczLWo2eWhVRHlBVGRmdUc0TGVGN1ZscjAwREXSAagCQVVfeXFMTkQwOEp4a2lXcEVTZEVpMEZFQ3NwNkp5TkcycDhvSGF5MTdfTHIyMjVTVjJ5U0FrMGZHVF9QaElsTkdEZWhHYXhOTzVSbHZabTNwTGJMdGFSLURIMnpKdDJHY2tQdS1ZaXhCVGs5VU4xZTl0TVBtdVB6a2RGczE1ellYbkNEcHAyOHpDdWc2NzRSUTdqSGJiVXFJS2hyd3lkWExqbHFIMERESnZjVmxNN2NrVU1JWFJpcjdNVG1JelNtTDhXNXlLM0ZyQ0NlZXMwMTd0YmVrZmlidk1DTUg3RzRITE1tWGN1NGJ5aC14aXV2VFcyTlJmeGpaZ1J0OElSLWFGbUxySW55Y1VBcGRFczFESnJPQnp1RVI4dHN1N05NbE4tY1ZUVzk?oc=5",
-      "pubDate": "Wed, 20 May 2026 18:17:00 GMT"
+      "title": "Stock markets climb in early trade after Trump halts strikes on Iran, hints at deal - Ahmedabad Mirror",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTTRubXBobjg4UnFVaDlUN3JQdWhlZkM5U0ZvT0lOaVQwem1iclg5TzFYM0U3cTJrdm1yWUVmLW8xeW5fX0lGUkVLT05EeGlwOTBSdjFmQmdzTEpBMXR6YXBSZWt4OWxnRHhYYzN6RmM3U2cxUzMycHlSQmVxcGh1TkN0VElWd25DY1RueDhiRUg1bm1vQWhuc3J4VjdwTVBiWFY4VUpDNmFfVHlzTlZxUTduTjlBblJkdXJFSjY0UWFsNmZiRU5Z?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:15:37 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Parnax Lab board meets May 28 to consider Q4, FY26 results - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUREOXlCYWJMNDZndjBURGVBVlo4Z19uNi1sQndzTElHZkdZWHFzN0RrX1VvNzBYcFZjRWpnbXhEcF9qSDNZV2xabkFqMEl2eTdfbzVjM1h3b0Q5dzNFd0kwbWJLMXQtT3RvUldzbzJFa0tpd3lhbVV6ODdvbFdrbUVHbERqQ0Z5Si1zOW1YR0ZkOFZ4SUpYcVlMVXZQMjg1ekZpRGdOY2JyYi12cFltUHpTc3c?oc=5",
-      "pubDate": "Wed, 20 May 2026 18:09:23 GMT"
+      "title": "ICICI Lombard schedules analyst meet on June 10 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVjFzVjZXQ1dva1JNZzFDV0drUDl0Mm5TX283dHdTOVZiVzRWTWk1b3FTUjg5TkNyR2stNHhoNG9laUpsVERES3psX0lIV0hRTDNRWnhqZmZPZVp6cTd4Sk9ScjVwMHd1WnNzX0F0VjdpNi1MaUJSVEd3SGZfMmliclU1RzhRMkpfXzRvQXRMd21xUjJFSmlPNFF1ZFprYnBacWZTbE91VQ?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:03:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Trade Setup For May 21: Nifty Bulls Eye 23,800 Breakout Amid Positive Cues \u2014 Check Key Levels - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdU1IM08yQ2h6MDVBMTNtY2dxdldnNkV6M05Ic2cwUms1cFNKOTVpN2sxLVFhZElQTjlESDdONTFELXpDNV8zckplZHRQQmpJUHNSck45WXhlU2ZxMUUyRmV5a2hNZHppbzhCc1IwTVlzX2gyMFM3SFFDU3hjWHo4YTlBa3pNWXRtYVYyYzFDM3BnclRPSnEyNlR4bkhHMjFMOGk4N3lVckppRGxyUmNxemd1Mnpoazk4T0p2OHZBeU43czlqVm12cWJtbzZVQWvSAdcBQVVfeXFMTnd5LUxlU295TnVnQjh1YlMyNmxLb0swdmtXRmUxblc0VF9ESEd3TXEwLVltTDV5My1lWVM3WW4zdFRtQjJqblFla20xeWRybzNvQ2haSFRHZjByWUM2RFNnQUZiaVRkd2dmRTNuYmVpOU9Xc3hoLTdxb01ReTVUT0NFMG1Bd19sRVRFVnJRNmFNck9lMDV4OWZMYmptUlJ3Q1J5SG04Z2o3X0N3dG1BNFFXVlpNMnRoanQwelVxRUNyVFVPQWVkUFVtVjZOWmRtbTc0aVgtcEk?oc=5",
-      "pubDate": "Wed, 20 May 2026 17:49:32 GMT"
+      "title": "PB Fintech invests \u20b95 crore in subsidiary PB Marketing - India IPO",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEc5dUxqZWZSSnp5cDJIVlJCN0x5dmhabnAweWNLQzU2UUtZTjVVeEdDeGEyUEp2QWoyZ0gzOEt1N2ppTHF6aEV2akpqdkRjMVdxTlVoaDVKbWFUb3F0QTJXaXl6QVJZdmRnVFFWcldscktMLWc0TjhDWHBRbFBGM2lSRm9IRVE1QnhTRUwyenNrUFhMV0E?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:07:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nifty, Sensex, Nifty Bank outlook for today: GIFT Nifty up 26 points; key levels to watch - MSN",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxPRnpQaTVoWV9QRmJtU2tRMnJ4ekxPWm82cDc4QV9idnI1bmNVSHM1NjYyTkhncXpDRkxIdUpnM1RCM2dxMUVDcEJDUEE1WnRLMUlBZzRSY0lOQnpoQ2dsSW9ueFJEZzdyRXc0dTNxdTZMTXZsUjhKV0hSQVlKUWJSbTJhdW02NUNVbWktWjk0REtxd2k3dkFwaS16NXUtSXBHaHVudGpaUVVkVjBjTm5zX3FuYmdLdWQ1aWlQZGhRRF85MWQ4SnFjXzNMRkprdXBLRjV1b1NTVXMzZ3JxN2xMWFpMNS13S05pemN0YldwU242OHZXalJ2LWxOeVBpamZhSTlRSjVXNV9IOF94dGR6ZG1IR3hvSjRERVg3NDEzTEZUaERLTnROV1JiYTFwY1NBOWxKX0hOT2xaZVd1ZV81NXFLZkNtSDZzazdTSlEtbGZrWEVrcjY0VG1HTWJqWUU2Ui1ORjJlak02N2sxVWVvNnVvOWhrMjZSeHVsOUdxa3NObTVOVk8zZ20xUHNHUWQ0eW1odWNISjczb2dLV2hV?oc=5",
-      "pubDate": "Wed, 20 May 2026 17:46:51 GMT"
+      "title": "Why is First Solar stock surging today? - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbm0xbUphY1o2LS1kcFZoaVJJTFFaajNDMEZJWURLVmdVcmxBWnV2M2JUUkQ2MWlVRFFHazFXcEE3V192UDFYSVg3MkwxbGhqWUpndWkxbV9BNnJZc2Ewa011V29KR3dMdFRqd2VyQnV5LUlsanZpR1ptRzBmdkZpaWNPeXVyQ2ViWlZoY2FIMjZET0pTSUpKSTNIWlVxWlowN20zMHRIaVFpTnpsNG85bQ?oc=5",
+      "pubDate": "Wed, 20 May 2026 19:49:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Separating business of war from economics of oil - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXlPbkhTZG1VaUZKdXNwdFBDM3pORVdIWVJZaGhhSTg3allFOUNweTY0ZkFlTVZITVA5LTZWdFhROThRVzUxZjJLWlJzQ1haZkstVUdTQWFjUkxWOFhCQmZWVkNJRU12WnZGZzBqQnhEZjRyYUlGS3dILXVKNkFLSTNTcW9KQWU5OVJzdnFZcVo0NEtUbV9jb0pzcndpYlhIS1p30gGwAUFVX3lxTE1QV3lMSmVYRlkySWI4eE9GWEpKWHhoQTN1R05wSDBVWGEtT0Q2U1pRV1JKQ0E2Zjhjd1FhNUVfWU9lTHIzTmNxWU9adjkzUzdhNUQ1ZDdXa2tscnVYUFJnR0dDY3R4Z3JfTVpYMmY3S2w5MVQyd3VKMzFnVUNiNnJZbUpOakp2Y3JJakV1bzhzUjl4UFlVeVFDMjBwV3pncjZRTllCZzdmUGNILW9aa3Z4?oc=5",
-      "pubDate": "Wed, 20 May 2026 18:30:00 GMT"
+      "title": "Confidential IPO filings gain traction - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWtfZHp5UEhRNXJHLUZlT0k2TDBzQ0FTU3BhQTJ5RHI3ell5SzlPNmR1akx2ZE9wWEF0Z2o1eW1TM2RWcTQ3bWlmcGo5VlBENk92U1FWdV9rMjQ2VUpweFhGakxLTVpSZ19yQzFWc09OaGYtb0k4QV93WkVaVHVPaHJMSXBXdFNTbVBCczNtVnI0ejdZX3fSAZwBQVVfeXFMUHZVclJtbVRGMDJNZnRMTmpINkZRbzZqQ00xMk5ZQTBxQjRhT3JibWtHWUc5S0hXd0JwQ0xmVFN0OFJjVFFtSU40QUlNZGRBdk5QaGtLeWk0QlE1MUFJRVAwUy12a3FKSjFWaFdHSVBkYm9fWnBhd01tS0xzV1VuNWhoMmQxVzFtVXI5V2hUZlZKcVZRa2thMDlja1hX?oc=5",
+      "pubDate": "Wed, 20 May 2026 19:49:50 GMT"
     }
   ],
-  "fetchedAt": 1779302219
+  "fetchedAt": 1779309527
 }
