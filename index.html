@@ -493,13 +493,13 @@ footer .tag{font-family:'Noto Sans Tamil',serif;font-size:17px;color:var(--amber
 </div>
 
 <div class="disclaimer">
-  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.11 · Pro-engine · Dual-index · Auto-events</strong>
+  <strong style="color:var(--amber);font-family:'JetBrains Mono',monospace;font-size:10px;display:block;margin-bottom:5px;text-transform:uppercase">v19.12 · Pro-engine · Dual-index · Auto-events</strong>
   Backend fetches via yfinance every 10 min. Pre-Market factors US/Asia/Europe overnight, USD/INR, Brent, Gold, BTC, DXY, VIX direction+level, geo/RBI/Fed/expiry/budget flags, and Muhurat into gap prediction. Live Trade builds setups for BOTH Nifty and Bank Nifty independently. Engine reduces position size during Rahu Kaal / Yamaganda. Not investment advice.
 </div>
 
 <footer>
   <span class="tag">நல்ல வர்த்தகம் · Trade Well</span>
-  v19.11 · pro-engine · dual-index · smart-session · long-press-trigger · intraday-aware
+  v19.12 · pro-engine · dual-index · smart-session · long-press-trigger · intraday-aware · time-aware
 </footer>
 
 </div>
@@ -537,7 +537,13 @@ function detectSession(){
   if(min<15*60+30)return{tag:'LIVE',w:{us:1.0,eu:1.0,asia:0.8,mom:1.2,piv:1.3,vix:1.0}};
   return{tag:'AFTER-MARKET',w:{us:1.3,eu:1.0,asia:0.5,mom:0.6,piv:0.8,vix:1.0}};
 }
-function autoMode(){const ist=istNow();const min=ist.getHours()*60+ist.getMinutes();return min<9*60+15||min>=15*60+30?'premarket':'live'}
+function autoMode(){
+  const ist=istNow();
+  const dow=ist.getDay();
+  if(dow===0 || dow===6) return 'premarket'; // Weekend → Pre-Market
+  const min=ist.getHours()*60+ist.getMinutes();
+  return (min<9*60+15 || min>=15*60+30) ? 'premarket' : 'live';
+}
 
 // PIVOT CALCULATIONS
 function calcPivots(H,L,C){
@@ -645,23 +651,47 @@ function lastCompletedTradingDay(){
   return d.toISOString().slice(0,10);
 }
 
-// SMART SESSION PICKER
-// yfinance can be in different states:
-//   State 1 (ideal): todaySession=today's developing, priorSession=yesterday's complete
-//   State 2 (lag):   todaySession=yesterday's complete, priorSession=day-before
-//   State 3 (stale): both fields point at older dates entirely
+// Market state for current IST moment
+function marketState(){
+  const ist=istNow();
+  const dow=ist.getDay(); // 0=Sun, 6=Sat
+  const min=ist.getHours()*60+ist.getMinutes();
+  const isWeekend=(dow===0 || dow===6);
+  if(isWeekend) return {phase:'closed-weekend', isOpen:false, postClose:false, preOpen:false};
+  if(min<9*60+15) return {phase:'pre-open', isOpen:false, postClose:false, preOpen:true};
+  if(min<15*60+30) return {phase:'open', isOpen:true, postClose:false, preOpen:false};
+  return {phase:'post-close', isOpen:false, postClose:true, preOpen:false};
+}
+
+// Returns the date string of the LAST FULLY-CLOSED trading session
+// (i.e., the most recent day where 3:30 PM IST has passed)
+function lastClosedSessionDate(){
+  const ist=istNow();
+  const ms=marketState();
+  const todayStr=ist.toISOString().slice(0,10);
+  if(ms.postClose){
+    // Today's session just closed → use today
+    return todayStr;
+  }
+  // Else use the prior trading day
+  return lastCompletedTradingDay();
+}
+
+// SMART SESSION PICKER (v19.12 — time-aware)
+// CORE RULE: never use a session whose `date` matches today UNLESS market has closed.
+// During live market hours, intraday H/L/C is incomplete and unsafe for pivot math.
 //
-// For Pre-Market mode: want the LATEST completed session (to project NEXT day's pivots)
-// For Live Trade mode: want YESTERDAY's completed session (to project TODAY's pivots)
-//
-// Strategy: pick the freshest date in {todaySession, priorSession} that is <= the "target" date.
-// Pre-Market target: today (or last weekday if weekend) — accept latest completed
-// Live Trade target: yesterday's completed trading day — accept that or whatever's closest
+// Pre-Market mode: latest FULLY-CLOSED session (yesterday during market hours, today after 3:30 PM)
+// Live Trade mode: yesterday's completed session (today's pivots derive from it)
 function pickSession(sym, mode){
   const s=sessions[sym];
   if(!s)return {sess:null, sourceField:null};
   const today=istTodayStr();
-  const yesterday=lastCompletedTradingDay();
+  const ms=marketState();
+  // The "target date" for the session we want:
+  //   - Pre-Market: most recent completed (= today if post-close, else yesterday)
+  //   - Live Trade: always yesterday's completed
+  const targetClosed = (mode==='premarket') ? lastClosedSessionDate() : lastCompletedTradingDay();
 
   const cand=[];
   if(s.today && s.today.date) cand.push({sess:s.today, date:s.today.date, field:'today'});
@@ -671,19 +701,21 @@ function pickSession(sym, mode){
   // Sort by date descending (newest first)
   cand.sort((a,b)=>b.date.localeCompare(a.date));
 
-  if(mode==='premarket'){
-    // Use the newest available — that's "today's completed" for tomorrow's pivots
-    return {sess:cand[0].sess, sourceField:cand[0].field};
-  } else {
-    // Live mode: want yesterday's completed (for today's pivots)
-    // Prefer the candidate that matches `yesterday` exactly, else most recent that's <= today
-    const exact=cand.find(c=>c.date===yesterday);
-    if(exact)return {sess:exact.sess, sourceField:exact.field};
-    // Fall back to candidate that is <= today (avoid future-dated, which shouldn't happen but safe)
-    const recent=cand.find(c=>c.date<=today);
-    if(recent)return {sess:recent.sess, sourceField:recent.field};
-    return {sess:cand[0].sess, sourceField:cand[0].field};
+  // SAFETY RULE: during live market hours, exclude any candidate whose date === today
+  // (it would be intraday-developing data, not a complete session)
+  const safeCand = ms.isOpen
+    ? cand.filter(c => c.date !== today)
+    : cand;
+
+  if(safeCand.length === 0){
+    // All candidates were today (live partial) — we can't use anything
+    return {sess:null, sourceField:null, blocked:'market-open-no-prior-data'};
   }
+
+  // Prefer exact match with target, else newest available
+  const exact = safeCand.find(c => c.date === targetClosed);
+  if(exact) return {sess:exact.sess, sourceField:exact.field};
+  return {sess:safeCand[0].sess, sourceField:safeCand[0].field};
 }
 
 function applySessionToInputs(){
@@ -728,17 +760,32 @@ function applySessionToInputs(){
     if(s&&s.close)setInputIfChanged('vix',s.close,2);
     if(sessions.INDIAVIX.pct!=null)setInputIfChanged('vixChg',sessions.INDIAVIX.pct,2);
   }
-  // Session banner
+  // Session banner — be honest about what date is actually being used
   const banner=document.getElementById('sessionLabel');
+  const ms=marketState();
+  const targetClosed=(mode==='premarket')?lastClosedSessionDate():yesterday;
+
   if(mode==='premarket'){
-    banner.textContent=`Today's session (${labelDate}) - calculating tomorrow's pivots`;
-    banner.classList.remove('warn');
-  }else{
+    if(ms.isOpen){
+      // Market is currently open — Pre-Market mode is using yesterday's data
+      // since today's session is still developing. Be transparent.
+      banner.innerHTML=`<span style="color:var(--amber)">⚠ Market is OPEN.</span> Using last completed session (<b>${labelDate}</b>) - projecting next session's pivots. <b>Switch to Live Trade tab</b> for current-day analysis.`;
+      banner.classList.add('warn');
+    } else if(ms.preOpen){
+      banner.innerHTML=`Pre-market (market opens at 9:15 AM). Using last completed session (<b>${labelDate}</b>) - calculating today's pivots.`;
+      banner.classList.remove('warn');
+    } else {
+      // Post-close or weekend — normal flow
+      banner.innerHTML=`Today's session (<b>${labelDate}</b>) - calculating next session's pivots.`;
+      banner.classList.remove('warn');
+    }
+  } else {
+    // Live Trade mode
     if(isStale){
-      banner.innerHTML=`<span style="color:var(--amber)">⚠ Data lag</span> · Using session (${labelDate}) - calculating today's pivots`;
+      banner.innerHTML=`<span style="color:var(--amber)">⚠ Data lag</span> · Using session (<b>${labelDate}</b>) - calculating today's pivots`;
       banner.classList.add('warn');
     } else {
-      banner.textContent=`Yesterday's session (${labelDate}) - calculating today's pivots`;
+      banner.innerHTML=`Yesterday's session (<b>${labelDate}</b>) - calculating today's pivots`;
       banner.classList.remove('warn');
     }
   }
@@ -1683,132 +1730,4 @@ function runLive(){
   // Bias summary card (no longer a "picker")
   document.getElementById('compareCard').classList.add('show');
   document.getElementById('nScore').textContent=`${nScore}/100`;
-  document.getElementById('bScore').textContent=`${bScore}/100`;
-  document.getElementById('nLabel').textContent=(nCtx.override||nCtx.bias).replace('-',' ');
-  document.getElementById('bLabel').textContent=(bCtx.override||bCtx.bias).replace('-',' ');
-  // Both highlighted, no "picked"
-  document.getElementById('cmpNifty').classList.remove('picked');
-  document.getElementById('cmpBN').classList.remove('picked');
-
-  // Render BOTH index trade groups
-  document.getElementById('tradeGroupN').style.display = 'block';
-  document.getElementById('tradeGroupB').style.display = 'block';
-  renderTradeGroup('n','Nifty 50',nSpot,nPiv,vix,nScore,nIntraday,vixChg);
-  renderTradeGroup('b','Bank Nifty',bSpot,bPiv,vix,bScore,bIntraday,vixChg);
-
-  // Wire live premium inputs
-  document.querySelectorAll('.leg-live-input input').forEach(input=>{
-    input.addEventListener('input',(e)=>{
-      const k=e.target.dataset.kind, i=parseInt(e.target.dataset.idx), sfx=e.target.dataset.suffix;
-      const tr = currentTrades[sfx];
-      if(!tr) return;
-      const val=parseFloat(e.target.value);
-      if(k==='spread') tr.spread.legs[i].livePrem = isNaN(val)?null:val;
-      else if(k==='naked') tr.naked.leg.livePrem = isNaN(val)?null:val;
-      const sc2 = recalcSpread(tr);
-      document.getElementById('safeRisk_'+sfx).textContent = '₹'+fmt(sc2.maxRisk,0);
-      document.getElementById('safeReward_'+sfx).textContent = '₹'+fmt(sc2.maxReward,0);
-      if(tr.naked){
-        const nc2 = recalcNaked(tr);
-        document.getElementById('riskyRisk_'+sfx).textContent = '₹'+fmt(nc2.maxRisk,0);
-      }
-    });
-  });
-  document.querySelectorAll('.copy-btn').forEach(btn=>{
-    btn.onclick=()=>{navigator.clipboard.writeText(btn.dataset.sym).then(()=>{btn.textContent='✓';btn.classList.add('copied');setTimeout(()=>{btn.textContent='⧉ Copy';btn.classList.remove('copied');},1500);});};
-  });
-
-  document.getElementById('compareCard').scrollIntoView({behavior:'smooth',block:'start'});
-}
-
-function run(){if(mode==='premarket')runPremarket();else runLive();}
-
-function updateClock(){
-  document.getElementById('liveClock').textContent=istNow().toLocaleTimeString('en-IN',{hour:'2-digit',minute:'2-digit',hour12:false})+' IST';
-  document.getElementById('sessionTag').textContent=detectSession().tag;
-}
-
-// EVENTS
-// Refresh button:
-//   Short tap = refresh data from existing snapshot.json
-//   Long press (700ms+) = open GitHub Actions page in new tab so user can manually trigger workflow
-(function(){
-  const btn = document.getElementById('refreshAllBtn');
-  const ACTIONS_URL = 'https://github.com/Pravingthub/TradeOp/actions/workflows/fetch-data.yml';
-  let pressTimer = null;
-  let longPressed = false;
-  btn.addEventListener('pointerdown', () => {
-    longPressed = false;
-    pressTimer = setTimeout(() => {
-      longPressed = true;
-      // Visual feedback before opening
-      btn.style.transform = 'scale(0.95)';
-      setTimeout(() => { btn.style.transform = ''; }, 150);
-      window.open(ACTIONS_URL, '_blank');
-    }, 700);
-  });
-  btn.addEventListener('pointerup', () => {
-    if(pressTimer){ clearTimeout(pressTimer); pressTimer = null; }
-  });
-  btn.addEventListener('pointerleave', () => {
-    if(pressTimer){ clearTimeout(pressTimer); pressTimer = null; }
-  });
-  btn.addEventListener('pointercancel', () => {
-    if(pressTimer){ clearTimeout(pressTimer); pressTimer = null; }
-  });
-  btn.addEventListener('click', (e) => {
-    if(longPressed){ longPressed = false; e.preventDefault(); return; }
-    refreshAll();
-  });
-})();
-document.getElementById('genBtn').addEventListener('click',run);
-document.getElementById('modePremarket').addEventListener('click',()=>setMode('premarket'));
-document.getElementById('modeLive').addEventListener('click',()=>setMode('live'));
-document.getElementById('sigToggle').addEventListener('click',(e)=>{
-  const c=document.getElementById('signalsList');
-  c.classList.toggle('open');
-  e.target.textContent = c.classList.contains('open') ? '▴ Hide signals' : '▾ All Signals · Why this gap prediction';
-});
-document.querySelectorAll('.flag-toggle').forEach(el=>{
-  el.addEventListener('click',(e)=>{
-    e.preventDefault();
-    const flag=el.dataset.flag;
-    flags[flag]=!flags[flag];
-    el.classList.toggle('on',flags[flag]);
-  });
-});
-
-// BOOT
-setMode(autoMode());
-updateClock();
-setInterval(updateClock,30000);
-refreshAll();
-setInterval(refreshAll,60000);
-
-// AUTO-RELOAD-ON-NEW-VERSION
-// Bypasses Chrome's HTML cache. Every 60 seconds, fetch index.html with cache-busting
-// query param, scrape the APP_VERSION constant from it, and force-reload if it changed.
-const APP_VERSION = 'v19.11-build3';  // bump on every deploy
-
-async function checkForNewVersion(){
-  try {
-    const r = await fetch('index.html?check=' + Date.now(), {cache: 'no-store'});
-    if(!r.ok) return;
-    const text = await r.text();
-    // Match: const APP_VERSION = 'v19.11-build3';
-    const m = text.match(/const APP_VERSION = ['"]([^'"]+)['"]/);
-    if(m && m[1] && m[1] !== APP_VERSION){
-      console.log('[auto-update] new version detected:', m[1], 'reloading...');
-      // Force a hard reload that bypasses cache
-      window.location.reload(true);
-    }
-  } catch(e){
-    // Silent fail — network errors are fine, we'll retry next interval
-  }
-}
-// Check every 60 seconds
-setInterval(checkForNewVersion, 60000);
-// Note: removed the 5-second startup check — caused issues when version regex didn't match exactly
-</script>
-</body>
-</html>
+  document.getElementById('bScore
