@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Nvidia posts record $81.6 billion quarterly revenue on AI spending boom",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nvidia-posts-record-81-6-billion-quarterly-revenue-on-ai-spending-boom/articleshow/131235368.cms",
+      "pubDate": "Thu, 21 May 2026 02:07:11 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Nvidia posts record $81.6 billion quarterly revenue on AI spending boom",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidia-posts-record-81-6-billion-quarterly-revenue-on-ai-spending-boom/articleshow/131235356.cms",
+      "pubDate": "Thu, 21 May 2026 02:07:11 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks today: Dow soars 600 pts, Nasdaq 1.5% as chip stocks rally eyeing Nvidia results, Iran peace deal hopes",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-rises-as-chip-stocks-rally-ahead-of-nvidia-results/articleshow/131235246.cms",
       "pubDate": "Thu, 21 May 2026 01:33:57 +0530"
@@ -19,16 +31,10 @@
       "pubDate": "Wed, 20 May 2026 23:55:55 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Fed minutes show more policymakers were prepared to lay groundwork for rate hike",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-minutes-show-more-policymakers-were-prepared-to-lay-groundwork-for-rate-hike/articleshow/131233644.cms",
-      "pubDate": "Wed, 20 May 2026 23:55:49 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "OpenAI preparing to file for IPO in coming days or weeks, WSJ reports",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/openai-preparing-to-file-for-ipo-in-coming-days-or-weeks-wsj-reports/articleshow/131231301.cms",
-      "pubDate": "Wed, 20 May 2026 22:18:15 +0530"
+      "src": "LiveMint Markets",
+      "title": "US Treasuries Rebound on Optimism for US-Iran Deal Progress",
+      "link": "https://www.livemint.com/market/us-treasuries-rebound-on-optimism-for-us-iran-deal-progress-11779309774577.html",
+      "pubDate": "Thu, 21 May 2026 02:12:54 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -53,12 +59,6 @@
       "title": "Sebi may allow third-party payments in mutual funds, ease transaction norms",
       "link": "https://www.livemint.com/market/sebi-may-allow-third-party-payments-in-mutual-funds-ease-transaction-norms-11779279478624.html",
       "pubDate": "Wed, 20 May 2026 20:19:08 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Supreme Court reserves verdict again on Yes Bank\u2019s  \u20b98,415-crore AT1 bond write-off",
-      "link": "https://www.livemint.com/market/bonds/yes-bank-at1-bonds-supreme-court-reserves-verdict-11779280571743.html",
-      "pubDate": "Wed, 20 May 2026 19:40:12 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
+      "title": "Maruti Suzuki holds 29.28% in Jay Bharat Maruti for FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYS1peVcyRTJZa0ZIbmRUdVF0ejl5UnZfZnNtY3hvZWtZelZ4cjZtYXdGQXlObkRDTHI1LVNVemhyN3VDZlp5YlRiRXJWdzBWRnprY1Z4aktsdkg4bHpCc1BaWWJxRWc4QTZPMUJfcENyOEc3YzdpNEdxdWZQdWJtcjRKLWw2SnJxYnFPQ0x2a1N4eU84UWFCZnNCclFsSU5NUnNsbElUVnNrazVMSWQySFNR?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:46:46 GMT"
+    },
+    {
+      "src": "Google India News",
       "title": "Stock markets climb in early trade after Trump halts strikes on Iran, hints at deal - Ahmedabad Mirror",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTTRubXBobjg4UnFVaDlUN3JQdWhlZkM5U0ZvT0lOaVQwem1iclg5TzFYM0U3cTJrdm1yWUVmLW8xeW5fX0lGUkVLT05EeGlwOTBSdjFmQmdzTEpBMXR6YXBSZWt4OWxnRHhYYzN6RmM3U2cxUzMycHlSQmVxcGh1TkN0VElWd25DY1RueDhiRUg1bm1vQWhuc3J4VjdwTVBiWFY4VUpDNmFfVHlzTlZxUTduTjlBblJkdXJFSjY0UWFsNmZiRU5Z?oc=5",
       "pubDate": "Wed, 20 May 2026 20:15:37 GMT"
     },
     {
       "src": "Google India News",
-      "title": "ICICI Lombard schedules analyst meet on June 10 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVjFzVjZXQ1dva1JNZzFDV0drUDl0Mm5TX283dHdTOVZiVzRWTWk1b3FTUjg5TkNyR2stNHhoNG9laUpsVERES3psX0lIV0hRTDNRWnhqZmZPZVp6cTd4Sk9ScjVwMHd1WnNzX0F0VjdpNi1MaUJSVEd3SGZfMmliclU1RzhRMkpfXzRvQXRMd21xUjJFSmlPNFF1ZFprYnBacWZTbE91VQ?oc=5",
-      "pubDate": "Wed, 20 May 2026 20:03:45 GMT"
+      "title": "Borosil Scientific Grants 18,700 ESOPs at Rs 108 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUnhpLU1HSy1LcHcwMHpwTElPUlRTcFlZUmk3NUs2N21Wdkdxd0I4WXhTQmE3TGJ2VUkwSzdYb2Mtb3BpT2RnaWZYYTF3S0VLZmF4UkNJd0FiVF8zbk5naTd4VExLT1ZpeV9STVR6WnBjMS1fWHJXWXNEUFp5Z1dPV1pNWXZCbzFsMHdzYVdQN3RqQ3FRUkxWU1JobWtFSjBPYnR2cFBqenA?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:37:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "PB Fintech invests \u20b95 crore in subsidiary PB Marketing - India IPO",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEc5dUxqZWZSSnp5cDJIVlJCN0x5dmhabnAweWNLQzU2UUtZTjVVeEdDeGEyUEp2QWoyZ0gzOEt1N2ppTHF6aEV2akpqdkRjMVdxTlVoaDVKbWFUb3F0QTJXaXl6QVJZdmRnVFFWcldscktMLWc0TjhDWHBRbFBGM2lSRm9IRVE1QnhTRUwyenNrUFhMV0E?oc=5",
-      "pubDate": "Wed, 20 May 2026 20:07:11 GMT"
+      "title": "Maruti Suzuki discloses FY26 shareholding in JTEKT India - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOElJbXhEc09CaWpvbmlzdVpIaWt4X0JYeXJheENFbk9FR2NPVFRRLXVET3EtNG84Uk1PbEhOS3FkWXVnU3ZEMlJDbzhIR1h0Nm42R3VIMUJJUmc1LXYzNzJLNDN4NkpzbWVJMzFzSG0yN1E1MmszMm5RUDBMYmhhVHJKZXFJcm9haHdwSVdzblY0a0dPcEdaa0dsdThhazlhMFZ3SWZ3QjZlRWJhQUdSNm9Maw?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:41:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Why is First Solar stock surging today? - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbm0xbUphY1o2LS1kcFZoaVJJTFFaajNDMEZJWURLVmdVcmxBWnV2M2JUUkQ2MWlVRFFHazFXcEE3V192UDFYSVg3MkwxbGhqWUpndWkxbV9BNnJZc2Ewa011V29KR3dMdFRqd2VyQnV5LUlsanZpR1ptRzBmdkZpaWNPeXVyQ2ViWlZoY2FIMjZET0pTSUpKSTNIWlVxWlowN20zMHRIaVFpTnpsNG85bQ?oc=5",
-      "pubDate": "Wed, 20 May 2026 19:49:17 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Confidential IPO filings gain traction - financialexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONWtfZHp5UEhRNXJHLUZlT0k2TDBzQ0FTU3BhQTJ5RHI3ell5SzlPNmR1akx2ZE9wWEF0Z2o1eW1TM2RWcTQ3bWlmcGo5VlBENk92U1FWdV9rMjQ2VUpweFhGakxLTVpSZ19yQzFWc09OaGYtb0k4QV93WkVaVHVPaHJMSXBXdFNTbVBCczNtVnI0ejdZX3fSAZwBQVVfeXFMUHZVclJtbVRGMDJNZnRMTmpINkZRbzZqQ00xMk5ZQTBxQjRhT3JibWtHWUc5S0hXd0JwQ0xmVFN0OFJjVFFtSU40QUlNZGRBdk5QaGtLeWk0QlE1MUFJRVAwUy12a3FKSjFWaFdHSVBkYm9fWnBhd01tS0xzV1VuNWhoMmQxVzFtVXI5V2hUZlZKcVZRa2thMDlja1hX?oc=5",
-      "pubDate": "Wed, 20 May 2026 19:49:50 GMT"
+      "title": "Maruti Suzuki holds 14.81% stake in Bharat Seats for FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMnhBWFk1WTJLR3o1Q2ltV0Vyc0hWYklKYUhQTU96WEZlMHVwTWdJODF3eUFMLUQ3MTNYMTJ3cXo1VlhxdWdoTl9CUE15bFNyeURRd1JKYWx0MExmVUZJWTVYQ2hJVXYtV0VtVmMzSjhHUTNUa0dWME83TXpUSUU2c3RkT1FXTkZwbmRUUHVLQTNIYXBEenVnZ0dIZVpLcEdWSGxVZHBfYlBVRHFhWW9FMlVaUQ?oc=5",
+      "pubDate": "Wed, 20 May 2026 20:54:00 GMT"
     }
   ],
-  "fetchedAt": 1779309527
+  "fetchedAt": 1779310776
 }
