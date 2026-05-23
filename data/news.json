@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Wall Street Week Ahead: Soaring stocks could face rocky patch as earnings wind down, yields perk up",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-soaring-stocks-could-face-rocky-patch-as-earnings-wind-down-yields-perk-up/articleshow/131271718.cms",
+      "pubDate": "Sat, 23 May 2026 09:12:01 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks today: Dow hits record high as Middle East hopes lift sentiment and Warsh takes Fed charge",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-hits-record-high-as-middle-east-hopes-lift-sentiment-and-warsh-takes-fed-charge/articleshow/131268063.cms",
       "pubDate": "Sat, 23 May 2026 01:38:23 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Fri, 22 May 2026 21:53:55 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Deepa Jewellers, Cotec Healthcare receive Sebi approval for IPOs",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/deepa-jewellers-cotec-healthcare-receive-sebi-approval-for-ipos/articleshow/131265760.cms",
-      "pubDate": "Fri, 22 May 2026 21:36:22 +0530"
+      "src": "LiveMint Markets",
+      "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 25 May 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-25-may-2026-11779505905132.html",
+      "pubDate": "Sat, 23 May 2026 09:05:53 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -53,12 +59,6 @@
       "title": "SEC Delays Plan Allowing for Crypto Versions of US Stocks",
       "link": "https://www.livemint.com/market/sec-delays-plan-allowing-for-crypto-versions-of-us-stocks-11779476177771.html",
       "pubDate": "Sat, 23 May 2026 00:26:17 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Sebi bars 7 entities over stock manipulation, freezes  \u20b920 crore gains",
-      "link": "https://www.livemint.com/market/sebi-bars-7-entities-over-stock-manipulation-freezes-20-crore-gains-11779466343584.html",
-      "pubDate": "Fri, 22 May 2026 23:00:38 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Steel Exchange India schedules Q4 FY26 earnings call - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLTR0VGdJcTRnOGU3UFZUUmwwZ0d3TUd1eUx0LUtwMnZXR1lQUkgxM3N0OVZjS19DVldMbGRzb0hvT1RGR2xKa0VkSjJEREdJRXd6VzFla2JSX0hLcnZKdThMREx5cTdMMF9ob29xbEE1SlRzX211RzFkaWxhemtyUmRTaDFBVS0xZGp2Ym5MT3k4NUtuRWZBUlRVbk1qeGt3anFxVEJQWllIM0tIUTJrc3YzQU5wSFZkWkE?oc=5",
-      "pubDate": "Fri, 22 May 2026 23:26:09 GMT"
+      "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 25 May 2026 - Mint",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZDltY1FGQVplWG9VNVR0b01PU3Rxc2pFVTh2UHFRV0w4RWhpZzE1b3ByQmFuc0t6ckZ0WGxQdUZITXdyMGx2ZTU2Qm12T2tkajl5ZUhfTFVicUotVDRIX05vNlFiUC1VWVh6SE9nWUZBUWhIekp4N2RvUExGOHlUZUIyYldZcEdaNW1BbEZiWXN4OEVTRTBRQzNYVFl3ZjJaaHFhc1B2bDdRU1ZqWFE5OGlBcF92ZEJ3a29OdTdrS1pUMVJHRjI2aXdwUFA5bThmZzJCVF9RT05OUzItQWdUQVlUMA?oc=5",
+      "pubDate": "Sat, 23 May 2026 03:35:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Economy resilient, supply a worry' - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc0ZkNjQ3RVVHRWMweTVVTjhrOHBIYThVQ29ZRXpwVV81cXpGSHBQOUpEZl9WMUZ1TEFRR1Nzc0FPZEVabkRfMFFwcFpvb0ZDd0pYMGl1WHdlQkxTblpLZWxVVm1oVjNLd3EyVmV4RWxSeG1hMk5GVG14TDVBRXBoQkNaZDlBTjg4X2RXVXN5cjR5cHBvQkZxMGxFbU5jN29uWkwyWk5WaUlsYjBiOHhfTHRNajlLRVhxZ2fSAb8BQVVfeXFMT0JHZGtPLXQ2dE52YUFjWVFpMFA3MkdsOVdBd2RPWl9wVXkwcXpNNzdIeklhWEt1UEtCaEVCdDBRcG9ZNjhaTllqakxLQTJTSTRHRXFRQ05jTkRoUnVrTE9sTWV4S01FYm80ZG9SSlQ3UmJkMU9EWVhEOFhDUG9WVHRET3MxT09PNWtfZnczZ1NDM3N1Y2VWek1Oa1hqZmJ3cElvaTNnX1lybVRHQkY2a2lsa2ZDWVZ6X1ZXX2dQaFE?oc=5",
-      "pubDate": "Fri, 22 May 2026 23:28:00 GMT"
+      "title": "GHCL fixes June 18 record date for \u20b912 dividend - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanFjZDRuWWRzV081T0tRMEg1R2toSk82eGt5VEdpVlJydmFxZ2xvTFJTdF9oVUpnclc0VkRsT0puMEZKVng4ZDlJQVUzbTlwU3NUTW42bFNZcGJ1T0ZiWVdWb3ZIY2E2cEJjNTBnRzloMzZCUnQwNlZZZXVjZVhXZS1NZlJ6RkJFd0FreV9sZHJ5dVlET3E5QzhnV2JtWEhaYXNDVm1tNmlrLXJkY3FSdg?oc=5",
+      "pubDate": "Sat, 23 May 2026 03:45:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Yield on US long-term bond hits highest level since 2007 - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZzBlUzRWM3JqeE9EU3dUeWJISWo3SzV3QlJqV1BDVDBMcjNvcU5XRHlCYVVWTUtvbDZzZXVwZXltc095dnR5dlFaYTVKNUx1WmpDXzNrYnFMbHBjT0J2eTdUQXpIY2NwZ1R4NjRLU0xraWd4b2V0Q3VWNzJFT01UemJPMGNSc3JCN0FTZEpFbUp4MHZ0VWJkYjg4ME9UNmtydkgyd09MUzhydFdCODAwZUYyZk1jVWhJdWZlQU1QZzBrMTBEUnB5WEFlLXhqd9IB0wFBVV95cUxPTGtBX1k2ZURMeDZWV2lHeTR1RDE1OTZVM2c0R2l3R213anB3VDlaTmx4Z0ZPWlRkRzk3c1ZHTm5kUHZVNGNzM2JUYWVDbVNqZkxuRGIwSEhJUVY2V1ROdlBnWC1PNkJCQWVZbnhIdUdRV2dYS0lPSjNyNDFLYmc0WnJmQWVfc2F5aExxNUh5LXprQjBtTnpma29ldm43bDJDQ0tTTGtOWUV1NWhTRjBUUjBjbzVZX2VBRGc5QWdFcy1sRjdRcEhCTU04R1l2WUV0QU9v?oc=5",
-      "pubDate": "Fri, 22 May 2026 22:42:26 GMT"
+      "title": "Q4 results: NTPC, JK Cement, Reliance Infra, Divis Labs among 78 on May 23 - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZmNlVGVObWdhN0dySkZZNkh3ZG8yVVZhTmxYNWhsMldVTWtJX2RCbnRCaGFTU09qN055VzFyS2JuWWZSNmcxLXFLenVBdXEzVkNhakxIalA4eDctYXdoQnNxaFVwWGkwdkd1RGZ2R0xVcm9WQ3Vla2Q5SWc0OXg4dGgxZzl1dGFvcDVKTm5UdFRMUENiQjBXUUZMZmFrdXd1cV95TUNuT0NEcXhWWVpZME14NHB6encxS2hOU2RwUm90bEVPNGJWOXdyazBIVlNBMTl6bU1ybEZ0UXU2WV9XeGd1M3phbk3SAewBQVVfeXFMTzY1YXU3UnJ4VmdTMXVvbnpUYjBWQllUWnB5MXYzdjRSMy04YXZza3FyWDl0WWR1OVFlalRITFFhczZhZVZRV2NpT2xlckhoU3J6WUpiUTZMMV93Rlg1aUJBaFo3ckpDNGpqUXlzY0VQME5UaV96U2FVcUN3Z3puc3lIY3g1ai1LSFN1QUtkcW5hcWZIOUxuZFZwOTZHNXBUT0h5UWpaZk4zbW1VWXVRREFIWkF4Yi1FUmxtbTJzdHJDdzB3QnlIUFZPLWttRzIyOTJlT0huTzI2V3VHMENLVVBmOHd4QzRkbm9mMWs?oc=5",
+      "pubDate": "Sat, 23 May 2026 03:21:07 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Honasa Consumer revises code for fair disclosure of UPSI - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUjN1aV9xS1E4bllpcDc5aXQ4NXhjbUF3MWZkSW9ac0VTZkh5cG4xMEF3V3NCcERNMkVKYnNhT1NfM0tzUDJQNTFKYjVhSG1KVnRWOGZPT1hPMERvQTZtTVVaTlV2SUk4NUJPVWtweTRuUTROQ01OVWYyM3Y0VTBvOUdoRTdqTXFUZGNuMEoxMG5NdW9ZQXJwMVFPVEZReE1nSWh0Q01Kd3B3dHcxTVZpMU9HOA?oc=5",
-      "pubDate": "Fri, 22 May 2026 23:38:10 GMT"
+      "title": "Star Cement revises contact details of Key Managerial Personnel - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQME5KR1oweHBMdnVmWUlaQ2FCVzNWS09kOW53d3F6QlhzWS1tRUJiYldMcl8xMXd4ZWo4NWpIZEppd09WQVZQb0xueGZsTDU3YnlrSnJubmtJWDZTMDdtVFBxUWhOa2FFTHB6SE1qQ29pNjRldUdhNmE1dVgzU0pPLXpoYWhaNXBKRTBxaFJFRzFOaURCdmZ5OVBNblhQUi0xRWpqYmVsV3FvT0RQUG01cHpsc2RucEFxMzFkaA?oc=5",
+      "pubDate": "Sat, 23 May 2026 03:39:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "TCC Concept Board Approves Promoter Reclassification - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOXzNzOGtqRWpmbnc5UWczSEZSSTJDbUptN2h3ajdaQUVkLXpzSlg5UXdVc3QxNlBZcjdpdG9nc2dPR3oydkMxNnZFNG5aZ2JwTV9FN1hsTDZ5T3NoM3JXYVpublRtOVl6R1pRdGUzWURlNmZzTEw4RE0wRDNwaERwemlCSkp5b2k3UDRQc1psVFVIaUFUTjFOSm5jbnVqOVNPLTltazJ1alNZcDYzSHc?oc=5",
-      "pubDate": "Fri, 22 May 2026 23:26:08 GMT"
+      "title": "Wall Street Week Ahead: Soaring stocks could face rocky patch as earnings wind down, yields perk up - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOd0JwdUZBZlpoeXNZM1FaYlhUa01QM3dhb19XSnBLbjEzVjQ5eDFGajU3M1VwaDg3LU80Y2NCYXB1czZXXzFyZ0R4SGx4VGlwTjRmR0FFeDI4Z1NQTk9WSWY3X21ZZGpBM1VUWFNsQTJBdkM2YTN0Rng0Nlc4UUM3cXBHU3hWMldXeThJSC1fWEg3S2RBUHVDT1U5SG9ZcHJobjhGb3NOWGR6a1NZcGxXbEtST0xROC1YQnVaNmlHX182cl9kcUdNYkNhU2lmRWkwaThWZ0FkX3ZVVmZMN1ZBb1djQ0VKdDA3R0RXeDVjbTNMOG5hZGFfS0MydGlDQzdEMDhPYjJQYTluZ9IBigJBVV95cUxOd0JwdUZBZlpoeXNZM1FaYlhUa01QM3dhb19XSnBLbjEzVjQ5eDFGajU3M1VwaDg3LU80Y2NCYXB1czZXXzFyZ0R4SGx4VGlwTjRmR0FFeDI4Z1NQTk9WSWY3X21ZZGpBM1VUWFNsQTJBdkM2YTN0Rng0Nlc4UUM3cXBHU3hWMldXeThJSC1fWEg3S2RBUHVDT1U5SG9ZcHJobjhGb3NOWGR6a1NZcGxXbEtST0xROC1YQnVaNmlHX182cl9kcUdNYkNhU2lmRWkwaThWZ0FkX3ZVVmZMN1ZBb1djQ0VKdDA3R0RXeDVjbTNMOG5hZGFfS0MydGlDQzdEMDhPYjJQYTluZw?oc=5",
+      "pubDate": "Sat, 23 May 2026 03:42:00 GMT"
     }
   ],
-  "fetchedAt": 1779493201
+  "fetchedAt": 1779508824
 }
