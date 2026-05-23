@@ -2,9 +2,15 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "Bandhan Small Cap among top 5 smallcap funds with highest risk-adjusted returns. Check details",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bandhan-small-cap-among-top-5-smallcap-funds-with-highest-risk-adjusted-returns-check-details/slideshow/131277804.cms",
-      "pubDate": "Sat, 23 May 2026 16:02:18 +0530"
+      "title": "NTPC Q4 Results: Cons PAT jumps 34% YoY to Rs 10,615 crore; Rs 3.5/share dividend announced",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ntpc-q4-results-cons-pat-jumps-34-yoy-to-rs-10615-crore-rs-3-5/share-dividend-announced/articleshow/131278401.cms",
+      "pubDate": "Sat, 23 May 2026 16:47:59 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Gokaldas Exports posts 9% sequential rise in Q4 revenue",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/gokaldas-exports-posts-9-sequential-rise-in-q4-revenue/articleshow/131278343.cms",
+      "pubDate": "Sat, 23 May 2026 16:45:11 +0530"
     },
     {
       "src": "ET Markets",
@@ -23,12 +29,6 @@
       "title": "FIIs sell over Rs 30K crore worth of Indian equities in May as outflows swell to Rs 2.22 lakh crore. What lies ahead?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-over-rs-30k-crore-worth-of-indian-equities-in-may-as-outflows-swell-to-rs-2-22-lakh-crore-what-lies-ahead/articleshow/131277123.cms",
       "pubDate": "Sat, 23 May 2026 15:15:49 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Nifty stays range-bound as resistance near 23,800 caps upside move",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-stays-range-bound-as-resistance-near-23800-caps-upside-move/articleshow/131276438.cms",
-      "pubDate": "Sat, 23 May 2026 14:20:28 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "JK Cement Q4 Results: Revenue rises, but margin pressure weighs on profit",
+      "link": "https://www.cnbctv18.com/market/jk-cement-q4-results-revenue-rises-but-margin-pressure-weighs-on-profit-ws-l-19912027.htm",
+      "pubDate": "Sat, 23 May 2026 17:39:11 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Sarda Energy Q4 Results: Profit jumps 46% despite muted revenue growth",
       "link": "https://www.cnbctv18.com/market/sarda-energy-q4-results-profit-jumps-46-pc-despite-muted-revenue-growth-ws-l-19912021.htm",
       "pubDate": "Sat, 23 May 2026 16:32:07 +0530"
@@ -85,41 +91,35 @@
       "pubDate": "Sat, 23 May 2026 14:35:11 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Defence, exports and platform companies among top market themes: Envision\u2019s Nilesh Shah",
-      "link": "https://www.cnbctv18.com/market/envision-capital-paytm-fintech-honasa-swiggy-zomato-maruti-centum-electronics-bajaj-finance-platform-companies-19911946.htm",
-      "pubDate": "Sat, 23 May 2026 13:59:31 +0530"
+      "src": "Google India News",
+      "title": "IREDA board to meet on May 29 to consider FY26 results - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUS1VeU9XSTJqOVQtM1NQem1hZlk4NGVlTmVwaXlELTMxeHJDbmZvVGl0QjdMS21kUDVjUWFYVEh3U0poUm9Ecy1BY1FITDkwX1BSSFRDMTZQT0FFajFJeTFfeWQtMkJrcTJzVk5pejMtaG9zVUlTbHd6RUc2Q1lNSWtoUllYYmI3WUkxRE1CX0JOa01EWk1vZi1HWjRxRDFtc2preDJkczRJVE9abVJ6Wg?oc=5",
+      "pubDate": "Sat, 23 May 2026 13:54:07 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Planning to take international exposure for three years? Here are top 5 global funds with over 40% gain - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZGRpN3Q1dlBWcnVCQl9vM2c3NFpubkxkWkhQUzlFcFhpQmV5ZW1aV2kwUXJKSDB6WmhvTF81UGhxYi1LR25LZzhTenlpUjFWd0lPMEpXeVBCNlVONERYMXhNQmVoeU5PRHlrWVJvNUV3M25mZU0zb1FldFNpazZJR1ltMlRVdzJacllQRUlLdXJ6OUNKYy1EczhWU202WFJPcm5SNHFORjd6ajdwNjZYMC01OG1iTi1zUEJ1OS1qaDV3UEVrT2daUVVmNW4wZ0hWVGsyc3ZseGozb29BSk9VVUh4S3NkYldmU3ltT1FoaWNKNlNUakQ4YQ?oc=5",
-      "pubDate": "Sat, 23 May 2026 11:16:32 GMT"
+      "title": "'Potential to diversify': US state secretary Rubio pushes for US energy supplies to India in meeting with - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPUUpiY0tlaDR0aC1wYTIzd193R25UZnVSZWZzSW01WFpMamJMdXdxZTZoX3JDaGktaG5KSHY4NzhRNVFJTS1mM05ucWZQVElKbWRzS0k3MTVqdl9uT2V2TDJqdjhGZ1h5a3hucUFVWmtCZ2ZocGEzemlHVkJzWjJBVENuYmx2bVpGdGhKbG9PazF1dEFveGcxT3U5MEtuNUhuY3FKY01ocWZ5TkprczdETWY0ZDYyeVRNX2hrdWp0UEtWcjVjTkhTOWZOV24xWEhObHU4T1E0dGNxc1JJb0UyMm5zcGxxN2twUEpTYjYySmtYMlFkVUUzeTNaeF9vSGt5TkRuZ3ExWHY3aUprQUJuQmhtbTdIYzBqcUNaM2l4THl5Z9IBpwJBVV95cUxQTFpNR2JYaG56UHdzV3BuSUJvS2ZaTkNlWWktRmtwa1Npb0F2NEtUNHRUWVdRWUtGWXNCQW1SdkFrQllSbWxwTF9nRlRyaHpCbzh4ZnNSU0szVW0wbXpPTTlIVFlNbTFkMUV6dXhfUks2VTRxRElabDJOSVJCQXI3N2Q2czlHWEk1RFBabkZjRXFaak5sY2YyamtGZzBOOUQtMmlReDNybVdnQ3dmRUN3QjdiX1ExS2k0NFhGV0RNTWVLYzFhUjNMQUx1SzB3QVd0eUk3MHRwLUdDVUNwN2NUSmFBd1NVOWxCVjVya3V2aWl6YWNJdDlmdWFmVFEyaHotZHZYUXNvV2Q2OUdhR3d2eXg1NHdpYXVGZEZES1NBNjc4dG9yWnhF?oc=5",
+      "pubDate": "Sat, 23 May 2026 13:29:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian equities attract Rs 73,639 crore in April amid revival in investor sentiment - DD News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTElvN09YRDNLWjJCWDFzNGNqai1iMUxZY09jeE9jMFBta0lBdldnSjR3Z3Q0bEhWaEYxbEtkOGlEZ3hjd2UzczZWOHo2akVSVUlxdk5sY1BtcXNrYkZLTDFTb1dteFJPbTJqaDRWTmZIcEYxWGVMZEV1Q1Y1SFpISjVRX1RKek1tYmtyWXBEdFVPWm93TDlqOXdJZ0tpbGVEMU01ai16WWh6SUg3?oc=5",
-      "pubDate": "Sat, 23 May 2026 10:33:38 GMT"
+      "title": "Arihant's Securities board to consider Q4, FY26 results - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeE1NRmhOTGZjb1F3V3gyM3U1dEY1LVdWbkt5cnVjMTJXTU9TSUtxZ3Nua1F1S3lDYllaZ21nTmtyTFBhM1kxWTRBakI4eXl1YlFaNUtOYXRoVExZVllwNmQ3a2JaS0Zua2xwWE1LSHo4T1MyM0UyZk5iZjBSQjg3Vk1GWGdNRGEwd2ZRMzlneExfcG5QcGMwbGdiMXlwLVB2b2RJYjZ0X0NiSjBFb0xjYQ?oc=5",
+      "pubDate": "Sat, 23 May 2026 13:56:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "BlackRock Floating Rate Income Trust Fund - INDmoney",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBna29XYVVkOXUtSWtMMVZtdlVYWmxubjF1WG5lV1dOTkZWVFRmaUdWMkFTTElVNGM5eFByQllmb0VTamxvbHpKNnJVMVdvY3QtakdtMzZR?oc=5",
-      "pubDate": "Sat, 23 May 2026 10:23:30 GMT"
+      "title": "Petrol, prices and pressure: How the Iran war is hitting American households - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYWhFQl83bUxpLWZRT21ieUR3b2JpSWhrdVVaSnhGb0JwSkJBcGxvUFdLWlV6RlFfX0xlSE1QRWxjTUFXUFZtVE5uZUVfRWZWZGJoeVlSUkN1U21BUE1KZGNJX3paQkhRN2RwMFlySng1c3hGWHpiQnVVZ2toMkJ6TzhSaWFldGpwWHVyeXVLc0xSVVlVYWVxMVFXUGVtNnZqTENwUXNOWl83R0ZpU2JkMVM4a2VYc3pqQlRZZUpvWlRtSVFKWWxPOVFxRS1PZmwzXzE0cVo3RUUwaVhLc2VRQ2JZcnRSMHNQWmFBRndFTlRtRXIxcW1HbFBPN0zSAYICQVVfeXFMTThWcDlJQno0UXh4eHVySHNxWVNJU3pnQW0yOFJyQXlwYmwwNTN5UlBkcy1zSjV1YWZITkpZa25EaG1ScUZTMllsUWpRdE95Y1pBZHpuNUlhbEdDQkFCMkZ2VWYzUmJIZnA2eS1zWE1MelNJSl9SWWpmTk80OS1pQjg4LU9MdkJVWXh2UHVtNjlQb3dBbE9ubEFfcmQtUUNGYlhSdFJ0ZHJuVldjeGdRS3RnOTR0S2k0U01JZW5YQjR5Q2EzRGZveGdmV2pWRFdqbTNLbDBwZFA5MEFPa0hUSEVvSnhKcXZueXFGNWVkOGp3aDlQUl9DdUpCUVEtZGwwTVdR?oc=5",
+      "pubDate": "Sat, 23 May 2026 13:43:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India tech giants struggle to recover from $115 billion stock rout - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdXpVbXFtbThkaFVKVElocC1LcUdld1RnMmVwU0ZMS3pJWUtZa2NZMjQtTXhVNm96NjljQkRyQmZ3ZW5BbzdLMXlRa0hyWndmdGJDTGRza0YyUmZtcTdsSjk2QVNyV3FSWWhSYUowWmw3aGZpUHdRNEZSbmZyc2dncldZdnRqNFY1R1lfR3hKRkdNXzdzNjZUOUFsNE9VdHRUSW5QSHdoa1lKMjJnWkwzS0VZaHQ0MW5KaXF6R1R5UlpfREN3Z2kya3RTNEpOUmI5Y1HSAdcBQVVfeXFMTVVzYi1TZHNDM1FTZXkwRklBUW1VbFl5OTE2Q2w2ODVUb21vY19XY1VSX2p4UXNKcmJMSXAxM3d2ZWl5aWNwSmJQNG1ZcmE4UUI2czhMelVtMWFzRWJLUEJTZDFCWWxraWhUN0dzMngxWjVDY3dlYy1QMTNENURzcG41bHRMS096Si1qX3BNVHRESGdvZGVsUjJQdmlXRjhJaDg5OHZfNmoycTEtTTRaMGloZDRYcFYxOGZhVDZoY3pPY2JsVmZLQThheEsxZ04tX05waDdwVVU?oc=5",
-      "pubDate": "Sat, 23 May 2026 10:22:17 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Goyal Aluminiums board to meet on May 29 to consider FY26 results - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnhuWUMtWkNsTENiaVFvN212SlhRUERaaDBZbUJFMG9QMGVRbmtyMW1NdUtlQ3pPaHhUY082azZQdENSWWUtOTdlV2FjbjNNdlVwZ1NISUEtMmtqam96dXRnRy01aUtmdHllbHc1VXFvbHFzc2ZZOUxIYXgxaHdsOVF4ckcyc1otTWE2ZHVvYnRDVXB6YTAxUWt3cGNkWlVqLWxJSlFXT3hPbUFYajlLblJtUWh2WEVwMjd1Uk8tYw?oc=5",
-      "pubDate": "Sat, 23 May 2026 10:59:18 GMT"
+      "title": "New USCIS guidance on Green Card raises uncertainty for Indian H-1B, L1, F-1 applicants - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNU3ZNM052aXFQV1F4TXFFS19Rb0NWWUgzN285MW5BS0ZCWnZSbTZpSmR6MkJIRmpHdlF6UTdaMnE4U2pYRXQ4a3ZDT2VYVk9hMzFRMWFZcWxxVlBuQXMwZmU1YTktRVI3M3p3NENPdlNMZmktakpzeEg5Y0RZMXpxcVVEcmZLRmVENktmS3NoUE5hUjJnSmNWd2FyMTZXZXlHbDJ1VlVRbHctY3Q0MHJrVW10NlBMT01FcWVISFZDSWt2R0NjLUV4dU0xdG5OV0VKYV9ySjNMYjRhcF9TOWp0Rk0wMU9waG1WSEtINGxsLU5taHJpOHJfUWVWbG42Z9IB_gFBVV95cUxNU3ZNM052aXFQV1F4TXFFS19Rb0NWWUgzN285MW5BS0ZCWnZSbTZpSmR6MkJIRmpHdlF6UTdaMnE4U2pYRXQ4a3ZDT2VYVk9hMzFRMWFZcWxxVlBuQXMwZmU1YTktRVI3M3p3NENPdlNMZmktakpzeEg5Y0RZMXpxcVVEcmZLRmVENktmS3NoUE5hUjJnSmNWd2FyMTZXZXlHbDJ1VlVRbHctY3Q0MHJrVW10NlBMT01FcWVISFZDSWt2R0NjLUV4dU0xdG5OV0VKYV9ySjNMYjRhcF9TOWp0Rk0wMU9waG1WSEtINGxsLU5taHJpOHJfUWVWbG42Zw?oc=5",
+      "pubDate": "Sat, 23 May 2026 13:08:52 GMT"
     }
   ],
-  "fetchedAt": 1779535266
+  "fetchedAt": 1779544629
 }
