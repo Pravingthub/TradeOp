@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Retail, traders chase midcap rally with stock futures bets",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-traders-chase-midcap-rally-with-stock-futures-bets/articleshow/131298769.cms",
+      "pubDate": "Mon, 25 May 2026 05:28:48 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Why India\u2019s next real estate cycle could be driven by retail investors and REITs, Sandipan Roy explains",
       "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/why-indias-next-real-estate-cycle-could-be-driven-by-retail-investors-and-reits-sandipan-roy-explains/articleshow/131292334.cms",
       "pubDate": "Sun, 24 May 2026 17:31:37 +0530"
@@ -25,10 +31,28 @@
       "pubDate": "Sun, 24 May 2026 15:34:44 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Warren Buffett sits on $400 bn cash as Michael Burry warns of AI bubble. Is a massive market crash coming?",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/warren-buffett-sits-on-400-bn-cash-as-michael-burry-warns-of-ai-bubble-is-a-massive-market-crash-coming/articleshow/131291160.cms",
-      "pubDate": "Sun, 24 May 2026 15:31:02 +0530"
+      "src": "LiveMint Markets",
+      "title": "Tepid earnings, rupee slide push FPI returns into deep red",
+      "link": "https://www.livemint.com/market/tepid-earnings-rupee-slide-push-fpi-returns-into-deep-red-11779615554802.html",
+      "pubDate": "Mon, 25 May 2026 05:30:56 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Strategists Warn Yields to Stay High Even If Iran War Ends",
+      "link": "https://www.livemint.com/market/strategists-warn-yields-to-stay-high-even-if-iran-war-ends-11779667147791.html",
+      "pubDate": "Mon, 25 May 2026 05:29:07 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Stocks rise, oil and dollar slide on Middle East peace hopes",
+      "link": "https://www.livemint.com/market/stocks-rise-oil-and-dollar-slide-on-middle-east-peace-hopes-11779665689517.html",
+      "pubDate": "Mon, 25 May 2026 05:04:49 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold Drops as Fed\u2019s Waller Says Next Move Likely To Be Rate Hike",
+      "link": "https://www.livemint.com/market/gold-drops-as-fed-s-waller-says-next-move-likely-to-be-rate-hike-11779660916256.html",
+      "pubDate": "Mon, 25 May 2026 03:45:15 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -37,28 +61,22 @@
       "pubDate": "Sun, 24 May 2026 21:32:46 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall St Week Ahead-Soaring stocks could face rocky patch as earnings wind down, yields perk up",
-      "link": "https://www.livemint.com/market/wall-st-week-ahead-soaring-stocks-could-face-rocky-patch-as-earnings-wind-down-yields-perk-up-11779627695334.html",
-      "pubDate": "Sun, 24 May 2026 18:31:34 +0530"
+      "src": "CNBC TV18",
+      "title": "Central Bank of India OFS opens for retail investors today \u2014 All you need to know",
+      "link": "https://www.cnbctv18.com/market/central-bank-of-india-share-price-ofs-opens-for-retail-today-non-retail-subscription-greenshoe-how-to-subscribe-ws-e-19912299.htm",
+      "pubDate": "Mon, 25 May 2026 05:08:23 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Dhoot Transmission IPO: Bain Capital-backed firm files updated DRHP with Sebi for  \u20b91,400 crore fresh issue",
-      "link": "https://www.livemint.com/market/ipo/dhoot-transmission-ipo-bain-capital-backed-firm-files-updated-drhp-with-sebi-for-1-400-crore-fresh-issue-11779618513061.html",
-      "pubDate": "Sun, 24 May 2026 16:56:44 +0530"
+      "src": "CNBC TV18",
+      "title": "Crude oil prices fall over 5% on US-Iran negotiations; Brent below $100",
+      "link": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-fall-in-response-to-us-iran-negotiations-brent-wti-strait-of-hormuz-trump-ws-e-19912296.htm",
+      "pubDate": "Mon, 25 May 2026 04:49:38 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "IOC to BPCL: OMC stocks to remain in focus on Monday. Which OMC stock to buy for long-term?",
-      "link": "https://www.livemint.com/market/stock-market-news/ioc-to-bpcl-omc-stocks-to-remain-in-focus-on-monday-which-omc-stock-to-buy-for-longterm-11779610983442.html",
-      "pubDate": "Sun, 24 May 2026 14:37:58 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Expert view: \u2018Buy on dips\u2019 strategy should be avoided amid uncertainty, says Devarsh Vakil of HDFC Securities",
-      "link": "https://www.livemint.com/market/stock-market-news/expert-view-buy-on-dips-strategy-should-be-avoided-says-devarsh-vakil-of-hdfc-securities-11779609717481.html",
-      "pubDate": "Sun, 24 May 2026 13:50:05 +0530"
+      "src": "CNBC TV18",
+      "title": "US-Iran Negotiations: Here's how asset classes from equities to oil and gold are reacting",
+      "link": "https://www.cnbctv18.com/market/us-iran-deal-negotiations-asset-class-reaction-wall-street-crude-oil-yields-gold-silver-ws-e-19912293.htm",
+      "pubDate": "Mon, 25 May 2026 04:51:27 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -73,53 +91,35 @@
       "pubDate": "Sun, 24 May 2026 09:48:35 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Trade Setup for May 25: Nifty bulls look to West Asia with optimism as deal hopes rise",
-      "link": "https://www.cnbctv18.com/market/trade-setup-may-25-nifty-50-iran-deal-optimism-oil-benefits-midcap-smallcap-expiry-key-levels-ws-e-19912138.htm",
-      "pubDate": "Sun, 24 May 2026 09:11:08 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Stock market returns are often subpar after a strong 3-year streak, history shows",
-      "link": "https://www.cnbctv18.com/market/stocks/stock-market-returns-are-often-subpar-after-a-strong-3-year-streak-history-shows-19912141.htm",
-      "pubDate": "Sun, 24 May 2026 08:50:39 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Rising inflation could lead to bigger gains in this part of the stock market",
-      "link": "https://www.cnbctv18.com/market/stocks/rising-inflation-could-lead-to-bigger-gains-in-this-part-of-the-stock-market-19912143.htm",
-      "pubDate": "Sun, 24 May 2026 08:48:31 +0530"
-    },
-    {
       "src": "Google India News",
-      "title": "Market Data - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRGJfWDFYODR5V3Y2bC04UzN2ZUU4UG0wU0tJM1haSUlFbU5wSGU3NEdRUXpxaUc2TlVRX3BFZ1NIU1ZwN1hJQldoWF91WTIxUGFFUWNmSW0wMkRscVpDWGF3eTZKLWFh?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:37:57 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Why The Story Around Steel Authority of India (NSEI:SAIL) Is Shifting After New Fair Value Update - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFhYaTVPU0FPYXBWM1VZcy1JcE9xbU1zLW5Cc1E4bEVxaXNyV2kxRHkxTUVja01HdXZCRC1iSEVzUUhOOXlDcUpGcGRHeFp4eWdlTkJCQlJkRUJmOVdfUDEyVElLekJRSVAzcmwwTTQ5cUN1VkVGbXRnOVpVZlFxekVOWl9YUTNsR1hDNVhMMTJsRmExT2VPMXgyN3k4QQ?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:14:52 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India can always count on me: Donald Trump - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWVhDZ0R0NGJMYi02ZGZDQnFlbkoxN001NDRLT2FYNlIyVXZCdjlPNkRSRDdKajhZY1lCNVI3VVZDdklBbzV4Z2ExVnlHTmNZdVJjZXRBSlYxOEp3VmlMZV8wNHJmbXd2ZEtDdDh3LXVxQmk3V3ZjV3IxVVpJOE1OeWtFd1RtVGlCcG5la3lGRk9mODdESnFzV1Z4cDRlZWhWR2xaY2JNLW1qMTRBZkHSAbMBQVVfeXFMTW90c1p4NWN5UlZIaTlZbE13Z25sNWEyR1E0aTYtelZfUjA5NEtVYVRfd1dxS2FYUnM5YllnWFZVSUVCZFZNRnNERHZxdWtCZnBSUXd6UHZCUXJTQTYxVjd1LTVCYnFXTWVIdUtnQUhFNTBZU2tNZUU4UGREcU1Ya191RVhTRTl1elB1U04zSnV4TjBtYXVjc0lnX1FXRnhnVzlnYkZTRmtGSm1zUlZWOE9yMFE?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:22:00 GMT"
+      "title": "- The HinduBusinessLine - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMHdQZ2loZmktMGJGTElMYTg3Mlh3Vk4tSnp1azRfc0ZGa1Z4X2UtTUlpQkJKMF82SHlTZFhtemF3TlRJd195YzloalA3VkhqV045UXJNLWNnMlZlWFlsSnJKMVdKRUQ1X2dBVEVjb1Z5Z0FXMkVaU2szODNBbnU0TDcwcTFvUnB4SjFYOVdYS0JjOEZEdzVQSXJMb2piUVJiQ3RKNW1rTGxkQzNsUklKZ3VCRHlPM3FkNFI2aXRzMm8?oc=5",
+      "pubDate": "Sun, 24 May 2026 23:27:24 GMT"
     },
     {
       "src": "Google India News",
       "title": "Market Data - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLUzMyWVREdW9SRFV2ek9YdkhXaWJtOElXUnB5dHFGQTBNVGh4UXRkd21GRFFFb3lGZi1Hc0J0LUFzQUZ6WUJ5WXZmMFJhOUFTTDRfZTdaSnJOc3lkWFRlTlR2NDBmRXVn?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:09:45 GMT"
+      "pubDate": "Mon, 25 May 2026 00:06:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India can count on me 100%\u2026 anything India wants, they get: Donald Trump - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSi1wZVBSZEc4Tmw0N0sxTUxROE84ZWRjamNKcTlpdHdJOE13eHlrMmFraWo1SkJuTngzR01udU5NNlc1ejhSVGtpV19VenVLRy15aHRETFdRczc3dFJuVzAtU2tSN25UQ2hiM1BRUzJRVkpUOXUzUTJZRW9IbG9iTW5TVVlaejhGNk5Ma09wS0RTdC0yYWRtTVMweTdYaXJkRXZJUGVQV005RzTSAbIBQVVfeXFMTjd3aGw5Z0pvQkRyZEp4dFdIVmRHZTVjX1ZuLU94Q1FIcXBJbzktR0NfaDBNSEpsVTB5RnU4NXhXandENFlMWHVfb1o3M1doQTVFM2NNWWxxNWd5OUdoNmxlWWpQbVF1eHgyc0FiVm9mMzRvTEpPR2twQVF3R1M4Q0t4SFdfOTZvTE9fR3NaZlJGWU9WT2FQRlJ0R2NrUWg5VlVjM1pRX3pmQTlocHVoNHdoZw?oc=5",
-      "pubDate": "Sun, 24 May 2026 21:08:36 GMT"
+      "title": "Tepid earnings, rupee slide push FPI returns into deep red - Mint",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ1o1Yy04dmtDNTVydkFacTFOc3gwSmVyQzZMeXpkRzVPcU5MTmFORWdZeldSYkFTTFFXdDBJekVOcXloVThmUWp2OEdjZjNiYk1kWVgzdlg2RnFCeDhicG5sUk5WZ3otb1dLSlRSVWFtWXNIUllDbDhpd0diZHNKLVlzVFZ5SW5ZRUlNVWYtTkdmUXB6MFJCWkF1bV9ETXJacWtMNXluMjhlSDlwNlHSAbMBQVVfeXFMUE91ZXNHNnIydEdPOUxEWUtWcVdfUkM3U18ySDZtS08zV2JDYm10VkZpMC1ucll2WjBxbTNsS1RzQ0h4Q3J4bXN1cTZDUTJ0OFBZNXNicHRVaDV2a2lKSUVNMTdoLUJULWFVVEtjLTZ2akEtRUtHUGtBUmVqTWNqcFVfNkVzd1BZNW5ZT2hXWkQwM0lhbG5VdTlhVXpVM2JHNXFGclk0SF93a0Z2YU43bS16NzQ?oc=5",
+      "pubDate": "Mon, 25 May 2026 00:00:56 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "InGovern calls for Tata Sons listing - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYXlqY213NlAzZUFnemliZDBPZGlwUkVDYVdSOV9GM3FRejVPQXN6djBMSWVHdDFYOEJhQ0NrODkyenRzN3piNGhWa1NRbTNqVnJJNWpLdjhuaFJNdWxDaTdBTExfcGZ2ZUFwZ3Z2X085dm9idkJwc1NWYzZGZWFGOTFMZ3J1dXU0NmVuMTBUamZBengwcFU0QVlkRk0xTThQekpTdXhHODBwVlIzaVQyN2xNbXEtQldFdzNYU0FKONIBxAFBVV95cUxOSVROYkZydTNrY1V5Q1Z1V3o3ZnVIUzl3U0p1c0U0ZXpPTWcweXBRaDluTGVCMU5nTExTYjZ6dHJ0bkFlSllxZkNtWllOTUlFUXhzRTlJbENsU05QWG9rRGhUa1RqWHQxTDJQZXcya2JvSlpkRlk5SkxTSXJCR3Y1UU9tWlkwZHNia0ZWZWRBUVJ2U2VfRHNSUFVVZE1uMEdaSWxnbGl3cUQ2dDNTRDl2LUwtRFFtUkZyamtNVFgxZTlWWkxi?oc=5",
+      "pubDate": "Sun, 24 May 2026 23:17:00 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Central Bank of India OFS opens for retail investors today \u2014 All you need to know - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVEw5bnFncXBXSXFxcFpXajY5U1RGTHFad1lmSGdOdWJsZU5oZ0YzemxZQkJfR3V4dnl5Wkt4STk2Wmo4bV9FZllFSzEzbXN1bDVPUmdsSnpFd0Rud3VxRXFxTmxiMWU2ZVdjV2JWUkl3V1hPZEw1eEl6RUp2YXZTcThBRmdaNjRRSl9BSXI3bXoyZDFQVVk2dHE1N2lxTUJEdDFWUnplZHJ3Vm1PRHpsd2pCb2pmaS00a0hmWWtYR0ZqaE5uRWg3SFI2QXlIMFNFS2ZCeWFkSHBNUGtDZGZwWHR5WGhzb1BZckxHTTBKQnhUZlHSAfgBQVVfeXFMUEF5MEt0SG5GTjBqbjd0SVRtNl8xUnA3bV91anFtYzh1bWxadzhjS1E3cUZ0Yzl3V1psd3lMWDYybTY3YVA1Z05HNG1pdHltZVlMaUcyZVVGMzMwRzZRcjVwbnA0YlBwMWFjVFQ3RklweGZ3Qkl2aDVyRHZWTnNWV0poZEh5d3NrNWxtTm5Vb1JHcV9HU3VLazYxNks0NVBNdWlrQXU0YWhRbXd0NGFTRlo3VTdQcm1aLXltT0lzMGJLeE9MbncxZkVKMW5QSExEOHpISTk0UmpNVm1CTTRfcHVFcGNLMm16YUZ1WTE5QVhiSUR4MGh6Qlg?oc=5",
+      "pubDate": "Sun, 24 May 2026 23:37:44 GMT"
     }
   ],
-  "fetchedAt": 1779660217
+  "fetchedAt": 1779667790
 }
