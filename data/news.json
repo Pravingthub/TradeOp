@@ -32,6 +32,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Emerging Currencies Slide as Iran War \u2018Confusion\u2019 Jolts Markets",
+      "link": "https://www.livemint.com/market/emerging-currencies-slide-as-iran-war-confusion-jolts-markets-11779838100636.html",
+      "pubDate": "Wed, 27 May 2026 04:58:20 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "TSX pulls back from record high as tech shares fall",
       "link": "https://www.livemint.com/market/tsx-pulls-back-from-record-high-as-tech-shares-fall-11779827408843.html",
       "pubDate": "Wed, 27 May 2026 02:00:08 +0530"
@@ -55,10 +61,16 @@
       "pubDate": "Tue, 26 May 2026 22:32:53 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall Street giant Nvidia's m-cap is bigger than six of world\u2019s top 10 stock markets amid AI frenzy",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-major-nvidias-m-cap-is-bigger-than-six-of-world-s-top-10-stock-markets-amid-ai-frenzy-11779797726758.html",
-      "pubDate": "Tue, 26 May 2026 22:20:10 +0530"
+      "src": "CNBC TV18",
+      "title": "Vedanta shareholders get an important message from Chairman Anil Agarwal; Here's what he said",
+      "link": "https://www.cnbctv18.com/market/vedanta-share-price-timeline-for-listing-four-demerged-companies-chairman-anil-agarwal-capex-ebitda-guidance-ws-l-19913561.htm",
+      "pubDate": "Wed, 27 May 2026 05:01:11 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "S&P 500, Nasdaq shrug off West Asia hostilities, surge to new records, even as Dow sulks",
+      "link": "https://www.cnbctv18.com/market/us-markets-tuesday-snp-500-nasdaq-record-high-dow-sulks-micron-us-iran-war-oil-yields-ws-el-19913997.htm",
+      "pubDate": "Wed, 27 May 2026 04:35:54 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -79,47 +91,35 @@
       "pubDate": "Tue, 26 May 2026 23:48:56 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Emerging currencies slide as Iran war 'confusion\u2019 jolts market",
-      "link": "https://www.cnbctv18.com/market/emerging-currencies-slide-as-iran-war-confusion-jolts-market-ws-l-19913978.htm",
-      "pubDate": "Tue, 26 May 2026 23:11:22 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Tata Sons holds 6-hour board meet to review turnaround plans for 5 companies",
-      "link": "https://www.cnbctv18.com/business/companies/tata-sons-holds-6-hour-board-meet-to-review-turnaround-plans-for-5-companies-ws-l-19913932.htm",
-      "pubDate": "Tue, 26 May 2026 21:35:59 +0530"
+      "src": "Google India News",
+      "title": "Stock Radar: Narayana Hrudayalaya stock breaks out from inverse head & shoulder pattern; time to buy? - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNeVA5eUJSaXlzNl9BNTNNRFJ2Z3NEdXpXSzZncW9UZTRieXRYbTZQRkdMZ1lzOVljYkZac3laWWNHdDdRLXN4ZExRRjZsUTcxdUI1U05wTFhyTXc5dHFMZUdGS05qRmpSM1N3N1F5djRMalBYcE5qaTNCWUxfQWtmb3k0RHZMZTBHaEpZbG9GSDFnN2F5ZnhDd2VjVmt3d096NUxqQ1p3eVlPMmdwYnY5ZWNBSU5uV1hIVzBaTDIzZXczUWtVT1B4eHpqRS1LT29WeVNVRXlzYVRZejVNX1RNMWNFelczcDBxOWFFWUVZbXV0aE4tREtnRk5mMm53Wm_SAYQCQVVfeXFMT3dBZnNhS1ZZbWlKQUVBZ2MyNmVqUFFqTGx1eU8wcjY0NkVEU3IzVWllQTBaUzkzaWEwOUFEbGVaaC0wcnduanViVWt1SUNZN3hudkhYdk9aY1VtQmNXeXpLTGhPaFdaUGhyXzBaSnA5cll5eFNJMGlSZnZGYmVLTDlVUGY3TnVWN21FdVhqWXVGYkhDb05ZYTExRHVMckEtWnlCNE5jcUhEWW9wdWlwbnVaREtpeXVDcmtwS283UWtENE1BNVowdkMycTJiUnhqTE9MTE1wa2dhNE92TkRNdTVVVWJCTzJscFJFeVJIVk5XeUxtYURaMUFsSU12T3NXMU9tckU?oc=5",
+      "pubDate": "Tue, 26 May 2026 23:30:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's fifth spot in global market cap list under threat as Taiwan closes in - Japan Today",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV00yTjllNWZqR1JuQWQyeV9kb2RBNHZBRGRjZ0tSNDBQSHVjNDU5bEpXTTdJTmtHZE5tdVdKOGt6U19PX2x1Ym9yT25rQ0NOZUhzdFJDZjgxeHd3amhxelFxVTU0dzFDU2VKam1PUm1RT2Q3cXUzb3dDRG1ZLUpPcDl3WHZPSzEyQkhXU1kxTVJja3VNd0pCM3BPQ3V0OEZZTFhMcS1DT09LRk1uR0Z0dG9kb2FBb2xJWFE?oc=5",
-      "pubDate": "Tue, 26 May 2026 21:38:55 GMT"
+      "title": "Emerging Currencies Slide as Iran War \u2018Confusion\u2019 Jolts Markets - Mint",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemZRSnpTb2pja1FTb2FFTkg2aXpKeW1RU0NfVmJic21hSl9KUmZlaHRsUTNfQWkzcGpaV0NjclpkRUlsZ3dITG52ZlloQmRiRU5UZWJKT0tDQUhiMGlnTWoydVppcFFpWm82dUI0QUhKd1ZycmdfeGJPYTRVZmw4Ujd5UlM0WVJBM21LRnJKQmYyTnVTMmVRNmpnbVhxRmlZRTlMT1R0VnJoeVBOampGbzRlNNIBuAFBVV95cUxPVW5UU1BTalN4VVh5RUhtNWN3QjVTeG11TlVXMUNhY2ZTZlI5V1N6TXZldS1yRjl2cnZjQ2NPTzlkeWpNQ0czTEFMUTg4eF9WaDFWVHF2QVFQelJwdnlSblJDZEhod29FT1U4cmQ2Q2VzWGd6a01YejY2bnd1WFphQzBaVDlSVjNzbXU4bnZxbnVxNE1rSDByQUhHd0JqVGpVSlhjeFZIekFfSGJLdnNBV1pyUnYwelE2?oc=5",
+      "pubDate": "Tue, 26 May 2026 23:28:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'India, Canada look to conclude FTA talks by year-end,' says Piyush Goyal - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdVNVNFJSQU0yZXNEVDVCRW5wSnZWeGw3YWV3M2wzWl9lYmM1X3oxTHNzdlowT2F3c3BVZ3M1QnNjanh5a3h2cnVfNlFLZXpJWXM1WEJHdnVzNDNvVFBxZDM1VXdrOEh2aERpT1lkUk5RR3p5MW5TOHFyOHdYUjZnT0pnT2tWZVRZdnhmLXA0V2NSaWJNWG5NeXVUZ2Q0dFVhWmI5V2VZM3NNREZ0LUExcW92WmxSWlJjQl93SVNPYTBJZ1NIaVlrQXBma0VibnZNU1A4T19iczBXOTFieTZhRklWd25TU2lTOGtn0gHwAUFVX3lxTFA1Q2FWS2pyeElKdHplMGRMV3BvdG02Mk5ZMElKeVJIbFlnRHpUM0VJNk1saUdBQ1EtdkdaVEJ5NTl1YTltcmlMVWs1ZFhUV25aTWlqdTZGLUxMcHpxSlNMbll4ZFBFV1l0Ykw5UVNuRGFhUlZQTUgtZTJwWHhWZTE2Z2xMY19JaHNtNHBuZjJKNS15X3lsM1ZTaGxQbTRlNEpSaHhjXzV2R3dqZXN5YjJRVzRDRUg4ZVN2dGx2YjVuNnJDSEF3aTlCNExNRWN3aUExN21jVkdOYllmMjA5ckVGWFZGSE1iZWJMWi15Nkw1TQ?oc=5",
-      "pubDate": "Tue, 26 May 2026 22:09:00 GMT"
+      "title": "Stock markets snap 2-day rally to end lower amid spike in oil prices; Sensex drops 480 pts - Daily Excelsior",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV0h6RTluc2o4TGs3ckFGWjhkbDB5OVZERlZXaFlER3JNNHhhem1ReXNSQlJIU1prQVQxeWVoVGFlaUZEb3hYcHd5YmU2M0xlcUt0dnBpbS12MEpZSW9UOXROa3pzSVQxRVFPaDVZZE5aZEwxcHRiZDVGcGhGeWJmOVU4VlF6eGg2OXZLa3hPMm5wMkhYREhPYUt6THJzaGJUQl9WOURjQ0JJSlRsYVU1UEVJekMxNjJGZ1VHeE1B?oc=5",
+      "pubDate": "Tue, 26 May 2026 22:49:03 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Coal India OFS opens May 27; government plans sale of up to 2% stake - MSN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUk5ZWkp3clVRRnVaOEhNWDBCQUxNS1ROSHR5X0J4UHEzVmxyZXdpUjRiUmdoLW5LMlZtdVc4Sml6RTZYd3dzTXVUclMwaVNadVhyYjF4VnU0eVlrMHRkUjB3Z1RzZzZtRkVLVDJpbzlwM1lheFlPc3JCdGhaT0k1RzZ3T3MtUjE1dDM1SlU5eEEydzloT0ZwTkFHVm9qTmdhMWl1eWVFZk9GNkpwdDY1Z2kxbEFJN0dUTGlKQ2JB?oc=5",
-      "pubDate": "Tue, 26 May 2026 21:46:14 GMT"
+      "title": "AstraZeneca Pharma India Reports 33% Revenue Growth in FY26; Q4 EBITDA Drops 30% YoY - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZW9SampvTEloa2praHBzVWtjWUJtZG9iUkhlcV9yMENENzhKMXl4UjYwdnFDaTM2aURXMGRlOHFyOEFjcXRaS3dtWWdBbl83MDRSdklVZDhoSmxVc0ZzblN5ZTM2NWFiQjVpeFpZamxlT2tHR21BZEdFcUl6eDhLOERodHlCdElJQVRwemQ0bzRKRnhueFBGaHVJNzhFNjBDcUxOb0lyVnZJODdlWEYzTGxLSGhtbGsx?oc=5",
+      "pubDate": "Tue, 26 May 2026 23:00:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "ICICI Lombard files BRSR for FY2026, reports 41.2% renewable energy use - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbFZYamF4WXhxNGVPX2laazJQY0tIWjFqSXNTVFo0X3llQm1JUUR3MG5lMnV6Z2ctMGxTeTdWZ0NsT2lJZjVUVjREUS1lRC1BcXVLc3VXR2J5SjItanFlcFpxUE91N0U4aDMxcjZMejUyZ2JKc3ZNNlF1OTQtZlNEX2xmcU9BNF9fMGtVckdtMk4yZGpHQ21rb2ZRUlRlaFU1UWpwWmNER3pqX3drM1kzYUYwWFpvV1IzcnpkMnlsaXlQY2J6?oc=5",
-      "pubDate": "Tue, 26 May 2026 22:11:05 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Earnings call transcript: Vantage Drilling Q1 2026 sees revenue surge, stock up 9.68% - Investing.com Australia",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc2tBZU5xSjFDbkZPMHlPRjBZMUxDYy1nYWZleWxRQTJnZWc1OWV4aUQ1amZNYnF4bTBnenEyYmlpNlNmMll2RkF2b2tTdm1tZHowNExtRFJxZnlDYUdYZnhabl82WDRoMUFhLVUzZ0tHdHlFMGVOSGhHQ29xM0doRURfZW1VUnNPcnFINFNRaFgtdzFqcmxnR3M2TVoxRWRJWVdJbHJqNVdMenpTZGlucEd6ajNtNUhmWEh4ejRvdEVWaXdXWWZKWEFXUEZNUjZtdTNWWDBleEVBQQ?oc=5",
-      "pubDate": "Tue, 26 May 2026 22:11:22 GMT"
+      "title": "Vedanta shareholders get an important message from Chairman Anil Agarwal; Here's what he said - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU0hJNDZzcDZOSWFqMmdtV0dWU2luNll0cjlIXzZPUS1vUWUza0tyRWhqcW5zY21MalR4eC1ORmVPUEpPajRfbG8tQi1zcmNzMVE0ZHJGS29tcWx5V2hWTGRINmxFS2pWRHVUT29tVzVYODduTGJMaHlRVVI1TWJZQTVrV1BrTjE4aGxVZGZra0pwYkJrdTJlcnc1aDVOd0J3SFRNaVowZ2JzLWpVd1J4OG1Qc2tPc1VCaUVWRTFEclRfZXhadkM3ZHVQRVhSTEU3aG12MUJwcDJVMGR1dHltcU5YbkFvUFhOZXdPUXFuTdIB9AFBVV95cUxNLVoyclVrWjJPNG5jUnN6Qk96UGNOeVE3Ynd5Y2x2Y2dPU015ZVh4U3Atc3lhQktHd0tfN3pqNl9OZ1ZkT2t5Mkx6ak9OLUE0MzdQSDcwdVNjYXh3REhhR04xZWUySVlIT2VHRDBUUGNiQkxaUF9WaDB4TEo1OENNdi1CSXZJZXpvQVB5UTRZS3JTR20tNEFQUTdyVGs3UmZfaUxGSy1uek9RQVdWU1hSUnBwT2dDbEpXakp3SlhXNTl1ZzBNVkN6M2ViSFpuUEwwZmN4UzZPOTZWbWpSc3JqVnVHU1dmMm00dHdHZmgya1hhUVE5?oc=5",
+      "pubDate": "Tue, 26 May 2026 23:31:11 GMT"
     }
   ],
-  "fetchedAt": 1779834026
+  "fetchedAt": 1779838858
 }
