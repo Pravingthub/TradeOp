@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: S&amp;P 500 hits record closing high on AI optimism, Micron joins $1 trillion club",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-hits-record-closing-high-on-ai-optimism-micron-joins-1-trillion-club/articleshow/131337183.cms",
+      "pubDate": "Wed, 27 May 2026 01:38:10 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "ONGC Q4 Results: Cons PAT jumps 46% YoY to Rs 10,820 crore, revenue up 4%",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ongc-q4-results-cons-pat-jumps-46-yoy-to-rs-10820-crore-revenue-up-4/articleshow/131333234.cms",
       "pubDate": "Tue, 26 May 2026 22:12:43 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Tue, 26 May 2026 21:17:33 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US consumer confidence ebbs in May as inflation worries mount",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-consumer-confidence-ebbs-in-may-as-inflation-worries-mount/articleshow/131332256.cms",
-      "pubDate": "Tue, 26 May 2026 20:54:46 +0530"
+      "src": "LiveMint Markets",
+      "title": "TSX pulls back from record high as tech shares fall",
+      "link": "https://www.livemint.com/market/tsx-pulls-back-from-record-high-as-tech-shares-fall-11779827408843.html",
+      "pubDate": "Wed, 27 May 2026 02:00:08 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "US yields fall on hopes potential Strait of Hormuz deal can cool inflation",
+      "link": "https://www.livemint.com/market/us-yields-fall-on-hopes-potential-strait-of-hormuz-deal-can-cool-inflation-11779826794421.html",
+      "pubDate": "Wed, 27 May 2026 01:49:54 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Dollar climbs as US strikes on Iran dent ceasefire optimism",
+      "link": "https://www.livemint.com/market/dollar-climbs-as-us-strikes-on-iran-dent-ceasefire-optimism-11779825510940.html",
+      "pubDate": "Wed, 27 May 2026 01:28:30 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -41,24 +59,6 @@
       "title": "Wall Street giant Nvidia's m-cap is bigger than six of world\u2019s top 10 stock markets amid AI frenzy",
       "link": "https://www.livemint.com/market/stock-market-news/wall-street-major-nvidias-m-cap-is-bigger-than-six-of-world-s-top-10-stock-markets-amid-ai-frenzy-11779797726758.html",
       "pubDate": "Tue, 26 May 2026 22:20:10 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Gold, silver rates today: Comex gold, silver struggle for direction amid Middle East uncertainty and strong dollar",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-silver-struggle-for-direction-amid-middle-east-uncertainty-and-strong-dollar-11779803469804.html",
-      "pubDate": "Tue, 26 May 2026 20:27:58 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Small-cap stock under  \u20b950 jumps 3% despite stock market sell-off. Do you own?",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-jumps-3-despite-stock-market-sell-off-do-you-own-11779800493246.html",
-      "pubDate": "Tue, 26 May 2026 19:20:27 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US stock market today: Dow Jones, Nasdaq futures jump up to 1.1% despite fresh US-Iran strikes; crude oil rebounds",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-jones-nasdaq-futures-jump-up-to-1-1-despite-fresh-us-iran-strikes-crude-oil-rebounds-11779793301320.html",
-      "pubDate": "Tue, 26 May 2026 17:23:01 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Citichem board to consider audited FY26 results on May 30 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemwwOVFqZHk0VEphTkt6UFJpUDN5ZUhlem1OM0dLZlpGY3p2dlNlT01HOHp6bTBjcnlwS3ZkMklaWVZkUTZMdW1KcjdSRUNkWUlycXJZaWp3a29DQWk5SHdUTE15QWJDa05XRU1MNm1pNTV5RXZrc2tkM2dfZzBBVUl5WUtxOGlPLTh1SldJQ3hOY3ltQ3k1WXNmeF9SaS1mOHNVTFVPTEVRdEw3WVdaVng5S2g?oc=5",
-      "pubDate": "Tue, 26 May 2026 19:15:12 GMT"
+      "title": "US stocks today: S&P 500 hits record closing high on AI optimism, Micron joins $1 trillion club - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMjA4cWRneklNOHVCMmltRWY3NlVIVTYzTTY4Wk9DeVV6Q3M5eUkyM0VQU2hES3N5RlB4QWVhbzU3Q21sLXhkMEVwWnk3cWxzc0hrR2RlODRRTVFGQWc1YmxqMjN4NlhPV2FubFJHSVR3c3hwX1Q5VnVScWFXcUpUVkhFTTFDMjAtR1lXX0duaU1VYWswNFIwdmM2SE5PTTJ6dTFEMm5rTDhmbGZVRUpjbi1KX1dJRHlpYmtzY2JpMVZPQ3JqclBkVklhM3FTMzlXRFRVRlk3ZXBPUnNCVUtRSEx3NTBKNl9vMkNjNU5henRfQ2xWWjhLbmRsQk3SAYICQVVfeXFMTUZzczdBLTA1NUpwNjlrMi1yWEwtUU5lMUZBUGZ4ODNiXzVPbW9YYjBDektvQUcwc0x2TEYxa1oySzJqLWNVckxtSzZTUndZbWNVWGZHV3pMQTR1UlhFTjhicWZQV3ZxODc1bHNrRFprYU5GQTVGRF9iWTA4Y1E1UVBGRUNQS05TbWRZLVJabkU4NW8tRHhiaFp5VS1wQW9lOEo1SEhHSmNIOGM2cEpBZlcyRmFrXzUyVTZrS1BWNEJoaUZWQzMwZ3haQVJZbk9VNk1GWU13STNlaC1rVWRtbUh0M1dhMUk4TU5NNXFGRW1BV3oyRUFuWWlSaS1hRW5DVVZR?oc=5",
+      "pubDate": "Tue, 26 May 2026 20:08:10 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Obscurity, it not only protects, but is cool - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnUwY1RHbEdOSk03c1pyd25rU052clRZc3JvUTYxY1ZoTTVmNEswUnJNajZPQzFZOFJhS0U5bF9GX0RxU0tVMmIyQzVSWjV5d09jYS1ablpSMHFnVnhaN3doaTdsYWpRWEhETkpNVGtrZG91cndLcHdNcGVUQkpVc0NXZk1SZmJxRkNiOG5WYTNWWE1zS1VFdGFtN1dLeTYtSnN4aXd0X3gtcFJubVdjaVhvVzU0YXZM0gG-AUFVX3lxTFBOQkh4TTY1dmg1VU5KYjJma0lVclVUcThFbHlFazM2MS1pQ0l1U2R5SS16c0xhMVVKbjQwV1ZacElxU2wwdUQ4RGEzb0dwWDc5SFFtb3RieHZQZmE5VGgxa0xYNnk4ZHJ4VVQzS3VTbld1VjlGV1ppa0plc2JndnpLTE1nMm9pMWdzQ2JqTkkzemFBcjdtbDJSVm05Z3RoMFVEYno4YS1xQU8xX0xVZ2VZdWNaQ0dKT1hKOW1idnc?oc=5",
-      "pubDate": "Tue, 26 May 2026 18:54:28 GMT"
+      "title": "Bombay Metrics confirms SDD compliance for FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOS2hsWUJaRHFXeWRNeVhTNmUwMnljd0tQWXlhYU5LcmdSUlBReUFzYjJYamIyd2R5WVNIdnB3d2ZyakhweE5EdkRidDUta19ucXljQUtXbGVLZkdIQ1FEaDRnV0Uyc2JPNzJTWW56TWZOd252ckFydzFNZUx4aWFiT0x1eVVuckotZlExYlp0ODRrcjlMeVFNRWRDXzloMnlhdVRBTkNGQQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 20:37:21 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3 duped of Rs 89 lakh in investment frauds - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORlNfZ1BoOG5ZcUt3SjNBRTdsZG5UTjJDaXA3Wk52bUduUXUxN283QmdrYUFLTkZwM3dvY2pBWGtSNU0xMjZBd0ZheGFoRlplN1huMDRFNV9vaU5MbUJvR1JFTWRtelk0d0JReENIZ3gzakJEN1Q1WnJiNVpSUmgwZTktVlVTOEhFRjZ0YklmNkpQLUZzazRnT2pVMXlOcTU3elY3Sl9qV1ctakt6OVhjYW1Md1dZdWFX0gG-AUFVX3lxTE9ldEV0VXVRX3JVM2E0UlA2djFnYWJKSldDU3ZlOHpaSWxiOGl5bXVkbmZYVk1xMlB6QThBb05ybXdtQU9FblVRN1B6bTZZVHVNSzhtSmFzOHFSYUw0X3d1S3hlZndnSmJSbElzeFJHNENMVmJaWTJGaXRiNUt1Y2UxeGhiY1hqRTFkdG56RkRveEliV3VaSXI3WGE3ZTlJdndLRXkwWmV3U0Z0SGpkTjZ6ejhfaXIzbkZreVZZSlE?oc=5",
-      "pubDate": "Tue, 26 May 2026 18:42:00 GMT"
+      "title": "SEBI warns Phantom Digital Effects on QIP allotment norms - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNREZRRVhBXzZqLVl6R2ctdy1naWdnT1JqUGRqN1p1TTYzeTlqUGd1eXB1NkFWWnFqQ251eDJiRWV2RnhyTm16NjE2dmVCUjVxZ3JhN09WUF9Db2hJMXhSQ1dJNVhUdGp3MUNRaWtPRmo5azZNX1d1dXY5YjZxQW5XZ0lhaDdsSmtSSGhzVmZZSXVhTnVaLUpURVpTZ1pHTU1yMnA5QllFYXV3UWxwMkFjZUR4R3k?oc=5",
+      "pubDate": "Tue, 26 May 2026 20:05:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Abbott India Ltd. is Rated Sell - Markets Mojo",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcWVQTHotQTVnNnJMNHJjQnJoR0dJc0k1U21yWGZiVV9mbkNhdFpwRUFyenJtRFdDbVd2Y3FwVHpxbi1WV0p1akZaM0dsMWx3UzAzdXpfSkVmVThMOFlGX2FPUEVUZDI1N01adi1Bam9mRnpNVjQtVmpjTnR4U3dhOExqRXgwazdQdTZsSURaUDhER2pMSXdJ?oc=5",
-      "pubDate": "Tue, 26 May 2026 18:30:09 GMT"
+      "title": "Telecom users up nearly 7 million in April; Airtel, Jio gain most - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOU92UTRDMF8tTmItRllTNWtoY0l1eWpaV2lPZ3JLbnBtWFlac0IxbnE3LTk5Nmx5cV91c0JybjFrSlQ3OFMyVy1xWXpoYURibTJSUy1DUFQzckMtczZQSUFoUF95S2JHRG1IcjQ0b1IzSHlBTU9SWjY4VWx4V2dnc0pzYUJKWEJjRDI2OG0wREJXb09oMndCV3RLeDlhUkxQM3JoS3ZHRG1NenFtZmJxSTZjdXNpNnhWWjJIWGpydkZVTXpOeXZzTDdwODZFZVlnSU0tWdIB1AFBVV95cUxOOU92UTRDMF8tTmItRllTNWtoY0l1eWpaV2lPZ3JLbnBtWFlac0IxbnE3LTk5Nmx5cV91c0JybjFrSlQ3OFMyVy1xWXpoYURibTJSUy1DUFQzckMtczZQSUFoUF95S2JHRG1IcjQ0b1IzSHlBTU9SWjY4VWx4V2dnc0pzYUJKWEJjRDI2OG0wREJXb09oMndCV3RLeDlhUkxQM3JoS3ZHRG1NenFtZmJxSTZjdXNpNnhWWjJIWGpydkZVTXpOeXZzTDdwODZFZVlnSU0tWQ?oc=5",
+      "pubDate": "Tue, 26 May 2026 19:57:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Pace Digitek FY26 Revenue Climbs to INR 2,641 Cr, Order Book Expands to INR 11,338 Cr - Energetica India Magazine",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnIzU1hPcFdETmNBeFBJQ2xvTVF6cHNweTJsT0hWR1pEejBaanRKOHVuWmkwdWtfa1Y0QTA4LUFRb3l1ZVY0NWVDbkRscENtdWhNdkRhVHpxNjRreHJzbnFtTktMWmtWSGZuZEhDODVOcmRLWGwyTUgxUjVhVmozZEhtVGs2amVsUExLMGsxMXhaTnpBN3pWTmJCT09UeXpwdHNCTGxfNEVsektQQ1p4MzZERGpYRzV1UEljVw?oc=5",
-      "pubDate": "Tue, 26 May 2026 18:29:09 GMT"
+      "title": "Brandman Retail promoter declares no encumbrance on equity shares in FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFR0VmpnbHJ0NkNGMXp5U0lqZ3VUWVctTnZScmFVV2gxLTlHOFBqcW95NU1PSVE2dlh0dmxheHFvQTdZTk91SVo3S195aEhha29iakp3TktDS3oybldBWjBpejJGS0RUVXZyOXRJOFlxcHpjcTJaUWNjRWZublNBM0lZVHJTcGxaWWxfZjQxSVpPaEdyVjZQWnJObjQwSjVrUFhVYlRVNV9aWFJmNGZoQlo3YkYzWmd0ejBZVDdNclRmNXZmclgtN0NB?oc=5",
+      "pubDate": "Tue, 26 May 2026 20:45:58 GMT"
     }
   ],
-  "fetchedAt": 1779823697
+  "fetchedAt": 1779828868
 }
