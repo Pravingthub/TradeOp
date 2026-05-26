@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "ONGC Q4 Results: Cons PAT jumps 46% YoY to Rs 10,820 crore, revenue up 4%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ongc-q4-results-cons-pat-jumps-46-yoy-to-rs-10820-crore-revenue-up-4/articleshow/131333234.cms",
+      "pubDate": "Tue, 26 May 2026 22:12:43 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131332802.cms",
       "pubDate": "Tue, 26 May 2026 21:31:42 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Tue, 26 May 2026 20:54:46 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "JK Tyre Q4 Results: Profit soars 80% to Rs 178 crore, to invest Rs 4,980 crore on expansion",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jk-tyre-q4-results-profit-soars-80-to-rs-178-crore-to-invest-rs-4980-crore-on-expansion/articleshow/131332204.cms",
-      "pubDate": "Tue, 26 May 2026 20:48:10 +0530"
+      "src": "LiveMint Markets",
+      "title": "ONGC Q4 Results: Net profit rises 3% YoY to  \u20b96,650 crore, declares final dividend",
+      "link": "https://www.livemint.com/market/stock-market-news/ongc-q4-results-net-profit-rises-3-yoy-to-rs-6-650-crore-declares-final-dividend-11779813032812.html",
+      "pubDate": "Tue, 26 May 2026 22:32:53 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,28 @@
       "pubDate": "Tue, 26 May 2026 17:23:01 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "SMR Jewels IPO opens today. Check GMP, subscription status, price band and other details",
-      "link": "https://www.livemint.com/market/ipo/smr-jewels-ipo-opens-today-check-gmp-subscription-status-price-band-and-other-details-11779794730802.html",
-      "pubDate": "Tue, 26 May 2026 16:58:46 +0530"
+      "src": "CNBC TV18",
+      "title": "Dish TV Q4 loss shrinks to \u20b9303.95 crore amid declining revenue",
+      "link": "https://www.cnbctv18.com/market/earnings/dish-tv-march-quarter-loss-narrows-amid-falling-revenue-ws-l-19913995.htm",
+      "pubDate": "Wed, 27 May 2026 00:13:24 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "IFB Industries posts two-fold rise in Q4 net profit at \u20b942.67 crore",
+      "link": "https://www.cnbctv18.com/market/earnings/ifb-industries-fy26-earnings-profit-up-revenue-growth-ws-l-19913993.htm",
+      "pubDate": "Wed, 27 May 2026 00:04:22 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Gold drops \u20b92,800 to \u20b91.62 lakh/10g amid uncertainties on West Asia peace deal",
+      "link": "https://www.cnbctv18.com/market/commodities/gold-drops-rs-2800-to-rs-1-62-lakh-10-per-gram-amid-uncertainties-on-west-asia-peace-deal-ws-l-19913989.htm",
+      "pubDate": "Tue, 26 May 2026 23:48:56 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Emerging currencies slide as Iran war 'confusion\u2019 jolts market",
+      "link": "https://www.cnbctv18.com/market/emerging-currencies-slide-as-iran-war-confusion-jolts-market-ws-l-19913978.htm",
+      "pubDate": "Tue, 26 May 2026 23:11:22 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -67,59 +91,35 @@
       "pubDate": "Tue, 26 May 2026 21:35:59 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "ONGC Q4 net profit declines QoQ, approves Dahej port JV; declares \u20b91 dividend",
-      "link": "https://www.cnbctv18.com/market/stocks/ongc-share-price-q4-net-profit-declines-qoq-approves-dahej-port-jv-declares-rs-1-dividend-ws-l-19913916.htm",
-      "pubDate": "Tue, 26 May 2026 22:20:05 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Landmark Cars Q4 profit jumps over 10-fold on strong vehicle sales and aftersales growth",
-      "link": "https://www.cnbctv18.com/market/landmark-cars-q4-profit-jumps-over-10-fold-on-strong-vehicle-sales-and-aftersales-growth-ws-l-19913910.htm",
-      "pubDate": "Tue, 26 May 2026 21:08:15 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "CleanMax raises nearly $575 million to expand solar and wind energy projects in India",
-      "link": "https://www.cnbctv18.com/energy/cleanmax-secures-ysd575-million-for-1-gw-renewable-energy-projects-ws-l-19913908.htm",
-      "pubDate": "Tue, 26 May 2026 20:59:56 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "S&P 500, Nasdaq hit record highs as Iran deal hopes, chipmakers lead gains",
-      "link": "https://www.cnbctv18.com/market/sp-500-nasdaq-hit-record-highs-as-iran-deal-hopes-chipmakers-lead-gains-ws-l-19913896.htm",
-      "pubDate": "Tue, 26 May 2026 20:59:18 +0530"
+      "src": "Google India News",
+      "title": "Citichem board to consider audited FY26 results on May 30 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQemwwOVFqZHk0VEphTkt6UFJpUDN5ZUhlem1OM0dLZlpGY3p2dlNlT01HOHp6bTBjcnlwS3ZkMklaWVZkUTZMdW1KcjdSRUNkWUlycXJZaWp3a29DQWk5SHdUTE15QWJDa05XRU1MNm1pNTV5RXZrc2tkM2dfZzBBVUl5WUtxOGlPLTh1SldJQ3hOY3ltQ3k1WXNmeF9SaS1mOHNVTFVPTEVRdEw3WVdaVng5S2g?oc=5",
+      "pubDate": "Tue, 26 May 2026 19:15:12 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Wall Street giant Nvidia's m-cap is bigger than six of world\u2019s top 10 stock markets amid AI frenzy - Mint",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPaS1xZzJMUGd0bk0tZXZLV21KWG9aaUFBSXFpUGk4Q21EejhReEdOVzJJdUtCNERPRmk3aHBaWkJWZFJYd0FzVF9JNTFTU2RzQ1dISXVlemF1eEJwVlJ3Ymt0MEFXcXBVS0dGeTZCVHVKTm9DTTBjQXRhM2hFZzZoNFFWa2lUcDB5QjI1UWtFNmNBRlo3Xy1nSXRtckl5a0U2dHBqS1lVRkRCVWFTNDkxTVByMGlDMWc1Qmo1TE5xWHo3NDRqQUlrYV9mMEVXZEVGQ0pCcUsyQVVZYndYR19meGd5eElmb2FKSGJTYmJBQ3RmdVU4eHRueGsxQdIBgAJBVV95cUxNeDBtT0RDelZqN0J0RTlVdGtuR2FEaVVRUzJSelU5MEtYT1g4b08yWkY0U2l3NnB6TE1UNVhacWZOd1dUSWVfM3ktYTZfUHNmNFFPeG43SFhSZEowTjlxcHNsQVBIaWNXckN3STVlXzJHUHctNl90M0JTc1UtZTl3dEx4U2Jsb1JHMmNEdnFDWmZjVmluSkhlb3ZleGloT2ZodUxTaW9Wbzd2MDRtZmROaXRPTFFLa3hWZXV2RzhRSjYxZUtBWHI2UFZReXJBSGdzaXo0cDRMVHhTTmlrc1A5LUFjc2s5cnZ6Q19ud0Y3NEZvSnV4UWdVR1VtRjdwWnEx?oc=5",
-      "pubDate": "Tue, 26 May 2026 16:50:10 GMT"
+      "title": "Obscurity, it not only protects, but is cool - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnUwY1RHbEdOSk03c1pyd25rU052clRZc3JvUTYxY1ZoTTVmNEswUnJNajZPQzFZOFJhS0U5bF9GX0RxU0tVMmIyQzVSWjV5d09jYS1ablpSMHFnVnhaN3doaTdsYWpRWEhETkpNVGtrZG91cndLcHdNcGVUQkpVc0NXZk1SZmJxRkNiOG5WYTNWWE1zS1VFdGFtN1dLeTYtSnN4aXd0X3gtcFJubVdjaVhvVzU0YXZM0gG-AUFVX3lxTFBOQkh4TTY1dmg1VU5KYjJma0lVclVUcThFbHlFazM2MS1pQ0l1U2R5SS16c0xhMVVKbjQwV1ZacElxU2wwdUQ4RGEzb0dwWDc5SFFtb3RieHZQZmE5VGgxa0xYNnk4ZHJ4VVQzS3VTbld1VjlGV1ppa0plc2JndnpLTE1nMm9pMWdzQ2JqTkkzemFBcjdtbDJSVm05Z3RoMFVEYno4YS1xQU8xX0xVZ2VZdWNaQ0dKT1hKOW1idnc?oc=5",
+      "pubDate": "Tue, 26 May 2026 18:54:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FPIs net sell Indian equities worth Rs 2,408 crore; DIIs net buy Rs 1,361 crore on May 26 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUWN4V0NXLU81SFdBMWluQ2hDMGtGMVZGSjdEQU5oc1hWcWRvWjI5QWx4NU1pTzVVNEliTEpUaEo3UGgzczY4SEctQ1Q3cDc0dWhyanZrSF9qeG9sUTNjLXJKdm1CRGVKMmNDb0ZYdy10UlZwRzdUdjhUa01qUWJsVHVka01ENXpXcUJ1SkJjV0hkelZXT0RSN2t6QndPOXFnVFJmaEpoRENFNFRPSUxZQkpUSXNLcUdKaktnbTRubGkwcXFLSUZ2NS1uY0d5TXZvU1pXRWlobUV0RUVoMUtYR0tPTWJvd3djNDQweHhB0gHuAUFVX3lxTFBRY3hXQ1ctTzVIV0ExaW5DaEMwa0YxVkZKN0RBTmhzWFZxZG9aMjlBbHg1TWlPNVU0SWJMSlRoSjdQaDNzNjhIRy1DVDdwNzR1aHJqdmtIX2p4b2xRM2Mtckp2bUJEZUoyY0NvRlh3LXRSVnBHN1R2OFRrTWpRYmxUdWRrTUQ1eldxQnVKQmNXSGR6VldPRFI3a3pCd085cWdUUmZoSmhEQ0U0VE9JTFlCSlRJc0txR0pqS2dtNG5saTBxcUtJRnY1LW5jR3lNdm9TWldFaWhtRXRFRWgxS1hHS09NYm93d2M0NDB4eEE?oc=5",
-      "pubDate": "Tue, 26 May 2026 16:17:43 GMT"
+      "title": "3 duped of Rs 89 lakh in investment frauds - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORlNfZ1BoOG5ZcUt3SjNBRTdsZG5UTjJDaXA3Wk52bUduUXUxN283QmdrYUFLTkZwM3dvY2pBWGtSNU0xMjZBd0ZheGFoRlplN1huMDRFNV9vaU5MbUJvR1JFTWRtelk0d0JReENIZ3gzakJEN1Q1WnJiNVpSUmgwZTktVlVTOEhFRjZ0YklmNkpQLUZzazRnT2pVMXlOcTU3elY3Sl9qV1ctakt6OVhjYW1Md1dZdWFX0gG-AUFVX3lxTE9ldEV0VXVRX3JVM2E0UlA2djFnYWJKSldDU3ZlOHpaSWxiOGl5bXVkbmZYVk1xMlB6QThBb05ybXdtQU9FblVRN1B6bTZZVHVNSzhtSmFzOHFSYUw0X3d1S3hlZndnSmJSbElzeFJHNENMVmJaWTJGaXRiNUt1Y2UxeGhiY1hqRTFkdG56RkRveEliV3VaSXI3WGE3ZTlJdndLRXkwWmV3U0Z0SGpkTjZ6ejhfaXIzbkZreVZZSlE?oc=5",
+      "pubDate": "Tue, 26 May 2026 18:42:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Coal India OFS opens May 27; government plans sale of up to 2% stake - MSN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUk5ZWkp3clVRRnVaOEhNWDBCQUxNS1ROSHR5X0J4UHEzVmxyZXdpUjRiUmdoLW5LMlZtdVc4Sml6RTZYd3dzTXVUclMwaVNadVhyYjF4VnU0eVlrMHRkUjB3Z1RzZzZtRkVLVDJpbzlwM1lheFlPc3JCdGhaT0k1RzZ3T3MtUjE1dDM1SlU5eEEydzloT0ZwTkFHVm9qTmdhMWl1eWVFZk9GNkpwdDY1Z2kxbEFJN0dUTGlKQ2JB?oc=5",
-      "pubDate": "Tue, 26 May 2026 16:18:45 GMT"
+      "title": "Abbott India Ltd. is Rated Sell - Markets Mojo",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcWVQTHotQTVnNnJMNHJjQnJoR0dJc0k1U21yWGZiVV9mbkNhdFpwRUFyenJtRFdDbVd2Y3FwVHpxbi1WV0p1akZaM0dsMWx3UzAzdXpfSkVmVThMOFlGX2FPUEVUZDI1N01adi1Bam9mRnpNVjQtVmpjTnR4U3dhOExqRXgwazdQdTZsSURaUDhER2pMSXdJ?oc=5",
+      "pubDate": "Tue, 26 May 2026 18:30:09 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's fifth spot in global market cap list under threat as Taiwan closes in - Business Recorder",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBEcF9IWTlycXhybl82WlVPcWpfS3cwMHZyVXM3cFprWlkxX3lNN1NSdFBVZ0prUHNlSkNDZndFaWNMSlJub091LXZNdUpBMGpn0gFWQVVfeXFMTnR2R1dodGcySVRlTW5IcHRZSTNWUW51M1VJdC1BWXZZRk0zc1hxZ3p1N083dHdXQXFJbVRMdWRHZVFXT2lqSFJEM0pRemdWaTdmd0djMXc?oc=5",
-      "pubDate": "Tue, 26 May 2026 16:18:50 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "'We\u2019re taking our eye off the ball\u2019: Stefanik warns U.S. faces new pre-9/11 style security failures - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMW03bW9RY0tObTlfdTlMdEUxWDFnelhmMHRzZDJoZ3FHU2l6cl8xRDJQaGZsblk0V0FaSjY2cVNQVW9Xb1ctN3FEQXFwaVRtd1lMOVFCcTc4SnJjYU1UV2poUm4tb1I0eEQ1QXdUSEowSmNDdFBxMEJPV1hicHJEOW5vU0p6ZEV2TVdzc0x4elZUYkJ0eGVkTG5mMzRlXzk3Q0daOW5yWXFkblo3dkUxb0wwdjdKSjlCWTR2QThLZTQzSkdBaU9BZW12NnlHZnlrcjd6UndKeE1ERnB4eWc1N0dHaDh4NDl0Zk5NUVRNZ2llaUxtYlRCUmFjTEJkZHE0YW5Lb0FnVdIBjAJBVV95cUxOZTY5NGtuU004SWhielVTb1NPcy1vZjlOcTBMVnpjeUNDTnVtMVM5d1RhZDZZOHRGSlZMZmxRYVJFb1lFWUZpYXhIeVFzXy1fU2xoajJ2X1N6V3dQWUtzb0hoQ05zU21ENmJ4cnlfZlIxUVVENVZnb2VXWHJkSzdDSHA0NUgyVHoxdGdDdFN2aGtqTUxRODM4VjZ5OTY0TXROODdJbXp1X2RCNTBHUDkxY2hPbFpSa2ZyMTBFS2dNZXg2WWJPUzdqMUVNM2dRUTBCZXc5NUJhajBRZU82Tm1zNE9sdlFNenlJWTliZmxpMjZJU0Zrc01JVXBiVDR5MHlvVXlPMkVEOGlVaVVp?oc=5",
-      "pubDate": "Tue, 26 May 2026 16:11:06 GMT"
+      "title": "Pace Digitek FY26 Revenue Climbs to INR 2,641 Cr, Order Book Expands to INR 11,338 Cr - Energetica India Magazine",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnIzU1hPcFdETmNBeFBJQ2xvTVF6cHNweTJsT0hWR1pEejBaanRKOHVuWmkwdWtfa1Y0QTA4LUFRb3l1ZVY0NWVDbkRscENtdWhNdkRhVHpxNjRreHJzbnFtTktMWmtWSGZuZEhDODVOcmRLWGwyTUgxUjVhVmozZEhtVGs2amVsUExLMGsxMXhaTnpBN3pWTmJCT09UeXpwdHNCTGxfNEVsektQQ1p4MzZERGpYRzV1UEljVw?oc=5",
+      "pubDate": "Tue, 26 May 2026 18:29:09 GMT"
     }
   ],
-  "fetchedAt": 1779814934
+  "fetchedAt": 1779823697
 }
