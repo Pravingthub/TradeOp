@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: Dow posts closing record high, S&amp;P 500, Nasdaq muted as AI rally pauses",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-posts-closing-record-high-sp-500-nasdaq-muted-as-ai-rally-pauses/articleshow/131358814.cms",
+      "pubDate": "Thu, 28 May 2026 01:36:41 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Fed's Cook says she is prepared to raise rates if inflation doesn't ease",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-cook-says-she-is-prepared-to-raise-rates-if-inflation-doesnt-ease/articleshow/131358805.cms",
+      "pubDate": "Thu, 28 May 2026 01:33:47 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Satin Creditcare Network raises $20 million from BlueOrchard",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/satin-creditcare-network-raises-20-million-from-blueorchard/articleshow/131355652.cms",
       "pubDate": "Wed, 27 May 2026 22:23:44 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Wed, 27 May 2026 22:05:10 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Govt plans up to 2% LIC stake sale, may raise Rs 10,000 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-plans-up-to-2-lic-stake-sale-may-raise-rs-10000-crore/articleshow/131354973.cms",
-      "pubDate": "Wed, 27 May 2026 21:55:24 +0530"
+      "src": "LiveMint Markets",
+      "title": "Base Metals Decline\u00a0on Mixed Signals of US-Iran Peace Deal",
+      "link": "https://www.livemint.com/market/base-metals-decline-on-mixed-signals-of-us-iran-peace-deal-11779914233603.html",
+      "pubDate": "Thu, 28 May 2026 02:07:13 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Nuclear firm Newcleo to list on Nasdaq in a deal valuing it at $2.4 billion",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nuclear-firm-newcleo-to-list-on-nasdaq-in-a-deal-valuing-it-at-2-4-billion/articleshow/131353704.cms",
-      "pubDate": "Wed, 27 May 2026 20:21:12 +0530"
+      "src": "LiveMint Markets",
+      "title": "Stocks eke out record closing highs, oil slides as markets eye US-Iran peace progress",
+      "link": "https://www.livemint.com/market/stocks-eke-out-record-closing-highs-oil-slides-as-markets-eye-us-iran-peace-progress-11779913987896.html",
+      "pubDate": "Thu, 28 May 2026 02:03:07 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -47,18 +59,6 @@
       "title": "Lower Tariffs Could Be Ahead. Here\u2019s Why.",
       "link": "https://www.livemint.com/market/lower-tariffs-could-be-ahead-here-s-why-11779902615460.html",
       "pubDate": "Wed, 27 May 2026 23:06:00 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Global equities scale record highs on AI optimism. Why is Dalal Street still under pressure?",
-      "link": "https://www.livemint.com/market/stock-market-news/global-equities-scale-record-highs-on-ai-optimism-why-is-dalal-street-still-under-pressure-11779895766551.html",
-      "pubDate": "Wed, 27 May 2026 22:55:51 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Reliance Industries announces 49th AGM date, sets record date for FY26 dividend",
-      "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-announces-49th-agm-date-sets-record-date-for-fy26-dividend-11779893994657.html",
-      "pubDate": "Wed, 27 May 2026 20:44:58 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Video | Explained: Why Foreign Investors Are Exiting India Amid Market & Rupee Concerns | The Numbers Game - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNek1heDhoRU1SdkRQQnZkQnpNRFo1TVVsRllCR09LelBRbGd4bXFDMTEydUk2X1hEWkt6eV83VGVQemt0STRWUTNvN28xd2ZtRGNicTYwY2NHUk0yM2U3TkRCYnAxTkFUOWJuQU1GenBVUkkzaDVSNjJhY0lpa05TbDFtZzVNUHFBcThjX0NVMWJ3aDJGZFQyM2U0YTVuU3dOZDItS1lYaWpqbWVYSHRGcm9GVjRoczQtd3AyX0Z1eThDUDFRd01F?oc=5",
-      "pubDate": "Wed, 27 May 2026 19:19:27 GMT"
+      "title": "Market Wrap: Mixed Signals as Nifty Edges Higher While Sensex Slips on May 27 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWmlpRkNmUXpMYTczZV9xc0tuWXhGSHBCR2xJM1hyUEM1eVcybFItNlZuZ0thYkpJb0ZseUxrQkhEYmJSOVY4dUJLb044QjFKVHh3MnhXZ19wTVR3RzY2VnZJVmZXTDlZSzV6VXU4NFpmX2w0RjN6ZkozQ0UzX1hLbWdLNmRmaHJZY01NYWlWMnhTQXd5WV9xVEhIMmdnaEtwVnJ5X0Q5QkZmUVlnTzBWeFBJaGE3WXg1TnJjQk5HQ3BGTThwWWNoRHNmQQ?oc=5",
+      "pubDate": "Wed, 27 May 2026 20:32:24 GMT"
     },
     {
       "src": "Google India News",
-      "title": "BSE Limited to attend analyst meeting at Citi India Conference - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGJqRkJsbGpTb1A4LW9idnpfQy1HRjFxR0ltbHNVeklJazBWeENCWmt1UGlIRE9TMndxR3RWNVJnQXY0UDFqOE5BcjdyWHFGaTZFTmFNdzF1R1NwY3k2V0N6ZVVRQVJ1YkdDak5CUW5tdVIzNlRrSzFEb2E3TWNOWEhkOVFJc1dJekpHRzRFQXd4ZUhFRVBlWk1NUjhvMHlYUGVtb3pYMXlaVC1TazR1TXpfazJ5cEpFanBV?oc=5",
-      "pubDate": "Wed, 27 May 2026 19:14:32 GMT"
+      "title": "The Great India Miscalculation - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rRnZOZEEtZEZZSGRhaTNhc3RZUTZFUV9YTl9yY2xENnJtLVRiZlFlME85blgxMnlyUTNiUVJBVW5CbGh3aERHdXZGSVlEVFBkeVlyYWdCOUM0SnhTb0x4X3BHRmdjTVBIWXFCSGszMnBTOVhmSFg3VDBGX2NsS3c?oc=5",
+      "pubDate": "Wed, 27 May 2026 20:25:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "IndiGo, Air India cut flights as fuel costs bite; fares set to rise - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQalREYnhHZWlPM2JINWRXVGNDdmw4b3ZxZnV1aTYxbjJrRUpyQWd3aVdhZTVCT1I0U2lnVnNHSFIyV1BjbjZtWktaU0lkR2I2VmxtVThUNVQtamM3SkRWckFiSzhQZGYzOW4wbld3NHoxSHoxNU9kVkRJVXN6aHFzb2wydmc0eG1GT2lna2l6Y085aU5hYVhSaExvVjRFWDJKSlNWa1BhSnA1aHduZUVuc3RTTFlSNEluNzhaNlRlZ0RRdXpxdmRpZTJnYTdON3RwWXpEcTJoRWJEcWVMbXRBeEFxVHlObFZDbloyMUt2U0EzZ2ZvVUNxbXJVZ9IB-wFBVV95cUxQalREYnhHZWlPM2JINWRXVGNDdmw4b3ZxZnV1aTYxbjJrRUpyQWd3aVdhZTVCT1I0U2lnVnNHSFIyV1BjbjZtWktaU0lkR2I2VmxtVThUNVQtamM3SkRWckFiSzhQZGYzOW4wbld3NHoxSHoxNU9kVkRJVXN6aHFzb2wydmc0eG1GT2lna2l6Y085aU5hYVhSaExvVjRFWDJKSlNWa1BhSnA1aHduZUVuc3RTTFlSNEluNzhaNlRlZ0RRdXpxdmRpZTJnYTdON3RwWXpEcTJoRWJEcWVMbXRBeEFxVHlObFZDbloyMUt2U0EzZ2ZvVUNxbXJVZw?oc=5",
-      "pubDate": "Wed, 27 May 2026 19:12:00 GMT"
+      "title": "Bank holiday for Bakrid 2026: Are banks closed on May 27 or May 28? Check state-wise holiday list - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQejhSeHZZZDJEVXNmeGlacVAwNUtfaTQzY3J6TjVacmNkQV9NZ3lwV3J2cEhReGRySFRFb09LY3RNUmZfSEU0RnBLYW94YXdKSVdKTmJxTjVUUEsyTkJNYk52UU02LTV3LWdiV2IzS0Y5b1Q5NUJ0Sk5TdThTSEhQSnBJREh2WEFjcTdiNkZLTzFiZ2dzTnJzVkxzaG9BM3otYUVjR3lnY0E4eWNabm95SW9vTDNDUkUyS0Y4VVhxOFdLQmtHYk5VSUpsbTRjaUQtX3RfX2NiUWVzeXlXbTlzMjVreEVaV1dMU1gzQ0RsbVpsREHSAfgBQVVfeXFMTjNsamZqQkdWRlFtbU1KUUVxTkRGbHpaSmZnN3NfMGpJU0Zscm9lWF8wMWJ3RTZUZVJ3ZVp5NmR5aVoxWWZPdUVoT3BJbUpLOFdyQjBqaXdsYkdVWmpZUEJOZzdTY05MeTdMbWlrZ3ppMWZuZ3Rjai05RUlSZk5UemVyMUwzSWhhWG1qQmIzZFZQc2lYU1Z5NzdyenBOck81R0ZQS3ZJX0JuR1hmdlhPVnpxTmQ3QVVqX1pfUXhDV1QwbTJuOGtJcTl4alZ3bUE0dk5TMG5LM3NvcERHQkdwdUJxU0x1aC1QNFBidVdwQVFQM3dySHVSWDU?oc=5",
+      "pubDate": "Wed, 27 May 2026 20:52:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "MGM stock jumps 8% as Wall Street bets big on Vegas comeback - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNnBLOXladUMtSGw3NTJCdWtZcGkwcENiRkJzNEFWZmpETEk2RmtIa3k1QVhGdjFWMGlRbDNXdmJlUEp4ZWhWZldfcmxNWDRHVXB5TURWMnowZHNfTzVyTmZDYm9tX3ZVN3BFNk1Lb05VdFpuaEZWOVVoM2I3d1I0YW92blg4ZC1LUjZBRUZ6NGFGejBXMDFqZ0ZBR2NYdkVsWTFtcnB5SWE?oc=5",
-      "pubDate": "Wed, 27 May 2026 19:41:29 GMT"
+      "title": "South India Paper Mills to acquire 26% stake in Clean Wind Power - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObzlxem9MSENpb2I0b1ZFOXlkZEpwZFRobHA5THFnMkN0bm5RaVUzWmk3ZWcyWmg1cUE4aGdCa054dXJlbkhacDZocGJsendXRnZoUmluak5tR216YXdpZHFFcmM1M3NhWTJWZmlBRXhKSzV6QlE2NDJ2NVVNVFl6MlBwazZRNjF2TVJGUmRKMFMtUUhob1QwYmlQV1dQSUNFdGJmLWJpd2lxZ2VMOV9GbDlRS1dGNEZSenI1UA?oc=5",
+      "pubDate": "Wed, 27 May 2026 21:00:31 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Federal Bank meets 360 One and Ellerston Capital in virtual sessions - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUmp5SEN2QS1vOEJ4ek1uMW1jTlAtVzFGYjZrRUtXcmpsZVA4Vk9zeUVZUkdlMVh6bXhoVTRxNXhoZk5QMFpEbWVFV1JKWUhZWmtxcnZHZmhXSl81X2ZiSWswbF9ZT3J2TXJfZFpwOU1lejg2S3JYRVBfR0d0TThseFg5VTJtVm9KMzJna1VQUFE2SUhaeUlGTEVjQXpsMlVjVGEySDJFYnR1RHJKNFE?oc=5",
-      "pubDate": "Wed, 27 May 2026 18:56:15 GMT"
+      "title": "Dow hits record high as AI rally pauses, oil prices retreat - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMlFyR1BubmdsRnRLM1h5ak5tUGlKbDVjOHh5alhESEhvRTY2RzZpT0w1alhjZ1VmUzBYMG0zQ3pBdjBUREhNcHNtcW54S3JtVi05U0FGYzhoVmh2cEFQR2UxWEN1RW55NUZTSkRDZXFJQ2s1bXVBRG9CS2NxNUUtZU9uM2NzSEZCQ2YxSlE5dzhPSjFlOGQ1eU9VcTdDQQ?oc=5",
+      "pubDate": "Wed, 27 May 2026 20:48:45 GMT"
     }
   ],
-  "fetchedAt": 1779911508
+  "fetchedAt": 1779915788
 }
