@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: S&amp;P 500 and Nasdaq hit record closing highs as US and Iran agree to extend ceasefire",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-hit-record-closing-highs-as-us-and-iran-agree-to-extend-ceasefire/articleshow/131377655.cms",
+      "pubDate": "Fri, 29 May 2026 01:35:10 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Gold rebounds after Iran and US reach outline ceasefire deal",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-rebounds-after-iran-and-us-reach-outline-ceasefire-deal/articleshow/131377529.cms",
       "pubDate": "Fri, 29 May 2026 01:08:08 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Thu, 28 May 2026 21:16:50 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Nebius shares jump as former OpenAI employee's fund buys stake",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nebius-shares-jump-as-former-openai-employees-fund-buys-stake/articleshow/131373316.cms",
-      "pubDate": "Thu, 28 May 2026 21:02:05 +0530"
+      "src": "LiveMint Markets",
+      "title": "Wall Street ends higher, Brent crude eases on reports of US-Iran truce extension",
+      "link": "https://www.livemint.com/market/wall-street-ends-higher-brent-crude-eases-on-reports-of-us-iran-truce-extension-11780000266705.html",
+      "pubDate": "Fri, 29 May 2026 02:01:06 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -52,12 +58,6 @@
       "src": "LiveMint Markets",
       "title": "European Stocks End Weaker as Traders Await Truce Confirmation",
       "link": "https://www.livemint.com/market/european-stocks-end-weaker-as-traders-await-truce-confirmation-11779995077699.html",
-      "pubDate": "Fri, 29 May 2026 00:34:37 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "European Stocks Trim Losses on Report US, Iran Extend Truce",
-      "link": "https://www.livemint.com/market/european-stocks-trim-losses-on-report-us-iran-extend-truce-11779995077692.html",
       "pubDate": "Fri, 29 May 2026 00:34:37 +0530"
     },
     {
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "State Bank of India engages investors in London meetings - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTk1nY1FlVnVZNTBfeVhQOGl0c3hnOEI3ZXB5ZWZjOVZOd3lPbndvRDJEOC1jYi1xM0dIcUlsRlRXemYxQ09DcFZQcS1BZ3hremJJUmhZVjlPNjJJZzBiU3NoS3FKNm5tbmt3UjlsaWdUU25YckZoZjFlRHRBZEhsRnBxRUZfUTNnbnhpOE9YckV1QU5RaXNaZnNjZDhfdXgzb3FCekp4S2QxdEYwN1haT2RFNA?oc=5",
-      "pubDate": "Thu, 28 May 2026 19:46:30 GMT"
+      "title": "Global Education fixes July 17 record date for final dividend - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3k3bkxCLUJFNFQyUVFzQzZYV0cwQUdUMWwwcTJfckQ0cWtoa1BJYmkydnpKdHhzVEtTTmY0bVE3NWo4ZzFaY0xzTXdEVTd3cDFXNHAzS0hiMzVzWTBkUHdyYWlHenpCa1psTDAxNmhGdVZoUVc2R0d0UDF5SkFKUXdSUG1kQmwyREpKOGVfQU5hVWpLQzVGdEF0OENoRF9RZDNOSXVJVl9sZXEyb1ROam93Z3hJZzBzd1E?oc=5",
+      "pubDate": "Thu, 28 May 2026 21:11:50 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stocks to Watch Today: Physicswallah, Swiggy, Q-Line Biotech, Lupin, Wockhardt, Ashok Leyland, GMR... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNV2VqVV91RkRaMHUyTkd5c3p3WENFOEpVYmE3Yk1PaGRNaDNuVDhEdWRIOHVaYmVBSk42MVkzdW00M2JUNkxwNXZUa3FBYnNzM2hRYUhYZk14NVlFd3dhM0VnZ3pZMzJLcTlPemM2MU9kaWJNOXYtTnVMcE1ydFF0cGkwa002UW9Ta0xXMzAycHlmUXRvNnVuTGxBS3NpNmVqME5zRnFMM0d4QnNRY2NidmlpX211a0JTZ1gyaDZGT0k2NmdoZ3BiUzVDN09GSDNNS2hRUzZZS056Ui1kczlJRTM0eEY0SXpWMk9lQVJZX3NTVEdWRG1pU3Rfdjc1RWVqMUYzQkhuZzBDQ3VGVkFtTFdwNXpBcGFYUGt2aVBEZS1wWTNtSU1XOFlfLXJCQi1tUzYzN1VUMXF3TzRqdEHSAcMCQVVfeXFMTXdpWGtZQW1zU0phVGNnSWgwT0MxOU5zWXFVWW9XSkU0WXZXX1FVZXdId3JfdGhKa1FOenBsa09TZlo0bjQ4V19YRGNhZlZDTUJzdk9XaHBjLUUwcTJQa1EwcEVNekZ5YnREaUQxd0Mzdm1DM2F4d3A5enAxSWc2RUF1Z010cWRESHlUdXNkeEFnUWpUTjc4dWJULUttUzRSU001VkFqcHc2SXE1LUo5ejFmLXV3WjR6dUpOSy1Ja1pIUENJYkt5Z18zdGpqUkJieXE0OEdoTlQ5RDBUX3NnaXU4eXNXLTVKTnJTX0lUOUZ1Wmx2ckJQVlZmTUZMUXI3VzA3ZHIxWVJTQUFxV25sYmhQTWMtUmQxOXd1UDZmdlQwZXhzWTloczlmTlc2eDNtanFQaENucHFEeUNIUjlORXZyYnM?oc=5",
-      "pubDate": "Thu, 28 May 2026 19:46:26 GMT"
+      "title": "Infosys (INFY) CFO trims stake with sale of 5,191 shares - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVmtPblo0d2NvdWhPeWhfVGFGbzFHdWphQlFHSnZSV0RNZXFTQzNVQ1h1aGFOaWU1My14LUNUcVZJLUJMWkdEWDB2LXFtSWhWZ01jSGxqcXdVYjJhcXdDQS14M1lhWC14V0luMHdpVlYzUUdmTmI3QlZFX3k0ckhDY1VHbFBETVRwODc1QjcwM2VJYzVUMU1VUVRwYjlIOGliWjFZY1JobHU?oc=5",
+      "pubDate": "Thu, 28 May 2026 20:30:26 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Happiest Minds fixes July 17 as record date for final dividend - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbHVQLWJCY3BZQjJlcEpVb0RPLThENVFNejhxZFJJX1NUcy1HMFhZU2JFNHBkZkcyZlZQV0tNSFAxcmVHTnJiVnJLZFU5NUNQS1E2UVVfMGNXMHhudlkwUFpwR24xcG1kR21jVng2bmdYMUZYNnozdU5EcXBMWVpzaVQ0NDg4N21KdEZUUGFrNkZtVW82dzd1SjhSWlBHOTR0em5XTWN4em9kQnQxMnNqRlRFdkpFbi13SVE0?oc=5",
-      "pubDate": "Thu, 28 May 2026 19:59:56 GMT"
+      "title": "'Any questions?': From Iran deal to ICE chaos, Trump answers EVERYTHING in marathon cabinet session - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSVk4SHM0eTZ1TldOOTFjRnk4UFY4MG5wQ21vbWY1ako4WGhKQ1JVMkMyYmR2TTQ3VjROLUFzVm9zbmdLUWdsa19oelFLU3JFMUtSYjlCQlU1eFlDU3hVdjkzQ0Y5a290S01wT1ByeXdZcXdmRWZpcFdFeDBKMGhZVEN6NGZvdzh2eDNlcmJKUEVkNDN5elBzX1J1b3U5Q1VPalFqaFN4VUJPTHQ5MEp6VHRUM1NUbmYxNC1BYWNvdVVBWlNlSWpVZ0pCTXVQYkszRDliU2J5cDRnZHFVYjM1SndFX0MwS1RwV3ktbERGeHc4QnpCUVdiaDNsSVdGMjlxNy1pSzR5Y9IBjAJBVV95cUxQSmVZRlR5bFdWekY4R1FoZm1fRTZtdDV2ai1YeVZ5OGxVVVBIQUhIT2VhSS13Q1VYcDFObmpqd25qajJseDMzbk9OeGxRaEVjRGEwRHhoLW9XT2ZOeVpZOEhwRVIyZGhQWjkzM3FsME4wb1h0N0oxMkRBblB4SzBjNExTVXd5cEcxcVZmMXJDTmFaZjRJN3g4d0pvVEMyY2h0UEhIWWxxelN0SU9kdGZfeFVUTmpOQktoNUxubUJSdDhyWVdNU2JwUUQyZXpjMU1LcmdLaFdmSTFkSVl5SlV5VTBMSEd4Q2ZOdzZLRkRQNTNpSF9oWThYV0tBeVdtTUtMWEdRQTZvaGo4VlZH?oc=5",
+      "pubDate": "Thu, 28 May 2026 20:40:49 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Karnataka Bank meets investors at Trinity India conference - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFRENUtNcjBmZ0dHdFFwUUl2enFZMWV3WFZnb2hZcWF1dUROaGxMQldULTJZSGFPRVUwdUlseXJHYTU4TkFDZGlyY3FNTnVyakgwOFVWZVVkOHpPcE9wU3dvcVp2SDc0N0RjY0FITzNUbVNvV1F2Mi13QUZfQkNXc3JJU3pyLUFaNkhteWJFNnlRdy1jeGg5eXNMTEpXT2hh?oc=5",
-      "pubDate": "Thu, 28 May 2026 19:35:49 GMT"
+      "title": "United Breweries Ltd stock (INE069A01017): India brewer in focus as shares lag 52-week high - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLWlrNWhWM0N4c0hhMjZ1UENyc2x5SlhsU2RDdHVpRVcxa2N1b1FNWTlkcWdfbnpZWkhYbXU0b1l5ODUtX0tLb2FwdEFiOXJEVUpKR3oxVThfbTBUdnd3UW5ZZTdNRmhSRlR5ZGlkTWMzcjY4QU14anhXNUFsU2sxUzRfZHNnUGFwNGtYTGRJMHlUVWdhU2d0VkpxZ1JXbVdsM3NhZExrcjdyMWJDWDRXbTJSX0Rob0RMd0F3NHNWN0s1RVdVXzNQQ05B?oc=5",
+      "pubDate": "Thu, 28 May 2026 21:02:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nazara Technologies increases stake in Rusk Media to 7.62% - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMjZCVzhpc01yOHB5dWtSelUxZFJ3VnZXVnVvakJkc1ZFVjBUR3B4LUlUdnc1Q3JKMG1mRzBxTGlKZHA2YVhBZHROdlBvLTFZUkM4WlhuT2c2OUpFZVp0MXBGeV9WQWZIdDNPeFlGX1poWGVEbUFPSWRsN3cxWExhcDlTbXJ4YUtEQjdDblpHRUJuOXhEdXBtcGZIVXJRclhxQVpKUnlYVkVkMU83dDR5WThaWmk?oc=5",
-      "pubDate": "Thu, 28 May 2026 19:31:30 GMT"
+      "title": "Tech Mahindra schedules investor meetings for June 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQnFWY1JYdjVRajlfUWFmeC1JTW1XV2gwandtdkl5cm5rVXNjZm1GVnlpbmxrQ3JFYTViNW9TOUVORlZ6aW5ESzU2RmpURjQ1ZndQbmc5WkdzS2p2M21FcExzNDR5ZlVUclRYU1hIVVFTeFVLam1VMmVueVA4TXJ2M3BnN2w2MWhYSzM3a2MydXVCNy1acXp5b1A4czh0Y25Ib2tHYmR6eW43a3VwNFl1UHhR?oc=5",
+      "pubDate": "Thu, 28 May 2026 20:37:30 GMT"
     }
   ],
-  "fetchedAt": 1779999657
+  "fetchedAt": 1780002818
 }
