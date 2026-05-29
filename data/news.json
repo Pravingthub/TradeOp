@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Fed officials mull raising rates to curb growing inflation risk",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-officials-mull-raising-rates-to-curb-growing-inflation-risk/articleshow/131396521.cms",
+      "pubDate": "Fri, 29 May 2026 23:21:02 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Supreme Court provides relief to Reliance in 2007 securities market fraud case",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/supreme-court-provides-relief-to-reliance-in-2007-securities-market-fraud-case/articleshow/131394997.cms",
       "pubDate": "Fri, 29 May 2026 22:08:12 +0530"
@@ -25,40 +31,34 @@
       "pubDate": "Fri, 29 May 2026 21:29:14 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/danish-pension-fund-excludes-spacex-citing-governance-and-valuation/articleshow/131393905.cms",
-      "pubDate": "Fri, 29 May 2026 20:54:58 +0530"
+      "src": "LiveMint Markets",
+      "title": "Oil Sinks to 6-Week Low as Traders Bet on Possible US-Iran Truce",
+      "link": "https://www.livemint.com/market/oil-sinks-to-6-week-low-as-traders-bet-on-possible-us-iran-truce-11780083683241.html",
+      "pubDate": "Sat, 30 May 2026 01:11:22 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Wall Street gains as investors await details on Iran deal, Dell surges 30%, Hewlett Packard jumps 15%",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-edges-higher-as-investors-await-details-on-iran-deal-11780062418004.html",
-      "pubDate": "Fri, 29 May 2026 19:29:26 +0530"
+      "title": "Key US Medium Sour Crude Weakens as Exports Ease From Records",
+      "link": "https://www.livemint.com/market/key-us-medium-sour-crude-weakens-as-exports-ease-from-records-11780083068863.html",
+      "pubDate": "Sat, 30 May 2026 01:01:08 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Small-cap stock inches close to 52-week high despite stock market crash",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-inches-close-to-52-week-high-despite-stock-market-crash-11780055755228.html",
-      "pubDate": "Fri, 29 May 2026 17:31:22 +0530"
+      "title": "Wall Street follows world stocks higher, crude prices ease on potential US-Iran truce extension",
+      "link": "https://www.livemint.com/market/wall-street-follows-world-stocks-higher-crude-prices-ease-on-potential-us-iran-truce-extension-11780081777887.html",
+      "pubDate": "Sat, 30 May 2026 00:39:37 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Non MF-retail ownership on NSE-listed firms falls to five year low in March 2026",
-      "link": "https://www.livemint.com/market/stock-market-news/non-mf-retail-ownership-on-nse-listed-firms-falls-to-five-year-low-in-march-2026-11780043090552.html",
-      "pubDate": "Fri, 29 May 2026 17:15:52 +0530"
+      "title": "Raw sugar bounces back from four-week lows; coffee down",
+      "link": "https://www.livemint.com/market/raw-sugar-bounces-back-from-four-week-lows-coffee-down-11780081594836.html",
+      "pubDate": "Sat, 30 May 2026 00:36:34 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "US stock market today: S&amp;P 500, Nasdaq set to extend record run as investors eye US-Iran peace deal updates",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-nasdaq-set-to-extend-record-run-as-investors-eye-us-iran-peace-deal-updates-11780054231182.html",
-      "pubDate": "Fri, 29 May 2026 17:09:19 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Expert view: Poor monsoon may impact earnings; defence a multi-year growth story, says Baroda BNP Paribas MF CIO",
-      "link": "https://www.livemint.com/market/stock-market-news/expert-view-poor-monsoon-may-impact-earnings-defence-a-multi-year-growth-story-says-baroda-bnp-paribas-mf-cio-11780052823831.html",
-      "pubDate": "Fri, 29 May 2026 16:53:26 +0530"
+      "title": "Wall Street extends rally on tech strength; Middle East deal stays in focus",
+      "link": "https://www.livemint.com/market/wall-street-extends-rally-on-tech-strength-middle-east-deal-stays-in-focus-11780079932916.html",
+      "pubDate": "Sat, 30 May 2026 00:08:52 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Markets dip again in May amid persistent uncertainty over West Asia war - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSjdmUjBOR2h4T2NDZS1NaERhRXcwQ1Fodm42bHBBam1GWVJHRy1jQzN5S2NmQ1RrX2lBTTZ5a0l3UktxMndJazVVM3RQYXAtcTd5SHBaNDBrMjVpdU00ZVhXWDltY2R0ZWJrbTBDZ1VIZTdKOWtkcEcxczVSSzQ0UWxTQWw4eXdEVldJakF4WnQwdlBFbUlvTk4tX3FZYkZVZjhWc2phNDdDRUNRdjlsbWVmR3hpb3JnODZsSE9ySDllNzBCM2M4NS0yVWJEU1NoSDVEYtIB2gFBVV95cUxPckVVVDZqSVBOTG9ZOXRkSGdycUFiVm1FZWVsSlFFWjUwNXVPRGJ5T1MzUkdjTnNvV3hkNzhEVWdPQlJNZ1RtWmdPdGdFRm1ick9sbnJkc3BZeVV1bWlLSHltSkpDQUQyd0ZNLVpGSmRXb3NYV3ZNUG1DdFFWVkwwNmMzLVlSY2FSVzJ2WXkwdGs5MlYyclVRU3JINExTX3A3UUlScmU4MXo4VHdRMUJGUjBzOWw1MjJpS1lZV3hsWnFYTFloOE45cERhblJySGVMYmt4WDc5czF3QQ?oc=5",
-      "pubDate": "Fri, 29 May 2026 17:20:49 GMT"
+      "title": "Glenmark FY26 revenue rises 27.5% to \u20b9169,825 million - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLWc5ZDRzX2lFSTRKZ3N4OFRjVy05WVBTNU5uY0JoeERmZ1VpRldaNTFRcnVDa1VGUnhaYzBuZFFIQ0gtak9nWklQZVU4LXRsNmpCMVIzVVhOS09GUUI4UllQUGlMZUw1QU5sZ01fYm5feW5HbXVqbnVVMW8wWk1iOE9xYlJaWDRGMHFaOEluU3lFaTBaTVZoYVJySXBHd0h5SmpveXNHYU4wMGdVZmRtMC1qSy15MUE0eE45YURVazU2dk84QjhxUDVFLWM0cFlRemVHSnhSWk9yVTJ3cDBfQzRmdjZFMEg2?oc=5",
+      "pubDate": "Fri, 29 May 2026 19:57:48 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Bengal detains 335 illegal immigrants as India sends 2,680 cases to Bangladesh for verification - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQN2Jxc0MtUEJZcTduRWtaTG1TVVh2bWRsWDlheWRqZmd5dWhBR0J0LVJONlNOUnE3Q19aMnJiX2JZYS0yOFVYLW5JdXNnMkZFbmlkVW9OWm1wTFpRVUdvYVNmc1BsYTZhQWpITC1yY0djd05jdlota2Joc1lDb2VtRUlGN0J3dXhaMlF0X2dNUFRkM0dEd2V4YlVycUUzUS03UVc3SU1JcF82WjNENnA3TGpPTXlSRXlyMEcyeXhEaXVISldMdFk1ZVNSUC1BUUZfOHBMZURnUDY1Mjd1Q2dxTUs3NjVzWFJIQXhSdVpR?oc=5",
-      "pubDate": "Fri, 29 May 2026 17:11:18 GMT"
+      "title": "Raw sugar bounces back from four-week lows; coffee down - Mint",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTkg4M2lleHZIcnVDQVcyQmdHckNQbENoT2ExLTFkVVdxRFJTZlRjamxLRC1KWkZ0Y09fY2dQa1VwWnM0S3dPOTdSOEhIdU9ZOGFONEFkeUVLaktjUHpqQm8zT3Fia0NHQTFBb3ExZWNQZHFqdFZsR3c0dVNTRHVmMlNmSGpLMUFUTnRxSjlOMDhhT1pOR1JNRF83YzdqSGdHc2dtZXFuQWxxQQ?oc=5",
+      "pubDate": "Fri, 29 May 2026 19:06:34 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Favorite tool of TYRANTS!': Rep. Fitzgerald RIPS Democrats over court packing push at House hearing - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUUM0dHdzeDVHX1lQOXFNTWctUmtZelhKU2wtNnZWcERPdFhlUnRjdU41VDRLanBsekpfRTBPem1vMmk0d1JXaC0zMXRVMHI4dFpwZ3hKUTRSWHg0T1VTOE1naHFMYXQ0MkRBU0lMaktYM29QNXJmdGdzX1lRSU1TNGdmYjZsdTh0VVRhVHpQVWpLNEpZamRSeDdjVDRLRHAyYVp3Z1VYZVVaLXNBZzhiY1k2bWZJRGQtcTVEeVVUYlh0Qm42ZDJWNGxVS2dDUlkzTHB6cEhoTlJoV1dRUlRoTzdPRTFFcWY0RXdyUElZVk5lbVIyOWRUN1pmdy0zQ2dNOU5VZFJKanDSAY4CQVVfeXFMTzQ0WElVY3dwZU1fMnZkQnVpSkZ6N3MyR0VfLV91aGpyWjFVZjhvY1dhX0ZQM2JYUkxVYS1mdWp2d1pONEoyejk5VUl0bXoxMmg2dlFfV2std3ZSSDdmcVZYTWlvN1BzRUI5U0NTeEVxNWg4RnVfZHBUbVRzVXhIRnA3SDVaUWNUclZMRzZQOFdCemxvbjM5bm90Mm1DcHJWdzU0MXd3T0p5VFEwVmhrbER6dHJnZVJJYlptVWd2andobHJERk1ZWGQ4UVFhNm1aN2p6Rk5HUUM1X0pYOWU4YnJmWXFZRU1YeGpyZHpNbG40TzMxQU9qRUgxdm9KaFg0Z09qcnRSQ2pGUWU0SUR3?oc=5",
-      "pubDate": "Fri, 29 May 2026 17:16:07 GMT"
+      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
+      "pubDate": "Fri, 29 May 2026 19:00:21 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'TRANS needs ABORTION care\u2026': GOP targets Talarico in EXPLOSIVE campaign clash | Texas Senate Race - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQWd3NVNuTElPd243THR5c0pCc29SYUFvRWlhWklsaDRzbEdHcHNVSWczUEpQblAxSTcwR3FvWHhhUU9HZ1l1X0pKa1pQVEdvTmZ3N3RydXotcFFwZHhCaDRHbm5LV3FTc2hIdzlVbUp2RGJSZ1hGOG43RG5fVFJETGdoRDN1Y3hTNHc1LXVpRlh4UmVOT3hXTlR5SkoyaGdaMm5HVmpCRVJpaDQ5d0JLSUJWdmhVOHE2YzhFVWREVVdCMVA1cnZLU0YzOS1QdGlxaGVvbWlBOUpkMmlrVGZWYWhidmdRTFljX0FTcUI0SXFCY29Xb1lyU0RyNHlDei14QVZlQtIBigJBVV95cUxNNHU2bk9jT3lmZnR2dUZyTHU4bEtHY0RoWWlQS1pUVHprM2hLQURsaXdpYmtNS2pBb0lLY3ZMNlZjczhXZzRkQmNrcnM2WmlyTDd5alZ0OEN2UWt5Wk1jRmhSWjN2SGdQLXZLM1pEUUpKeGY4QWRja2JYY0U1TW5TOGVzcTBlVUQ4ZjdVR25PRjR1QXhlUlRXdWFqVWcxYjVjdV9RX0ZBYjZJdi1HMlh2dHlsaFJ2SmhHN2ZETzFXRm52VThuN3VkXzF5MndPOGdlRldHNVBkT19ZRlNpZmZKSmpQZk9ZTVhyMkdvSVFkTG5fN2plcDlvS3lsdEloX2hVOUM4Mm5pLWFrZw?oc=5",
-      "pubDate": "Fri, 29 May 2026 16:54:12 GMT"
+      "title": "India-US trade pact may be weeks away: US Ambassador to India Sergio Gor - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQcGVHd1NxNG16UDFsOVR1MTdWZFJsVE9YM01jcmN2aGNIbms0ZFJKa1FNTGV2RFdFdS04N21oNHpGdmtMOVdRb0ZuRGdGWHZqeHhsdGwwd2Q0VUhUSkJjTFl0T3pjZVFXYThEZ2h5M084Z2paWmJqTGlkQTBMZlR2V3RBa015UEVTcWxrQzN4UnpndllJaUVUUldZTWs2WElfMXgxQktBZmxucmVwM05xM2FfWDdBTkp3NTNTTWgtTFd2TFUyeUV2ZWVvOGFOZTdFSnhYbWZfcmNRQ0JwYkVJSTUtLVU2bFXSAewBQVVfeXFMTzBaMFdWNl9lODhWdmZ5cXB5MVdOQXZ0cnhXOEE4a24wMTNkRjNKUmpySGhhRXZ2aE55ZWhONnB6UXR3T214R2hGQ0VQYTBIbWI1bE1EZ3otMERjbEtMS0FPYmc4RV9GVVpqMVZraTRDejhwZXJTRHFvaVhPX1FmUDlyMGdnYVROYkRWTFJSeUEwMk5iVk9GX2hWM05EWDZFNXUyTzIwd0thYkZ0VmZGUHl3MWl3Y2FpcE85UVE5ME14eWxKVFVGX1Jncl9DaGNGN29qOE81V2pnU0dCTEFjbWp4OHN6MkNUbkkwa3U?oc=5",
+      "pubDate": "Fri, 29 May 2026 19:04:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Be READY, more to come...': Massie, MTG mock TRUMP from Costa Rica after explosive MAGA fallout - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUjhpdkwzLVVKdk1WZ1V6S2g4X3pfZEpmRTUwTjJneEU1ZkVVVHNDemxaMWRZR0h2OGdkNU5FZDdSWWp2OXRRRHdIaFZaSmJJTkhyd1Y4dG1pRk0wME5xWmRZYWtjV05ZUEVlSlpXM25iZGNRRkxYeERfX0hxNXBndklMOXN4TnRudEVfNlZmVXpIcVZaUE8wU0haNWtKNXVGRkxhbUpmZGcyMUNfcUdVbXBnTWkwZHNXU3g2Wnl4YnJSRzZTdlhyQ2FjX18wRUNieWQ2M3dSZmRYS0hSZ2Jnd0NZOWNYb2ZJNnhFYWlFdmx6eVgzZ2lRN3UtS2pFVjjSAYQCQVVfeXFMTjExUmpxdTk1aEpoS3dsNHFxSVdIcVVRZE9JNmZWRjk5YjNkNkhLWFJQZUdqQnJ1Sk9TOENUWEY0SmtYaWVPOXp4VXNEdDFkVTRrRmdfMVRncmRfT2RoSnRwdnhBTk5CdWdZNlR5dlB0NWdMdGRHR3N3aklqSElsU3JXLVFXN3pQTllGOGlqQkk0cjdiXzdpT2pOdkk1dUJBdzA3NjlRMHkxUFhockZpZ3F2RDAySWVRcmVIcVZyaS00SnJ6NmpHbUR4MXlGbUlBc2d6Vi1ZZFFCdVlZbFNVaUJESFJMOXV1RFB1cEY0elU2VDNXREE5VnRrYllTVDYyR2VfODY?oc=5",
-      "pubDate": "Fri, 29 May 2026 16:47:58 GMT"
+      "title": "Indian Oil Corp Ltd stock (INE242A01010): shares ease while state refiner secures 5 million barrels - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVM3NUNKQ2luNHc1dnZSTFJrek5vajR5NlJ6SkJNVUZZcGo1aF9rUGJHS05IalJNOV8tV05aMGs0OFc5aXVpci1vaHY1UkdmQWdnTEFwYmRYUlhvUHBuYVlOSkM3MEZabjNPUFhPMHR1Y2dlN3RHRC1TaG9hNFVDQU43ZElIclFySWN5YTd0R1RkdFhKbmhqUms1LUNQWHNGUEE3QjlhcE96TURiOGpUeHZvUVRUbmNVSFUzYVljcThLWE5vMGhIRQ?oc=5",
+      "pubDate": "Fri, 29 May 2026 19:09:54 GMT"
     }
   ],
-  "fetchedAt": 1780076594
+  "fetchedAt": 1780084801
 }
