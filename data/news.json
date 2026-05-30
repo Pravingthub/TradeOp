@@ -2,8 +2,14 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "F&amp;O Talk: Nifty may stay range-bound; Sudeep Shah sees opportunities in banks, IT, picks 7 stocks",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-nifty-may-stay-range-bound-sudeep-shah-sees-opportunities-in-banks-it-picks-7-stocks/articleshow/131406954.cms",
+      "pubDate": "Sat, 30 May 2026 15:33:10 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Triveni Engineering Q4 profit falls to Rs 167.4 crore; FY26 profit rises 12.8%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/triveni-engineering-q4-profit-falls-to-rs-167-4-crore-fy26-profit-rises-12-8/articleshow/131407258.cms",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/triveni-engineering-q4-profit-falls-to-rs-167-4-crore-fy26-profit-rises-12-8/articleshow/131407258.cms",
       "pubDate": "Sat, 30 May 2026 15:21:00 +0530"
     },
     {
@@ -25,10 +31,10 @@
       "pubDate": "Sat, 30 May 2026 15:09:18 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Dalal Street Week Ahead: Nifty stuck in consolidation zone; 23,800 remains key breakout hurdle",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-nifty-stuck-in-consolidation-zone-23800-remains-key-breakout-hurdle/articleshow/131407082.cms",
-      "pubDate": "Sat, 30 May 2026 15:06:45 +0530"
+      "src": "LiveMint Markets",
+      "title": "NSE extends F&amp;O trading window following new cash market closing auction \u2013 Check new timings",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-extends-f-o-trading-window-following-new-cash-market-closing-auction-check-new-timings-11780132430627.html",
+      "pubDate": "Sat, 30 May 2026 15:46:50 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,16 @@
       "pubDate": "Sat, 30 May 2026 12:56:17 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "US stock markets this week: S&amp;P 500 posts 9th straight weekly gain as tech stocks power markets to new records",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-markets-this-week-s-p-500-posts-9th-straight-weekly-gain-as-tech-stocks-power-markets-to-new-records-11780115495459.html",
-      "pubDate": "Sat, 30 May 2026 10:40:26 +0530"
+      "src": "CNBC TV18",
+      "title": "Sarda Energy expects strong Q1 FY27, eyes debt-free status by June: Nilay Joshi",
+      "link": "https://www.cnbctv18.com/market/earnings/sarda-energy-q4-results-q1-fy27-outlook-debt-free-target-nilay-joshi-ws-l-19916210.htm",
+      "pubDate": "Sat, 30 May 2026 17:02:52 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Gokaldas Exports says tariff hit to Q4 margins was temporary, order pipeline remains strong",
+      "link": "https://www.cnbctv18.com/market/earnings/gokaldas-exports-fy27-orders-strong-q4-margins-hit-by-us-tariffs-ws-l-19916190.htm",
+      "pubDate": "Sat, 30 May 2026 16:23:08 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -79,47 +91,35 @@
       "pubDate": "Sat, 30 May 2026 09:56:02 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Wall Street ends at record highs as ceasefire hopes and AI rally fuel gains",
-      "link": "https://www.cnbctv18.com/market/wall-street-ends-at-record-highs-us-stock-dow-jones-as-ceasefire-hopes-and-ai-rally-fuel-gains-ws-el-19916090.htm",
-      "pubDate": "Sat, 30 May 2026 09:20:37 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Space stocks' hype gets reality check with Blue Origin blowup",
-      "link": "https://www.cnbctv18.com/market/space-stocks-hype-gets-reality-check-with-blue-origin-blowup-ws-l-19916054.htm",
-      "pubDate": "Fri, 29 May 2026 23:06:21 +0530"
+      "src": "Google India News",
+      "title": "5 Most Popular Mutual Funds in India - Should You Consider Them? - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPT2dCcU1wZUthRGFBdUxrS3NOUWVZRFNOLXB6NDMtd1haUGNPa3lWcEJZZVU5UGFvaFZkWXlsQmNNQndERGVPUEs0TWJ4NjdkU2hRRVc2eGwyWUNvSjNjLWg4R0pCRmdsa0ppVTlLclFLLXFQdmQwbE9TU0x0V09IVlZicXB4Rjg5U0xFZnRicmozdTIzRllaaXdrNnhUVEprU2tSeHRrTmk0eHpqLXZJMEZGX0lyR1U1REJVaHVSMi1WSGRZRS1XRVVIMnZfeG5wejM5Y3dwdG9mT1ZEREVvRXp6SmF6cXJCdTR2ZWJ6YUlmVGJTR3ptSUZVOHdiZnQwbkF0M0xBQTRzZ1BXQkxqVXFGejloSDQ3TTRJdHZhQ21ValVOYzBsWmlISktvS0NBZC12cU10WVhMMEQ5anZRUl83YUU2bmoxUGFIOUpwQ3A3dWRCV1BrQzhSNEJSbzRmVXJyWDdB?oc=5",
+      "pubDate": "Sat, 30 May 2026 11:33:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "F&O Talk: Nifty may stay range-bound; Sudeep Shah sees opportunities in banks, IT, picks 7 stocks - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNGdHQlRRUldYVFk5ZHdlSU9zMElPOTVCZXFUMHJubWNtcjRJbnRmdmpnSE1Zd2VKNXdrdWVYUzhFQlgxcE5YYy0wVW5MQkREaFFGNGRwNDNGNVNkSEVwRjQxRUVaSDk4eWwyd2tVMjZGcExBT0JQT1JLTG1rMk0ySWhEZnpNM2czdE8wdkxuSXhLVHBnWUNnc2FZSTgyUnhGZ2g5LUt4ZWF6bXVrX3BJbjFFNFhVY2tyN2w0YU5JRWhVeGViMG90NUtPRFh1ck9PVTVXRlpMd1NEbFNxaEJFUDllTWNvSTdvSUpvOENZTHpwRExNVXVOdEV30gH_AUFVX3lxTE1IaFZiS05OajlZZlJrdzE3Q3NZQXlEUjBSZXNscjBuOUo1cUlRV2RBWFNFeW4wWEVlajVPX2diSWU5b1dPckF5aFpXZVRWYUF2eTVMeERvVXBRY1dSdnJUUXVZN0hFeTkxT0F3RVB5NXgyenJxM3cwZUtBbDJHdkUyamduQ09tZ0VIUEhvQ0pUeWR2TWRvMGdHQmhaNnNSRGRFMW9QNDJmS01uWVlfV21xVU5FLXpnVHdFYXpBRllKOGdOb1JnUnQ1ZUl6R09GcHVEdlk0ZmhRQzJuSlNkdEY2NHpwQ0IzTXI0bUE1U3Yxa0lCU05KOElNekViT00zRQ?oc=5",
-      "pubDate": "Sat, 30 May 2026 10:03:10 GMT"
+      "title": "MCA Approves CSR Funding Via Social Exchange - Passionate In Marketing",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUDdCVV9sYk9YM0hEcHVxU3g3X3dnaDVCcFNYVllWbXBodWg4LXM1LXd2WjNkSUk4dWZqbDlhX2Z1OFVjVFhBMm0teTQwNXA5d1p4OWY4aF9NNlpMS3oxcmJiSm4tQngwQ3hzelhjdUVuVTN0ZUxCVXFXNU9GNERfOGwxeVJIYjc1T0thMDkyOVVXSm5yWm1rOXQ2TTJrb0JGbEpkTmctNA?oc=5",
+      "pubDate": "Sat, 30 May 2026 11:19:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sirca Paints promoters declare no share encumbrance in FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR1ZpYXpaalhMZFZKR1Jpak0tMHlNVDloRGpkcDQ0aWEzOWdGUEp3NjBIRTk4R1lBYzdCYVBpb0lEQ0ZOU0FLMWMzUEVJc21TaVA3NXd3MnlKMHMxeWtyOWZncVBfU3Rxak1kTWw1bUt4OFJZYXdjX3NpQmYtYXQwei1Db3FabjVNS0ZLXzBHN0FBTW9oQW9pM0N1NXZlUFJYWXlCMVhoUktjUjR2clAwRjF3dXI4aUU?oc=5",
-      "pubDate": "Sat, 30 May 2026 09:58:27 GMT"
+      "title": "Elementor #145596 - IPO Watch",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0zRmd5TDJDWDVzQXFCdmx5eUtQeTN1ZXdrZTlRZF9rMWtaaWZWc0V4TktSWHFDVDFRSVlhSGlNbTQtNkhOWTQzVG5JQ19BUQ?oc=5",
+      "pubDate": "Sat, 30 May 2026 12:03:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE Social Stock Exchange gets CSR boost as MCA clears corporate funding route. Check details - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQ2FJdWV3VnIzR0FCTzJJNmlmTkNNamxESXI3M0h5dmhvYy1RVnhzbm1od3FTRVZ6YnltVVFlU3I5bUhmV29DSFZLYnVYZFN0VVYyUTJKZVFCaGVUcjc2b0UtSlVmek5obWlvNzVzbFlia0RGZENtVm10UnpBc2EzV0pfRmpDMXBvcGY0TERtUXZKVS1TdUlNQ1RDOW5ORE1oQ3pQMzlCYWlINXV3aFZ1bFR4ZVYzam51YWJGWnF4dnE0UE1KRktTdm12NUdMQ2lQcGh3aHFCWGRONHpCT0lHbVpvT1VzWjlUMXFSbno2SVotUWhIZzhFbXBn0gH_AUFVX3lxTE9iN3ZnVmplLTJEeG8zOEJUNFhKX0RSSFN5T3Rhemh3Uk9rRnNQUjBWSTdqRUZJdWZ3MnJPR1JUQWZyVlQ5a1BlWHh2VmFBZ0ZMdTZTcHVieEZfXzlSUW90STdVQThVX010SFdJWl9lU2V3XzhwVUtYR0k1S2pLYnU3OUYtTDdqOHdKd2FNOVBRUmRCTFN2a2ZDYk5USGFZQWRlcGktcmRyYmhBZDlRd3JyZzZIZ3dYMUh2MmwzRjN0WXZCRWxUYklBSHBneXVEWmdHQmtkODRYcFhxRzJxS19USGVaY1V1aG1wa2VpYUhKRnlTRWZsMHdBYXRraURwNA?oc=5",
-      "pubDate": "Sat, 30 May 2026 09:39:18 GMT"
+      "title": "Triveni Engg Q4 FY26 result: Profit falls 8% to \u20b9167 crore, income dips 5% - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOazNoTnF2SWgxY1NIa3NpNHBsSktJVjVIZGxSejVmUjBaN2NNUGNJVFBXcG1QekxXLVM4c2JjeGV6TjBqMDl3clJSZGZNRkV1M1BsNjBRZy1fUHRSVkgxMTVVQktzLW5XTFEzVzR6QjBkbHJtZnpUNU9UOFdzM3pzVjRod3NfdEJKc0NBVWVkODVtaWZ1TzFRbnRDLVo0ZGd3STFOanFiS1Z0Y29ZU3VpTjlESE5ubmlacmdEQ2cwM2dhLUV2WGNCWkp30gHPAUFVX3lxTE1fU3BucE0tcjAtSFhjajNhZEl3aHM0U0dQdzNxYmpDRE5WWWVRY3Q1SzY4SjhTR2lZNTl2TjlxLXJRaDNWY04xWnc1dnZucG1vZkhIMTJMTnd3ZFpSbVptNG5iYkkyX05rT0FUN3lvcWVjNHRDZlY2U1B5Y1NzQVhWUUI5UkJ6WngtSnVCdl9yUjlNaUNHeWQ1YmtvWU5pS2pZZDJRQlJ6dHprcUZ6Z2xqSVE2d3dSeDhGbmlKeFVWTVVHRXBkZThxdkdPcnpKVQ?oc=5",
+      "pubDate": "Sat, 30 May 2026 11:37:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Retd Himachal cadre IAS officer Upma Chawdhry 1st woman to head Metropolitan Stock Exchange - The Tribune",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWU82cWpZb2hKTlNnWDFCdjRkUk41NkhQQkVZc1RuanVYckFDSnRBcUNnV1lLSlhpS19INTc5WXozdFFkbkxtSE5CUnQxMGpoN2NMR1JwUFlKQ240bTFoRlVZeHRDOXFxYnJwb1ZpbjhvQ1JpWHphOGZ2YVdlMHZrV3RZVEsxVmhxdTlOMzRKVmdOc2o4Mk1SNUl5N0pxcm9VNTMzaEVQd0ZaR3hJYkJQVFZpVmhYZUE1bmtjTzNlUVJEYjhVdFBRUDZhdEppNjNLVTZnR2kwS0J4elk4LUxpYjlB?oc=5",
-      "pubDate": "Sat, 30 May 2026 09:56:44 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Contil India Q4 FY26: Profit Margins Collapse Amid Operational Headwinds - Markets Mojo",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPakEtZk5Ua2Jfa19WZThVNTZ4RExCa0R3MjR2QlJUaU1oLVhQbUtRRDgwYWVRTzhPcTd5Si1ZMDlIeVdxajNTUUR5dE5tTWNxOHZDUEVtTk16QTFMcmh5eWFRaU1fUGZmYWZYcUhzYXlMWUFIeGhscWpORnM4czQ2dDQyTkhENXNES09tdVhKZ25aOHdTdGk1TURwUFoyZFpMUGE1dG1CcTUxc2RIVzFIcjVUZ196OGVJdUthRm4zX3kwejZqdGww?oc=5",
-      "pubDate": "Sat, 30 May 2026 09:39:04 GMT"
+      "title": "Coal India OFS opens May 27; government plans sale of up to 2% stake - MSN",
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNd3RJYU5WZGp3YlBGQ29GRlJvTDVacTJ0R2s0N0N2djVGaG5fZ2V1b2ItcVNlMWs2dG5Gb2tPazdfUlFHT0ktQTN1VC1LSUxGd011eW1mbWJGbHRzNE9MUXhWTXU5NEZDaHMxbERXSFppczJlaTNERlk0TWhmWFpMQm93dTF2bTIySmdIYUpJWXhOaXhtSE5nLW1Lb08zQWdrRDJiOUoyUHdBd2s4cV9WeWtVUkJoenFXbVg2QnNOOC1oLXkyNlVod2w2NVdmSDc0eTNQY2tYVm45UnA4WnR1amJhUHJTVDhvVjE3T3hjck8yanduUW02bXZuZERZN29rZlYtQ2hTSmhHZFNTSU52Um9McFQ1cDhUNUZZTWhEM0NmbENxVWxOZ1JOcm53OTNYZ1JXSW9na2Y2WjViZEZCUjd5VzRzOTJUWXc0anZrVzNtcmtKOWpmdkxkQVFnM1NDWllXQXpMQ1B5a09KdlNtSlh1LV9mbHotaTNJaklRQWhQd1VENVE?oc=5",
+      "pubDate": "Sat, 30 May 2026 11:12:51 GMT"
     }
   ],
-  "fetchedAt": 1780135748
+  "fetchedAt": 1780143029
 }
