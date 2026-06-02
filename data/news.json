@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: US stocks end modestly higher as AI zeal overcomes Middle East jitters",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-modestly-higher-as-ai-zeal-overcomes-middle-east-jitters/articleshow/131471121.cms",
+      "pubDate": "Wed, 03 Jun 2026 01:33:59 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Alkem Labs sees Rs 930 crore block deal as promoter family entities pare stake; Goldman, Morgan Stanley among key buyers",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/alkem-laboratories-promoters-sell-1-5-stake-for-rs-930-crore/articleshow/131467327.cms",
       "pubDate": "Tue, 02 Jun 2026 21:32:13 +0530"
@@ -25,10 +31,16 @@
       "pubDate": "Tue, 02 Jun 2026 20:24:04 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US stocks: Fulcrum shares plummet over 50% after scrapping lead sickle-cell drug on FDA concerns",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-fulcrum-shares-plummet-over-50-after-scrapping-lead-sickle-cell-drug-on-fda-concerns/articleshow/131465741.cms",
-      "pubDate": "Tue, 02 Jun 2026 19:31:06 +0530"
+      "src": "LiveMint Markets",
+      "title": "Emerging-Market Currencies Gain as Risk Appetite Rebounds",
+      "link": "https://www.livemint.com/market/emergingmarket-currencies-gain-as-risk-appetite-rebounds-11780433810693.html",
+      "pubDate": "Wed, 03 Jun 2026 02:26:50 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold Pares Gains as US Jobs Data Reinforces Higher-Rate Bets",
+      "link": "https://www.livemint.com/market/gold-pares-gains-as-us-jobs-data-reinforces-higher-rate-bets-11780432705272.html",
+      "pubDate": "Wed, 03 Jun 2026 02:08:24 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -47,18 +59,6 @@
       "title": "US yields dip as job openings jump, oil prices remain volatile",
       "link": "https://www.livemint.com/market/us-yields-dip-as-job-openings-jump-oil-prices-remain-volatile-11780426886499.html",
       "pubDate": "Wed, 03 Jun 2026 00:31:26 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Wall St muted as AI zeal is held in check by Middle East tensions",
-      "link": "https://www.livemint.com/market/wall-st-muted-as-ai-zeal-is-held-in-check-by-middle-east-tensions-11780425416025.html",
-      "pubDate": "Wed, 03 Jun 2026 00:06:55 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "CMR Green Technologies raises  \u20b9188 crore from anchor investors ahead of IPO opening on Wednesday",
-      "link": "https://www.livemint.com/market/stock-market-news/cmr-green-technologies-raises-rs-188-crore-from-anchor-investors-ahead-of-ipo-opening-on-wednesday-11780414829247.html",
-      "pubDate": "Tue, 02 Jun 2026 22:33:41 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "How India\u2019s mutual funds are powering through a flat market - The Morning Context",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQnUwTzdaYW1lQnBuSzJhMHdqRkROd1dEcGRvOGFDdHVOUnlDdHFCU01pTDZSRFlDanNKMkItaXkwZElCclhnRW8xN2FCR3diLVcwOHk3OFVwc1Y2OW56S1cwb3UtRVZrVGdIRGNUTEZ1Mjd2QkdBZHlmVnpmb041WHVMWFVSWEp6bjFWTVVXRGp3MDN1alR4RFBxSjNQdw?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 19:10:00 GMT"
+      "title": "MedPlus Health Services promoters declare no new share encumbrances in Q4FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSm5QUGktUHpPZHpWRFRsdWRIZi1UQlB1ekd3LWZ1aUJKX3J6cTVOSEZFMVdBNFFpWDh3aExpMHBxT2RIWEU2VEQ2SGoxa2loMnZhV215b1hNNE9SblctM2Q4ckMzSFM4amJlX09GRnAtM1Zkdlg1V2dYTFFGS1NaZHJQaXlZSm5haE5ENjJXSG5HckMydXFQSlFmdHdsZVRJY0hJNnFEM05hNk1wOVRqNElZWjFMOWJtc0ZJVmtnTjNPUU5tTjVhd2YxcFBwYTQ?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 21:42:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Reliance Industries executives meet investors at Morgan Stanley forum - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRnBON1g1bEdKaURCNW9RU1NkRWV6WUpldjBMQnliVTJTcEl2UkhrSXBsSmhrVGh5YmgwSDE1QmZLcFZtdTZRRjZaUExEME5RaVVNclV4YnFhNzVQV1JmNDF2SDJ3SzJwRm9CVjNUZm45QlRoNWt1bzE0WDBhV0kwakc0eTR6Q2JqdEtsOFVmaHpfWDBHdmhlZS1YSE8zZDFNTThYbGpUelNudG5DS1ctZHlhN1pidXlFQkFyNjJGY0I4UEh1?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 20:03:45 GMT"
+      "title": "'Biden IGNORED immigration laws': Sen. Kennedy, Mullin vs Murphy over court orders in FIERY hearing - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbWNQVTBwLTA2MHRHcXlhRFIyUkVMNlhRSS1VbUVPc0puTkNld0hibnZUMk5ETDhOcW9kdml2UE85am82RG9qa0lEZFB6WkEtbzVINjQtVHFRVEJhT2VmWlhhSFB6QW1pZ0FvSGxsOTR5Qk8tTVFKSFF6WGZHbUNza1RvUUlLTUFPdEVzNkd4ODlPWGhDZTlMQWhBOHhwSGl5aUlBMkEzVnNFVWVaQVhmaVJjYVRGNzI0QkVodmc3eVJLd2syeXpiVHM5M2gzUG02WktwX2VZQi1jbFA5dngyaWFUZU5ncWZ5cElCUXdUNEdKclpJdEpydFhibk5aZnNfZzRDYXEtc9IBjAJBVV95cUxOS0toazAyR3VsVVpwNGhJSHpMU29xSzA1amJRSXljUG1vTTI0TUJhbmJrVHA1ZUtZTVl2eExGVlNWeW5Tcm1tV25sUzZHdUVqYnRfalBoQ0Vob0dnMzZ1RFdWMXRHZFZTLTVURHFvQzlsOHVKX2tqcFhzR2RwbVl6Wm5BaGdRcnZMTHFNTFRoMkxuZnp6VWNxQmRyWU8zTkN0c2ZqYlpBY0t5THVwVm51Vll2Z2xmZTR1dzJHN3N5VFgxMVNMWlVqUmExZmI1V1RhOHE4WHhUR2toYVp6V1BvYzZRQlNYNHRQaElUdDZyaHNsYlNZczJkOU5tVXdtdjhpUjB0S3pkNTZTZTJK?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 21:17:07 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'EXCUSE ME SENATOR, what laws are we breaking?': Mullin fires back at Murphy\u2019s opening remarks - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOR1M3QTY2ZGo1QTNrLWdaNnZCM1ItRllubV8xWk9QaTRXWi1CRWhwX0RCbWZQRk9vbEJQN1RkWTdYVjk3NWF3M3pxdmNkRUg4a0RfTmd1S3ROV3BWejJOS2xxTEpqS2NHNVhNZUx3djNOWUJySzlwRXJVSnBvUWlxNUVCTVlvc09MeWQ5QTFlSGRmS2xPQWNtem1QOURmVXdBZEtDbFQta3RmU2dLVWdEeUwyMHk5LUUxWS1FZVRvU0k3UF8xZFJwcjdUUUY4VXFsaEU3dlZlQzYwcnBJSkd3THlEV1BPSkJxclYyWkV4QU9oR0FnTlZhd1BybEwxWFXSAYQCQVVfeXFMTmRlSXhQa05nelF3QTEySmc3amhUMFk4cjd6V3NlVHVhdjFXdjc0ZTBSVERieU0zajF3ejZQMzNWVTR2Ti0tN0FnVHo0c3JIRlNrRnQ4dlg2T0hGU3VhUlk4VENHbHRjV19jTXF3V3NwVTZVRm8xMWtYc0p3XzhnTUpHYVBSdzl6NHZ1OWdEUkY3TkxGMkNZenFCV3VVX0hZbG9kZGEzWV9iNzZreUhwaGhtR0NYSWpHU3k4Z1gzUjZfYmxtTUF6VnpoR2d2MWRLb1FNWVNuUElVWTktVFQ5bVFRZ1VfamZVTEY2RVE3d0NYcFpGcGZ5bkpkN253MHFFSUJZVlo?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 20:06:52 GMT"
+      "title": "Dow hits record high as AI rally offsets US-Iran tensions on Wall Street - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV3hBREZ1STZJN3BrRm9TYUpSOVIxYzVhaDhkTnRkYmZ1Qk1Iek9BSHhCME1qLUFZX3BVSVhrUUR4VWxsNHo4MTdFX0pUTllHTDg2RWxvQWUtdFgxc3VZOHYwdXpTZnAxbGFsNDAzblI5Uy0yckhEbkJHeGhJeHVCUV80REZUYTdwRThhMVNUZGlrTlM2eVdtNURJZ3JzaGRtVHRTVFFKbGdDRlNHTXRDaA?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 21:11:08 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'You weren't even in the room': Murray explodes at Mullin in heated Senate clash over ICE, DHS funds - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcEQxVTFlWVN1WVNiTUxoVktCdmctY2ktS1UwNDNlYmdpLWZ3ME1va1lQVzl6cXVLZV9CcVlZOFRGcC11dmxxdzM3bzBVVDd5X3ZYVGRvWXEyVU1mX21hMDRkQ1BQcWRvTHJpeGtZZ19WS1ZsZjlsMWNGQ3d0WEZrb3NoTzREblZJcGNIcU5acEgzc1hYTXc4RmZxanpnODZsUGZPSmp1Q0kxLVFOWkU3aGlwSElmSTFzUFRLMWhPSWhLRmsxeUdwMjFoYTlmczlnaEM5YVVEM0FQb09iQ2wzLXhOY3lyYUhKNTYyTjRFaG1ORFZ6ZXlTWDBOVDlhaF82S0dyMDhsRnE?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 20:03:15 GMT"
+      "title": "Usha Martin promoter group confirms no share encumbrance in FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdDgxYnFDSzYxZVFBOE1KTE03cnRfSTRTYlVyMXJLT0dkU2RPUHVQZUEtblBLSXk3eGwyS3gxb2hXTFdqNG5FeVhjcTRnWFBscHhfeEZYZU1TMi1RN2VuTG96OFNBbHNiRnpXdlNpcGFrcjZnNkZUNllRUWp6eHR6UFV6YlRnR1ctYWg5SklaWHRLX0lUdEIwN1N1TGdrakdtVzVnR19PODdqalFVNHM3SzlFazE4NGRHNUpZUFR3?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 21:07:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Jensen Huang's comment on Marvell stock 'figurative, not literal': CJ Muse argues - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2RmeGN3aUZyM2FBcDkzT2ZUMzFITlJXdFEycERJYWlvTUR0SS13aE9DMXlkazctelZWVV9LTkNXTW5DTkQ4cC1pTENxQkd5c2tVS2pTeXEyNDdsNzZwdnVoVlNkdlRDSW5rNmkwaGIyVEo2eHhxLTVHNzJObjh5c1lEc0o3VzRlMU5RMWVFSlBnNjF4dnZVVWxyU1RkMEpKMVhOb2NZSk1sZWlMbU1JbGMyd3RNUQ?oc=5",
-      "pubDate": "Tue, 02 Jun 2026 19:11:04 GMT"
+      "title": "Jagsonpal Pharmaceuticals extinguishes 16 lakh shares - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWlV4TEpwdmpCYXZDdlNtZWI2V2hLU2FYVER1WnYzWDdlYTRQZXkxZ3pDZml0ZVRSVDJ2MjQ3ZzdWXzE5Q0lkRjNjTVR1d0pMdDd3SHBSOE1xS1pNZmppQTJDd3V3VGdrNVZWalh6U3Mza0R2MHM1bTBabjFrd2s1RDB4eHdDZ21uUlFfeDRWWUNWRTBFRU1jT2x3V25ldG9yeVVrWGNyNUNEZ1Z1bXVz?oc=5",
+      "pubDate": "Tue, 02 Jun 2026 21:11:15 GMT"
     }
   ],
-  "fetchedAt": 1780430996
+  "fetchedAt": 1780436937
 }
