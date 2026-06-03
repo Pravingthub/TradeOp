@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US Fed says Iran war driving 'moderate-to-strong' inflation",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-says-iran-war-driving-moderate-to-strong-inflation/articleshow/131492008.cms",
+      "pubDate": "Thu, 04 Jun 2026 01:44:55 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks today: Dow Jones drops over 500 points as Middle East tensions escalate",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-middle-east-tensions-escalate/articleshow/131491980.cms",
+      "pubDate": "Thu, 04 Jun 2026 01:36:25 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "GQG Partners sells 1.8% stake in GMR Airports for Rs 1,906 crore; Fidelity buys holding",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-partners-sells-1-8-stake-in-gmr-airports-for-rs-1906-crore-fidelity-buys-holding/articleshow/131488382.cms",
       "pubDate": "Wed, 03 Jun 2026 22:12:02 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Wed, 03 Jun 2026 21:33:20 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131487788.cms",
-      "pubDate": "Wed, 03 Jun 2026 21:31:08 +0530"
+      "src": "LiveMint Markets",
+      "title": "US yields climb on latest flare in Gulf tensions",
+      "link": "https://www.livemint.com/market/us-yields-climb-on-latest-flare-in-gulf-tensions-11780513403041.html",
+      "pubDate": "Thu, 04 Jun 2026 00:33:22 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Rajesh Exports: Sebi finds 97-99% revenue inflation, bars promoter from trading",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-sebi-finds-97-99-revenue-inflation-bars-promoter-from-trading/articleshow/131486429.cms",
-      "pubDate": "Wed, 03 Jun 2026 19:54:17 +0530"
+      "src": "LiveMint Markets",
+      "title": "AI Bubble Is Coming to Credit Markets, DoubleLine\u2019s Cohen Says",
+      "link": "https://www.livemint.com/market/ai-bubble-is-coming-to-credit-markets-doubleline-s-cohen-says-11780512268259.html",
+      "pubDate": "Thu, 04 Jun 2026 00:14:27 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,16 +61,28 @@
       "pubDate": "Wed, 03 Jun 2026 21:33:51 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Gold, silver rates today: Comex gold tumbles $53/oz; silver drops $2 amid firm dollar, inflation fears",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-tumbles-53-oz-silver-drops-2-amid-firm-dollar-inflation-fears-11780494199367.html",
-      "pubDate": "Wed, 03 Jun 2026 20:22:19 +0530"
+      "src": "CNBC TV18",
+      "title": "Berkshire deploys $16.8 billion in two days as Greg Abel makes his mark",
+      "link": "https://www.cnbctv18.com/market/berkshire-deploys-usd-16-8-billion-in-two-days-as-greg-abel-makes-his-mark-ws-l-19919066.htm",
+      "pubDate": "Thu, 4 Jun 2026 00:28:04 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "GameStop shares jump 13% after strong quarterly earnings, $2 billion share buyback",
-      "link": "https://www.livemint.com/market/stock-market-news/gamestop-shares-jump-13-after-strong-quarterly-earnings-2-billion-share-buyback-11780493146036.html",
-      "pubDate": "Wed, 03 Jun 2026 19:46:43 +0530"
+      "src": "CNBC TV18",
+      "title": "Atlanta Electricals bags \u20b9285 cr Punjab transmission utility order for 23 power transformers",
+      "link": "https://www.cnbctv18.com/market/stocks/atlanta-electricals-share-price-bags-rs-285-cr-punjab-transmission-utility-order-for-23-power-transformers-ws-l-19919045.htm",
+      "pubDate": "Wed, 3 Jun 2026 23:49:40 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Fund managers seek easier rules to bring more NRI and global money into GIFT City",
+      "link": "https://www.cnbctv18.com/market/gift-city-global-capital-nri-investment-omnibus-rules-india-ws-l-19919036.htm",
+      "pubDate": "Wed, 3 Jun 2026 23:41:59 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "SEBI bars Rajesh Exports promoter from securities market, alleges \u20b915 lakh crore revenue gap",
+      "link": "https://www.cnbctv18.com/business/companies/sebi-bars-rajesh-exports-inflating-revenues-by-rs-15-lakh-crore-launches-forensic-audit-ws-l-19919022.htm",
+      "pubDate": "Wed, 3 Jun 2026 23:39:11 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -67,59 +91,35 @@
       "pubDate": "Wed, 3 Jun 2026 23:15:11 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Mastek receives income tax assessment order with \u20b9124 crore additions for FY23",
-      "link": "https://www.cnbctv18.com/market/stocks/mastek-share-price-receives-income-tax-assessment-order-with-rs-124-crore-additions-for-fy23-ws-l-19919017.htm",
-      "pubDate": "Wed, 3 Jun 2026 22:47:34 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "HFCL restructures defence business through \u20b9264 crore investments, acquisitions and transfers",
-      "link": "https://www.cnbctv18.com/market/stocks/hfcl-share-price-restructures-defence-business-through-rs-264-crore-investments-acquisitions-and-transfers-ws-l-19918981.htm",
-      "pubDate": "Wed, 3 Jun 2026 21:22:19 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Let rupee act as shock absorber, no case for aggressive RBI defence: Gita Gopinath",
-      "link": "https://www.cnbctv18.com/economy/gita-gopinath-says-let-rupee-act-as-shock-absorber-no-case-for-aggressive-rbi-defence-ws-l-19918996.htm",
-      "pubDate": "Wed, 3 Jun 2026 21:20:21 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Dow Jones falls over 300 points as oil prices rise amid rising West Asia tensions",
-      "link": "https://www.cnbctv18.com/market/dow-jones-falls-over-300-points-as-oil-prices-rise-amid-rising-west-asia-tensions-ws-l-19918959.htm",
-      "pubDate": "Wed, 3 Jun 2026 20:37:24 +0530"
+      "src": "Google India News",
+      "title": "SpaceX Aims To Raise Record $75 Billion In Stock Market Debut: Report - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQmIzdHNCVDlTOFpfVGQ4N0JzRWVYMjBwZWtaSEpqX05PTGg0blh5WEVKSkdzNktnd2xvc1hheEhaZE9qUDRFQjdVS0RzbTkybUpIaHlxdVFxWjFqRV9yNDEzZjZyMkdTWGx1V0RLZWlFVVlraUNJVmJ5Y0NtX3kwZlVybFVoMzV6Nno1SnJZNmlOaW05Q3R3dnF2YXFjcVBrQVAyYnh2Q0Zqem1N0gG0AUFVX3lxTE1lZVZXV1JGblFOSU4weTN4bWlfeHZBOExfQnBLSVpTa0VRT0RjbEVPZXFRMktVU0Z6alNpbDVYT3lXUFBUMEZ1eW1EaWJBUXlhQU9GVWFSdFFBN2FHN2hYVmU3SVVwcWFQUEt4S29Cb0hlQ2oyR0V5dmdFVG9JUmUzMFV3ZTBONEh5ZEtqMk05WXBJWFpELVAxSVpYbDVZZ3J3aVJCQ1BQT0JCTHkxQjRMYlNoVA?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 21:16:07 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Markets Rebound From Panic Lows but Global Risks Keep Investors on Edge, Sensex, Nifty Recover From Selloff - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWTNUVzJMUmp0Y0NrWU80eUQwMVhRbkp4bHQ5TmNDNXdacXhwcDUzTzlwVmIzWHJKaHlCTXBrcTBYSnpob3JneGZyOFFoVlplOGlDNVM1ZGZ6WWh2ZHc4aVZyMy1WeEVYODJlYmZXbGRVcHlybXlJTFItc3l3emZJOUJ4Qm1SbDUzazR5SEcwOTlRQ0JvT2pRUEYzaTkxazFoSTBUbUtETE9EODdzRzhlSDMxQTBsUkt3UnpFN1lwSHFpNk1tNjR5czV1X1dzZw?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 17:53:00 GMT"
+      "title": "'TRUMP SHOULD LEAD BY EXAMPLE': Sen Warren vs Bessent heated exchange over INSIDER STOCK trading - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNb3NlQmJoSXhSd3VtbS1pMjVsR0Fhd1dBcWtYak5uOXZOc2lCb3I1WndQbThxMW93N0cxSmIwVTlGY1lBTHNOQS1lSWVISHhGWGdsTFQweTBqVFFKQnhwM0Fycm5sZk5OQmV3ajZCdmc5TXdkSlYwTnZLaFcyRVFROVFDd2VZTFliamRoU2JEUklKLXM5amhpanZQTlNwYU1HNEpoaFR4VFIzT2lraC1IVC1HanVKaW5qRDRRSnBpVTVUd3EyVlplY2VncWZNLWZNNldyT2tYQ21aQnNCUGxaRjBBYzZjaUZBd2JxbWJxTlBwSi1sbEVKWjdfNkNJZjZYN05VMzVR0gGLAkFVX3lxTE9YRllQVmI5X0tmZUl2cGswekM4c1pFZURaSHVkMzNRbE5JbkIyR0ZvYjR1eUpMT29RZUx4dDl4ZHUxYzk4MW1XRFJGR3RmeWxXSVoyaG1QS2k5VUtuRTZRcmI3Z2p0TXQ0VHVsYXRKMnpKNzQ4M3lnamJoWGlMZVpFOVRIUVlJZHh1XzZUZ05Vb2hZODBDaE1TUjA3NFczMlZvVEY0ai01emdiUXBaSHluajlGMm12elZCLUx5ek85bWI0QlBzaEsxSDJmcU0yR2RqRldydXR5ZGtjcjJxOXpWdm5maDZWWlJOdUxFcUZQYkhXQXBPWTlWSm9QRTVJRUttU3pxQmlDSU5fRQ?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 21:10:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Tokenisation could be the next big upgrade to India's market plumbing - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNajdnSjZjck1zUWRVSkNmLUgtd1hxb3lQUUMweGdiR0V5MENpenFFSUhxRWpwMHZ2aDlMT0NaRkFTTVRKOTdRYU1Sal8zdXlLQ3hpMDhVLUR6UmxSM3lJVHlqeV9KWVJSOU5hYnZHYnlyVmFKcWZFR01nQjVZczByUFo1cU11a3gwMWxFZlBMWGwtVGlEeTd5cldyNXhpendmWndYRGpYclR0enRqTDNxYllQY0d5RDVEWnJfYndDS3VCMlhaeDk2d0dpcDlHY3RFOW1iNmVtTjFLWTJP0gHiAUFVX3lxTE5VbGFsRXpUckxVbXM5Qkx6cVJGX25DZHNUUU5Ua0JELWlZSXRWUThjbm5SenE5QUJjRkhibFo5UExCMk9MMHFpUzAxMktnYXVfNUxUS3lMVWR1RnpNeHJveGRvZ2ZibTRkVVpLRlYzcXdUUmFyNFROWm9SY3lQbFREU1dWYTNRMWlmOHJBN2pGVkRLaW4wb3g5aWJoM3ByTm1aNjh2eEd3Z2VKTHpzaGx1cGdhWDNKaGVqNThxZDRZU0tZYUNUS0pucnR3U3BNa2VOOGxCU0ZhbU00UENwWlhSNHc?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 17:43:00 GMT"
+      "title": "Silly Monks promoter declares no encumbrance for FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOb054MUpHdmlnM2xqZmVvcHA0T1ZwUHpJUUdfOGs3dDd6bGF6anFVcWJnazVpa3lRQjlNVVliWkpzbEh5Zm5aWTRSOXVmRDl4MDhybmZhNVQybzdlanNFZFFXWldOYlFydEtWVG02cXhwT1lHQllQMjMyT3V3YmRTcHdvLUZMQ254dXhqTlJvSkdaTHdqUVRtc2pEbVRGRmpCdjV1cU16eFdhLTBoUWtv?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 21:06:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Inox India Ltd Upgraded to Buy by MarketsMOJO on Strong Technical and Financial Performance - Markets Mojo",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQVGt3eFZ5cDNnVXk1R3BhU3lKWnVlM0ozNV9jd2N0RGZ5NkF0d2VwcEtmdGM4UGtnaDZFUVk4aDdoRE5qZkUxU2lxWmIxRDZYRmZ5TXcyUXd1THhIcEVhSDM2Z1hDZllzckYzV2c3dzR3LWc2OVUxNXk4SThoTzZLUGVmaWQ3ZWVuVnl5NTJqRHJyWWZpM2Zhd3JieXhHb1lnT1BTTkhjVWZvQVFYTEJVSDZ3aTVxTnl5ZHd5dkRobURxS3hUM0RBSUtRemVvTGFTN19zeHJjMXFkSjM3YjROMGpFRVBDQWFC?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 17:46:35 GMT"
+      "title": "TRUMP LIVE | POTUS signs order to make it easier to fire 8,000 federal workers - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUmpSVmN0VE5rbVF4NjhpNi02Yi13M2EyRkRSaWZyVkV6Sno0M3JZNWxwNFp5LXk4ZzdaLXRQZ29ibzJBUE5UWGJBZG13RGhENktZUUlsNV9LQ3lFVzdyYU1Ba1NHV21Sb0xpSTRBdHZRTGRmdENZbmItN2ZRcjNMeHlBNUZyTVRiaENuOU5leDZUX0ZLb0hJOEJQU2NVUVlRenBRN0dxMXY4Wk1jaXVzZkV0Y19Hb2VRM2hCLVpZSWZfT2JvVko0YzVQNzVBVG5HSTB2c0hMMVlrSDZmN09WZTk1WlNzWFRwTnJDNEdn0gHzAUFVX3lxTE05MVV2OUg1QjBTdEk2NXpwNjc2Y0hIQmpEQks2ZkxOenF3T3BTOTExMFlIa2ZmSzdJenpCa2dFVzJPZFV3cGItVUc1ME9TR3FHVG1rZGc5LVBRTmhzU1VBVHR6bWFlUFdUSkxWUDBGMFFRcUZiSl95dFN5TUVKSS1lcTBDaW1nSUdncG9lUkVNY0xTMW9CdEszNU83NUVQUE1jZ2FFb0d1WE42VVQ1WGpNamlVREVhQnYweXZRcXBlSlJ3ZDE5TnpUV0M4NDhicy1adnYySU1na2NiU2VIdDFZX0JDOVhaODlJVkFsZzZoV2pIWQ?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 21:23:02 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Kotak Alternate Asset Managers closes $1 billion real estate fund - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTJYaVQySi1tYnA3N3M3bEVkSGF5YklwdkhmNUtNd1l5VWxiWmRxcmp1OTlTNVIwY3ctNzFRdFRPSFBCRlVQRzRaekVMSVlzbGxDQ2tQN1ZNaFA3Ym8tZGVxUy0wWm4wdV9oMDVLbmVPOGtReXAyNkMwMGxyQ2lyaGF3cEg1R2lnT3I3V1lLYks3UmxzbFdmaHVlMTAzdktfTERnMVhqeUM4WWNjNG05SmJrS1k3N0U0UHNfYWxYTXR5OVRqNENBSkNGT3NKQdIB0wFBVV95cUxNM3RNRk1SVmhDdTUxWHNCUlMzVHE3Sm5RcG5OMkdLSkFPSE1IdUtibVBBUWNDQ0tId09aZmJEdWpJMG9QTlBDUUZ6d2luN0ZvMnE5WGg0S2hhLUItallxSDNMTDBLbGZzclhqeHMyTFhISlB5aWxaMlVzRXkwWDFkeVhseTZYUDQyRDFLTWU5SlNKdnpJaU5SS0JwdWVaZkotdnQ2dl85QWwwTnpYeVdjMUNHbmhOeFlYNnhCZGVXNll0MW1manRFc25DeTBybnc4ZFFv?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 17:56:27 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India-Oman trade pact creates strong export push for India's textile MSMEs: Govt - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMXd6dUlfSDBfV1hoRXA5T05xOFNoS2JLMWUzSndfZkdsZ2VBLXZqc25aZUtyaGRSbXZQQWdMZmxnTDI1VFFSMU9rREVDMWRoZXYtSTc1SzVrNzU1NmtDbVd0cXBIWFdiSFp5LUQwSllEcDB0RjhfYkRlRXBXWnBERTFIT0h2ZkltWmltOUI2VjBZYW10cll1Wkc0UUVDZDJIWXdjcE8zUGFkb3FpeE5NdVd6d2lJX1pzNzR4ekdBU3hXYWprU1FLZjRNS01qdVVCR0d5NjgzWC1VdVNjZUlCR1ViNE1jcHpOZDJfN2dCY0RyZUprc21JMnZ5QjI?oc=5",
-      "pubDate": "Wed, 03 Jun 2026 17:53:55 GMT"
+      "title": "'Did your son & Epstein talk POLE DANCING?': Bessent goes BRUTAL on Wyden after Mafia \u2018Capo\u2019 jibe - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRWRSTUc1ZVlWNXJ3alhrek9YLVNYZWprb2ZlTjI2MXVQclBXQllHTUFhM2ZNaTUxRVBKT3dqVDRra3pDQWx0ajh2SnA5VGxiX3d4Vl95OVRsWHRSbVQ4S001WkJBaHNhcm9OVl9tTDVBLVZOajdwOTRVS1RwSndCdU1ZSzN6WmJINHpRRE9XOFI0MFRkU21HREpPNUJiOExMUVNUdjBmU0pNRzZFbG5TOTVwbEZTSVRfQjZjTi14ODh2clhxUmFtblhPdXRmb1BfX01qb3BVRm1XMks1RDJoYkU5MExxTVQyZGkyUU9PSEhZdEpTYU5fWmNlRnhteno30gGGAkFVX3lxTE4wdVE2SDVLYnQwbmpNM01JZXJkM1VPM1o4dWlleTBTM3pEVFlTV3BHZE01M1U2T01XTXJRR2Y0d29tOW8xQ25fczdFd2RuUUJOdGlWakRwVzRuOWFHWU5YZ0lQZHdFUk85a3J0akh6NmlzZUVlVFpUMWN5U1J5OTdLbVg2UlZTRVA2cllkcGFaYXQ4dTBMek1tcThpMkRiUDNKdklRbTRpcnFJQVlmbEdWTHpaVTJNTXZIUlRkYTFCZ3hwTVdfRHRNMDg4WU9mdVl4SVF1RF92eFcxUmx1RUNKdlE0RkpJN3o5dWxkbndwSEJvdHlrNnBmSlZaOEFVYVhoRWxNTVE?oc=5",
+      "pubDate": "Wed, 03 Jun 2026 20:32:23 GMT"
     }
   ],
-  "fetchedAt": 1780510011
+  "fetchedAt": 1780522190
 }
