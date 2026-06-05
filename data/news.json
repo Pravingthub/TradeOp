@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: US stocks end sharply lower as chips slide, jobs data fuels rate hike fears",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-sharply-lower-as-chips-slide-jobs-data-fuels-rate-hike-fears/articleshow/131540487.cms",
+      "pubDate": "Sat, 06 Jun 2026 01:36:53 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Bitcoin's star fades, as investors flock to lustre of AI and megacap IPOs",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/bitcoins-star-fades-as-investors-flock-to-lustre-of-ai-and-megacap-ipos/articleshow/131536454.cms",
       "pubDate": "Fri, 05 Jun 2026 21:57:01 +0530"
@@ -25,40 +31,34 @@
       "pubDate": "Fri, 05 Jun 2026 21:17:14 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Rs 5,750 crore Adani block deal: SBI Mutual Fund picks stake from GQG",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/gqg-trims-adani-exposure-in-rs-5750-crore-block-deal-sell-shares-in-two-group-stocks/articleshow/131535087.cms",
-      "pubDate": "Fri, 05 Jun 2026 20:38:09 +0530"
+      "src": "LiveMint Markets",
+      "title": "Stocks fall sharply as strong jobs data fuels rate hike bets; oil set for weekly gain",
+      "link": "https://www.livemint.com/market/stocks-fall-sharply-as-strong-jobs-data-fuels-rate-hike-bets-oil-set-for-weekly-gain-11780688435553.html",
+      "pubDate": "Sat, 06 Jun 2026 01:10:35 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Bitcoin drops below $60,000, its lowest level since October 2024: Here's why",
-      "link": "https://www.livemint.com/market/cryptocurrency/bitcoin-drops-below-60-000-its-lowest-level-since-october-2024-heres-why-11780677820474.html",
-      "pubDate": "Fri, 05 Jun 2026 22:25:34 +0530"
+      "title": "Oil prices fall on mounting hopes for de-escalation in US-Iran War",
+      "link": "https://www.livemint.com/market/oil-prices-fall-on-mounting-hopes-for-de-escalation-in-us-iran-war-11780687079949.html",
+      "pubDate": "Sat, 06 Jun 2026 00:47:59 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Gold, silver rates today: Comex gold tumbles $136/oz; silver sinks $5 as strong US jobs report boosts rate hike bets",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-tumbles-136-oz-silver-sinks-5-as-strong-us-jobs-report-boosts-rate-hike-bets-11780672076644.html",
-      "pubDate": "Fri, 05 Jun 2026 21:59:41 +0530"
+      "title": "Emerging-Market Currencies Sink on Gangbuster US Jobs Report",
+      "link": "https://www.livemint.com/market/emergingmarket-currencies-sink-on-gangbuster-us-jobs-report-11780685913066.html",
+      "pubDate": "Sat, 06 Jun 2026 00:28:32 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Hexagon Nutrition IPO: Issue received healthy response on Day 01, booked 1.65 times; GMP signals solid listing",
-      "link": "https://www.livemint.com/market/stock-market-news/hexagon-nutrition-ipo-issue-received-healthy-response-on-day-01-booked-1-65-times-gmp-signals-solid-listing-11780669139903.html",
-      "pubDate": "Fri, 05 Jun 2026 20:38:23 +0530"
+      "title": "Gold Falls Most in Two Months as Jobs Fuel Fed Rate-Hike Bets",
+      "link": "https://www.livemint.com/market/gold-falls-most-in-two-months-as-jobs-fuel-fed-rate-hike-bets-11780685669328.html",
+      "pubDate": "Sat, 06 Jun 2026 00:24:28 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Pulse of the Street: Markets slip as oil, monsoon worries, RBI's cautious tone weigh",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-markets-india-oil-prices-monsoon-forecast-rbi-policy-gdp-growth-11780664477159.html",
-      "pubDate": "Fri, 05 Jun 2026 19:54:25 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "CMR Green Technologies IPO: Issue booked 127 times on Day 03; NII, QIB portions see huge demand, GMP signals 40% premium",
-      "link": "https://www.livemint.com/market/stock-market-news/cmr-green-technologies-ipo-issue-booked-127-times-on-day-03-nii-qib-portions-see-huge-demand-gmp-signals-40-premium-11780662923240.html",
-      "pubDate": "Fri, 05 Jun 2026 19:38:30 +0530"
+      "title": "Wall Street slumps as chips slide, robust jobs data stokes fears of hawkish Fed",
+      "link": "https://www.livemint.com/market/wall-street-slumps-as-chips-slide-robust-jobs-data-stokes-fears-of-hawkish-fed-11780685605057.html",
+      "pubDate": "Sat, 06 Jun 2026 00:23:24 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "India's nutrition challenge goes beyond affordabilit - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNTXVXdG81TEwwdzMzSUZaZldHYWlfV1hkS0ktdVNKUTV6TnVibEdyTXRnSUR5Yzlzd2VwcGo3dlEtM2RWcmNNSjhRdG8weHFYRmN6b1NST1d0OEliRExJZTFTUF81SVNSdEpoSXRBcG5tcGhfcEZ6b2VKTEFVZEdob1A5a0gzLURPYXhNS3hsV25TMjlzR19LS2dGTkhFMmZPY1poWnBjZGhBUWxQYzZIMElNbkcwUWZySFR4RlN5VUVwdGtHYTRTS2JSdjJieEhrQmFnZTRxY1RJdjdrSTZTeHducVNaLTdmdm9DSmJxQ1ZrUdIB9wFBVV95cUxPZmJzUk9yUUQ0VURhRjljYXNaUXROd3J2TUZvU1ptaGdxVDAxeG5XamFySVdBcVFqM0JwaWJkdWVRcHlVSThIczlPdVdiVXl5QUhXVThHLUEwbEEzLTMtMjdackJpN2tRaFJEd2ZWLXFuYU5jUndaQk1vOXRidC1tclFWNVdzOHdZdW0tZlFyY2thQ3FGcERvLW5DUnZ2aWFJb04zVzQ3STdsY1RrOFVrUGpUbkV0eWlRdl9May1TV2JhT3hzU0g3MjJKUnVBTmJ0UWR6bVc0UG5kbldvTjRwTGJtUjZaOENJaTNMaWdoRHhsZV9taVdr?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 17:57:00 GMT"
+      "title": "ZF Commercial reports nil share encumbrance by promoter - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOXy02MHAyS01JTmpJZF96OEhqZ0QtOWhscW1MWjRBeXRyQzVfVnl1U1hvRGZkeEQ1cWdnRHNqYXNGOWMyc0NUSFVsODNtWjFNUW5tcEVBZ05WN0ZyZDJlMjAzZC1XSXhGUXVxR1NTZlMxazNIcURWYWk5dkg4OHNBU3N5RDk1XzJjbW1sRzZfNEZJVU5sYzBUZEtWaEZublRaOFRfbkdUTkFhTDBydlpLMVJR?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:07:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Rupee at 100: The cost of pretending numbers don't matter - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPM2ZEWk1Wa0RkMWxabUwweEI1YVZwVVlCUm1WNERMRnFEeUtJaUtGdXNJckRSTFoxTGVYd0wyVXlzM0FHN2NKVE00UDFOSFBiNlVHNzlvUVB5R2tLdy16RHctWHRYWkcxNnlzWE83VENrcTRyYmE1Wktyc0xRU3VFMVVRTTdma19kZ08zYjVQT3Z6OGgzOGd4RUxnYXM3X2FlOUlaYjhUeVlyTWxBNm9iblZrcnNvZml2alVRWGt1N1pjZlh0bTNPOUNB0gHPAUFVX3lxTE9ETmhwcGR4S1Nidk5JYlVtSnA5b3pKZVB2emEzS1p1ZVQzcE9mRDh0aGhKbDZSeHBldnQxSVlvVXhuRnRaSU5VNDRCY19RUHdSblBENjFSakFyUVFDQk5JNlF6b3hsbG5SUjhhcHNUdmg4MGs0VWlDN3V3UFVCUm5PTlRVVUN3TkxMOGRDMG4tNGRZOFBEYzlZa01Ua0hjOS1HTTM3R0NpUE5FVXhabDNNendYZ2w1c2pXTE9YaUlsbHBLUjNVN0JKT2g5SnpXOA?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 17:43:00 GMT"
+      "title": "RBI opens window for dollar inflow - Magzter",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZTFBckF0NkRYcnRYLXpCeUx1RW4yLVNWZ3RnQmtBQlRVem5paGlJTXNxVkxKYXA0d1BOaDJ6VmZPc3lHWEVVcnNSM0h0Yzk5Yjk3Y0NRaU4tM1JaVEVOMWd0a19TSFc0ZjVIMWhMd1pxMUFLMUd2aUpMdERZUHpITTdibzZrdnljekdKeDFjUnlaNXFzbzlNQ1V3?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 19:51:52 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Under Success Lies Internal Affairs: The hidden question leaders rarely answer - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbHk1cUdYLVQ0TmNTVl9JanFvZEU3OVVwRHZjcVRMS29YZERVa0hSSWhoWGJwTDV0a2JGR1N4MHEwQjRRR2pybXpnSFJQNzBEa3BmeFd6Z1lpaUVQOXg3VGhLcUMyeTZ2X1I1eVRiZnpXVXNoR1B0WjZEUTB4Y1Ffai12ZGxYR1FUcXg2czZLWDk0U2xaaTJpOUVYR3RKRkZPczQxMVNfb2s5MUVJbTEycXliemtSSU1NYlhfWlBsZWdiMXFXZ2hzMW5tWE1CcHBKbl9CY2JwQVZpTWpaNU90WTJXY1NoeWxu0gHuAUFVX3lxTE9HcS1lMmd5NmdrSEhSZDZOSzNlUGFnenFtaHF2TEI5ODE2eWx2VjY3VzEyRkFCLUxJSUtrOEhGVThjWGlfcTJJaXgyR3pINHNOamdLcFNnMjBaUEhRMm1UQ1A1RHM3eHVFNjVsLUlVVlhUV0ZRVUhJdk1LRl90OE9Qc0lTRm9Vb1BqQ0p3MW1GQmE1TTNCbk42QUpIUmV1WXlPa090cWhsR1JPejhrS2VEcm1hV1NYWVQ3UDhvX2w2RWpwa0t5TDdEVXhfb1RQT3d0VC1yWEpKemNSdnQtTnhsRExmaDV1TlFzWGc0Unc?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 17:54:00 GMT"
+      "title": "Marine Electricals discloses no new encumbrances on shares in FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTHJseXE4YXZ1cmpadWc2NEp0clgwWHhXNGw4NHotS2pqNndTLVRRc2VWTjhPYlo3Nzd5TU01Y2QySGhjU3BVQTNTYVl5bXZUNVJ4RXU0WDBzQ2RfbTVEdXhWVlZGVENETHkyVlFtSVpnZVNtZWRwdTlSb3hBeHRCMFE5YTlIR2hRcWpianFFcG50cEZxMk5sRENRSVZlcjNRekRLZTdvNEpDMVppaHdpa284dS1GOGhZbERkMksycUM?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 20:12:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "The fall of the TMC machine and the rise of political survivalism - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSDVMV1Z4WFI2WWxDaG8zdXROUWw0UTJxaWhMRUgyWWp0VDc0RTJBTjJwVlJJQklBbklIZ0lkaV9IXy1lWk5QT3JDc3JwdVJmTnJIZ3FMS0dBWEE5cGgyRGl0bXgwNm5yX2JmS0hjbVg1ck0yTU8yUjBJUl9JSGlaQ1pwcTFlSVdfbmlJazZUTWhBOFozM0NqanVaS2c0WVBwdVNDZjZtd3pjS3J1cndvOTlDM3o5VW1YNEtkYjFVR0RzbXdDMklSVmVBMGNyeGU5NTExT21BTjbSAd4BQVVfeXFMTnRZTUJ5ZXBlMndnLTBmUWZ5QnozTHVYbG1lVTY2aFRUbXJPTlVpTG1aSElrdWJVckJ2RHMyNV9rQWlHV2RMcTFtNzNsclRJS0c0Z1VXSlozOEZfR2ZpRHlEc292a3VQbEtPN0oydGFyazFXMm5BWW85cVY4UnZrMGRoOHRBR2tIU1V2WGNlcWV6M0Y0M1lYb0JKbDFDcVZMWFUxTlFNbkhpRUoxZ1VfOVpyRnpGbi1BTjNOYlktX0lxbEY0Y1VHdFAyR18yUkt6YmpkQl9xSi01d21wQW13?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 17:49:00 GMT"
+      "title": "FAR expansion, tax relief may boost foreign bond inflows, but risks remain - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxORE9keHNidXNhMFNCcUpqQk92UTN2RmN6Rkh6anV6MGc1YTdqOGxsUUltNmRoVjNWcktQQ3dTQV9vWlNOYmpwTUJtMVNka0V4ZXlsbi16bndZNDVfa3dxNDlZeEl6Y285ZURKeHNXWW1BMzBPV0FaeEpPZ3htRDdvZk8zczMwVG9WUUZ3LUk0NDFqb2l0eTFMT2ZGTlhvNmU1UUw0SG50WkJQZUFiSE1DeTNkeEs5WFFlWVp5X3ZSdkwtVWREN3JoVV9lMHBlZVRUT0NHb21IVkI0M014dVkwQmZ2TS3SAeQBQVVfeXFMTkRPZHhzYnVzYTBTQnFKakJPdlEzdkZjekZIemp1ejBnNWE3ajhsbFFJbTZkaFYzVnJLUEN3U0Ffb1pTTmJqcE1CbTFTZGtFeGV5bG4tem53WTQ1X2t3cTQ5WXhJemNvOWVESnhzV1ltQTMwT1dBWnhKT2d4bUQ3b2ZPM3MzMFRvVlFGdy1JNDQxam9pdHkxTE9mRk5YbzZlNVFMNEhudFpCUGVBYkhNQ3kzZHhLOVhRZVlaeV92UnZMLVVkRDdyaFVfZTBwZWVUVE9DR29tSFZCNDNNeHVZMEJmdk0t?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 19:41:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Earthquake in Himachal: 5.0 magnitude tremor hits Chamba, panic spreads across nearby areas - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNWFlpOHc1bTNEVzJsc2FtamdVeHNJYkQxSUtMYmhjdWdJMkt6bHhRaTJ3bmxxaXAyT0g1VTh3c0JMblF0ZFRUdGRyUkQxbkZiMlE2VUNmZ0ZvSWdJTEZvVEhNQW9leWZMR2ZwOXdGRnB6andyTTNvZHJ4UEVLUkdCaWRjd1JsMk53QWNKZEp0bmZKVmtxc05mZVc5aXF3d1EyVVhmWERGSVgzUkkxX3ZULXVRdzlBOFU3QktFUXNFcHR5U29BSldxWTdiZnZNcHpUY1JJZnZlTkdORlo5ODItLWxRUXc3QdIB7gFBVV95cUxOT1BYbWZEdVBBX2ZBck9sMVRGTUtwbWlfZGV4NDF3VE53azJ4XzBVSG9sUHpOQWQxUXJwTVJlZWw5VnMwamo0ZURXWUxJTF81UFNDM2Nlelc2VFE5UFJCdFpwRU1LcG5QckxaWmRzdFQ3X0x2TkwwWlRfZEN1bjlwTExJNFU4RHRXdWF1cm5OUVBQVm93T1pZVm9oTjFyNGV5NEVXc0d2dDZKTE05d3hKVktrbUFpY2h0ZVV4bXg3MXZnX09abFYtNVJSM2ROX3dWMkJScVFld1psaGY0UGFPWW50N2JybHBOZ2h4eVNB?oc=5",
-      "pubDate": "Fri, 05 Jun 2026 18:19:59 GMT"
+      "title": "Why missing the AI boom may not be so bad - Magzter",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYnBJYzRBWWJtdkRIVlVGZkVyS280RVpuNUxqckVrdnh4UzFRSUtMb2FBdEZ5ZmpGM1o5VDJRZl9kUklFZ0xiZEtsOS1QZzdzY2NYMDE3TVhlZXl0YTZpYm1WM3YwcGNocHZsdGVkaEtHbVV6UEoyc0oxcjdJMjdjTFVSMkltd2Z1UEYzU1FjaW1obGhxTUlFWEk2TWQ3dEc5ZURr?oc=5",
+      "pubDate": "Fri, 05 Jun 2026 19:51:59 GMT"
     }
   ],
-  "fetchedAt": 1780684083
+  "fetchedAt": 1780691290
 }
