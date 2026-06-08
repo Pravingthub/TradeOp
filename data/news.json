@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: S&amp;P 500, Nasdaq end up as tech, chipmakers rebound",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-end-up-as-tech-chipmakers-rebound/articleshow/131596653.cms",
+      "pubDate": "Tue, 09 Jun 2026 01:32:24 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "SpaceX IPO is said to be well oversubscribed, orders close Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-ipo-is-said-to-be-well-oversubscribed-orders-close-wednesday/articleshow/131592178.cms",
       "pubDate": "Mon, 08 Jun 2026 21:44:58 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Mon, 08 Jun 2026 20:16:42 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Government to sell 3% stake in NLC India through OFS, sets floor price at Rs 303",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/government-to-sell-3-stake-in-nlc-india-through-ofs-sets-floor-price-at-rs-303/articleshow/131590726.cms",
-      "pubDate": "Mon, 08 Jun 2026 20:06:28 +0530"
+      "src": "LiveMint Markets",
+      "title": "Stocks bounce back, oil pares gains as Iran and Israel signal a pause",
+      "link": "https://www.livemint.com/market/stocks-bounce-back-oil-pares-gains-as-iran-and-israel-signal-a-pause-11780952667027.html",
+      "pubDate": "Tue, 09 Jun 2026 02:34:26 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "CANADA STOCKS-TSX ends higher as tech and energy shares rally",
+      "link": "https://www.livemint.com/market/canada-stocks-tsx-ends-higher-as-tech-and-energy-shares-rally-11780950696035.html",
+      "pubDate": "Tue, 09 Jun 2026 02:01:35 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Investors Fled From Bearish Oil Fund at a Record Pace Last Week",
+      "link": "https://www.livemint.com/market/investors-fled-from-bearish-oil-fund-at-a-record-pace-last-week-11780948490906.html",
+      "pubDate": "Tue, 09 Jun 2026 01:24:50 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -41,24 +59,6 @@
       "title": "RBI unveils dollar-rupee swap window to draw inflows, steady rupee",
       "link": "https://www.livemint.com/market/rbi-unveils-dollar-rupee-swap-window-to-draw-inflows-steady-rupee-11780934389319.html",
       "pubDate": "Mon, 08 Jun 2026 23:29:27 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Rail Vikas Nigam shares to be in focus on Tuesday as company secures  \u20b9221 crore order",
-      "link": "https://www.livemint.com/market/stock-market-news/rail-vikas-nigam-shares-to-be-in-focus-on-tuesday-as-company-secures-rs-221-crore-order-11780937638919.html",
-      "pubDate": "Mon, 08 Jun 2026 22:43:45 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "SpaceX IPO Puts a Spotlight on How the Newly Wealthy Shop for Financial Advisors",
-      "link": "https://www.livemint.com/market/spacex-ipo-puts-a-spotlight-on-how-the-newly-wealthy-shop-for-financial-advisors-11780936741877.html",
-      "pubDate": "Mon, 08 Jun 2026 22:10:31 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Apple shares soar over 2% as investors eye AI announcements at Developers Conference",
-      "link": "https://www.livemint.com/market/stock-market-news/apple-shares-soar-over-2-as-investors-eye-ai-announcements-at-developers-conference-11780934325079.html",
-      "pubDate": "Mon, 08 Jun 2026 22:09:16 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Standard Engineering Technology Ltd | Stock Share Price Live - MarketSmith India",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aZU1jV3B3WWVTY2JfNnNXRHEtSU1YdmRRdUZ6R2ZiaC1BUHNpMnRxVDlRSEVWV0FyYjJpY0NrekU0Smd4UHNpa2M0RXJmVjl3NS00eWVMVEJpZktzMFgyWmhCSUlHNVFMRHd4eDBXbndrblE?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 18:56:15 GMT"
+      "title": "Indian Stock Market Declines Amid Global Tensions and Oil Surge - India News Network",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1hiMDZLS1lINkFjeHVYM1NOU21pWFJKOVFjN1JSTXlRWFZZcTF5UHIwd25WbktsakNtUlkzWGdmMXRHUVoxMlg5OVlNZy1NNW01bmJicGNvcllzVlF5LUNvYlhPSUdlZDFNVWtNY0dvUVg1MTMtem1fWDhiUzRNUElsZm1tVGRoakRiVm5sWTBMdG1iR013aDM3ZjZOMjhOOXd3eDd4VQ?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 21:02:29 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Zepto files for $1 billion India IPO on rapid delivery growth - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWZsTndBQmxuVFZCQTIxY1RRTFJ6WndSS3Q4UkFUMF9Ea1p1NnlyR003SmdMUmVLMlczWGVRRGNVcmd1WlFRMnY4aC0yd0hLLUwtMWZMRVNTZEtnSjBUd0RxQTc0c09xeklVRzdDOUNTdzI4TnBBVS04eWJjbnVLeDRrQ1FPMlMyc1RuanRXVlRINkFmNVVfYi1mVXZpd3RHeGpEOV9lVl8talpYcWVXdGU0WXU4LXUxcWdnY1JR?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 18:55:13 GMT"
+      "title": "Metro Brands meets 38 investors at ICICI Securities conference - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd0cyTUFPRXUyeHV6VFE3aXZGZlFEUUVXcWkxYWdaSGdRUzlwMFdyRUlBTkZoOWVBYXNfYjhLWEcyX1ZGMXRrNXJvSlZILWhXM2FyMjJleXlJNWhlWHNDMWpoajcxLTR5bEpaN3FXTldQX1pUYU5RSXJPVk5lY3BieFlyUml6RHlZM01qWkVrOUVoY0xSOFJvTk44eE9JUGh4V0d1NTM1OHMzTFhUeHlUdnhvdUZDS0l0TkE?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 20:37:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Wall Street rebounds with tech, chipmaker shares - Mint",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHowaVVnakVyOGhLY3R4V3JQSDVrV2F3REhiYXh1NEpNRHpqaUZTRloxeDVJeU4zVWhMYkNlYVRpYmpxRC1CQTdUYm1hQm9LRnAxaTJiMFRFbjdmNElLSjN2a0JuN29FcFhmVlVhS0RtczFLVUplcjJsOWFfeGxadGlLS0xTMDFPNU1fRFE3bUdLQV9ITFpoZDB6elFyYVls0gGmAUFVX3lxTFBfY3pwM1lvZHZhaG9TU2Z1bHhBMGc5dGE0V0dJZFh2LWw4ODB5YUhjTUNseEo2QnBkdTkyektqbDR6S1Z5VjFsRUlwVG1uTkdzbVNzWmVVdVcxaW1QZWRuM2hoQmlIWUhzcVZzRUs0QUh2cE1VZlY2M2FLOHdzY084RjNXNzVfanRZLU9rWnlCbjNDemtoSnFtZE1PTGJRMFA0ejkxbFE?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 18:50:10 GMT"
+      "title": "'Hezbollah bu*chers you like to hang out with\u2026': Miller & Tlaib's EXPLOSIVE clash on US House Floor - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZVYwbTR6NGtESVhtbDFkUXNnbXFHVmNsSkpXbzFoOFVJY2RWY1ZOZklEdGs1VDdQRFB3LWFqSHlqOTVVLW5hOG92bzczalhQbXJxaXVadW5mTXdBV3lyWTVyYUdKYmd3aEE2dFk1NUF5dHNTNFJBUmFuQ0RLYmtkRy1iZFFHWkVOYktlVjJfMDA4VWl2aDA2SWQ1NFlwZlp0WG9IQnNqNUVPUzlZZFo0RHJLcGR1NUpDbFU3QWZEcVB2VU9LWV9yRENMVGltb2tpM19YOFZOdGlvdE9NX2dZcmhWNmdDOVlXWGo2Mkg0X2N6dDNWVFhvWU14cHd4dE9UWDdPUTNqdl_SAYgCQVVfeXFMTmVWMG00ejRrRElYbWwxZFFzZ21xR1ZjbEpKV28xaDhVSWNkVmNWTmZJRHRrNVQ3UERQdy1hakh5ajk1VS1uYThvdm83M2pYUG1ycWl1WnVuZk13QVd5clk1cmFHSmJnd2hBNnRZNTVBeXRzUzRSQVJhbkNES2JrZEctYmRRR1pFTmJLZVYyXzAwOFVpdmgwNklkNTRZcGZadFhvSEJzajVFT1M5WWRaNERyS3BkdTVKQ2xVN0FmRHFQdlVPS1lfckRDTFRpbW9raTNfWDhWTnRpb3RPTV9nWXJoVjZnQzlZV1hqNjJINF9jenQzVlRYb1lNeHB3eHRPVFg3T1EzanZf?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 21:02:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Zepto files UDRHP for Rs 8,010 Cr fresh issue; Nexus Venture claims 77% of OFS - Entrackr",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmNyQWJSZmFyY3V6YnhFSU92RXNaVXo1TFFPbjI2U05sZmhCTHZnQlhhOThxS1RUNWtYdWpjUDdWMjFmQXNFUWdNdzhFdGJLUEJmcmQ4RjkyN1lsSHlMZTVCNV9BM1ZyQlN4Ty1uaGVoM0oycmlUNXhKY1h3N1E0M3p0eEpvMUJKcnJueXViZWNzc2l5VzZlYmdLQVdVQVYxRHJDX2M2Vm9hUXRXRGJZ0gGvAUFVX3lxTFBuY3JBYlJmYXJjdXpieEVJT3ZFc1pVejVMUU9uMjZTTmxmaEJMdmdCWGE5OHFLVFQ1a1h1amNQN1YyMWZBc0VRZ013OEV0YktQQmZyZDhGOTI3WWxIeUxlNUI1X0EzVnJCU3hPLW5oZWgzSjJyaVQ1eEpjWHc3UTQzenR4Sm8xQkpycm55dWJlY3NzaXlXNmViZ0tBV1VBVjFEckNfYzZWb2FRdFdEYlk?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 18:57:40 GMT"
+      "title": "Pidilite Industries Ltd stock (INE318A01026): results, demand trends and what matters for US investo - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQ0pVeWhvdVNCTmZObkRvUVR1Q3VmSWhObHlLcVQyZGJLVlAwZVJ0UGY2dzFjamRrOWJoNjNHRmZmZ1JpUi1USEdZUmtyVUNJUU9SVHdlR085Umxqb25OajZuQllrdmZXWmpORFMxZ3E0bW5BVmV3VVZybFkwRmJaR1lPdU96c3BfbXdhZW5nVDhKc1NSTm9Qb2dVZnRfcDBKSEV5cFBKeU82VmpMRHI4S0FoOXc5S0dhbDJzOEZqWnhpU3pnTlE?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 20:19:50 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Govt launches NLC India OFS; Carlsberg eyes $700 million India IPO - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZEVEUkFsWEFFaEVySHVFcktmaEJkZmttNnFDdFh3S2c4NXlmYnhaTVJoeklPWFFMYnlieTBsYWM1TkY2RW11ZkQ5TFVKeWJKczRQSzNkcTREejc2Nk1xZ2JTM2dyYXhLbmJMYWtCYzF4MndSZF9Sb1NucF9RaDR0eUFmaVNydHU0MVpvMk5uQXhacVdjNl9aQ2xoR1dCWm91cmEtMHZrbkFiX1U5ZHUyS2V6Y2p0LWVTNGtIQThNV2tIMm40X3BORFFnc9IB0AFBVV95cUxPS3VyT0dLdWxRWWx2a18xZGl4bGtLWC1OLXVxS3RGam1DV05FbjY0QzZId2RQaWd6ai1uNEVSZi1yUGgtc3dURUpMUUVwVUNGYW9JZTAyY1N4OWd2THBOVzgzRHBJVENDdVo5R0dYUVFOV0RweVc1RVB5ZW8td0pHX1ZGSkkycGJvelBORGhLRWlPaURZNWZrT3QxNVkzY1BRUExQZ3hUcGYxVlpKSzlrYmtkWjRDbms4REhraDdBTHFRanpreDZpVE56dUt3MnR0?oc=5",
-      "pubDate": "Mon, 08 Jun 2026 18:17:25 GMT"
+      "title": "President of India holds 32.76 crore shares in Mazagon Dock Shipbuilders - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOakczclFLWG5PaTVnd1U5VE9hLWVwQmlJUUVyVTRRSVdoQ2VyWVZrWVFrTGxPb0YwdXUxZDFacUhVVzRFSXhiNHFIbjV4SXF3V0JHb2dwQmRKNXMyX1Q5R2xWNUw5M2ZPZjZHV0JzMUd3UnBBUnFsdkNMS3hwNXNHSnlJbVdKQkFTZVl5V1dtMUlPdGItUGFOOUg0OUhWaEhaNnVjUWxsYWxxRld2NVB1UmZIMnVsNVJCY2hyRFNvZnBZMkdBTzZvQQ?oc=5",
+      "pubDate": "Mon, 08 Jun 2026 20:13:09 GMT"
     }
   ],
-  "fetchedAt": 1780945922
+  "fetchedAt": 1780953149
 }
