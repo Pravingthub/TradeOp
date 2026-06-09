@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Brent crude oil price falls below $90 a barrel on hopes of Iran deal",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-oil-price-falls-below-90-a-barrel-on-hopes-of-iran-deal/articleshow/131615518.cms",
+      "pubDate": "Tue, 09 Jun 2026 22:04:33 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131615037.cms",
       "pubDate": "Tue, 09 Jun 2026 21:29:13 +0530"
@@ -25,10 +31,16 @@
       "pubDate": "Tue, 09 Jun 2026 20:40:47 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Helmet maker Studds shares surges 18% as stricter traffic rules enforced in West Bengal",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/helmet-maker-studds-shares-surges-18-as-stricter-traffic-rules-enforced-in-west-bengal/articleshow/131613742.cms",
-      "pubDate": "Tue, 09 Jun 2026 20:09:22 +0530"
+      "src": "LiveMint Markets",
+      "title": "China demand woes, Middle East peace hopes drag crude oil prices to multi-month lows; Brent hits 7-week low",
+      "link": "https://www.livemint.com/market/stock-market-news/china-demand-worries-drag-crude-oil-prices-to-multi-month-lows-brent-hits-7-week-low-11781025408136.html",
+      "pubDate": "Tue, 09 Jun 2026 23:05:17 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Shapoorji Pallonji Group stock to be in focus on Wednesday on bagging  \u20b95300 crore order. Details here",
+      "link": "https://www.livemint.com/market/stock-market-news/shapoorji-pallonji-group-stock-to-be-in-focus-on-wednesday-on-bagging-rs-5300-crore-order-details-here-11781018304714.html",
+      "pubDate": "Tue, 09 Jun 2026 22:13:51 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,16 +61,16 @@
       "pubDate": "Tue, 09 Jun 2026 21:21:48 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Large, midcap coming back in focus as contrarian investing gains ground",
-      "link": "https://www.livemint.com/market/stock-market-news/large-midcap-coming-back-in-focus-as-contrarian-investing-gains-ground-11781018703927.html",
-      "pubDate": "Tue, 09 Jun 2026 21:04:50 +0530"
+      "src": "CNBC TV18",
+      "title": "Airtel gets notices from DoT and TRAI, faces penalties exceeding \u20b943 lakh",
+      "link": "https://www.cnbctv18.com/technology/telecom/bharti-airtel-gets-dot-penalty-for-subscriber-verification-lapses-trai-levies-rs-37-lakh-disincentive-ws-l-19922560.htm",
+      "pubDate": "Tue, 9 Jun 2026 23:37:38 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Gold, silver rates today: Comex gold and silver edge higher as dollar retreats, oil eases",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-edge-higher-as-dollar-retreats-oil-eases-11781011625042.html",
-      "pubDate": "Tue, 09 Jun 2026 20:14:05 +0530"
+      "src": "CNBC TV18",
+      "title": "Oman India Fund sells Capital Small Finance Bank shares worth \u20b937 crore",
+      "link": "https://www.cnbctv18.com/market/oman-india-fund-sells-capital-small-finance-bank-shares-worth-rs-37-crore-ws-l-19922532.htm",
+      "pubDate": "Tue, 9 Jun 2026 22:31:20 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -70,7 +82,7 @@
       "src": "CNBC TV18",
       "title": "Bombay HC rejects Lilavati Trust's defamation plea, says HDFC Bank's claims were truthful",
       "link": "https://www.cnbctv18.com/market/bombay-hc-rejects-lilavati-trusts-defamation-plea-says-hdfc-banks-claims-were-truthful-ws-l-19922484.htm",
-      "pubDate": "Tue, 9 Jun 2026 21:32:15 +0530"
+      "pubDate": "Tue, 9 Jun 2026 22:42:17 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -79,47 +91,35 @@
       "pubDate": "Tue, 9 Jun 2026 21:27:41 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Oil prices slide below $91 as Israel-Iran truce eases supply fears",
-      "link": "https://www.cnbctv18.com/market/commodities/oil-prices-slide-below-usd-91-as-israel-iran-truce-eases-supply-fears-ws-l-19922466.htm",
-      "pubDate": "Tue, 9 Jun 2026 20:54:30 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Quality Power to buy insulator maker Winwin in \u20b9315 crore deal",
-      "link": "https://www.cnbctv18.com/business/companies/quality-power-to-buy-insulator-maker-winwin-in-rs-315-crore-deal-ws-l-19922456.htm",
-      "pubDate": "Tue, 9 Jun 2026 20:48:39 +0530"
+      "src": "Google India News",
+      "title": "Sensex, Nifty Close Higher as Late Buying Lifts Financials, PSU Banks - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUkt4Ui00Zmx3RUhzN3BTM19jbVFVZHFraDIxTTg4bS1ZdG1CY25BT0R1elZOdGlEYVdwYURpTDV1RWxXWjlIbzNBT1N0NXhncXpxbEtXRWxmcFVWNnRzeGgyLWxZeG1oYUxsZm5mTUhYcXRBRW1sYlF6ekIwb2Z1T0xMWGVmOHFZc3pSbmxzQ0U4WGltOWgtSlZfbTI?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 17:45:29 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Expert view: A correction possible in the US stock market, says Marcellus Investment Managers' Head of Global Equities - Mint",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNeE9zb3otVGxLNWc1NXBORkgtYWNDalJxcE9rOTNDRy1fc2VIRFNTcmM4amZrRlBuNG00VWw5OG5xNGM5eXdNM3Q3cTZyZWlRYzZTNjQxandvMVJib1N4LWVMX2Z4R2UyNWlsZ0NSQWJaNXRMQm54ay1pY0ZETWh3V19FS3JQbm1BVmNMOElETEdYM25IS1VscHUtYXZEdG13ejVJUWU0ZkZCUmRSSVFidkdTX19oNkx1Zms4dUlJaXU3WWlQeHZvOGNTbzFBZFFMbmdFYVp2dmRHMDdPY0ZLQ3NDM05meWYwS05iQkpUQ2MtQV9NR3ZobDZfUElCcHJJeVJNSTRQUmg0MVZsYWJRdkdVU2hFZUEt0gGYAkFVX3lxTE14T3Nvei1UbEs1ZzU1cE5GSC1hY0NqUnFwT2s5M0NHLV9zZUhEU1NyYzhqZmtGUG40bTRVbDk4bnE0Yzl5d00zdDdxNnJlaVFjNlM2NDFqd28xUmJvU3gtZUxfZnhHZTI1aWxnQ1JBYlo1dExCbnhrLWljRkRNaHdXX0VLclBubUFWY0w4SURMR1gzbkhLVWxwdS1hdkR0bXd6NUlRZTRmRkJSZFJJUWJ2R1NfX2g2THVmazh1SUlpdTdZaVB4dm84Y1NvMUFkUUxuZ0VhWnZ2ZEcwN09jRktDc0MzTmZ5ZjBLTmJCSlRDYy1BX01HdmhsNl9QSUJwckl5Uk1JNFBSaDQxVmxhYlF2R1VTaEVlQS0?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 15:51:48 GMT"
+      "title": "Persistent Systems Ltd stock (INE262A01020): double-digit growth keeps the story in motion - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZTFUWGdRZ3JBd0w0TEdNRXl5SXRRcTRhcDdZLUlnNzRNQjJXRV9wMkY5MGFqRjJNVzlFaWZGRWYzYk9fRWo0dHZucUhpMlJXcFNJdU4xMHc5VThHRy02YkU1aWJRb19OM2lpZlNGOUtyYnJIdUxkemFUV00ycUV3REdRM0RoZkk5ZzlfSXVybkVGQXFJVjlPX0pYTFVjdS1SSEFfc2Q3cm9TVkdvT2dtNkNQeGNLcHUyVHg3aWEwU0d4UjZ5TDhHUWRn?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 17:44:19 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Jio BlackRock prepares ETF debut by August after building $2 billion India fund base By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWVtdGV2dktMYzVkVHF5UjE2TEtVOWhqX0VfLUhyUlktSjFOd0RwdG5Wb0daaS1yTENlME1mQWt0bG4zYVp5WWViNThyMk52N3FmZjFLQThhX0t1dzdjOHo2WGtSMklQV0stNmhkdnBWb19SMmV3S2ZJWWNIYXVmMHUzS0xmWjF6OXd6dGtYZlFqZGpCNHhMMDVJWlExQmhTRGh0T25qWmpDQ0ZiYmFpRDlhTUZrOGQxcU9HSHBTcFVwQVZ5SmZ4NW1xUi1VZFFuUGRncUs0bw?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 16:09:53 GMT"
+      "title": "'It's a YES or NO question': Chip Roy's heated exchange with SPLC CEO takes 'RADICAL RELIGIOUS' turn - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSkNmR1dJb3QzbWRnR0dvcE9ZWWU0Skx2dEFQclJFTnJ5UTI2SlYxenRFNVRnUEFscjJkTzhZaF9wMG1Tc1o5akp5dWd4UTVzd21HTEo0VlByQU5BUW1HWERxdk16Z203cm5MaEdvT2xZRGwzSGVNdE9Lel9zZ0NxZDNVbDFWZlFCbVJ3T1c5SzJkeDFaaE9yOEY0V2ZIYTM4dEY2RFNhZWFpU2tmSHlRNXdWbzAzNGVUXzl0NW5HR2tpcnRpQzVra1ZtalplNUpaZEFWVEhHdjZxWmZpb05oWDNhSF90Vi1KcWd3?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 17:29:04 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Market Wrap: Nifty and Sensex Close Higher on Broad-Based Gains - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd0k5MFk5dEZrSkhzZVJzVm5ZMlhza1UwRnRBd3F6ZF9DMnAxXzZZUGtvaC0yM25fYUVBVm9neXhwNFcyenZsdzVWUDdwNklhWHZaTkRUa2Rpd2puZ0tRNTRhTWp5V0hqYTVubk1sY25wYnpNLUdyX0drMXJyX3F1T21waUpMQWZlVnpBcVBiWEw0a1Q1ZExBUHdVOU9obElWOVdrXzNPUTQ5SEhrOTdvaGFzelJ2OHdk?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 15:39:45 GMT"
+      "title": "Procter & Gamble Hygiene stock (INE179A01014): steady consumer demand meets India growth story - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdF94ZUsxVHZ5N3lyUFp1X0RaX2xXUDBGVDU1VnlHaWw1TTZNS2RDVi1hOFBCY3E4bUtreTdiSEtjUUx4TzB1c1Y1RkhsV0VkR3poQkhQRTBlcFI4Y3hHNEt4ME4wV1dSTVk1RmZpYUMyV2djenBfTEp2NUJiVmJ2TGhyclk3b21va3FtZDExSWZWelVzakZFeGtrUks1QVBRNmRnVmFhYkt1X3BMOEVmalpjYVlzWnZ1aDRJcTRWa285OVlwclE?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 18:03:48 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE Commits 10% of CSR Corpus to Social Stock Exchange in Landmark Move for India's Social Finance Ecosystem - Kashmir Despatch",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPd3BJM2lqN003cXZkdG5Md1lnT0I0SEpzcGw3bk1zSGJVY0N5VmJta25CTmhfUTlvbHNldHVuQkRnVU5CNGZ1MDFrOHdzXzVzQVZfRE4xRHV5N3FPb0RfVGFVbW1YMzBQSnhCZDZ3OU9ueWlIS1ZlTkpsRmJDS0pNV1ZnZHlhVE9EdTI1NzVYbTg2U3VUZUs3Zzg1a0NUNGtEVXZpem1ZdEdjVTFKQkVfcEVVVU45TEMtb3VMeldWa0lZMk1ETE1ubVZKdlphT2pC?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 15:38:49 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTGllLUJPRmJTWnZwemZUaVJ6SmJyRXdfWU5VdHY2VlNpSHNza2QyenJWSnRfYjZuNXYtZ0NPRWQ2ckhCYmZMNnpxNVFsRU9uVmhFQVZLSlItbUdOUHUtSWJ2RkllUlg5YklBb281dW83cm5wQmpPcmlJMzlHYXNsQ0ZTb1dJUk81MFRMamRVUThLZmRjX2xmR0VKaGpmWnV0SXBrUWMwMHl0d1FZZjBVY3NUZ1J4ejgtdzNJMmdQbkFSVGFVZXExNEdHZW1ydm9RY09weDBpUE9uaHN0TEhkNGo2ONIB6AFBVV95cUxOc0ZoZDRMRHdJVFBjV1VrQXNqSFdobDRvVjFqN0NzUjNEMWR2Q2p0Vll2VmZMVGpNY1ZBN2x5TzhTU0xDeHZvc1hZTXZMdkRDWDRxUjV0OUdtVUt6U2N6c2ROVlNBT2UtRXVuVzZzclhpQWxfNmJqY1RlZHBVNWc1T3BvVUJ4dVo1WW45ZENvUVFlTkVtbFdRNExhS1A0RXhIeDlOYkJBM2V2REhTTGF1V0VpSW5Tejg3V2hvOUdlTk9KM250cnk0NUNHT3k5VElvc1NoWlBSenlURTg2eGc2Y2ZhZGl1Wl9W?oc=5",
-      "pubDate": "Tue, 09 Jun 2026 15:59:13 GMT"
+      "title": "Why IPO valuations, SpaceX\u2019s included, may not conclusively capture the current state of AI play - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNndNNWYtdHJjeXdhd3pQeDZkeTBTSWVmbjl2TVRsM3JoOEJMRzN5MzJRTWwtNkZJLVBGYkp0emZIc2RmVHN5MzRVSUdfOWphWVNCZm1EQ1pYZTdqQ25TMWJ0enQ2c2tTU19JS2hZTHR3Mmh2VmFiRjlqeXIxdUcxSGg2aXFHUTI1NTIwNzhNMExoa0FidU9wOVNsRFFKM05yaHgxLXpQMXZzc19QejdTOFRtTHR2eE53WkVSeTQwbUcxWGJBVzVuLVlCaWV2S3ZOQTdCT05TdzhzeGVTVTRfRkQ3OTNFTVhsUHJ1SWlaTnpvVHI2aTBpZ0s2bWEwUdIBgwJBVV95cUxOOVpvWHMxY0lrNHJlNEVwT1k2bEdhVEFqQ0NLdFlNR2pkWkdYblVEMkdjbS1ROTB4YnpCLWxCcFZPRjlndzJCZWhJNFE3aVhtMmRWWTJweWU2ak9ZX0FsdFN2NC0wWndlQTZhWUlxZXdiM28wRGhwT0tlWGhYek9mT2dvZEdIaWZSWlp0Ml9xcm5oM2E1Y2h2bGJZWnkwb19mQ3FYTnZmUk5LWENySE5UQUFndDM2a1pOZmlVR3BabDFaSldwUE9Dbl9odkZNb2xKUXBwcnZnNVJWWVhtT2c5aDdSNnVfOUVDMDA4eG14TzR3U1VZS1o1V3VYR211RHpCQkNj?oc=5",
+      "pubDate": "Tue, 09 Jun 2026 17:51:00 GMT"
     }
   ],
-  "fetchedAt": 1781021949
+  "fetchedAt": 1781029598
 }
