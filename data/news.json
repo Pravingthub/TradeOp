@@ -32,6 +32,18 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Wall Street indexes fall 1%, dragged by tech and worries about Middle East",
+      "link": "https://www.livemint.com/market/wall-street-indexes-fall-1-dragged-by-tech-and-worries-about-middle-east-11781118175933.html",
+      "pubDate": "Thu, 11 Jun 2026 00:32:55 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold slides 3% as Middle East escalation fuels inflation, rate-hike concerns",
+      "link": "https://www.livemint.com/market/gold-slides-3-as-middle-east-escalation-fuels-inflation-rate-hike-concerns-11781117375749.html",
+      "pubDate": "Thu, 11 Jun 2026 00:19:35 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Crude oil prices rebound as Trump warns of more attacks on Iran; Brent nears $95 per barrel",
       "link": "https://www.livemint.com/market/stock-market-news/crude-oil-prices-rebound-as-trump-warns-of-more-attacks-on-iran-brent-nears-95-per-barrel-11781107153797.html",
       "pubDate": "Wed, 10 Jun 2026 22:24:47 +0530"
@@ -49,16 +61,28 @@
       "pubDate": "Wed, 10 Jun 2026 20:55:25 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Super Micro Computer shares plunge 15% on plans to raise $7 billion in equity offerings",
-      "link": "https://www.livemint.com/market/stock-market-news/super-micro-computer-shares-plunge-15-on-plans-to-raise-7-billion-in-equity-offerings-11781097683308.html",
-      "pubDate": "Wed, 10 Jun 2026 19:37:07 +0530"
+      "src": "CNBC TV18",
+      "title": "Trump hails Citigroup as top M&A adviser, but rankings tell a different story",
+      "link": "https://www.cnbctv18.com/market/trump-praises-citigroup-jane-fraser-top-ma-adviser-ranking-debate-ws-l-19923346.htm",
+      "pubDate": "Wed, 10 Jun 2026 23:48:43 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Is the Nifty-Gold ratio signalling a major rebound in Indian equities? What historical trends show",
-      "link": "https://www.livemint.com/market/stock-market-news/is-the-nifty-gold-ratio-signalling-a-major-rebound-in-indian-equities-what-historical-trends-show-11781092626768.html",
-      "pubDate": "Wed, 10 Jun 2026 18:42:44 +0530"
+      "src": "CNBC TV18",
+      "title": "Pimco warns a wave of defaults is coming for low-quality borrowers",
+      "link": "https://www.cnbctv18.com/market/pimco-warns-a-wave-of-defaults-is-coming-for-low-quality-borrowers-ws-l-19923340.htm",
+      "pubDate": "Wed, 10 Jun 2026 23:43:50 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Super Micro tumbles 19% after unveiling $7 billion equity raise to fund AI server expansion",
+      "link": "https://www.cnbctv18.com/market/super-micro-stock-falls-after-7-billion-dollar-equity-offering-for-ai-server-expansion-ws-l-19923338.htm",
+      "pubDate": "Wed, 10 Jun 2026 23:31:50 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Amazon inks $17.5 billion loan as AI borrowing frenzy grows",
+      "link": "https://www.cnbctv18.com/market/amazon-inks-17-5-billion-loan-as-ai-borrowing-frenzy-grows-ws-l-19923334.htm",
+      "pubDate": "Wed, 10 Jun 2026 23:23:43 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -67,59 +91,35 @@
       "pubDate": "Wed, 10 Jun 2026 22:57:47 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Power Grid approves \u20b9485 crore upgrade of power monitoring systems",
-      "link": "https://www.cnbctv18.com/market/power-grid-approves-rs-485-crore-upgrade-of-power-monitoring-systems-ws-l-19923297.htm",
-      "pubDate": "Wed, 10 Jun 2026 22:05:03 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "AI, oil worries have 'over-punished' India, masked long-term investment case, Blackrock says",
-      "link": "https://www.cnbctv18.com/market/ai-oil-worries-have-over-punished-india-masked-long-term-investment-case-blackrock-says-ws-el-19923279.htm",
-      "pubDate": "Wed, 10 Jun 2026 20:58:38 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "IOL Chemicals reports minor fire incident at Minoxidil manufacturing unit in Punjab",
-      "link": "https://www.cnbctv18.com/market/stocks/iol-chemicals-share-price-reports-minor-fire-incident-at-minoxidil-manufacturing-unit-in-punjab-ws-l-19923282.htm",
-      "pubDate": "Wed, 10 Jun 2026 20:56:53 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "What\u2019s likely to move markets in the next trading session on June 11?",
-      "link": "https://www.cnbctv18.com/market/whats-likely-to-move-markets-in-the-next-trading-session-on-june-11-ws-l-19923134.htm",
-      "pubDate": "Wed, 10 Jun 2026 20:48:59 +0530"
+      "src": "Google India News",
+      "title": "Promoter entity Govind Kripa Enclave LLP raises stake to 4.43% - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWxHVWJjWEtMMGI0LXQydVJwTDU4czRjQzFuSXV0Nl9UYmlsVlZleW44eHRscTZGUlhiRkxFOTRKa29VVXJLSHB3bmtwSnVfT28wdlJhWHdJMXFVR2NlaF9CRWtHblNSLVdKeVBKbV9YSG9kRGFVUHdXdWxZNGctRUtZVWt5S0IyZ2pZVGxBUGxBM0pNZDA3azUyc3VydmRHVXlJVVZlXzh5cG5wNmtNZFdZWVFsUGFvTlE?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 19:52:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Markets dumped India for AI stars. BlackRock says that\u2019s a mistake - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUlVzTURaVjk3WXV4VzF1dTNFUVd1NkI0WGJwYTJyNElnd3ZsdWFkbVlvMTB1MGlUX2lXZVZ6MWtmdEd1cjl0eXlRQ0xrZUg3OHB3enpNYVVSMXRVOG1pc2NnSTdNa0Y4Zjk4Y1Y1THFrZjU0V3JOUy1GNXhYZ0hOY05hYktnNFNBVG9JeEJNX2c3bTZzX3JhTkVDMWo3V1dGektqaUhKWmZsanduR2tzNUpnaVpEQ2haU3diLWhqUjF1cE5Zc3V5dE5EWDlzUWZoMFBGM2c3YjFycDV4ei03aWpIQW_SAeoBQVVfeXFMTzlQcUo1TmZaZEdqdWJfam8zWXBrSVk4VHplancxUGhYWHB4dkptZ0dHN3o5NVpzcE9vZ0ZxbFVkdE5MbGEwOUp0OGZhY3hSS2ZweVBUN1psZUVwUUswbjVkamRSYmhiSUphdXhsX285SjE3RWJRMFFRXzQyN0dFdXNMaGYwR2dRTnRiYlNMNEVFNVd0T29YcC1pZkRkT3pxZlhtREtUcTZfN3lOYUoxTUFTSWpwVEYzejJKM0NwMzQtaEJVQTY1enhYR25CX0RfYlE5dFJmbkRFdGY5ODJ4TlhrNmhWYmdwQTZn?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 17:22:00 GMT"
+      "title": "Wall Street indexes fall 1%, dragged by tech and worries about Middle East - Mint",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNC1ZTWZ4ZGx4STFvYXRGOXd3anQ1d0s0RE1TSjVTZVVUMGtsMDM1WG9xNXRGN0tZTmtILUdfRkUwbDJKZ3g2cE9nOEJCNEt1R2gycGFzb3ExdkpvS0ZieXZDcFoybUlDWWFjeTkzNGtpenhDV0Vha2dHVTN4UDZyT0tZcmNSV1d4VnFESTFMaWVvT0xoS09jcS14U3JtVFlXWnhwUld5Z2FtMEZqNjJJSXlmV3hPd3YyczRlS21RdUVpd9IBxwFBVV95cUxPb1Vaakwxb0plWVcxeVFjeG9fZVNIU1c5Nl9WOURWVEtHanZtVVQwUUxYU285QmdpOTNhcV94cDBLXzVGaDRtZVlyOGx6cUllUkJ5RFlwRkw5b2xRUUZFblpGUEtuYUsya3NNa3NuUGpON2NFemxLT3MwS1dqaHNtc0gxRmtjcU5pVms1c3RDWXN0d1J3QnFOOUxfM0Z5Nm1DSzlxaWViRjJmUnF4b1NKQ0l0VV9HWHcwNmhUUnlTUnFWN3JGekhN?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 19:02:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nuvama gets nod for MF biz, eyes SIF foray; CMR Green shares up 29% - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxON21aWEVCTWYxOXB0bS1WS2RBdXJlSjBaQ3hRYjlPN3o2ZEI0X1R2TjdXQi14d3BZSjMybkw1Ym1VdlNCR3MySVRJYW1VNjc0SEc3akZPVXY2cTBHX1BSOWZRRVFvd2FybE11cUdUU2VrY1U1bXNNSkFuVFZxSk1mZWxzMk5EZzRaVXZZdUJVTUMxdXprOXF2X3l1b2tYOEJGakFmM0prY1lmcmtKbFh6aFhQMkNHOUJwNFM0M3pqTFRHeEZRVTlycmFsWdIB0AFBVV95cUxPRDVzanB3OWNjenZkTG10NFI5ZHl6dmlZWHRVWkxsVkk3NUYxTmlOQ1NzZEpFZ3Z2bFhEVUNieUMwN0d4RnpyaXJVajJfRldmaGkyYUxWaFR2RWw1TDdWTUxfMk9QdmRiTDdybHdMajlZVFdKaWFiQmUwN0k1U1RHd3o4TlhyWG9ibVhMcnFybW5mOGV5elByWlZNOHp5UTh2ZXJreEdBd0FVUVYyd2diY2czajhjUnprbzhGVEJpN1BqVEFzZnpwa0lJZmc3RmpZ?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 17:13:11 GMT"
+      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 19:09:02 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Markets End Flat After Volatile Trade as Profit Booking, FII Selling Weigh on Sentiment - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWRfX2VKS0dRVVZmZUNuNlMzQmRvN0ZXanh0R3FKV2djSmZsbnUyVjNPRmJFYlpNRlBpU2NVQXo0c3FmWXoya0NaajZFWmhralF0WUhCNnlwaElRejJvZUhzQWtTalEyaHVpZVFwVVZvQTZmSW9HekRGYnFsZENsVlFNSGNMWXFQS2ZFN0lORFhiV3dyQUsxZy1uUzB2Vnd1UFNobEJZeWlCVGM0UWZ5OGViams?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 17:16:00 GMT"
+      "title": "United Naga Council calls 24-hour shutdown after six abducted Nagas found dead - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxON3VBX3NLejh3SVMzLUJfYUZudXNmY2wxOFJwQm1reG12QWNya2ZNQ3ZCR3VaQkJXRVNhNGtQQnNKaWlCeG52RDdvdERuaUZrRVZ2cF9lT1Y2dHRSeXRJUG5KNGhKWjN1VzY2STdLcjVlTHFPeXVSQzV4QnRyclh2dWNvaE1takhoTW9QZ2QzMnZHbjZ6ZEpvSUJVd1FHcjFzX1RXZHNKOUl6bUdaclhaT0FDc0RxQUhmaUlIanFSQ0pFR1hjeTV5aHdoMTUxOV9JNElwaEdCUzI3N19QOWtkYXRUSzlVNzN0bDNZaTFHdEZmb2hoSnBLQnh6bVpfZ0ktVzB5RHBqMzNtZnlKSzVYQjc1cXE2eWdjVDhmeUZQbHVHMUJKZVB1M3FYaTlicFk4dHJSYXZYQm05OS10YVczSElIaHPSAeABQVVfeXFMUE9UQlBmdVlsLU1GVnM3Nmk5UF9Ea25yT1BQWE85Ml9NQlpCeG5uX1JuX294TDF3Szl4QUtoWDg0Tjl0cVM2NnJCZ1ZFOVBiMjVBMjFQOWt5YVlLN3h2c2dOSDJzWlFsNTdLeVA0VFFMZTJWblBWdV9rY2h3ZWp6cjBmVHBvX1VZQUFMemZkbHdQVGZlbFphRUFGSEhBLXFlcklFY2R4bmJrX2hKWGtyaHByVV9HOTNXaEdURF9XbzZWOVl4bHc3OGV4TXROSnlnRkJnLXRVeVMxanNmX2l5OHo?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 19:25:58 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'GRAVE ERROR IN JUDGMENT': Bill Gates faces tough questions as Congress revisits Epstein ties - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPTWJIOVBYSU85Z0d6T0lQbURMUF9DcFEzUmR3d2pnMkpLWDVKZ1lMRmdIdUs1ellmZXY5eFJyTzBTTTVfRy1ROGI5OWNGMVV1WmtiYmwzN0pZUk1BLUh0MldmOUppVGtiejlwTld4ZUxDRDV5VWxSWC1rTnpQRnpvTF91MkF2UWhFMEc3QWl4b2hKcEJtMjRKaFN3cVkyWkNLYWJ4cExOLTlyaTFhb3h4enlfQURvZ0I2TGI1VlBpeXBhdE4tVG1PdEFJTTNja1hVODBMRlhqS3RpOGpGeHV3ZUFfSUVlbGc?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 17:40:54 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Foseco India declares \u20b925 dividend at 69th AGM - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdUl6ckw0TEQzeHVtWTJQazFMVnhhVnU4bVhOb3NNYjBCMEIzUGE4cWtzZWU3NFhJakNxTmNlLWFXaFVuTi12akRMVmRNTGdlYm5MVWlMdnlyNktuWWFBdVdPX1Bha0VnQXQxZldCRVBGWjVMVkx6XzNJNUJCQkZVemdCVkU0UWdJeG1LYXkxUDdER3NBNkQ4dW1NN0xMSmEzN1c5NQ?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 17:27:28 GMT"
+      "title": "FIIs Slash Exposure To IT, Financials As Foreign Outflows Gather Pace - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXBmZVFmS0pZd2MwQ04tcVRQLWVMdHVyQi1pcVcwNm9YZms5Wi1NRURyYkwwNDJWMHhOSlVLcFZ6ZmI5cE1JX1pySHc5cWZrMXdLSEx6cW1NLVhLT3hWeElqNXV1Qlg0R29OMlJVTUZtck1mTzlQZ2Z1VVBHVjY3b0pvTW5kZVZGcl9iVnE5ZVUwNVAxMVRZLU1JRXl4TVdZMnNTeDFqeEFqNzViTTYxZ0NR?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 19:12:12 GMT"
     }
   ],
-  "fetchedAt": 1781113525
+  "fetchedAt": 1781121693
 }
