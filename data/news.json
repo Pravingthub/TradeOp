@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market indexes fall over 1%, dragged by tech and Iran war worries",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-markets-indexes-fall-1-dragged-by-tech-and-iran-war-worries/articleshow/131644160.cms",
+      "pubDate": "Thu, 11 Jun 2026 01:31:52 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "ADIA to sell Rs 1,944 crore Lenskart stake days after SoftBank exit",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/adia-to-sell-rs-1944-crore-lenskart-stake-days-after-softbank-exit/articleshow/131640885.cms",
       "pubDate": "Wed, 10 Jun 2026 22:44:58 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Wed, 10 Jun 2026 21:53:55 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US stocks slump after fresh sell-off in tech stocks; Nasdaq down over 1%",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-slump-after-fresh-sell-off-in-tech-stocks-nasdaq-down-over-1/articleshow/131639312.cms",
-      "pubDate": "Wed, 10 Jun 2026 21:25:06 +0530"
+      "src": "LiveMint Markets",
+      "title": "TSX hits three-week low on rising Mideast tensions; Apotex makes market debut",
+      "link": "https://www.livemint.com/market/tsx-hits-three-week-low-on-rising-mideast-tensions-apotex-makes-market-debut-11781122933704.html",
+      "pubDate": "Thu, 11 Jun 2026 01:52:13 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -53,12 +59,6 @@
       "title": "After SoftBank, ADIA plans over $200 million Lenskart sell-down",
       "link": "https://www.livemint.com/market/stock-market-news/softbank-abu-dhabi-investment-authority-adia-lenskart-stake-sale-block-deals-11781101615370.html",
       "pubDate": "Wed, 10 Jun 2026 22:13:41 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Gold, silver rates today: Comex gold, silver trim losses after softer US inflation data; Middle East tensions cap gains",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-silver-trim-losses-after-softer-us-inflation-data-middle-east-tensions-cap-gains-11781099942700.html",
-      "pubDate": "Wed, 10 Jun 2026 20:55:25 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Promoter entity Govind Kripa Enclave LLP raises stake to 4.43% - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMWxHVWJjWEtMMGI0LXQydVJwTDU4czRjQzFuSXV0Nl9UYmlsVlZleW44eHRscTZGUlhiRkxFOTRKa29VVXJLSHB3bmtwSnVfT28wdlJhWHdJMXFVR2NlaF9CRWtHblNSLVdKeVBKbV9YSG9kRGFVUHdXdWxZNGctRUtZVWt5S0IyZ2pZVGxBUGxBM0pNZDA3azUyc3VydmRHVXlJVVZlXzh5cG5wNmtNZFdZWVFsUGFvTlE?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 19:52:30 GMT"
+      "title": "KRBL Limited launches India Gate Poha in domestic market - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVWF3aXExb1Q1b0pya0lHdkN2MGhEbmtLNXhkWGFMNUg0NVczcWhPZTNWa1pVVWVWV3VkaUs3TVJsdTliZjh2Y3pvVWtIcklIRWI3UFRMU1pubjQ1UkZncV9kQlZOd2ZRNXJVT1pmR1VMazJtSi1DWU1qdmlacW5xR2J3aWgwYmtUOFA2OWQ0Z2RTVUxoRmtObXQ0Tm02UmluMHdnY2FIbEtiTkdLUm9wRUFSaw?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 21:11:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Wall Street indexes fall 1%, dragged by tech and worries about Middle East - Mint",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNC1ZTWZ4ZGx4STFvYXRGOXd3anQ1d0s0RE1TSjVTZVVUMGtsMDM1WG9xNXRGN0tZTmtILUdfRkUwbDJKZ3g2cE9nOEJCNEt1R2gycGFzb3ExdkpvS0ZieXZDcFoybUlDWWFjeTkzNGtpenhDV0Vha2dHVTN4UDZyT0tZcmNSV1d4VnFESTFMaWVvT0xoS09jcS14U3JtVFlXWnhwUld5Z2FtMEZqNjJJSXlmV3hPd3YyczRlS21RdUVpd9IBxwFBVV95cUxPb1Vaakwxb0plWVcxeVFjeG9fZVNIU1c5Nl9WOURWVEtHanZtVVQwUUxYU285QmdpOTNhcV94cDBLXzVGaDRtZVlyOGx6cUllUkJ5RFlwRkw5b2xRUUZFblpGUEtuYUsya3NNa3NuUGpON2NFemxLT3MwS1dqaHNtc0gxRmtjcU5pVms1c3RDWXN0d1J3QnFOOUxfM0Z5Nm1DSzlxaWViRjJmUnF4b1NKQ0l0VV9HWHcwNmhUUnlTUnFWN3JGekhN?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 19:02:55 GMT"
+      "title": "'Mr. Chairman, what kind of language is he using': Amo & Wright trade blows after 'bullsh*t' remark - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPQWtKTXlGcTF0TWxHTTZSR1NBcUMwUVNwSmRUV2RWUHBmV1JxMm5fWlpmRHpKOHN0elpsZm5EUGxuLVV1dUVaMENpOUxleF9sZmcyT0pCQWZteW45UGVUbERseVl6MDB5WHdvcTZDS01IUzhiU2JsdUpuakhjcTFFcHNPRXQ2d1JCZXc1enFWS29nSUVicUFGekZ5QlQyTm9uNEJHTFpWcDlfNXlod2M1VVZOa2JvbWF4SDRYX29kRTFPYUI2bndWS1NZQlI1T3U4REc1aVNVYVhwc3RrNHFDb1VZSkI4VGk3dDVweFA4R2FOcVdBVmdJbERNdjBISkZK0gGGAkFVX3lxTE9FeVkzTHdqckJWbklWaXRfMUFCcWdIWjVnSElHLVhUMGZBUnJ3dHg5dzMtdHIyOHR3TVFXODdkQ0xzaExXcGFyc1diVDVaUkZhd2tKLVJldkw3QXQzSFY4OUx5bzNhQkc0RnpZWW96REc3ZUVzZGFHbTh0aVdlbGRKeXVVLVdJZThTY3ZRd0FZcEh2V2hlVUhMdW1SREVHRl9OU0dLdTVPbjIxaFBoVkZ1a3p1aHo2eHV5eUNURW1sSHpnRlNTZ2FMNjg1QmlPaHJoc3dXZGJnMHZtYldabWVuSlBSeGozUzFpODdMVjJTRFhOV2VQd2wwbFA0VTl5eFAzRzgyMXc?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 20:51:40 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 19:09:02 GMT"
+      "title": "ZF Commercial to meet SBI Mutual Fund on June 15 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR0NScTJKaE84dEVEVkk5Uk5TYjNPTkh5S09xZENoTUZPSXR3LTZhWHNkRDZISmFKSHFtcmJQaENqektzRUVhcm1FU0tJczluTUVBOTg0LURpNFg4OF9yN3AzX0huVkNMajJGWk02RGdMaW1GbHZBaTNUMmRxcDRFTFB6VHdaNmUwZzNRcjRfNEh5elNfY2c3VnVRYTQxX0VCdmxlM04tWHg?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 20:37:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "United Naga Council calls 24-hour shutdown after six abducted Nagas found dead - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxON3VBX3NLejh3SVMzLUJfYUZudXNmY2wxOFJwQm1reG12QWNya2ZNQ3ZCR3VaQkJXRVNhNGtQQnNKaWlCeG52RDdvdERuaUZrRVZ2cF9lT1Y2dHRSeXRJUG5KNGhKWjN1VzY2STdLcjVlTHFPeXVSQzV4QnRyclh2dWNvaE1takhoTW9QZ2QzMnZHbjZ6ZEpvSUJVd1FHcjFzX1RXZHNKOUl6bUdaclhaT0FDc0RxQUhmaUlIanFSQ0pFR1hjeTV5aHdoMTUxOV9JNElwaEdCUzI3N19QOWtkYXRUSzlVNzN0bDNZaTFHdEZmb2hoSnBLQnh6bVpfZ0ktVzB5RHBqMzNtZnlKSzVYQjc1cXE2eWdjVDhmeUZQbHVHMUJKZVB1M3FYaTlicFk4dHJSYXZYQm05OS10YVczSElIaHPSAeABQVVfeXFMUE9UQlBmdVlsLU1GVnM3Nmk5UF9Ea25yT1BQWE85Ml9NQlpCeG5uX1JuX294TDF3Szl4QUtoWDg0Tjl0cVM2NnJCZ1ZFOVBiMjVBMjFQOWt5YVlLN3h2c2dOSDJzWlFsNTdLeVA0VFFMZTJWblBWdV9rY2h3ZWp6cjBmVHBvX1VZQUFMemZkbHdQVGZlbFphRUFGSEhBLXFlcklFY2R4bmJrX2hKWGtyaHByVV9HOTNXaEdURF9XbzZWOVl4bHc3OGV4TXROSnlnRkJnLXRVeVMxanNmX2l5OHo?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 19:25:58 GMT"
+      "title": "NHPC to attend JM Financial Virtual PSU Conference on June 15 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZE1yZGE5akNXQjBxT095bXVHTkQxTEtzSTlGc3RZYUlYQlplS0FfcEc2TDNKVC0xZ0lUaWQ3d01JMlpfYXhjZjhXa1NNcnpWcU9EemExU1NTajVjcTRxSnpBU25qcndOZVRXek1TT3ZFZE03N2hKUTJoVVg3RDB4NFJtbnQ2OW5qOGtReEJDVW1LWHVkdUlIVGhaRnRNTGM3ajFEQVhETWFyNURveDBuUmo4bnNsLWxYUXc?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 20:37:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FIIs Slash Exposure To IT, Financials As Foreign Outflows Gather Pace - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXBmZVFmS0pZd2MwQ04tcVRQLWVMdHVyQi1pcVcwNm9YZms5Wi1NRURyYkwwNDJWMHhOSlVLcFZ6ZmI5cE1JX1pySHc5cWZrMXdLSEx6cW1NLVhLT3hWeElqNXV1Qlg0R29OMlJVTUZtck1mTzlQZ2Z1VVBHVjY3b0pvTW5kZVZGcl9iVnE5ZVUwNVAxMVRZLU1JRXl4TVdZMnNTeDFqeEFqNzViTTYxZ0NR?oc=5",
-      "pubDate": "Wed, 10 Jun 2026 19:12:12 GMT"
+      "title": "Sanathan Textiles to meet analysts on June 12, 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVVp0T2VFbzFhS3B4aWJZdXNZcV9FWm1sYm1ES3QxSlRTaUFJTTNFVjlQSjBMS3preXNQdzdCTUhoOEpZcmV4RmxQa281RGpRV2xNSWk1VGI3RzhuNlUtc2FzNC1Oanh3Qll3ejVUemNPS2otY2N2UzJ1SEl2WlJkbUhHdGFSNG5YeGxkOWROUnhGREZZcktVTVpicHZSR3FpT3RmekE4M2s5ZXM?oc=5",
+      "pubDate": "Wed, 10 Jun 2026 20:56:32 GMT"
     }
   ],
-  "fetchedAt": 1781121693
+  "fetchedAt": 1781126797
 }
