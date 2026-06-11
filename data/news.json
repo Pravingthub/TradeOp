@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Dow soars 900 pts, Nasdaq over 2% as Trump says Iran deal likely soon",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-indexes-jump-trump-says-strikes-against-iran-canceled/articleshow/131668627.cms",
+      "pubDate": "Fri, 12 Jun 2026 01:32:27 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks: SpaceX to make historic listing on Nasdaq on Friday that could make Elon Musk a trillionaire",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-to-make-historic-listing-on-nasdaq-on-friday-that-could-make-elon-musk-a-trillionaire/articleshow/131668501.cms",
+      "pubDate": "Fri, 12 Jun 2026 01:16:00 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks: Musk's SpaceX prices record $75 billion IPO at $135 a share",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-musks-spacex-prices-record-75-billion-ipo-at-135-a-share/articleshow/131668358.cms",
+      "pubDate": "Fri, 12 Jun 2026 01:01:21 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "BlackRock seeks to buy at least $5 billion in SpaceX IPO shares: Report",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/blackrock-seeks-to-buy-at-least-5-billion-in-spacex-ipo-shares-report/articleshow/131664387.cms",
       "pubDate": "Thu, 11 Jun 2026 22:12:38 +0530"
@@ -13,22 +31,10 @@
       "pubDate": "Thu, 11 Jun 2026 21:08:46 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Market Trading Guide: Allied Blenders among 2 stock recommendations for Friday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-allied-blenders-among-2-stock-recommendations-for-friday/articleshow/131663317.cms",
-      "pubDate": "Thu, 11 Jun 2026 21:05:04 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Vedanta demerger: Four spin-off companies list on exchanges on June 15",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-four-spin-off-companies-list-on-exchanges-on-june-15/articleshow/131662912.cms",
-      "pubDate": "Thu, 11 Jun 2026 20:28:57 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Goldman Sachs, Morgan Stanley and others buy stake in Rs 1,960 crore Lenskart block deal",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-morgan-stanley-and-others-buy-stake-in-rs-1960-crore-lenskart-block-deal/articleshow/131662423.cms",
-      "pubDate": "Thu, 11 Jun 2026 20:10:10 +0530"
+      "src": "LiveMint Markets",
+      "title": "SEC Proposes Eliminating Equities Trade-Through Rule",
+      "link": "https://www.livemint.com/market/sec-proposes-eliminating-equities-trade-through-rule-11781205906029.html",
+      "pubDate": "Fri, 12 Jun 2026 00:55:05 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -53,12 +59,6 @@
       "title": "Multibagger Anupam Rasayan stock to be in focus on Friday on ETFA manufacturing milestone",
       "link": "https://www.livemint.com/market/stock-market-news/multibagger-anupam-rasayan-stock-to-be-in-focus-on-friday-on-etfa-manufacturing-milestone-11781196729897.html",
       "pubDate": "Thu, 11 Jun 2026 22:39:53 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Oracle shares plunge 13% to 4-week low as AI-driven spending plans spook investors",
-      "link": "https://www.livemint.com/market/stock-market-news/oracle-shares-plunge-13-to-4-week-low-as-ai-driven-spending-plans-spook-investors-11781193462495.html",
-      "pubDate": "Thu, 11 Jun 2026 22:01:02 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Stocks to Watch Today: Dabur India, Sagility, GNG Electronics, Lenskart Solutions, Hexagon Nutrition,... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxObEZ4RHhiNW9tN0lkdUl5LTd4cm5HbXNRVlhmNGRZMFE2T0lNZG5RR1RTcERvV1lxVDZSSlAtMTlQQnVzLUZsbVJLNV8ySTA1cWRESXduSHlLV2hjN21lTk9iZTd0aGR0NHMwUVlSQU9BLUVOc2lIaDJvNVRWdmF0ek1qVEdyUUFyNEN4em9XVXlUSlhpeDFMTTg2Z3kwT1lyUEgxT2lDdU1saXA4RmFlaENNdTVNbE15d0p4aTFpNjJhS1pYQlBUcGZJLXBwc2QzSGZrSnlLLXJHVVBTSXhXa0MxeTl1NDUweU9JU1lZN3VWLXdlRm1sQVJLX3hNUjQyZ2pqQXAzUTJkU0FNanA1QnhDRkZnSUJiMlFzbEpJY0drOUpUMlhwd0hsSkIwZ9IBswJBVV95cUxOcmI2a2NnLUpjdzY4amUxVjVHeGRVUkpYX1BIZFdKdE9VbHdrY01YVFJyM3dYTnRJWk13bXRmUDFIcG1xOGk5Y3lzX001RHAzV3hhaFhDRlNHTm1QalVjSV80bmVzNDBDMURpZ1lSeWUxT191OG54SW9hRjhNMklCdTZObGRkSGx1S01mX0Z5NW9QNTBoQ2xEaEN6RXZzYzMtZjlnYnA2c3d2T0hzZmY1amxsYUpXNmZDSmpjbmdtVHFKS19fOGlXMXU5QlhGc1V0RHp3LUlaVkU1a1l0LUdoaHM1RmtvUkpLM0dDMGlzWUxhQW5jRl9fZ0pHRmZBRDNWQmthc3ptQ0lRQktoNUhSVGU4YXVteDEtR3o5NzluZnN0UGRESkhqR0NGU01Tdld6ZHlJ?oc=5",
-      "pubDate": "Thu, 11 Jun 2026 19:11:47 GMT"
+      "title": "ICICI Prudential Equity Arbitrage-Bonus - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcVY1eWdCV2NzV2FiVmJCMU53Z1ktSXJHVTFNRGR4elU2cnlXZGFXOGNmYWFzMDZzcmE0ZmdHU0tBVldIQ3cySXd3b05hZUYwZDViSktIM0tscEUyaEVDR3R6ZWdnczNla0tuV2J5RGtDdnI2dkV1Q3QzamgxZGt1YjF2UEZWUEk2SHZJem40YVhoQUY4?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 20:27:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock Market Outlook Today, June 12: Sensex, Nifty Likely to Remain Under Pressure Amid Rising Oil Prices - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNNVBCWjd1NjdFUVM2eTZ1cWFfdmUweHhiRTQ0WVJFYkdXeG5WalVHUDlTQi1wdl9Uak1HYndzMHZMcFBHaTc2VzIwZGdVNnlZdzBiYXVVU3NCOEE0Rlp5N3J5QU1rUmQ4REFQUDRwOEJNaHBxSG9fcENUQXlrWUtoVFdLVW5HdS1YLWR1clY1ajZ1NExRYkZuYkRzZDVKZjZHS2k3WGpWV1hxR2RyMmNJOFRHSHh1aHZpOG9kMXl3Ml9WcUZieTEtNUt6NDdLb0VNV01SNmxYS2N2QQ?oc=5",
-      "pubDate": "Thu, 11 Jun 2026 18:35:29 GMT"
+      "title": "Skf India Announces Appointment of Madhu Dhandhania Jalan as Director ? Gcc & Finance Operations Centre - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRDRGcGVnREdFVFZoejI3bnRCRjdHN0lKR1Jkdmk5cEpRamE2UkZlaTZHd3R3Tlk2QUQxSktzZ1d0ZHlTWUNPM0NGRWVJMDE3QVZDWHFNY1MxbGR2djIyWU9ra1RBTVFPbnY2N1dzMnUxdUN5aVJpVzQxa1hXNXc4OVRpYXZOQ0dXM0hubHoyM2lmOXVibVJ2VlJVQjRsdU0wOW9HZm93ZUZhOUhoTW9pdVR0Vmw1di1WdFROQjNqWVZ2bHN4YjdnZVRCT0VCTkF0a3Z3Y0lhWEdOczJxajFxUGQ3bw?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 20:50:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Why Oppenheimer Analysts Are Bullish on SpaceX, the 'East India Company of Space' - Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzVZSjNrU3U0clJ4bERDNTZSZ0YtbkZjT0NFQVNuc0tCa3NUNnI1Sk9SNGNkbVRKWEl6MHJhckxfeW9CNEM4c2hhNHE4TlJYZm9ic08teEU1RF9pdkV2YzRsYnlCZ29XblVPX0x2N2otMkxlSUtrUkxCWUZESDZJRWNvVlRFNjdHU1pTNFNaUjRqTW94eE5zLW5KXzhIdzJRMzNhbFF0RWE2MWJSZVk4TzltWF95MG1yZ1l5QzZMN0hkSTE1WHlCQk9R?oc=5",
-      "pubDate": "Thu, 11 Jun 2026 18:51:18 GMT"
+      "title": "Tax Exemptions Can Improve Returns But Currency Stability Remains Critical: JM Financial AMC\u2019s Pandya - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdTF3WEtFZUNWVXk0WmpZRl9aVDZIT1Jub29oTWM1YXBVZ3VmWTVRVHJsVG9EM3RYOTV5aVFvZXRuY1FEZG10YzJGZDJwZjhxcUFkVFAxd2N6WlNIX2hQNk00Vmp4ekNCZGVkQmdzWE54SDVHVXRkTEhqYWRUTTY2Z1d5U3dyTEhMamhqYmJHVDA5RjNEdkpEd2FtMW1UVkg2cXQxRzhMS21lTkFjVHg1WVlEeTZ4WVluTHVrc2NvNmUwNmM3dWFldlZYWndOTWFGOTREUy1fb2FMU0px?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 21:11:51 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Canadian dollar hits seven-month low on wider yield spreads - Mint",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVlFnQ0k4UFpmWkM5dUJ3Y3lHaXBHN2JUcWxHV1FwZ3lyS3o4TFFPTTlubVZMMDA2ZEhlZjFYQUtCRjRleTJ0ZnNROXhPWWhTLXdHZk54ZUdLZG0xNWYwN0M4ZnktLUY2bFNpMHpRTHV2LWx4V19yVTAwSHFEcm9veTV1N2t6LUR6OFFhRmtHSEF3WXQwTnAxbjhHSzNRRXVqaXRXMXdLRjNaTDc5VTBCRdIBtgFBVV95cUxNU0U4eVNNRVFiaVNlVmFqLXVmMkdmSkZqOUlPZjVhUWZ4SXBlaVpOU1BWNFV3Q01OUm9yR1BIMkF0MnVjX0xBWGp5M0xkYnA4RjRfMHdiVk02Zzg2VVNkeVF4RHhJNGh2TmFOdGtIdW5yT3RvVkpibXV4ajNCMlQtMVhWS2gyTlFYdFU0UjM4YS1UN1pvS0NJMlZOUUMxVXU4bE9vUE9pbjJYU0FNZDVEUXlGak80dw?oc=5",
-      "pubDate": "Thu, 11 Jun 2026 18:53:15 GMT"
+      "title": "Trump says Khamenei approved Iran deal, Europe signing expected within days - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdFdOUGFVSVhJMElGTE9pd2l1bHdWVVBERGV3MUV5bmNzZGt0dmU1ODNJYzdTcmtrRGNhd3JJT1BQQWFZRVZNQ0Rac01rODJvM29vSHIxSm94WUpmOS1tVzdqMjJkcmtPRlQxMFdwV2w5ODRqMVBfem5rNkZnWk1uQkFoeG9uT0txX3EwR0Q5cHF5ejZxWUFMWWxybF9qd0VmaWNHdGF1cEM4OU9wNDNaMEYxUndLRElBdmpUNUg5UkM3SFdVR0RhOW5xeWVVdHNF0gHQAUFVX3lxTE50V05QYVVJWEkwSUZMT2l3aXVsd1ZVUEREZXcxRXluY3Nka3R2ZTU4M0ljN1Nya2tEY2F3cklPUFBBYVlFVk1DRFpzTWs4Mm8zb29IcjFKb3hZSmY5LW1XN2oyMmRya09GVDEwV3BXbDk4NGoxUF96bms2RmdaTW5CQWh4b25PS3FfcTBHRDlwcXl6NnFZQUxZbHJsX2p3RWZpY0d0YXVwQzg5T3A0M1owRjFSd0tESUF2alQ1SDlSQzdIV1VHRGE5bnF5ZVV0c0U?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 20:37:58 GMT"
     },
     {
       "src": "Google India News",
-      "title": "B2B Marketing Association (B2BMA) Launches to Build India's Leading Community for B2B Marketers - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOSDMyTzJwT0ZoZkNBdHZ2SG5xU2ZiVnI0bFBqaFdxY0xfcGh3RVBkcVd2OE9Mb3NCbExlRVFmZjhmSmNCNWc1RFFFbUR5WlVyVFVuOWtxWlBYRTBvTGdiSEJQbWtPZXdrallnbnBWRWZFMFBHY2N3MnJJTmZucWt0c0IxNFFBU0JuUmhyNUVSVXRYY0t2bWJtSWpHMUFaOTNxVlMyZElycnVTbTNCdFpYMHo2MExqdlNnakZRcEtQMEFVUmlqVWp0MVZhZ3p1RkdOc3oxdHdlOUtSRUxvQUZzdWUyeDB1M2N4UkVZU2U5ODNGbHRya0tpS1R1ZXNzdEVyMl9JWdIBigJBVV95cUxPWjFFa3B4LWhfNUIweUYwaGZ4aVp5cVhtbE9WTFNkX3JaM1JyNTBpRlVEaXdVWWhuUmNuM00xYnU3eU90VXdyX0FjNGlHYmJ5VGxraDlWdC16SFRaeUw4U1o0RDNUVDV3Y2NRcG9TY3FfZ3oyUnBjZDhnR3lQOGFjOUJkb2p6ZHprMWNrR3ZESGF4TzZ4R00xRktnV2tMckJGak5PZmtEc0tFeFVnUUp6UFp3UDJuMXBDQ25BUE1ReHVtZ29MVXF3cHF1by14VWJ2N3hOM2FOd2dadHlWT2VCeU10OElaSkJhUnJzRTRZdklMbUJHMVBSdjZCdGQ2MHVObW5kQ0JqU0hVdw?oc=5",
-      "pubDate": "Thu, 11 Jun 2026 18:35:12 GMT"
+      "title": "After Pulte row, Trump turns to Jay Clayton for top Intel job: All about Tulsi Gabbard's successor - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPeGZxQXBXb1RzcHJWOHBkM2FPTDR2ZC1qSmdTZl8yX20yWnFKWmdPQzdObEY3VXgtTFo3aXozNmZwdWo3dHhkN3VWOTlqSTNpTC1yRGY4eDlmY3JFRWpyUjlwUmJTU2pxU3MwdTFtb05INFYzMk1tRHFiU003SHNhSzUwYUl3VWNFZ3dlc3ZPaDBPQmlEaldlR1FxQXN4WkU2Yjd3SHNOcDZwNUpXdGl3b2lDSkdKbHp2NzJ2MkhKWGJEY0hpb2NpV2dkYlFZQmg4ZjhVWXhiMXlOemc0NmZZdlZ4d2NEQ0pLam1VTk9DQURRMXNkSXBySWdrOFlPN0JpN0VkZC14dzPSAY4CQVVfeXFMT1FBMDNKR1VzYnppcTEzU3h6eWZuNU9ibWpGVnRpenZjeEU0a1hKaGFmaFVDU1l5V3JpaXZsZFgxSDg3dkpxMVJRM21QQ3czUGs4SVVTV1NJWHktN09aZ3VBbmFQMS0zdkJTZmp1dWs2ZldFcFB3eUNJNlNIRUs2QzA4S294RVNXRzJZNFlqcU1mSkY3UnJfLXBtSFZRZDZSM2pLSkE1SFppNFZudlEtMnh0OXE4bzNEMV9jV0JRU1BUakVfUUtpZldUYm01SVB2T2pwYUlkM0ZSRmVUYnJqTWZQYUNwWndZUzdZSFB4Z2VqWHdXR29oZHRsZ05CMXhOTjNuQ2dkZU5tMTduR09R?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 20:44:51 GMT"
     }
   ],
-  "fetchedAt": 1781205775
+  "fetchedAt": 1781212927
 }
