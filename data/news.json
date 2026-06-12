@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: SpaceX shares close 19% higher in historic market debut, value surges past $2 trillion",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-value-surges-past-2-trillion-in-historic-ipo-debut/articleshow/131693464.cms",
+      "pubDate": "Sat, 13 Jun 2026 01:39:19 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks: US market ends up on Iran war peace deal hopes, SpaceX's historic debut",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-up-on-iran-war-peace-deal-hopes-spacexs-historic-debut/articleshow/131693450.cms",
+      "pubDate": "Sat, 13 Jun 2026 01:32:21 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Explained: SpaceX's IPO includes a 'greenshoe' option. Here's what that means",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-spacexs-ipo-includes-a-greenshoe-option-heres-what-that-means/articleshow/131692101.cms",
       "pubDate": "Sat, 13 Jun 2026 00:02:52 +0530"
@@ -19,46 +31,34 @@
       "pubDate": "Fri, 12 Jun 2026 23:36:03 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Space stocks slump as blistering rally cools after SpaceX market debut",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/space-stocks-slump-as-blistering-rally-cools-after-spacex-market-debut/articleshow/131691044.cms",
-      "pubDate": "Fri, 12 Jun 2026 23:26:29 +0530"
+      "src": "LiveMint Markets",
+      "title": "SpaceX Mania Powers New Retail-Risk Complex Beyond Wall Street",
+      "link": "https://www.livemint.com/market/spacex-mania-powers-new-retail-risk-complex-beyond-wall-street-11781297341161.html",
+      "pubDate": "Sat, 13 Jun 2026 02:19:00 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Revised common application form for FPIs notified",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/revised-common-application-form-for-fpis-notified/articleshow/131689292.cms",
-      "pubDate": "Fri, 12 Jun 2026 22:05:47 +0530"
+      "src": "LiveMint Markets",
+      "title": "TSX adds to weekly gain as peace deal hopes lift copper prices",
+      "link": "https://www.livemint.com/market/tsx-adds-to-weekly-gain-as-peace-deal-hopes-lift-copper-prices-11781296667732.html",
+      "pubDate": "Sat, 13 Jun 2026 02:07:47 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Brent falls to lowest since March on expected peace deal",
+      "link": "https://www.livemint.com/market/brent-falls-to-lowest-since-march-on-expected-peace-deal-11781294206069.html",
+      "pubDate": "Sat, 13 Jun 2026 01:26:45 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Yields rise as traders weigh possible Iran deal, Fed policy",
+      "link": "https://www.livemint.com/market/yields-rise-as-traders-weigh-possible-iran-deal-fed-policy-11781293404645.html",
+      "pubDate": "Sat, 13 Jun 2026 01:13:24 +0530"
     },
     {
       "src": "LiveMint Markets",
       "title": "Gold, silver rates today: Comex gold rebounds $154/oz, silver gains $4 on Middle East peace hopes",
       "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-rebounds-154-oz-silver-gains-4-on-middle-east-peace-hopes-11781274556200.html",
       "pubDate": "Fri, 12 Jun 2026 23:09:40 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "SpaceX shares rise 11% on Nasdaq debut for market cap just shy of $2 trillion",
-      "link": "https://www.livemint.com/market/stock-market-news/spacex-shares-rise-11-on-nasdaq-debut-for-market-cap-just-shy-of-2-trillion-11781279692859.html",
-      "pubDate": "Fri, 12 Jun 2026 21:29:00 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "SpaceX makes Nasdaq debut at $150, lists at 11% premium to IPO price; Musk becomes world's first trillionaire",
-      "link": "https://www.livemint.com/market/stock-market-news/spacex-makes-nasdaq-debut-at-150-lists-at-11-premium-to-ipo-price-11781266245349.html",
-      "pubDate": "Fri, 12 Jun 2026 21:24:12 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Pulse of the Street: Friday surge helps markets close volatile week in green",
-      "link": "https://www.livemint.com/market/pulse-of-the-street-friday-surge-helps-markets-close-volatile-week-in-green-11781266446274.html",
-      "pubDate": "Fri, 12 Jun 2026 20:41:53 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Wall Street rises on Middle East peace optimism as SpaceX rallies 29% in historic debut",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-mostly-fall-as-middle-east-uncertainty-looms-spacex-debut-in-focus-11781273049144.html",
-      "pubDate": "Fri, 12 Jun 2026 19:51:26 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "TARIL promoters declare no encumbrance on shares in FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOVZCR3ZJOHZDTkRQUG5MUEh6Tk5BQUpQTHU1dk9yVzNjX0V0UnlNM2R0Ymljck9kTy00M1dmeGIxTFZLdHZOU190SjV1N1AzTDhGaHRUN1F3dkZmYzF4bmlVZlI5TUl0cnIycXFBMFpXd1ZoU3cyNGxIdDVLbm9aWVNGSjF4d214aklRTWM1My1QMDloaVl1dHJMX3E2M3pla2E4UjF0aERpWW9LNGswc2syQQ?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 19:31:53 GMT"
+      "title": "SpaceX Mania Powers New Retail-Risk Complex Beyond Wall Street - Mint",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRGtUUFNreGNzaTFEZlhFX3lSZEF0a0tBUlBlUHBfVWxUWl8tc0lTaGY4X2c1SUxEQnQ0QU1tMjYydFNNU21VdnpuX0xSMWlrMHZKd0hEd1RWaTBKVXJta0lWSHJITmtzVU9qYklkWmV6SUd4aV9zY3FCamR3UWtvSHJRWUNKZHN6b1NMeVRjTWhoam81NVo5OUl5STYtXzJORHR0NFNfdkxZRUFIaUtwMVVBeDfSAboBQVVfeXFMTlZLV3dJNmhSUXdKTzlCUjBYYmJhVExuOXlJbmhQYW5lR1pqRDdNZk1KNEowcm1weHlyc2o0czNYRHgtajk2aXRZeEpoY0ZuQ2ZuaHZ1UERwbm5rdmh5SE1ERVBmZzNKR2VZODB0X0hOUkEwLXp3ekxZTmc3dDZmLVdTQmNOWlhmQ0NROGRfdTV2ekRnX01QeGx1RHlPckxRME8wd3JTcHZNbkdUZEg1YmMwT1VhNUU4Ti13?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 20:49:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India Summons U.S. Diplomat Again After U.S. Attacks 3rd Ship With Indian Crew Within 3 days - Mint",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZkxNMlh2djRTbTE2dU45SGY0RHBEU1hROXZiT3N4eGYwUlNCV1dNR0VSVEdEQlp3YU9BRUlHTGF4bFgtSi0yRlUzZFg1ZzVVMkh2d3k5ZHhLMzRPZFhQSzhpUWVIcGpVSllGMVN0YWFSLUpwaDRkU1pZV0tOYmY3Wk9zOVpoU0plNDNhbGtBdTl1d1NXRjJGTzJFVlV5Z1A2MExaQlpGQmVOOVpXYWFnVGtPODZuSDFLdTRub3gzM0JHaVBRdC1kWkJ1My1aQmNyTmFHNDNuNUFpZw?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 18:49:39 GMT"
+      "title": "Digidrive Distributors confirms no encumbrance on CESC shares - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1BDNkFJRzFfSUcwR3Zvb0RhOFJ3dHdzd3Z1cVNvRERlR3g4cWpuZ0NfWjdJdmZWU25Yb2Jqd2dRdHozdXBLTDZQbzlDbVdfSzZ2UUlVMDV3VXlDc3RreVM3eWtGUmpCVnptbWdBMFI4cTdPVkd1QmZibDRQS1YzWkI4NERtdm5McDJ2MnRJS3VWMXIwRGIzU3FySG5RVEYtNjZZSk5mdU5xQmt0Wml5cjNaQThVQmtlZkE?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 20:29:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "MOIL promoter declares no share encumbrance in FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0tZRHgxZUFjU0NBNThPM2U0YXIzbDJuWGxVU3FLTWR4U2ZCRkZIaDJ6eURNUTItT01pYWFuX3hDQkNuN3Zob1JuaGZQeXVZcGx4QXFhZHIzUERGSTZ1YkJtaVZ5NjBaWnVTRFpNNEp0RVUyeGlUZXlBVHkzUmRsbHZyMTVOQzg0a1ZRRDJmMHppak5BaXF4N3Z5bmNaQUdCMUJUNVdZaVNvdlQ4?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 19:31:53 GMT"
+      "title": "SpaceX value surges past $2 trillion in historic IPO debut - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUM0N1pnemJMbTkxX1JYd0t1c3JRTDYtSmJiSkUwTkprOVZ1NTdVdFNQelEyc1FwV0ZRLXRfSWxGWmFtcXV0ODJoY2xUUU0tQS1kZC1oMmtKa3ZjX2ZXU3ZSZ0VtN3NHazRzWWlldnBHdEJFM2NzN2h1WG1mWU5rRi1IdTFwZE4xd2sxZlhoUHhnUjhPV2FpdlZIUFlFSjY3R3VaRzFicHg5blgzQThPcTdmYmU?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 20:37:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Answer in YES or NO, please!': Watch Blumenthal's heated exchange with Trump's judicial nominees - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQdWRTbXYwWDBUOXVzX3VKN3llbzhPUnNZdFZndndGRWtsUDVrcVpwZ2ZYZ0t5SHVwckxPbHM1d2dtQXk0Z25ySzdzbUNfVHdhRm5MUnFvR0Z6SFlwakNDcE80QVNuTVo5WVhjSWpSVkNfQzVmWlVGYmZjWVlQNkt3cnRQOXBJTGp2MXhTbnZDMVBVU0Y5eHlMMkI1ZWU4ZDNDaGtyS05ueTVuMnlNd3kyWjNKWDdMNHh3M3JiWkpOcWNIc0lPQmU5NFoxdDFscXlBM0QwdFhUMnYxRzNjVjNqR1ZELVVabHZUdkYwTU4yNHlxNDNiakk0OVQ4bDc0Zl80V2fSAYcCQVVfeXFMTUJMcFRyNnNsMDNieXZkUW5lOWdOM3FQV1JCODBWZElXTjBqUTZHMmlkZGJJSWxJempfUHV2TnpVZUpUclJUZ2kyQnRWa2ltTjRRMTNfTU5RQVpteV9fc0o0SE1HdGVCTXhCTWx5cWtCU2VaZ3RyOG5jaUlqZTlBNHE3NGRyMXZ4blZ4dXBzeThsZXFyV2RsX1J1YTNuTG0tYlUtdjRhcG15dU1VWjR5VWFaaUgxZFpVb0FNdzIyZnAxdlh3QzNIR20zRUhjaEJGamhwdWVmZkloXy1mel83X2F1QlcxWFZxZ21vQmhhai1hSjNvVnNlenhFT2NZdkZveF81eXVQT2M?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 19:30:00 GMT"
+      "title": "Mark Carney and Macron signal a Europe-led 'next world order', sending 'indirect' message to Trump - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQWjRQcG1nenMydjRkUWlkdV9MdzRFTUo5MEFjMHpPdTdseGFVY2kxMkRadE5GX2w1elJXdHdkZ1ZWbl9oeklUZ0l6OWN1Mkh5cTczdVVFVGNvcnhOTkRhZVh0bU1QeDZSUEVqNG5Gc3Q4aHZ4NGFTdm9Zdm9QR0p1bmFvVlVQcW9OemY1bzlpSDlib25iekxuamo2Y1lHYy14T2k0VTRCQVRuRHlzUVMyU0h4M1VCMktXaTFTcTBTTlJiT0VkS0NJTm5DQUpPdms3aV9tYmpjLWt2ZF9GUGdzRWFCS0VVSU9kRzBxTERxVDJUWFgtMVFUdElHdUtJZzJfeWNmM09n0gGLAkFVX3lxTE1xMlNmTkY2c05NSkFxYUQ0TmdyR29yOFo2Yy1YUmxHWHlWVTc0cUVMTXhFX3l1eUVhdHdzYmVjLW9qS2lYTnFuZ3RVYzh4dzNHQjU4cEFrMHh0TUs1US1uc0lHQXZXVnBKa1pocnd2Nm5QV2ZkcVo0QWZoTDZOdEtTUnBTRVVKZDFGdHJFYTJzZFVNbTFRcVNTRlUwU0FETHNSbWIyRkZxM1pfOFYzZktEcG9fTkcxUm85TWZYSmxDdGlrUjZTRXFFdV9Od3lfVFZQN1lyZWpBWlJkUXd4aXRTWS0xUDRoMGl3UUM2b0xWTVAyXzRlaWhLUlFxckFSeFNRZ1hFUG1DTEpTWQ?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 20:52:35 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Zuari Industries confirms no encumbrance on Paradeep shares in FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNODJucG1od1N1cC10d25lR3BVb0F3MzAxaDlQVnFGQWhqQWNaSnVnbkRTejhIbVV3SkhnTmQ3c2ttQWtPWGRUazdOYjFPZWdUTzRwSU1Jc0JIWjFpRVJYRXR1cDVoa2VOYmgyb0hzdnZVaWNqZGFuSWlFU0pENXNnVTkxd1N1cDV3X1cyTlFDTi1HZjdkMDZ6dV9CelhZME1KOGNGYTNkM0M3R2NPanNBYlNueS1KbzJlMFpHRW1TLVFNQQ?oc=5",
-      "pubDate": "Fri, 12 Jun 2026 19:26:52 GMT"
+      "title": "QYOU Media plans June 15 livestream for FY 2025 and Q1 2026 - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN09pQlpnakJGbU10Q0YzcjkwY1NaMUdjaDI1eG93aGgtUVJxSG1qM09XV2N3enhmckhSQnI4eGpILWFZWlpwVnRnTVJicDFTcWJUTGJPMnJnRE5xMzBmUmV4Q090MzFmaHg1TmZCdHBHRldzVmtTQUpvSGRNeEVGR20xWm5OTk9CY0dLQ1pkeXVkVzV5TEtuYlB5QS1QVWdveElYZzdNN1VPMXdWWVlQdzloM3FQajNRVEJSQmxTMA?oc=5",
+      "pubDate": "Fri, 12 Jun 2026 20:57:00 GMT"
     }
   ],
-  "fetchedAt": 1781292868
+  "fetchedAt": 1781298206
 }
