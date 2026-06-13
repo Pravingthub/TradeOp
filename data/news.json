@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "CLSA set to vanish as brand after 40 years in Asian brokerage: Report",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/clsa-set-to-vanish-as-brand-after-40-years-in-asian-brokerage-report/articleshow/131702491.cms",
+      "pubDate": "Sat, 13 Jun 2026 16:14:29 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "F&amp;O Talk: Bullish Nifty charts; Sudeep Shah picks 7 stocks, outlines HDFC Bank, Sterlite Tech strategy",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-bullish-nifty-charts-sudeep-shah-picks-7-stocks-outlines-hdfc-bank-sterlite-tech-strategy/articleshow/131700445.cms",
+      "pubDate": "Sat, 13 Jun 2026 13:58:45 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ashish Kacholia's picks: 12 stocks rally up to 130% in CY26, 3 turned multibaggers; 2 new Q4 bets",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholias-picks-12-stocks-rally-up-to-130-in-cy26-3-turned-multibaggers-2-new-q4-bets/slideshow/131700249.cms",
       "pubDate": "Sat, 13 Jun 2026 13:22:22 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Sat, 13 Jun 2026 12:40:53 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Uday Kotak questions SpaceX valuation, says only time will tell if we're in \u2018mega bubble'",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/uday-kotak-questions-spacex-valuation-says-only-time-will-tell-if-were-in-mega-bubble/articleshow/131699475.cms",
-      "pubDate": "Sat, 13 Jun 2026 12:36:25 +0530"
+      "src": "LiveMint Markets",
+      "title": "Stocks to buy: 3 stocks to beat the market in 2026: YES Securities lists Entero, Maruti and Lupin as June stock picks",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-3-stocks-to-beat-the-market-in-2026-yes-securities-lists-entero-maruti-and-lupin-as-june-stock-picks-11781342740773.html",
+      "pubDate": "Sat, 13 Jun 2026 15:07:48 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "What crypto investors need to know for tax season 2026",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/what-crypto-investors-need-to-know-for-tax-season-2026/articleshow/131699289.cms",
-      "pubDate": "Sat, 13 Jun 2026 12:28:51 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold prices to rise? JP Morgan forecasts yellow metal could reach $6,000/ounce by year-end \u2014 Here's why",
+      "link": "https://www.livemint.com/market/commodities/gold-prices-may-rise-jp-morgan-forecasts-yellow-metal-could-reach-6000-per-ounce-by-year-end-2026-why-safe-haven-11781338030777.html",
+      "pubDate": "Sat, 13 Jun 2026 14:43:32 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,16 +61,28 @@
       "pubDate": "Sat, 13 Jun 2026 10:23:49 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Stocks to buy under  \u20b9100: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-100-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11781321285321.html",
-      "pubDate": "Sat, 13 Jun 2026 09:45:18 +0530"
+      "src": "CNBC TV18",
+      "title": "Ashoka Buildcon gets LoA for development of gems & jewellery park in Raipur",
+      "link": "https://www.cnbctv18.com/market/ashoka-buildcon-gets-loa-for-development-of-gems-jewellery-park-in-raipur-share-price-ws-l-19924991.htm",
+      "pubDate": "Sat, 13 Jun 2026 16:01:53 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 15 June 2026",
-      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-15-june-2026-11781318395096.html",
-      "pubDate": "Sat, 13 Jun 2026 08:56:42 +0530"
+      "src": "CNBC TV18",
+      "title": "KIMS board approves preferential issue of 77 lakh warrants worth \u20b9600 cr to promoters",
+      "link": "https://www.cnbctv18.com/market/stocks/kims-share-price-board-approves-preferential-issue-of-77-lakh-warrants-worth-rs-600-cr-to-promoters-ws-l-19924989.htm",
+      "pubDate": "Sat, 13 Jun 2026 15:39:53 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Dr Reddy's launches cancer drug Bosutinib used for treatment of Chronic Myeloid Leukaemia",
+      "link": "https://www.cnbctv18.com/market/dr-reddys-lab-launches-bosutinib-tablets-used-to-treat-myeloid-leukaemia-ws-l-19924977.htm",
+      "pubDate": "Sat, 13 Jun 2026 15:56:03 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Uday Kotak calls SpaceX IPO a \u2018true test for capitalism\u2019 after stellar market debut",
+      "link": "https://www.cnbctv18.com/market/uday-kotak-calls-spacex-ipo-a-true-test-for-capitalism-after-stellar-market-debut-ws-l-19924954.htm",
+      "pubDate": "Sat, 13 Jun 2026 14:04:05 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -67,59 +91,35 @@
       "pubDate": "Sat, 13 Jun 2026 12:45:04 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Markets Espresso: India's time will come and there are pockets of opportunities",
-      "link": "https://www.cnbctv18.com/market/markets-espresso-indias-time-will-come-and-there-are-pockets-of-opportunities-ws-l-19924925.htm",
-      "pubDate": "Sat, 13 Jun 2026 12:00:49 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Energy costs and El-Nino could slow growth and lift inflation, warns HSBC\u2019s Pranjul Bhandari",
-      "link": "https://www.cnbctv18.com/economy/energy-costs-and-el-nino-could-slow-growth-and-lift-inflation-warns-hsbcs-pranjul-bhandari-ws-l-19924393.htm",
-      "pubDate": "Sat, 13 Jun 2026 11:49:47 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "JSW Energy inks agreement to acquire Maruti Clean Coal and Power for \u20b91,400 crore",
-      "link": "https://www.cnbctv18.com/market/jsw-energy-inks-agreement-to-acquire-maruti-clean-coal-and-power-for-rupees-1400-crore-share-price-ws-l-19924927.htm",
-      "pubDate": "Sat, 13 Jun 2026 11:28:04 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Sugar industry seeks dual pricing as industrial users consume most of India's sugar",
-      "link": "https://www.cnbctv18.com/market/commodities/sugar-industry-seeks-dual-pricing-national-federation-of-cooperative-sugar-factories-ws-l-19924582.htm",
-      "pubDate": "Sat, 13 Jun 2026 11:42:05 +0530"
+      "src": "Google India News",
+      "title": "Bansal Wire Industries secures trial order for Steel Tyre Cord - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVTJhaDlmS19Cek55X2Q0cF9DNzVJajV0MVp1WWdacWFTOFJFcHRycDVQQVNubzdhbjdGSkZrQTVXTThZY054S0tWdnoxLVFUVUhOeWQzd1JCUGZ0T3dQN0V3bzNPTW11Ym5pNkxqYmVrdGZpWGVYQmpKRmtscE1nRlJKdklkUkJ2dXhPQ0ZKRmpjMmJPWm1neS1Fd0MyWEtzdkxiMEZETm9rNmJ1ck5PTkNDVmxwcnFDbGU4?oc=5",
+      "pubDate": "Sat, 13 Jun 2026 11:07:41 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ashish Kacholia's picks: 12 stocks rally up to 130% in CY26, 3 turned multibaggers; 2 new Q4 bets - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPNEdrTXktNG1TRFpNNnh1TUd5NzZVWjEybG5nd25uUEt2dXBNdDJocVZrbXVUaUlWdTlrbHBtS0Rfc0wwallLSFYtdG10emRHQXNWWW1YNmt0YUtZbEhneXM4TDgyRmE3Uy13anVxSDJjc3BHcHJESDdSWGpaWjEwT1g3N280S3BYRG1MYmszUktaTmlhZW1PeThIMHZ6U2tMRVpQdnNRUFlod3h3Sm1ibWRWc1VoOEt1SmsxNVlCYVpiTTd3UVVQNFhSRmhIY3AtWV91VTU3cUx1b25VTVJRZDVHTXZVaTZ0WDV4aS0xU0JjNFpZckNPNU9odURycWswQjU5UGExSmNnTDJlWndYNWR6Rm1JdS1uTmx2a2tFRQ?oc=5",
-      "pubDate": "Sat, 13 Jun 2026 07:59:03 GMT"
+      "title": "Sebi challenges SAT relief to Sahara managers in \u20b914,106 crore OFCD case - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPd2VFNDVSVXpRWF95ZTZDSmdscV94SDFnTkFjOXY4dHVNSjNLS1lmMzJONE5JUkVWUl9mREhnbEtadi1ZUFlqanVFOVF0SjJFdTctYzgwVlNpMHotYlozQWlwQlJxM1JubkRobVpHSmNPVURPclZkU0N0dGVoa1hoNWNwT1lQMC1HLWpGcjdBdlhHU3huVUVJbE1SbUxiYkdmeWlYdnI3dVg3OV9aa0Y3Y3FGaFlNZXpITTF3Y25kX0dKUFliWEpMRGlubDU3bHl5QmpLMjJuQk7SAd4BQVVfeXFMTVR4U1hBczNhaExWMjZjWUp5VzUtVjhpWEc0SU5LcHEtS09QT2V1MEpxdkE5UFpZQjZJQmdvYmJuZUxQM3Vic1VQeUc3dmlhc0tzRUJWcHoxaUNRTV9UX1Flc2E4UXludHlfbVVjRHcwcDFsZFN5YXdtSC1QMDQwb3hQdzFNX0szSHdUWG9oUDVTZHVLakJOWF9pckRwbWpZMlpNVmJ0UkkwbzllR1BJcHh6cktBcXdPUV91akh0LXMxLTlUZWhnd3BOWF9kTk5mZllScy02b204cDRmSGxn?oc=5",
+      "pubDate": "Sat, 13 Jun 2026 10:35:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "GREED & Fear Report: Too much India exposure hurt returns, says Jefferies' Chris Wood - but he isn\u2019t giving up - Mint",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNa3VZV0NxWmg0SXlJZ1RhVFI0SjZNeU1hZ1VsaEM3NEtick5GcEV2a2VmVEdHeEVRVXJDUklYcnhXaXpMTjBfV3BsTDNGdXBSWDU3SmZzeGUxQzBtcXRsV1dZM0NwdTZ4Tk94SHJYRGg4dXFKeEk5NXRYLUV3YTdUa0M3YmhPSV8yUER5RlB3RS1iUWY3ZU5VMFRXaWxLM3RiZ2twNWtiYnNXM19qTjlfd1RpUE1lRTdOTVVFVDRVNzFfYUV3MmZ0Um96NTd4dEQ3eXh6WHk1cUdxcFNXaWxJeWRNN1FYMFpMVlNRM21WbzM3V2NJaUhfbWZITlgta2dLcG5j0gGIAkFVX3lxTE9zRmNKZG5zdU1VbGpUazgwYWVZOE5xZlYxOWtLcFJCc1dUdmhoRk1CanhUSUdPeVltbHRVNXRWNWFMZUJ1bWJtYzhOSmFmN3YtU3gzdXByWldzZ3NmZWtpaFdnUXZ1bVI4SzdVb0NtRWdVamZ2RjMwd2FRcXNVVzByb3hpaVFvdWRTRVNiZjhibk1TMDRSZ2k0RVJUMUdGUndfbG5nc2dMS2ktTVE3Uy1Ba3dXRDVtZ19QMDBzS0JTR1ZEUHZCZTR6dHhIR2JIV0kyTkVoaG5UbEUxVXlCZGhVV3NhZjl2N2JCYkNMQmVDUlNRblZ1ZHVjQWhKTXpaUUNDNEMtU3BFdg?oc=5",
-      "pubDate": "Sat, 13 Jun 2026 07:42:51 GMT"
+      "title": "India's productivity gap with China widens despite strong GDP growth: Equirus Securities - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaTk2dndCb3YyVXNkRlU3a0pkWlktQmtkdkl1WFhEbU1TVjRaTTMxVjc0d2lsQUg3dGxqNWJhQ3hMb1hpYUpDR0dWTWVRRG5KRTlqVkhXMTFuemZtS1I5NkxwLUZxZzBDbmNFLW5nYlQ5cUliRE9QaWdGYVZOOTlQNS1QSjNJSTJZbjc4UGtCRUFmUVhrYWdGZHhzNUM1dHhVWWktTTBCOFAwR0JNemp6UER5aVUxeUl3d1ZHcGYwV0pMeUJ4UWtDc296Tmh6cVZTYnVfSWFMN0RpWDdac0xuWFFtTzdYZ9IB7AFBVV95cUxQMDk3RWxQMTVwNkxld0Rmb2pjOEdzcUc3VTNxQVp0LU1KUVI0U251bEFwc056bU95aUxaZnhMTl9kVy10b1djdGhNWkFYX3FMTHpyVThNZHZIT25KWWtCV1c3ajFQbVhPXzBRRkVKWlJxVkxrSVZscDF6RWtqbml6NXVzeUQwYjZxUHdUTGQtbFBCaWJMQ3ViNnpFMjBLNFFzWGVUeTlzZS1pVWlxcFlmN1NqeWZSNmFYbEQtN1MyRzlyWTBiTl9QTVdYSEhaa29mbGpkaDRwTWxxNnFXaG9lTURJVVJueUQzbnpxNg?oc=5",
+      "pubDate": "Sat, 13 Jun 2026 10:34:52 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sebi Seeks To Deepen Capital Market With Longer-Term F&O, Bond Derivatives, and AI Guidelines - Outlook Money",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM1d3ekEwR1RUZDRaWE1VdUEyeGIxRm1aSXF3VkNyNjJIc1NKa1pPTzJRbTI2b0tZOXdyTmd3SW5ySVVTNUdPMkUxS2kyMURjRTNoVE5VWWdWRGx3SWY0NUQzOVA5Y3lGNnUxYkFmNVFmNmoyNC05d2VEc1d0b1QzNGg2WUQ1ZkZkMUVXdGdKU3FBeVFnQlZ4V3hhTEI2UEZDTEJReEFfdERIZWtlTlFoRFRTRVdLUVN2WDl5NzA4eXhUN25m0gHSAUFVX3lxTFBEbWRRbjJvNUZCODhVM0VWZkM2QmNkbXA4dzdTOXhZUEVZMWZTRnRaUUhsRGVhVVRDcnpHeGdaZ0JObFNfNHBCdE5rd3dadjd0ZXJsaXprR0J1bERvckYwQV9MTnEyTWh3N1lyeWpONldWcUdOX0tEM1VwQTA3bFZmMzA2SGNlb19QN2NhTmFUcXAxbmpYS0FUVUczcWZHc09TbW1MdlMyVVBZMGtjTkJTamhFaVhLbUd3d1hJMFM0WUtyMDZZOFozSnBsSlZyUTMxUQ?oc=5",
-      "pubDate": "Sat, 13 Jun 2026 07:35:52 GMT"
+      "title": "Tata's iPhone parts factory contaminated farmland water, India pollution body alleges - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQU9qa3JzNVBuaVdOWGtUMWh1T0YxU05HTnBDVVo0d25wa0xubGtZRENtbGpHVEprXzExa1BXcTVoZ0tGZjh2dEFxZS13cWE5YmxhMzJla2lyV2pwS0JINDNmNFl4NUdDeFAzYjB5Y2tFOFVRc2lrVU1hbTF4ZzlkR2wyOUtrSUxIdldZSzB4cE5HM3Z2OFdLbThOM0lIY0VmSnZseTRpRHRtYWFhVGxENmx6b3NjOVg1VlFoYWotaUNXc2picEJyWWdWc0lhajRpUlYyYno5ejhURVdralHSAd4BQVVfeXFMTUFPamtyczVQbmlXTlhrVDFodU9GMVNOR05wQ1VaNHducGtMbmxrWURDbWxqR1RKa18xMWtQV3E1aGdLRmY4dnRBcWUtd3FhOWJsYTMyZWtpcldqcEtCSDQzZjRZeDVHQ3hQM2IweWNrRThVUXNpa1VNYW0xeGc5ZEdsMjlLa0lMSHZXWUsweHBORzN2djhXS204TjNJSGNFZkp2bHk0aUR0bWFhYVRsRDZsem9zYzlYNVZRaGFqLWlDV3NqYnBCcllnVnNJYWo0aVJWMmJ6OXo4VEVXa2pR?oc=5",
+      "pubDate": "Sat, 13 Jun 2026 10:41:35 GMT"
     },
     {
       "src": "Google India News",
-      "title": "The Global Shift - Why India's Wealthiest Investors Are Diversifying Beyond Indian Markets - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPN0x6RS1LT1FmTXNUc2xjaFlOX3RCWExQVzYxNll3Q3dEbkEzb0h0Mzc4SjRpYzJQd3hoT2hiQXFzMzl2S0NKb2lmS3R0dW5xQkdidmtCZ3kyOUVJRnd4Y2pUUHg4NXRwVG9rdEJqX3lUQUkxdmcxODhtVUY4bFdwTnVvQ3JHX1Q2T3ZmcDlhcDl0MW9GOVprZGZHaFd0M2RKZ2g3TDMwWE9ZNDhKS3B4N0t4YnBiaVplQnZtSzl1M3VJOWpMcktGOVVrZzhCOHVBTTNjSTlNdlU2Zm9MNmpuZ0p3dTJCTExVZ1phbTc3TWtSZDlDQlY5ZDhBNjFOd9IBgwJBVV95cUxNMUVNUEFMcFBHZFpuNVptcGpKcUJvRmlTMVVUYnljUkNrUDJBNEE1NFRXMVNlZlRqUVBpSG9LNnRlbFJIc2VYR3dPSUFWOGdIMVVsNmRqMFF0d2NJMTJWUHI4S2ItdGpEaW5oZVNUR2xDNnNoN2FQNjZRamtkUU82S1N6NG1MUHRuVVpVczJ6VWltRkNPZXE4VnE0b2pPXy0wS2xXM2xJSGJhVm9Nb3ZlRVEzc25FSmlyeVV6YjhsTUVaN3lFRkhRdXB5b1lsX05sRFR5WEdRVnNVb0kwNW1TTFhpMnI4UW1oVTJ2Rk1RUnJQR0ZEUXBfSEVWa1AzYUt0RmRB?oc=5",
-      "pubDate": "Sat, 13 Jun 2026 07:30:03 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Concurrent Gainers: 11 stocks gain for 5 straight sessions, rally up to 20% - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUzNUR0V3eXdoTk83Q0Z3SWg2dm4wSDBUbXBzRGJRWTR0Zk9LdjRUTUwwOWFkQm9ZMm9LcU5ULWhkY1JXczVsZlBQdUlMRTAtSmJzWjR3akxuSlVzR0ZGMi03ZVFFNkkzdGtGWjI4Q0NjQ09jOHN3OUlOWVd5RlYzRnBEdnFNeDNCRFRBYzVkV3FCMlh5MFNzemI2QjMxU3prYjhNNTM2THVYdW44RXcxQVpoam85TVUxLXUzckdDZldZTURGazJxRzg0SFRYR2tSZlZvTGF5MkFxTExY?oc=5",
-      "pubDate": "Sat, 13 Jun 2026 07:52:35 GMT"
+      "title": "The 400-year-old lesson for SpaceX investors: Chart of the Day - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1pSQmxibGE3RU8wX1dxeFhvYkRiZWhkOXFXbU9RUHZsRkxUZ1Rfdi1uOHJLZlBNWldGWmwxdWRzWTNERkFIUUV6NHg4dnVrZEp3SzV5VHd1dWV2ODJ0Z1BHdmx4WHJHRHNrckU0eUNZLWs2RGFTT25vQ2IwY0Izd2NkajFkY0hRalNLcWhVSjJlUlN3Q1NQNXNaQmJWbHRidTg5QXB5NmdSbE51dWRR?oc=5",
+      "pubDate": "Sat, 13 Jun 2026 10:56:26 GMT"
     }
   ],
-  "fetchedAt": 1781339378
+  "fetchedAt": 1781349814
 }
