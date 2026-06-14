@@ -2,7 +2,19 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "Explained: why RBI\u2019s FCNR(B) and ECB swap window could be a game changer for banks",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/131720157.cms",
+      "pubDate": "Sun, 14 Jun 2026 16:55:49 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Vedanta demerger &amp; HFCL dip: Anand James reveals how to trade this week's top stock triggers",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/vedanta-demerger-hfcl-dip-anand-james-reveals-how-to-trade-this-weeks-top-stock-triggers/articleshow/131719301.cms",
+      "pubDate": "Sun, 14 Jun 2026 16:00:51 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Explained: Why RBI\u2019s FCNR(B) and ECB swap window could be a game changer for banks",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-rbis-fcnrb-and-ecb-swap-window-could-be-a-game-changer-for-banks/articleshow/131717819.cms",
       "pubDate": "Sun, 14 Jun 2026 13:57:49 +0530"
     },
@@ -17,18 +29,6 @@
       "title": "Silver prices crash nearly 50% in 5 months. Is it still worth investing?",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-crash-nearly-50-in-5-months-is-it-still-worth-investing/articleshow/131717112.cms",
       "pubDate": "Sun, 14 Jun 2026 12:45:11 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "AI euphoria to end? Chris Wood warns mega IPOs, bond pressures may trigger tech correction",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-euphoria-to-end-chris-wood-warns-mega-ipos-bond-pressures-may-trigger-tech-correction/articleshow/131717022.cms",
-      "pubDate": "Sun, 14 Jun 2026 12:29:42 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "\u200b12 penny stocks plunge up to 70% in 3 months - Are you affected?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/12-penny-stocks-plunge-up-to-70-in-3-months-are-you-affected/slideshow/131716757.cms",
-      "pubDate": "Sun, 14 Jun 2026 12:07:29 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,24 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "India\u2019s digital gold market could grow as jewellers and investors come on board: NSE",
+      "link": "https://www.cnbctv18.com/market/commodities/nse-egr-gold-market-price-discovery-sriram-krishnan-19924528.htm",
+      "pubDate": "Sun, 14 Jun 2026 16:33:19 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Stocks to Watch for June 15: Vedanta, Aurobindo Pharma, JSW Energy, Dr Reddy's and more",
+      "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-june-15-vedanta-aurobindo-pharma-jsw-energy-dr-reddys-and-more-19924729.htm",
+      "pubDate": "Sun, 14 Jun 2026 16:13:05 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Vedanta Aluminium Listing: All you need to know about the group's crown jewel",
+      "link": "https://www.cnbctv18.com/market/vedanta-aluminium-listing-monday-key-things-to-know-potential-listing-price-market-cap-pros-debt-ws-el-19925143.htm",
+      "pubDate": "Sun, 14 Jun 2026 16:58:32 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Nifty Outlook for June 15: 24,000 back on the radar as index breaks out of range",
       "link": "https://www.cnbctv18.com/market/nifty-prediction-today-june-15-24000-level-back-on-radar-as-index-breaks-out-of-range-ws-l-19925114.htm",
       "pubDate": "Sun, 14 Jun 2026 13:15:38 +0530"
@@ -73,53 +91,35 @@
       "pubDate": "Sat, 13 Jun 2026 17:38:36 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Bansal Wire secures trial purchase order for steel tyre cord from major tyre maker",
-      "link": "https://www.cnbctv18.com/market/stocks/bansal-wire-share-price-secures-trial-purchase-order-for-steel-tyre-cord-from-major-tyre-maker-ws-l-19925007.htm",
-      "pubDate": "Sat, 13 Jun 2026 17:09:24 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "From Google to Facebook and SpaceX: The IPOs that created thousands of millionaires",
-      "link": "https://www.cnbctv18.com/market/from-google-to-facebook-and-spacex-the-ipos-that-created-thousands-of-millionaires-ws-l-19924975.htm",
-      "pubDate": "Sat, 13 Jun 2026 16:55:03 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Ashoka Buildcon gets LoA for development of gems & jewellery park in Raipur",
-      "link": "https://www.cnbctv18.com/market/ashoka-buildcon-gets-loa-for-development-of-gems-jewellery-park-in-raipur-share-price-ws-l-19924991.htm",
-      "pubDate": "Sat, 13 Jun 2026 16:01:53 +0530"
+      "src": "Google India News",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPU2tzb19zbV96Yy1BSWd4UDltRHNoTlNsWmIyWlZPRC1sM0gwT1pDYU8ydENnVlpKV3ctaThlczlHNXJqbjFQR0E3ZHBnQjZfOGJnaExkOU1hYlVJS1hfek03QjhtSnpjVGRXTWZZbnFucllpSWJJYmpleXZPRlluYmppYnltN0RmVVRmWkpBN3BtNjNrSzgyUUFoN254aVZ3VmJWTmFfOVFuV2hLS2NCUVV6ZS11MXF4TGRDcDVGNVhkSDBheUxuZm9GQ0RseWlESzZyLS1uaklzT05TZ05N0gHkAUFVX3lxTFBNUWpMenppY3VRZ0NfQnFlU25RSHBpSERhdllRTER3ZUFsUnktLVU5eHNCUHEtOWx3Y3RPdUx3V1FQSmFpU1k5Y2d5M24yaGd1U0pzNWVoUXV0RW1xMF9tZ2U3OFJOOEV4Zlg3Z3JtOHV0cy1lb2VpVnUzZ1ZaZmdwcFpMaG14ZWJZN3NKRlZEUG00N0ZIUHRCaG5KZU9ZVVJyMk1UQ19NZE0xcHFhUVA2dDNlMHNYckNmdWNDd1NNR1BVbWxhODdWYzY1TFZEQ0pvaW1mYkNlazhzcjFoc3RFN3VNUg?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 11:25:49 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Govt notifies rules to lift investments by persons resident outside India - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUDFtWnVoSU8wejE1eDhDaUNtaTZhR3JuWmdkT0tZRzZhN0lpV1J3VE9EdC1TT3FIb3N6dDdpMV9SQVFFSHhfYXlUZW1XOFhiR3VtR1QwZnpjMGQwUE9NUHNEejJJaDV3WkhOSnMtUWszeUhMVE81cENEVWgzV0RaT2ptS0dzR0c5X3ZkbllUZ2huUXpiVlNudF84eV9RZE14ZEpjN0NKN1Y4cHplNFlmbFhKNUlzSHlidVA1WXJGdjhrdVdQTlY3eXRBNGtWejJEQXVjRG5B0gHbAUFVX3lxTFBxQ284Qk5TNkV6UFcwZENPa0VxZ2hLQlh1T09JQTVjTll0TWR5RUdWaUZwVEhMdG5lRG56LW1nSUFTb2FUVzZxMGxVRVo1R2hCVEdDY08wMm03M3VydFlMclVmak5fTFFzNkl1ZGFOWWh2LWVNVlJmdU5FVTdqSEdIRk9GRnZIY3VaVnZMQmZ3OWplU01rM0pBQWVnMk9VZ1RTeW5aQTdXdEJiM0lrX2NCTUpPTHVwdmh2dzdRZ29rTTBWVlVjUWNBNHlrQzVHSWJ4SWxKenFqVWFjOA?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 09:02:21 GMT"
+      "title": "VL Infra Projects promoters hold 1.03 crore shares, no encumbrance in FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVjhWYXJyRFVIMGY5Yk9mLWxRX1EwNm9vVThCZ0sxSEhFU3l4Nzd0bERpLVNCQTdBbXYwWko4aGJxZEE0dkd2aWVJVFVVSVNZemJMY0hiZXZQUE16OGNHU3I5bHBtRVk0TTdqZ2toSjI5d05PUEh5eDR5REFOZTBTQnR6cmJ4QWYxekF3U0ROcVk4eWFaUUNDZUpKTzM2NThPcnFjdkxQSjA0LWdSeEowRHl6Y1MwUG8zWldOWHhOSU1uSlZUa0R1ZjNR?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 11:54:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Inflation data, crude oil drivers for stock markets: Analysts - The Siasat Daily",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnlOSnRXUHEzaUt6S19WSVljR0g3Tlp6NEtSc09SV2VVTkFvRlJSdFpxNkU3TDQ5VGZUZWVLNkJaMWViSVFYaEdZT3Q4dVlhQTVUVlZTbVg1WlB1OFQzSTNWT1FhUExfRW1tbmQ3TmxibUtOZHVGWElEbmdFN0VCRVc3Vl9FR1lwSU95OFhyRGdSNDhaOEHSAZsBQVVfeXFMTXRVbnpyRms3R0FQWE5HMFdiWDNwa0hIXzdRZ1E2bEJENjg4WWQxUzFleGZiNEtXRnlUaGpXaVhOV0Q1aHlnbVkwTW5uMU9FNWlOcDJ6Y083WjRZTlNfeXBuTXJTSlVWQTJYeVd6TW5RUlVwaFU3UHlHeG1aX1ltMFBQSHJRZzhneUtDaFNjak9rdG9pbzhvLTdPTWM?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 09:35:44 GMT"
+      "title": "NSE IPO Update: Mega Listing Soon as DRHP Filing Likely on June 15-16; OFS Expected Without Fresh Share Issue - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVzBEcGxpR2cta3lpd1piTDhYV2N2b25qVVNzRVIyMmZ6VW5IUmcyOWNVbGRRUzVzR2hYamk5cEVtaGplaU44TVJyT2dRakVYMEhFSzJrTTVrS3ZXOVhVMjR5NUF2aU9naTl5WlZLU0Z6a0pHSWZiNHNGWVlEY2Z1WUdsOHBFU0ZhbXZtTEc0clVpX25UT2xadEl0dXpPTlctLTdjZzdJUC1qZU1TSHRxTkRkeGFxdDVJMGVBMmZNZ1VOeDBoZjk5VmhoWjdkWnFsTF9VMS10Z2RWdw?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 11:30:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Former SpaceX Welder's Rs 8.6 Lakh Stock Grant Turns Into Rs 8.6 Crore Fortune After Historic IPO - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNR0JvN0RiQUdLMUFKQzRoZUNqOEthaUdwNVgxbDNOM2tfUDVSSEFaWnZodG9GQmJQWFFGYXJhcUdmRGpNX0t5YTVydVdEUUF0WVRlb3RWUlZQUl9XQ1NtS2x6STFvOWFpRU1LdnNZalgzaXhTOUJkY1NFa1Zzb3FLN2tVM1BBX05wQjdDR1hrSDJFTE5odVZUMXJGU1Rkbk9PMjJzUGtkQUU1a1dNQVRMakh0eHRoS0F0Uk1HaWZTTWNuSWVGeWdpZk03MVBXQ3A0cWdaVmZKTDhUak1f0gHkAUFVX3lxTFBIVVFCNTFyM0dMbUpKUkJ4UktfVTdPOTdubFAtRFg4ODNrTy1mV1N1WjlmTjZqbWU2Y0RYOXBzdmZ6U3diQWRFVzU1bFdmOU5wVWRmTVdpUnZOSVNqR0czUGhkcG1SUnRjVmNmS25Hd1h4akJWRE5wd1Z3N2V0NzZxa1gtcm9jTWlIVVlSTF9za1ZnblpkU0w5ZDROZjhCRkJyNVlKNFQ4dkJHOXZuSWNUaGs2b01UbzRwMDFVdXZPN2Z0azhUTVVvN1NKNUh5VmhnMXF1S2t3MGFHSmhyMXFkMUlvQQ?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 09:40:14 GMT"
+      "title": "Jio Platforms among global top 20 in latest WIPO patents rankings - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUzkzMXluOTlmWkZyRW9pNDRjYlRaaGl6bkVsY2lkMklsTFF4LXVSZFdFS3pLUXc2d1d3OW1WY2YtZm9mVGo2UnpQZF9vX2tkbGRYRzFfcFF3Umw2QkI4cnhzVjRFQ044YmdKd3lqR2dyWTllcWpXRXpWd1l5VmxzR2dIY0pVLXVyd192Y0prbHZ3dkJzYkpTS3pNdWV3Z2I5X3U0SUFRRVFZYlFQbTRKQklxMmZaa2ZuWXJCdmZxZUV5UUhGSGVfRE9RWWJsZHPSAdQBQVVfeXFMUGdnaTNKT0ZVZ29NdmhkLTc4dVJUaXJIVmh4Ukp3Zm12bXJfOXJ4ckgxR3JacGZsVGMyME9IaG4xcUE0OUV6Y2dZZjhjM3ZncHZBOHhwZm41SkY5S3Zyb21PWkVzblFWU2xNaUotYW15ZnhEY3lLb1QxeS1GaXVvN1lSeHhhMkVmN1pyV0l1MGVGQWN3U3hCY3l3VHNvLWlfSUZqdEpXMW1WZk5CdzRhQmFYd0dOQjYtbmY2MjJNZ2FLZTNyUEF3MWRhektNWVQxTzhIVTM?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 12:01:29 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Innovision sets July 8 EGM to approve director appointment - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPejRaaG85Q25UbVhsS2dTMGJidmljQ2FEVEpTTVpGeWM3ZEdvS2NpOV8tY2xlODFueDUyUlNpU0ZmRjB1VFFfb3ZoQXNhQjJpV1RGUFZHa2dETlUwc25SZ2ctWU5hU0Y5S0hWenlqVXhYUTN1VlBpOVp3cm12QWFPc3lXQkJoemVieW42Z05iWU5Sal8xblhER1FZR3N2UGthQVlEbzRBMzNtaHRxYXJHXzFXV3EycWdhODV5X056dWg?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 09:50:47 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "In most aggressive phase of India expansion; here for long-term market wins: Amazon India head - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPN05fdzg2MXZyeHlMWHBadEU4a0FnQVdIQ2pRbm5MNGRfdThpQXR6RVNTcGhDZGRqZWRFd2VXT0tfZXJyT0lXYkduMXF2cHJLMVlUamY1ODBubUlEOC1md3B5MkdEMDZiWkllQnBLaG1WbWJaQjJVdmdlNnpkN0NNampjZDhlbENRU0lKZXpZY1BQci1Zc0NoSFB4S0R5dG1yVXZLcnBFNEtDVHllWnZUSG5HRE0xMl94TU5NMWtXNlcwTEpQeWpYeXpSUlpETmtlSEhISmd2VjVQcEpTOG5kbF9MMFVyTjVjblE0NWR5UkzSAfcBQVVfeXFMTzhmNHFodE1HaTVGNVBoVWZWRkliejlMUVpfWnRDczhnQno3S0FWa0tlT2xNSjZQQWFIdkZmb0dQVEo3dkVFd1F0T2dLTjc3MHc1a3h6d0pNdEtaVWRpeUdVVXphOXotbXN6MDZDT2UtOUhsQUVlR21Za2JUNEJJemxBOTY3Y3YxRHV6Q1hVQ3VmTTBZX2NxQk1hT29YQ3FxYmxxTGtmVE13SXVVYTludXBrdmhJdlZ6ZEtrTExlRWFkd1pENEUwVVZDd2M0ZUoza0g1RVYwSTRmUUtqaDFoUWZ1aWtwNWVLcFpMZm82czBQVUl0QjVvYw?oc=5",
-      "pubDate": "Sun, 14 Jun 2026 09:00:32 GMT"
+      "title": "CEA Anantha Nageswaran calls AI stock valuations a bubble, says fears over job losses may be overstated - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVmdjekNqeWRQbzh4RTdIUFN2cUk3Mlo0cFJsR0t3T2NYYjRIVFoyVHZjMm9mSGhpRF9XQXJBcHQ0eDN2QzBFM0tySkxwQWFEXzlGZFAzMmpmbnY4RFFkbmY4eW5DNWIxZDNIeWtqTkt1aHYtUy0tSVRQcE9CTVI4S1Y1WGRRVW9OcDlkd0tHZ1BUNmhYaUtjZDBJZ0FocU9wcTEtTjhCakN2LURlTFdFcGlZdkx5UV9Ib1R5anlvWmFYQXlWZTg3d2oyaWw0TjVHT19qdWdtby1rNlNPOHRr?oc=5",
+      "pubDate": "Sun, 14 Jun 2026 11:58:28 GMT"
     }
   ],
-  "fetchedAt": 1781430847
+  "fetchedAt": 1781438765
 }
