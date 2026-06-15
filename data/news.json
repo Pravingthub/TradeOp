@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Nvidia\u2019s jumbo bond sale draws $85 billion of investor demand",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-jumbo-bond-sale-draws-85-billion-of-investor-demand/articleshow/131751921.cms",
+      "pubDate": "Mon, 15 Jun 2026 23:19:06 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks: SpaceX IPO haul rises to $85.7 billion after underwriters exercise greenshoe",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-ipo-haul-rises-to-85-7-billion-after-underwriters-exercise-greenshoe/articleshow/131749730.cms",
+      "pubDate": "Mon, 15 Jun 2026 21:30:43 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/131749233.cms",
       "pubDate": "Mon, 15 Jun 2026 21:15:14 +0530"
@@ -19,16 +31,22 @@
       "pubDate": "Mon, 15 Jun 2026 20:44:00 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Angel One settles Sebi proceedings over lapses in monitoring authorised persons, pays Rs 4.28 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/angel-one-settles-sebi-proceedings-over-lapses-in-monitoring-authorised-persons-pays-rs-4-28-crore/articleshow/131748199.cms",
-      "pubDate": "Mon, 15 Jun 2026 20:14:15 +0530"
+      "src": "LiveMint Markets",
+      "title": "SpaceX IPO Stress Tests Crypto\u2019s Bid to Reinvent Stocks",
+      "link": "https://www.livemint.com/market/spacex-ipo-stress-tests-crypto-s-bid-to-reinvent-stocks-11781548943844.html",
+      "pubDate": "Tue, 16 Jun 2026 00:12:23 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Waaree Energies gets shareholders' nod to raise up to Rs 10,000 cr via QIP",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/waaree-energies-gets-shareholders-nod-to-raise-up-to-rs-10000-cr-via-qip/articleshow/131747779.cms",
-      "pubDate": "Mon, 15 Jun 2026 19:51:35 +0530"
+      "src": "LiveMint Markets",
+      "title": "India's $200 billion IT industry will be gone! Vinod Khosla warns AI agents can replace TCS, Infosys and Wipro's work",
+      "link": "https://www.livemint.com/market/stock-market-news/indias-200-billion-it-industry-will-be-gone-vinod-khosla-warns-ai-agents-can-replace-tcs-infosys-and-wipros-work-11781543877556.html",
+      "pubDate": "Mon, 15 Jun 2026 23:25:36 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold, silver rates today: Comex gold and silver extend gains as US-Iran peace deal eases rate hike fears",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-extend-gains-as-us-iran-peace-deal-eases-rate-hike-fears-11781538171833.html",
+      "pubDate": "Mon, 15 Jun 2026 22:28:22 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -43,22 +61,28 @@
       "pubDate": "Mon, 15 Jun 2026 20:17:16 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Options market sees big flip before West Asia peace deal",
-      "link": "https://www.livemint.com/market/stock-market-news/options-market-f-o-traders-west-asia-peace-deal-stock-markets-india-11781520350498.html",
-      "pubDate": "Mon, 15 Jun 2026 20:08:35 +0530"
+      "src": "CNBC TV18",
+      "title": "Yes Bank, Northern Arc Capital partner to expand lending and investment access",
+      "link": "https://www.cnbctv18.com/business/companies/yes-bank-northern-arc-capital-partner-to-expand-lending-and-investment-access-ws-el-19925976.htm",
+      "pubDate": "Mon, 15 Jun 2026 23:17:00 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Roku shares fall as Fox strikes $22 billion deal to acquire streaming platform",
-      "link": "https://www.livemint.com/market/stock-market-news/roku-shares-fall-as-fox-strikes-22-billion-deal-to-acquire-streaming-platform-11781531465107.html",
-      "pubDate": "Mon, 15 Jun 2026 20:00:38 +0530"
+      "src": "CNBC TV18",
+      "title": "India's silver imports hit over three-year low in May after import curbs",
+      "link": "https://www.cnbctv18.com/market/commodities/indias-silver-imports-hit-over-three-year-low-in-may-after-import-curbs-ws-l-19925970.htm",
+      "pubDate": "Mon, 15 Jun 2026 22:43:26 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Markets surge as US-Iran truce calms geopolitical jitters, revives global risk-on mood",
-      "link": "https://www.livemint.com/market/stock-market-news/equity-markets-us-iran-deal-geopolitical-risk-on-nifty-sensex-11781524554741.html",
-      "pubDate": "Mon, 15 Jun 2026 19:52:08 +0530"
+      "src": "CNBC TV18",
+      "title": "Waaree Energies wins shareholder nod for \u20b910,000 crore fundraise",
+      "link": "https://www.cnbctv18.com/market/stocks/waaree-energies-share-price-wins-shareholder-nod-for-rs-10000-crore-fundraise-ws-l-19925965.htm",
+      "pubDate": "Mon, 15 Jun 2026 22:32:25 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Angel One settles SEBI case over supervisory lapses, pays \u20b94.28 crore",
+      "link": "https://www.cnbctv18.com/business/companies/angel-one-settles-sebi-case-over-supervisory-lapses-pays-rs-4-28-cr-ws-el-19925944.htm",
+      "pubDate": "Mon, 15 Jun 2026 21:40:58 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -67,59 +91,35 @@
       "pubDate": "Mon, 15 Jun 2026 20:59:22 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Nifty closing above 23,800 positive but exhaustion visible at 24,000",
-      "link": "https://www.cnbctv18.com/market/nifty-prediction-today-index-closing-above-23800-positive-but-exhaustion-visible-at-24000-ws-l-19925928.htm",
-      "pubDate": "Mon, 15 Jun 2026 20:52:48 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Government launches GIC Re OFS to sell up to 5% stake; floor price fixed at \u20b9352 per share",
-      "link": "https://www.cnbctv18.com/market/stocks/government-launches-gic-re-share-price-ofs-to-sell-up-to-5-stake-floor-price-fixed-at-rs-352-per-share-ws-l-19925920.htm",
-      "pubDate": "Mon, 15 Jun 2026 21:06:05 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "SEBI revises ETF framework to improve price discovery \u2014 key details here",
-      "link": "https://www.cnbctv18.com/market/sebi-revises-etf-framework-to-improve-price-discovery-key-details-here-ws-l-19925890.htm",
-      "pubDate": "Mon, 15 Jun 2026 20:17:37 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Craftsman Automation launches \u20b92,000 crore QIP, sets floor price at \u20b98,966",
-      "link": "https://www.cnbctv18.com/market/stocks/craftsman-automation-share-price-launches-rs-2000-crore-qip-sets-floor-price-at-rs-8966-ws-l-19925875.htm",
-      "pubDate": "Mon, 15 Jun 2026 19:53:13 +0530"
+      "src": "Google India News",
+      "title": "India Investor Conference 2026: Growth, Innovation, Consumption and Markets According to Nilesh Shah - ICICI Direct",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHROc1BUWWxfblBSWDI5U1pja0RBVVU3Z1l2TWdLQURzdEtaRFI2d0N4QXZYLV8zVG0zT01uZmZGY3Q1LS1EQkdOT0hVNnVFaU9ZQU4wd3Y4MlI2ZFBzMWE2MjNqUGJ5dkRsZy1BTXFER0RrVWQ3R2xDWGpna29UTEplaUVEWU84Wmdic3A2S1dfbEVnQWt6TTI2N0ZhdUVCQWNsX2VkZjFGVmUzUkx6RktuNzVFQjJy?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 19:29:19 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRzZBeHZmbi1ac0dYR3dPazJyMDVuZ2ZHTVhLTTlnMTdsTkxyU3hvMHQ1andmc0VqWURISW5XS2ZoVlZVbFRNemtvMUZpNDdaaGNnUmxxUThHTjIwalJIeGhrMnNUSEZJYnVTbURrRGl5ZTdQbkllVDJZT1hsM01iZDd3WmdNaW9faGk2dTk2REZRNTlRQkZfX3BrRl9EUmFwSHVrdm1iTlRjV0VPWG9tejV3SGVGMWoyUXU3VGhQT0lFN3pMS0JpTEJXYzRxZ2VLUEdwQXdmWnFtLVh4YVBZN9IB5gFBVV95cUxQZWxKcHN6aUR0WFNpTml6WERIZmJ3d2NWQ1VTZTQzRVZtUEkzQmZLTnZyMExBQUJBa0lEYkU1cnlON3dfdjJiREVsYV9Nd3loTHpXdXh6dXZfOVlHbVpVaV9RTnV1Y21wY09rVzBINkhSMEk2ODFONFRmb2ZHcHRoMTNWSGJyLWVsSjU1YlhZY1JKczBTcWl1M1VNZVRTTW1WMXBlTzh1QUhDZ1hCNUZ2anBabVFqeFZiSGVfeC1wSzRNTGo1dVhmYmJ6a3RCZ04yTFlVUWUyQlI4VkxtWmpNcEhpLWVuQQ?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 15:45:14 GMT"
+      "title": "Stocks to Watch Today: HCL Tech, General Insurance Corp, Dhanlaxmi Bank, Craftsman Automation, Devyani... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxORGpxQm5TZF9fdDVDUE94VjBnVEtYM3c4UWsyTEI0QmttMUxnQlhNRkV1ell1M3JJU1I5bDYzTFp2OG1BczJwNEE3RTFvWHdqdjNpV2NuVF9uMncxeDMzdXhaZUVjSmZHM0RrMGlZaUVoSG1lWEFXeGs3T25faGtXR3A4QTFMNTBfeGtSZkN0N2pmeEVHVElpNi11VjRfQ1pqWjdVc0RyUWtjTXVkbHhKZVJuOXNKSkh0RDhtMW03UkZQSGJWTTJUdmItTTc4MEdaYnJhcndtV0h4TGFVSG5ldDdnYTBnV0twWWRPcUpPQXhWc2xaZGtjYVdxV0FjT25VbTRxdVFhUGVlSXhnVERXRjVwa3N5a0FrcTAyNUxjdXlhaG9MUk5EeXd3R3dVLWl0MGRiS2NB0gG7AkFVX3lxTFBYSmYwVy1WX1haS01Xb2xYZXJMM1dpdTBsUmRpSEpLa2ZWVkdndVlSVXlDZUp4Y01CeUN3ZG5rbHJHOUVQUXpHQ2t6WmZBaEZ4OTBCMEVYQ2ZVdzlMWWkyYmlzcF96dE96eDM5RzRvR2dxdzBaQS03M1kxejI3NTB6WGhMZWJlWk5QUTd0b2l4dHM2NW9FdFZlRFZhX2xOOEgwYVE2QWRtSnhYYnZJS3NZanNKQkg5VjRsOWZ4RzFKYnNOWW9BS2hjLW1zRi1yVG9IMElacUkxX1JNX0dyaVZENjNEQko1bk96U24wbjhzM1I2MC1xM3NxS2hOazJ6amFjZEU2UzNwWWxlSjhIOGgtY2ozak5ZVkIybkJxT1NYbVpPTWtrYzVmcDZLQU1iSXBReVFRaU5DYUZvWQ?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 19:15:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "WeWork India Management releases pledge on 43 lakh shares - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUJkaVFHRlAtcEZ4em1KUGt2WGIxaHJmX0pfSkRXZmg3Nkoya1g5TVlhZGNyUEJYbHQ5SFFWS28wWWJZeC1BeWtPRFFIMDhBSUR4NkN1V3Q3R1pkV3RRX0thSEhXRHh3OVVEN29KMkxCR3FqUFhkWnBINlhWNWdvOVc1TUtadWxPUjlvMzN2aDVyWms1Q29iMDdnOHI1M1hWVzBNX3FfNVZzY19KOXNTTGdLQWo?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 15:42:05 GMT"
+      "title": "Inox India Ltd hosting investor meet on 18 Jun 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzBIWjVNalRES2FIay1nVk5TS29BeTBMWlZSdTg1Wk1heFZqc0poUkxYUFVOc0J2MzREMFQ5QXVQdGhuZTNpYlJxTGxJOEJ0RmFzS2p2MXRSYkc4eU0xOC1xeFJLVjc0ZU9YVmc0djE4X3lGd0FESFhZQlNHblFRMEh0Y0dydTVzVlA5aUQzb0xxZTBHRUxocExSdFhuWTFCTXkySl9R?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 19:37:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SpaceX shares jump over 9% as record IPO gains extend into second day - Mint",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaFlCUzRZVlB3aDR5VjhQS3BPMXYwYURLZ3JiWXYyWU9uajgwX2k4M1Ixb2lBS2lhMm1pMFVEVDZZUnVpRktwaXg2OWJCRGk1ZlI0MVRQbWZ1d01pQWNkNmJrYVVUSjk1SGRCSnZ6WXpqeHRsVS1sNDgwTWtjSjJSRkNSSV9PV3BnR3hyUDhFb0RyY3VBN0lodktZb05pbU5ma201d2o4bEJVUndHbzF6RnNaRTI4SHlZUkp2UFJVTkVta1laRmc3dk0zQWJ3TzFhUWs1N9IB2gFBVV95cUxOVUpQU09SN05Rbld5UVNWNXBDVE1Pc1hiUjBSbDJFMFhFRzJBV2J4bXc5ajg4THI3NmtESHFOMDVLclRyUVdkcmpOY0ZVVmdLZXpxV3ZTeTdLTVVYeERTWmgzVVpvVFVSQmhubTNqYjlSRlpTU2JRU3FaUnJhQTBNUTBtZUZPOTdhQTNOVTFEaFpaSWU3dzVrTnlMS0RNQWtaTmxiN1E5U19PM29TdFAyaGNKaVN2dC13OGxrcVNlZmQ0QXg3d0lyM3BlSTQ3MUplN1BwNW0yWVpUdw?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 15:42:28 GMT"
+      "title": "India Investor Conference - Capital Markets Growth Story 2026 - ICICI Direct",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTUdvZE1XU2ZhM3JibUpqZlNiUV9rck9rY2ZQcHVPMV9ndHk0a011WTRRekVvM0dkdzlWVERjbEpKbS1oZ2JIM2I0MmMxRmI3T3BFc25mMFg1SlktZzRVOTZ4WmhoRGdaTVdJdWoyZGpxT092VlFRMldmXzZEblFkOE5xVVBQWFJOY1hhb1pjRUxkQWJERVdXaUhoY1lERHBlNlNQVkY3VE9mRFJhaHNLeVktYjE2LXJoM1BQSUV1c2xFb1hldzVRRWpNdmg3eFRNYmNvd3lrMWpta2NpQVNoQ3hibw?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 19:37:24 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Government launches GIC Re OFS to sell up to 5% stake; floor price fixed at \u20b9352 per share - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMXp2dTJRaGRmY3dHUDZzME9saFREMzE2b0h0WDFZVi1KY1JTVElPY3YyLVlxeHpIMjdFSHhreER6UjlSZGpUa2FXa0VZbEVCNE11YWVBTDJLS2U0a25SbldTdWlpYmZtM2xKd3h6R0ZReDNsNklMLVFxcGxvUldwYmxmeGRIeDNMUGwtSGNmWUFkMnE1dld1MHV3OVNyc29CbUpNYjFMZHZXdG9ESzRqaE9DMUlIUjByZ0ZjZTR2OURwNDkyang3YzNlRURCUUljWnJmME0wUnJOaFJRbGlrdXZWaHNBOFN0VGx0aVVNcmTSAfYBQVVfeXFMT3daaE52UEpfUXJGMU1wNkdUTEVvaWZXSEZzNFlldGFrNnhROWZjcEhmNWJHOHRsSWZJX0Vyem1ZaVNHT0lFUGlEYmpzdjc0Q1hrcV8wVkh3d2VCTlhkOGtZWWZpbXNOQ05IZklTRTBtQ29GbjN4RHJyMU5mOGNpeFhmZndIR2luVXVGTTdoQlpZZXU0RVdtZG5Xa190UDFzdXdiVEhSNHNoN3RSUHB5ODRydzhFb1R5Wm5LTF9FYjNzVmpRUzkwNU9RUXBSUmdtOWNOaUJ6Qmh4dUlBSGVsTmxNLUZwUnJ0UDZLLXhaS1NHYm5aTi13?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 15:19:59 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "OFS Alert: Centre To Sell Up To 5% Stake In General Insurance Corp; Floor Price Fixed - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZHRFSjZ2Q2FQT0k5WmZwVkdJcTVEYURVbmtDbmtrUVNrbUl1elJQVFdqdUxFYXVsS2RjWTRvT1FvcTlUWnVuTjRaWjdwSU1yOEtZOVlnMVZjYVVFWUhyemNUMHFqeTExNVI5WjJUZ1RKVnlTQ0VQd08xV0phU2FWUkhmb29wbkl5U1ZJOFQ3LTVlM25Ub2xsbkMyejVYd2pkN0dkNExfVlh6Q0hUb1VzeXpYZDhuTkpVMkJCUGxhcWRzV0ti0gHMAUFVX3lxTE5wT0RPeXI0S1dib1ZOTzNrNVlQRElNMm5kWFZPeWV1elNYWEc1eURuWDk0ZHAxOEgzb3Y5OEQ1YUtaZ2ZpS2MzYVJWNjNycmdfRllYLXRGY0JGamgzX3FsUUxENzNaUjU0WVdKWXk2WUMwbzhWLS1peExvaVRoVUtzdTZGVkhPT2RaNjZoSFh2c1VySnV2WTFscUUxVXhtanlTaEtBbDJlT2xLUVYwSFBybEVNc3haUEFFVlptN3NCSEFFT3liR0lCekJYVg?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 15:38:33 GMT"
+      "title": "Man Industries (India) Ltd confirms no encumbrance on promoter shares in FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGd5b05CX3Vhd2JmMVhZelg1WFpxUEFDd0hlLVpIektWcnNTT1VNRENGV0haQUU1VFVwd0dXcTB3MjJDSE1qMEVuMmlrWFg4bzF1cTBRQk1OMy1uQnlVRnRrWFZUWGkzSXk4VENCVGhCQ0VPYkFKVTFqMnNBblJ2cE5iQldmUjFQTEZ6cFdpcEt0NUZlN1FGWVB4VGFzcWVpUDE4UDJhUW5fQjhHTmZBdXQtbS1hbjhuamZDMVpPd0Z0TzVPM192X2daUEk?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 19:22:19 GMT"
     }
   ],
-  "fetchedAt": 1781540007
+  "fetchedAt": 1781553546
 }
