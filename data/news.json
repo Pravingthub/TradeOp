@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market rallies, Dow ends with record on US-Iran deal, oil price slide",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rallies-dow-ends-with-record-on-us-iran-deal-oil-price-slide/articleshow/131754518.cms",
+      "pubDate": "Tue, 16 Jun 2026 01:32:59 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: Nvidia\u2019s jumbo bond sale draws $85 billion of investor demand",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-jumbo-bond-sale-draws-85-billion-of-investor-demand/articleshow/131751921.cms",
       "pubDate": "Mon, 15 Jun 2026 23:19:06 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Mon, 15 Jun 2026 21:11:23 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Market trading guide: NDR Auto among 2 stock recommendations for Tuesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ndr-auto-among-2-stock-recommendations-for-tuesday/articleshow/131748920.cms",
-      "pubDate": "Mon, 15 Jun 2026 20:44:00 +0530"
+      "src": "LiveMint Markets",
+      "title": "TSX hits record high as US-Iran deal boosts gold miners",
+      "link": "https://www.livemint.com/market/tsx-hits-record-high-as-us-iran-deal-boosts-gold-miners-11781555226359.html",
+      "pubDate": "Tue, 16 Jun 2026 01:57:06 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Wall Street rallies, Dow ends with record on US-Iran deal, oil price slide",
+      "link": "https://www.livemint.com/market/wall-street-rallies-dow-ends-with-record-on-us-iran-deal-oil-price-slide-11781553749031.html",
+      "pubDate": "Tue, 16 Jun 2026 01:32:28 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Iran deal could expand market gains, with consumer shares, small caps seen benefiting",
+      "link": "https://www.livemint.com/market/iran-deal-could-expand-market-gains-with-consumer-shares-small-caps-seen-benefiting-11781553447327.html",
+      "pubDate": "Tue, 16 Jun 2026 01:27:26 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -41,24 +59,6 @@
       "title": "India's $200 billion IT industry will be gone! Vinod Khosla warns AI agents can replace TCS, Infosys and Wipro's work",
       "link": "https://www.livemint.com/market/stock-market-news/indias-200-billion-it-industry-will-be-gone-vinod-khosla-warns-ai-agents-can-replace-tcs-infosys-and-wipros-work-11781543877556.html",
       "pubDate": "Mon, 15 Jun 2026 23:25:36 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Gold, silver rates today: Comex gold and silver extend gains as US-Iran peace deal eases rate hike fears",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-extend-gains-as-us-iran-peace-deal-eases-rate-hike-fears-11781538171833.html",
-      "pubDate": "Mon, 15 Jun 2026 22:28:22 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "SpaceX shares jump over 9% as record IPO gains extend into second day",
-      "link": "https://www.livemint.com/market/stock-market-news/spacex-shares-jump-over-9-as-record-ipo-gains-extend-into-second-day-11781534046758.html",
-      "pubDate": "Mon, 15 Jun 2026 21:12:28 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Sebi revamps ETF trading framework, introduces dynamic price bands",
-      "link": "https://www.livemint.com/market/sebi-revamps-etf-trading-framework-introduces-dynamic-price-bands-mfs-11781529737086.html",
-      "pubDate": "Mon, 15 Jun 2026 20:17:16 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "India Investor Conference 2026: Growth, Innovation, Consumption and Markets According to Nilesh Shah - ICICI Direct",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTHROc1BUWWxfblBSWDI5U1pja0RBVVU3Z1l2TWdLQURzdEtaRFI2d0N4QXZYLV8zVG0zT01uZmZGY3Q1LS1EQkdOT0hVNnVFaU9ZQU4wd3Y4MlI2ZFBzMWE2MjNqUGJ5dkRsZy1BTXFER0RrVWQ3R2xDWGpna29UTEplaUVEWU84Wmdic3A2S1dfbEVnQWt6TTI2N0ZhdUVCQWNsX2VkZjFGVmUzUkx6RktuNzVFQjJy?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 19:29:19 GMT"
+      "title": "Hyundai Motor India confirms no encumbrance on promoter shares for FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORDUtZWJBR2xicmg2UlZCbjlCR1BtOFlsSTRTVkpKUFVBVVd3THQ1T2Jib3EzaG9FVXU5NnF5OHJVNHc3VGRfaE1leEQydXZfZEFtbHFnd0xBS1JDcXdiSVFMSVIxRXVRX2tqcmVrV0NyenNWaEdsTFE1SlV0eHJETXpFUU5qeEtCZkpkOEIydVFxWEpLTmdhMDNRaGRjQXBwRGhZNUVOUEk4Qko3eHVsZXRMY3NhX1M1S1hHU2YyNnhkdUhQaEVF?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 21:22:21 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stocks to Watch Today: HCL Tech, General Insurance Corp, Dhanlaxmi Bank, Craftsman Automation, Devyani... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxORGpxQm5TZF9fdDVDUE94VjBnVEtYM3c4UWsyTEI0QmttMUxnQlhNRkV1ell1M3JJU1I5bDYzTFp2OG1BczJwNEE3RTFvWHdqdjNpV2NuVF9uMncxeDMzdXhaZUVjSmZHM0RrMGlZaUVoSG1lWEFXeGs3T25faGtXR3A4QTFMNTBfeGtSZkN0N2pmeEVHVElpNi11VjRfQ1pqWjdVc0RyUWtjTXVkbHhKZVJuOXNKSkh0RDhtMW03UkZQSGJWTTJUdmItTTc4MEdaYnJhcndtV0h4TGFVSG5ldDdnYTBnV0twWWRPcUpPQXhWc2xaZGtjYVdxV0FjT25VbTRxdVFhUGVlSXhnVERXRjVwa3N5a0FrcTAyNUxjdXlhaG9MUk5EeXd3R3dVLWl0MGRiS2NB0gG7AkFVX3lxTFBYSmYwVy1WX1haS01Xb2xYZXJMM1dpdTBsUmRpSEpLa2ZWVkdndVlSVXlDZUp4Y01CeUN3ZG5rbHJHOUVQUXpHQ2t6WmZBaEZ4OTBCMEVYQ2ZVdzlMWWkyYmlzcF96dE96eDM5RzRvR2dxdzBaQS03M1kxejI3NTB6WGhMZWJlWk5QUTd0b2l4dHM2NW9FdFZlRFZhX2xOOEgwYVE2QWRtSnhYYnZJS3NZanNKQkg5VjRsOWZ4RzFKYnNOWW9BS2hjLW1zRi1yVG9IMElacUkxX1JNX0dyaVZENjNEQko1bk96U24wbjhzM1I2MC1xM3NxS2hOazJ6amFjZEU2UzNwWWxlSjhIOGgtY2ozak5ZVkIybkJxT1NYbVpPTWtrYzVmcDZLQU1iSXBReVFRaU5DYUZvWQ?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 19:15:18 GMT"
+      "title": "Market Data - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZRGJfWDFYODR5V3Y2bC04UzN2ZUU4UG0wU0tJM1haSUlFbU5wSGU3NEdRUXpxaUc2TlVRX3BFZ1NIU1ZwN1hJQldoWF91WTIxUGFFUWNmSW0wMkRscVpDWGF3eTZKLWFh?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 20:45:41 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Inox India Ltd hosting investor meet on 18 Jun 2026 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzBIWjVNalRES2FIay1nVk5TS29BeTBMWlZSdTg1Wk1heFZqc0poUkxYUFVOc0J2MzREMFQ5QXVQdGhuZTNpYlJxTGxJOEJ0RmFzS2p2MXRSYkc4eU0xOC1xeFJLVjc0ZU9YVmc0djE4X3lGd0FESFhZQlNHblFRMEh0Y0dydTVzVlA5aUQzb0xxZTBHRUxocExSdFhuWTFCTXkySl9R?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 19:37:20 GMT"
+      "title": "Juneteenth 2026: From banks, stock markets to post offices and retail stores\u2014Here\u2019s what\u2019s open and closed in the US - Mint",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNekZGRU5kQ2VlVGhZakZ2STlKQk9pV2FnNnFoZVRlbkJ3U1NHMTFxMnF1d0E3STJVS3FVdWtaVDl6cWY3bU5PRWdTYXRFZ08zbjN0d0RSb0d0Q2hub3U2TW5BWnRnODZicU5DdzNnNGZheVMtWVVGRDcyYXBDWTM2Q3l1emlOYlNTTkNSdkNmRWhfNVotT1NWMEJWTXRSdFNSY2RGYnJOQ19EQmxzb3N0ZDBuRkM5ckVXOThUc1hGX2hWRXpkS1JNOXNpbFdRWHFPM0d4VkpSaVAtUjRCR3BJOHRLSHIzcmZJbHdRUGtINmM4ZHctNEJZMEtkU0lENlhiQkHSAYcCQVVfeXFMT0dScGdzT0M2X2dnNDJtV19KdnNMV1ZfZjcybUIzUS1zWHFCcThXMExVOF94TmFLalRZSzlRd3RKRjkwRFRVMncxYVpLamFJZEpSWjlqSGprU29lSTFWQ3gycnFhSjFaeVBjNFRKNGlIZjVSUnNMM2QwUUF2ZFRCeml6eXJ3ajdVWmtOa1g2bFBWTXlEYmxOamkxWGdWdllZeklkSkNRYkJwaVlJZDN2eEtoZ1FvWmZPSVoyb1RhYnFEWC1vamFpZjBISTRGQnRFd3RTNEVRUldXYm9WSE81MXpRUTRnV1o0MllLakl3aThHV2lLMHVtNmY3aWxDWjczcDFKeEJoUXc?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 21:26:21 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India Investor Conference - Capital Markets Growth Story 2026 - ICICI Direct",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTUdvZE1XU2ZhM3JibUpqZlNiUV9rck9rY2ZQcHVPMV9ndHk0a011WTRRekVvM0dkdzlWVERjbEpKbS1oZ2JIM2I0MmMxRmI3T3BFc25mMFg1SlktZzRVOTZ4WmhoRGdaTVdJdWoyZGpxT092VlFRMldmXzZEblFkOE5xVVBQWFJOY1hhb1pjRUxkQWJERVdXaUhoY1lERHBlNlNQVkY3VE9mRFJhaHNLeVktYjE2LXJoM1BQSUV1c2xFb1hldzVRRWpNdmg3eFRNYmNvd3lrMWpta2NpQVNoQ3hibw?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 19:37:24 GMT"
+      "title": "Japan condiment maker Kikkoman plans India plant - Nikkei - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMmRPYTFNU3BlYzhMcTFCeElVYzRseW9XRW1GQlEyUjliNUZ1S2IyYmhfelV6bkdvc1lyb2tOcWgwaFpnTHJjV1pBU3FPRkJqcGFiYk5LS2dLaXJkakVib0Z2U2p0Yi0xcHJLeTliVFliS3hvSTZtdF9TWVAzMVg3SU5Mdm91bFh3R3NKRWV2T2J4UDBpUnU3NXFEVzRTTlpDTmxCUERzal92UWNpNWdxb0xjcGdPc01n?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 21:03:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Man Industries (India) Ltd confirms no encumbrance on promoter shares in FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUGd5b05CX3Vhd2JmMVhZelg1WFpxUEFDd0hlLVpIektWcnNTT1VNRENGV0haQUU1VFVwd0dXcTB3MjJDSE1qMEVuMmlrWFg4bzF1cTBRQk1OMy1uQnlVRnRrWFZUWGkzSXk4VENCVGhCQ0VPYkFKVTFqMnNBblJ2cE5iQldmUjFQTEZ6cFdpcEt0NUZlN1FGWVB4VGFzcWVpUDE4UDJhUW5fQjhHTmZBdXQtbS1hbjhuamZDMVpPd0Z0TzVPM192X2daUEk?oc=5",
-      "pubDate": "Mon, 15 Jun 2026 19:22:19 GMT"
+      "title": "Brent slips on US-Iran deal, situation may ease for India - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLXhoTTl6U3ZFbXVqeFJOWGw5VWlaaXh0SmVwUnJ3T1d5SFM0dWRTcWZ0ck9lVWtGUU92UUpSTzUtOXE3VVZVM3R0bnlMc2w3eXBqdjlsQ2VMdzRMMXh2ckdxWTRmdWFMMXRGWDNrOVFsQ0pfeGdOM1ZJWXZUcVkyR3ZOSHdhb1hCQlo5bEhkOTVUTjRhYTRiOVBKQlZRUFBmWUo2dk1PelRuQnZIMmh1SkF6WlJtV0pBRExXUmtPOUlaREF1NEp3ZnpFVnlrRnlyT1VaWlNfTGFyNzVVQWRsSU9Nc0LSAeoBQVVfeXFMT3ZLOVYxUzkwRFB6UF9RdzU4cWlocmlndzZFcWZCU2xiWXY4bVZIdkFvMVNacDlfZ3hMOWdQY3pnLVMtWTRLNGM5UU5YTmZXcTEtcHZvX04xYTFQbF9xMUp0YUVJVmIzOHRoR2s4MGxaczl0eUJDZEVBWFJLeHM2X3Bsa0pKbUNtak5EcWs4VEV1TDlEUGxrSjJJMjZWTmNXMVhUdFo4T2pjdmxDSFZTaWoycmpfSFdPVnJwVGU4Ny1lbVBFTzZCeHc5UWZYMm53MVhEMjlvb0d5b3lVZDh6aTZMT1ZIeHFiVjdB?oc=5",
+      "pubDate": "Mon, 15 Jun 2026 21:22:00 GMT"
     }
   ],
-  "fetchedAt": 1781553546
+  "fetchedAt": 1781559851
 }
