@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Nasdaq and S&amp;P 500 slip while Dow hits record high ahead of Fed rate decision",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-and-sp-500-slip-while-dow-hits-record-high-ahead-of-fed-rate-decision/articleshow/131781287.cms",
+      "pubDate": "Wed, 17 Jun 2026 01:31:31 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "SpaceX options trading debut draws record volume as investors chase rocket stock",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-options-trading-debut-draws-record-volume-as-investors-chase-rocket-stock/articleshow/131777130.cms",
       "pubDate": "Tue, 16 Jun 2026 22:11:15 +0530"
@@ -25,40 +31,34 @@
       "pubDate": "Tue, 16 Jun 2026 19:59:41 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "RIL AGM 2026: Date, Time &amp; 4 Big Things to Watch (Jio IPO, Retail, Energy)",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ril-agm-2026-date-time-4-big-things-to-watch-jio-ipo-retail-energy/videoshow/131774257.cms",
-      "pubDate": "Tue, 16 Jun 2026 19:30:49 +0530"
+      "src": "LiveMint Markets",
+      "title": "Emerging FX Index Edges Up on Peace Deal Ahead of Fed Meeting",
+      "link": "https://www.livemint.com/market/emerging-fx-index-edges-up-on-peace-deal-ahead-of-fed-meeting-11781643040928.html",
+      "pubDate": "Wed, 17 Jun 2026 02:20:40 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold rises over 1% as US-Iran peace deal optimism eases rate hike bets",
+      "link": "https://www.livemint.com/market/gold-rises-over-1-as-us-iran-peace-deal-optimism-eases-rate-hike-bets-11781638206901.html",
+      "pubDate": "Wed, 17 Jun 2026 01:00:06 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Oil prices fall 5% to 3-month low on hopes Strait of Hormuz will open",
+      "link": "https://www.livemint.com/market/oil-prices-fall-5-to-3-month-low-on-hopes-strait-of-hormuz-will-open-11781637470563.html",
+      "pubDate": "Wed, 17 Jun 2026 00:47:50 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Dollar slips as markets wait on Warshs Fed debut",
+      "link": "https://www.livemint.com/market/dollar-slips-as-markets-wait-on-warshs-fed-debut-11781637041647.html",
+      "pubDate": "Wed, 17 Jun 2026 00:40:41 +0530"
     },
     {
       "src": "LiveMint Markets",
       "title": "Crude tumbles from $113 to $83, but relief for India will have to wait",
       "link": "https://www.livemint.com/market/crude-tumbles-from-113-to-83-but-relief-for-india-will-have-to-wait-11781604988533.html",
       "pubDate": "Tue, 16 Jun 2026 19:28:48 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Dawn of peace in West Asia: What can be the implications for investors?",
-      "link": "https://www.livemint.com/market/stock-market-news/us-iran-peace-deal-in-middle-east-what-can-be-the-implications-for-investors-after-crude-oil-prices-fall-rupee-rises-11781611041735.html",
-      "pubDate": "Tue, 16 Jun 2026 17:37:33 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US stock market today: Dow Jones, Nasdaq futures flat as focus shifts to US Fed meet; SpaceX zooms 10%",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-dow-jones-nasdaq-futures-flat-as-us-fed-meet-hogs-limelight-spacex-zooms-10-11781609897819.html",
-      "pubDate": "Tue, 16 Jun 2026 17:31:56 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Can Cera Sanitaryware\u2019s growth recovery continue?",
-      "link": "https://www.livemint.com/market/mark-to-market/cera-sanitaryware-share-price-brass-prices-faucetware-senator-polipluz-11781600991351.html",
-      "pubDate": "Tue, 16 Jun 2026 15:59:14 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Sensex extends bull run to third day on US-Iran peace deal, jumps 540 points: 10 key highlights from Indian stock market",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-extends-bull-run-to-third-day-on-us-iran-peace-deal-jumps-540-points-10-key-highlights-from-indian-stock-market-11781604220081.html",
-      "pubDate": "Tue, 16 Jun 2026 15:36:53 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Sebi allows AIFs to retain liquidation proceeds beyond fund life - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPT3BoSjJ0eUhfSlRub093UjZfZFJya0k2WjNvbDF1djJsVFphTzA4b3plN0R4QVFpQ01oNkxxWmZLcVRuZExZZ0pRNXpiQlBDUXVyUXh5VDlmYkVLNFpxVHlfOUpEM3hNMFpXR1FYb24xbGE4ZXVvdndWRExrVTF1QXVCQzdCQ3lKRXBjTHhhZWxtTUdQV1BGNzZWcFcxVFBKQzIzRDhISTF1cWRKbzF5X05yR3VyOTgwNnBvSkFEQ09IUG56ZW9aZmJsa9IB0AFBVV95cUxNUkJnQmwzeUlkcE5ES0t2T0NIa1pjRVBrenNrdXlCcjB2a0tyX25KbG5mZWtDbU1ESnoyZ0lqOG13SGxyWld3azZlTENLNEN5YjlYS2pVSHNFSF9uSkI5aGpVVy15Y21nTnRmRUpxM3R2bXRDVlFkeUg4UXlGRENfX08tYVpFTmRIamk5MDNCM0pBdWlQWTFhWmJPV0tQM083bWVaRHZPbUgzQmNMbGxDUGJFbUhBVnppWG5FZDAyc3lXdU1NSG1vbnRIbERoaEtN?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 18:24:18 GMT"
+      "title": "IRIS Regtech promoter declares no encumbrance on shares in FY 2025-26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWkN6dnBLT0tlOXVUTUF6ME95VjJ3TTRkOHIwZmhYMDBLcHJPSHVzMVNzN05INmZRQ09NaDZmWnJVa19ubG1iZ2ZvR0RNaHpuMGgzQllsSlBsU0dDVzNlSkltUE4wVDdtUDUzLWN5SW9yUTBMdFcycUJadFFxNWJuTGd0akJqTjRBWHdvV29vS2RCVW9jTVRsOExSU1F0VFZwcGI2WUtTbzNESFZpNUpSNmhMcWFFamZpMHI0TWdaaUN6UENL?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 21:26:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "How India can win in a rewired global economy - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVmF4YURKTERiV0k5ekExWDgtdlVQOXVPd2o5RGpxMEFkSUc4X3dOSmhYNy11YXZIRWtKNTBuaERHaWhsaHF0bXNyaU1DZ25IdVF1NlY2eFNVR1d5Y05OV3FEeVp2ZXBQcFc4UVN6M096d20zN3hqOVprNU1rai1OLUdjVm1YNzN0Z3NVNHRkUmJDWXRKVDA0d1pnQnI5S296NDNzSTJpcEZqRzNkbmNzTktBeHVoMl9sbWRubnln0gHDAUFVX3lxTE9Id2I5bmpJdThRSWxqdUE4dWVBQURLTG9QaXo3SVFXcThWTVRFb25vTG9OcVJWVDFBeUlPYkcwdXU3eU1MRS1QdG55cHFWNVJNTnpiOElHUmZyV3hSMmNsbXZWNFkxTDlJSDlzajhNR3BqQTRRekVkdVppQjQya191UG1DaUI1ZVV3cVl4U0k2XzRoTkZyeVVNTmJxZ1kwdXVaT2FsdVJ3T0ZfRUh3cGFPWTFPOUxGLU00M1BlMG5nU0dwRQ?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 17:47:00 GMT"
+      "title": "Bayer and Natur-Tec plan compostable cups to cut nursery plastic waste - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeHJXNV9wVWwwd2xHRVJ4Z3VFeWNRbFBoanJ2Mkd6aVZIbDl5d2MzUDhYT3ZSakxNRjBDc3pQVllrVkNVbVNRV3p3am85eTdlQ1ZHMzREd3NmTTVpS0hPeXhHeHBESWlTRkhzd205V2FiVGdaeFNfVnljX3NuMkQ4U0ZCWVN4MGlHSFN1VHZOQTNLRHJuLXJPeVlwVmZScGh2bFlNRzM4Rmp4ZTBIdUx2Uzh3?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 21:00:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Tata Electronics reportedly clears pollution probe at iPhone plant in India - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONnBQZE1ndGYzdEhxMkVXVE1rZ1hEeDZaYTEyRDFrY000VjMyc19oT3F2LVExSG50QWdaZ18yZVJIMGFSUi1vVU1tRDZEMEN5T0hHZ1U3cHRFdjRZdlJPODVNVVhYSGdBVXVYeTBGT0pCeWlPaHNreXdjbzluUHVGTEUwMllpX0haWkJIUTdvVzVhcF9ERFhDOHE4bXlvaWhlbURpVW9ZdWpFWU5abEd2MGxwQjZ2YlNVcVlTdG9MMmFaVGRXVy1IcnUyVU1UVy1Bc0l3?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 17:47:22 GMT"
+      "title": "Emerging FX Index Edges Up on Peace Deal Ahead of Fed Meeting - Mint",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcDhadEVrNWo4ZWdtSjVLaV8xRmdRYkVyTTBuZERNT0tRekttbE5LQ2JXMmZramFkNUozZDY4YzlURWZ2QkRlT293RFdGcV9BVlczZVE5MTlVR3o4aklKcXdfdmFXNDdmZHdPV3Z0NVhLZ0Z3amFkT1RTbTd4eWFlZ01TRkhUVTlLS3Y2elNYRHhRb3RJLUlYQ3Y0dXVDRUFrYXk1VkxTTElHTnRkZUhHMjFlb9IBuAFBVV95cUxQTjhrajZPTmppb1BZVVlSNnFoVGQ1T0hfb1F5di0zQmxOMExiRFpPWEd5Ry1ST09HZXZlVlJHTkVLYTNsVTJISE5ZclhfWVZ5aWJYeW1uX0dMZjZheEJOWHgtR2R5ZXlWX2xMejhEY09FWEJReWNTTUpZMFN0d3k5OHY0Qm5KMl9lMGNNYW8wdkpZMlk4cW92TnMtUDh0YTgwVnRReHZJbUM3UmlCS0toaXlIVUw1LVlC?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 20:50:40 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Rice stocks climb to record high; wheat inventories at five-year peak - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajFpczRqSldabDc4Sy15bFREamY0RUxxNGNiaE1hSEp6bVdETFVXbDg5QWtsaXNVMjJnOTl6Wlo5Z0FkcHJfbW1iMnZZbDNBZ1BzcDF4c0FLejBFelhTXzlsN1BNS0xBS1JIS09oeVNNT1JOVGlKRVpieDBtVTB3bDNBeW9uQjRFM3R1UTVGWTlRSmVRaUk0TFNqR2hGTDk5YThLcWhsTmhnSEZUZ1huUDNtYkJMd0oxSUNLbTZITVVVM1pPUXZiUXFidjlFY3Zo0gHWAUFVX3lxTE1iZ096MnZ0Z000RTJwbUFzUDhtWUl4ZFFxcUpoY0xkMmoxcVE3YllQc0RWUFFuTm9RbEtnRU5BbnhWLThaNUZ1M01CQTdqTy1wSkkzRFRNblFzblJkVU81TlZsTHpMZDBlbTV4RTVOXzNRRWZpYTJUWFZ6ZU9GbVBkUThKUWJwNGxERUpnelhnZmVSMm5MWl8zYU1pbG1fLUtuUUhGWTQ3Vzd3bFM1VzlyWjlLTk44bklaREIxcTdDa254TVd2SV9iUnZIVkZaLS1iRkxKSGc?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 18:04:56 GMT"
+      "title": "Kajaria Ceramics fixes record date June 29, 2026 for buyback - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcDJtY2ptTEJFcHJxVmtGamdGRWFkamdQM2h4VzJ3NW5Od0dVcGtZQk1sYkhaVy1NSDVSNGJmLWlXZi05TnY3c2RxQkl4a3JHYzBpMzNxa3prRTUyY0FwMWJxZjg3cTFVbGJMbXZkZ0dVcUY5ZkhvVWZHNnJHaGRKS2J0c0Fmd25jeHdWQXlCNTdZcGdkS2dCNG5uUzhzUWQ3LUxyZHdGT3NLb2lndUdTTGtDb0gzVUlpTHVqdVRRLV9fN3h3ckZLb09R?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 20:48:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Man accuses nephew, his wife of Rs 10cr fraud - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPODJJSFVvanVzdDdTbmNQYms2LXhvS1NrMm1IU0ZjVmNfV01HX012RlZXTWlheWpDdldBVTZPU2VCMU1LTXd2RWE5c2VINjVVVmtWWGIyakJ5Q09OSjh0MVdRdkdWb3ZseTlPVFpjS2w5RllDaEVxRXp6MmFrYjJXZkxfQmU4bVJPUlk3Y3NsWXdBaXNzZ3FDN05adWUzems2aHhYaHFiM0Q0N0FYdF9salVpczZkYkpTd3BmRlBn0gHDAUFVX3lxTFB6WllFMEs1aHhXZE54eXFlUU1OOERzQTJ1UzA1TEY3cmVOS0J3QW5WVzNnUlNObE1DY2lYWlUwRW9SQU9MRlhHdFh5MnotVm1Wb2U0bUlIVFlmSlhoLXBhbkVLeV9rWmtUblRyUDJzYjl0MUE0ejZ1aXlWaHBlREZLNkhRYW1PMzk4Yi0zLTdBQTdHUnowa3lCVEpvRG42STNHVTVsYTZaejhEYUlPOEM3TWpBSmVKV0FuS0FrRExrdk1CTQ?oc=5",
-      "pubDate": "Tue, 16 Jun 2026 18:17:00 GMT"
+      "title": "ITC Ltd Stock (INE154A01025): Quiet session puts fundamentals and ownership in focus - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGJMYzVoM0RUd1hyU0xyVms4blU5TXZqNDE3UGhmR0l5cFI0MGJBQm81M3gtcXBHUVU5SzEtVDVBV2VFYVMwc1hWUENBTXFBVkZpMjg3MC1Uc0d0VEhMbjlCbFBILXlrNG5EYmI3dFNqTWdlREFsQkZkQ1RhVFl2VjdWQVFnODFxVF9kTzVYTG5HNnlqN3dLYlRTWjFYTGdXSER4b1cxNGJCU2owbkhSb1hBVldBRGhJZkg4TE1n?oc=5",
+      "pubDate": "Tue, 16 Jun 2026 20:42:44 GMT"
     }
   ],
-  "fetchedAt": 1781635591
+  "fetchedAt": 1781645889
 }
