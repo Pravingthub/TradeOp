@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Gold falls 1% after Fed holds rates steady, signals rate hike this year",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-1-after-fed-holds-rates-steady-signals-rate-hike-this-year/articleshow/131812361.cms",
+      "pubDate": "Thu, 18 Jun 2026 01:50:54 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Dollar jumps as Fed holds rates but projects one hike later this year",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-as-fed-holds-rates-but-projects-one-hike-later-this-year/articleshow/131812344.cms",
+      "pubDate": "Thu, 18 Jun 2026 01:45:46 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks: Nasdaq, S&amp;P fall over 1% as Fed holds rates; traders raise hike bets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-closes-lower-as-fed-signals-rates-may-move-higher-this-year/articleshow/131812282.cms",
+      "pubDate": "Thu, 18 Jun 2026 01:32:01 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Federal Reserve keeps interest rates unchanged, projects one rate hike for 2026",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-holds-rates-steady-at-kevin-warshs-first-fomc-meeting/articleshow/131808769.cms",
       "pubDate": "Wed, 17 Jun 2026 23:25:13 +0530"
@@ -13,22 +31,10 @@
       "pubDate": "Wed, 17 Jun 2026 22:12:40 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131805333.cms",
-      "pubDate": "Wed, 17 Jun 2026 21:14:31 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Market Trading Guide: Titagarh Rail among 2 stock recommendations for Thursday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-titagarh-rail-among-2-stock-recommendations-for-thursday/articleshow/131805155.cms",
-      "pubDate": "Wed, 17 Jun 2026 21:02:59 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "HDFC MF, ADIA among buyers as Sepia Investments offloads Rs 749 crore in Corona Remedies via block deal",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mf-adia-among-buyers-as-sepia-investments-offloads-rs-749-crore-in-corona-remedies-via-block-deal/articleshow/131804121.cms",
-      "pubDate": "Wed, 17 Jun 2026 20:12:31 +0530"
+      "src": "LiveMint Markets",
+      "title": "US Fed keeps rates unchanged as policymakers signal tighter policy ahead. What does it mean for Indian stock market?",
+      "link": "https://www.livemint.com/market/stock-market-news/us-fed-keeps-rates-unchanged-as-policymakers-signal-tighter-policy-ahead-what-does-it-mean-for-indian-stock-market-11781725429000.html",
+      "pubDate": "Thu, 18 Jun 2026 01:23:44 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -53,12 +59,6 @@
       "title": "Gold, silver rates today: Comex gold and silver remain steady ahead of US Fed policy decision",
       "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-and-silver-remain-steady-ahead-of-us-fed-policy-decision-11781705291245.html",
       "pubDate": "Wed, 17 Jun 2026 21:13:35 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Wall Street edges higher ahead of Federal Reserve rate decision, Broadcom jumps 4.4%, Applied Materials surges 8.6%",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-edges-higher-ahead-of-federal-reserve-rate-decision-broadcom-jumps-4-4-applied-materials-surges-86-11781707074178.html",
-      "pubDate": "Wed, 17 Jun 2026 20:50:50 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "NSE files IPO document with SEBI; mega listing plan revived after long delay - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDJZc05kWGVtTWhLOXNrQ1hxQjNUbVhtcHBkYkpPeWFoRmRnTXJ5LVFXeVU0c0dBRG1VN2QzUjlvWFpzN28wMEVlWGNMRkNqS3N6dng4UlJjalAwb21xV3JnbXRXb3FrbE1hXzd0MFQxQ1FXUVhlam5OYkRQRTlzNGE0YUZtNjNIbVFVQmtLZHZXc3ZtSERYWnI4WkVuSWVpcWJoNnpIbjJjTGJQcThtYnlPU2VMZVhMRHhoZWMtTmp0d21yTkFlMVg1aV9rRWo00gHXAUFVX3lxTE5nZDl6ejNGQl92ZU8xVUViR19hd2JyLUdxX20zNGt0U0RDMFlHMU8tYTRiM29TQ2IxbWRmTF9raTNsVlpSSmZxcHMwMk1GQl9zLTI5YVQxZW1xTVJyLVFHUXBlbVVldXZGcG9VZjItRS1QXzJXY1pUVHVCajVZT2NwYVliZjdSRmdhWEs1M2RaSUZtRWdjX3dmS1FVTk5pazc4QjktUzhXSzF1ZmZNc2c4eS1HZ1dHb1J2Rkp2aHgwWG5NZnRqOWpnek9JRWpDVFVrUTBqZGsw?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 18:57:33 GMT"
+      "title": "Foreign Investors Withdraw \u20b988,180 Cr from Indian Equities - Newsonair",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLThJemxjVTFSZXdrM0duWEFHTXdVZERncTdfZ3FhVkNneEo4Xy1VanFrZHRuZ0huQnBzRlJTaE9Lam5lYjBYZkpERnkzb2JVYUJVSGl0T1dURVJCd2RMRlhFSEdFTVAtbndEbDgydmNwVU1UbGJTZktJQnF0dmllUldYbW5naWlobV9RWEJoREtZVFhNSGc?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 20:11:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nifty indices command 73% of India's passive fund AUM as assets rise to Rs 8.1 trillion - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORFRZb0dVc19BTnNrU3ZaQkVWYmJVZ0lQX01wRzRjamZfNlEzWFJGc2p0a1Azc3djWGlkSkFNcjNDWXBySk1tZG5sRVh6VWFwWm91N2pNY0JjcC12MXRMbkNXR05mOHFMN215a3VqeklOUXZXU3FQdDlrd3pCQ2NhMnFSOXlqT2VOV2xkS2lSb0hsNS10cXl6S1dJdC0xeGNjMGdGWllFQTRHbHE0VmhaUWNZZ1NLblgyVFRmVEJrekt6MlpFMjlDWFM3QzBjdS1pRGlMVC1LcHpIckVDNFZUNTgtSDhXd9IB6wFBVV95cUxOdGRldnJTb2ZCZDl2RVgydG1IM1h4amo3NDV5akVzcWM1aWZzOXJDUmlmVHg1R2F1YUNmYlczSU54c05xTk5zYmN1Tlk4a1VOSldoUkJWN2k2NUJudDhlY21vbW0tdTJ1YjN0b08yNDFFSVRSU0pRc3lXVHlzaWRjVUZfcnVwT3MzZ2lES1VFVlVTb2FYbEZxTENiZTB2TV9fMHhhVUwwanZvZ2pRY0dONmhoLXJOclljQWhndEJKZWF1cXRKZnVKUWZqT1pxVGxSY1ZwTnNacWo0YzEyRkNXMExpb29mRlRXN0Zj?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 18:22:33 GMT"
+      "title": "Kumar Nair pledges 1.40 crore shares in Transwarranty Finance - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLXBpaGNFM0NMVzEyVVIwTkJLUTF6NS1MczFQQ05SbWFlcmlLTFhGZFNSTVlDVWVZWGFIdU9ZaTRSSmpHWmlqX3lOUkQyV05MaU04bEJXWlpkRUQ5MVBKQ3hMSzZLUVJlbVN6a21EOEktUW8tUFdLM2xDUjFvVlVhX25MdTc0U3JSNEVwbW5UZHFpSkJ6M1RPWmxqNHVQM005TnJkYWZYZjZNS1V3aWlOakpQc2pTY0ZaeUE?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 20:21:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE IPO: India's Biggest Public Offering At Rs 30,000 Crore To Surpass Hyundai, LIC Records - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGNwaTNDWlZtWTZlcExPSk5RLW1USExCeTUzWGg1ZlZtVnNoQTZFWk5xbVlZT21BWERRVkQxMWE0cmNwTkNDSFU2dWcxWEtHamcwOFJBeC1uN0xCWThBS0RGbHhtV0RiZlgxaFZ3MnlyTE54elVrQWZOM0FXbkhPR1dmLTNTQnZKSUd3RjBkdEpQMUdhSXRYYWttWWNIbS03aHB4MzRSbFdWLU1RVEdTemZleHlnX2MxemxMVWVfQWlORXhhTEJzRzdwX19FWV9oUUE?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 18:25:24 GMT"
+      "title": "RBI allows banks to offer higher interest on NRI deposits to draw more foreign funds - The Shillong Times",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSnhyektSUUVyZkdmTHlVSHlPTWxMZ0FZeTlHY1FIZkVJbGhGVGk5SVYxSlUyUzFEQW5zVkVWQ1pPUTMxa19RV0laMmpfeHBoT3NFVG5WT2RzM0dYWS1sYWNDODQ4V05PNVZTTmVyRjFYdUJUMnVYZnhjQzJ1a1NwQkVmdG1rbFV6RERyTVNDMm1EcGlvZHNyNEJ2TnF3RTc3X0pyTUt6Z2ZJQmVWXzJxekZQbXlNZE9wang0eVZ3QkczM1k?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 20:37:37 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Zerodha, Groww, Angel One, Upstox approved for US stock trading - Indiatimes",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGYzdXk4dTlleHp4WE9JODJlTXhsZ2Y0YmpzY19oTVhQMUNZQ1BMNEZhZE00UG1ZWWJKZEpDY1UtWk5hT29VUjhMeXhzNlprNWFabFRUT1E1Ul9qX3JjTEJqbHpiSEtLMDJOUnV3MnBqRGlWWnRFWHVHTUhXMHdaM1lPcW9wX1JQVl9KU1VpZFNRYXpQaDlUYVFuem0zeXNBem5QTXFxeVBhZ3diSDRBWlZhdVJiOGZuMlJEbEdTUHJSaUJRcjc0?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 18:53:22 GMT"
+      "title": "NO RATE CUT! New Fed Chair Kevin Warsh keeps interest rates unchanged; drops forward guidance - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORkx4dU9xbGJpU29WbXM5d0FXOXBqdENrcFlwVW1PUUxCNFVMVHFtcVpOWmJfVU5QS3pIMkhCd1V5eDVadGRvdk4yVXpzVVRfb0pMb1NhVEl3eDh1ekQ0WVhHOG1vLTg3UjVpT1d5TG5QMWdNWmpqN01JUm56UEwyWS14a25HUEFNTk53U1gyb1RRMzhoMXgzZDhTVnYyN1M3SkcxSE5uTjZVWGVxN1FDajF5LWxDakRBRmF3d2xROTBlUWQ0LU1md2VaUGRYMGNTYXc1MjdlbGxyRjIwbElHcU9McW5JTVpMNTJmLTlHNFprV2p1SDZTdzNPUllQdTVnTzgw0gGIAkFVX3lxTE9RUmNNNF8wMUo0WDJCUndYQjFwVmRaeUpHckNlWkdGYUJiMmVYUnUxSkpIYS1ITWViVlJ4aDN2NUVWTXRXVFc3b1hLcVByOWt3aUhUbTRRYXc5b0VXeDNWYnpKaDdENWtoaFZWQnhKU1luTDN1QmNSZkVKRUZDSDIyYUJRM2pZV3pQN3dQSUt3Qk1lUmF3M0NYQXBTdERlQUloeEloMEF2V3JmM3JEQzdnNHRFZUZDTlZOUi14QW9KaHpMSVNLUm9rWk8wQjZqRlRNdTBWbWV5TDlBdVhuWl9IMmstVWVyU0YzdVRXVEZTNEg5bjN3UnVHRkdIdlItOUdmRjFLMklHZw?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 20:45:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "CDSL schedules analyst meetings with Citadel, Millennium - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTlXX0g4SnMtaF9WVE5TWkU4eUthMFpYWWVTUldSalJnNmtqc2dwYktaS1ZlSTFHUTlaVjBQX2V3SkNLcTlnRnpsdlBndDNmZGN3dkJoZWNNV29rZDkwMXpWdXJBTFk5cnJKenJ3c1ZIdHMxUmVxVjlHVnNJbWRHcHg2V3hqR05WS0Z6LVlBdU1IdFFkdHFWS2h0QUc2WF9GLUZGdkxZckFra1k5eF9UajRR?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 18:51:58 GMT"
+      "title": "MTAR Technologies to host analyst meet and plant visit on June 22 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPc2cxUFd3a0NiNS1pbzkxQUcwN29FeHZhOTYwaTJOMk5uU1hrTXJQMmVXWldMNFZISXI5TTgxNlI4ZkZLZHVMLTRKRFgwT20wVjd0dTNPYnpQWGI1V2pjSV9NU05yQmRvSU4yTEkxMTZYeXFqa2diNTJRZlVoMHl2ejVuUnpzT1ZvbWFULUdXR2dJdnJLbVcxWGxuaTN5djVkcWJNSHdpT3NzX2stQUVFbnBzY2pEU2lkaVJMQWxnMA?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 21:01:59 GMT"
     }
   ],
-  "fetchedAt": 1781723606
+  "fetchedAt": 1781730455
 }
