@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US Federal Reserve keeps interest rates unchanged, projects one rate hike for 2026",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-holds-rates-steady-at-kevin-warshs-first-fomc-meeting/articleshow/131808769.cms",
+      "pubDate": "Wed, 17 Jun 2026 23:25:13 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "NSE files DRHP for mega $3 billion IPO, SBI among 10 investors to sell stake",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-files-drhp-for-mega-2-billion-ipo-sbi-among-10-investors-to-sell-stake/articleshow/131806888.cms",
+      "pubDate": "Wed, 17 Jun 2026 22:12:40 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/131805333.cms",
       "pubDate": "Wed, 17 Jun 2026 21:14:31 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Wed, 17 Jun 2026 20:12:31 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Rupee hits six-week high on RBI measures and dollar inflow hopes",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-six-week-high-on-rbi-measures-and-dollar-inflow-hopes/articleshow/131802645.cms",
-      "pubDate": "Wed, 17 Jun 2026 19:27:56 +0530"
+      "src": "LiveMint Markets",
+      "title": "US Fed keeps rates unchanged for fourth straight meeting at 3.5%\u20133.75%: 5 key takeaways",
+      "link": "https://www.livemint.com/market/stock-market-news/us-fed-keeps-rates-unchanged-for-fourth-straight-meeting-at-3-5-3-75-5-key-takeaways-11781716912119.html",
+      "pubDate": "Wed, 17 Jun 2026 23:34:22 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US stocks: US market ticks up ahead of first Fed policy decision under Warsh",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-stocks-open-higher-ahead-of-kevin-warshs-first-fed-meeting/articleshow/131802212.cms",
-      "pubDate": "Wed, 17 Jun 2026 19:04:06 +0530"
+      "src": "LiveMint Markets",
+      "title": "NSE files DRHP for potentially India\u2019s biggest-ever IPO, valuation seen at  \u20b95 trillion",
+      "link": "https://www.livemint.com/market/ipo/nse-ipo-drhp-stock-markets-india-sebi-institutional-investors-stock-exchanges-11781681388287.html",
+      "pubDate": "Wed, 17 Jun 2026 22:16:43 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,16 +61,16 @@
       "pubDate": "Wed, 17 Jun 2026 20:50:50 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Govt's 5% GIC Re offer for sale fully subscribed; boosts FY27 divestment drive",
-      "link": "https://www.livemint.com/market/govts-5-gic-re-ofs-fully-subscribed-boosts-fy27-divestment-drive-11781703845875.html",
-      "pubDate": "Wed, 17 Jun 2026 19:46:53 +0530"
+      "src": "CNBC TV18",
+      "title": "DOMS Industries block deal: SBI MF, Axis MF buy as FILA sells 7% stake for \u20b9935 cr",
+      "link": "https://www.cnbctv18.com/market/sbi-mutual-fund-axis-mutual-fund-acquire-doms-shares-as-fila-sells-7-pc-stake-for-rs-935-cr-via-block-deal-19927471.htm",
+      "pubDate": "Thu, 18 Jun 2026 00:02:51 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Turtlemint Fintech Solutions IPO to open on Friday: 10 key things to know from RHP before you subscribe to  \u20b9883 crore",
-      "link": "https://www.livemint.com/market/stock-market-news/turtlemint-fintech-solutions-ipo-to-open-on-friday-10-key-things-to-know-from-rhp-before-you-subscribe-to-rs-883-crore-11781701771088.html",
-      "pubDate": "Wed, 17 Jun 2026 19:35:27 +0530"
+      "src": "CNBC TV18",
+      "title": "NSE files DRHP for IPO; 14.89 cr shares on offer through OFS, LIC not participating",
+      "link": "https://www.cnbctv18.com/market/nse-ipo-drhp-filed-ofs-sebi-lic-not-selling-stake-19927473.htm",
+      "pubDate": "Wed, 17 Jun 2026 23:06:25 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -79,47 +91,35 @@
       "pubDate": "Wed, 17 Jun 2026 20:04:15 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "AI credit markets at risk of 'violent' correction and investors must stay clear-eyed, Man Group says",
-      "link": "https://www.cnbctv18.com/market/ai-credit-markets-at-risk-of-violent-correction-and-investors-must-stay-clear-eyed-man-group-says-19927403.htm",
-      "pubDate": "Wed, 17 Jun 2026 20:02:48 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "US stocks edge higher as tech recovers; Markets await Fed decision under Kevin Warsh",
-      "link": "https://www.cnbctv18.com/market/us-stocks-edge-higher-tech-rebound-fed-decision-kevin-warsh-19927394.htm",
-      "pubDate": "Wed, 17 Jun 2026 19:45:13 +0530"
+      "src": "Google India News",
+      "title": "NSE files IPO document with SEBI; mega listing plan revived after long delay - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZDJZc05kWGVtTWhLOXNrQ1hxQjNUbVhtcHBkYkpPeWFoRmRnTXJ5LVFXeVU0c0dBRG1VN2QzUjlvWFpzN28wMEVlWGNMRkNqS3N6dng4UlJjalAwb21xV3JnbXRXb3FrbE1hXzd0MFQxQ1FXUVhlam5OYkRQRTlzNGE0YUZtNjNIbVFVQmtLZHZXc3ZtSERYWnI4WkVuSWVpcWJoNnpIbjJjTGJQcThtYnlPU2VMZVhMRHhoZWMtTmp0d21yTkFlMVg1aV9rRWo00gHXAUFVX3lxTE5nZDl6ejNGQl92ZU8xVUViR19hd2JyLUdxX20zNGt0U0RDMFlHMU8tYTRiM29TQ2IxbWRmTF9raTNsVlpSSmZxcHMwMk1GQl9zLTI5YVQxZW1xTVJyLVFHUXBlbVVldXZGcG9VZjItRS1QXzJXY1pUVHVCajVZT2NwYVliZjdSRmdhWEs1M2RaSUZtRWdjX3dmS1FVTk5pazc4QjktUzhXSzF1ZmZNc2c4eS1HZ1dHb1J2Rkp2aHgwWG5NZnRqOWpnek9JRWpDVFVrUTBqZGsw?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 18:57:33 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Multibagger defence stock NIBE to be in focus on Thursday after demonstrating Garudastra to Indian Army - Mint",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPbmdMaVVlUG4zcjdsN2JTRTBFaUhtaEhiclI1ZUUtVlVTTURhOVFNemgwZWI1X1ZyYU5OUXJFaXJUQmFvUHRIWmlUN01ObllkTTlVcXp3QVA4VERnT21pNFBUYkQ5UDdXUmJwU2NZTHp0ZGg5dXFoQzBVbmhRV25tYkpxYTNiYXdXUjFGc1FmcjNUdUh6OVZObW9WdWJWdGZkWlVOaVQ2aHlWa2JyaklvU0lkblItTDZvSC1Cai1SWnJRY1FZNzBHSlpINmg1Z2Vhc1ctZnlSWkREWXJLbGtJajd0LS1Wb0N0WDI2QWdJb055Z09rNXZ2V2w5SkYyaWJCbEVr0gGIAkFVX3lxTFBqMVVGdHR0ZjJrTnFxSzM0SklaVWhBZDREcF9OTFVBczlXMVc3cU5QWmpkdkJHRkFCeUxNQzc1RVZ5ejFCaGFOTFoyaDdrOG1xYVVsVGNwcmFISDVlVHhhNFNqaVFDdk9ZRGh0SDBfZWtBaGRNQkxwZTR4RzIyZmg0bXA4ZU92S1JxcWZzZWtQbHNDZXFUek8yaG0wTFpJY2JhNzFSRGdnNGE3Z0VKRHpJSUVJZlBCNDBUZWdaLUNoU0diWGtEalRsQndoWFlCa1ViNlhIQ25mWGFEbEhhS0VOMXVmZEJQZWtEX19ZZjFjTmJLcGFnelhmbHhOcDlwdGJTYVpzLXNzUA?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 16:35:54 GMT"
+      "title": "Nifty indices command 73% of India's passive fund AUM as assets rise to Rs 8.1 trillion - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxORFRZb0dVc19BTnNrU3ZaQkVWYmJVZ0lQX01wRzRjamZfNlEzWFJGc2p0a1Azc3djWGlkSkFNcjNDWXBySk1tZG5sRVh6VWFwWm91N2pNY0JjcC12MXRMbkNXR05mOHFMN215a3VqeklOUXZXU3FQdDlrd3pCQ2NhMnFSOXlqT2VOV2xkS2lSb0hsNS10cXl6S1dJdC0xeGNjMGdGWllFQTRHbHE0VmhaUWNZZ1NLblgyVFRmVEJrekt6MlpFMjlDWFM3QzBjdS1pRGlMVC1LcHpIckVDNFZUNTgtSDhXd9IB6wFBVV95cUxOdGRldnJTb2ZCZDl2RVgydG1IM1h4amo3NDV5akVzcWM1aWZzOXJDUmlmVHg1R2F1YUNmYlczSU54c05xTk5zYmN1Tlk4a1VOSldoUkJWN2k2NUJudDhlY21vbW0tdTJ1YjN0b08yNDFFSVRSU0pRc3lXVHlzaWRjVUZfcnVwT3MzZ2lES1VFVlVTb2FYbEZxTENiZTB2TV9fMHhhVUwwanZvZ2pRY0dONmhoLXJOclljQWhndEJKZWF1cXRKZnVKUWZqT1pxVGxSY1ZwTnNacWo0YzEyRkNXMExpb29mRlRXN0Zj?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 18:22:33 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Welspun Corp to attend IIFL Invest India Conference in London - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQXRRQUV3ODZNaUtsMHdxRDNWaFdaMXBOSVFCcDR1VnNVelBwZ2VMSnZDdGx4aVlteE9rcnVuVTFuazExaTNSQzdRVFJ4emlrXzFIRDJlWXNMVmJyWWpMSXkzUmlXSlZmaHJvUEN0WE9vcGM3Y0t1MDNvbV9qbG5Ubm1CN0ZNZjc0MzFWWHVyWmVoc00yRWxmcG5yNzlZaTZ5TjhzQUdOV1V6V3ljLXhrU2ZrdEVCQUtEY0E?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 16:11:53 GMT"
+      "title": "NSE IPO: India's Biggest Public Offering At Rs 30,000 Crore To Surpass Hyundai, LIC Records - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGNwaTNDWlZtWTZlcExPSk5RLW1USExCeTUzWGg1ZlZtVnNoQTZFWk5xbVlZT21BWERRVkQxMWE0cmNwTkNDSFU2dWcxWEtHamcwOFJBeC1uN0xCWThBS0RGbHhtV0RiZlgxaFZ3MnlyTE54elVrQWZOM0FXbkhPR1dmLTNTQnZKSUd3RjBkdEpQMUdhSXRYYWttWWNIbS03aHB4MzRSbFdWLU1RVEdTemZleHlnX2MxemxMVWVfQWlORXhhTEJzRzdwX19FWV9oUUE?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 18:25:24 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYW80UFdBOVNkbnQycVFOSUhmVEZrMmR6ME9QWWRtcld2V0Vfa3VQTlliRGdRQm52c25xTzBkTXU2TGxDdV9SVkk1NUt6Z3F0bFAwQmhVQ0FCbjhaQ1lkV1NHN1c3aTRkeUNIY1JqOFF2TzRYN0ZZd3FrYl9hNGNpdDNVekNMbTZtclZYNDdtT1ZDb0NwcFBzbW40OEg0SEc2QVpOY2RKek80SV9xSjRGOHBmQk9YaUdJcHdybnR1bHhWaEJQQU5fb2JVWlVJckNtR0pEaDdLTG11blpTVjd0VWFR0gHnAUFVX3lxTE1ZQU1vUWdjTTd5U2M0WWlsN052TE1PQ3gwTDVsa3NoWW9qQzI1bGZkZjNZbU9oUVM0MzUtdFBoNGRoTjZ5Y1c0NkFhbjBBa2QyVVpEWWRnQ3kzQWpaOVNLdkxVX3BFQlFFSW9UMm5qelRtLWYxWHZuZnF6VTZuaGtDeVI2WFAtOVJWdkZuRF9uSVU4RlNzbUtiaVZXcTljQlRxREhzd3dzNjZHOG5WaTJIbkJJWDFTdHpUbnh4S1JLdE9GbERydFIyRnpMczh1QXM0ZEwyanR1T3kzLVFVNGlSRGhpZ3FpVQ?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 15:44:31 GMT"
+      "title": "Zerodha, Groww, Angel One, Upstox approved for US stock trading - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONGYzdXk4dTlleHp4WE9JODJlTXhsZ2Y0YmpzY19oTVhQMUNZQ1BMNEZhZE00UG1ZWWJKZEpDY1UtWk5hT29VUjhMeXhzNlprNWFabFRUT1E1Ul9qX3JjTEJqbHpiSEtLMDJOUnV3MnBqRGlWWnRFWHVHTUhXMHdaM1lPcW9wX1JQVl9KU1VpZFNRYXpQaDlUYVFuem0zeXNBem5QTXFxeVBhZ3diSDRBWlZhdVJiOGZuMlJEbEdTUHJSaUJRcjc0?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 18:53:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "South Indian Bank relieves Chief General Manager Biji S S - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXJxX2lqdXlPMkxKOGowdFJEMUdQN1h2TmFuNE1wYTM2RVFlQ0Y1Z0hlck1MRTU0RXp5RDEySGE5Ykw5cWxRcmxWNm9IenhYZ3plSmFKUWxxWk9aY1lhTVo3a2UtR0FqSG1nSFVKeXJQUFNfXzlJQXhlZjZCNERreVJwZHo3Sm1qeGVyUjljTWo2ZWp5Nmh3dzAwMEx2TVJObVc0T2U4bm1KUDFlWFFzaDR3bmU?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 15:51:52 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "#Trump Calls #PMModi A 'Killer' & 'Angel' During #India-#U.S. Bilateral Talks At #G7Summit | #WATCH - Mint",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcGE3dDdyRHhwczBMWnNlWDFHZU9Nc1dvMEdhc0FwOUZhTHEwS01odl8tSkI5Z0Z1Mm94enJNeEZEMi1VNWxUY01BS2RRM2F6aHU0eFV1V0pvSHUyUFcySkIwa0ZXMTNOZnJXTlNWSVhBRVlYVXk5VmcxTENIVnh6ZC03VGhBU0dJSmFta0FJeFl0RUNyWXdrUVZSMWViM2dJTVBWOTgyb3ZFRjk1VWJmYUVPSUowYXlfZ3dmUlJ6Vlhjb091MXRLMHpUbjhVMXYzckHSAdcBQVVfeXFMUFV2Zl9WYldwN1F6N09BUmN5SXAwTnlIcXJVQXZ1MjBuU2hRbzhaZ0xUUXZPQlo1QkFzRVYxRk1SeTVKX1JqOXF1Q0FnNldUZVlWd2dBZ2VLZFdVay0yRURBeGp0WURaTFFPcEZrVnpxV2p3d3lKMEwwMDB3QUE0bkxxMThQOERxTVlFaGpES0VGdGVpNmlNalZmVVRreFlvS3hkYVNqeXZzcHczT2tsa295NkNCdWVnTDM0SFdHN3FGTmlMek1IbUZFY2k3NVRIUFllbzVvTmM?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 16:35:43 GMT"
+      "title": "CDSL schedules analyst meetings with Citadel, Millennium - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZTlXX0g4SnMtaF9WVE5TWkU4eUthMFpYWWVTUldSalJnNmtqc2dwYktaS1ZlSTFHUTlaVjBQX2V3SkNLcTlnRnpsdlBndDNmZGN3dkJoZWNNV29rZDkwMXpWdXJBTFk5cnJKenJ3c1ZIdHMxUmVxVjlHVnNJbWRHcHg2V3hqR05WS0Z6LVlBdU1IdFFkdHFWS2h0QUc2WF9GLUZGdkxZckFra1k5eF9UajRR?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 18:51:58 GMT"
     }
   ],
-  "fetchedAt": 1781714429
+  "fetchedAt": 1781723606
 }
