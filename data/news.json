@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Shares worth $26 billion can soon hit market as IPO lock-ins end",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shares-worth-26-billion-can-soon-hit-market-as-ipo-lock-ins-end/articleshow/131814886.cms",
+      "pubDate": "Thu, 18 Jun 2026 05:42:43 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "India's m-cap tops $5 trillion, climbs back into global top six",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-m-cap-tops-5-trillion-climbs-back-into-global-top-six/articleshow/131814860.cms",
+      "pubDate": "Thu, 18 Jun 2026 05:33:18 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Fed begins Warsh era with rate hold, sees hike possible later in 2026",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-begins-warsh-era-with-rate-hold-sees-hike-possible-later-in-2026/articleshow/131814844.cms",
+      "pubDate": "Thu, 18 Jun 2026 05:25:45 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Gold falls 1% after Fed holds rates steady, signals rate hike this year",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-falls-1-after-fed-holds-rates-steady-signals-rate-hike-this-year/articleshow/131812361.cms",
       "pubDate": "Thu, 18 Jun 2026 01:50:54 +0530"
@@ -11,24 +29,6 @@
       "title": "Dollar jumps as Fed holds rates but projects one hike later this year",
       "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-as-fed-holds-rates-but-projects-one-hike-later-this-year/articleshow/131812344.cms",
       "pubDate": "Thu, 18 Jun 2026 01:45:46 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US stocks: Nasdaq, S&amp;P fall over 1% as Fed holds rates; traders raise hike bets",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-closes-lower-as-fed-signals-rates-may-move-higher-this-year/articleshow/131812282.cms",
-      "pubDate": "Thu, 18 Jun 2026 01:32:01 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US Federal Reserve keeps interest rates unchanged, projects one rate hike for 2026",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-holds-rates-steady-at-kevin-warshs-first-fomc-meeting/articleshow/131808769.cms",
-      "pubDate": "Wed, 17 Jun 2026 23:25:13 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "NSE files DRHP for mega $3 billion IPO, SBI among 10 investors to sell stake",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-files-drhp-for-mega-2-billion-ipo-sbi-among-10-investors-to-sell-stake/articleshow/131806888.cms",
-      "pubDate": "Wed, 17 Jun 2026 22:12:40 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,18 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "'Buy Vedanta Aluminium', Citi says calling it top India metal pick; Here are four reasons why",
+      "link": "https://www.cnbctv18.com/market/vedanta-aluminium-share-price-citi-says-buy-target-upside-triggers-top-metal-pick-19927496.htm",
+      "pubDate": "Thu, 18 Jun 2026 05:10:32 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Explained - Why did the Dow Jones fall 800 points from highs on Wednesday",
+      "link": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-why-us-markets-fell-on-wednesday-fed-decision-yields-dollar-19927494.htm",
+      "pubDate": "Thu, 18 Jun 2026 04:53:23 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "DOMS Industries block deal: SBI MF, Axis MF buy as FILA sells 7% stake for \u20b9935 cr",
       "link": "https://www.cnbctv18.com/market/sbi-mutual-fund-axis-mutual-fund-acquire-doms-shares-as-fila-sells-7-pc-stake-for-rs-935-cr-via-block-deal-19927471.htm",
       "pubDate": "Thu, 18 Jun 2026 00:02:51 +0530"
@@ -79,47 +91,35 @@
       "pubDate": "Wed, 17 Jun 2026 21:15:33 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "What\u2019s likely to move markets in the next trading session on June 18?",
-      "link": "https://www.cnbctv18.com/market/whats-likely-to-move-markets-in-the-next-trading-session-on-june-18-19927388.htm",
-      "pubDate": "Wed, 17 Jun 2026 21:02:39 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "FIIs buy \u20b9102 crore, DIIs add \u20b91,561 crore as markets climb for fourth day",
-      "link": "https://www.cnbctv18.com/market/fiis-buy-rs-102-crore-diis-add-rs-1561-crore-as-markets-climb-for-fourth-day-19927365.htm",
-      "pubDate": "Wed, 17 Jun 2026 20:04:15 +0530"
+      "src": "Google India News",
+      "title": "What Is Engineers India Limited's (NSE:ENGINERSIN) Share Price Doing? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeEtqWDRmWUR1OW9TOGlLdWp3Ty1LNk13Q2tYOXd0MHJVd08yRVNLMmMwTWM5SkRnNUU2MU9qUmlWRnlNN3V1emJHaFB1Wi1ZUDNSNXhHUUYzaGlxZmlCYnRYVGZzTlJJQlQ4bnAzYldudGxTS1FoWkVrTlpVb095M1lvcHNlcUlNaFVuaVVsX0o1d2d4WVBhZG5jN2laMlhuRzJBUmd6czdVZklma0laVTJSaWJhQWtIRlNpUVlFei1sczBPenNkLUdMTDQzTGx1cWhmZkl5VHV5emxMbjFPajhMZ9IB6AFBVV95cUxPZkJ1ZFdaY1R6TDhTVEtjeG03UXZXYzRqS1c3MDNMd1dyZW5fc1JmMVFPVmFTX1VsWWVzeVpLSk5CR2tnR1BoblNLMFBaaXZYdmdhVy1iaVdRZU0zLWlVNWpTclN5MEpueEpPQ0dMRUNMYWlGT1NXTDJyUUNtVzRKdHVFWUpBRUpzV2tCUkxJNU9OOE5JZUlia0x1RGtPaENBamxLSDBYZDJmRlZLdVhzeEh6TUxEX0FWRFJNVkRBUlEtd1g2VnF3WjJyTXo4VkFHMUVEZ1ZRbUdmRTdRSFZWRFdwTkp6V3Nj?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 00:10:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Promoter declares no encumbrance on Indian Card Clothing shares - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON2w2SWhYTTQ2eHhzUkVheW1jSDY2bGx2S3dwVjZLS2N3R2VPRHBjZ0doUmg4YXlYWUJxdFVlUVpOWjFjbGU5bmpzaUQtUk0wUUE3VGFKVWZGWDN0MmJkUk9VTk9fSGxDTFJYRnVzOWpYLTlsMERTUXpNNndGU1dkTTRaMnFLNVZQMWFpQW9VZXYxQmdRRUcxcmFqWjRoMGxSanpSZ1dBNnkycFRGZWhLMmtiMzJWR1czSVhtSQ?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 22:52:08 GMT"
+      "title": "Asian stocks, bonds poised to fall on hawkish Fed - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLTFKbVBoankxM3FhSlUwS2NudjJ1MW1DWnlsWmhiQWo3UkJqY3VQWUpCdDhiNThTbkpzeWticTBZZXI4SGItajY2dE56dV9MWmhJWE5lTm9qc3ZYaWwxUzdWSjNsc1VBdW5VOGUzalczbmd4dVRibERzQ3dyRS1ybVlFdk5ONDBUbXpwT2VfeWQ2NkwyZ2ExREpYUjhlTEU3M3luaW43VG16dTVzQ0HSAa4BQVVfeXFMTi0xSm1QaGp5MTNxYUpVMEtjbnYydTFtQ1p5bFpoYkFqN1JCamN1UFlKQnQ4YjU4U25Kc3lrYnEwWWVyOEhiLWo2NnROenVfTFpoSVhOZU5vanN2WGlsMVM3VkozbHNVQXVuVThlM2pXM25neHVUYmxEc0N3ckUtcm1ZRXZOTjQwVG16cE9lX3lkNjZMMmdhMURKWFI4ZUxFNzN5bmluN1RtenU1c0NB?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 00:13:32 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Elfin Agro India Ltd Share Price - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMGI0THphTkJRZEhBWDhJdHhMeG9wMnd3MFJrSXdqbnFvcWwySjNCZllFLXRQc25ucTE2MnhCV0R6d2tmR0hvbkhDU1F3V3N4SElUbkpMa1lCQVM0VWpsa1c0aDNrUFdkU2dGSkdlaDhwcDVEckxJQ01uczN6aGFSeg?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 21:59:33 GMT"
+      "title": "India\u2019s top exchange NSE files IPO draft papers after years of delay, eyes $55 billion valuation - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcnNRMkp5NXI2RDVKWXlUakhQM2dLMHlxSm9uS000MnQzdE9rck5sZ0FtRmEwT3luVURBWFd5dVp2eThuMkVPOW9IN2ozVmp0NlN3QXgtdjRZLVZNNm03bEVNUFptWXR3cUpJU3BzdGpCQ0RkSENoS1Nubk0zZHBrdFBGZmdwdWZjME11VUx4MzI2bEdEOURtZW9MY204bHhPUm9LbHFVY05rOF95dzNmXzhiWnNBc2JiQzhUZUVka3NoeFBTZ2lpT08tTzdRZEdIRERKUnloaVNzRG1IYnhRX9IB5gFBVV95cUxNODl6NlQtNDZIRjVpRWdXNlNjeVBMTmFvRTBvZHZPckJCZl9MR1N4aDg1MVEwSXdQXzlFUjFsdTRZWXE5OVBzb1pvR1BtcnZOOFVKcHpjYVBWazZOYVFrYWg4QTctdWxqUmRfV0wtWk5TMDdFRXhHSHZKNlZpQXptVnhvQWJIRU5KWWpLamlkTU0yVVVlWXNpcllLT09ZQXFTRnk5alhmQzFEN0lTdUd6d0ctc0l0cXA0ckt3X2duQ2xON3NDOFkxc1EzXzdnQXZPQ2ZCR3hIMkgzWkFid042b25udWp3UQ?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 00:11:51 GMT"
     },
     {
       "src": "Google India News",
-      "title": "ICML declares no encumbrance on RPSG Ventures shares in FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUlOSzNjUENfU3hHR2ZtRHdnVEszc28zRnZpZ09zWjBkQU5IaEVXZ2FDd0VBQ2FiN0NmbVV3aG1NMFhpZVBkT21lQm1LV0M0NTNOWEtuX2s2a0hrZENsRWdpRjJscmcyaG83Zy1nUGhSbjFORFg0cXZNRklEX3pFcnJHWElxeVlhVGtxZWxxcnp4eFNnZUtOSjhuU1p1aC11NlNkTzN5X1ZxZUtBQjJEVEtoVTg2eUhk?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 22:45:52 GMT"
+      "title": "India's m-cap tops $5 trillion, climbs back into global top six - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTnh3UmhONU1EbzFTZTk1QlZDUTU2TEdwTk1wNUM0TFYzOUNQekNjLXpBWEd5VERUTWp6cXJQV0luR293OHNQSWdJaVZZQTJ4YUNrMVlWa2Zqc2FtNWVLVUlFbVd3R1pUb3huYklEdDFWZFhDdXBiVjBGNGxmT2ZQNWxRSFExbHhCczlndHBnNGJ3ZER5bDlLWk50QjkxR2RGUjJpVnJDa3dpRmZKbml1SUt2WHhRZzRoZWhyYW53SF9mSGRLWnJQQTE3cXRRTHM?oc=5",
+      "pubDate": "Thu, 18 Jun 2026 00:03:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Govt holds 23.37 crore RailTel shares, no encumbrance in FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcU9SdWkzYXZwZFl4MHBUNmtISWVKbFFFaXE4dS1qTWhVZURlbEsxZlMxQzVJY3VaeXpuWUdYamRUVjFQWUJpTTM3N2JYanA1UGNXeUd5SEY4LS1FNGFaS0laN3hLRHpZNVRlYUhxMTM5UFdFMWJJb0N6Y0pSbXBEdVU5b1NhR25HNm1RSWhBUTdSYzNfM3VqNndHc2g3bno2SGRtcXdWUDJlT0laZTE2NGxiWkJTOTVM?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 22:45:52 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Xchanging (Mauritius) holds 58 million shares, no encumbrance in FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUGFoLS1qc0FaUEtha25WMDNPZXdRUXZfb2pUck04VHFKQ2ZBS1dVeGl0TmJkWkpaMllaMHFuV0p6VWU3YmVYUGNPUFNOWFVpMzZuYjJITzh2R2FzYVRTLTRGN3c5NWZKOFUxeHZtMENIczF0Z0RWRmtlbzZBR1QwTkd4bEZMNTRKUUxUM2UyZkIzQTJnbDdyWEJDVkxQRXlhaHhFLXJyVGdFekJnSUI2VExuQUFfN08ydnVWWDVwRDY?oc=5",
-      "pubDate": "Wed, 17 Jun 2026 22:57:09 GMT"
+      "title": "Knowledge Realty Trust Submits Annual Report for Financial Year Ended March 31, 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWHhJdGFOTGNmcXYweWJrVVVPaXUtM2VLcDQyU3pkRVVLQ2dNLTlYNmJaVFNzTlVrdXVoRDU0RUtMZU1XVkwwVjlHS0tRcXktRm1zYlBnVWJhZE8xUEVDZTdCMGNoUWZqOWdWbTdmU2FQUlpqMUwzQnZfbHUzNXI1TTllek1jeEhUSW4wNEVpZS1UeF83bmxWU0JvT2hiTi13c1FTN05XbVFSYS10WDRucjJSZDVRZXRYWkRMVGNybHlVcVIzS3d4WHBoRk9aU0VkcWpiNk9oTQ?oc=5",
+      "pubDate": "Wed, 17 Jun 2026 23:27:33 GMT"
     }
   ],
-  "fetchedAt": 1781737125
+  "fetchedAt": 1781742040
 }
