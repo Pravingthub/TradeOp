@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US Stock: S&amp;P, Nasdaq end lower on semiconductor selloff as AI spending concerns mount",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-sp-nasdaq-end-lower-on-semiconductor-selloff-as-ai-spending-concerns-mount/articleshow/131949698.cms",
+      "pubDate": "Wed, 24 Jun 2026 01:32:23 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: SpaceX draws $89 billion demand for debut high-grade bond sale",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-draws-89-billion-demand-for-debut-high-grade-bond-sale/articleshow/131944303.cms",
       "pubDate": "Tue, 23 Jun 2026 22:19:06 +0530"
@@ -23,12 +29,6 @@
       "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/131941638.cms",
       "pubDate": "Tue, 23 Jun 2026 20:32:11 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US Stocks Today | Chip stocks plunge, but bargain-hunters stem losses in other tech names",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-chip-stocks-plunge-but-bargain-hunters-stem-losses-in-other-tech-names/articleshow/131941564.cms",
-      "pubDate": "Tue, 23 Jun 2026 20:29:09 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Why Vedanta's promoter just sold shares worth \u20b91,896 crore",
+      "link": "https://www.cnbctv18.com/market/why-vedantas-promoter-just-sold-shares-worth-rs-1896-crore-19931009.htm",
+      "pubDate": "Tue, 23 Jun 2026 23:41:51 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Craftsman Automation promoter sells 2% stake for \u20b9486 crore in block deal",
       "link": "https://www.cnbctv18.com/market/stocks/craftsman-automation-share-price-promoter-sells-2-stake-for-rs-486-crore-in-block-deal-19930994.htm",
       "pubDate": "Tue, 23 Jun 2026 22:55:09 +0530"
@@ -85,41 +91,35 @@
       "pubDate": "Tue, 23 Jun 2026 20:29:09 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Nifty Outlook for June 24: Index aims to reclaim 23,800 after expiry-led sell-off",
-      "link": "https://www.cnbctv18.com/market/nifty-outlook-june-24-index-prediction-wednesday-aims-to-reclaim-23800-after-expiry-led-sell-off-19930925.htm",
-      "pubDate": "Tue, 23 Jun 2026 20:05:20 +0530"
+      "src": "Google India News",
+      "title": "Market Data - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5xZ0wzT2lNc1lNY19OYXZDdnAzZmxaNU9BYnNOWUllb0RMS1o0T24xZHhRUUw1MDBNelNEaFNQbFNYZjk2S1Bicmg3Y0hWWFV5ZnZXdFVDYkUxN2tBVXJtOG9hS3lzWnlj?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 19:41:50 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Bajaj Auto's largest buyback to turn ex-date; tender opens July 1 - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWUZFS0ZLeDR6a1pocWV6amRkWjRRYXQwM0lBQ1ljY3pBTmkxN3plMUVoZHVVdVd0ckNobnlfOURxYXV4TV9UaDZVbnluNmRLOGIxYWhfcjZZWEtMSVNyRDV3QTNseVFSX3VFZWdlSEY1MS1JUGl6UUNDcmVlV2NiLWpPLUQ5SHhzU0RlS2Q5bnVTemxRSV85Z215bDVJYUdBQ0h2VXBNdm40bE0zNG5MNjBqMWhlaGZuei04Y25qMWxSdkx2cUVXbllOTdIB0AFBVV95cUxPLXFiSHhPWGpqM3NxQVlIaWY3b0ZJMmlQNVJFOExkcUdSakZVU0ltWDh3bFd1cWZsdWZFNmVPOEQxaXBIMjA1T2h5T3hZVjd4cm5vSGFxbjk4dzR4Y0E5YS00RnhSY3YwM1g4bTJGOVlwVkc5anJzQ0FYZDJ4QXdfblhXd3ZlMURZb2NnRXdGdk9wUVF1cDBoU25HN1FSUEdXM2JjMjFFZ1o3UmxnTExJVTFQWUN0RE9hQ3NleEphMlV0T3pBUm5qZEhveFVSekJn?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 18:01:02 GMT"
+      "title": "United Breweries confirms no new encumbrances in FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnJhemRId1VnanV3UjN3dzlVamNrQTd0WHJVd3pTaS1xbUNMTFdnS1NFRFI2TEM5MFN1dU9WdURXTElsQkRJTmpfMVpzejFTTGNHTWh1ZHdqQ3FjRVBSNnVaa1BteEZWV3Q1Mkg1S3V3QjlCSUNMWjYxQXhLTjJRTGNkUDc0Z1pYRTh0eW5rcU9HcXo4NHA2cUVmOTBJZlRkc3RYWVl3UDdaSXZZdnVr?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 20:03:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Why did Meesho shares jump over 7% today? Here\u2019s what Citibank analysts say - India IPO",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3ViNGp1RERyMHE4d3RBa2J3R2podUJMVGdERVNoNk1uajJHOVk2eXZHTmFPQmhTbFdYcExDZUs3UTFDNlYxWFFsaDJYMy1SdjZIZUlwR2hRODlLaDR3UWt0ZGx4Y1pvTVFFaENmempWdXAzd3ZxNzg4N0w3TEJxM0dYVlBfQ3FqNDJRQlpOcFVxUTFoVW1UTTRFTWdheE1BUlVXSVdYRWlwREJV?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 17:18:16 GMT"
+      "title": "Market Data - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9KR2lldXNLQ3RQTFNWQUxTU0wyQXBraHhVd2QyVlpYU3JrSmFWV3lLTS1IOFEwN0x6aHBVV3JCSnBUREhNc1c4eWVjeF9TbEpBQmZpUjJXRVlGVDlxeXFKd2ZsYUp2N3lp?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 19:35:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Confidence Petroleum India Ltd releases investor presentation - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZld2UUZabXdEOHR3RllORThDc1YzaGtncjMxT2NwOEtsV0xNTm41Wkt0cjhwT29NVHZ0SGxmaWRwVVFVQ0V3cm1CQWs4Yk5FUDdxRmJPSlZhRVJhNVBsNDJORGlmYmhsNG82cnhGUVl3V29rM3JRVUhIelRHd1Q2bG9WNmhkbmI2YVVQSXRzLUx1UHRZZDhKaFVUX18xRTFlSXk3ZDhZcGhRTnhZdXgtZVJTT3dqT0pwQ1E?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 17:46:29 GMT"
+      "title": "Foseco India promoters confirm no encumbrance of securities - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUFPNXppVmlnbi1KNjRQdVdzNFIwdGlLQW1IOTNSc3B4LTFKbFVYTWVTcl9OajRnR1Bja0lDZmZDTnZyWHRnRHJHdjZZbVhXejUzN3daRFFfMG96Und2NDNQQlpfQWo4LWNUbW0xcHFmLVJuLTkxSHN5Tm1RMG9mbGNYX0xVNDVMLWxpSDRWTG5kNGZuVng4aVdKMDFLakstR0xnSlNCRklXdUJrU0pJdUN4TWwwNHc?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 19:51:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "YES Bank board to consider fundraise via equity and debt securities - Mint",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSWVNUDBscXV1ejQ3TlRHV1UtN2dwTUl0UjNJTEJCcVg2cW9vZl9sb0R2UW9fT2FyVVRMMldySUU1Q1AwWGF4LVZGZTc5Sm5fdk5DVjZ2OTdJSllPb3VkMzd1QnFhNDNUYlNqU2Q0dlUwUTRkTm1xRmtGWTdqZ0ZfZWlfeDNiMlhfNjBKdTlaMnpTQ1hZX1l1NFBEOXJMTzhWcTVTOGs1ODN3dU9QRzdyUF83TlhrTVhJUDl5WlRMUEZubEFvX2h0bUZlZWZ3blozWDZF0gHYAUFVX3lxTFBpQ2MwUE9Ub09samMyZF9OTGlYNWxZSEFuTnJHMXlKbUdTUkpGTl9DdERCVUV2eHF4T0dTcVM5THhVWjlPOVFxTmhGbks3UHBRWWpGT05YT240RWVzNi1wVWc3RWlyeEZOWTFDUEJDZHRBWDhrNFZTd2E5eWVYMlI2UTRLN0ZES3Vpa1dkbDJGMmQ3TFljVzFWal9MXzZPelVIM3ZaX1A1eW9Ibk43VDJ5N3hwRkFySTdIVFRCN2xNbHhqUXZJN3BKTUd5OTJxYXE3bjcxa3hpdA?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 17:19:39 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "WhatsApp's future may not be invented in US but in India, one transaction at a time - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeXdlUW11cGxvQ3FkZFlTRUtuZGZEZFhfY0hJOWNBeUVpTHJnejV6RndPSDY5THZTbU5fUXRzakcwLVpTdzJPajdFdGljYXlEQkQteUtnNGVxaUhEeVBaMllvUFZ1OXhMekxSTWM1ZUJveUVLYWtYVDhlR2xtSGI2dGZnYzZqX3J6eWl6RFlGU2pfQ1RnSzNVVkk0bnMzdGdwUk1fYjR4VnRFZVBFUmRmWFBXZjNtNkNlQzM0a2hJdUh0WVVNOTJoZ2hGckprVXhfMGcwOGFLaXhYdjVYNlgzYXF0VjAzMTczVWJ2Z3ltejlFbGQyMWh1eFZ3TWXSAYICQVVfeXFMTUlrbTJfeE9RUXN6QUtGZUdaWWJtVnNOa3c5WXRfTTBMZ0xCZ2hqcFlvX2dLbTgxRTJyUmZWaUZVcWZBVTN6eEVSX3pSem9IajI4SEpLLXIxa0hnSmxIanF2d3NHNl9XSEgzTS0zQlBSWVYyamR2RlVRUUVTTVpqeFVQNWIwdTdjOXRaXzJZa2t0dHRJNmRuZVU5REFxMnRUVTZVLUJCWkd0aDQ4RzlqVE1CTnE4eXRCNFNGV2JYdXg0aUZxNTFZOWs5blBCcUVhaXdXdXNpTWFYOFNPbVJ5QlV6ZjczbFJCU2tzQWtnSTluUnZpR1RZR29vUjA0S3JwcHpB?oc=5",
-      "pubDate": "Tue, 23 Jun 2026 18:04:00 GMT"
+      "title": "Sampann Utpadan promoters report no encumbrance in FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanA3ODlXc1JqdlZmTUVCbXNmRzlpNGdNU0NWMENNZUQ2TWRBOFlUbEk2NDkydlIxdXhHaVU1N0JRTUZnLUJYbDlfLW9GdVBOckJWeHdTNXRNRV9aVXpOU2lpNU1jcFNkb1IzazN3aFhzcHBjRTNlSWNJcTBFdlVLakJsSm1naHlHQnM0Q3JlTzBma1BON19KRV80dWRxT1hoLU5QYVRlMFBHX3lCbGdvbGVR?oc=5",
+      "pubDate": "Tue, 23 Jun 2026 19:51:43 GMT"
     }
   ],
-  "fetchedAt": 1782238518
+  "fetchedAt": 1782246404
 }
