@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US inflation tops 4% for first time in three years, keeping Fed hike in play",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-may-pce-inflation-rises-4-1-keeping-fed-hike-in-play/articleshow/131997380.cms",
+      "pubDate": "Thu, 25 Jun 2026 20:58:42 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Pakistan's Gen Z taking to investing in stocks in big way, claim stock managers",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/paks-gen-z-taking-to-investing-in-stocks-in-big-way-claim-stock-managers/articleshow/131996123.cms",
       "pubDate": "Thu, 25 Jun 2026 19:54:03 +0530"
@@ -25,10 +31,28 @@
       "pubDate": "Thu, 25 Jun 2026 19:13:15 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US Stocks Today | US stock opens higher after Micron revives AI optimism, upbeat economic data",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stock-opens-higher-after-micron-revives-ai-optimism-upbeat-economic-data/articleshow/131995185.cms",
-      "pubDate": "Thu, 25 Jun 2026 19:05:45 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold, silver rates today: Comex gold reclaims $4,000/oz; silver rebounds by $1/oz as US dollar softens",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-reclaims-4-000-oz-silver-rebounds-by-1-oz-as-us-dollar-softens-11782404897229.html",
+      "pubDate": "Thu, 25 Jun 2026 22:53:54 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "SpaceX credit derivatives start to trade after debut bond sale",
+      "link": "https://www.livemint.com/market/spacex-credit-derivatives-start-to-trade-after-debut-bond-sale-11782405378731.html",
+      "pubDate": "Thu, 25 Jun 2026 22:32:05 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Advit Jewels IPO: Issue booked 213 times on Day 03; NII, QIB portions see huge demand, GMP signals 38% premium",
+      "link": "https://www.livemint.com/market/stock-market-news/advit-jewels-ipo-issue-booked-213-times-on-day-03-nii-qib-portions-see-huge-demand-gmp-signals-38-premium-11782395184005.html",
+      "pubDate": "Thu, 25 Jun 2026 21:56:01 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Up over 100% since March! Multibagger small-cap stock to be in focus on Monday; here\u2019s why",
+      "link": "https://www.livemint.com/market/stock-market-news/up-over-100-since-march-multibagger-small-cap-stock-to-be-in-focus-on-monday-here-s-why-11782400729419.html",
+      "pubDate": "Thu, 25 Jun 2026 21:50:31 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -37,28 +61,22 @@
       "pubDate": "Thu, 25 Jun 2026 19:58:41 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Micron shares jump 20% as strong AI-driven outlook lifts market value above Meta",
-      "link": "https://www.livemint.com/market/stock-market-news/micron-stock-jumps-nearly-19-on-ai-bets-overtakes-meta-tesla-briefly-11782395842188.html",
-      "pubDate": "Thu, 25 Jun 2026 19:32:28 +0530"
+      "src": "CNBC TV18",
+      "title": "Why this fund manager believes the worst may be over for stocks \u2014 and sees 10-15% more upside",
+      "link": "https://www.cnbctv18.com/market/worst-is-behind-us-indian-equities-may-rise-10-15-percent-says-rajesh-kothari-19932716.htm",
+      "pubDate": "Thu, 25 Jun 2026 22:54:05 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Adon Agro Commodities IPO: BSE SME declares price band at  \u20b966 to  \u20b970. GMP, lot size and key details",
-      "link": "https://www.livemint.com/market/stock-market-news/adon-agro-commodities-ipo-bse-sme-declares-price-band-at-rs-66-to-rs-70-gmp-lot-size-and-key-details-11782390958725.html",
-      "pubDate": "Thu, 25 Jun 2026 19:04:18 +0530"
+      "src": "CNBC TV18",
+      "title": "RBI notifies final credit derivatives directions, expands risk-management tools",
+      "link": "https://www.cnbctv18.com/market/rbi-notifies-final-credit-derivatives-directions-expands-risk-management-tools-19932696.htm",
+      "pubDate": "Thu, 25 Jun 2026 21:38:25 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Pulse of the Street: Stocks edge for another week, but conviction is missing",
-      "link": "https://www.livemint.com/market/pulse-of-the-street-equities-winning-run-conviction-elusive-benchmark-indices-11782391567233.html",
-      "pubDate": "Thu, 25 Jun 2026 18:58:51 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US stock market today: Micron\u2019s blockbuster results spark chip-stock rally; Nasdaq futures surge 2.2%",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-micron-s-blockbuster-results-spark-chip-stock-rally-nasdaq-futures-surge-22-11782389569467.html",
-      "pubDate": "Thu, 25 Jun 2026 17:57:01 +0530"
+      "src": "CNBC TV18",
+      "title": "Adani to build mini cities around six airports with \u20b920,000 crore investment",
+      "link": "https://www.cnbctv18.com/market/stocks/adani-airports-unveils-rs-20000-cr-plan-to-develop-655-acre-airport-cities-across-6-airports-19932685.htm",
+      "pubDate": "Thu, 25 Jun 2026 21:14:09 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -73,53 +91,35 @@
       "pubDate": "Thu, 25 Jun 2026 20:11:33 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Micron shares surge 18% as blockbuster forecast reignites AI trade",
-      "link": "https://www.cnbctv18.com/market/micron-shares-surge-18-pc-as-blockbuster-forecast-reignites-ai-trade-19932630.htm",
-      "pubDate": "Thu, 25 Jun 2026 20:33:12 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Godrej Industries infuses \u20b9370 crore into subsidiary Godrej Investment",
-      "link": "https://www.cnbctv18.com/market/stocks/godrej-industries-share-price-infuses-rs-370-crore-into-subsidiary-godrej-investment-19932616.htm",
-      "pubDate": "Thu, 25 Jun 2026 19:43:05 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "US stocks rise at open as investors weigh inflation data and AI-driven rally",
-      "link": "https://www.cnbctv18.com/market/us-share-market-today-dow-jones-rise-at-open-inflation-data-micron-19932615.htm",
-      "pubDate": "Thu, 25 Jun 2026 19:39:18 +0530"
+      "src": "Google India News",
+      "title": "Dalal Street logs longest winning streak in 7 months as crude relief fuels rally - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWWxJOFBpci1SX0tuREFiRVVDdnhXVUJPeGducy1kaXphLWtodjh4TzFLTXJkZVVqb19WcnhHZ2RjZnlrMW5sNDdzWGJTV2dZRjdONFg5QWNJbkRkX3R4bi1hVjh0WGNJdW0wZ1o2ckNQZEM0TldXMDl2WmhwOXNROEg3UURUZ3VQWF9XV1FMMjZBVW1jWEc0ZUpVR1NHUUxZck1scFU2NVRXVkRmSUhqc0hxX01qT01oOWJEc0wyclBId9IBzwFBVV95cUxNU3lBanFzQjFIYXE2eWMyajd3Qk9tUXFDMzlOUzR6bWRvSjB5QXJwcUYtX3lvNFpDZWZBUUE3QTNEMWplQUdKb0s1T3B0Q2xjZjl3OWZCTUxSdWlkQjVKMmZ1XzhKZ2dqZ2tSZXliQm45SVQ5cWRtUUVBQXdZZVJuN0tpSE9jTGg1bmdTanhraURxYS1BcnVxMlVRUFNsMkY5bzVmYlRFb0xXRGNkeFZMN3ZkZUQ5cVQtbUdDbGVuanEtVkhXc0Exb1dSV1NxWUE?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 16:51:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sensex, Nifty Extend Winning Streak; Auto Stocks Drive Gains Amid Cooling Oil Prices - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMVN5Um56VzYtcWJ0SHpoVzdOSUxuOElDbmJ3dWdtYWdtR056dzJOSkQ5TWxNMkdVbWRyb29qekZETW1VdEdrcG84VDNqNFA2RXJ6M1kyVHM5WTBHSnZIaUpqamhOQnFPb3BZcUR6cWY3V1hOdUJFYTI5SnZIY3prYS1RajF3MGZkMVpqSE1VRTlhNVpQWXkxdVdDYVhHYlljMGxjODN1V1pwRkJJWXlv?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 15:14:00 GMT"
+      "title": "Cholamandalam Investment listed in 2025 Burgundy Private Hurun India 500 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNR0hjMzhocS1SWC1kaEdiZ3VubGI2aElReE54UFdlWHh5dnNnTGhkekZOV2JrOG9XU282bVFDbGp0djVSWHJobDExa0NGcW5QaUE5ZFhXajZLeTV6bjRjOEhTN1dlenZnekZ2aUtoSWs0cUVKejRyWGxoNC1UWjkxbUVzMTN2eEtUcWg1UjVHWmx6QzYyQkhXSEdQZWlMam1KbEtHSkhSQk1WMS1fUldKdkROTV9sWjNUX05oUFl4TnBYdWZoUzlENQ?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 16:35:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US stock markets today: Dow rises as Micron jumps on AI outlook, Apple slides after price hikes - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPOXVzZGlhQ0pWc1p5VGZxTFIyS3JuQjB4b0xXb2IxMG1YZFhrM0l4YVhldlJkWG5kQzVGZkFfMDJjUjU3M1ZqWHN3eHduWXc1dHluQ2s5X3dRWExSMTBvODRhSmNzMWtlem84MmQ3TGRyVEV0VVkwaDBGMmlYNUVvVFBjbFBUWVlwU21KNE14dlBwYXJuVEMyWXJnNnJNdFgyRG5YTjN0TkZQYUoxZWxFZzRsazZMdXNEaWFOd0xfZ294MEd1dTZsYVk2UnN5MFY2NThBVTg2eXpSRElvNEY3X21pZVpMd3A1NTRZSFVHOXl2bnhfenBieVpPNUZ5UmMyZVJNeVY4WVZjYWV2OWk3d2NxYldpd9IBmwJBVV95cUxOSlR5eE1QT09ZT0QyWlotNHBGMGhjWHNzSmloeTQ2V1p4TFotMERKRFRYYW1lTEtMc0gweFNqQ0lkMVNZMVZTNjM5UHhWQ0wzQ0xiLVljMmVSZjZJLVRMRkpnYXNMZkRVYUQzU2ZmQkhDTEJodXFKSzNjUlJiVDZZQktUSncxajE4VHc5VkZGWDRZQkVTOXFtQzBBU0c3VW5mbWZNZF9JVUp1V3BMeUtMTnUxQTRJY0NYQmJFblJ1TWtvY1A1RW5UelRwSVdTVGZMblZidGtuRHdiY0lzQmlNSEdkcjRjckVJd2hwMndOS2FZN01qajBJc3Y3YUJ1a1JNN2lfYThSZVZoamdXclhkeGVtYUxZWUY2aTlZ?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 14:50:00 GMT"
+      "title": "Govt mobilises nearly \u20b92,100 cr via share sale of state-owned IRFC - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPV2lUVEcybHdnLTNoVTFJaExQLVVSTVk4UEpSZUJ6Z29kYkhENk9YX3hiRmRyY0pVLVpudlhrWG4zVXBBUkRqbkxwcFFVN1otQ3FaN2JrVUcySld5ZWpGdkRTR3BqVGJVSnItemwxbEZLcXN0N1Zta2cycFJxRUJ6TzQ0RDVlT1ptMVpRNFB6Nm1YRDlhTHZONWNaS1Q5eU9HX2doM2FsMGNITzB5LUdZUm1zdnNHODV4dVVpRXlzd0pFS2FfLXgwY2w0MljSAdIBQVVfeXFMT05ab3lWUlFNa25tTHAxcUg2eEFIOGZXd2xJdXVjRWpOYmxEOGhNMkt1TnNFUk92U1lIeGIyYUNCVW1qcEVwSkdrVnZabWZYanBDa1lZTVFCLWdiN1dYem15WkpNQzBXYUZBbzY1RWQzZDR3S3gyMkpFM3pVV2lpRktDY05COEpuQmxlUXdob2o4Q1M5VzN2TG5TZU00ZnBOb0dJTEpCaDlxRy12YjZ1Zm5kbGJqLW1nbUk4bEMzaVpKS3ZaUV9Gcjl4dGxWOEN6bW9B?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 16:37:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Triveni Engineering gets stock exchange approval to list 14.65 lakh shares - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaUpXNFJMcFMzLVctdGkyYXNFUUlqVG5pSkpCZ2JhQkF2SENoX1g1TVZCWTFKYUI3UmRJeTkxVHhBYi04ajhaeGFhVmhELXZuUk9nZU1paWlLVU5vai1iazBtY1Vza3FJNGMzZGUzRUdWX0pBYjRaa0tSOWJsZkp3SDFILTh4bHNFZm8yanhRTFk2Zk8yNnNybzNRLUJvYnZkV05TYjJSMXhFckVZMDgtSVoxdXljRVYweUxrLWtweVNIdHN0SEJuZTMxWQ?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 15:15:55 GMT"
+      "title": "Centre eases BIS quality compliance with new risk-based framework for manufacturers - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQNWpsLVJubmpiYTVZV2VIWGphWUk5RGlKMlQ3cGswakRDLXNlVVJEMFQwX25OTHdVb1hEMEs5VERyekpBMGxUOHF2aVMydzl1U1pmSXVZR081WW1xN2VldEQ1V3c4RzJqMTU2NFVDR1Vtam13YXNJS1hocmZuQWFrM0kzaXRaWUY2NnlCZzVhZGlNZWhVckFaVUVCaDBhZjJnY0RUeVlEejU3UTR5TGpjSlRiX19xeFVHX0FWenJjSzdwbklZb1B0dnEySVlLWnJRQ3Z3Rk9rY0Q5VGR1b1QwWWNHSEhCdUI4dVJSckVxenFqcklkNUZ0Q0F0eDhqUdIBgwJBVV95cUxQd19ETk1NTldoVGdtYlVUb3hUbEJEbHRtSTBkSFppSEtvYnE2cUJwZ2locnpSUXNZbWluVGh6WU95QjdINnBPTHlBUjNCdkZMWFk0NVdGa1AxWjEtSzlnT1A0UHY1eGw5Sjl3WTAtX0htM2VxMEViNWtzRUpSck9VWjB0aUEzVURVLXJCbklBWWFJUG1SclZJaVhNQ25YcEZINFY1X0VDQUNWQ1R6TkdzQlpQZzdScW1rOThaV1lFQ1Z2R2U0Zk0xdFRDZGppNHZMakVaSnRSaVNWbFpFdFY0NG1BcmJzWEw5QklrYWhfYUlRM2hNZ3Uzc3RuU2dHZmIwVlN3?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 17:03:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Domestic investors keep buying Indian stocks as foreign investors turn buyers again on June 25 - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxON0VuRDljaW9VemJLd0FMWHBQQzl1ZU9mSWRQU05rZ0YyeE9IQXBqdkF1UkxHcV9CVmlvbDJabE5faDVVLTJJQVFQSEROeEFFOVM1RlF0X0RyT1dLZFVqeDhDSVNjbDEyRTZ3Mk5Ka1hFUVpHRDgxOWtQWF9rVVRyZUhMNk5FTXZjcXZ6dFBwZ0VOTGdRVWM4R2JZZHh6OGxGdXRXa09HWm5STlhwb1B6NzFvTXluTjUzaFdKSVUxYjRCb1haRW5mX3o2eGZRSDQxZmVJeFZ30gHbAUFVX3lxTE1wdmRmU1hRaFpWRnl5RHRCTVplY3VYcTA4Z2FPUUQyWUtfQU9mSTZCcDBkZWgxaFA2aEducEVNTGp0X0dXTGNfWE5wOFJxQ2htSnlUYmZFenhaczJPZklxWm5ydTl6UUt1WmtkNGZkelVCemp5MXZxUUEwNzBTa09qVWo4SldsSFhORF9CRV9IZ3R6Z2gxZUhfVENCV195U0ViLWhpMUpFcHBjQWJRUGlSRXhpYmxkbEczdnBwSDVPa3ViZUtNLTVrLXRQRk9DbFp1ci1NV1BaVl9Kdw?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 15:22:50 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Record SIP inflows strengthen India capital markets outlook: JPMorgan - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNmJUUVF5cEZOcXdtRzZGeXYzOUczeWdRb0lTbnh6YV8wZk9ld3ZGVF8zUlowVGk4bEtqQWVobmpfRV9zcHB5WDhkQ21hcUgzdV9wb3Y2YmtPOFVJVGs5bWIxaEZLVXJPOUprc3VVb2t0T1BSMkxiSE54Mm11NDV2bDVqbl9PRGZsZ1hDUjVkb04xT2xLU2JjMUZRc0xSTXJjcUdhUnhFOVJjQmp5OFU5ZzFGU3MzdUhaRlh1OVNiVFJJaFJDbE95OFFnTEN1UdIB0wFBVV95cUxOTzN1SFd4cTlHUXlWSDlYd2RmLTI5MDFiekVkSXdTWjhqX296NWtNVU5QakNKbHNwcEM0WXdXUF9lUW1DczVrNkJNV0lwbXpLR1BURFZjY2tlTTVFYVNCTFd6OVc5WjRPOExodWRTQ3duWUpHTmRwMTlETGozLTQ5UTdFS0N1QjlBVVlGeXVtRHdsWTVUQXlTRXhLOTJvOTV3ME8wM3U3dldOVE1UY1hGTHZyejdCZ0k2LVlUb1dLbkdIV3l6eFhkSEloaTZNdEJMMi13?oc=5",
-      "pubDate": "Thu, 25 Jun 2026 14:45:20 GMT"
+      "title": "RBI introduces total return swaps, broadens credit derivatives market - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnY3OTlTRUJZcVBvYnVGZHdfdmZUMzdLazJOaDA3Mm1ia3RMSjltRmJXUmx5UTFxWGpsdGNZcG9BR1kySEh5eTZhN2MxSEhxc1Zyc2FXdHdlWWVKbmZnU2l5ZjBjdHJCaUdUazdvb1VGbzRDRW1WUWVuMXVxZ0F2NWNJUmVFaXV6SGpOT0s5UW1XVE42aEZPWHZPNlU0MUUzUXhSOGo3Zks2Y2lVYU9qOUdOV0k0TGV3b2d1UnpvRGpMWkNVbjdtM1FTR0FST2tmR19JTy1B0gHbAUFVX3lxTE5qUHlNWUdVWG9ZWWtEUUdUSTQ4YjFrMU1Gcy0xajNZcllub1hYcUxjemVoNVlydDJQaDV6VXQxSlgyOUplNTNZbjRfU1dJQzNfZldDVmNhSHItd2FuLWdxOWJmcnVTOUJPcjdBemoxN2E4dzJHVUNldklPeWp5S01wN3dIRVI5bjBoZ0ttQlExWjBoY3ZSU1ZOYk02U2JqZTduM0NJWmRNWmkweHpWRXBSNUpLVno1QmVMbGp1VlJmUzc5THRUOGtqRTcxSXNfdHpNWmRZbTdxd2xTcw?oc=5",
+      "pubDate": "Thu, 25 Jun 2026 16:54:46 GMT"
     }
   ],
-  "fetchedAt": 1782401598
+  "fetchedAt": 1782408884
 }
