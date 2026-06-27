@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "The FII U-turn nobody noticed: These 6 stocks became multibaggers",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/the-fii-u-turn-nobody-noticed-these-6-stocks-became-multibaggers/videoshow/132035639.cms",
+      "pubDate": "Sat, 27 Jun 2026 18:44:44 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Companies should focus on business growth, profitability rather than just share price: NSE chief",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/companies-should-focus-on-business-growth-profitability-rather-than-just-share-price-nse-chief/articleshow/132031843.cms",
       "pubDate": "Sat, 27 Jun 2026 14:45:31 +0530"
@@ -23,12 +29,6 @@
       "title": "Chris Wood\u2019s big warning: The specific risk that will finally trigger the end of AI trade",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/chris-woods-big-warning-the-specific-risk-that-will-finally-trigger-the-end-of-ai-trade/articleshow/132031234.cms",
       "pubDate": "Sat, 27 Jun 2026 13:56:30 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Goldman Sachs\u2019 India bets: 8 stocks rally up to 85% in CY26; one new addition",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/slideshow/132030875.cms",
-      "pubDate": "Sat, 27 Jun 2026 13:05:14 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Strides Pharma to monetise stake in Pivot Path; company valued at \u20b9230 crore post-money",
+      "link": "https://www.cnbctv18.com/market/strides-pharma-to-monetise-stake-in-pivot-path-company-valued-at-rs-230-crore-post-money-19933480.htm",
+      "pubDate": "Sat, 27 Jun 2026 17:37:54 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "IIFL Finance plans \u20b910,000 crore fund raise; board also ups borrowing limits",
       "link": "https://www.cnbctv18.com/market/iifl-finance-plans-rs-10000-crore-fund-raise-board-also-ups-borrowing-limits-19933460.htm",
       "pubDate": "Sat, 27 Jun 2026 16:48:45 +0530"
@@ -85,41 +91,35 @@
       "pubDate": "Sat, 27 Jun 2026 15:50:22 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "KEC International gets key relief as Power Grid revokes exclusion order",
-      "link": "https://www.cnbctv18.com/market/kec-international-gets-key-relief-as-power-grid-revokes-exclusion-order-19933391.htm",
-      "pubDate": "Sat, 27 Jun 2026 14:49:03 +0530"
+      "src": "Google India News",
+      "title": "UK: Sagar Adani calls for faster electrification, says India needs 2,000 GW new power capacity - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVmx3emcyN0pzeWkxVnNUR2U3bkNCSlV6NXo4WVJRWUVLTFg5N2hUajBSd0J4Vlp6UHc3Nnpua0lBdG1FMnhRcmVFQmRxSk1QS2xuRndDNzh5WEJ6VUliRWhiVTJYZEUzTUdWdHpVNTJVUmlVMUE1YnhkWjduU0NNUXVRM21paWZJckRUYmNZTXdrSzJDbHd6ZlE0M1JMV1d5RTc3RzNoYzB6NGFxdUZoM3kzcm1kc2kzQTk1QTlJYnBlNkUzM1h5cUNrOUU0WHFJbGhWYklycEtEMzFOUV9ocmhHUXBVQXRLQ2fSAe8BQVVfeXFMTmxqVTNSbU83WkJhX0VoRzJEY2d0TWlrWUZzWVBnRl9pOTVUZTZKTlRWVENYWDJQRzhfM2pfeXFjOXRMZG93ZkpLdURtdnNvUUhFeFJnSnd3eWUzT29EcndXR0NsWnRsTUo4NWotb1ZCOTVMcFdWOWlKdzBEbFdSeWsyVXhiQkowTEhRSFNlQkN1SXFEdUcxYlRsaUhnZUNsVHpKaUxDbE5IZzFybFEyOW5LRHVYMHZoR1VYaU5xZkdHRG5sdzg3MTJiUjExdVpvZEszbDhLZjhGeWpiT0JneVAwYXBCTmVBOEJDQ1FuT2s?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 13:52:31 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Infosys Stock Leads 3 Founder Backed Indian Companies Worth Watching - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVHRwekZyLVB5UGZEQXVpcnRRbXVualh4ejF3T0o5ZlJYU0JjNUs5cElOc29WSG9fRmZLeDZTOG9TY2xOSFNsMFh5Rk9vX3pUNVpjaW9xUWJob05HbzlMakdVZkFOQ1BBQlNrYUxnR29udlcwakRTdHRHTDhFRkppUVNpdG91LXJYMjNxanVnQWk3eE9YTlhqU29aOEt4cVk0dDk3NmNoWmdHOEdmWWNTNmRybTQyMmFZM1hHYnF4TV96eXR4bzlFWdIBzgFBVV95cUxPTTZRR2VmSWlWU1BFZUlrUjctNTNEM0JIeGxoY0N0dUZNVE10WHBQSkpLeFJLRDhCakxyM092X21qY0JYa1Zwell6aUR0YmtacEl2VFY5ZmM3enpxcHJ2SkRScjFyZ2xBVFdtbks5UDVsNEwzb18wT3RRVnlyU2lob3BfVkxDOHZJeXFRSmRBcG0wakxIU3U4UnlBSHVHTHkxMXBvVHptVEYyV0IwT083QTg1LXNzOXl3SUdUNjFUY0ktdmJqWmI0OW50dDN5UQ?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 11:37:30 GMT"
+      "title": "India's Kotak Mahindra Bank CEO Vaswani to step down for personal reasons - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMXlvWlFiV1FOMllLSDMzSnNrMFRGenpUaWlkQjhTRUlfSTlRRE83ZVJ5dlR2eHJFRVhlTXh2NVJZSXVVMnNmRUI0RHhPcVNRMUxNcmhsT1VLTmg3cnZxRWxuMmkzcUxoYnRCZl9WaXJuUDk5R0oxeDZIMjgyQVBNVWhsRjdmRG1NTThwbUNFQ2pjaUs5Q1JsSEtSN2dET01FdmFiQjlQcw?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 13:54:19 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nifty Auto Index explained: Meaning, top constituents, investment options, benefits, and key risks - Mint",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOWDJtNmcxOEtFWWhMQkZMOVFqd3JMVzNNZjlEdzB6YmNYLU5Fc0JYeC00TDFLZl84dkxadENPSnBCVVAtYXpNNjFPeUowMDJ5OEhrY1V1dmkwZ3FoZ1VZOE13ZlBUYVV4VlR5ZkZnNlpTbWFyTHlONl9aaml2bUQ3a1p6ZU03WTZndjFtZWdPWUpaMGNiUy15aG5wQ2VSQTJDWG5WbHRoMVhuYnM4UGx2RHB1a25Ldlc0TzA2YTN2ZkFkZWRyUjBUeXRPN1FXQ3JKM2pNbjlUbHV4NUZ5WnZPRHU5OWZ3eFNELXYyR2JycHFuam_SAfgBQVVfeXFMTnkxaHBrSnZvc09VTVhQeldfODZiT0F2YTlZY2x5SFFYWmFhM29xNERyNDZFdXh3UUpMOWQ5b1dBOEpXcWNjSlNIT0Nwa21VTzF3aHVKLUN1QmhNZTMyZUdPRzRISV91TzFyNWZ5a3Q2SnpKSnl6YW5TSm5oOTlQQWZTN2RXUEViMkFLZ1JWUktGaE96b0JCeDlLaFJhMlJWU2RDcXFMLVBaMGZLTVk4MnNmcEU3UVdmenE2R19oTjNaUWNxSDJ4dzRCUUxVcGFKbGJTN0NHR29kQ0JETkZhXzE2dElXdHdjVERCM3FtY3NiRnVxR0lIV1M?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 11:28:47 GMT"
+      "title": "6.2-magnitude earthquake strikes Afghanistan, tremors felt across north India - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPOTlkMVVXN2RzLTRTZFJiU0VWY09xTkhVeGFhOWdnNlZ6bURnSk10c3V2Q19faUVuaWNZYWhzSUlPbkNpS1B4RW1yS3NqZHFtZnRfaXhkaG0tWW50T3UxYllrY2dEeV85YkRDZ3drYUtwZE5vM0l0Tk9QbnVWTTVwd3RrVlljdEpFaHlWZ1E2S011Z0xXVTFhWFVxZ3pGZm1WYmpUck1ZQXZyXzZnZkVWU3FqQXJNU1VfZ0VObDY1Rk1NMHAwQUdieUR3QWY3VTDSAc8BQVVfeXFMTzk5ZDFVVzdkcy00U2RSYlNFVmNPcU5IVXhhYTlnZzZWem1EZ0pNdHN1dkNfX2lFbmljWWFoc0lJT25DaUtQeEVtcktzamRxbWZ0X2l4ZGhtLVludE91MWJZa2NnRHlfOWJEQ2d3a2FLcGRObzNJdE5PUG51Vk01cHd0a1ZZY3RKRWh5VmdRNktNdWdMV1UxYVhVcWd6RmZtVmJqVHJNWUF2cl82Z2ZFVlNxakFyTVNVX2dFTmw2NUZNTTBwMEFHYnlEd0FmN1Uw?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 13:58:41 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Apis India promoter acquires 1.07 Cr shares via inter-se gift - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUzdCUzhxam5oemc1V0s0MDVtVXVaQjhDQkpxVHoyVUJTY2tSN05UY0FDaUtwWGdBVG1Bb3RGSDMtN3djb3ZNbDUxUFhhZ2FlMi1Ta2R5NmU1ZmZhYnpMeVVsUW5NM3VaMkhweUU2WTFpTlVzekItSnN5elpZSDRvMFFkVFRVWjFEcWo3LWM4bEVSZkt4SmdiYnlPNXc2bHE0RVRVSkNiSVk2WWhYV1JOTU8xSFBSMkNISUE?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 11:37:59 GMT"
+      "title": "Goldman Sachs raises MakeMyTrip stock price target to $84 on growth outlook - Investing.com Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWnR6eTFKY25RT3V2NjdSTG9zZzlYZFNSbkN5bWxiVlJPSGhkX0sxQUg3dE1TMnRyOFo3RVhCbEs1YTFlZFhBMlBoUHRabjJtVHk2Q1l4WXQ5TWFFSmFJZHJRNURodzd0V21Zck9wXzVLQzJuTURmeWppandLNEJSMFo4MllqcW1uc2o5QWotdEhHN1JWbmRPX19FQ3dnRnB1VmdJdWxGTU5mYUtIQ2RNdm54ZlJieEtBcS1mQ2RPaFdKUjJmVjFuQzN2NFlOZGVK?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 14:07:31 GMT"
     },
     {
       "src": "Google India News",
-      "title": "CM Shivakumar backs vertical growth for Bengaluru, unveils Rs 1.25 lakh crore plan - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU2laSzQ2TWc5LXpsQm1OWFRRSFNOOHB4YlF0aDh0eHlXZEVjcUQ4cHBsWE9WWEFobnpvVkR2Mml3NmpJYkMtTTB6dWpZRTR3STgycllLM2l0cmJ4YUg5Y0VKQ1lQSlhUQm4tTF9yb0E3VV9Zb3V5TEh5WU9TbzBmMlN6RzdqdkxBSHNaWDQ4bXpKSTNaeVlqV20zNldPUWxwekVROEU0V1lGZFJBUC1qSV9UNmdZRmlzNXFzdDBTdUZlcDZiY3ZNUlhmcXRpMGRvVDhqZFh30gHWAUFVX3lxTE1TaVpLNDZNZzktemxCbU5YVFFIU044cHhiUXRoOHR4eVdkRWNxRDhwcGxYT1ZYQWhuem9WRHYyaXc2akliQy1NMHp1allFNHdJODJyWUszaXRyYnhhSDljRUpDWVBKWFRCbi1MX3JvQTdVX1lvdXlMSHlZT1NvMGYyU3pHN2p2TEFIc1pYNDhtekpJM1p5WWpXbTM2V09RbHB6RVE4RTRXWUZkUkFQLWpJX1Q2Z1lGaXM1cXN0MFN1RmVwNmJjdk1SWGZxdGkwZG9UOGpkWHc?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 11:55:45 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "NSE and Jio IPOs Spark Investor Buzz Ahead of Regulatory Clearance - The CSR Journal",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNnV4bzN0VDZnN1FFTmZHSGowVWU5eU1sM1lGbGZiRjZhbjRhWG5nTmFUTHVUMUFhNnNsWkdfOHhON01yNkJndXJXYVJ0MVk1QVJqTzE2OTY0eEFHUHNqNEdMZ255U0pHTk85cmJEV0xqOUtzUTYteG42VzhxSFNleWxMMWxkVm53Ym5kTHZ3VmJ6RXNxQWJz?oc=5",
-      "pubDate": "Sat, 27 Jun 2026 12:10:02 GMT"
+      "title": "Prime Focus unit buys 48.45% stake in Spanish animation studio - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdnVfdjFuanBBX0dkd1VNYnR3STlJQUtuSXVmMnZ5RmlodzNmZ2syQlFfYkZaQXQtVUVDVVdVR1pIaTA5OU0xWEcxZVpJcEhoSlFMZHIyNVJGZEdsT25IbHlBcDM2cGZPZkVyd1laTkk1c25ZVEh5Y1V6d21qSXVHcmo0ZGI0Z1lGTkl0YWdyQWQ4X3BYRTIxb000cDZJWkFJZmRXdlc4U052aXpoclRjNTZudnBicExBY0E?oc=5",
+      "pubDate": "Sat, 27 Jun 2026 13:58:23 GMT"
     }
   ],
-  "fetchedAt": 1782562433
+  "fetchedAt": 1782571839
 }
