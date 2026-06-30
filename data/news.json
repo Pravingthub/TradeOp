@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132096635.cms",
+      "pubDate": "Tue, 30 Jun 2026 21:31:35 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Market Trading Guide: Ather Energy among 4 stocks to buy on Wednesday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-ather-energy-among-4-stocks-to-buy-on-wednesday/slideshow/132095942.cms",
+      "pubDate": "Tue, 30 Jun 2026 20:42:07 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Stocks: Oppenheimer makes rare cuts to top US investment banks, backs alternative asset managers",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-oppenheimer-makes-rare-cuts-to-top-us-investment-banks-backs-alternative-asset-managers/articleshow/132094565.cms",
       "pubDate": "Tue, 30 Jun 2026 19:19:40 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Tue, 30 Jun 2026 19:03:56 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "European Securities authority approves recognition for India clearing corporation",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/european-securities-authority-approves-recognition-for-india-clearing-corporation/articleshow/132093727.cms",
-      "pubDate": "Tue, 30 Jun 2026 18:31:27 +0530"
+      "src": "LiveMint Markets",
+      "title": "KPIT Technologies flags weak June-quarter performance; margins under pressure",
+      "link": "https://www.livemint.com/market/stock-market-news/kpit-technologies-flags-weak-june-quarter-performance-margins-under-pressure-11782837827469.html",
+      "pubDate": "Tue, 30 Jun 2026 22:47:12 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Quote of the day by Edward Thorp: \"Hoaxes, frauds, manias, and other large-scale financial irrationalities have been with us from the beginnings of the markets in the seventeenth century, long before the Internet.\"",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-edward-thorp-hoaxes-frauds-manias-and-other-large-scale-financial-irrationalities-have-been-with-us-from-the-beginnings-of-the-markets-in-the-seventeenth-century-long-before-the-internet-/articleshow/132083945.cms",
-      "pubDate": "Tue, 30 Jun 2026 18:00:00 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold, silver rates today: Comex gold slips below $4,000, silver falls $1.6 amid US Fed rate hike fears",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-rates-today-comex-gold-slips-below-4-000-silver-falls-1-6-amid-us-fed-rate-hike-fears-11782831254381.html",
+      "pubDate": "Tue, 30 Jun 2026 21:50:53 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,77 +61,65 @@
       "pubDate": "Tue, 30 Jun 2026 19:02:11 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "US stocks poised for strongest quarterly performance in six years as AI optimism lifts markets",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-poised-for-strongest-quarterly-performance-in-six-years-as-ai-optimism-lifts-markets-11782825017405.html",
-      "pubDate": "Tue, 30 Jun 2026 18:54:11 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Nifty 50 sheds 9% in H1CY26: Is the Indian stock market ripe for a solid rebound in the second half of the year?",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-sheds-9-in-h1cy26-is-the-indian-stock-market-ripe-for-a-solid-rebound-in-the-second-half-of-the-year-11782821838363.html",
-      "pubDate": "Tue, 30 Jun 2026 18:39:15 +0530"
+      "src": "CNBC TV18",
+      "title": "RailTel Corporation wins \u20b9108 crore Mahanadi Coalfields order for MPLS VPN network",
+      "link": "https://www.cnbctv18.com/market/stocks/railtel-corporation-share-price-wins-rs-108-crore-mahanadi-coalfields-order-for-mpls-vpn-network-19935891.htm",
+      "pubDate": "Tue, 30 Jun 2026 22:17:52 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Dow falls, Nasdaq advances as Wall Street wraps up strong first half",
-      "link": "https://www.cnbctv18.com/market/us-stock-market-dow-falls-nasdaq-advances-wall-street-strong-first-half-19935781.htm",
-      "pubDate": "Tue, 30 Jun 2026 19:37:33 +0530"
+      "title": "Jana Holdings faces likely default rating after delay in debt repayment: Sources",
+      "link": "https://www.cnbctv18.com/business/companies/jana-holdings-faces-likely-default-rating-after-delay-in-debt-repayment-sources-19935882.htm",
+      "pubDate": "Tue, 30 Jun 2026 22:08:36 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Stocks to Watch for July 1: Auto stocks, Kotak Mahindra Bank, Prestige Estates, KPIT Tech and more",
-      "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-july-1-auto-stocks-kotak-mahindra-bank-prestige-estates-hdfc-life-and-more-19935734.htm",
-      "pubDate": "Tue, 30 Jun 2026 19:53:56 +0530"
+      "title": "Nifty Outlook for July 1: Higher levels fail to sustain but range remains intact as new series begins",
+      "link": "https://www.cnbctv18.com/market/nifty-prediction-for-july-1-key-levels-buy-sell-target-stop-loss-banks-it-q1-updates-auto-sales-19935722.htm",
+      "pubDate": "Tue, 30 Jun 2026 21:13:54 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "KPIT Tech warns of a weak Q1 but the Street may have had an inkling",
-      "link": "https://www.cnbctv18.com/market/kpit-tech-weak-q1-outlook-on-europe-headwinds-shares-end-second-worst-on-nifty-500-19935761.htm",
-      "pubDate": "Tue, 30 Jun 2026 20:26:23 +0530"
+      "title": "Rane (Madras) to acquire Hindustan Composites\u2019 friction business for \u20b9370 crore",
+      "link": "https://www.cnbctv18.com/market/stocks/rane-madras-share-price-to-acquire-hindustan-composites-friction-business-for-rs-370-crore-19935853.htm",
+      "pubDate": "Tue, 30 Jun 2026 22:19:17 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Hexaware launches AI platform to manage and fix enterprise IT issues",
-      "link": "https://www.cnbctv18.com/business/companies/hexaware-launches-ai-platform-to-manage-and-fix-enterprise-it-issues-19935757.htm",
-      "pubDate": "Tue, 30 Jun 2026 19:11:35 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Zaggle secures multi-year deal to provide enterprise software to NBFC APAC Financial",
-      "link": "https://www.cnbctv18.com/business/companies/zaggle-signs-five-year-software-services-deal-with-apac-financial-services-19935395.htm",
-      "pubDate": "Tue, 30 Jun 2026 19:01:21 +0530"
+      "title": "Market Pulse: Key triggers to watch before the July 1 trading session",
+      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-1-trading-session-19935818.htm",
+      "pubDate": "Tue, 30 Jun 2026 20:58:28 +0530"
     },
     {
       "src": "Google India News",
-      "title": "4 Stocks Beyond AMCs Benefiting From India\u2019s Mutual Fund Boom to Keep on Your Radar - Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdFdaWGs3RFM4SVlBRlNHcXA2aUxMUlZ4WGNwWGJ4QTFqUl9LQlY2S2ZCc09EeHQ5ZEhLY3BjZ0tWY3EweGw5ZzFkUzROdmh2akhTSVVTanA2czVKWWRnR202WmtNaEJTSEhBMEVNNFd6ZG9QdUdOY3RPVzUxbHFFVVM0Sm92dUVYVENuUEpkVmoxMFpiVGhYaEswRFRRNmdVOFBnVlExTFMtUQ?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:30:00 GMT"
+      "title": "State Bank of India announces superannuation of three senior executives - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdlFrQk9tNzFPWDd6WUIyN2ZVQnRPc2Nub1h6Z3JiZlpTbGNzZXZWeF9mWkxKeVUycE1rdEFHS1dhS2wyNmFvcHUwZ3g0YWl2em5tcXM1YTlYSVJNN0haVTF5WmYxelJwdmxfbzNLUlFZNm16LVpvX05WSzJkNVhlUGk5LWFmMjhDS3RSZlhRWUdpTkc0aGtEb0V3VHJDQUFLbW1xVUt6YXVDdkU1NmJjMkhLQkJkME5vY0k2RXhYcGZISUZrMmxB?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:42:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sebi bars Darjeeling Industries' MD, 9 others for alleged manipulation - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTzNTWUdfczdXM0tabm04SWdEQk1wRXdYREszNTBpRDRENVpsM1pqQ3dtM3lpdFpVZ3BXNkU1dGs5aVhMd3p1dFR4MEdzdml1bkhBVUtONkZGMEd3aEFuZFlGYjM1TmFiT1hQM1h3RU9FUmtRM0hOVGtic0hsTHNSYTY1OThOT1ZFOWxvRkhCOW96MzZZbEFBSkd4Q3Npc0J2T1UwLWpzdFl6LWJVb19meUtHdWRmdi1Kc25JY2tfMFNXMGV2WTY4ZlphdXZiV2My0gHWAUFVX3lxTE9maHJBY0NwajFVRjAwRGVVZWJlaURDaWZKTVNCUzVCYWNkMEFjSnF0RDgzNVQtUlhRRXNKaVRpUmNUSURZcDBpd2tKTlBtV204SkpqRk9BcWJvMDJPMVhnVGl5LV9XV1dMcmdSN3EzQVdfd1hLUVk1SVNjX0FRdmQyNlBqZU5NR3Fva3A1cEs5ZE53Rmc2VzNNS2J1Um1CNmh1VU1ZTGw2WFV0MC1JLVlHN0RoRENnX184Ull4M3BNb2VYRGpGSldEd1U0R0lWMEg5WEhOcHc?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:41:24 GMT"
+      "title": "PepsiCo India opens \u20b91,266 cr flavour manufacturing facility in Ujjain - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb1lwS3FHb0Nvb0dkSUJwbUhDNW9lNzFDWWZ2ODVxTzB1TlE1TlNBWGNQdlpmWGQ3Sm1oMHRneHNVSmdsdGxWZWU2VDdBVWNzZW5vTVJEZGVDa2twVVJWUTloOG9pczlYN3BsUWZTR3BmTDdUbXp6anl3Smc5Q1RhbEpuTDNDLTFrdldqaUtvVHBpd3ZLXzJvdFZXbGJTd2g3MlZ1RUdPcmlwOUtXZnpqYkFpMUh2ejZGdFJDVV9Sbl9vcVlJR0NxMnVNclNsV3R0bzdiddIB2gFBVV95cUxOc0dYQVBpdzloY05vVFJaWHJESGI4UklvUXZhcnlQdTVZQTVFVlBDaEgxOUhFZ1FDRlN5TUFZZUhqZlpMQnVFWVQ3NnpEeHBIWlVFcGNyOVpWanpVSFBzMm1SY1N4QkhNaENHZmNWSWktOEp0X255WkJxelJGLXpnenphc0pIejdIZGJEN0p3ZGt1S2J4MDRsM3dqYWh4Z1AwMWZmc2JqVk81aEY5X1NXNko4Z29NSlduV3E5WUE5dlNReExoeHRDbVV4WllpT0UzaHBFc016ZVE3QQ?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:51:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "DIC India accepts resignation of Head-Legal Ashutosh Bishnoi - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWRRZHlOZ0tVVm5YYThrUDhTdC0yYnF5eDkyTEpfYmFlZmE3RnlxLU02Ym9LaFcyTXVNeFdlUlBNMGFVMXFfZWV4aVpyT3Jna2RUV0Y1SjlKeDVUMmlVVThyNW9UUVVVQ0NKWWx5enk1V3J1Y3NhWGNNUmhpZzVQWUNLYnA2cU1QU2owRHZKa0pfLWYwU1ZmNzJHc1ZUcjA0bGNLd1lVQ2JjOV9CMnNIU0pOam1MRzdY?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:27:40 GMT"
+      "title": "Trident board to consider ESOP 2026 on July 6 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa1NZQVVoNGpYRDJLYzVZR3NsX3J6YzhBSmc1WG5FdFlOeFYtUFphcURqRktidk40ZW5HVk1xUHBxNnJBLU1XVHdyb2JHVHdLVGFIcXFjWnNaREdmMlZVZm1kRzg3bGppQXVRcjFiQ21KN2prRTBhS2M4RmlLbW1fRW04d012Ml9KNFg0U243Z1gyZWFKZkk1SENPV2RKWThpRXc3cg?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:43:41 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Tata Sierra EV arrives: India's quickest EV? Here's what it offers - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU0dBcXhzeFIxajRibkpFSFphdFY5eVkxdDdBTmdEMFFPT2l0XzN0ZTlVSHlQSUNkV3lTaGxNdi1CLUJJMkVMTi1saHpFTXlfNXY5OWd4M1hIb2pGV1M2M21VOUVGTVFfQ0RqT1JxSXZ0R0VKMklxMjljMWdzUDV4eWxxZThyZmtlS29sbklpRnk1TEg0QXJJUkFBT05rUTJFSU1oaTMxZWJ6enJkNllhb05fUmtsM1owdUU4eDV1dVBUUmNvVnczZmp3S0TSAdIBQVVfeXFMTWhjTUl4ZElFZUVkRWd4cW5wY1NDWlYta3NCQlRzVGlCSENIczlmdVFaUzJycnktWUFsdWlIdW5XRVBFdjRwY3ZOZnBXVDFfdUJ0SUJmenM2N3JfRWUyRlpHd0VGREZaY0ViSHE3cVlCTUJNdjlnd2YxY2ZrRHllajNRVXZEQWo2dEtjU243WVdQY213enBxcVlja3FHTXJWR09GRGJSNG5EY2hTNmF5ellfcnkzNFdTSElCRHV6c3BWN0lZRmNsR3dTdDdZUGctOTJn?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:51:30 GMT"
+      "title": "CCI clears DWS Group\u2019s acquisition of 40% stake in Nippon Life India AIF Management - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUJNZHFfVzJBTk43T3JGblNIbGFzSXdKVkNrbW5ya21oendYRFhVWTRhN3ZzMUg2b1VPOTV6cTU2ZHQ0XzRFcVFRYnZGby1QbVRTZGZfVk0yWGRqTnU5RlNNTkRNQ2ZnMElEVm5sT1hWT2MzQWhNQ3dUdnVBcVdOSW9VaVlwRWdNam1sT1ZYVVk3VWZWSmxZbkJKTUxMTnVGZGgxSDlkVVpLbTcyTXlodmhibE9nd2VzRFBB0gHAAUFVX3lxTE1CMmo5YVpHLV9BM3ZlVHVVZWNRbjZvbDhwVzRlbWN4Z2RPQkpEMTdGZFFvakJwNHdYbldPSFREWk5ITUxXYTFYVEs1SG9aQTVGSEFxODY0SUFEWWpFVzJXaEZsSWsyVVdsTTQwLUNmT213R1JMdmxKMEstcVpPR3dvUmQwazhDOXpxZFNSUjdWWklaZGFXSHQxQ3YzdEM3TEJZdWVjclRqQ3pma3dmcjRUemxBcFkzdlpuakFqaVA3Tg?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:39:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Why my daughter cried, and I laughed at Saiyaara: Devang Sampat - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN2RnajZJRW1mdE55UlJpRElIRFdaSnFXYUU2aHhrMlpvWm9RNjFqd29ERlV5MXpORVlkbk1KQUViSDZ5aDNxdnFnWWxmNl92Szg0ejAxSkpSVWlFdkhTcS1ycFAtcUxXaTZsT01QNDQ0bjU3eWFIcklraC1nc0VSNmlxYWRnQUFnWWl3OFNoNG1mMG9sdnNFTzYtYkVJVldVUjVacGZadF9OalhXV1RhQXFuVnR3UkkxOWpoa0NZREs3R05EY1JSc0I2NNIB0AFBVV95cUxQUjFaNDRPMzJPSGhIeFJjRkJWNmdHMEpZcW92TDdGMmVoZVZwaEhuLU9SN0paS0swUXl5Z2hoZkFjRUFCQzk2eEI0cjF6S1VLZHpnMHFuX19ic01sakNZWkdWazZaVjhuelAwUVN5YWFkck5NdHJLNzMzVG5RczRjaFhTYm5sblU0T1ptdXVEUTBvTmtqT2FjMXR0XzdSQlhQa3JXdjN1cmxQdTNnUmpqWUdBT3RkYUZhR1RIM0JKVUtTdnlaSjd2Wnc3UDl6elhs?oc=5",
-      "pubDate": "Tue, 30 Jun 2026 14:50:56 GMT"
+      "title": "Kotak Bank to buy Deutsche Bank's India retail, wealth biz for \u20b9282 cr - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMTJndDA1VnVNeWpIcGQxMXB1SmdPWkdnYnJvYXE2aGg5Um5TMlAxeXBsaV9PZXFRVG9lZi11OXpXbWxhTENUcENaMFZsaUlreVNkckVyUWlhekhrZGZnRDFJTm04b252M0Y0d2tIMFdlQWxTcDRWSDFqSy10N096YWRMa0RGanlUNkhaXzZGMHh4SG82azctRDFaY1NHSzk1Q2dLbUVZV29fUENKTzV0dktraWdvalJNSjY0MGw0RndpNlVub1RuTXNOVmZaNkVDSGR1QWlma3PSAd4BQVVfeXFMTVUzLVEweV85MGM3RnlJbk15dXJrc3I4WENxa19Sa0lwM1J0Ylk4alE5M3AwSEVDcV8za3YycmUxNWlqSjIzbjFhZUlWVmdVZHRtUkhmdHdyemN5aDZuSzBpTjkxMW1qM3dqSWFDOHB4enE1emowNzhEODB3anhBWHFMN3NJTDkzYmNzMDQxZWlqX2VIUXN1T3VULWtnNHVvdUYyV1k4NjFQTlY0U0JWYWtYOFpuZXhaQnp4SVB6NzVZWnpfUm1ra2NUT25YUVpyc0M0eUhkMXQzMWxzLUZ3?oc=5",
+      "pubDate": "Tue, 30 Jun 2026 16:30:54 GMT"
     }
   ],
-  "fetchedAt": 1782832692
+  "fetchedAt": 1782839981
 }
