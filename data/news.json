@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: S&amp;P 500, Nasdaq edge lower as tech shares slide",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-tech-shares-slip/articleshow/132124218.cms",
+      "pubDate": "Thu, 02 Jul 2026 01:35:45 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Federal Reserve chair Kevin Warsh says he will stick by 2% inflation target, vows to bring in real-time economic data for making interest rate decisions",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-federal-reserve-chair-kevin-warsh-says-he-will-stick-by-2-inflation-target-vows-to-bring-in-real-time-economic-data-for-making-interest-rate-decisions/articleshow/132120138.cms",
       "pubDate": "Wed, 01 Jul 2026 22:56:35 +0530"
@@ -23,12 +29,6 @@
       "title": "Market Trading Guide: TBO Tek among 2 stock recommendations for Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-tbo-tek-among-2-stock-recommendations-for-wednesday/articleshow/132118726.cms",
       "pubDate": "Wed, 01 Jul 2026 21:09:01 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "From WhatsApp chats to food orders: How Sebi cracked a Rs 144 crore stock manipulation scheme",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/from-whatsapp-chats-to-food-orders-how-sebi-cracked-a-rs-144-crore-stock-manipulation-scheme/articleshow/132118593.cms",
-      "pubDate": "Wed, 01 Jul 2026 20:52:02 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -98,12 +98,6 @@
     },
     {
       "src": "Google India News",
-      "title": "Reliance Jio\u2019s IPO set to intensify investor focus on India\u2019s telco sector - South China Morning Post",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQR3Ixb1VCbDNvZ00wTlhvSHlsZkFucTRwdmJBWGpsM254Y1BSUHNRVG5wbl84OWZ3dEs5d1p1OWdmWlhySWZQblMxZ3BoUVllT3BwVHZqcEFodkRLTUdhc29MNjVweDNRRVhCNHRaclhtZ05jZ3ItR0NqN096Sm51cllINUFGczVSTlNWNF85cmthME1kT2V5NFZ1WFkwZS03TExXLVpvTFB3QVNnSWxDd1c4VVBrS0lsdmp2V3VPbmxtWEh2cU1hWFdWRU9CUdIBzgFBVV95cUxOQ1RIdWd5RmtMNHI3VDE5V0VFWWRSSTJDalZtYXdIVHFFOE9KdEJ4ZEFvUDE0VFd3dEpReHp2UDYzLXJsTGJHdC1aQ2JwclBiSXRIcFA3T0I5UHY4dEZ3T1BUaExhdzZnSGtWREtZby01OTcwUjFENTN5TXNqTjQ1ek1ZRkhLVUx2Vk5tZFprOHcwUWN3d2VvdVkwUFNwdjBFaVUzcjFsRGZjWG9KVDNtT1dEemhsbWpIT0VFSGZFTWw2dTZ4QWFPMkdrZTd2Zw?oc=5",
-      "pubDate": "Wed, 01 Jul 2026 19:24:49 GMT"
-    },
-    {
-      "src": "Google India News",
       "title": "Isha Ambani\u2019s FMCG ambitions rest on Independence - The Morning Context",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXE3bzhabmJWYTRsdGwwZWRkT25BNklYeGk1UE5uMGo1dDU2YzJ6Ukl3TkFCWGxpVzBYMGpHSTIzQUVCUWM4Y1ZidVhfdGg4a3V2ZVJOajIzN014SzBkRTNqSGVpNW0xMU9LRjFjY2l1SXJQMlF2MkJkRERVWXNzajcxZkpTUGFaQmFpM1hFeVIwd1NjVlpadzhHZ0FJbm9hYm1CRkFPdw?oc=5",
       "pubDate": "Wed, 01 Jul 2026 19:58:16 GMT"
@@ -116,10 +110,16 @@
     },
     {
       "src": "Google India News",
+      "title": "PSBs raise term deposit rates to reclaim deposit market share - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOWnotWk5jOUYtMVZ4TUNRTzIyZ3IzSzg2YnBfNl9TT3lGZGtGWlEzaEZNdlJ1aXBqbWVwVzZjRVpTSXhObTNFNE82OEphUjc4VmZYNFpyTjQtZkdMLWk1bU1MRWxuNElQUUdDaVpxckpLalpKWS10c2MzclJJNDA1eEtXRXc1blVZb0ZTa0F1QnFGOEs2Wm1fTDhmV2FZbnJycnpFNm1vR2o5Rkl0ZEFMTGJER3BfUWxiYTEteU9WM1BqUTVxelVXS09VU3c5VU5GVFIwRFJYWnpFSlFEZ0F1UVI5WdIB6AFBVV95cUxOaXhLX0dzYTB5QXJLbnNjRzg1eEpZNDVYSVBXY0RtN3J2T3p6al9zN3BJQkxIWnpMdWRvNHZGUXN0akU3ZFJrbFI3RTlwb0lHUlM5Y2xTazJLMTd5X01mVl9XRkJoa2haOWs4NGozUEVhQVJRNl9sVDNuanRadU1zTFViWnJMWkdhVlQ4YzNXeWYxa1NnNDllTjZsdU1IVVhuY1kxQTJyNUJhTV9Ob3BybUxBaGhNVXpfdjhaM3VEX2ViWDZISzczWFBzdWFYaXNhakNpOUZ0TjR6emRkelBXbGktYVpZczFW?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 20:19:38 GMT"
+    },
+    {
+      "src": "Google India News",
       "title": "Robinhood stock jumps on AI crypto tools and global expansion plans - Invezz",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXpEQnpUS0NpVWdXM1MzTFdhQzRkQ19UVXptcTEwVTgtX1pKelFYRzRxbVVJOW04TEljNElDNFlrMXJOWHh6bFhlYnN5bzFaUm1iU0lYaU1TS0ktN1BCd3lWRmozcnlWRXpfdkllRFBLRWNZRDdIQ0tqaG1fVFpFVDdUVU9jMGhveGJPSUNwTFlsa2Z2c0hXZ1RwS0F0LWEzZmtXbFh5TkZKUQ?oc=5",
       "pubDate": "Wed, 01 Jul 2026 20:08:24 GMT"
     }
   ],
-  "fetchedAt": 1782937478
+  "fetchedAt": 1782938920
 }
