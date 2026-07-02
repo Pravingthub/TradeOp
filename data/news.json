@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US Stocks: Micron, Intel and other chip stocks fall up to 11% after record-breaking rally",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-micron-intel-and-other-chip-stocks-fall-up-to-11-after-record-breaking-rally/articleshow/132142872.cms",
+      "pubDate": "Thu, 02 Jul 2026 22:26:53 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Icra cuts Utkarsh Small Finance Bank ratings on weak asset quality",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/icra-cuts-utkarsh-small-finance-bank-ratings-on-weak-asset-quality/articleshow/132141926.cms",
       "pubDate": "Thu, 02 Jul 2026 21:31:58 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Thu, 02 Jul 2026 19:53:04 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Two-wheeler exports and EV adoption signal strong consumer resilience: Sachin Relekar, Axis MF",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/two-wheeler-exports-and-ev-adoption-signal-strong-consumer-resilience-sachin-relekar-axis-mf/articleshow/132140732.cms",
-      "pubDate": "Thu, 02 Jul 2026 19:45:06 +0530"
+      "src": "LiveMint Markets",
+      "title": "Tesla stock drops 8% despite strong second-quarter deliveries",
+      "link": "https://www.livemint.com/market/stock-market-news/tesla-stock-drops-8-despite-strong-second-quarter-deliveries-11783008628707.html",
+      "pubDate": "Thu, 02 Jul 2026 22:29:44 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,71 +61,65 @@
       "pubDate": "Thu, 02 Jul 2026 20:07:21 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall Street rises as Treasury yields ease after softer-than-expected jobs data",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-rises-as-treasury-yields-ease-after-softer-than-expected-jobs-data-11782999863847.html",
-      "pubDate": "Thu, 02 Jul 2026 19:28:28 +0530"
+      "src": "CNBC TV18",
+      "title": "Bajaj Housing Finance Q1 disbursements jump 33% to \u20b919,500 crore; AUM rises 24%",
+      "link": "https://www.cnbctv18.com/business/companies/bajaj-housing-finance-q1-disbursements-jump-aum-rises-19937689.htm",
+      "pubDate": "Thu, 2 Jul 2026 23:39:01 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch ahead of the July 3 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-ahead-of-the-july-3-trading-session-19937627.htm",
-      "pubDate": "Thu, 2 Jul 2026 21:44:06 +0530"
+      "title": "SEBI mulls extending net fund settlement framework to mutual funds",
+      "link": "https://www.cnbctv18.com/market/sebi-mulls-extending-net-fund-settlement-framework-to-mutual-funds-19937675.htm",
+      "pubDate": "Thu, 2 Jul 2026 23:27:41 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Bajaj Finance Q1 Business Update: AUM rises 24%, new loans grow 20%",
-      "link": "https://www.cnbctv18.com/market/stocks/bajaj-finance-share-price-q1-business-update-aum-rises-24-new-loans-grow-20-19937625.htm",
-      "pubDate": "Thu, 2 Jul 2026 21:29:36 +0530"
+      "title": "Texmaco Rail wins \u20b927 crore contract from South Central Railway; order book at \u20b91,159 crore",
+      "link": "https://www.cnbctv18.com/market/stocks/texmaco-rail-share-price-wins-rs-27-crore-contract-from-south-central-railway-order-book-at-rs-1159-crore-19937670.htm",
+      "pubDate": "Thu, 2 Jul 2026 23:19:02 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Equitas Small Finance Bank Q1 Update: Gross advances surge 27%, deposits up 10% YoY",
-      "link": "https://www.cnbctv18.com/market/stocks/equitas-small-finance-bank-share-price-q1-update-gross-advances-surge-27-deposits-up-10-yoy-19937583.htm",
-      "pubDate": "Thu, 2 Jul 2026 20:42:29 +0530"
+      "title": "Union Bank of India Q1 Update: Global business up 8%, deposits rise 4% YoY",
+      "link": "https://www.cnbctv18.com/market/stocks/union-bank-of-india-share-price-q1-update-global-business-up-7-5-deposits-rise-3-5-yoy-19937650.htm",
+      "pubDate": "Thu, 2 Jul 2026 22:34:52 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "UCO Bank Q1 Update: Total business up 15.46%, advances up 21% YoY",
-      "link": "https://www.cnbctv18.com/market/stocks/uco-bank-share-price-q1-update-total-business-up-15-46-advances-up-21-yoy-19937566.htm",
-      "pubDate": "Thu, 2 Jul 2026 20:13:36 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Nifty Outlook for July 3: Index eyes 24,250 breakout after reclaiming 100-DMA",
-      "link": "https://www.cnbctv18.com/market/nifty-outlook-friday-july-3-index-eyes-24250-breakout-after-reclaiming-100-dma-19937563.htm",
-      "pubDate": "Thu, 2 Jul 2026 20:05:06 +0530"
+      "title": "Central Bank of India reports 29% loan growth in Q1; total business rises 18%",
+      "link": "https://www.cnbctv18.com/business/companies/central-bank-of-india-reports-29-pc-loan-growth-in-q1-total-business-rises-18-pc-19937654.htm",
+      "pubDate": "Thu, 2 Jul 2026 22:28:57 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQc1ktM1VyY1ptY3lfV29ybmRoQVRKRUlvTmwweUU4M2JTN2YtWklPcjVMbm15c2E4c0RhR2Qtc0JxOVZCd3VFM2xjQlAtNHAwZTRHRnVNOVllTXRIQTJnOE5hTExkOVhDTDBnSHY5ZE1IUmFnQ0JEUE9oSjZJeU1Eb3NnYWlWS21TVXgwS1JWQkZkWjJ3UFUxUG9KazBpQzFSeW1xS2dpSTk0dTRmUklyMDNDbktPZGxpWWtvSmpXNmhWVHpQVHVtSlUyZVJuY1NBbnRqZGVQWlRaZm9peDJF0gHkAUFVX3lxTFBES012ZVJlT2hkZGlZNktZTnFOYVNvbnBEcHh5VzBvN1A3RTZHTXhQUkhsSy0ycTNDNW9tNjlrUDR1d0hEcTNTcUNMRmVkX2RXLWJoMDZSVmZxa2h6cTVQT043OHJZSV9BdVhtOGs1aXNmU0pHVldsX19YRVN5X3FFRldWMnltRVA2Ty1RY1hxb3ZfTnV6MnRlcWNPXzdPYVJhbXBwWG4wc0t6VWJSV0NzS0VnaWN1V3ZON0IwSXktWWl0alFSTUFDT2tBbEpZLVMwWGo5LS01c1NaSzVfSjZCcDNaWQ?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 15:55:35 GMT"
+      "title": "Share Market July 2: Nifty Crosses 24,150, Sensex Rises 579 Pts as IT, Auto Lead Rebound - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMU5MQXhibWlnY1pnY0U4MkY3c21zdTgzb1QtS1R3RXNCYTVGeXVsTmhkbklmMTdqelM0b3Fqa2dYTHpYb1RrVmh0WERORHNMRVZJTUlHOGtTQnVCTjQ5WUY3SmJYNl9Pb2pjdjZHWXVVNU9Vand4VUxWQVdKemhvWW1RMjF3b2xUaC1Od1I2Nndab1NMaTlZMEpPU3k0RjEwS1NaZlo4TC05X3ZGWGIxVlRR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 17:38:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Fallen on hard times: AI pressure is mounting on the Indian IT industry - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVGc1MXJ6Yy1sM2tobDBqaVRFeGxaWFluQ1cwT0ZGdnBfODVuTWlhaWloN1Z5bk5GZk5IY0k1WEQyZTN6Q0ZZTHVvMWM5LVBHWXVQZ2xPUTc2dTRPakYzeFVBaGlVc29wUkRmOUpNM3NuRk9NeVBuay1ZZmgydFE1bWdVV3J6bFNlNHR6WWFtNFFzZlhiRmQ0T0VfbE5SdVFuZUExRzJtcWFrUjlEZHFQMVVMQzFTUTJUNlR4SnpKTTgzTTVuMnRKMFptMHJqc1otenV5eUFVdFh5QdIB3wFBVV95cUxPS1lqMzNmYi13QXUwTWl2RVRPQllpYUxNQ3hZWVc3SUFGQUZ5N2R5ZmVYbEdYMHZfdVJmYnYwYzVDd20zc1NGTFB3QS1nNl92UDh6TlhfZ0RONXhrSE54clpYNlFsTlFuSnM5akZaemRyc2Jqb2dDMXRZR2Y1RFNhbG82Wmk0bWpLQ1NLWVA5Z1JDMzd4VXFLYjhUMEdUbjh4YVRabTBieDQ2T0ZHMzdMV1NsaE0ydWVhTXRvbEFhVnRmdnpYVmVUejNMSm9MUEZQT3lWd0pIV0xLNmpCNUUw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:20:35 GMT"
+      "title": "Trade Setup For July 3: Nifty Bulls Eye 24,250 Breakout As IT Stocks Rebound | Key Levels To Watch - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc1lqTEZreTdNSGZFeHFuVVlkR0FFQmt5SnVvOFQ0NTJBeEtEQlowWWZRaFZWN0toQ2l5eW1OX3RJaGtvZVFQNUJWbGdVS21vOVpfU0dwTzBfeTdreUMtOGlaWFhtQ2p6NE5VZUkyWWl3Qm5XazkxWC0zdTdWU2ZfQWRWbUJEU3dwNW1hd1RRWGRJNjdBWVg2TnBkcXlaQUFlZTZ0QU5aZ3o2RlVyWXZBVmdFUm5maFYtNVJXUkhoVXdFOElsME9uOXZPZFhwRkdsTkpUYUNR0gHeAUFVX3lxTFBjTWJqLU5zTW5PdU5aMkhnREVhUHRpODlrV1ktZUIzcWNRbHd2NjNmUG5zdEI1LThXYVd3LTJKNGN4QWZfejZtdWNaeDhVQlREalFIM1dHY1dyZWprXzRBYVlpNG1MNEp0NGZBT2hjQm9pZkxUbGZfMzd1SHpZM2hsWmlYY0pBb0FPNlBmOU90RzdBZ1hYR21qaXZXVVdrb3BaMlhRZ3hYSzFETzV4eS1nS3M5TDJkcU9oQ2tSV2dBZTZPWFhwR0xyZ3k1UEs2RzVORDZadGQwaDQzUXdOZw?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 17:23:49 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Danish brewing giant Carlsberg files IPO papers for India unit - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVmd1S0JLOGZTWTlvVlhBb3VSWWowUklDczYyMFd4UWlVZTRiMnFZSnVKX0pXQ2VJRG9ZSGlUd3dqcjdIaV9sdWoyelplLWN5bkZnZUdtZGxFQVJqR3RIcFJ1dXVqd2FIWF9VOG9lMHFWbXBKLThfeDZVMzB2MTRGMUw5bU9lWTlDY0VRcEQ2cmEzNnlMLVJIdEVSZnpoOHZ2VHV6VG9WaHJpdmZRYS0tQVJZZ3Q5ZmJvdE9vT1RyTjJBN3hER2FwWjVmZDDSAdIBQVVfeXFMTmREdE82X2dyWVZXX1VFUnBNcUE0dXR4dWlEVmpRTDV4Vy1FM2RoUW8wYzJGTFVTX0tBcUtVTGJTX2YtVHlqTVktR3REZmRPMnpYTVg1MGhMVGlSaE9ROVRpNVN2UFdLbkkyLU9EaWEtRnkyYy11azJRYVdyUno5TTg3OUI0c1dXNE8zWXR4dzlJdVZwN0pob2ZPclhWNEIxLTdZMTR2eDloQzVyUzR2MlNEemdWVlFTUjdyd0hPQmcxbG1WVm43MWpLcU9kLTM4M0xR?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:09:22 GMT"
+      "title": "Jio\u2019s planned IPO puts India\u2019s telecom market under investor focus - Communications Today",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcTBBVGdMb3lXRzRWX2F5dDhwc2owZ1JuaEdDclRHZ3pfa3lxY2x1eURNUHk4VzNUWXBUa2gzeEIzY0k4NkJNQnBfcGR2LTZuS0NPMVd5bFQ5NmRxc3MwdmItaVlNTVFFM2hMOGZfWFBvbVk5QmpqZXZCeHpJcG90RENOblJmWVRUeHVkR1lMX241b0lsTzhZWmhDRzBscXI0TEY4YVRR?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 17:53:48 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Tesla Stock Falls Over 6% Even As EV Maker Reports Strong Q2 Sales Figures - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOWRlVUc1eHdxSWRBM2QzcHFQWTdyb2F3SXpnTUlhMTg1ZjFSdXlkZVJ6SDlwNnF2RnhiVzF1YkF0X3cxak9fY19xbGdfTXU3ckk0dk5SSTBoNFQtYmE1bGFUd0ZnNzdtcTJ4TjBCRjdLTzlLNTJMVDFBRW1HSE9UZ2N2Y2pyaDA0UnBTblNfLXJ2Q05BS2xIaTNpYlR3MkttMWhuQUsyOF9yU2V0RVJMTUdxVW80c0HSAb8BQVVfeXFMUERSbnJJM2s4NkxMZ0pCSFdtZ0ZBNVhfZ2tZVkFVbWJPSUdnd2s2N0FGdm1BV2tvY0xWYWlPUGlGTlJTV21FckdGeU5NaFZYemdOWWprTl9qOU0xeExkT1JZaUJ3N0N5cnEzQVEyX0Q3d1FPUWxkRGU0RlJZa2JmbzFrTmp6ZV81NjZfUVNSQzBrc3R2X2hVcHY3VTByc1AwLWdXWmlJMGlOQzlCVGdEejNwbzRTV3ZHYUNib2tVNHM?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 16:01:37 GMT"
+      "title": "Platinum Price Today 02 July 2026 \u2013 Latest Platinum Rate per Gram & Kg - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83NGFTbjFrVDVkNDNFQVFkOGhTeXg5RHBsUnQwS1FoSXo0VVdlZG9URG5GcTQ5RXNLVFc1UzdFZW1VOXVCR2NKX0hMdV95RWhmcUROWVJtejRyMzJiX3B0dXBkOTYzV3JsZ0JtTGl4czNBNlU?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 17:34:31 GMT"
     },
     {
       "src": "Google India News",
-      "title": "ICICI Prudential MF acquires additional 1% stake in AWL Agri Business for Rs 234 crore - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQlFOTTdjYk9mV2lxVmtiZW85RFhTam1VWmF3WGVIMWdIcENDSVNBY3Zvd01TcVhqeTZrYUJ6bGhsZFNfMTRYU3BhOEJ3U2tZX2lFTl9xOWRPUXF5UndqdTRwRDdJMWdObFR1WHZ6TS0ydVNEWkdKMUhqYWJBSWY2dHlseFZCZTJMdndPTm9IeW81TXE5TmZFeXVvTUJKMlFUVmo5LUhpVE54Qy0yTE83OXhOVEhoWXZUdzZzV3pjZXExRnByUTBfX0ZrYUhmWlBLSUoxazIyLS1RanA4OURJTjJwc3dad0RjWlHSAeoBQVVfeXFMUEJRTk03Y2JPZldpcVZrYmVvOURYU2ptVVphd1hlSDFnSHBDQ0lTQWN2b3dNU3FYank2a2FCemxobGRTXzE0WFNwYThCd1NrWV9pRU5fcTlkT1FxeVJ3anU0cEQ3STFnTmxUdVh2ek0tMnVTRFpHSjFIamFiQUlmNnR5bHhWQmUyTHZ3T05vSHlvNU1xOU5mRXl1b01CSjJRVFZqOS1IaVROeEMtMkxPNzl4TlRIaFl2VHc2c1d6Y2VxMUZwclEwX19Ga2FIZlpQS0lKMWsyMi0tUWpwODlESU4ycHN3WndEY1pR?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 15:53:42 GMT"
+      "title": "\u2018Now stop talking!\u2019: Hoyer erupts at Russell Vought as Trump's deficit comes under relentless fire - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOcmFHb2tsa0JBM09yamVKTnpOWm9sb3lPV2xtbEJIdUM2MkFWdVFsTk1CdkZuNGszUGZOY0Q1WTY3Y0p6bGE2R25yYjQwdzBHdGZCekNUUUgxaTVMMk4yRUhoRDA0WlN4TmI2d1NabmQ5X3BjUGxZNzFUdkpuQmhKNE05dFVqMlpDQmtzVXVXSEhMZGx2Y1RCVmhkM3VUdVdOelF3bzVIUTh4VjRBSGtfeFlnN0NBRGxtS1JvR1d4Y0tKTU5NRmh3QWFoZDJXNXlMTEctTnJRSFFObkxRUFNjTm9rNHJfbFgyemd5aloyTHVEVU1adjBqcUI3QnBrdFkxRFRDUjFR0gGLAkFVX3lxTE82N0JTNjJBUGdsbnV5a0VHamlGd1VrYjlrcV9yaFA4ZEQ4VTVoT3VwMTJ4dVdOUksySWFIMTdoZUkzNVliRmx5M2xNMzFYNmExcUZDdzNaM2pYNEp1elVlZUV5YjZsV002LUdWS1dxZURQN0xkc0Qwb01hbFRWYUNITVZPX21XWDIyWGdTR1BILXY5bTliV0lvbzV6YzVDNk1MR3lmRnExdHJBM2NkY1NHRzYyUTJONGNoZkxkc3JNek9ZTEcwT1RnQjIyTUlPNE5uVmxTYVNOMGRYeXJ0S0dMbFNGQk5panJPVGlnZWN0bG5XUW5kQWdvcWhRSUxTWmFZUkdwcEFrUEtjQQ?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 18:00:20 GMT"
     }
   ],
-  "fetchedAt": 1783009647
+  "fetchedAt": 1783016063
 }
