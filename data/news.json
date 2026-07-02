@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: Nasdaq ends lower with tech slip; investors assess softer jobs data",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-ends-lower-with-tech-investors-assess-softer-jobs-data/articleshow/132147710.cms",
+      "pubDate": "Fri, 03 Jul 2026 01:35:14 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Stocks: Micron, Intel and other chip stocks fall up to 11% after record-breaking rally",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-micron-intel-and-other-chip-stocks-fall-up-to-11-after-record-breaking-rally/articleshow/132142872.cms",
       "pubDate": "Thu, 02 Jul 2026 22:26:53 +0530"
@@ -23,12 +29,6 @@
       "title": "Market Trading Guide: Suven Life Sciences among 2 stock recommendations for Friday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-suven-life-sciences-among-2-stock-recommendations-for-friday/articleshow/132141470.cms",
       "pubDate": "Thu, 02 Jul 2026 20:42:32 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "MacRitchie to sell up to $200 million stake in India's PB Fintech, term sheet shows",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/macritchie-to-sell-up-to-200-million-stake-in-indias-pb-fintech-term-sheet-shows/articleshow/132140824.cms",
-      "pubDate": "Thu, 02 Jul 2026 19:53:04 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,21 +92,21 @@
     },
     {
       "src": "Google India News",
-      "title": "BSE's Options Boom May Turn to Bust As RBI's New Rule Exposes the Fragile Empire - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmE2OC1uWldFYk8tUW9xNUtNYjlsNzNlSnI4Ul9UNDNibGtxMllBS2tmWVZTeXNMbXBLZk5FUVBIQk9fVXhPN1pMcEJWbjNjd3NuVDU5Y2EyVVdHc20tbThMTXRJaklVNzZuN0xGYlNtQ0hUT3VJZG1ybnljWXdqVlFlMjRCSGhhUTFMYV9WN0t5ak1hczVLa0F2eWJvVEpsRkxWVEd4VmFyX1gzX0VQeTVuTVMxSjFLdlpOZWh3ZkE3dw?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:01:45 GMT"
+      "title": "Stocks to Watch Today: PB Fintech, Bajaj Finance, CSB Bank, Ujjivan SFB, Marico, Titagarh Rail, BLS... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQOHhHVFd5VlNDc0d2aWNvLXpzekE0NmtXalJPc0hhbVlPT01YaGR2UjRPYzJSNzZKWGk3dk1nNm50bkVJSmJXbDdzc0FlTmNqZ2otZEpITDVLQTE4TnRRNHJ1dEJpQlh5bkJmMk8ybHY5U1FzaEROYm9aWW5vcTl1bGwzVU1FbGUtS0pNS2JQd1FhMzlBa25HMjZRNTFxQjdwZVRGMjh2c2xCSFAzOGJ6MTJHdVlpa1NHTTFoLXphNzlkYTFjdk04dFhiX3VXUnJMdlNxVUhYM1JwWHAxakd4MzlFM05hRGo3VEVHZjZKdXYxNlVsOERKSG1wbkdBWWxyMXpCaW5lTzVpT2o2SVpzemRGR3hGZldkZ0kyNXdZQW81ZUR2ZTBDOUJiRk5fekFmV1ltUtIBtAJBVV95cUxQOHhHVFd5VlNDc0d2aWNvLXpzekE0NmtXalJPc0hhbVlPT01YaGR2UjRPYzJSNzZKWGk3dk1nNm50bkVJSmJXbDdzc0FlTmNqZ2otZEpITDVLQTE4TnRRNHJ1dEJpQlh5bkJmMk8ybHY5U1FzaEROYm9aWW5vcTl1bGwzVU1FbGUtS0pNS2JQd1FhMzlBa25HMjZRNTFxQjdwZVRGMjh2c2xCSFAzOGJ6MTJHdVlpa1NHTTFoLXphNzlkYTFjdk04dFhiX3VXUnJMdlNxVUhYM1JwWHAxakd4MzlFM05hRGo3VEVHZjZKdXYxNlVsOERKSG1wbkdBWWxyMXpCaW5lTzVpT2o2SVpzemRGR3hGZldkZ0kyNXdZQW81ZUR2ZTBDOUJiRk5fekFmV1ltUg?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:56:36 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Adani-IHC foray may rejig India's aluminium market mix - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ01BYXB2TTR0aGc3cWlKUlMyWnljM202YkF4cDB2STRKN2NZRkJUbG1HdEtXWVI5UVpySWVQMnJRb2I4eExnNHMyWC1xMnNXbVZRazRJd1Q0OVUwTmEyQlp0cmsyMGNSUjVBeWR6V1ZNaktob1dGcnRlWXdzUWtZSEU4a1ZQWDFTclRYdC1RWkN1b2R2dUI0NE5xX0pHdDc1Z1dBRlhZbE5VRnRYZUpsR1JMY3BZR1Bab3d3cHptX3hvTkpXV3dQaXJpaUhCVnFIVl9XQ2RoYWFicW1BNXfSAeMBQVVfeXFMTmNxbk1LZTFWTHRnRnFkX3dlMzh2LUc4bGotVFhKY2lNWlZvSTNlTkdTNkY4LW5xckhOZFFhdU9Xd2pZaWNmWVBaY1FXMnZPeFBrVU1Wc3pPcjVkZWl2X2oxRXVqSWtPMzFSWnI1RFd6TG1tLTMwd2ljTFBWelJSQV82YVJEdG0tQzF1S1REYnRwWWdxLWJkVjJLb0pDWndBUnFVYkJ3TV82REkxSWZ0YzAxNzVvRkNCNzJ2UGs0X0swYjZRNFZSNGltbGNQaVlmWThBQW5PSTdlZEpqZ1ZFdFBHOGs?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:10:57 GMT"
+      "title": "Uniparts India grants 7,368 stock options under ESOS 2023 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEd1WEhyR0hXUlQ3SjJWYXJBS3dmbjVtbHdJR3dEWjRxMVN0QUhIRzFiUEZncWNjSG9veTFla29MSDZPbXJ5eWFBYjdHQW9MTjB5WC00TlJ1YVh3QXVlSWFHWnJWOGFJTHBtZ3Njd25YZnRwTExscHRndlo5NGZlb0J0N3BBQ3RBazJjV0JvU2t1TmZJYWVoYW9kb1lIWExTQno1QVFXNjZnM2VfUGJCN2lTRVk?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:55:46 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Pajson Agro pays \u20b95,000 BSE fine for filing delay - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWDZKODR6UERZMTI3U0NMNHptSDZBOGttTWhvdVUtcXRQMTB5cTRyMjcxWDNnXzdTMHpnb1pEUHN3WDB2MHFxSFN6QjhpOWcwZlhVZTlabEZYVnlfOU1CSFN4dkpqMjd6SzZTT3REQkhpUjZ4N0xaWGoxeno5MDhqblIzbmFRbjVhcEpqNkpZUkMwN3RlODV4QVR3V2ZhaUdkSEZQbGlJdFA?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:12:00 GMT"
+      "title": "India-UK trade pact sparks rush of export orders ahead of July 15 rollout - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSlM0X1lCajJfeVRoaTdPY21WdUpIRXBqWkVOWVQ3bE91dElEUGJXbTBfT0hnak1iWTdGSzROUi1ZMUpkYXZpandsV3RNcVdEWkJmdDJuR1N6MFN2OExlOGcwVmU2Ui1yNlJmUjdQMHQzV3hJYVMyanNDbGtGRjBZQWN1YmphNUw4T3V4aDhSYmd6M00wWHZlcUJaTDZKQVVEbFR2UGRDZUtKTXhsNHZSamhzTUNFT0k5ajY2V1NZU1NtRnhxVEg3eVZyZHdYSlFLQTFNVE1VWWZPbkxEZFNqVFBSMkdXRFhTVzdiVjFpc0RvNU85RHfSAe8BQVVfeXFMTVJYbnNETlB5NjNPN1pUWHZGZTRwWkpFQkNraXhTQ0kzWmM0aGs3WlQwdkxJQWx4VTltVnBCYkd1UFJHS1dwNVpqZ2E3MFVXM1RNNk51ejlRMjY5QVRPSWRSYTI2WVd2akpXdVlBZUN0bHdOOUtVNEFhMUZyRlVyUVlrUnM0Zkh0bTJQa3RYblk2Ymo2Z1NaN0w3UENoZlhNOHVvNElySmZXRGxRVEltczJRZUJwQ3NhVVRzMzJ3NmdDa0xHc2c2MF9NSWNRVzJfT0RMWG1tMlJsOGpRWFFIcThXVXdmZDFuYUh4cjVKZFE?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:30:29 GMT"
     },
     {
       "src": "Google India News",
@@ -116,10 +116,10 @@
     },
     {
       "src": "Google India News",
-      "title": "India-EU FTA legal scrub to end in 10-12 days, deal by Dec 31: Piyush Goyal - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbW11QjFRTWwwWDdlU19mZHBVbW1DQldJT1J5dE14b1l2cWRnRVdSQW44RHRHTTljUm9QczFFaENaU21MM1lMOTZrenZzM0FvSDNUYktmQ2t2WkdOR25STFVwb3NPckxOMFotNHZTNzUzcFdSR081TmpMX3JFamRYQk9PQ1g3WGxsZndKQ20xNE9jQTZCeHp1VFhlZVRSNjFGQ1pLd1NwcGJCTUw2TF9rSEV6dGxXeHBvVW9xSTNfQmNrREtpTFNIZDQzblNYVE5yUzBFLXdkLWM4bzVOZ3lvcnJuS1pON0tYRFRnVzBKQUw0RUVsR0HSAe8BQVVfeXFMTzg2bWlyNG9ZbTV4TFVhODNNdTlDWmE0RThVckhGbE1OSS1oWkZkaUVsRktlWHo5TE9Ya1dlOU4zbXZsTGZMcWYzNUg2ZWllMnVMcDQzSnFIeHVIR0RiQWZBTWhhdHZ3Mm1VUHA0aXZ4UFRsRzJ5UG1wTXNwODIyVmRidFQ4Wk53TFQ4b0dFeHNtWUNCY2E5LWlWWE5tOFhNOFJtYVczTjFvdEIwS0JSdDllcUZDOEo0YTY0MWJ4SzhMOHg4VjNqdkRCanpxVExfLWFBNlRZRWdOazRYbV9nVjJCb0hVSW9HcDRjMWUxV0E?oc=5",
-      "pubDate": "Thu, 02 Jul 2026 19:21:15 GMT"
+      "title": "Coca-Cola Eyes $1 Bn IPO For Indian Bottling Unit: Report - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWJkWTFMcjE0TTlOX2ZocHdiOXdoMFlZb01MXzRGdGRUdVhTcGxjcWdaUXZHeFV4UWdrLXgxX29RQlVHMHl1ck01RlczRk44R2tNZjRuOS05ZXAzNW5XSGMwdE5Hc2JJUWlwMzNCcnhqSFJ3T1p0ZjFhZlRVVDZJa2ItN0NrNWNmZG54cWY2UE9xV2pfUkVHeFhuUkI0b3ZG?oc=5",
+      "pubDate": "Thu, 02 Jul 2026 19:30:17 GMT"
     }
   ],
-  "fetchedAt": 1783022189
+  "fetchedAt": 1783023559
 }
