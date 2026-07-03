@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "LME approves Adani's major copper smelter in India as listed brand",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lme-approves-adanis-major-copper-smelter-in-india-as-listed-brand/articleshow/132166327.cms",
+      "pubDate": "Fri, 03 Jul 2026 21:58:13 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Temasek-backed Manipal Health gets SEBI approval for India IPO, eyes July listing",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/temasek-backed-manipal-health-gets-sebi-approval-for-india-ipo-eyes-july-listing/articleshow/132164458.cms",
       "pubDate": "Fri, 03 Jul 2026 20:28:05 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Fri, 03 Jul 2026 18:58:11 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Sebi changes rules on unpaid client securities to ease broker operations",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-changes-rules-on-unpaid-client-securities-to-ease-broker-operations/articleshow/132161829.cms",
-      "pubDate": "Fri, 03 Jul 2026 18:08:41 +0530"
+      "src": "LiveMint Markets",
+      "title": "KPIT Tech shares plunge 25% in five days to nearly four-year low after weak revenue outlook. Is the worst over?",
+      "link": "https://www.livemint.com/market/stock-market-news/kpit-tech-shares-plunge-25-in-five-days-to-nearly-four-year-low-after-weak-revenue-outlook-is-the-worst-over-11783091888730.html",
+      "pubDate": "Fri, 03 Jul 2026 22:15:28 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,22 @@
       "pubDate": "Fri, 03 Jul 2026 19:01:17 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Allcargo Global debuts on NSE, BSE following demerger from Allcargo Logistics",
-      "link": "https://www.livemint.com/market/stock-market-news/allcargo-global-debuts-on-nse-bse-following-demerger-from-allcargo-logistics-11783081558568.html",
-      "pubDate": "Fri, 03 Jul 2026 18:09:10 +0530"
+      "src": "CNBC TV18",
+      "title": "Senco Gold Q1 Update: Revenue jumps 60%, opens 8 showrooms; same-store sales grow 38%",
+      "link": "https://www.cnbctv18.com/market/stocks/senco-gold-share-price-q1-update-revenue-jumps-60-opens-8-showrooms-same-store-sales-grow-38-19938409.htm",
+      "pubDate": "Fri, 3 Jul 2026 22:32:46 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Vedanta Oil & Gas Q1 output falls 17% as production declines across key fields",
+      "link": "https://www.cnbctv18.com/business/companies/vedanta-oil-gas-q1-output-falls-17-as-production-declines-across-key-fields-19938391.htm",
+      "pubDate": "Fri, 3 Jul 2026 22:05:12 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Prestige Estates to buy 50% stake in Mumbai commercial project for up to \u20b9504 crore",
+      "link": "https://www.cnbctv18.com/business/companies/prestige-group-to-acquire-50pc-stake-in-advent-convention-hotels-international-for-rs504-crore-19938363.htm",
+      "pubDate": "Fri, 3 Jul 2026 21:18:51 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -73,53 +91,35 @@
       "pubDate": "Fri, 3 Jul 2026 20:40:05 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "IndusInd Bank Q1 Update: Net advances decline 2%, deposits up 5% YoY",
-      "link": "https://www.cnbctv18.com/market/stocks/indusind-bank-share-price-q1-update-net-advances-decline-2-deposits-up-5-yoy-19938358.htm",
-      "pubDate": "Fri, 3 Jul 2026 20:38:43 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "AWL Agri Biz Q1 Update: Mid-single-digit volume growth; food & FMCG revenue up 20%+",
-      "link": "https://www.cnbctv18.com/market/stocks/awl-agri-business-share-price-q1-update-mid-single-digit-volume-growth-food-fmcg-revenue-up-20-19938341.htm",
-      "pubDate": "Fri, 3 Jul 2026 19:48:56 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Fortis Healthcare enters Odisha, to run 300-bed hospital in Cuttack",
-      "link": "https://www.cnbctv18.com/business/fortis-healthcare-share-price-odisha-signs-pact-300-bed-hospital-cuttack-19938315.htm",
-      "pubDate": "Fri, 3 Jul 2026 19:23:52 +0530"
+      "src": "Google India News",
+      "title": "Artha Bharat Investment launches GIFT City's first physical gold fund - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMmo0V1BFS0p2cEk1QjdsVW4xa2xMN05NVzk1cW0yaUd4UTk3c3E1QXJMWDh4LUltTFExVzBPOEMwQU1qZ2JHc25UUzhpNm9mSDlIMGJKeHduaG9LYS1EbDhteFBxZHZSRk5QYXVpN0VHQ1pmbDhLUXpLV0xyZExzdDY4VVF5bnVnS2xzdEtRamRDVkRMY2pqelpaNk1qRmxVeExOeWVwei00cTVORlRmSDVST1JGdHBDU2pGc19Rc1lDMkhJWVBINFdVdHNwMHV0LWfSAdcBQVVfeXFMTzVrM0YzVkJFcTVMcUpHRkgzUURvU3lYbTl5aVFsajVtQTV0Ujc2Y0d1LTdsb2ZxbXp1Q2Z5WF9Gd1ZqNk1SVWMzdk5xYnYxdDVKdHhNWmxQUjZXbGw2UE1GSjhPR0xzQVl5RTRMakZRUkpQV245OENaZWRfdDNHZ1NCNVZjcmZiYUtVc1hrSDRZdzdmNWVydG9sbG9Lb2tvdXVveTlDczVFX1E4YWJBLWMyOTlua3R4bzNTQlZRYlVycE9YU0I1dGVMQ1cyOEgteVBHQTk4OWc?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 16:53:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Metropolitan Stock Exchange of India (MSE) Selects NTT DATA\u2019s Mumbai Data Center to Power Next-Generation Trading Infrastructure - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnpXQm9sSWM1X2RVTGczOUdhQXBpTkFsZ1JHVVNhQjdodUxMc1RfTGRrektHNV9vay1jRVhDaU1tM2NvNlZKMGJ2dWJiWW1GUmp0ekhvSTNLdmpFdkNjYk1nQ2s5ajFmLWJxX1hHSHMyVWtVN3VFaUJISEhxTlBSQzZ5ZlBJRXNlUmxWLTBHcEZCcHo3cGJkei1zUEQyVXNCYWdjZA?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 15:01:00 GMT"
+      "title": "LME approves Adani's major copper smelter in India as listed brand - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZjFIblJlYnctUTdIUG5ydzY1eUVDNGpaUjR0MnhvUGpQa0M1eVMxa0RpOVdDajBvd2NKeW9mN2VyT3R5TFNJM2VBVDl6ZDBEczg4NDBYb1RhQ3lwcjlIVWR4SEI1aEV1cHRNd1J0UEdzdWJIelEwMXlwbnEyd2NDNm03TURpZHJiZzJ6dFBDZHNNYm5FSi1BSnIzMTB2Z3JsazhVWkhoNDlIVWpmcmpOdVd6OUM5ZVFaWFJoQjNQR0V0R1hXb01NaW9oeWhVY1RGQ0ZNODZB0gHbAUFVX3lxTE5LQjZSUzkxeFh2S0hHbG9PcmQ2WC13M0hCaHFVZXd1QlAzZ201Tks0RVNLSzFzSWVQdjhWTGM2SXlkY3doVkR5U1VIR0lMNm5qanptQ0d0T0JsUDBSdFJjYlVNVDRSZTBTbkpleUxsT09SWUxBb1lJQnRqYlJGM0s2U3pUenNZVDU1Q1ZNSWJ5YnVGNEQtMUZrVUdfMTVwVmlPcHFlN3k5SWZGSmpOQk1VcklhT2c0TXFuRDlDT19NS2J0b1pLRFY4V2pCdUtKeDR3M0RBUEFuUlBkOA?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 16:28:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ceigall India Schedules Analyst and Investor Meet in Mumbai on July 8 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0Zjd1pJX1diQjNuTnZTX2RtX3dxdk5ySHpDNTdJbUJQaUhGZUEtWFhsaTFHSXVGRXoyMk03eDluRF96R3V3U2lIaVVLZU04eGhmdDBGbE00c3I1Xzh4XzlUSzJlVFZ2VFBfdmVpZGxCajc3ODR2S2lmemNLWGoxaGtMZ2dDNzFTdlZvblo0Wk4zbElqWnAxNGNPRkVZRGE0OWFqS3JkdmxNbGxQeXpERQ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 15:18:17 GMT"
+      "title": "Moneyview IPO approval clears path for \u20b91,500 crore issue - Lapaas Voice",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DSHdMck1tXzJickgtTFRSdnRDaDRMallYQU0zRWlQX2tWQXdMenl1OWYxYUpWbm05YWNoT1Z0OUZMMFlWTUxqVGduaVhGcHdDRmJOMFIwaFdGODVq?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 16:28:03 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Temasek-backed Manipal Health gets SEBI approval for India IPO, eyes July listing - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUDk2NVFUY2RqQW9GRTdLUEJYeUFrUm5uQXdBWWJiZlY4eEJUSHRLdzZZX1BOSlNfTGkwUUNYSmtLZ3RUd0ljRnFuRE41TFVJYV83MjcxenNxdlk1ZWM0R0lwcWJSaUtnd1ZLYzdaNlZuWE5sbDVlM2tQSlY3RHJPd01OTzBrSnhyUUZFdk5qU08wdXhUdzdLSmloS2xzYkw3a1AyOUdNX2ZxMzJIWURlRVR5clpTVGhSNk1GMHphSC10QlJvTHZIT1hhYlV2NU9IWElmUkY4Sjc1YUtxT0wyaGI2RlVLeXPSAewBQVVfeXFMT3VIUzNrY2xYdUhtWkhidmdRd3p0aTFTb09vd2g4S2NNc3RBMk1mU2Q0czVFcEszVTduS0xlQ2N4VHE0WU12S3RwdHVLRmZIWHdKTmZRMzdIRndfYkxKLVVLcjRsemxhekJyMXAyVzJHTXBMWHRsWmNXVWNHY2o0YUNVQ0R0ZVktd01UV3hISThleHY3d3lqVUxjYkp5VHBLYVhwQlhxaHFkMFdZazZOTXhZMm9FcFdicXQyQlZJYi15YlFFZUs0RlJzNjQ1YmV3bUN5ZFhpX3JJUlNFTTRwNjlEb2FzVHJsYlEtTDk?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 14:58:05 GMT"
+      "title": "Big rail boost for Khatu Shyam devotees as new station gets approval - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdzV0eG9qTHdZcTI5UWEzRUVoUVRLdC1zbW5ydk52TURIWmxqREhyNU9iQXhVNTBqNFBsdjAwZTJRVWxyejlrUjZQZ0NzWXYxMlRSMlBfVFB6STk2YmU3Q3drRlQtQnpRajc2OXV4SVFVVHZuU2RQdzNIbXVqLU9OVndCVXVIVTdUcEQ5WFpfSUNUZ0U0UGw2U3R3UGdaZUk5WkNnMXVXUVZycHVXdE9EdnJvRWJ3SWFDdmZPQ1VnQ2ZkYXdLN1pPWlFaeDRCWlNOdXZWWUhkWmlkTHhDSUR6UVRVY2J6S2Nv0gHuAUFVX3lxTFBQODlyZ2RRUEZXdXdfdlA3a2JJYnhpejhvQTh2Mk01YVdxTnRGRGdxalFYMncwQmZMUlhIM1VlTjJETFlPcGRPX1dDRkFEOUVKQXZzSDZ0VTFtRVVuaDdFeXVjd3l1ZGdsbkNUem1xbjk1UmZyX0FKVk9YRWtZc19LUVdjM2J4aC1yaC1nVF95SzVuVmd0LUpQUXRjYWl1ZjhLWi1ndmZ2XzQxa2ZJTWdGc284dVV6UDRvSFBuRzdxdGFDY1ZnX3piQnJPc1JBaWtsdDVrcFVSbmFrd0c2VFZjeUs1M3liLUt4TGZ0MWc?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 16:25:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's goods exports may grow 16% to over $500 billion in FY27: Goyal - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRDM1Q1BhdUN6dkc4S3g3ZnY1dlZPc1JKMUEzYnluNG13djh6R2pNRGJCMjZLR2o5NnJPUk1sVm1idTJ4V09pa2ZINDd2dDdSSEVkVmcxd1JEQnlIZXAxMGY5aFNWNzhiWmZRTWxGcXRZX0RDc2ZiZFhvWEJiRG9leVZaTi05YVM4WUd4c0FNeDRfRTYzdTFDbWgyeTFMbmVSQnlUTmo1QlFEQUVXMjE1NEZyTGxHVjVhQVlwTVA2WktDQzdJbmJ0T2Q0RVowNzDSAdQBQVVfeXFMUDFIZUxNcjhVc25JRDZHS0xPcTVKbzVfZU41QXgxelRLMWJ4c05QR2hIeC1ES29pTURDa1lzRW9iSHh6ZGJwTVFwWDU3bjVra00wektGWGxMOXUzMmZyTnp3ZF82bUdfS2tTNEpLSDdnMGNHcF9vZVV1SWpKSzQzMkJiLVlVSmZsSmN5bVl6TEY1bEdmLUJpU0lEMTJlc0s1T251TUR0Z0ZmQWplY0Z2WWpESnlCdFphQncyZWYzbVp4NXc5Z2xOWVo4TGpkbGJsVEFPRkY?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 15:33:47 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Mild stress - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3RuVnNmZ2VwU050dXVlbDVYX2gyR0x5cV9WbVBNNGNOU1RZUUV1LTFOZ0RPNUM3LXJzNFp6OVcyVUd2YnVES3Q3ZzkwTW42WjlfQkl2Nk44V3k2MHBOZ0lVUUxvdmpuWlRqbDZrYU9NYy1CcFJXOVE2N0ItbURydUU2ZjJxc3JjWlRudEhzVk9hbGpkekNKbTN4ZTTSAaMBQVVfeXFMTUJheGpqdkE0VXp2VE4xcmNkSDZpeTlYY3RBLUZBSnFrOURlMWt0Y1I1X2szUnVOYmw2S3ZiLWtjTmxoME5EU3pqbjZfUmJJNWdkVzN4MjRlQlh2N2NpRUVyVW96U2lrNWFNMy1EVG5RZzR2NTlWTjVyT0hweGdaMWVJM0lmWV9ZdW05TXRSWjVGYzFxODVvZG5kT3ZGa2R4RlQ5QQ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT"
+      "title": "\u200b6 best indoor plants for small apartments\u200b - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRmNFVmk3d0ZqZVpZWGNWZDRaUHlaaWo1d3VzdjdiSHVjTGZ3TjdLdkFCSEE0dm14Mm91MTVUNnBpREtUaEdjTzdKajhrMUh3QTRITW5xU3YxdlBFQWg0WEV3S3hIUVFYcmpnRzBsUGF1aU9BR0s4RzAzUHY0OHJqNXl3SWNzVG9Nck1SdUI3V0dydUZXWWlldlNMWkNreHd5eDFkcmp6a2NDTU12RDFtUTQ0VEJ4a0U?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 16:50:50 GMT"
     }
   ],
-  "fetchedAt": 1783094148
+  "fetchedAt": 1783099472
 }
