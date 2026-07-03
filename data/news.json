@@ -2,13 +2,25 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Temasek-backed Manipal Health gets SEBI approval for India IPO, eyes July listing",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/temasek-backed-manipal-health-gets-sebi-approval-for-india-ipo-eyes-july-listing/articleshow/132164458.cms",
+      "pubDate": "Fri, 03 Jul 2026 20:28:05 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Moneyview, Chandan Steel get Sebi's approval for IPOs",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/moneyview-chandan-steel-get-sebis-approval-for-ipos/articleshow/132163475.cms",
+      "pubDate": "Fri, 03 Jul 2026 19:25:28 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "India's Godrej Consumer expects volume-driven first-quarter revenue rise",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-godrej-consumer-expects-volume-driven-first-quarter-revenue-rise/articleshow/132163199.cms",
       "pubDate": "Fri, 03 Jul 2026 19:08:38 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Dabur India posts strong quarterly outlook as price hikes cushion inflation hit",
+      "title": "Dabur Q1 updates: Co expects double-digit revenue growth as rural demand stays ahead of urban",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/dabur-india-posts-strong-quarterly-outlook-as-price-hikes-cushion-inflation-hit/articleshow/132163007.cms",
       "pubDate": "Fri, 03 Jul 2026 18:58:11 +0530"
     },
@@ -19,16 +31,22 @@
       "pubDate": "Fri, 03 Jul 2026 18:08:41 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Global stocks: UAE markets end higher; IHC gains on India aluminium venture",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-stocks-uae-markets-end-higher-ihc-gains-on-india-aluminium-venture/articleshow/132161637.cms",
-      "pubDate": "Fri, 03 Jul 2026 18:06:31 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold, silver prices today: Comex gold and silver extend rally as weak US jobs data cools Fed rate hike fears",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-extend-rally-as-weak-us-jobs-data-cools-fed-rate-hike-fears-11783007280731.html",
+      "pubDate": "Fri, 03 Jul 2026 20:25:53 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Quote of the day by Fred C. Kelly: \"We may forgive ourselves for owning a market dullard when the rest of the market is also in the doldrums, but it is disheartening to see one\u2019s favorite resting as quietly as a castor-oil bottle while the rest of the market goes gaily upward\"",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-fred-c-kelly-we-may-forgive-ourselves-for-owning-a-market-dullard-when-the-rest-of-the-market-is-also-in-the-doldrums-but-it-is-disheartening-to-see-ones-favorite-resting-as-quietly-as-a-castor-oil-bottle-while-the-rest-of-the-market-goes-gaily-upward/articleshow/132152924.cms",
-      "pubDate": "Fri, 03 Jul 2026 18:00:00 +0530"
+      "src": "LiveMint Markets",
+      "title": "Pulse of the Street: Realty and healthcare lifts markets, but weak rupee clouds rally",
+      "link": "https://www.livemint.com/market/realty-and-healthcare-lifts-markets-but-weak-rupee-clouds-rally-11783082572693.html",
+      "pubDate": "Fri, 03 Jul 2026 20:08:41 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Sebi introduces auto-pledge framework for unpaid client securities. What does it mean for investors?",
+      "link": "https://www.livemint.com/market/stock-market-news/sebi-introduces-auto-pledge-framework-for-unpaid-client-securities-what-does-it-mean-for-investors-11783083361487.html",
+      "pubDate": "Fri, 03 Jul 2026 19:43:47 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -43,22 +61,28 @@
       "pubDate": "Fri, 03 Jul 2026 18:09:10 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Atharva Polyplast IPO allotment date likely today. GMP, steps to check share allotment status online on BSE, MUFG Intime",
-      "link": "https://www.livemint.com/market/stock-market-news/atharva-polyplast-ipo-allotment-date-likely-today-gmp-steps-to-check-share-allotment-status-online-on-bse-mufg-intime-11783077914675.html",
-      "pubDate": "Fri, 03 Jul 2026 17:02:56 +0530"
+      "src": "CNBC TV18",
+      "title": "CreditAccess Grameen adds 2.5 lakh borrowers in Q1, loan book tops \u20b930,000 crore",
+      "link": "https://www.cnbctv18.com/market/creditaccess-grameen-reports-11-9-rise-in-q1-disbursements-to-rs6107-crore-19938351.htm",
+      "pubDate": "Fri, 3 Jul 2026 21:08:54 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Aswath Damodaran predicts this for the future of AI: The next Amazon won't be Nvidia or OpenAI",
-      "link": "https://www.livemint.com/market/stock-market-news/aswath-damodaran-predicts-this-for-the-future-of-ai-the-next-amazon-wont-be-nvidia-or-openai-11783072285016.html",
-      "pubDate": "Fri, 03 Jul 2026 16:36:11 +0530"
+      "src": "CNBC TV18",
+      "title": "Bandhan Bank Q1 advances rise 16.4%, deposits decline sequentially",
+      "link": "https://www.cnbctv18.com/business/companies/bandhan-bank-q1-advances-rise-deposits-decline-sequentially-19938353.htm",
+      "pubDate": "Fri, 3 Jul 2026 20:40:05 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Top Gainers &amp; Losers on 3 July: Zensar Tech, HFCL, IndusInd Bank, Muthoot Finance, Lupin among top gainers",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-3-july-zensar-tech-hfcl-indusind-bank-muthoot-finance-lupin-among-top-gainers-11783072829424.html",
-      "pubDate": "Fri, 03 Jul 2026 15:39:19 +0530"
+      "src": "CNBC TV18",
+      "title": "IndusInd Bank Q1 Update: Net advances decline 2%, deposits up 5% YoY",
+      "link": "https://www.cnbctv18.com/market/stocks/indusind-bank-share-price-q1-update-net-advances-decline-2-deposits-up-5-yoy-19938358.htm",
+      "pubDate": "Fri, 3 Jul 2026 20:38:43 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "AWL Agri Biz Q1 Update: Mid-single-digit volume growth; food & FMCG revenue up 20%+",
+      "link": "https://www.cnbctv18.com/market/stocks/awl-agri-business-share-price-q1-update-mid-single-digit-volume-growth-food-fmcg-revenue-up-20-19938341.htm",
+      "pubDate": "Fri, 3 Jul 2026 19:48:56 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -67,59 +91,35 @@
       "pubDate": "Fri, 3 Jul 2026 19:23:52 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "FIIs make a comeback on Dalal Street after four straight days of selling while domestic investors turn sellers",
-      "link": "https://www.cnbctv18.com/market/fiis-make-a-comeback-on-dalal-street-after-four-straight-days-of-selling-while-domestic-investors-turn-sellers-19938307.htm",
-      "pubDate": "Fri, 3 Jul 2026 19:20:48 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "NBCC India secures \u20b9132 crore work orders across Assam and Odisha projects",
-      "link": "https://www.cnbctv18.com/market/stocks/nbcc-india-share-price-secures-rs-132-crore-work-orders-across-assam-and-odisha-projects-19938323.htm",
-      "pubDate": "Fri, 3 Jul 2026 19:18:53 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Sovereign Gold Bond investors can exit early in July; here's who is eligible and what to know",
-      "link": "https://www.cnbctv18.com/market/commodities/sovereign-gold-bond-investors-can-exit-early-in-july-heres-who-is-eligible-and-what-to-know-19938319.htm",
-      "pubDate": "Fri, 3 Jul 2026 19:13:38 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "SEBI eases norms for handling clients' unpaid securities, revises pledge framework",
-      "link": "https://www.cnbctv18.com/market/sebi-eases-norms-for-handling-clients-unpaid-securities-revises-pledge-framework-19938260.htm",
-      "pubDate": "Fri, 3 Jul 2026 19:05:42 +0530"
+      "src": "Google India News",
+      "title": "Metropolitan Stock Exchange of India (MSE) Selects NTT DATA\u2019s Mumbai Data Center to Power Next-Generation Trading Infrastructure - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTnpXQm9sSWM1X2RVTGczOUdhQXBpTkFsZ1JHVVNhQjdodUxMc1RfTGRrektHNV9vay1jRVhDaU1tM2NvNlZKMGJ2dWJiWW1GUmp0ekhvSTNLdmpFdkNjYk1nQ2s5ajFmLWJxX1hHSHMyVWtVN3VFaUJISEhxTlBSQzZ5ZlBJRXNlUmxWLTBHcEZCcHo3cGJkei1zUEQyVXNCYWdjZA?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 15:01:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock Market July 3: Why Sensex and Nifty Rose for the Third Consecutive Session - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajN2NWNnN3FhdDBYYnI1LTZiamhRTVR5cWhoUHZGbUVVZ2tWZ29MUl9KcXJIN09DbURsWnphcHZRVmZTODl3RmJyWHVyYVY1eXdreGNYTTItZ3J0UTdtTGh6eVRfQmJIZlZhTjBWTlFwb3d3aXJENHJCOEJqemlwQTA2NzlXR0pCZTZGQW9ES2xkbUVTU09hZC16MFRGMnF0eWpxODBnVi01dEk?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 13:25:00 GMT"
+      "title": "Ceigall India Schedules Analyst and Investor Meet in Mumbai on July 8 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV0Zjd1pJX1diQjNuTnZTX2RtX3dxdk5ySHpDNTdJbUJQaUhGZUEtWFhsaTFHSXVGRXoyMk03eDluRF96R3V3U2lIaVVLZU04eGhmdDBGbE00c3I1Xzh4XzlUSzJlVFZ2VFBfdmVpZGxCajc3ODR2S2lmemNLWGoxaGtMZ2dDNzFTdlZvblo0Wk4zbElqWnAxNGNPRkVZRGE0OWFqS3JkdmxNbGxQeXpERQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 15:18:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock markets continue winning streak, led by buying in IT, pharma - The Statesman",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTF94ZVhfUm5jdG9GMGoteE9hdWZpQlpYSEV4ak9ZTmFRUjdEVUMwYTBHTHdNcS1DQ0hjWUpMbDQ5ZlFMamY1Tk04QmNJSGc1TEI3ejhhckRoVG9ENDBjcDJFalZNQ3k0MVQ3Y2xCZHhmSlE0ekhERHZqaUhVTlRwcFQwRHJYN1JuVlpMdTRQaGYxNTE3b3pWbWRrakQtV3BDaHdqOWdKNWEybUNfOC1pX2M0OWJSZXhrZ2fSAb8BQVVfeXFMTy1kQUlmcVFwTnM2MElDTFFIU2hsY3BNZUR6YTJGWVNhaXd1ZFp0bzlDYjB4Uy1uNFFXZ3l3NGN5dFpiWjFzNzQtaGU0cTFJbVhFVG9tMFBJR214TVkxRnJOZlVrNTNLUTduN0VXSmV6cnQyckJHbkx3NFBCMHV3Tm81R3JQWEN5SGNGTlRRZDdMNUN0WGxEOElUaE1JTjVYclVSSUxqSnJiaFlNQ29USzJab3gybExBMGI2eVNxWjQ?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 13:48:00 GMT"
+      "title": "Temasek-backed Manipal Health gets SEBI approval for India IPO, eyes July listing - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUDk2NVFUY2RqQW9GRTdLUEJYeUFrUm5uQXdBWWJiZlY4eEJUSHRLdzZZX1BOSlNfTGkwUUNYSmtLZ3RUd0ljRnFuRE41TFVJYV83MjcxenNxdlk1ZWM0R0lwcWJSaUtnd1ZLYzdaNlZuWE5sbDVlM2tQSlY3RHJPd01OTzBrSnhyUUZFdk5qU08wdXhUdzdLSmloS2xzYkw3a1AyOUdNX2ZxMzJIWURlRVR5clpTVGhSNk1GMHphSC10QlJvTHZIT1hhYlV2NU9IWElmUkY4Sjc1YUtxT0wyaGI2RlVLeXPSAewBQVVfeXFMT3VIUzNrY2xYdUhtWkhidmdRd3p0aTFTb09vd2g4S2NNc3RBMk1mU2Q0czVFcEszVTduS0xlQ2N4VHE0WU12S3RwdHVLRmZIWHdKTmZRMzdIRndfYkxKLVVLcjRsemxhekJyMXAyVzJHTXBMWHRsWmNXVWNHY2o0YUNVQ0R0ZVktd01UV3hISThleHY3d3lqVUxjYkp5VHBLYVhwQlhxaHFkMFdZazZOTXhZMm9FcFdicXQyQlZJYi15YlFFZUs0RlJzNjQ1YmV3bUN5ZFhpX3JJUlNFTTRwNjlEb2FzVHJsYlEtTDk?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 14:58:05 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Dabur India expects double-digit revenue, profit growth in June quarter; check Q1 business updates - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQeF9tVmVnTUhwNFhfYUNIY2pMZ2F2YTlXbkJBMnJUaXAydU5Ua2JNemhiQkt3Vl9UM1Npa0llanNJdWdqSFVuSmFDdWhKNDNXTjZibVAzRHp1emZ4YmZxcVpwcnkzQWlsQUtJelY2U0JuVC1GYjhSR3pnNGhtcW9rcnY0Z2hmNGVHbzV3YlAxOVNkR2tCdmp6Qk9SdnY2bk4zRE1wMS1LZmQzaFpQVkU4aE1zMDlzODB4SDN6bnVBRXJyNGNGMXd5eWR1U254UXIyMDlNSC1adUZMUVVWaUhJc2JpSU1oS2h2OXQw?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 13:31:24 GMT"
+      "title": "India's goods exports may grow 16% to over $500 billion in FY27: Goyal - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRDM1Q1BhdUN6dkc4S3g3ZnY1dlZPc1JKMUEzYnluNG13djh6R2pNRGJCMjZLR2o5NnJPUk1sVm1idTJ4V09pa2ZINDd2dDdSSEVkVmcxd1JEQnlIZXAxMGY5aFNWNzhiWmZRTWxGcXRZX0RDc2ZiZFhvWEJiRG9leVZaTi05YVM4WUd4c0FNeDRfRTYzdTFDbWgyeTFMbmVSQnlUTmo1QlFEQUVXMjE1NEZyTGxHVjVhQVlwTVA2WktDQzdJbmJ0T2Q0RVowNzDSAdQBQVVfeXFMUDFIZUxNcjhVc25JRDZHS0xPcTVKbzVfZU41QXgxelRLMWJ4c05QR2hIeC1ES29pTURDa1lzRW9iSHh6ZGJwTVFwWDU3bjVra00wektGWGxMOXUzMmZyTnp3ZF82bUdfS2tTNEpLSDdnMGNHcF9vZVV1SWpKSzQzMkJiLVlVSmZsSmN5bVl6TEY1bEdmLUJpU0lEMTJlc0s1T251TUR0Z0ZmQWplY0Z2WWpESnlCdFphQncyZWYzbVp4NXc5Z2xOWVo4TGpkbGJsVEFPRkY?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 15:33:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Dabur India posts strong quarterly outlook as price hikes cushion inflation hit - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV3dqSmIxYzFxNjYtR0Etd2FQSXlfSU05ZmJvMHVNVUxTQ2I1a1pUS2YyT09PM2pDU1FpdjJlTl8tQ19sbnE0aHJYcXZScGZCekpyT19JbG9XOXJmbWkzRkJRV05icVdENURXbi1ENU85eldqU0k1em9PWV9KZERYTjNBVlVXaXpiYk1VWURXamRUeTFlanJNN2FHZjRFbmF0bHBKU1NHN0g0emFhWnQzT3BKaEhoUjFORW55UUhCZml2MEFmc1JyekJSNDI4TE9mMERlaUVjeGl4QjYxM0h2Z2VSLVhDUC1L?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 13:28:11 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Indian companies raise \u20b915,960 crore through bond issuances on Friday - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTXBhRVE3MTlRcmZodm5CRndJdHdfSnRTMlppcXdnS1hncks1bDlpNTl1ampHVGJXUWJyYzVkeExRdnFpRkc5MkxWWVdwY3B1U0VqRWlRUkZfZWRvNHdCV2lFQzAyREJfellRREFCdHoyQUFQNWtGaGEzZHVSdG1OeDBkVnVFazRKRF82dW5QSkI2UmlQbGx0STRGTV9RZG53dmV4eDZGbmxzUWJzNWVIQmZCMUVQUUxDQ3RScWFOUmJjS2F6M1BsZnY1SjJiV3RD0gHWAUFVX3lxTFBRLV8zTWpBZE1Jc2VfSzBMVVFzUnJEUVNTSXFTUHVwV1ZnNVFZd20xMFlSRV9Oa2I0R196NVYzeHZfX3dZWkpORzBnQ1ZYYnVYYzBrRklobV9NaUxzcno2RGxVcnhvWFN4Nnc5cDBMaUpNckVCTHJpUEswSUhHYTZoY0MzQ0dQMksyaV9uZGcwWVFVbF9JNGx3VDEwTXdhc0pxaDBramZNOHFnWmtzMjNoZzROclptX2xXSEZXa3hNNE9RSjBrakppN3FCalZyT2J0OVFKQ2c?oc=5",
-      "pubDate": "Fri, 03 Jul 2026 13:37:40 GMT"
+      "title": "Mild stress - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb3RuVnNmZ2VwU050dXVlbDVYX2gyR0x5cV9WbVBNNGNOU1RZUUV1LTFOZ0RPNUM3LXJzNFp6OVcyVUd2YnVES3Q3ZzkwTW42WjlfQkl2Nk44V3k2MHBOZ0lVUUxvdmpuWlRqbDZrYU9NYy1CcFJXOVE2N0ItbURydUU2ZjJxc3JjWlRudEhzVk9hbGpkekNKbTN4ZTTSAaMBQVVfeXFMTUJheGpqdkE0VXp2VE4xcmNkSDZpeTlYY3RBLUZBSnFrOURlMWt0Y1I1X2szUnVOYmw2S3ZiLWtjTmxoME5EU3pqbjZfUmJJNWdkVzN4MjRlQlh2N2NpRUVyVW96U2lrNWFNMy1EVG5RZzR2NTlWTjVyT0hweGdaMWVJM0lmWV9ZdW05TXRSWjVGYzFxODVvZG5kT3ZGa2R4RlQ5QQ?oc=5",
+      "pubDate": "Fri, 03 Jul 2026 15:46:08 GMT"
     }
   ],
-  "fetchedAt": 1783087171
+  "fetchedAt": 1783094148
 }
