@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "F&amp;O Talk: Smallcap index better placed than Nifty, says Sudeep Shah; picks 9 stocks for next week",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-smallcap-index-better-placed-than-nifty-says-sudeep-shah-picks-9-stocks-for-next-week/articleshow/132178739.cms",
+      "pubDate": "Sat, 04 Jul 2026 17:07:50 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "How Did Trump Make $1.4 Billion From Crypto?",
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/how-did-trump-make-1-4-billion-from-crypto/videoshow/132179547.cms",
       "pubDate": "Sat, 04 Jul 2026 16:03:59 +0530"
@@ -23,12 +29,6 @@
       "title": "Bitcoin trades near $62,000; inflation, geopolitical risks remain key market drivers",
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-62000-inflation-geopolitical-risks-remain-key-market-drivers/articleshow/132177558.cms",
       "pubDate": "Sat, 04 Jul 2026 13:41:28 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Gold\u2019s sharp correction: What lies ahead for prices?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/golds-sharp-correction-what-lies-ahead-for-prices/articleshow/132177503.cms",
-      "pubDate": "Sat, 04 Jul 2026 13:35:57 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,18 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "SEBI exempts Waaree promoter family's trust stake transfer from open offer requirement",
+      "link": "https://www.cnbctv18.com/market/sebi-exempts-waaree-promoter-familys-trust-stake-transfer-from-open-offer-requirement-19938669.htm",
+      "pubDate": "Sat, 4 Jul 2026 18:39:19 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Coal India inks JV with UPRVUNL to develop renewable energy projects in Uttar Pradesh",
+      "link": "https://www.cnbctv18.com/market/coal-india0share-price-inks-jv-with-uprvunl-to-develop-renewable-energy-projects-in-uttar-pradesh-19938666.htm",
+      "pubDate": "Sat, 4 Jul 2026 17:56:16 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Kotak Mahindra Bank Q1 net advances rise 15%, total deposits up nearly 12%",
       "link": "https://www.cnbctv18.com/market/kotak-mahindra-bank-share-price-q1-business-update-net-advances-casa-total-deposits-19938657.htm",
       "pubDate": "Sat, 4 Jul 2026 17:06:02 +0530"
@@ -79,47 +91,35 @@
       "pubDate": "Sat, 4 Jul 2026 16:13:26 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "WhiteOak\u2019s Prashant Khemka stays bullish on healthcare, small NBFCs and manufacturing-led growth",
-      "link": "https://www.cnbctv18.com/market/whiteoak-prashant-khemka-stays-bullish-on-healthcare-small-nbfcs-and-manufacturing-led-growth-19938527.htm",
-      "pubDate": "Sat, 4 Jul 2026 14:07:40 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Supriya Life says Customs dept initiates judicial proceedings against personnel under Narcotics Act",
-      "link": "https://www.cnbctv18.com/market/supriya-life-share-price-customs-department-judicial-proceedings-personnel-narcotics-act-19938522.htm",
-      "pubDate": "Sat, 4 Jul 2026 13:05:20 +0530"
+      "src": "Google India News",
+      "title": "Centre raises onion procurement price by 13% \u2014 here's why - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYi1XVHRpOTAxRjRLRVZUeEt0QU9Tb2JJYjFaZFZzYXZiQlk3NmNGOTc5MU9uUHNuTDF5ZUt3b2xXZFhZazJlc3ZxOTAydHlBNXVreWMxcDYxZW1nM3M2ZzRvNEZnMjN0Q3hkLWQyU3hRSjV2aFVuTUZ6dFRRNlJtNGZIeUlqTHNlV0dtYld2YnE3dG1fVllEQkl4cjZodTRyLXBGZ0wzTndVeGJTVHFaUFlldk9GODdDckVYYmpDMXFDeS0zOG5mNDFiYm92UV9NUFhWMWRB0gHbAUFVX3lxTE9qNmplX0RWeUMzOVQ4SXNGcVpRRDV5TWo4LXZvdEZvQnRGUkhEdUp4TlR1MjZnSEdEX3pVRG9iVm9XRUZkdzh4czctenhWTnBoQXk2dVM3bmgwNER3NGt6cnBwSXZLYzVSY0hscXJwQW9na083U3RYdXVGVHZLYjZNV2ZGcVVEUlVZYzFveG5HdVMtWFl6cWF0T0JiQW0xcHVmZmMyV3BYQno5VC1mRWRCZlRiN0loUEc2T3B0ZU5yMXF6dVJfVUlKbTl2VGVvZUNrbjVsaWNaMnRsZw?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 13:16:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Top 5 EV Stocks in India to Add to Your Watchlist - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iWkZGZjNrcUF4OTBycC1ZdkFSQzduOV9DTm9mOXVrdllYbkJwazBlMVBBaGdGX2x4eGJXVGVnZ0hPVUotSTdzeUQ2V0pDSmRVSjRvTElmS1VQVktOcVRhWE9YRjU5SjZNM0Y0aQ?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 11:14:02 GMT"
+      "title": "'Baseless lies & disinformation': Iran blasts U.S. at the UN in explosive security council showdown - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNU0p2aE1Mdi1NVWpNQl9NQkszZGNCcGFiR21vNVM4Qm1IN0xIZDR6RXJ4RDRsbm02b05Ra2NTS2x5SzFsZWFVeG40aDBUdmtKUDdFNXhqdk5GV3c0RHIxbmg2QkF2ZEpDTnlPVjcyUHZRZ0doU0d1UTFoZUNCS3BibEdEV2txSDVXZms5VFVHbGJBOUc4c2JFUkZubW5wcTZ3WUxjNG4wVEFya2YwRlUyeEJjOWFZMkdhVnVha3E0MWNjclFLYkdMYXdIakVoOXlka0ZaWnNvSEJubktOMHhMcl81WUE3U1p3TVBQYjNMd3Z2amQ2Njg4cGluNF96V1YwTXZKdGxn0gGLAkFVX3lxTE1ETS1vZUh2MmtuSEhqRy1menlFMTdGTkFybGlrRVdOSWVlU0hCQzkzZ0t4YVd6dVBkWEc0QzVnZzl6RmhIeEtwOVJya0h2Zl9PenNlU3Y1MC1pb190RDk2bXdNaEtwdzU0bHFFZDVLZ3JFMlF2WXB0NkhQZDgtZjRLU3NHTzFJN2FkU1ZyMUNfX0hpTnpLUEc3S18xSjVZakJSUUpHMkpIRHhvSUx3Q0RmQW1fX3hMbUNNaTRmTExyWnM4SUFKQVdwWGNPLVhIQ0JudURFVHN0bDh4US1JWHpZbUh2RkFxX1dPTmlqejZJdk1rVktnMHM0MnVmQk1JSVpFVUFVVnpCMGYzNA?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 13:30:24 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Karur Vysya Bank's total business rises 16% YoY in Q1FY27 - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZXFFYUFmWU94djh6YVFYOFNJMjRfUGc4MENiMzl2MUJGVFVDMWEyd3d1WjlrMWxBb0VOUlJISVpaQXVkM2Q5RXd4cDE3MV9iUGxMSEJ4WUlYdEp2MExyaWZ5d2k1ek9hV3FoRnRNYnVLQ0FBYWhBUEduTnM2Q2NtMlJJdnZCZGxpa19URVFGWE5nNzJOMVJOMmZ1U041b2xxMmdPT0Nobm9jYTMtRlBjb1UybHhlSF9JV3FZWS1ORXNBZGxJOElTMV9JV1BHaXRRUnctWtIB2gFBVV95cUxOQkp4eExLTUdCMEg4TlNrSC15R0lOYUtPUk8tbjRtMlBYcUFrMFVmaUE5cktWcVh5TTMxWlZZLTJ4R0x0VEpZdXZIay1vRDBHYXdoX1NWcWtGNmJFbm51MEFlSTJIVUs3cHl0VElGXy1zTVlwMFRfc2pQMFN5M1pxY3lYMjUtUEcxRVlxQmc1Y0x4V3BrbXJuYzl3X0NsSWtxSTBoM28tSVZOUW5yNXhNUlY0VUF4N1Jnak1BWE1hRTJ0N0t0alRXZzVlbW5NNFlTYlpVajJKTW9NZw?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 11:20:52 GMT"
+      "title": "IRCTC shares hold steady as investors await fresh signals - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdWstMU1mTjhNNUxEcnVWWE01dTFuLXFSQ3JVZnVKWFJSc21pX2lScFlHVlJLV1IzYkp5NFhXRVRPWWlQd3AwYUkzT2xtaUllSnhUVnFtTlRzRWwzTGlwSnB6UHZrX0ZhbFloYTRrMEhOeUxvc2RCSzVYRXd6SWE3OXBrOWZpdmpUeTY5MkZPb1ZuYjNWMzJJUXBoXzdjRnE3Mi1zTzRBWHFVZ2dUZS1lN3FSTV83bW8?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 13:19:50 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Vijayan seeks SEBI, stock exchange intervention over Adani's proposed Vizhinjam port stake transfer - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOd25HZ2Z5Zm9EaDB2cmlTMHgyckxKazJpNVVVM0FyQlc2NjRCTURZRmNXSnhaeXM0QnFpU1k3OFhYS0phUmJ5amsyV2VBTUx2VXRxdGoyMGFNdDI5UmNuLVdWMUE3amRFQWluX3JfSC1qZF9nTkdOcTA3QmFwbl8zbkVGMm9JbllvdVA2UWpyemlTRG1hLWxmMXN4ZGNzeEd5X3VUNXdfWUl0Yk1VYVAtUTEzVXhuMzRTZURoRXhhOHdKWEZvOHNwWEdoRXR5amtIRHVWSS1JYjhvT3g3VWNzUVNOMklXS3VSR2VzYmxPaGhqVFRtaUw0dnJnNmxYc1J1d0htZEptd9IBjAJBVV95cUxPWk1iTG8tT293cE9kWmNkVE85N2tDX2pzYUtaX1lXWXpzUE42WFl2RXBfRGtqcTQ0RUdwYURQVzFJRTY4eFBHV2dNRWZzb3BScTlZblNHeFlCMUs1ZjJad1Z6X2x2cDAzR2pZODVETVMxWXFXM0szR2FpVWhjQjhPbXlFMXg3ZlZCSWI1U3FvS29vZFJ2ZG5OSGRnTklMeW9Zd3hhUE5Jd081SFBnYVRqVVRHWkM3bnVrcS04Q003d1RoaE80MjhKUkY0WG4yTjlZLUFVTWNlelM0ZG9ZWmMwWlNoTEhPTlBEWmJFNm84UkJGck5McW0xVWV1RTkxTW1yUnk0Y1B0eGtDdnZJ?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 10:54:44 GMT"
+      "title": "India, France turn to leader-level diplomacy to win AI infrastructure bets - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN1NBc01ad1NCRWJ4aTJFLW5mVmJna0dQeWM2Mk5wTWpjQ012SERnYWE0eFVEVWQ1T1I2c2RJUHR0bXRjeGpJamNVM191TzI4WUNjbGlWbmN1V0FpRW9HVFY4Nm9razkxRmNXdGU2S19qam5BV19DRGM3RXBaN29iNmUzRzZJajVjUFhpdWpjT2laNmdfdEZzUDJRbVloNnM3d1ZueHVfVVBpQXIxR2w0SkJKdUFmQnZOd0ptS2VNSlA2VFVJdUxBN9IBzgFBVV95cUxOTFBTMEdVQlF2LVFZVDlKNmQ2Z2RyaG5kM2ozdExSX3U4cjI1MWRLZmJxZ2xVVE8yZ3BWRzEyS2RoeHBNZWhNXzkySjBqQmJIa09feWRYMFpCMzVuT2tVWlVYUnlpbEZuN3g4LUp1c3pqclFSMVV2NFJEZ0xnNjkyWWVTc1dSckNDZmdKTWw5dHFQWVB5X01udUNacExRVnZ1c0J3ZlJ0NS1KLUM4ai1QSHpjb1ozeEtHeWZnbDl6XzllelBxM3FJUG11WnJvZw?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 13:11:21 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Bajaj Finance outlines its growth path as a key Indian lender - Ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNY3Y3OF9COUpIaEN4TjlDcTdxQ3c4WjR5SUZLNTQ1cXRUWmRBN1YyVm9PTi1sQmYyOTFIajg5Z1V1Z0lFM05GWHdRZ0NwQ0NSelo2WGxqWWR1X1IwWVJxRUszQV9FX196SHkyZ0JqZ0dYT09xb2RFaUtlTTZ2UlVrRGV6SFdaV0N2VWxRWGJYRTFwdFg3YWJkUFhtTGNqWWlTd3hvQUk1U3phOFZxa1lRZF9WT0FKQk5LMTdjMw?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 11:13:49 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Evolution of AI: From Turing Test to ChatGPT; How Years of Innovation Created Multi-Trillion-Dollar Economy - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVlBOcEZ4dlNMQ0t1WkRjb1cyOGFjc0xtTGdCWl85bVRqcW1UU0NGM3VtaGVRRWVNdk9Bc2lSYUR4R09waDdyZGtTRUVQV09mWVFCR0R4X05xaWxRalo4YXdoeFc0ODJwbHBiRlcyMVkwSi1VVlZSV3FPVkNYeE9LZzNNX0tvSXFIN0RESV9IcjBrTFF5bUdaai1tVkRjZU5VN3RhUkR0M1BQMVdRY2NvLU42MTVtc2paRXZxeXd6TzlteDV5T2NYYU1tNFRPclhjeF9aYU94OUp5R0RJbjIwX1MxMGpWckdvSVBXbjFxZw?oc=5",
-      "pubDate": "Sat, 04 Jul 2026 11:13:21 GMT"
+      "title": "Delhi University gets 142,700 UG registrations for 2026-27 admissions - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaXpJcDQxZk1Ta1ZieG9lQ3FFd2F5RjJXNDF0WXJLWmwzNGVSeXBfT2lEVFU2aW1TUG9BemdSNkk5NGZzU1poMlpFTnYwRklwWUtoUlNtNGVsMUFDeHNVcHhLMXdiRTlMUGtTbi1pdy1LUjVZV2ppX1JPc01Ldkpzazd6Z3BMSmJ0TzlwVHE2c3JxdXJqYmk4em9IZUZmckQxRW5kbHVvR20wY1RsN3lqWkZpTHJ5WlJvdzF5OW40bnhyVWQ1YXo3Sy15cWF6X0VGcm1lSdIB2gFBVV95cUxONzVMSnkzME4tb0tkXzFaOVZ6R3UtTDNsOEc1dWt2OGxtU0kxLVpkWmRVbTdJQVdDeGlYUHhxZEJoVlFMNFV1N25ybk1kZHprQll5RlFmNEo5X1JtcE16NlhxVDVKSmVCQ3NXREtCby12dzYtWGVBclZ4dWVmejhwd2I4Vm9WclpXOTdwSUxRU1pwek1NTkl5azlPVnF3bUNuY1RxZl9EV19UbWJLQzVlZW9fVnhHd3ZtaDVXbWZQVUxIQmNqVndPSXM1OGhZWkJZT0JrbTVFM0dtdw?oc=5",
+      "pubDate": "Sat, 04 Jul 2026 13:19:40 GMT"
     }
   ],
-  "fetchedAt": 1783165277
+  "fetchedAt": 1783173131
 }
