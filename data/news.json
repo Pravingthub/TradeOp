@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/132194145.cms",
+      "pubDate": "Sun, 05 Jul 2026 17:05:15 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Tips from Britain's \u2018Own Buffett\u2019: Timeless investing lessons for building long-term wealth",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tips-from-britains-own-buffett-timeless-investing-lessons-for-building-long-term-wealth/articleshow/132193823.cms",
       "pubDate": "Sun, 05 Jul 2026 15:34:43 +0530"
@@ -23,12 +29,6 @@
       "title": "Buy Lodha Developers, Aditya Birla Real Estate; organised players to benefit from housing market consolidation: Siddhartha Khemka",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/buy-lodha-developers-aditya-birla-real-estate-organised-players-to-benefit-from-housing-market-consolidation-siddhartha-khemka/articleshow/132192263.cms",
       "pubDate": "Sun, 05 Jul 2026 12:44:31 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "M-cap of 6 of top-10 most valued firms surges Rs 1 lakh cr; Airtel, Bajaj Fin top winners",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/m-cap-of-6-of-top-10-most-valued-firms-surges-rs-1-lakh-cr-airtel-bajaj-fin-top-winners/articleshow/132192191.cms",
-      "pubDate": "Sun, 05 Jul 2026 12:36:42 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,24 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Nifty Outlook for July 6: 24,500 in focus after highest weekly close in over two months",
+      "link": "https://www.cnbctv18.com/market/nifty-outlook-monday-july-6-24500-in-focus-after-highest-weekly-close-in-over-two-months-19938852.htm",
+      "pubDate": "Sun, 5 Jul 2026 17:42:57 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Nvidia supplier Hon Hai\u2019s sales beat on continued AI demand",
+      "link": "https://www.cnbctv18.com/market/nvidia-supplier-hon-hais-sales-beat-on-continued-ai-demand-19938831.htm",
+      "pubDate": "Sun, 5 Jul 2026 17:07:00 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "ICICI Prudential Life to seek IRDAI nod for Prudential's promoter-to-investor reclassification",
+      "link": "https://www.cnbctv18.com/business/finance/icici-prudential-life-to-seek-irdai-nod-for-prudentials-promoter-to-investor-reclassification-19938824.htm",
+      "pubDate": "Sun, 5 Jul 2026 16:50:41 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Foxconn second-quarter revenue jumps, company cautions on geopolitics",
       "link": "https://www.cnbctv18.com/market/foxconn-second-quarter-revenue-jumps-company-cautions-on-geopolitics-19938815.htm",
       "pubDate": "Sun, 5 Jul 2026 16:05:27 +0530"
@@ -73,53 +91,35 @@
       "pubDate": "Sun, 5 Jul 2026 13:28:54 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Oswal Pumps bags additional \u20b9236 crore solar pump order from MSEDCL",
-      "link": "https://www.cnbctv18.com/market/oswal-pumps-share-price-bags-additional-rs-236-crore-solar-pump-order-from-msedcl-19938709.htm",
-      "pubDate": "Sat, 4 Jul 2026 21:38:03 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "SEBI exempts Waaree promoter family's trust stake transfer from open offer requirement",
-      "link": "https://www.cnbctv18.com/market/sebi-exempts-waaree-promoter-familys-trust-stake-transfer-from-open-offer-requirement-19938669.htm",
-      "pubDate": "Sat, 4 Jul 2026 18:39:19 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Coal India inks JV with UPRVUNL to develop renewable energy projects in Uttar Pradesh",
-      "link": "https://www.cnbctv18.com/market/coal-india0share-price-inks-jv-with-uprvunl-to-develop-renewable-energy-projects-in-uttar-pradesh-19938666.htm",
-      "pubDate": "Sat, 4 Jul 2026 17:56:16 +0530"
+      "src": "Google India News",
+      "title": "FO Talks: India\u2019s Reckoning \u2014 Reform or Regression? - Fair Observer",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWjd6SXNieGVvQTVTVjNkOVRjcDFCb0ZFZXVfNXVYR3N5OS1PWVRVb2pwSFBObjdYWHZ5UldhSFBHWi1zYWl3RUF4aGZZeHYwRjlxM1hwNFFpM3JvYjRSSGpwZzZ0Q01PSEl3Rkh6NnhhU0hZa0xFTlJjWWFHTUN0WjdhUkt2cEU3aEdpWGtaMA?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 13:34:33 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Dalal Street outlook: TCS, crude oil and more, what's driving stock market this week? - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTHJENmJiZEh6Q2s4VzNyT1VicGRLdWRDdG55akZZU29HcEd1LWVmSEpOTWd5RXRydkZ3ZG1za2xSdlVOSjdXTUI0dkNjZkpyQndKNEp5Z0NRZTAtcmxyWlFwNHRwSS1HNGpON0p5aGV1V3liY0dVakhOLW5CaGRVQXJVSGViUE54N0tCdFpEbE9XZUpOSk51MTh4TlAyVUJMdDI1bkt3RkhqdHplSWZZZGFqR0MwSzFTS2Z4alJ6STBuNE9aRzQ4UGpaOU5Fblk5endiOUZrb3hwSTZBZlZWNTRiNUh5T2NDTDM0QU83RmEyRldJclhYUlJvYm1samPSAYQCQVVfeXFMTW56MS1jZ0RIb3lweWhLUzcxdVFTZ1pEdGJqUy1oN3RiOVdyM0hhX2gwMngwSTROczJoYlhxc1Naa0E1N1FDaEVjb3RwejBROHBWNVRTSm4xeUdPRUR2bUI5MUNSU2I3eDVwckl3MDk5TTNNa0IzU0prdGVIR0Zwd2s5cTZFbEljR0pFODh5cy1sTzQ0TEhWZDVCeklsMEhQQ0ZuOVlZMFZtWmhSNER3cWpEdWNjLXFjSVBSVHpUUUMwT29xTk5nakJCYjljeEdsNEF4amtKcXRXcVlPYkhkaGtyYXdrLVU2ekpzU0x2cnFVMl93Mk1UX3Rwa25WbkNaSXpRRjg?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:25:00 GMT"
+      "title": "India's native black tiger shrimp stages comeback in premium export markets - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMEtjaW9WYzRQdVhrUElKT3YzSjN2Vm0xWUd2eFpXZDR4VXNXU1g4TlMyRG1RVVhoTjQ2LWhtWWZGbEQ4TlNoVlJvQ1o4c21wVzNSdENwc051OXJRcUt4Q3VSUGdNR2ZOMVV1VXkzeW91SllYN2VMV1hqZlNXOUlmTXhHbnNmaGFad0lZdVRzVk9tSjNKN1hLNmtpOVZCX1dxdURfYU9nMUlwLTJRMEhWaWVWcm1SQ3dTVDh5Q2lGVnJybmNuTTMyakVXTmMxV3k3MHl30gHYAUFVX3lxTFAwSUVJRjFfZTVmbDlWMkdvWkpIclN4Z09KemxKY2s0SGw2eGVoWnFaMDFRS09TMzZoQWszS2ExNTJEbTFLTnBhb2JkbEtEMVd4ZXlkMG93WmdKNzl0RDBYZS1XWkhGd3dPNm1PQTIzMkZqdjdMa3FlRTFXSkw3TVBOV05tUGNMZGdDbkZSZzdKVXlVNkw1amp6WmpNOEZydTJCLXZZVG04amxiNS1CU21vcjg3ZFhBeXR2WUp1ZTZRSENrSmlXajJGTDlTNlAwSmQyd2k0X0htYg?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 13:40:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock market outlook: TCS earnings and global factors in focus this week - Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRHFSMkhoSjAyN3ZrMERSYjcxWngyNmt1d0Jfa0pGdXBTU0FXZG0wXzZuLUlsb0FzYTNQdm9vUkUydFA5eGh2R1N2WC1mcU9xU3RuVjVicDB1bXpPSzJqNWlKR0lWVFpBWDlNcWd0SnM3Rm9XWGNvUnc2SlViWkVrd0NhZncxSENGRjdMRUhKMkJFQ3diY2lkQ0lON2k4UE0?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:18:46 GMT"
+      "title": "ICICI Pru Life seeks investor status for Prudential after Bharti Life deal - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVZuZ3dnMWNLaWJxLWxPNzYzSk5ZOVpGbjkwT0ZMWUpBTEpqQTcyZTQyclNYZHZzMlVCYWp2bjVlRVFrMnFpOWlPUGNxbmZQUVlyR2g0NVpTVUxNRHlOTEhoajlCT2JFc2JUUnNuMjVFVnVIdlZVNlhiVjhEVFlwQ29DczNZdmdrQWlDT3NnMEdvU0RXWlJZazJyWF9GdEJlUVk1UUlOdUJ0cnhhaTVUd1JTdDR1dk1kQjFpMElFZlpTN0xIdkVzNEg3czNxUDlWTnJZSEFaTFZ1elHSAeABQVVfeXFMTUdJeDYyYjJod1cxRVo5b28xSFNmdTNhMlUtb0Y0VTl4bExTVnlPRlBPOUxTMkF3VVI0djdSaFQ0ZUUwVWNKbUVHZ29NeHZTNlZDMk9SWnl2YTZZc0JVZno3STVXZ3V5bVJQZ18tQkE5RUVmQ0prQzJzT3lBekt4UVVoWFNycFhwVFE0UjZNbHlvRkpCMHVabVFRaW5oV0IzQktmMnFIXzN3eTUyOElKY09pYlhwOUNXSUlGcHprSnNHVGM1c2dHTXhNV25ud3A0Q2JRbzhWZXNKVzA2c1NWLVg?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 13:06:56 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's chip revolution: Ashwini Vaishnaw shares 4 years of semicon progress in India - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcG1ZVDhCcU9JSGhJTkNXSmk4c2tmbXhpZG1PRHBtdzE5SU44OEx3dlZnTDJOU2YydUxhaGQwZzJQcjR5TXdIbzJDLVozQnR4ZFo2dGlKR0l0eko0QTE4TDFONFBaOW12cFFrWlYtUEJrX2ZtRHAyWXlMcW1CZ21JZ01PamxNZzhGNmhENmM2eHVvemM4SlFfQ3pyT0htZF90X0pHUnk1UTlwQ2xuUnZYU2pEdk9Ca0Jnc2VwVHhVbDRLSGZyb0ZZWk5xaUx3U2NwUndKUlI4dTh2dVUtUkE?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:54:37 GMT"
+      "title": "Aamir Khan marries for third time: Inside intimate wedding attended by Mukesh Ambani, Raj Thackey - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVjU2NDlreENlR2prZGxUSDB1Sk5wd0dUcVItR25KMVBHcG5DSTRUbXRDekVJY0phMlRLYWVxZjNIUzNvQjI5STZaLU1PYWt0QWZISjN0c01FSHBEUTlhZTYtZE14b0dzTnZoNmZiNUw3cDdjR0pMZ21uLWJKa2tHelprNHROdU54cFd5VjZZcFB5ZWVfcTZYMDJqZ0FqNHQ1MDZ4RC15S2xLUVVIOVYxV2VVUXNnTkNpNnNaQndHUDRjaGR2dXZYQUVlbDhjUkdUNTI1Wk1qUXRGZWpLOTVZbTdPY1RXd09BaXdseS1sSdIB9AFBVV95cUxNRWtyZDZ3MGE5RndQMzFtbTNBZlJzeTJDUHk2QUF1cUhuVEFubEhkbW13b1FkalBoSEhXWHhLeXBQYVgtOENFcWpBTGhGeUlmWWVyNTRiYTctSldRcFlIeDkyeHJ0VVU2dm5feVB3R2lpeVA0QVJGaGFPaWVaeXN0YXpTc0VibldVRk1ZX18wbUdaX0d2bU9iTzlxYUF5cTlhTFFVaHlFMDdLU1BBMzNwdnhVb2lqMVNhYnJHNWVhV1g2V3UzTXZKZWdEWVBOZlpwWHNuRExNSXhCRlA2dHZmaVBjNjU2Y0xaMy1fNmpxT2MwT0lo?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 13:10:51 GMT"
     },
     {
       "src": "Google India News",
-      "title": "IPOs This Week: Kusumgar, Laser Power & Infra To Launch Mainboard Issues; Nine Listings Due - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb2Rnc01iSlBveXB1ZzlteUtsbDhwQm5zdzZfOVBJVGtKRFBITTlfeHBtT3hPZDBjRXY0WTA0dmJsT1daZkljRmVvcjZ6UHVmRl9haVlxeDJNOUFzelVSRW9ETVJ3anQ2ajlyS0ZvQzdjaDl5OWVTeDdFZDNYNnBWTkQ0LVo0YzBnd1ZJWHMtdDg1M3JZSWRCOHRIa1hFSHFCLU5LM08zUFFoOFhVQ1dkOEtQLXJXZ2JiN09pZUM1WlRSTnliWm1pdW1B0gHSAUFVX3lxTE53NjNvdElWZE0tNDFpTXFaNnItOGhxVjQ5RHU3MEx6elREQlkyUnEzTGFHU2tPTlF1SDFnbjhWUzRVNTFxSE1BdUdUbkNhY20zMzdoUmpUM1BkY3NXSnFwWW9oMWdYQ1prWWhTamZMXzJwajRrbk5jWDVib2k0TVRfWkFUeFljbDJnb1VhZ0dpTE5EbzRydlVmWlE2LXZVdWFnLTNiOEJQQUlmT05RUlp6MTlkV1NOMEtiRHpTbGU0dFdkbWRWaEN2bXFZWVlkZUdhdw?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 11:03:21 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Premier Energies plans to invest \u20b96,000 cr over 3 years in ingot, wafer biz - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeG9JWU15SlgtZDlLQXZ5MWpKY1FkM1E4WWxvdGkzWFAtTXpPTm5GVlFROE9NNUpuMXlwV0lZTmtSX0w4WTh1NW9SWjJFNGRkY29PY2FqU283ZFNPNG80cU5HTEhMdVRiVkNLRGxSVzlpd3psME1RUUg5R1h2WHdFU01kX0NUaU9iTnRsUTJpWUxJUVJFdllVS0VwM1g1ZFc4S0F2Q1FsQ3U0amFwNU5IM1hrT2N0akh3MDlxWjBDVFlqVi1acUJZdmlmMWRtMXF1Zk94RzF5UW80d9IB3wFBVV95cUxPajVwOFFnalU4LV9odXlwVGxTVUc4cHRjU21NLXV4SFRJb1RsQW96V0RoeEVBQnFwLS1KcEZBTHdyUFFjOFVaYWIyLVRsaV9ZSm0tX2lfTjI4bEh1N2dtWTIyT1piRzlvT09rVGoxMVlybmZFXzdLSGdUMFJiRzJzTmZFbnBKVEVkYzhidWdKTFE4V0pxaHVLMFl1NzhpZnpudVVLdUgzLVpRNlB5ako5aFlBY0ZUaU9CbWp1Z2l2TTJXOW9jdTVHZVh2VnVzcWYwZlU2LXVhM3U0SXNVeGdN?oc=5",
-      "pubDate": "Sun, 05 Jul 2026 10:24:54 GMT"
+      "title": "Colgate India to strengthening leadership, improve operational efficiency - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPejBobjJMVlQySVVaUWJoOGFhVl9CWkRVb2VJelJXd1BtMi1aUnoxMmZNZGZlT2VmbUhWTnl2ZjRmM3MyWE12SUQxWWJlNVlRN3FrOUxhSHdhRnU3eklIejQ0ZEc1NkxMdlRaVWVHQkw3YngtRm5nRWR3djNKelFYQkJOMkMtVWlhWG8xSnRNLVFGRmYyc2NxdTJMaHIxNHROSnI1ZEl3YTdKck5nbXB2UDY3ZGV3NDF0RFFSSVlVUlB3SlNzREtFamdYZm16STRqU2ExT0M5eknSAd4BQVVfeXFMTjhsNm1iS1pfMjJ4V0F0Yl90ajVKTWxHamdYWlpBRGdYWXg1a3BLb3h5OHN0Y0hFa3hhSEdLX1dNQjhqZnJIcG5Rd0xqNzMyTG5ISkx4MFZWMDk0eTR2VjJvR3lzZWxjb0NYOG8wVzRMQUN6bl90bVJ5d19jajlzX3BMamNYZDZobGNjbmMtbUh0cHJVUDE2aE1ndm1WWU1PelQ4Y3h1TWZFbUZWazJ3ck95TDVITWtzc2puTU5NemhvWTBSdlZWek90U21PZ1BDeE9zMHotanpCc3g1OVJn?oc=5",
+      "pubDate": "Sun, 05 Jul 2026 13:02:30 GMT"
     }
   ],
-  "fetchedAt": 1783249789
+  "fetchedAt": 1783259934
 }
