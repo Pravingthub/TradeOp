@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "NY Fed says supply chain pressures eased in June",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-says-supply-chain-pressures-eased-in-june/articleshow/132223240.cms",
+      "pubDate": "Mon, 06 Jul 2026 23:33:58 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "EasyJet shares reveal deal risk as $7.3 billion takeover advances",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/easyjet-shares-reveal-deal-risk-as-7-3-billion-takeover-advances/articleshow/132222023.cms",
       "pubDate": "Mon, 06 Jul 2026 22:42:16 +0530"
@@ -23,12 +29,6 @@
       "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132220890.cms",
       "pubDate": "Mon, 06 Jul 2026 21:33:03 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Trent Q1 Update: Standalone revenue rises 19%, driven by Zudio expansion",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/trent-q1-update-standalone-revenue-rises-19-driven-by-zudio-expansion/articleshow/132220321.cms",
-      "pubDate": "Mon, 06 Jul 2026 20:35:51 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,9 +62,15 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "RITES bags $36 million locomotive supply order from South Africa's Volantis Asset Finance",
+      "link": "https://www.cnbctv18.com/market/stocks/rites-share-price-bags-36-million-locomotive-supply-order-from-south-africas-volantis-asset-finance-19939653.htm",
+      "pubDate": "Mon, 6 Jul 2026 23:01:22 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Jubilant FoodWorks Q1 Update: Domino's India Like-for-Like sales grow 2.5%; revenue up 14%",
       "link": "https://www.cnbctv18.com/market/stocks/jubilant-foodworks-share-price-q1-update-dominos-india-like-for-like-sales-grow-2-5-revenue-up-14-19939649.htm",
-      "pubDate": "Mon, 6 Jul 2026 22:41:33 +0530"
+      "pubDate": "Mon, 6 Jul 2026 23:09:41 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -85,41 +91,35 @@
       "pubDate": "Mon, 6 Jul 2026 20:48:01 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "FIIs stay buyers, DIIs return with strong support as markets extend rally",
-      "link": "https://www.cnbctv18.com/market/fiis-remain-buyers-diis-reverse-to-strong-buying-as-markets-extend-rally-19939570.htm",
-      "pubDate": "Mon, 6 Jul 2026 20:43:27 +0530"
+      "src": "Google India News",
+      "title": "Stock Market Closing: Sensex Jumps 938 Pts; Nifty 50 Up 257 Pts: What Triggered Rally Despite Iran-US War? - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdG5DT01EVVdPaUxEUFAzMzIyUDNtQjhHeVk5YS1waUJoeWd6TDVzdFlha3BJQ2RQVkhRRUNXZlpzYmtYZ25nNUo5WV96QUtNNVNoYmg2WkhtVjM4ZHBIajVWM0ZieWdFWkl4V1F6S1oyanNhSnA1X3JuY3hiVkJ6N2xNQnpkbWNHeVZKRGpRTWVoY3R2bDZRT0pwUGowZzQxNEFMVnpteWZ1blpGVWh3QjdmY0ZqUF9MM2Q0SHljRlphTTBQZS01R2NwbjFhSDYyQnhESWlWWnJYWm8?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:25:58 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcHNXazJwRlJyWHgzV0RpdlY2QW9hNHhfeENLZWYzd3puVnBOd1N1NjNnRF9ZMGRYeEhxLVVWMWxHQ0xoQ0FpcHBFenlxX29taGJhb2VtLUdPTnVIaHdlRXNSa0lrNERrSF93dVU4bmRUZ1NWYVc4OWF6al9ONkI0bjhkYllKUlAybDlfM3FKb3Q1c2RIUWlXb3RUbTJlMXF5OXg4UnBEZUlGdVpBdVAtemplVXpiWlMxVzVEbGFvVElHcXJMa2p2LTJGUlg3UGNlRWdLOHNHVVVQeXdzUHc?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 16:47:58 GMT"
+      "title": "GE Power India posts audio recording of July 6 investor meet - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSzl2Y1ZjN2M4NXFDZlNDZDgxTWs0dHpFVDY4b0dwS1pfVndkYUQyVXI4S0thbHRQaU12djVDZ3lXZHY4ZFVmMXFreEtSUnZReGtIQmlVQVMteVV5andYMzFVOG10R2RDRWI3Ny13V0NpZk1CcDFqdmRlcU5MakJXZEloc004ZlJPN19DRnhHcmlBRDIyVlVFMmluQXNLakd5eUhoVWRaekhYdnFZbjNoSkNSS2tsMmpO?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 19:14:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "These large-caps have \u2018strong buy\u2019 & \u2018buy\u2019 recos and upside potential of up to 29% in one year, according - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQZFVsbzlyaHdRNmctZEZFQlpKeTQ0VEpNcGp1Q2E5ZUNZb0RnNmhrZDREdXM1OTFlQi1IMzZ2VGlvdU95d01NeWwyQUlQdUprNjVFWl9aZkVZeDZNal96Q29pNG5NMzVvcGdQaWpsaG1tQUxEQV9zQnpva3pIZ3ZEY2RhR01SWXQtTHliT1VWWGJFVFllcmRpNkV0ZHp1SE8zdnVwbU9tN1BBX05UTE9ITXEzYzFXX1p6ZmRrdE5EaHhJMzVrM2VnbTQxWUVYczZVaXJkWU5vWmpjc1kyUGJfbzI4NFFDVXVlbkIxVzQ0d2k2QTZPVlQtcnk3eC1FaHZVcXZydGo2VUlSYzVBSm0xbdIBlgJBVV95cUxQNC11X0JyX3NBOGhpSHZLNkhOdU8ybjA3Zi0yM000Z3JuSXdKTGlxTzBIT29LU0dGdEs2VzQ5QnlfMnZEcWp2RklaQ3NUZzYtZm90S09nSkwxcGVOUW9peHl4dGNGbVUzMVgyR1U0R2l0YlFyZ3NMM0E2UV9CN2NaX2hzQW5OT21lc2ZiMUJQVWExdGtJNXVtNFJOU1IwZW1DcGhES0RrbEJmWHRJSnpWODJ5dExQcG5BUzdvUWoya1lIaFVZTDVEaXFDN1ZCVnpMX1MtYzJxNHdobzFQdlhieVNqZGtWTUhWSDJVOW1kNzFrZTh0U3RKY21tb2o1N05iZzdmOFNGa2UxbUFTVFJ1eGtfUlo3Zw?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 17:24:23 GMT"
+      "title": "When in India, play by Indian rules - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1oyZDM2VHRJeDRzRUhTU2VkOGt0MEpYdUZxYVpIM0V4WVpnb2FRTFR0WG81eW00Yjk3a1FadUtnTWRQd041T2Q1XzhBMTNVZU1aT05MaW55UERCZzBQVGRoQXJtdERoUGVIRk84T2duNEUxdDc4N25JUk9MZnFrbVVqRXNGREJXMXVTYVZYTC1PR2pzUThsNHE2UHJVc01wYXlEbDRxNk0ySzN5WFHSAbMBQVVfeXFMTUp1Z1JqOHdVdENGa2QxZmdJV0NKazJ4ZWNqMVNDRlMyeTYxQ3dNdUtQOHFNNzRWWUlJZGVOU094UjhMWWVXekFodnBxX0xJblhkM3pnZmhVVkVIQ3AyUVAyODdxdWJQRG5ZRXByNEkyTVlpUDljSldNOEVfdkVXclVPdjdXWnBsYUJPYi1GczBMNGlnWWdfMFZpeW9rSjJTVldzNWhDNWs3emxRSTk4QUxhdXc?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 19:11:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sebi issues administrative warning to Reliance over employees' share trades - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMS00LUVJUTVOSG9BeTlIckxYRDlDS0UxczNvSUdnYUVwYjlWdkZDeUc1TWUycjRZYk5yYWFLTF9oS25LYlNyenBndFBBNEhaLUJQVHpoYi1JeDVJYkdLNDVqSjJuZUdJYjBGRjVEWk9QdjZ3OGtrRV9EODBvMzcwZlo1Tm1DdFA0NEpfMFphekpHY1NjSEVOd09nNDVMUzdQazBpX3kwT3N5ZGRhSFRESlAzeVU5QS1WVlNYWXVvZUtMZTF0ZTUtdEJjQk9iS0xaRkxwVGxzamfSAd4BQVVfeXFMT0RzSFhWLUYzeEJIYi1sN2V4elZMZWRHTVpJT2lpVG01YUJubmNBTWV6QXg2d2dabGZibzB5d0p0b3hRaERCaHJNMVpkMk1NdTMtd0NDY0QweUpTamNSc091SjJLSkRzRUU4NlhJX1dHRUM1b0pfbTdjLUJxczh6ZEROMXFmLUZRZzFqR1puNmRBZGNGbTVjVFVPbV9fTDlTVTdJQjBUSkhPNnBtbWRSeHVQR0VxVmVEbXEzb3NVbGxjd3dUTG96RlJuY3lnQy10RzlmTDM3UHE2UlZxWE5n?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 16:55:29 GMT"
+      "title": "\u2018If China hacked US company\u2026\u2019: Carson grills Witness over business \u2018loopholes\u2019 benefiting Beijing - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNa2h4ZG15enAtNnI2N2Vqd1E2MEVoUE82N0E2YWtKU2x1bl9NRGNpeTl4Sk5ZenlKZXQtdThuOUYzcmgtY2thYm93SFE3akx3QVRsS3h5YVQxQ1Q0cE92aFdUU3FNNk13Y1RYVUladTkyUmgyMDh5ZWZ5aEppZE1ZYS1ES200eHZoODAxbmJDd3Z3WDkzOHJ5ZzlucVFKZi1VYXo0Y0NIZlQzUzlXT1JXV1YxVTRmeWVxMWl4SXZyYVk2Z3F4WlF2elMycHB2RXdxSWZHVjYweXgzc28xcUhOWEhTMWlpQ3NCM3V5bnZqTDczdmdxcnN2M19YVXM0X3pfMzE40gGIAkFVX3lxTE9qTnpTQU5iZUtZaThNOVp5YTNHSW1uLVRvYjFUcDVadWR6d1ZWRHlXRUFXSW1nc0hsMWx0bXRqRjNHRnBXMTJXN19kaUNsSjNwMHhPSVBsOGd4QUliMEh2MmV5aFNPSHlKQkRUTnRfSGFkZFlJQ211LWpncDVuX3RFclFXRVAtTW1PeGRNQVlLZngtdTcteGxCbllkYy1aR0drVUE1VG5zMF9tVHZwTkJRcE54NFhEWGVQRHRpR2hHdDB5T2tRaUM1V2dCdlUtRVA5U2h2cG1sNVZsd3dZbnhnSTZRejRRWExmOGtHcEUyQVZIQ0tSVWF4LVFzNG4tdUtXVW5hc0tQVA?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 19:06:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "How sustainable is the record flow of FPIs into Indian bonds? - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnlWbXpQV1FkblBNem0zdjA3cGxObzNBY3RucVBid2tHbkhKNnpRaTAyWWZxYVdiZV9Qc1B2bnhCLTFmbENjSkZJZVhBbFhPUFhOckpicUx2d2tkb1c3c2h5VDR0R0Z3VThCMng2SkxpY1dIcjJHSm40V3dTLXRjVzJ4VUFqWkMxY0c2MW1qOHVUTmdKNFpzY0dwNmNvbkdhRGQ2aGhYMF8xN0J5UjI2Y2J0SDBUcjBIY1p2UnJETdIBxgFBVV95cUxOclhLVE5rTlY1UlRfQkVUbjlkdlVlRm5ybXRUZ0FpR3dSUEdDUFdjTWVUU19UZXJhd1Baelptc3F2X19NbVBHVEFUVzJDcXFIcVBmWFBUY3NKMVh5Qm1BNjBNbGliUkM4RWVRSFYzSGFlLWNXYVprWTBFLTNja3Fmd0VFMHBpRGVlLTcyQTdlTmtNcm5BNHJ5dlVtWVFvZXJ2WFFlNTU5dTJhS1h5Smp0Sm5DdFBiR3cyMDAtUHZGekViUkpvUlE?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 16:48:09 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Gold, silver prices today: Comex gold tops $4,200, silver nears $64 as recovery rally extends; Fed minutes in focus - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQUI5TnpzdEdCN3JRNllCRWZZYjZjWmJHWERaZXNTa3ZyNFQ5eTJRbENFOUVWSnlSSEd4NVVHUm9NaE5Jd016VnpiMkJLY1BHUGlBZzhSN1IxZW9oSlNvdGUtMVBMUkZYWFpUSjZrdHczeEpjejZOZHE1bmdWc0tlVV9XZUJsSlk3UndGVTBabE5YUHM4bm84Y1RGMGczaXVDSjg2MXJfTHJibjN1Z0VvVmlzVFlVbjI3S0MxNW93UThseENla2lLd1NUOGtjdVRQWS1acVd6cFMzRFdwSWFYUHdUN0hvY09ZQlRXaHpDSHlxTFEyTU5ZY0swa2JxMGJLVDJ5T1JoRdIBjAJBVV95cUxQUHZzVGViaGZJc2RKTWxpZGRPQ3dTYWpNb2x6U1pLWTloOVBBTmlXX190R043ZEdwNjBRcWctcXdiaU41UzZyVDlrNm9ZUG91QVliUUs0XzV4R2JkX1YtcGhlN1ZkLWM2MUdwWWtnekpVbFZXSHlRMnVOMjRkcDBMQmdPZnRQeFlyRGQ1TS0zQW1nR2xkekNQTXRBZ1FYaUxUaWxSOXJZVWEwd0FvcmtNZ2VUNFA0Y3JDa0llNXhTMjhId19jazFUVGUwV1dSQjhXRXJ5MGpPY2I2ZmJYNVR3S0FWVDBCVWhiMVFXMG1IRFFkRnVnWDRyd0NEem0zRmtfYW8wamI4bTB2eWhj?oc=5",
-      "pubDate": "Mon, 06 Jul 2026 17:15:34 GMT"
+      "title": "Charlie Kirk case: Erika comes face to face with Tyler Robinson as prosecutors pursue death penalty - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPV1VrcFNtOXQxbU9UMHBESzN5eWFsTDVNRzBTUmpRVjh5NndISFI0czVtb2dQNmhtYUNWSmpRZnNYdFByOWl2aXNiLVg3Rm1maDJMUlRyV1Z2NVZheHFSSER5YU4zRUphdVFpeEVHWGJjRDgyV2RVcnRmcTlReFZmeFRsZHZPQ3ZwNW9lbW5rbllnY19qQnlGMnlYb29YLXZjdjlZWi02QUJCcGs1WFlwRWtlNVlLUkFHeXpzdktpQmJjLVdsVVROZXhnelY1VGNwQXVJZEZrdVoxUzgxVmFoNk9HMGtYZnNjcUpmN2pfN3NCUkRaLUFkeldvLXZURmNhdW1HbmNsajR2d1R10gGSAkFVX3lxTE1iRDY3SjhwRUpiY3pUYnpVdms4cGpJcjcxWVFzekRYM1hPOW03eGZza2dBQ3JQY2NmTkhkdWZJdnhfaXZidkM3dmtDaEtENUZxNWN2NU1yXzM1N0NOSlVSN2E4LXNxelYydW9CZWRidjIwbFVYQWp5b2RVcS1FYU5HN2xvQUlfSUFCbFI2cmJmSVFFOS1BVzlTUDFJeFphN0M4WkRYODE2cWlyZTVnWVM2Y3ZUUVEyOE84bnFUWU1IcmlyQkZfVV9aSGJKWmRMMTViSXdOY05EMjItVGxWLUVBRzRpRXpTWi1PSXYzNTdqOUN2UXlLSThGTXNjWXgzdWpUQ3VwSmxEUU5mdFR2X3VMY0E?oc=5",
+      "pubDate": "Mon, 06 Jul 2026 18:39:41 GMT"
     }
   ],
-  "fetchedAt": 1783359104
+  "fetchedAt": 1783365753
 }
