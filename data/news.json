@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Indian Bank drops capital raising plan on lower ECL hit",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-drops-capital-raising-plan-on-lower-ecl-hit/articleshow/132318232.cms",
+      "pubDate": "Fri, 10 Jul 2026 23:05:45 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "SK Hynix shares jump 14% in debut on US stock market riding on AI wave",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-shares-jump-14-in-debut-on-us-stock-market-riding-on-ai-wave/articleshow/132316923.cms",
+      "pubDate": "Fri, 10 Jul 2026 22:30:30 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Morgan Stanley warns AI chip rally may be running out of steam",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/morgan-stanley-warns-ai-chip-rally-may-be-running-out-of-steam/articleshow/132315698.cms",
       "pubDate": "Fri, 10 Jul 2026 21:14:23 +0530"
@@ -19,16 +31,10 @@
       "pubDate": "Fri, 10 Jul 2026 21:09:53 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "PFC raises USD 300 mn via bonds carrying floating interest rates",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/pfc-raises-usd-300-mn-via-bonds-carrying-floating-interest-rates/articleshow/132315575.cms",
-      "pubDate": "Fri, 10 Jul 2026 21:05:11 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "South Korean billionaire's risky bet pays off, as SK Hynix debuts in New York",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/south-korean-billionaires-risky-bet-pays-off-as-sk-hynix-debuts-in-new-york/articleshow/132315233.cms",
-      "pubDate": "Fri, 10 Jul 2026 20:51:29 +0530"
+      "src": "LiveMint Markets",
+      "title": "Fino Payments Bank June update: Deposits rise 11%, loan referrals surge 3.5x",
+      "link": "https://www.livemint.com/market/stock-market-news/fino-payments-bank-june-update-deposits-rise-11-loan-referrals-surge-35x-11783703589983.html",
+      "pubDate": "Fri, 10 Jul 2026 22:58:50 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,22 @@
       "pubDate": "Fri, 10 Jul 2026 20:35:08 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Pulse of the Street: Sensex, Nifty rally on TCS earnings after midweek rout",
-      "link": "https://www.livemint.com/market/sensex-nifty-rally-on-tcs-earnings-after-midweek-rout-ai-oil-prices-it-real-estate-markets-11783685414566.html",
-      "pubDate": "Fri, 10 Jul 2026 20:31:24 +0530"
+      "src": "CNBC TV18",
+      "title": "Just Dial Q1 Results | Revenue growth lifts earnings, but margins decline",
+      "link": "https://www.cnbctv18.com/market/stocks/just-dial-share-price-q1-results-revenue-growth-lifts-earnings-but-margins-decline-19943213.htm",
+      "pubDate": "Fri, 10 Jul 2026 23:58:45 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "IREDA declares Gensol Engineering, Gensol EV Lease accounts as fraud; reports to RBI",
+      "link": "https://www.cnbctv18.com/market/stocks/ireda-share-price-declares-gensol-engineering-gensol-ev-lease-accounts-as-fraud-reports-to-rbi-19943198.htm",
+      "pubDate": "Fri, 10 Jul 2026 23:05:16 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Adani Green's Q1 energy sales surge 30% on higher renewable capacity",
+      "link": "https://www.cnbctv18.com/market/adani-greens-q1-energy-sales-surge-30-on-higher-renewable-capacity-19943175.htm",
+      "pubDate": "Fri, 10 Jul 2026 22:40:23 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -73,53 +91,35 @@
       "pubDate": "Fri, 10 Jul 2026 21:11:57 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "FIIs pump in \u20b92,604 crore as Dalal Street ends week on a high",
-      "link": "https://www.cnbctv18.com/market/fiis-data-today-pump-rs-2604-crore-as-dalal-street-ends-week-on-a-high-19943068.htm",
-      "pubDate": "Fri, 10 Jul 2026 20:53:35 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Yes Bank, Havells and two others stocks that could surprise this earnings season",
-      "link": "https://www.cnbctv18.com/market/yes-bank-havells-and-two-others-stocks-that-could-surprise-this-earnings-season-19943112.htm",
-      "pubDate": "Fri, 10 Jul 2026 21:53:13 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "JSW Energy bags \u20b9444 crore battery storage order from Bondada Renewable",
-      "link": "https://www.cnbctv18.com/market/jsw-energy-bags-%25e2%2582%25b9444-crore-battery-storage-order-from-bondada-renewable-19943087.htm",
-      "pubDate": "Fri, 10 Jul 2026 20:39:12 +0530"
+      "src": "Google India News",
+      "title": "Sensex, Nifty gain over 1% each as global sentiment improves, crude prices soften - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZDBaVXFMa1hMRDJHRm1xX3h0SWdxMC02U1BIYk0wUjM2UzRJV05DeVhFSzEzZkZvR1Vtb2R3VW9TMkZiSWEyR0ptVUxJdmY0RTllUTN6RVRaMVlFUGRfRXZpYTg4eGNmX056cm43VWVzWUlwLW9JeC10aGY1dlN5TVp2TGF5UlNSc21ZVWE2bW12VXAwbTl3TmdTaDBqaFRoNFo4Tnp5R2lsY1RyZ1lRVWFrRk5LaFNwRmRMUXVVVjB0M1E4cUh5aEFHbXfSAdoBQVVfeXFMTXd1VFlvYnYzZE1xRzRHZ19DNlFOMXpNSWRWVmtwQk1rZXBnRHN5SEktYVVUMEQwSHFDQVNycHpxZW56em4tTjJsVEFfaWozZkswcml5Y2NfakxBUWJNMFBrdEx5Q1BRRTlySDNQal9QSllsRFlENWwzTXZ1TVo3dFBIeGUzeGdvSFV2Q2lGTTJpdVd0OHFwUFNreVg0bTFnSldNREZlQ3dyWGwxNVZBLTl2Z093MUtxNFlWODNWeTRvUGZuaE44dnJUSWdKdTI2RmNLQnhIVEhaOWc?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 18:17:31 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Global stocks rise on Friday, ending the week on a quiet note - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb01vUlViY0VuaDMycGtFdVZGUk8tR3hTR19mSzFfcjJUOWlYSW9BS2YxVE5paXhvZm1Rcnc0MEZ4QmhwdGgxS1l1cm4wUk5DSVlDbUNCcm5ibEdJMkhJcjdaTm1kaGpQcmxCdUF0SlBxRUJVNFFTMnJ0R0tsLVlRM0JPZXl1WXVFREJEUGxpT0hXVEVjaU03elZVeWQzbjM3VzV1cFNQM0dLQmk4SVJudTRyVGHSAcIBQVVfeXFMTm4xY1EzNzc4QVEzRXZvd3N6Um1McC1rRTJ0Q1dlemtxbS0ybHBjdEI1VGl3LW1CTjVHeVAzQ01JSngyUXM5ck1WdzdjVUNZSUh5V2JneHQtaUc4eWVHMHN0cFhFT2lqNWRZZUh4WHA1WTFMeWpZendQQ2UxNWp1UkhhV1ktQkdkUGlEZVh3bENBRGFwZzdLbS1vWlFQelFNSkV0cE5iQlZpU0c4S3RvUWtWU2c4X1dkbU1jS3E0T25zbUE?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:42:43 GMT"
+      "title": "\u2018You can do the research\u2019: Tim Walberg grills witness over $15-20M healthcare coverage claims - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVzZVX29ZVDJKUFBtT21JeDZ5MGVHMVVtbENfMUlZR1VoUk1WazJ5SDF5dldwbEJtU2R1REJzLVp0UXhJREdHcUUtanVIUkVNNzJXUDdqT1dTZUZneXctRUhjVzVRRHludVh6d1hHQmxKd0hiS2tRbkY2SmtpYkxiV1RzNnhXRjVXSEhia3k1WWEwUDZGVlBzdkRwSXZxbURlVE1UaXZBbGtObVU2MFQzN194LWZsNDgwUHZjTGNSbk41RWdjSlVqb1hwTHU5VVJwNkx2STUwZWZDWU82QUstaGFKUDJFN0k5cm5ZRjFWTUIzZmJjSEpmcmo1aVR5LUIz0gGGAkFVX3lxTE9zNGlpUWNIb1AwX1NfYkRvRGxJTDJUN3FicS1BQlhpNlZ3WkFRdVJpTWotdkdnMEZRZE5XUmdnN3k4NmxmYVl2b1F6aUNXUW41Nk1VcW96WTc1XzFRc3dtZ05HZmd3NE8yWjdFc3JHUkdMUW84Y01ybi13QUZmcmRGYWNfbmFLWVFDQXRYa19wbmxtVmJfRHlvcFRGdVY3WTcya1FDaTR5NXk0bXk5dExVeUZZZ2V1bnR6aTlnQXRHN3RwclVyTEZDemtUZl9WbVY1WG9aUVdTT2ZhM3NacWpTcmpqRFVpcmJSTndQMFRiS1oyQnkyVjhuU1RuZGhaUGpXRnQ0SWc?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 18:08:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's Ethanol industry now focused on efficiency, cost reduction: Chandra Kumar Jain - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd1JULU9MYl8xVjJoUlhfMEcwdGI0UXE1VFlPZC1tZGhFRHRmN3RId3k3MDN0RzB0UmFaRVV5RUFKY3E3MHhmeV94S2xZLTdPRDVDQXRyWUY0U1ZLaWdFVFkwMFFvX2k4RWJ3NzBnZzg2QUNxQXVqRXR0cFhoR0lGRVJfdlZlZjFmS3lfTVNXdW1DbjVUemlETUlGMEFLQTF4d01mRGxLajB2QnZyZk90LVNSRmoxeTZmR1hvdnpTYkVvZmFJMHB6YmZSdWZEaHBjTEJoeVJtcmFmSmhNN3fSAeYBQVVfeXFMTnFjTEgxSmp1SVRZZFdiYnVnX0pjMzBOemhCMlZ3WTJVZm85XzJPQk1fcGEtRnJZQ0pCMGhYSGhBbTFUZUx1WXZ2Ym9sYkRweVJTdU1sSUo3aTRIYzdTNDNOSkYxaTR0bzB5NGNCeHE2bHh6dU44cERZbHJuVU04dnZKY09TN2hiQlE0MHVfM3pGSkNteUd1Q0JQNHQ5SmdTQ2o4dl9xTUNUN3hGcXhGZWNzbXR5aFdkeWpscDFGcGltNENiajlMTmVRek5VaUh0WFM4cjctYUlrQWNpS1oyUDhfTC1oT3c?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:36:08 GMT"
+      "title": "Why arguing may not help - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeF9zMUNzZVZCczdud3hVMWIxTnl4cFdtS0Y4OE94aWNDYWZTU0RWVS05MGE3OEloTURPU291a25XSHFjX0loYldRNXlGZ2xlalZNenAyUDZoazZCaTcyZy11QmhuMUc3cWctN0dXZ1hSTmRmZEVTZERKdGNqMmlvTkVfS0c0b2trY1BFSmtyNF9xMWtPVHR5SXk3T1FFczZCd2fSAacBQVVfeXFMT2xqTnlYbF9GcU9jaXdMUGZtcW01dmxUbURmdHhJM3dhbVd0SF9EWGRyODhqenlWYjBSYzR6TXZSUlBKYmU2OU1uY3Z2VGNjWVZzSi04cmZMelJ1Z1J1LTFuUVR2bDg2Q1ZHTHdtRUxPRl83ZDF5OTZnOERjR0xUT2FKSnQ3Z3RfdDNyVVJGbVNiZWozemlkam1HRV83S3VNTGVQLWlMQzQ?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 18:16:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Who Really Profits When Indian Traders and Investors Lose \u20b91 Lakh Crore - The CSR Journal",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd2JBdUVrTFgtcjdGa0J6MGJHWUtzMDlvTzQ0MDBmNE5rN0M2c2dZRzFPNnlCNjdIY29YYXdKTmVQV3J3SUJyS0ROSlZibExUYTFoYV83YnNpaHU1NmJVeWxvZlVwUnlOVlBfdWptOXNQUHpmRnFBU2xNWktBa2dsY0pHYV9NR283SVlWQkFBd0JyNEJYaUpqU2ExQUFpNXZF?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:25:19 GMT"
+      "title": "'Politically charged ideologies\u2019: Report finds SPLC influence in Teacher programs in 38 US states - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLWphZFpjSWRYckU2WWdkemF2OC1lU0NXTnBSX3IxOGU1cEpsdkRmUEtoTnBzcldWUk1RRUZ1Yi13aEt1VFJTdkhrSERiYUJIY2VlMUNYenVoRmVyNG5ETjFjY2NxUkR3YTBKZlhVNzdnSjlibnhuSGZ5dThHQkhFUFRBQUlxcmxIN1dBRnBKd3NkT2RkYXhCWlBNeHBqZFV5OXIxcDNVcklKME9OeTllUnUwTEtpMnBCby03UVZQeDQycmpRcllva0JGdDV6QVF2YXduUmljcW1Tdm9EalNwOGlaV3dTUU4wQlA1cU9EN2xXX0tDYXpWMTZEVkh4enVsamduS1lWY9IBjAJBVV95cUxPRURpcV9WNllXMndZdC1FZTJBUHpMZTdmX0JQVF9LTzVmTV9aRlliazhob2gwVm83cnNDT3gtRmxIWTdHbXJGYjJSTWJBQnlyUDlZRXVURExvYllKWXZzU3FBNnZRU09JQWZ0WV96d2c3WnJGNEk3MC15LXphUlUwdHdJdkxELWttaEFUc010cmNwTmJTcXkzc2xGcjhTYUhiRFkyaUVYWWt1OGs5a1dHWnZsa0wtbUNzNl8yaFh0UHY1SmlrVS1Td0hEMmFNclFFNmg4WjEyU2JEamdhdFMxRUdITlVKNUlQb09FNkY2REE4UmlmMU5iOVh5Q0hfU1lwWG16cEE4Qm15YWlo?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 17:54:35 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India\u2019s Forex Reserves Rise $7.26 Billion to $674.193 Billion - The Financial World",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVU5lUGV3bTNLMDdHa3JzbG1GRUpEZGhUcTRWNzRDQndBN2dZa3FZN3dVbDdNSk1FcmZ1eG5tak9MQTlaRjZCMDNyNEY4MUdMZjNpWnQ0TFA4Um16elplbjlWQXROTkxnMkpPbFJvSWhZNUtFc21Ha3MtNkZjaWhDWlFEWVFWZVg4Wmk4V2RRVV8yZW1fYmNXRg?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:37:36 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Indian navy set to commission INS Mahendragiri, Sixth Indigenous Project 17a Stealth Frigate - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZTFzRHFQdjd2YlFpejcwUXB2UFFhdmpoWHhsWkV5SmdCVkUwdGNncms2Vlg2WmRSTnRaWG1IbnBjNktMYmxqVEFhT2pPWWxwbkF5NFNodXRDOWgtR1hwNFpWNDBKdVpZeTFaNVQtWHlhdF9idklpQmNUM09pOFJodVNlVHBhejVVQjExYlpjYjlEZFRUWW1jSEUzS0IwV0dMVXZJUkJmb0FtUHZ6dzQ3U2pvd2QtX2R6eXMxYlZab1RuemNoU3ExZmtkRzg3bkNSYUpNQ2xNRXNuZUdfMHQtQ2s3bzNQOUI30gHwAUFVX3lxTE81aUVQLWZUdEJXa1M2UnRkNm12NmE5MFlzY1lydlB0MWo2VVdmeXVyZWRVTW1zcEF2Y3N4UzFvZmkyODdJZVpRR1RiREVoczdlc0FkbkRiMlYyUFRvemN4RWhFX1hPdl9qMWMxN2lrbnowaXZyTHBUZkI0WDZJVm5WaDVSbVd3NDlWTDVvZ2JRV2dKTlNaTEczZ194QmwzczZMVHBiWGdscDdtZ3d0dUdaUG9xNjRvRHB3TmNrV3hFYXFhdmM0UGZOY21DSWNtTUhBQTRRNEE5S0tsQ01sNjRhZXQzZXRMbjBGVTVVN1BsSw?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 16:48:16 GMT"
+      "title": "Not a risk worth taking: Solar geoengineering could put India's monsoon at risk - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMnV5VGE0TEZrUzlLeEJEclVRN3Y3Ulhka1VJbUZDVjB4NjctZDN4ckVCMjliNm5Cd0JRMER3b1ZldkF1cHVnN1JfVzFQQXFTMkJXekh6WHl4WXhSci1IbFY4MTdfaUpFZjd0MC1Cb0VfWjk4TDNWYTRSWXFEa1JNYVpmUE12WER1NGFUbXh1XzFhM0UwZXNkQk1GSW5QWEhkLUg5QjdwdXdnMlcteEZaOE90bUNtQVF1d1NMd01SdEdzUHhGSENTWDNsTU1nTlNrNW5oWk9vaGtvUHYyTjYyVF9LeWE3eTRv0gHuAUFVX3lxTFBxRng3QnhrY0pOeDV1SHdpTWRYUFJNR19Ra1ZicVlsaGxGLWFBMGZpcUhjWHNXMmlYWk0yQUVUV1pnN3lfTTFJMkI0cVFTaE5NaFo0dElyaHdTUHp3cVJLUmtMdHNLLUtjSnNZc1AwWTZjTS00bHk5UnpPMlNENEZqZGFWLVB4RnFOeDhpblN2dm91U3dHa2VTSXVwUmZVcFpOVndBR1pDcFdMOHZzTWF3cktqSC1reE5lNGFfWDdFNEZVdHozV0ZYV0NyQjZhUVNDWlhmWWszU3JkTkVhSjgybWtzcmU4Q2RjWmFzNEE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 17:51:00 GMT"
     }
   ],
-  "fetchedAt": 1783703636
+  "fetchedAt": 1783709416
 }
