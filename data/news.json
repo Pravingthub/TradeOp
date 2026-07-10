@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: US stocks end higher as investors turn to earnings season",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-higher-as-investors-turn-to-earnings-season/articleshow/132320373.cms",
+      "pubDate": "Sat, 11 Jul 2026 01:34:16 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Indian Bank drops capital raising plan on lower ECL hit",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/indian-bank-drops-capital-raising-plan-on-lower-ecl-hit/articleshow/132318232.cms",
       "pubDate": "Fri, 10 Jul 2026 23:05:45 +0530"
@@ -23,12 +29,6 @@
       "title": "Circle shares surge 13% on getting regulatory approval to set up US trust bank",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/circle-wins-final-regulatory-approval-to-establish-us-trust-bank-shares-rise/articleshow/132315669.cms",
       "pubDate": "Fri, 10 Jul 2026 21:12:01 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Global Markets: Chinese fast fashion retailer Shein finally wins approval for Hong Kong IPO",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-finally-wins-chinas-approval-for-hong-kong-ipo-in-third-attempt-to-go-public/articleshow/132315636.cms",
-      "pubDate": "Fri, 10 Jul 2026 21:09:53 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Sensex, Nifty gain over 1% each as global sentiment improves, crude prices soften - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZDBaVXFMa1hMRDJHRm1xX3h0SWdxMC02U1BIYk0wUjM2UzRJV05DeVhFSzEzZkZvR1Vtb2R3VW9TMkZiSWEyR0ptVUxJdmY0RTllUTN6RVRaMVlFUGRfRXZpYTg4eGNmX056cm43VWVzWUlwLW9JeC10aGY1dlN5TVp2TGF5UlNSc21ZVWE2bW12VXAwbTl3TmdTaDBqaFRoNFo4Tnp5R2lsY1RyZ1lRVWFrRk5LaFNwRmRMUXVVVjB0M1E4cUh5aEFHbXfSAdoBQVVfeXFMTXd1VFlvYnYzZE1xRzRHZ19DNlFOMXpNSWRWVmtwQk1rZXBnRHN5SEktYVVUMEQwSHFDQVNycHpxZW56em4tTjJsVEFfaWozZkswcml5Y2NfakxBUWJNMFBrdEx5Q1BRRTlySDNQal9QSllsRFlENWwzTXZ1TVo3dFBIeGUzeGdvSFV2Q2lGTTJpdVd0OHFwUFNreVg0bTFnSldNREZlQ3dyWGwxNVZBLTl2Z093MUtxNFlWODNWeTRvUGZuaE44dnJUSWdKdTI2RmNLQnhIVEhaOWc?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 18:17:31 GMT"
+      "title": "Grovy India approves dividend, share issuance at AGM - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORjUwTUdwVEJsQUtVRW9TbDBfYlJ1dERrUzVwbTNRZ040ZU85TWNta0E3aG9BTHcxT0VrRmZOcDl6TnYyclF6QTEtMkpnbEtFdWc1V3B6c3dYZGJtRjNyTWJ5UDQwWDR1WFBlQS01eFo0dW9FNmhjeGFrei1WLTZpS2xuODZnUV93d1hjVzU3aEp5N3RJdl9KM2I5YUs4SDVfNFU5VHlIcktBZUlHeGZ3bXFuWjdsSDla?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 19:55:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\u2018You can do the research\u2019: Tim Walberg grills witness over $15-20M healthcare coverage claims - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVzZVX29ZVDJKUFBtT21JeDZ5MGVHMVVtbENfMUlZR1VoUk1WazJ5SDF5dldwbEJtU2R1REJzLVp0UXhJREdHcUUtanVIUkVNNzJXUDdqT1dTZUZneXctRUhjVzVRRHludVh6d1hHQmxKd0hiS2tRbkY2SmtpYkxiV1RzNnhXRjVXSEhia3k1WWEwUDZGVlBzdkRwSXZxbURlVE1UaXZBbGtObVU2MFQzN194LWZsNDgwUHZjTGNSbk41RWdjSlVqb1hwTHU5VVJwNkx2STUwZWZDWU82QUstaGFKUDJFN0k5cm5ZRjFWTUIzZmJjSEpmcmo1aVR5LUIz0gGGAkFVX3lxTE9zNGlpUWNIb1AwX1NfYkRvRGxJTDJUN3FicS1BQlhpNlZ3WkFRdVJpTWotdkdnMEZRZE5XUmdnN3k4NmxmYVl2b1F6aUNXUW41Nk1VcW96WTc1XzFRc3dtZ05HZmd3NE8yWjdFc3JHUkdMUW84Y01ybi13QUZmcmRGYWNfbmFLWVFDQXRYa19wbmxtVmJfRHlvcFRGdVY3WTcya1FDaTR5NXk0bXk5dExVeUZZZ2V1bnR6aTlnQXRHN3RwclVyTEZDemtUZl9WbVY1WG9aUVdTT2ZhM3NacWpTcmpqRFVpcmJSTndQMFRiS1oyQnkyVjhuU1RuZGhaUGpXRnQ0SWc?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 18:08:57 GMT"
+      "title": "India's IPO Boom Poised To Enter A New Growth Phase - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOEpYbTFUTFJUR3pWMU9QNGtwQ0pibDg0LW5abzFGN3B6WjBPZzNQX2RlUlM1SEFCWFNOOHltdkR4S2pOWDM0LW5TNzBVT2FFa2NqXzZzXzhxNXZxVTNYR2NSSmo5cnc0YUx2bGpDbU94VEdrbnZoOXRRVmFzd2tkQTZVcnNVMjZ6OWMwTDJDampmVV8wSVJyMVNaSQ?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 20:07:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Why arguing may not help - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeF9zMUNzZVZCczdud3hVMWIxTnl4cFdtS0Y4OE94aWNDYWZTU0RWVS05MGE3OEloTURPU291a25XSHFjX0loYldRNXlGZ2xlalZNenAyUDZoazZCaTcyZy11QmhuMUc3cWctN0dXZ1hSTmRmZEVTZERKdGNqMmlvTkVfS0c0b2trY1BFSmtyNF9xMWtPVHR5SXk3T1FFczZCd2fSAacBQVVfeXFMT2xqTnlYbF9GcU9jaXdMUGZtcW01dmxUbURmdHhJM3dhbVd0SF9EWGRyODhqenlWYjBSYzR6TXZSUlBKYmU2OU1uY3Z2VGNjWVZzSi04cmZMelJ1Z1J1LTFuUVR2bDg2Q1ZHTHdtRUxPRl83ZDF5OTZnOERjR0xUT2FKSnQ3Z3RfdDNyVVJGbVNiZWozemlkam1HRV83S3VNTGVQLWlMQzQ?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 18:16:00 GMT"
+      "title": "State Bank of India Sets Pre-IPO Valuation for SBI Funds Management With Rs 1,655 Crore Share Sale - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWGdHaDJ3Ukh2cGc3TW9zejZvdlVkMEZWQjM1eVh4cE5xSGxhWnFWeG1LaHVFYmRWd3c2bml3WlpFQ3VJdngzb2huSjFpSGJ4SGhHNGx6TDNDMXJDTUtJMWlrdjFGMmxRRVFkY2FTLTVmYW9udnBhZ25MX3hlMHJJelh6X1RfenRGNUFybS1MU04wUng1TUJ4U3c1eU5nZzlRNDM3b2lraDlZd29iSjY5bmN4Vnd0UXQ4SkhqTnJrSHJPZnhILVFZdC1WRWpiRGZMY094Nk04TWdXb2lBZlNGal82VWp0c3hMdGQ5OWVMODl3UkJpQll3Q044U3RoOEJvNVRvSnlZblRyYkE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 19:14:42 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Politically charged ideologies\u2019: Report finds SPLC influence in Teacher programs in 38 US states - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOLWphZFpjSWRYckU2WWdkemF2OC1lU0NXTnBSX3IxOGU1cEpsdkRmUEtoTnBzcldWUk1RRUZ1Yi13aEt1VFJTdkhrSERiYUJIY2VlMUNYenVoRmVyNG5ETjFjY2NxUkR3YTBKZlhVNzdnSjlibnhuSGZ5dThHQkhFUFRBQUlxcmxIN1dBRnBKd3NkT2RkYXhCWlBNeHBqZFV5OXIxcDNVcklKME9OeTllUnUwTEtpMnBCby03UVZQeDQycmpRcllva0JGdDV6QVF2YXduUmljcW1Tdm9EalNwOGlaV3dTUU4wQlA1cU9EN2xXX0tDYXpWMTZEVkh4enVsamduS1lWY9IBjAJBVV95cUxPRURpcV9WNllXMndZdC1FZTJBUHpMZTdmX0JQVF9LTzVmTV9aRlliazhob2gwVm83cnNDT3gtRmxIWTdHbXJGYjJSTWJBQnlyUDlZRXVURExvYllKWXZzU3FBNnZRU09JQWZ0WV96d2c3WnJGNEk3MC15LXphUlUwdHdJdkxELWttaEFUc010cmNwTmJTcXkzc2xGcjhTYUhiRFkyaUVYWWt1OGs5a1dHWnZsa0wtbUNzNl8yaFh0UHY1SmlrVS1Td0hEMmFNclFFNmg4WjEyU2JEamdhdFMxRUdITlVKNUlQb09FNkY2REE4UmlmMU5iOVh5Q0hfU1lwWG16cEE4Qm15YWlo?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 17:54:35 GMT"
+      "title": "Repro India schedules 33rd AGM on Aug 4, e-voting from July 30 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdTlkS3NETGZxUzRTdkk2RG9zeHRIUEtWcFBmTkNpSkduZm9lRU9iWXZrV3lnVTRZb3A4emFLNzhTMlZkZ1NxSEJmLVhGeTdvN1RtcWpXUnVPaUZfN2FzRk9rSUVFQmF2Rm9vYnhPZGduUHlRUUlMSm9SblZaWXp0REZTd0Rxc09lRkt2MXJ1b215Y203amZkQUpDaE0yM25DbV95V2haaTdwYTZaUjVzT1BIRExUVHB1RkE?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 19:54:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Not a risk worth taking: Solar geoengineering could put India's monsoon at risk - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMnV5VGE0TEZrUzlLeEJEclVRN3Y3Ulhka1VJbUZDVjB4NjctZDN4ckVCMjliNm5Cd0JRMER3b1ZldkF1cHVnN1JfVzFQQXFTMkJXekh6WHl4WXhSci1IbFY4MTdfaUpFZjd0MC1Cb0VfWjk4TDNWYTRSWXFEa1JNYVpmUE12WER1NGFUbXh1XzFhM0UwZXNkQk1GSW5QWEhkLUg5QjdwdXdnMlcteEZaOE90bUNtQVF1d1NMd01SdEdzUHhGSENTWDNsTU1nTlNrNW5oWk9vaGtvUHYyTjYyVF9LeWE3eTRv0gHuAUFVX3lxTFBxRng3QnhrY0pOeDV1SHdpTWRYUFJNR19Ra1ZicVlsaGxGLWFBMGZpcUhjWHNXMmlYWk0yQUVUV1pnN3lfTTFJMkI0cVFTaE5NaFo0dElyaHdTUHp3cVJLUmtMdHNLLUtjSnNZc1AwWTZjTS00bHk5UnpPMlNENEZqZGFWLVB4RnFOeDhpblN2dm91U3dHa2VTSXVwUmZVcFpOVndBR1pDcFdMOHZzTWF3cktqSC1reE5lNGFfWDdFNEZVdHozV0ZYV0NyQjZhUVNDWlhmWWszU3JkTkVhSjgybWtzcmU4Q2RjWmFzNEE?oc=5",
-      "pubDate": "Fri, 10 Jul 2026 17:51:00 GMT"
+      "title": "'Dark money groups funded $60M\u2026': Soros-linked network in Minnesota 'exposed' at Senate hearing - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNWZPSk1ya1hoandTYjJMQ0x2aDdDdFR5MVhJTjNjSV9TX3M3SUF2UjJjMGpfdkg2VmJtT3YwdkJaVnNEQ3JnQUoyNUN3aVpLaTlhUEYtRzE4aklhLUI3cWxGamRnSElpVlF0SXFoRWR3NTVLN1ZKVWlaT2N6RGZMNW9rc2N4ZURRa1ppWjVCUTlWcmRvaVRoVVQ1UEx4S2RBbVRVR2U1R0JZdGYzTUIybkVBWXpZUG82NUhId1hoSHJhRGZSdEVMOXNzTzNiT2NUUi1pMklBcjRHTmVYamtmYVp4YTdNc1BQRG9tUlkwV1ltS2RKVFhGSkpyMjFxTk3SAYQCQVVfeXFMTy1qMGhvV0thR2k3TVVvTW9vZXlNeUM2T21YSFdMdXltbTlZRWZrc2FMT3h5bGh0NzBBTDBQWGlqczVPUEhsYnFLTENvWmtLV2I4X1FZa2RQekR5MzE0Z3FPUkhJVVd2MWVPMUplaHlfcmxqMEVWa2JkWnlwWjBGaWF5c2NoNm11Ui1PV2hQaG8tQU1LYW0xS00zVjNXOVl5dlFIamdRMDlrbDNORG9ycDFpVUpPcGstbVE1ZHN1NzVVTXFtN3dXZWRhZE9LNEwxbm5yRzlwOU5zdl9rbjRpTWVMLVpmWUkzY0llU2FpUjhSZHl6T0VUcTh5NGcwdlk4OVR5dHA?oc=5",
+      "pubDate": "Fri, 10 Jul 2026 19:25:27 GMT"
     }
   ],
-  "fetchedAt": 1783709416
+  "fetchedAt": 1783714179
 }
