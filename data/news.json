@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "SIF AUM jumps 29% to Rs 17,858 crore in June; inflows surge 171% MoM",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sif-aum-jumps-29-to-rs-17858-crore-in-june-inflows-surge-171-mom/articleshow/132329280.cms",
+      "pubDate": "Sat, 11 Jul 2026 16:38:47 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "DMart Q1 results: Cons PAT up 11% to Rs 860 crore, revenue rises to Rs 18,795 crore",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/dmart-q1-results-cons-pat-up-11-to-rs-860-crore-revenue-rises-to-rs-18795-crore/articleshow/132324295.cms",
+      "pubDate": "Sat, 11 Jul 2026 16:17:15 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Nearly 60% of foreign inflows into India-focused funds withdrawn since 2024 peak: Report",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nearly-60-of-foreign-inflows-into-india-focused-funds-withdrawn-since-2024-peak-report/articleshow/132328818.cms",
+      "pubDate": "Sat, 11 Jul 2026 15:59:22 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "George Goodman\u2019s investing wisdom: Why sometimes the best move is to do nothing",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/george-goodmans-investing-wisdom-why-sometimes-the-best-move-is-to-do-nothing/articleshow/132327422.cms",
       "pubDate": "Sat, 11 Jul 2026 14:05:26 +0530"
@@ -11,24 +29,6 @@
       "title": "Bitcoin holds near $64,000 despite ETF outflows; crypto market remains resilient",
       "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-holds-near-64000-despite-etf-outflows-crypto-market-remains-resilient/articleshow/132326051.cms",
       "pubDate": "Sat, 11 Jul 2026 12:19:31 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "F&amp;O Talk: Mid, smallcaps to continue outperformance as Q1 begins, says Sudeep Shah; outlines Kalyan Jewellers, TCS strategy",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-mid-smallcaps-to-continue-outperformance-as-q1-begins-says-sudeep-shah-outlines-kalyan-jewellers-tcs-strategy/articleshow/132326016.cms",
-      "pubDate": "Sat, 11 Jul 2026 12:16:22 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Unique Picks: 7 stocks held by a single MF scheme in June; rally up to 120% in 3 months",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/unique-picks-7-stocks-held-by-a-single-mf-scheme-in-june-rally-up-to-120-in-3-months/slideshow/132325855.cms",
-      "pubDate": "Sat, 11 Jul 2026 11:48:11 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Could oil prices spike further? Inside the fragile US-Iran stance in the Gulf",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/could-oil-prices-spike-further-inside-the-fragile-us-iran-stance-in-the-gulf/articleshow/132325682.cms",
-      "pubDate": "Sat, 11 Jul 2026 11:45:01 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,64 +62,64 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "HDFC Bank bets on AI, seeks \u20b960,000 crore capital raise as digital push gathers pace",
+      "link": "https://www.cnbctv18.com/market/hdfc-bank-bets-on-ai-seeks-rs-60000-crore-capital-raise-as-digital-push-gathers-pace-19943409.htm",
+      "pubDate": "Sat, 11 Jul 2026 17:23:09 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "HDFC Bank annual report details Atanu Chakraborty's pay, recounts events around his exit",
+      "link": "https://www.cnbctv18.com/market/hdfc-bank-annual-report-details-atanu-chakraborty-pay-recounts-events-around-his-exit-19943395.htm",
+      "pubDate": "Sat, 11 Jul 2026 16:51:40 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "HDFC Bank CEO calls Atanu Chakraborty's exit a 'challenging event'; Keki Mistry reaffirms governance",
+      "link": "https://www.cnbctv18.com/market/hdfc-bank-ceo-calls-atanu-chakraborty-exit-challenging-keki-mistry-reaffirms-governance-19943382.htm",
+      "pubDate": "Sat, 11 Jul 2026 16:28:02 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Avenue Supermarts Q1 results: DMart parent reports 15% rise in revenue, minor improvement in margin",
+      "link": "https://www.cnbctv18.com/market/avenue-supermarts-q1-results-dmart-parent-reports-15-rise-in-revenue-minor-improvement-in-margin-19943379.htm",
+      "pubDate": "Sat, 11 Jul 2026 16:23:02 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "India's data center capacity may reach 9-12 GW by 2031, creating $100 billion opportunity: Deloitte",
       "link": "https://www.cnbctv18.com/technology/indias-data-center-capacity-reach-9-12-gw-by-2031-creating-100-billion-opportunity-deloitte-artificial-intelligence-renewable-power-water-energy-19943352.htm",
       "pubDate": "Sat, 11 Jul 2026 15:42:25 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Lux Industries to invest \u20b9600 crore in Bengal plant, lifting annual capacity",
-      "link": "https://www.cnbctv18.com/market/lux-industries-to-invest-600-crore-rupees-in-bengal-plant-lifting-annual-capacity-to-36-crore-pieces-19943343.htm",
-      "pubDate": "Sat, 11 Jul 2026 15:10:26 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "From hypertension to diabetes, National Pharmaceutical Pricing Authority caps retail price of 39 medicines",
-      "link": "https://www.cnbctv18.com/india/from-hypertension-to-diabetes-national-pharmaceutical-pricing-authority-caps-retail-price-of-39-medicines-19943320.htm",
-      "pubDate": "Sat, 11 Jul 2026 13:36:57 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Banks remain top sector bet, see value in IT at current valuations: UTI AMC's Vetri Subramanian",
-      "link": "https://www.cnbctv18.com/market/banks-top-sector-bet-value-it-uti-amc-vetri-subramanian-defence-earnings-artificial-intelligence-19943316.htm",
-      "pubDate": "Sat, 11 Jul 2026 13:12:28 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "India-New Zealand ties enter new era: FTA, $20 billion investment and a roadmap to 2030",
-      "link": "https://www.cnbctv18.com/photos/india/india-new-zealand-ties-enter-new-era-fta-20-billion-dollars-investment-and-a-roadmap-to-2030-19943263.htm",
-      "pubDate": "Sat, 11 Jul 2026 12:04:54 +0530"
+      "src": "Google India News",
+      "title": "India celebrates 69th Independence Day: Choicest images from Red Fort - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOUtweTA3WTdaT2RUS1lncHFtbU1ROUtHcUthMUZBeXktWGMzcmNCRU5seURIdE1UbXg5Z19NUWNGdHMyY2Q4NnhPYUVyZHhkX3N1Slh6cHJzcHB0U0FaaVphbkpMOWw1Wm1nd3h4RzRfWEk2UHdhNm8wLWhSY0RFc0pSbzBpRGU2MkRCdHN6SmYyc3RnRmY1ejd6VU5YTmhuRm1FY3JYM3NqY3dzVkdTSDZZcllzTlI3MUlJM1lDeEJTYTQ1RDNN?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 11:04:06 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Goodluck India Approves 2:1 Bonus Issue Following Record \u20b9182 Crore FY26 Net Profit - Sahi",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWFU4T05RTlRKUHZudkZGMjNFS1ZpeW9MLUE4RS1SaWdVMjV2VkNkZUhhXzFRUWc0bTBwTnBGemp1UlpyVjY5dlhkTEQwNjdOVURjV0hNZFcyaW1UQ0pwWG1GeTZsa3dENzlCRndwT1ZfRXBzTmtsRlBZWlU5ZUpaVUtYbjNMVEZaZ3o4bEx6dUF4cEo4TjZBSkUtaWcwNHNXRjVoQmMtdWxpS01MclBTeGQzMERhanJLNWNRdEhB?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 09:59:30 GMT"
+      "title": "7 yoga asanas to relieve back stiffness after desk hours - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVUpZS0c1a0RrSzk5dzFYY2NsQ2dXT1pBZnVrSm9aWFBCdHR4enJMMVR4UDg1WmNGVEE3Um5wTkdyc1Y2TXZ3NWRPajQ3S19IanNrbTJ2SXdneU5NaHlpbll2VkRLRlphcHR0TkJ4VlJfRGU5a1JqUzFXUVRLQVNxNDhkek5kVDU3ZjRGMm83NnY5M1dNX0VZOXhzVkE5ZDZMMUlLazYzNXZ3LUhIaE5seURmZnFYZDJWY1ZCTlh1bWNfR2FHbUZz?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 11:45:40 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India Holds 20% of World\u2019s Data But Just 3% Data Centre Capacity. Why Billions Are Rushing In - NiftyTrader",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQanFNTXpwQTlpWlM3TXllc2JzQzVjYkdLTnZUWURJX2o3ck1haWhUa2RGQzFoZ1lYeXBIRU9BYXU5Q2JBQm9wcGN5TURUM3E3ZEpia0F0alFBdWYtMEsxTjdTcFdYdU5wTTBNUmVxZG4wajFzR244RXBzMnZmdUduTg?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 09:39:07 GMT"
+      "title": "Stocks To Watch Next Week (July 13-17): HDFC Bank, Dabur, Tata Steel, Coal India Among Key Names to Track - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeVRkRHAxNHBaNm4yX1JOdFNWaXVUdWwtQzdXY01hdDJ0ZUNUcXBfZmlBdndGQ0FDdlBxZ3Nxa0Q1YllRcHlBUnl0eFZtNl9fZE9vczJxX0pfZGJBZnR1cExadDY4emRXd3ZhSmFxZFpodTFkWUZQelZZRndTbnhwWW9OX0lyajNtRy1RWkFHV0xVcmJNWU9sZW1lZHRMbFRKazhyT1FVR0tHRkQ0QVB2dXhJUWRHVm5ITXJKOVRfU19DaEtsNklEd0pKTk53YlhwVFRlUzdEN1FYY2hfZHFrLW9JelU?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 11:46:32 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nomura sees 22% upside in Ather Energy. Here's why it's the brokerage's top EV pick - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOWElSMGYwWTJZTndSdTNIblpsSnVlX0xNNU15T3kxU2tZcVdaLTcwd3lhTWdwMHZ0eUxfVzdwUzVRbjJrNU14T19MODdBenp0N1hqYWhjSTM5RVhvdERTMTYweVRGdkMxNXViSXZJQTgxQ1NDajJ1X2FEZFpmSVVNZkxsMmtueDNmUVVITmhOVkhMMHpwLWthMjVJMTNpQ3R6bWIwZEZsWHA5cnIyRVprdEpWemV4WW5peDM4ZFhxVERKSjdVaXlUX1p3YTNhOW16N0syTDROMHF5enA5ZktmODVn0gHnAUFVX3lxTE5OdUJNcWFUN3BNT1M1NG1tQVBoR01VUmhNd0dwRXpMVFN1N0R3eXVxUlFXRjFKS1hrN0h4X3Rfc002ZWM1VDh5WFJCdzVJMmlfNU5kYUVCSV9uQklOa2JtaEVUam4yOGdvUlFmQms1U3FKaWJzc1NYTTFRMHlDdE5SY2ZsdmxidEwxZXE4bVFLYWMwLUN1RURsbS0wdUtwUUNzMmxvRk1ONnU2WnNxV3pLc3hzYVJveXJiaHdHTW9wc2tJekF0S01SZUVoM2hna3ZvX3pLWGdBUExHUkZDcTk2Mm83a0tOcw?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 10:16:21 GMT"
+      "title": "Veerhealth Care wins Rs 1.11 Cr order for haircare products - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUXUxMF94RXloUWNGd19QZUNPNmZsdmpOMDRlMG4xeV9xckZacDNDVXJNOHAyZS10bDFLVDN0TFJmSW8ydjFQZF9qTllIS3djOFR4T21USU9rM09GOC00OHBQcjY2NXhaN2NRYTBkWmMxMlBqcnhFazlENzlDVTQ1TWJQNFhvMVJSTm5mYmJvY1czS05uMjlKV1pQd25LMXhDVlFRekN0emg0LURoeXN6bzU3QmpfVDA?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 11:26:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Penny Stocks Bought by FIIs: 5 That Caught Foreign Investors' Attention - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5xSENWWHFlNldFVGtDbzBKWERJVzZVYUpjUGV0ZjBRZGFoUUhqeFdfbE5sMzRBWmY4R0lHQlN4ZkM5ZmJ6Qy1ObzFIZHMwZzlTc21wZ2x3cVlGaEF0ZGRBY3ZsdE1BZ1p6TGxvcUlB?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 09:47:28 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Standard Engineering Technology approves preferential allotment of 46.58 lakh shares - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbl9xSXNQQ3U2ejd4M3FtVFBTSFkxNDdDWWZaUHVjalBjSUtRYlNoNVM3clllZFN0amlVQTUzYjRxZ3NWTDg3VWpqOFYwUF9MTW84U0M2NHJoZWRvTDZUZFhsdVgxZTQzUDdsN3p6c2g4SmltUmFTMUpHYnZnX2Qwa0dtVzZXYmpiY3czcWdVWTliMWRLMnU1UEdKQ3JFdUNWMzNRUTBBQ19zOW1aZmhoQWR1Y01MTVBfWnJGU2ROc2IwTE1WUmJTTUZGNHVIYlh4?oc=5",
-      "pubDate": "Sat, 11 Jul 2026 10:13:05 GMT"
+      "title": "Why retail investors are ditching broader index bets for selective trades - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb21LLVhEOXNvT2dSTGhoWGVIbzB6eV9CRVFqcWNSVjhNSC16UmNocTF5SU03ZkhMWnpua1U3M21xWHFQVU5HQWVXSE1EeFk1V0pCcUhKWkF3a2d2RmlSTmNCcVNOQXhvRDY4MXVXM3hFMWM2OVVXS21fRmtkU0FRd2dnWUx2NkQxWE1KUHRqQkFZNVJ6bDZ1VzNJdmt5UnlhT1gwR3JGcWVkd1ZVSjIzb0xn?oc=5",
+      "pubDate": "Sat, 11 Jul 2026 11:16:10 GMT"
     }
   ],
-  "fetchedAt": 1783765335
+  "fetchedAt": 1783771169
 }
