@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Fed's Waller says higher rates possibly needed in 'near term'",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-waller-says-higher-rates-possibly-needed-in-near-term/articleshow/132372366.cms",
+      "pubDate": "Mon, 13 Jul 2026 22:27:41 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132370688.cms",
+      "pubDate": "Mon, 13 Jul 2026 21:20:23 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "SK Hynix US-listed shares slip nearly 8% as Nasdaq debut euphoria cools",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-us-listed-shares-slip-nearly-8-as-nasdaq-debut-euphoria-cools/articleshow/132369738.cms",
       "pubDate": "Mon, 13 Jul 2026 20:18:30 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Mon, 13 Jul 2026 19:38:30 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Gold drops more than 1% as rising Middle East tensions add to rate-hike fears",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-more-than-1-as-rising-middle-east-tensions-add-to-rate-hike-fears/articleshow/132368603.cms",
-      "pubDate": "Mon, 13 Jul 2026 19:27:10 +0530"
+      "src": "LiveMint Markets",
+      "title": "SpaceX extends losses, hovers near IPO price after 39% plunge from peak",
+      "link": "https://www.livemint.com/market/stock-market-news/spacex-extends-losses-hovers-near-ipo-price-after-39-plunge-from-peak-11783959405363.html",
+      "pubDate": "Mon, 13 Jul 2026 22:48:27 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US stocks today: S&amp;P 500, Nasdaq decline as Iran tensions jolt sentiment; chip stocks fall",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-decline-as-iran-tensions-jolt-sentiment-chip-stocks-fall/articleshow/132368301.cms",
-      "pubDate": "Mon, 13 Jul 2026 19:07:01 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold, silver prices today: Comex gold, silver extend losses as Middle East tensions lift Fed rate hike fears",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-silver-extend-losses-as-middle-east-tensions-lift-fed-rate-hike-fears-11783952274681.html",
+      "pubDate": "Mon, 13 Jul 2026 21:04:36 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,16 +61,28 @@
       "pubDate": "Mon, 13 Jul 2026 18:01:19 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "HCL Tech Q1 results: Profit jumps 20% YoY to  \u20b94,626 crore; dividend declared; key takeaways from June quarter earnings",
-      "link": "https://www.livemint.com/market/stock-market-news/hcl-tech-q1-results-profit-jumps-20-yoy-to-4-626-crore-dividend-declared-key-takeaways-from-june-quarter-earnings-11783929752654.html",
-      "pubDate": "Mon, 13 Jul 2026 17:41:36 +0530"
+      "src": "CNBC TV18",
+      "title": "Welspun arm signs agreement for \u20b97,300 crore Pune-Shirur highway project",
+      "link": "https://www.cnbctv18.com/business/companies/welspun-arm-signs-agreement-for-rs-7300-crore-pune-shirur-highway-project-19944491.htm",
+      "pubDate": "Mon, 13 Jul 2026 22:30:07 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "SK Hynix shares plunge 15% to one-month low after blockbuster Nasdaq debut",
-      "link": "https://www.livemint.com/market/stock-market-news/sk-hynix-shares-plunge-15-to-one-month-low-after-blockbuster-nasdaq-debut-11783941755706.html",
-      "pubDate": "Mon, 13 Jul 2026 17:25:21 +0530"
+      "src": "CNBC TV18",
+      "title": "EMS emerges as L1 bidder for \u20b9106 crore sewerage contract from UP Jal Nigam",
+      "link": "https://www.cnbctv18.com/market/stocks/ems-share-price-emerges-as-l1-bidder-for-rs-106-crore-sewerage-contract-from-up-jal-nigam-19944568.htm",
+      "pubDate": "Mon, 13 Jul 2026 22:18:38 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Market Pulse: Key triggers to watch before the July 14 trading session",
+      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-14-trading-session-19944480.htm",
+      "pubDate": "Mon, 13 Jul 2026 21:29:16 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Nuvoco Vistas Q1 profit rises 20% to \u20b9160 crore; revenue grows 9%",
+      "link": "https://www.cnbctv18.com/business/companies/nuvoco-vistas-q1-net-profit-rises-20pc-to-rs160-crore-revenue-grows-9pc-19944509.htm",
+      "pubDate": "Mon, 13 Jul 2026 21:13:53 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -67,59 +91,35 @@
       "pubDate": "Mon, 13 Jul 2026 20:27:31 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Nifty Outlook for July 14: Support levels held by analysts advice caution near 24,300 supply zone",
-      "link": "https://www.cnbctv18.com/market/nifty-outlook-tuesday-july-14-support-levels-held-by-analysts-advice-caution-near-24300-supply-zone-19944478.htm",
-      "pubDate": "Mon, 13 Jul 2026 20:08:27 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Aditya Birla Group acquires Shell's Sprng Energy India for $1.8 billion",
-      "link": "https://www.cnbctv18.com/market/stocks/aditya-birla-group-acquires-shells-sprng-energy-india-for-1-8-billion-19944452.htm",
-      "pubDate": "Mon, 13 Jul 2026 19:55:05 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Alembic Pharma says USFDA issues warning letter to clinical investigator at Vadodara facility",
-      "link": "https://www.cnbctv18.com/market/stocks/alembic-pharma-share-price-says-usfda-issues-warning-letter-to-clinical-investigator-at-vadodara-facility-19944441.htm",
-      "pubDate": "Mon, 13 Jul 2026 20:00:26 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "HCLTech to invest up to \u20b93,500 crore in AI data centres, enters full-stack AI market",
-      "link": "https://www.cnbctv18.com/market/hcltech-to-invest-up-to-%25e2%2582%25b93500-crore-in-ai-data-centres-enters-full-stack-ai-market-19944427.htm",
-      "pubDate": "Mon, 13 Jul 2026 19:24:29 +0530"
+      "src": "Google India News",
+      "title": "'We were critical...:Poland says it respected India's Russian Oil stand despite differences - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeWREUFJXZXNDU3J6QVVTLXE1VEphcDZtbllGUTdRMWxqRTk3X2EzN0NobEpZVVFNTll5TTE2X216d2lZeFpGMmZ3XzRjZ0R5YWxFOHEzeTEwOWR3WDFkSUs3V3B2WDllOVdLcXhHOTlyazROQnVGelRBUWFEeThzMnFqQ1d1T3N5c2xteEtBdGI4SjRjcnpka0ZIYVFsVlVILVF6bU1QWXhLcjBQcXFHRE5MdGF4OW5ZM0pERzRybkpxV29VQmtGajdsbHdqWVdPV1hLVFc4U01YUXJwYTNWNDhn0gHqAUFVX3lxTE5oZm53eHlWUmFuSms2cTNydHBKQzZFWVVIS2JBY1BnMF9NOWdKY2RTQ1hjcUhwSUhaX2toNVRtbWY2Vm13aVpEbmt0RWgyd1ZBT2NlZHVuYVRqUDJJZXVZeG5EVU1LQW9NMGNabjVZSGFvdUZiUTg1MXZsQWhYVnBoTVlnQzByTWtXWTJoZmg0MXY5eEE3QjVvbWF1WXFodFVfWDI5RVduc0J3RlI3NlBlT3dqdG5CeWdvb1pjSFlPbkUwT1hBV2FqVWw3emIzWFpqVl84RUdZYmxKR3QzeVF4QUZ6WHJPS1NVdw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 17:21:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FII Selling Continues, But SIP Investors Are Not Fazed - Value Research",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaVByd1dGQ3UzT1FDNEdVYjQ5U1dsWnRNQmhqS0FFODJ5R3pNMjk2SDFUdExTM1FWVmJzaEltNDl6U0U2eWR2bmxrVVhUVGhaNFFyVXlORzEwcEppRDEzc09sS2JTNTdYaDJNM3haTnhaMjc3eEo2VU80QV9nbFhtaXpueEtUaHZIWW85czlaT25kVXpPRVBscFVpWFJ5QWtfc3NUNS03Sk94YkE?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 14:29:33 GMT"
+      "title": "\u2018You want names? I\u2019ll give you names\u2019: Kash Patel drops Epstein bombshell at explosive House hearing - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZG13VG9mNGpTQWthTWNOaF9MRFhNRDhOejNqMWU0c2FKUFQwM1lEWGNwZTRHWVFlb0lFX3hYT2xhZDdtMzNBUmFNODNTeFlpRjVaQ1JuMUlWV0pDWUJCUGVTUGRjN2hVS0JZSURkMjI4SjFqMzNDM2NrWDNsMHFpZ3VTaVdDTzBRUUFQcEpsVkxqcWR6NV9QOUVsYklOWlkzMkJqZ0VUdU96Y0pZVTk3N1B1dEZMWENCNVRGQ0ZkNEVhcXZhQ1FUXzJJQm9meWVpOEhCakNWOGprbGdjR1ZqRzNWeWh4dXFPQlY3aDRWRS1VNEJJUnNDNDFkSktpRDVoRWhyV3BJWkfSAY4CQVVfeXFMUFVNZFpLejRTOVN3TDhUT3U0dUJDRWRLZU4yZjItTzRNcWhrWEd3RHBLX29Wc1BHNGh3V0QtbXE0Ykl5a0ZwSHpBMzBKM3ViQ2QycmszcF9uN05aSkFkZm82LTREbWlKeXRBbzFuc1hadHdGckZ1UnI2blM2WXJMU2U5N3FrYWljWXV5Qm9LU2ZxeXhWTC0tMmZGZHlmUUhvcWFQQzRqbXZpUnExbFpLdEYtM0s2el80UHcxMURuUkxlYnpZaDl0dlhWSGFveVBrQ3NDUzRuUEF6MGpUYXctb1Y4TnhUa1JuQkM3QnFMUGZUUTJ6ano1VkxvbW1CcVZWWk1UNUtQRHlDNHgyOXZB?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 16:51:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "REG - JPMorgan India G&I - Ten Largest Investments - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOWNHVlU5ZkZpQ0llWUFOMXkwTU40b0tCeTJqb2FmbGV0TktUQ1NPVk43eVJWMGlzVnpfYUQ5aE5rSHN6ZEUxTkpXUTFwUWJBTmdGQXZwRWRMOGxTWWlGRjB0WWlQTGFUU0hIbWtkTjR4eUt2eE1TemVqNjhGdl94LUJpZEtWdDluZlVBbDB6dGRVQXNNbUdkckNRNnpTd1N0RS1JbkpUdGZXMHdlRXM1V1l5WWo0LTg2N1B1NGZiOA?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 14:51:03 GMT"
+      "title": "Why Tesla stock is down over 3% on Monday - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVjF1X0xrRG9nbllTaGt0X1AyYVp1NTVHTWtTRHRqWWdSRnI3d1A1MFRtUHkxVW02TGRib3k0RkVpczhCY2VQdE55d0dwR0Rac1NvTmtmQVFzQTBRbEtWQ3gyUWZ5TTlHV3plYVFoZFNOaDdtZFVGMVBWemVMY2ZobW91M3hyTXVtNktpTG10VQ?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 16:46:32 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Global funds fall in love with Indian stocks again; buy $1 billion in equities as foreign investors rush back - India IPO",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPQm5pV0xyZUo5c3ZoMUpKMmhYdEEyWDdjYWVCWkM4YW1Lejc4cDBlam9NeTY2TUxjbzg3a2dyUTZ1a3B2dV9YZjBRWEp3aHI3T3hCU2hLcEdpVHlxM3IzRG1pTXJXRW1EV0pka3dFdkJrQ2Q2OXh4MlVBZV9hRzhvdU5GSjRodEc3UlhzMEdMc3BXMF94VmwxYlFORm1JcDM5NXRzUFZKemdDOTNiVzZLX2NIajVDZS1QaUxvUkpSWDFBRTdpSWdyQ0pDa2ZwOEhHNVFPeWlNMXQyamc?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 14:48:38 GMT"
+      "title": "'Your tax funds Chinese & Koreans' ping pong play\u2026': Nick Shirley, Oz expose $190M NYC fraud ring - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd2w4bm1UajNCOS1RV1BhbHpEZVJibGRrTHBveDh6dFk0OEg3UG1hUWRJallhLVlIOEtwNkR0eW0xYWdHeW5kQnc1MENHYXFEVmc4ajFGNDJKck40YWhFQ2JTakRqRnM3b1R1OGR1dWo0SGlaVGRJVjQ3dlZudlgyd0dQcnU0MldBMkNSTzdaaHNZcjZweVJpejdvbU0zQVhLN0o0LS1zZXBqU1dTblVWb2ttbTJBZzRfeU5TSVIwN3JrbXZBODVYTjM3VUhwMzBkRVhfejhEMnI2VGJ6U2wxX19lZ3VqU3ZER2l5TGh1dFFfd0I1RlJrZV9NaksyS2fSAYQCQVVfeXFMTVdJZms2dy1oemtKc1NxVlRBWDk1RXNxR0pvUzRhbmJHU1lvUGNkSVBfelNfOVBzT0ZfTGt4ZFRzMV9zMXJ2NkJSMy1rQXBiVVhxTENyRGxZQnNtTDJwTUpHVHlDV2RhTktQYTA0Vjc2aU9ON2p4Uk8xNEZvRm5IRzRuWnhFYzRjQ2tpSGJDOWZtRWFjMjNsZnN0SFhET2E1R01maGNBYy13alN6bWxsSkdlZmpyRG0zQ2l5Rzl5cGlBcG1tVG1aU2ZWNjVYaW1vRWlydTB0S1lORENSX3lnSzBWZDdPQ3A2RDFuenNJaEV2bmtMcGpobW9YZlNyQmxZZm5qZWk?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 16:51:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3 Indian Stocks Trading Below Fair Value Based On Cash Flows - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ2hWTVVVaVpKREczUXRfajZlX2RUN2EzV1hJLXk0RFNTcS1WbVpwRjZkZ2JVR1NZd2pzWktzOVNnQS1ZcUE4OFJzZXZncTI1NmtxNjl6bl94NTh1QnUzak11dnBZMGFFbnNMSDF1M1ZGUU5xS2Ezek8tS19JdFprSkJyaW1QRXhMcHp6WFNUcVUtU2JYdXVsd1ZKaGM5LTg0S0ExZk14bktWQk5mM3liaVh4UmdqLWRsMWZlT2xYREJraGxtRElObTd5YmhYdlZyLXhSX2NRZHJEaGVzRjlvc1lrNWMteUJB0gHuAUFVX3lxTE9vQmtpTUc2c3QzU204ZXQyb0xJQWkzSFdpa3JzdnBoT3o3UVFheXFOdmxEQUJxbE1Ed0FIQmtIVlJnM1ZMYm5VRjBtcXA2T0NpSldreThvSkpaakxXaWxNSTVVLUlhOVU0YWlxNkdzc0dJWmh2d1FaaWNienFSMFBiMF92dUhPSVVETDl0RjdYVEVsclVmOHhzOUg1dk5nQS1oRjFRUVZoNkp1SXN2QVdZZ2haelZoY19JR2VBandYT2JEUDRtdENzRE02TWRySWd1dlVrZnQtYjFSMVdFdnloOWtWVDBtWlBmQXM0RkE?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 14:41:46 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Confidence Petroleum India Limited to host analyst meet on Jul 17 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTUR6OVpOZ2x2aEhfNnVWOWxwUGxQQWRoUzJpX0wxa2J5Tmh5bzN3Y3ZQMFlMcmpNWmlVYnYxRDF5MVhGVXNIVkNVNTNoT3QwYlpEdklWbWc4RHM3dzM1Sk5uekRfVzBLZWkwQkYzaXJiMF83QktVTzgyOHZYaFB5TlBLSmVrTXVNZGExdExJMUpPMXhERmxaSnZ2RlFmM1VkX3h1X0xKTDE5SmktSVZUdk5jUnNnaDRIbkFLbmpTbw?oc=5",
-      "pubDate": "Mon, 13 Jul 2026 14:33:37 GMT"
+      "title": "Planet Labs dives as space stocks reverse after the SpaceX IPO: buy the dip? - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcG1qOXl4WVFKT0RFREd2N3llVUY1LWpLSENKM3JfQ2ZNQzRXbzBXdGVRazZfc0hUSjBMNlZ0R19vaG5RZHlHeF9UWUF3X1hkQjBMdC1EZUoyUzBjNm1LbHM3V001SmV5Zm5rNWpkY1FNNVNEZlpzOGtXbGE0MG16Ymx2WFJ0Rnc4aE5QVEo0RlRST0pLQ2VIV0FyeDF1eEY2U093SDVUZFJINHZTMEVCYkVMaw?oc=5",
+      "pubDate": "Mon, 13 Jul 2026 16:46:33 GMT"
     }
   ],
-  "fetchedAt": 1783955872
+  "fetchedAt": 1783963537
 }
