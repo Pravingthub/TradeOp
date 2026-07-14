@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: S&amp;P 500 and Nasdaq end higher on cool inflation data, solid bank earnings",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-and-nasdaq-end-higher-on-cool-inflation-data-solid-bank-earnings/articleshow/132400813.cms",
+      "pubDate": "Wed, 15 Jul 2026 01:34:42 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US derivatives regulator blocks Kalshi from canceling Michigan trades despite court order",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-derivatives-regulator-blocks-kalshi-from-canceling-michigan-trades-despite-court-order/articleshow/132400801.cms",
+      "pubDate": "Wed, 15 Jul 2026 01:28:47 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Why IBM shares crashed 26%: CEO Arvind Krishna highlights customer spending shifts towards AI",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-ibm-shares-crashed-26-ceo-arvind-krishna-highlights-customer-spending-shifts-towards-ai/articleshow/132398379.cms",
       "pubDate": "Tue, 14 Jul 2026 23:31:35 +0530"
@@ -17,18 +29,6 @@
       "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132395996.cms",
       "pubDate": "Tue, 14 Jul 2026 21:31:46 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-tops-estimates-on-trading-boom-corporate-deal-spree/articleshow/132395970.cms",
-      "pubDate": "Tue, 14 Jul 2026 21:29:36 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Anand Rathi Share Q1 results: Profit rises 71% to Rs 39 crore before one-time charge",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-share-q1-results-profit-rises-71-to-rs-39-crore-before-one-time-charge/articleshow/132395689.cms",
-      "pubDate": "Tue, 14 Jul 2026 21:10:15 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Poland eyes def & tech cooperation, looks past earlier diplomatic spat & India\u2019s purchase of Russian oil - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQMGZ2XzhNMWRsTkFYUFVvQlhqZkZUeVRuU0tkdXNTRGJuYVJ5Rkw4RlR6ajB2N3MxOXNUOWhzY0RscjMtY1JCek1NQXdHblJ0bG00dmE3TEloV2xUX0psbkVjOTZTYVl1OTg0OUZmTV9yamZVVVc5M2R6RG1KMm1UanF5TzFMbmxUNGF2b0N1dEdiSDhLdlBVS2tiMGZUMnVxcHo3QWFZLTZ1amFpMzc5dmVScEZrSVNLQllnbm5zMHNqd0ttV0JSbFU2cFJnOWo5V3BiTWRSb1c1ejFBd1lIZVlReGFxWHl4dWF2Tk94Nk9pc2Ywck9CNEU4OVhfQmFwcWRPS3N1X1BMa2Zyc1Y3X3RR0gGXAkFVX3lxTE5CVXc1eUN3U2JjX25HNS1OYXIyTkRQcmVnTWxLMjF6dnliMkRKc0ViTUpmSTExMXl5WnI3UnRUT1hrdjhYdVdrczRiY2xIX3U2OFlZMExHeUVGLTBGQXB0cmQ0WlEzVWYtMDNFdXh5UmdYYzRCUUhvN3lzNzhlc1Z3TVp4a3NNdEY5eWVvN2sxU296V01WdTNDWjBIdlhhOGVkTHBlMWNpenBwV1p0WkJsc3NGMDJkUVFjYjNGNktOb1RRRVdJSTJ6cnZHMTZwb1pBQ2NGRGVXNEJtZG8yNEN4N1Y0NnhCN3Y4MUt4TGJFUEdiVjNROXpzODdsdXprcGo4aGk0Um81S25adUN5elhXOVJRS1huVQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 19:30:00 GMT"
+      "title": "3 Indian Stocks Trading Below Fair Value on Future Cash Flow Estimates - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa25JbU5EbzE5UXQ3b0pGWmNhbzNlQWc2QWFsTXFYdW9ueXRiNGRNVmxiWFk1eElESDJZUHJOTWF5TjRjWklxNlp0WUp3WVlhcEQwbTBraGJnT0lIdTRSVS1kQVV5US0zX3IzbzVIVGF1cW1kem5DVUQzbDI0dFR6MUdLb0RuYWF4Y1BzYlR3SFlBbllyS1YxVkE0TGNieFcyRmNGVHk5OWp0QmpXLWcwT3p2c0RpZEZZdW9Pa1BSdGt0Ym1SX2NuSndWTUI4dS1KT01aYnc1am5MRHPSAeABQVVfeXFMUEZON053aG5LZUd4WE1qVXBnOHp0Rk9reXVQMHhEd1oyVDB5Z2ptMEJ3eS0tWXlXTjA1LTdJSlBXUHdsVVVZekVNMUFJRHFld2VVSkUxTTA5b1YxWGR4d0ZQdTFDcG1KN09udmoteGFYNHhxT3lnbUNKaXlCWmpOVTVGdlU0emYzMUlVUThleGtXUjEtV0V3SWN2djRsbmItZkhrRm5tLVZaZXJMckUzVS1LQ29LbWIxYU1kZGd4VGtLakd6S010bC12aE52Z0JNT2t3R1kxaElGNGE0Vk1KVGU?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 21:26:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stocks to Watch Today: Ather Energy, Belrise Industries, PDS, Kirloskar Brothers, Kusumgar, IOL Chemicals,... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQLWptRFlOOTBKRG52TjFSZkRMNzVXTlpVTjNDYnZoaVYwVXhKU1ZNeUNiOXVVemJORjB0TDY0aHA3TkxUQWVfWXY2NlVEMXhHb040S0dTRF9DeTlQaFlycjhDVXQxeG9EaDNrOWdiMEZhOUkzTGwzZnM2WklvZTVyQ19FN0hndFlMZFRIZWdzRXdvbzVkUHU5SUZPTHFpNTVpU2VLUmZHS1B3bkdQNDVIZnRwVnhmN3pvaHlLaDlqaTZEV3lleUpBZVZxNmNzOHI5QW0xektPT0JTMGtNNHJNTXNPTFFfTU9OR3FyM3Jya2x0MHd5ZTgzNmd2SFgyTDZ3cnFjSWtIczBPOWF5NXozRng5UmpKSktncHp4aVVWRjhVZlFUdUtuNkU2RXppVWxMRlFN0gG4AkFVX3lxTFBoZ2dCalJ5Z0pqODdqcU9LVjA2S0F0RXdsXzdhaHNmSFYtZWxIR1h4THZiWHRiRHVpenZPTUpmN1VNaDBSc2tRZldBZEVEQnhPZ0FIZTlTcFNMLTFXdjBjYXhZQ3JpUWJJSUc1MEFJQ2dReHhxb0ItaTdhUnRfakZDcXl4T2VXMkJPNjFTcTVHczNXNW0xMTZlSjlDZ0EtT2ltaGUyM2dUbDZEdlJFTFpXUXlENkh1Nlp1ZlhtdGxjb1liakprQjh2bjlzekNlNEktc2htdEpsQndUSFpORUVhNXlsRzdCdjlNY1dUbndZY1YyM1hzRk5QYWp4S1VfQTBWOW10d0Z4ckY3OUFHQjhTdkhSV0xLa0lqcnJLSGVMaW1xbUtfWjloeTJYWFlKOFpTd21JZWNUNg?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 19:21:46 GMT"
+      "title": "SBI Funds Management IPO Opens Today: Check Price Band, Timeline & Key Details - Groww",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkVBdmptUEt4YnE4SWVjbWZSM0dIdkZTQmcxb1BxVTlvRjA4NjY3UTFjT2o3Y295ZmpBbGVrV2tFM3JJeWtsaE1tb2U3OEJFbmdPMFN1dkxESmttWDY5Y1QwR3RnbUZKbjE3ZXk0bFJiRG9hcnJJa21KV0NBelJGd2ZnZjFJNnRnZ3c1NXNmUWhNd1Q0N3JxRE5TaFBTdzQ3YkkyTGQ3NFBYNFk?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 20:44:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India and UK in talks on Britain's carbon tax rules: Commerce Secretary Rajesh Agrawal - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZUg4MXRmaUE5djgxelNwSzl6TXNBSUhZTWdQc2xydkFQMFVrcGdsZmFtbFdxdTFjLUIxbUlzVmxqTnVqcGJUcm1IcGpHSUNqbklvd1lHTzV4RkVXOVhRbG1PTDBsWXpZeHF6Qy0wUGVfSEVfWkNsbzlFdlZ6OTdoNTRiWlV1c0ppcHdBUURmUFJrU2lpLVN1MkxCOWFndWx5RHplNUo2dDNzdTR4aktZbGFlX3JzSzhPLV8tSndneERaeXJ0Q2IyTE1pWTU5Q1YyVVB0UVBENVpnODdFd1UxdFVvOEh1OUpjNEU3UWhGSUVUUTVfWHQ0MNIB_gFBVV95cUxQNDlzVEhUMGN5OGJfVXE5YnFOdHNac19RN193a0MybXYxaElLd0tnamJUQTd1WW9pNXMwOE44ZXhmSExabGRJVjNxeXVxRm5fSUdZR1ZBbjlCWVJzM0NfbWhBRE1pMUNyZ2JRd1ptRXV0QlN3ejBIRnNKNlhlYXdlNndDWVd3XzI0a3dJTi1WX24tTVFkRW5ZMi1Zcl82Ql9hckV3Nk9UU1JFYjNQSWhNNk05emwwX2t3WmdzZklKcFROdHN4dm9yMHpOUmV2bVo3VHdPeTBpWWhOekFPVmVRUDZxeDYxaFNmc1ZaYlh6M0lZcTlrYVlFY2ZoakJIQQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 19:18:45 GMT"
+      "title": "MSP Steel & Power confirms unmodified opinion for FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFhHU0swaENTQW5hMElBUzdhcUNvbFpCdE1YeGV5bFBNLS1jZFNBOHV6YXhHd1JQRExzOXhWdk1xNGhlM2hpSVU4MWdFRVVfY2lNRG9TYUZLc2I4VTRKWERjVnlLTWJObDZxamhyUUlZdkRVSTFveDNrNmZBaS1fS1lBTUdIVFlsSkV1LTNwTGxkTUF1bVU0Z3VyVEpoRENxSGRnWTJYcTZJRGNLSGc?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 21:11:39 GMT"
     },
     {
       "src": "Google India News",
-      "title": "BlackRock Q2 earnings preview: What Wall Street expects from BLK stock - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQY2xtS01zZFRsOXNsU1lKZ2JEYVFRamtGOFdpV1pEWk9STU9VNEV2ZFNtN1RBMTc2VVU4U2FmeXBKT05DUExwUUxBVzdaSmVNdmdnMjREOHFXZXNSUG00cE8zekpoS1EzNEtrTjFrLUxXeERyMmxtdGRsYl9yeDJEZGZlU2Jta3NfSy0ybHZRaVlBeDMxck10NG9vVmN0TkZBRjhKMWNUMkZYVzY1?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 20:06:06 GMT"
+      "title": "'His Christmas joke sealed my Supreme Court confirmation!': Justice Kagan pays tribute to Graham - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPQUtRSFJJV2hmNmhOckN5cURpYnV0TU9ELVRYWlpLTngyN0JNTEpkbmMycGxDSWcxbWF5UkUyN1Y2bnpBaTJfVk45Z0lDaWtNNkdrUURkaTZiM3RnemVuX1hrNjFHMFN6ZTJfYWU0Y3ByRGJHRE56eFNmVjlKVmpfRzlFSnJ2U1RzYmpWT2Z6MWtrSDdjMkJJVDd3bnNmMFlfV2FHeWRnVE8wUXNISlBKUjAyaXFTMTZsZ0I4WlZtMHRROXdPU0gwSUtNTFBwYzk3VlhqY0QxREx2d28xMl9Kc2RRQWJwRE8zXzFMa2N4NTVqQXVFYmVBaUNlZmx4cjJUejdXYdIBigJBVV95cUxQMTI0RzFpb3ZFS2dtQy1jcy1KRWJTWERhejFpOFdQdTNVSC1MSVRSYnNnQ3l0al9WVjdiQm1LbzZZWU5aU2E0UnFUZEc0SXhzRXdBZjZOY21LbzBhUHRzYmhZZUljM0tqNWlCTXdyT29UOWRMaWtIQW1STEx4ajdBMEN6cXRpbVdtTzVnVWE4SHlMeDRVR1NDZmZDVm1pdEZncVZZcXVMbkx0MGYzeHR3SklQeHFCSURYbWFVTkY1TDJvN2lBdUQ5OEViRHEwRWRsdGxCQVkzMGRvRlo3b3dTZTcxUEF2SFRIOFc4N2V6SUVPMEY4NDlwTmpjRGlRYTJiNVVuYWNOSHpnQQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 20:39:40 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US stocks today: S&P 500 and Nasdaq end higher on cool inflation data, solid bank earnings - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPeExvY1R3YU5tSFpJaTRMS1lEQll2VktsTWZma29mb0VxeWJxLXFrNG52dVNzR2tFX0xCbnZ4bGtBaVdyU0JiOVRPQkZyUUpnREM0SnNMcW5MNXhubVpPbjFjMVpYeVBoRGZ3elE5TkhENXhUV2tULTFpWTRPNXJseFhwbVJ0QjNJU2lRaWFmOFI4MEZXSEFPZkpuczZNOFlndEVxTWFYSmxUX0IxVzZhQlhqWHZvc1BIM1Z1Z0VkbzYtSlI3emxWZTU1TThOQldIdzN2QlU2RHRPakdOZF9wekN1RThxX2FvZldSQnNLS3Jmakp5alZEdUgwMWZ3aUdDczk40gH8AUFVX3lxTE1VSmZLdkZzd1dMMkhvT09FQXY5WWlUQUhYT3NSb3VTLVF3TzA5eW91QkxZU3JjUWxHWUpLM2dfcHEyakNOMWRuY2lRWkxoSmxUM01ybjNRRld0U3JQLWU1Q3R6c2lvcDhoUGw5YlkxYUExemN0VUJNamFMZG1tYzFGcXRWeXhuQVNZemxmekRtVUVyOXdnRFF6YU1ueTJjT0hXWTQtVWZUX3VJOGswVm95dW8zaFFyUjRaakFHa1dCZ0VKN2tnT1BjVklldC1RZHFCdVdfSVIxSk9tNU5fUmxJTWZKaHpRY2ViNWlBY0dPRGZCS2xHcjBxLVdPQQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 20:04:42 GMT"
+      "title": "Gold Price Today in Amravati \u2013 18K, 22K & 24K Rate | 15 July 2026 - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS2RCNXlLQzEtY3hZeTQtbDlfbG82eUhpdi1vMy1YYnlNcEZjRkl6eWthTFFJODVrV1Zwbll0WDRKOWhsWDFqa2dSZ0tyRXR6UFBVaEFNVGp4VVBMUTJ0VlpZbE5UVzY1el85VFF0b1otWXl3Q3h4aW9rUGdfRldfeVl4QjRpRmVpXzE2UQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 20:46:06 GMT"
     }
   ],
-  "fetchedAt": 1784059956
+  "fetchedAt": 1784064689
 }
