@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Why IBM shares crashed 26%: CEO Arvind Krishna highlights customer spending shifts towards AI",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/why-ibm-shares-crashed-26-ceo-arvind-krishna-highlights-customer-spending-shifts-towards-ai/articleshow/132398379.cms",
+      "pubDate": "Tue, 14 Jul 2026 23:31:35 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Fed's Warsh vows to 'do my job' if challenged by Trump",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-vows-to-do-my-job-if-challenged-by-trump/articleshow/132396174.cms",
       "pubDate": "Tue, 14 Jul 2026 21:46:30 +0530"
@@ -23,12 +29,6 @@
       "title": "Anand Rathi Share Q1 results: Profit rises 71% to Rs 39 crore before one-time charge",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-share-q1-results-profit-rises-71-to-rs-39-crore-before-one-time-charge/articleshow/132395689.cms",
       "pubDate": "Tue, 14 Jul 2026 21:10:15 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Market Trading Guide: Adani Green among 4 stock recommendations for Wednesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-green-among-4-stocks-recommendations-for-wednesday/slideshow/132395083.cms",
-      "pubDate": "Tue, 14 Jul 2026 20:39:34 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,18 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "ICICI Lombard receives arbitration award to pay \u20b978 crore to insured Roadway Solutions",
+      "link": "https://www.cnbctv18.com/market/stocks/icici-lombard-share-price-receives-arbitration-award-to-pay-rs-78-crore-to-insured-roadway-solutions-19945595.htm",
+      "pubDate": "Tue, 14 Jul 2026 23:58:39 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "ideaForge raises \u20b9500 crore via QIP to fund growth, expand defence drone capabilities",
+      "link": "https://www.cnbctv18.com/business/companies/ideaforge-qip-rs-500-crore-institutional-investors-growth-plans-19945593.htm",
+      "pubDate": "Tue, 14 Jul 2026 23:54:54 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "KEC International bags \u20b91,180 crore orders across transmission, solar, civil and cables segments",
       "link": "https://www.cnbctv18.com/market/stocks/kec-international-share-price-bags-rs-1180-crore-orders-across-transmission-solar-civil-and-cables-segments-19945577.htm",
       "pubDate": "Tue, 14 Jul 2026 23:29:14 +0530"
@@ -79,47 +91,35 @@
       "pubDate": "Tue, 14 Jul 2026 22:20:04 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "J&K Bank to sell 0.5% stake in PNB MetLife for \u20b9120 crore",
-      "link": "https://www.cnbctv18.com/market/jk-bank-to-sell-0-5-pc-stake-in-pnb-metlife-for-rs-120-crore-19945504.htm",
-      "pubDate": "Tue, 14 Jul 2026 21:48:42 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Hero MotoCorp to invest another \u20b91,000 crore in EV maker Ather Energy",
-      "link": "https://www.cnbctv18.com/market/hero-motocorp-committee-approves-rs10-billion-additional-investment-in-ather-energy-19945500.htm",
-      "pubDate": "Tue, 14 Jul 2026 21:29:50 +0530"
+      "src": "Google India News",
+      "title": "Indian Gas Exchange files for IPO as parent IEX looks to pare stake - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOUxTZ2h6VmhHT0RpbXB2WmpfSVIxX3Njak9mYzZQVHBsWTNrdXJFYzdtT3UxYXhQM1hOSERDZlJib3Q0MndraU5uR3ZPdGRjZ2toZFEtVVhzY05MTUM4ZVZMaGJvcVVaVk5TTWxaS1dpZUJkU0JId3NCWm90VU41WllMRG0wTDlvZWV6VVRTdFJlX1AzWEwtX2N2aGhfYmVlVThKckZiSm5IbjZMOEE?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 19:11:46 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SBI Funds Management IPO Opens Today: Check Price Band, Timeline & Key Details - Groww",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUkVBdmptUEt4YnE4SWVjbWZSM0dIdkZTQmcxb1BxVTlvRjA4NjY3UTFjT2o3Y295ZmpBbGVrV2tFM3JJeWtsaE1tb2U3OEJFbmdPMFN1dkxESmttWDY5Y1QwR3RnbUZKbjE3ZXk0bFJiRG9hcnJJa21KV0NBelJGd2ZnZjFJNnRnZ3c1NXNmUWhNd1Q0N3JxRE5TaFBTdzQ3YkkyTGQ3NFBYNFk?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 17:43:23 GMT"
+      "title": "India emerging as multi-game esports market: JioBLAST CEO Charlie Cowdrey - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQelFRdDc0UzVFZ0wxYzMyd2lDcWpGRWtOM01oYTZrRTd0SmtZRFBYa1kxZWtoNE0zc1pRbTRoVGRoQlhlTHBwcG1Wd005c0J1dk9valI4Wm55UDRlX0UzaXBPanlub2YwSFA5a0dHZWY4YzNmVUJpV2hRLWowc3FfN1ZRMlI5S3pMY3lqRWRqV3NiNjhZWFNfdGJqekRrZGVGVVc5RDJBdjVmWUlYNWszbGx1emlHTnZWRHdnZkVaQ0dBbEx3QmJqT3B0NVZrem9RckR4MEdrX2d3OGVOdHJXa0dXeVdhdmxJeWlJ0gHwAUFVX3lxTE5FSWF2U05hdjI0OVBDQk15QVlqQmFMRGdOODhpTmVRc1Q3Z0lmS3BLSW5HaE5PU3QyN2JuNzlvR0lQeHd1U3dlSzczYkZCeVBOQXd4QkFCbVRIckNiZVNveTFCSnR6S21vS3dIa1A0ZVE1NVJ6eGZ0VEIwakhJd1ZtVnlxdFJMR252MzVGc0hxMWF1ZndxUXYzMHN3bTdGUndiQmR5dTliWl8wQTBtVXU4cE8yamdBeG5CRjNEeWYteVJwZFRESUJsRkFBZXh2Vmx0UURCaGU4N1pXQW9qcGwwR0NuTkNIeDJtQ1U0a3E1WQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 18:52:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Retired employee loses Rs 78.4 lakh in stock market fraud - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWGJ4cjNFMDRpd29jUUVKVnJTVms3Rm02RmNETjF1bFpwRDdLajZwVGtIekNjbjZCWVFFMFI5SVBYdGptQVMxRmhya3VtbVVpQ1pJUk55dTFLLXY4dGhIdllCd01NR285b2hqTlFBdmViNzFFbEFNUkxiblkyM1FaSDF0aTFsS0s2bGozTm9SMEFLMEJObTk2WEFOT3dHeUFRY2pmSHJRRl95azVsYWt2b0tXWlowY3YtUGMxNjdkbGhBMlowLXNNQ2loX0N0TXfSAdQBQVVfeXFMUGlkNU9hci0xNVA2WDR0NVRkbHgxMkhxbEVTMUFYaWNiSWdUdkZkeUo2VTRhUDZzRFUzUV9zSlVOWmdkVGVkQXNVR0tybDZiWnMyckM2bjU0S0NfNlBTWGd2UmRFZVNrektPZkNnWmlkSl9kSl9HX0pzb0tFZGVRaDQ4SFFxTllQcGFjb3kzNmdEbTlFUW84ODc5cTRLU2ExT3luaXdGQW5STGJqYTI1QUVMZV9oMGttbmhDUFlkdVdlVUVtYUhIVUdQamtDN09xdV9tQl8?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 18:01:00 GMT"
+      "title": "India\u2019s top brands scale a record high in value - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYTliaHRFWlVoSG5IdlM2TlBkajJNZUVqdWdoY0psLWtSazJsak12ZVNXWnlJTTBhemNSYzdFbkhHb0J3MFBtY1FoV0dXMktTaE16aHdZM19YNEhUMlFZekg1b3IxRmptempTeUUzU2tSajhqVXZEcGFIbFgyRWg5ZDU4WFZ2d1ltbXNmRUZVTjFINHdtdFVkZUE5Q2RNR3U5U19BM0RWRzlGZ3hXenNwY25fcW9VVUtVM2xLS1lUUDZjZUoxNWk4SlltZXI0Z1HSAc8BQVVfeXFMTmE5Ymh0RVpVaEhuSHZTNk5QZGoyTWVFanVnaGNKbC1rUmsybGpNdmVTV1p5SU0wYXpjUmM3RW5IR29CdzBQbWNRaFdHVzJLU2hNemh3WTNfWDRIVDJRWXpINW9yMUZqbXpqU3lFM1NrUmo4alV2RHBhSGxYMkVoOWQ1OFhWdndZbW1zZkVGVU4xSDR3bXRVZGVBOUNkTUd1OVNfQTNEVkc5Rmd4V3pzcGNuX3FvVVVLVTNsS0tZVFA2Y2VKMTVpOEpZbWVyNGdR?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 19:09:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US stock market today: IBM shares fall 25%, warning a big miss on earnings; NASDAQ 100 soars led by rally in chip stocks - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOWmJONGt1SGNrUGF6WWxCWEJtV2ZObE5wUnUzVUtrSjExX3hrdFpFcDM4MFNoZk1XcUl1QlBRNGs3NEZxMVhrcE9LTm9laWprZE5CeW0weEp5YUZaQ0dVeExxdFNyakt1TTVMTVFhWWNoQ2ZoZ0llNFh1OUMtTlhOZmplSTJONXZzZ19zSXozVW9vcnFQN01UZW5scEFucVBSa05TVzB4ZXNDNUhuY21YeUdTRWVBWDB1aUxKN3J4OUUyWnRnSTVhc1R0V1EtWDk3UTI3N0dQenNjRFBBcEdMU0VqcVZuVEJIYTdhM1RJcEVGdkQ3VWh4Z2lqRUVldWNyWWtnMXBLY25ZUQ?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 17:30:55 GMT"
+      "title": "Air India crash probe in final stage, report soon: Ram Mohan Naidu - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPT3lkWTJaejhRQXBtT0NmazhJMzN6LXo0MjNmQ3BPOVVfc1VQdGxmenlXS0hvWEFxeFFJUnFKR01hQnlCVkwwMVI1MF9ZR1VKU0dmMXlIVFRmUVFlWmg2WTF5cnFlUndFZ0dJZmUyQjB1YUhoSlI3N2M0UGVkck9NSEdyUE5XcHpleFVqN2ViTnExS2FUd3hlN0FvS3dZRFM4UmRaYXFwanNWTXk4b0xKZXVaWlRJbnpkdFhfT1VER0pUdHI4a0pzT2NUMnd1U3F6cGNMa3pfNGFkZlFUaVZZbmJLYUZZN1g2UjZuM2tYdWVfbkJjd0FmZVN30gH6AUFVX3lxTE9PeWRZMlp6OFFBcG1PQ2ZrOEkzM3otejQyM2ZDcE85VV9zVVB0bGZ6eVdLSG9YQXF4UUlScUpHTWFCeUJWTDAxUjUwX1lHVUpTR2YxeUhUVGZRUWVaaDZZMXlycWVSd0VnR0lmZTJCMHVhSGhKUjc3YzRQZWRyT01IR3JQTldwemV4VWo3ZWJOcTFLYVR3eGU3QW9Ld1lEUzhSZFphcXBqc1ZNeThvTEpldVpaVEluemR0WF9PVURHSlR0cjhrSnNPY1Qyd3VTcXpwY0xrel80YWRmUVRpVlluYkthRlk3WDZSNm4za1h1ZV9uQmN3QWZlU3c?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 19:17:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Multibagger Signature Global shares to be in focus on Wednesday after Q1 pre-sales rise 25% QoQ - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeTNUdTNHVk0wdE9HOFJlZlV3ZmRlNnB2T2RYYjN2NXpEYVJaLUZxNUpObzgwSUQ1bEJsVVk4UVBkR3NiLVVoeFNJWkR5aVh5TXhEcUJFU0t0RlRYaVNXTnNYQW5wNnhpbTV4LUZHdVpabGNzeUJWRlpnRkxyMExSVWVtbkVrUHRTWm8wV3FldVA2UHVWU2hRRGlFXzV4WVpBMGRLTExhQldxMkFEVWsyQXV4TFFpc3FqSTFJZV83MU5mdVpjUUdZcTFkYnBaSV9iVVpWVGxHVTVPak1UNVYxei12SnZFT2dKWVp4LV9mVExOSkxFYWJR0gH8AUFVX3lxTE52V1I1ZkxUcjcwdlc1YjZIaUtObW9WX3JvMnJfajEwaXpod1cwNDNabDlpMk1pZW00dzB5UDFQZGd0ZDRYellwcTIzRVM1NEM4MFBCVF93Y0ljYk4xRDd4WTlmZEFFR2lhSDFqRUZObWUwVTJESnRqZGdUU0Fxakl2d19KYi1UWFpUd21sNUlOM0NvZUZGZUk2Rm5hUTdJMDd1dXFNNFpLeTdCRWVnQWtXNzYzQ1A4V2NnT1F5UEZteVRKZmZ4NWNvWmUtLW9idGVlbFF6am1kVHNyNXhOUjE5YnVBTFE0dTVGMFNxc1dMWk90ZFZiNVhnYnFDSg?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 17:27:35 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Bhagyanagar India discloses beneficial owners for EGM - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUh3WVF1Z2ZFVUVMd3AxanE4cnhMQ0MyeUtyTF9PM0VvWkowbU40S0c2N09yZVV1S04tVEJrMmRKMF9HMGdMTjlsQUFIdHFNeVJjRlRuWFhfWHg3dGgwOHc0VV9GNGVyM2pXOWhLWV8xcDVFQUJBSFhhLWF1eHpmTnRyLWxwMVJ0RVh6NzdpRF9DYzkxY0tHeXU5YjVBcTdVMW8waWU0Ykxnd3FwNHE0?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 18:01:05 GMT"
+      "title": "Broadcasters wary as TV services face telecom-style rules - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONWVwR2RNZzE0WGlORWxwYVBEeEoyaEJQamxEUDI3WktGWG1aREZPWXd5M3RmaXVLbWUyMk01LUQyeWdUd0NjQWJmU2VvUk1NbDNhMk1tVFBWbTh4d3BObER1bndyTFNkVkxiSTlXeTNfT2pYcnJBUGNiby1ZVlFqV3Q3LUZiOEtsU1BTM2VQSVJORTdYVVcxQ0Z0Mk9BMjBqWFV3WmtvLW05enFzdDdpVkNxMW1jZEdqQ1FhSDZ3S044eU95cmhGNjE4TURic3l5YkFPcFJpZEVhYU5L0gHcAUFVX3lxTE41ZXBHZE1nMTRYaU5FbHBhUER4SjJoQlBqbERQMjdaS0ZYbVpERk9Zd3kzdGZpdUttZTIyTTUtRDJ5Z1R3Q2NBYmZTZW9STU1sM2EyTW1UUFZtOHh3cE5sRHVud3JMU2RWTGJJOVd5M19PalhyckFQY2JvLVlWUWpXdDctRmI4S2xTUFMzZVBJUk5FN1hVVzFDRnQyT0EyMGpYVXdaa28tbTl6cXN0N2lWQ3ExbWNkR2pDUWFINndLTjh5T3lyaEY2MThNRGJzeXliQU9wUmlkRWFhTks?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 18:52:00 GMT"
     }
   ],
-  "fetchedAt": 1784053187
+  "fetchedAt": 1784058586
 }
