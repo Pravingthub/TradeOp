@@ -2,33 +2,39 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "Market Trading Guide: Adani Green among 4 stocks recommendations for Wednesday",
+      "title": "Fed's Warsh vows to 'do my job' if challenged by Trump",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-vows-to-do-my-job-if-challenged-by-trump/articleshow/132396174.cms",
+      "pubDate": "Tue, 14 Jul 2026 21:46:30 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132395996.cms",
+      "pubDate": "Tue, 14 Jul 2026 21:31:46 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Goldman Sachs profit tops estimates on trading boom, corporate deal spree",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/goldman-sachs-profit-tops-estimates-on-trading-boom-corporate-deal-spree/articleshow/132395970.cms",
+      "pubDate": "Tue, 14 Jul 2026 21:29:36 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Anand Rathi Share Q1 results: Profit rises 71% to Rs 39 crore before one-time charge",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/anand-rathi-share-q1-results-profit-rises-71-to-rs-39-crore-before-one-time-charge/articleshow/132395689.cms",
+      "pubDate": "Tue, 14 Jul 2026 21:10:15 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Market Trading Guide: Adani Green among 4 stock recommendations for Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-adani-green-among-4-stocks-recommendations-for-wednesday/slideshow/132395083.cms",
       "pubDate": "Tue, 14 Jul 2026 20:39:34 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "IIAS opposes Ujjivan SFB RSU plan over disclosure concerns",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/iias-opposes-ujjivan-sfb-rsu-plan-over-disclosure-concerns/articleshow/132394582.cms",
-      "pubDate": "Tue, 14 Jul 2026 20:12:55 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Buffett to offload Berkshire stake in 8 years, Gates snubbed",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/buffett-to-offload-berkshire-stake-in-8-years-gates-snubbed/articleshow/132393942.cms",
-      "pubDate": "Tue, 14 Jul 2026 19:52:01 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "RBI proposes easing rules for mutual funds, insurers to acquire higher stake in banks",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-proposes-easing-rules-for-mutual-funds-insurers-to-acquire-higher-stake-in-banks/articleshow/132393660.cms",
-      "pubDate": "Tue, 14 Jul 2026 19:33:25 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Rs 1,839 crore Biocon block deal: ICICI Pru MF biggest buyer along with Citi and Goldman Sachs",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1839-crore-biocon-block-deal-icici-pru-mf-biggest-buyer-along-with-citi-and-goldman-sachs/articleshow/132393595.cms",
-      "pubDate": "Tue, 14 Jul 2026 19:28:05 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold, silver prices today: Comex gold and silver rebound as softer US inflation eases Fed rate hike fears",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-rebound-as-softer-us-inflation-eases-fed-rate-hike-fears-11784041737126.html",
+      "pubDate": "Tue, 14 Jul 2026 22:18:39 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,28 @@
       "pubDate": "Tue, 14 Jul 2026 18:22:14 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "US stock market today: S&amp;P, Dow futures steady as investors await inflation data; crude at one-month high",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-dow-futures-steady-as-investors-await-inflation-data-crude-at-one-month-high-11784029631485.html",
-      "pubDate": "Tue, 14 Jul 2026 17:41:22 +0530"
+      "src": "CNBC TV18",
+      "title": "Signature Global Q1 update: Pre-sales grow 25% QoQ as sales realisation rises 12%",
+      "link": "https://www.cnbctv18.com/market/stocks/signature-global-india-share-price-q1-update-pre-sales-grow-25-qoq-as-sales-realisation-rises-12-19945539.htm",
+      "pubDate": "Tue, 14 Jul 2026 22:20:04 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "J&K Bank to sell 0.5% stake in PNB MetLife for \u20b9120 crore",
+      "link": "https://www.cnbctv18.com/market/jk-bank-to-sell-0-5-pc-stake-in-pnb-metlife-for-rs-120-crore-19945504.htm",
+      "pubDate": "Tue, 14 Jul 2026 21:48:42 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Hero MotoCorp to invest another \u20b91,000 crore in EV maker Ather Energy",
+      "link": "https://www.cnbctv18.com/market/hero-motocorp-committee-approves-rs10-billion-additional-investment-in-ather-energy-19945500.htm",
+      "pubDate": "Tue, 14 Jul 2026 21:29:50 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Market Pulse: Key triggers to watch before the July 15 trading session",
+      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-15-trading-session-19945477.htm",
+      "pubDate": "Tue, 14 Jul 2026 21:26:32 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -67,59 +91,35 @@
       "pubDate": "Tue, 14 Jul 2026 20:50:32 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Infosys, Wipro ADRs slide as IBM weakness in software and infrastructure business rattles investors",
-      "link": "https://www.cnbctv18.com/market/infosys-wipro-adrs-slide-as-ibm-weakness-in-software-and-infrastructure-business-rattles-investors-19945429.htm",
-      "pubDate": "Tue, 14 Jul 2026 20:33:40 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "IDBI Bank says it can't confirm or deny report on government's stake sale",
-      "link": "https://www.cnbctv18.com/business/companies/idbi-bank-says-it-cant-confirm-or-deny-report-on-governments-stake-sale-19945466.htm",
-      "pubDate": "Tue, 14 Jul 2026 20:26:46 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "FIIs remain net sellers for second day as DIIs step in with \u20b92,928 crore buying",
-      "link": "https://www.cnbctv18.com/market/fiis-remain-net-sellers-for-second-day-as-diis-step-in-with-rs-2928-crore-buying-19945409.htm",
-      "pubDate": "Tue, 14 Jul 2026 20:19:26 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Stocks to Watch for July 15: Tata Elxsi, L&T Tech, Anand Rathi and more",
-      "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-july-15-tata-elxsi-lt-tech-anand-rathi-and-more-19945316.htm",
-      "pubDate": "Tue, 14 Jul 2026 20:04:22 +0530"
+      "src": "Google India News",
+      "title": "Indian stock markets rise on US-Iran peace deal hopes and lower oil prices - News On AIR",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObnNVbGpWSlRSWUtBZXY2Y3loYWUza3Fvd2ZJY0NHLVdhZkw0aTdPcG41UDlxQXFjMWl1ajRvckhWZVJaWmx5U3RuTWg5dGdFcXhFRGxYaGlyaElOOUVqVGhOcl9QME4xSVZ2UVhUMmlNSlhOVFh2VDF1VkMtYnE5MTBpZzFITDN4Z011SmlQVUpETW9COUpGaDhvRUlFNTJpNEE?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 16:23:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "IBM Crash Spooks Markets: How Infosys, Wipro, TCS, Other Indian IT Stocks Will React On Tuesday - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1Z3Um5SaktlYWkwQWwwVF9YTUhCSjZlbG5oMk1HTGZjSW1faHBoSHlVLXNoX20zcEpnQkpYVVNFT1FfdmJBNkkxUVhlcjlZdGRnVm9hTXBmaHhUdWZXSkV6RHhNMDFCZWhBNm9tdHBBd3hORkJ6Wk4zYnJ3bklMZFpBMk1uVkhib1NFSkNjbUdmYk1qOE1KT3BwUDVXQkJnejJOeFIycXVROVBUMFE2LXpuVVE4ZzM3b1NqVThQdzVXbEZPcHJOVWFYbS1ULUJK0gHYAUFVX3lxTFB3OGpMS3dJXzZWWGlnQXZFR216STRNaDRSc3NLSXZXU2dINzc1UHJkdkZLUnA0UVlrcmVxNGZBNEVMNVlHV2N2WkNRaVl3Q1NaVEZuOWpmN05pMmxoTGg3cGVfUlZkRVNSUDB4QzJ2bjFaUWVndHJfRUNSQ0ZlbVYtdE8tY0RpVUZiR29vczlBeVRicXBiNS1GbmE5NHNCTHFWY0hybWVoSDQxRlVhQVZFclJfVDYyWUtpRXg5MnBtc0FzWVJQdGNOZnJyOHQtY0xacmxzY2dEaw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 15:43:08 GMT"
+      "title": "July 14: Markets Extend Losses as Oil Surge; Sensex slips 561 points, Nifty ends below 24,100; IT - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQM2oxb3BmLV9SNUV2cEZwMGJpaTZsMWFTUjFGYnlHLWVZM1pQOWFHQldhUVp3cHo2UmJSX0ZsbEZLenFSS3loa1ZhVTFMNHpKUHEzeXM4U1Q3aG15SGJtZXNYdldxQl9ma0lnb1ZDTVNib0ZKZ0djOFdqMThua25jNEtzZzhQTWF3eG4yTmdjWkFmQy1TelkzeWxERzRnU2k1UWtMZlFiMlFWSkJiQmdvWEdDQVcwN0ZieFZlQQ?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 17:06:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Solar Industries India - 12 stocks held by 100+ MFs in June surged up to 105% in just over 6 months - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ3VjMUZvSjhLSHR6TjFmX18tX24zS2lmWmdIemMzSldKQi1ZbzFnREQ1OGczdThZalNXNEdNVTgtWU5xako0cVRNRjVqNXNXT0dNbC1RaVlRMWduQ0ZFRW03WGZZSjgwM1UtZ24taXIxS21IMGt6NDZWN3dxa3k2VXA1ODV6dGxYbXNuQ28xREc3M1BnQkVvODM2SjhLSE5jcWllaW8yMUd4X1J3ajRfYUxoNHZweTBPWklNSnJnTVN5RzFRUjhaa3A4NE9CeG81eU1hMzk5WmpNdFFzX1RVbmpwU3ZacnREY1RiTkVRVkU4eFhHSlZvdDNKcw?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 15:11:51 GMT"
+      "title": "Belrise Industries QIP opens at floor price of \u20b9230.79 per share - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNejVLSENJZmtTZ0J4LW4xc1dUMkgyb2ktNHlJZ1J5NGF2Q0NvRVZJOEhYV0UwUzVGWGpQNk4wNFV6elhLSjViQ21ycmhZS3RFcnRWSV8tTTdMd1g3cm5QWV9peWdFQ1RrWWdLWkcyUHNkRVVLZkxSVU1pRWhubTZlLTBzS1lpWnlzRE14WDYzRkVCV1dITlc1SXN2NlE2SV82M0hiYlUwdkdRSHpmaThiMGlYRmhKQ3ZWMmxxeA?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 16:44:41 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Export boost, cheaper cars & whisky: India-UK trade deal comes into effect from July 15 - How India & Ind - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOWnJJOTh5eVk0dFpVeGNWOV9ZRVFjVUVEQk1zbnI4ekNyRUpyRmozUzRJTGdzT1R6aUZacnZneXhPYXp4WTRnaXJXck5jNzBvZjBRaG5LUWw2Qm9DMzJ4SUNhcG5xRWkwTHlBM3pXSkdtR0djV3BnTEVPQ3U0TWRRckdZZ1NqYkx3dTBnNXNIR2dzTElqREh0dnI0YTAzZWlxOFpJZ2J0RTZQZ3JPQ0hTd05FbmlVU2pYY2x0N2J5R0ZjZXZwTWZmeF9CQkV4aHJvYjBaZy1hLWFGTGx5S25ldmNIazJqWF9INTJacDZySHFIVElCOWFiMUZnMjlDNGwtZldkYXdtSFQ3UTN1cmpsRE4wVWd4VmwzTk9QQXVJb2ZBOEM1WHZv0gGsAkFVX3lxTE5jV1hiSXBMcXMxY1JVTkdSWHNqS3hlc3VvaVNFV05IUFUxelZaZWZaRnA5YnRZTWgwSkRwSnowajVpLUdzOTdWbmpSRHlaWlNSaGJLdnNuQkN1R3lnTldNNWxYR0hNM0FyY0xCQ0JHa1dwOElteUZrSFk5bUpqVUZWTGpLWWU5VzBxR3NnOXBzSnh5bGR6QTJrTWlRNUktcE00Q093b2ktX3VvRGZwME41c2x6NWdXT253d1ViTi1oZ2tPM2htVU5YSFltTVVfV2F1VlRJTDZUSmdfMHNoNzk4Sjg1bThUYUFHaVF2LUNjYjJ6V1BIS3FBTGtwWkZuWjZlNHhaWjZQbUNsUGVqaFV1eE9JdGFTaG9KVGxRMTRiYkRQWFdCcnh2TW1ZNg?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 15:25:00 GMT"
+      "title": "Gold, silver prices today: Comex gold and silver rebound as softer US inflation eases Fed rate hike fears - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNbHA5akoxOEd6QjdnWG12QWtTckt5MW5maVZKR21nN09PWjMzM0pDaVJ1c3hzOV9HMkpmNXdvaHhVbm5QR3RhaUdIZE5NRHNRTlFnOVlIdHpva21ZZnhJU3BxNDFIaWlMVVZhRlMxOE9OQmZaUHZuSkhMcmVXdW50MWdwN0w5N3EyaVRTVy1pM2hFVWg4MWdWeFhkVTBaY3hBem5Pcm5UT0RrSEF0QjdsNzhoVWtHckNMM3VmbmltUDJuV0YwbUpRSFR0akFBZ254Z0NvSHVKQ3JpWDZXd1RxZUFhU1hzX2ROaWNoLXd6bUNNQVQ5cWRWRWgyY9IBgAJBVV95cUxNY29KeFNyQUNUbVJ4UjFheTZDalpqZnNNNVFGb0Jmb043NGxjRzdvczUwbXl3ZjBTRG5DaXNYVDJhRm1IMVJNb0ZicTgtc2hYNDdybWJkX0tzV3ppanBCZVFYenVhcld0ZTI2TXd5OFdVMFI2UGVvcjVCYVFtMGhEZG5QSFQ1RmR3cUVFNVg3YVk3am5FTUxfTm13S0Ewd1RVRnk4enRCeFRpRFVha1VaR29DOTBVUVJwOU4yS0ZueVp6bUJrcXgzcmI5bnRvcjFPc2ZSeHJNQkpPcnpJSjZKRTRieUhSVC11czZrN1JRc2tmZVFoQkZxR21CN19sb01o?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 16:48:39 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Govt reviews fresh bids for IDBI Bank as stake sale process gathers pace - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTFcwMXVCYmtWWXdvaG5TaFg1M2xUZDBmMXRaSkxRQ1psalJHNHBpMFlvbzEzTDd5LWtINGpTNzRNTFZuVFBJeVNMZW8taDJ3ODBzdHJtTGtCaTF2cFJFX2hvQ2FDQXJsS2V6aXJyMjk3OXpJWjZfXzhCVVFKeDRTZU14NXVRTG9SUFpNcGdNazBCQXlmMzJlbU41akNRZDM3RzJuY1AxallzS2RUM3pnWFFIOWE0cEJqRWZ3dEplVmJGbi1YaGRIWm5uVVVmRF9Eb1hXLWtBem1mUVhiU3ZDdHZ4WdIB6AFBVV95cUxNNmFVZTkxVGdBLVg0aExCMWJvQUo5a0FWT2ctbXBmNFlzR2R5SDQxSllhUHFhWDZiZlQzUkpTd2djNVE4Q0VWZUExU3NoR0Z4WU0xN1NqTGw0ODJBYTAzd0NxUHU0djV4cDFUVVFBVG9aLVlxckgzNVZDQjdZMlhuMzZwLTIyQS1TdkNoR0FTbExlNGk5cjdVQkdaUUNOcDRYQVdhYXhIN1FyLW4wVHlacUk0Mk9PWHZ4YllUVUpxLUJ2bDE0ZGYzR2VVVWJDUU8zREl2TVlValBCSFkzS3R1enpDVHduUTVD?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 15:02:26 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India-UK FTA explained: How the deal could affect your job, take-home pay and shopping - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRzh2Q05scDN5aEYwbm5UeTVJV1ZYOUF5NVFxRDkzOW9LamJQVUZBTGxVazRMdmlpUXFZVXZaQ0cydk8zQmFCUEY3SjFSVnpUdVlBbXhWNEZEQk42ZTFPVHRKNGs3ejg4TDB6YlhHVmxtOUFfOG9sdUVkendTTzd3THhJRHZGSVZkU2xQRW1oX2dGbGFpS2s3TzJKVldEZEQ3enREZ0JldWR0QV8ycHRtN1ZrZ0JUSzdubGc5RWh4OWhPb282Z3NDTFVJSkhTQldxa3JKbzd6U1pianBfZlc2SDJEcXNQR3lzMEtOU2s0WVlvLUN5ZUHSAfsBQVVfeXFMUDRJRDdCVGJ2SjUwbTk2QTBGRW13S1FVZmtEV2FkMjNnWU1pT3NTdXotZzJ1M3lmenZsbDRMVHY5b3FCMGNtV05uTU00Y3paRWZqT1gyOFMtbUY3aGhYQlpnMW5kRVFPN1VHN01qYUZLdG12R2lsbUNsUEpCOVpaMTBXakpXUjROWW0zMWJiSGVMNk9MUUZCdDNYU09XZkxwcjhKUy1EdTJMNDEzcEYxdzZsekdEcWNYeWlROUZ6WWhrNU5KR2J2VWRKNGowazhTbThDVGdhRExwNElfUEFTMERENFhacFU5RlFKMTFrbVg5QTRfQlZVSFFBWnM?oc=5",
-      "pubDate": "Tue, 14 Jul 2026 15:36:24 GMT"
+      "title": "\u2018I don\u2019t want to disappoint you but\u2026\u2019: Kevin Warsh clashes with Waters over independence of fed - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPLUtiYnRHV2RIUDE4LWcwSHpHRk1mYUEzbGwyaEs5TEpSbDVvMVdKOGJQakViamJkMmN3WTRHbXdrdHppX0x2X0FZOTBZcHVUMUJhLXUycXVNS0dpYmRVQWlxZDU5TkpGTDM5c1BrSVR4a3V4Y0Z1LWVFc0tTVlYxZ1ZMMlR3RDRvQ3VSdVR3Tzlrc2wtTzU3WW5HM1ZVWVhPUzJXU1ZxUHR2NDRsMTNoZVJBMDM3N0xYSFRFY19sRW81enl4eVo1VHNSd2xKd3NXSS12aXdGazdKallVSktzbHQ1TjhueUtrbTBKczk4Z05rdlR0WDI3Z2tqNU1ZV3NaOVHSAYcCQVVfeXFMT2NGS0F0cjNQWDZ0aVRhTDdWZDJyTjZnRXNqMkpVODJfNTBWcVF2b1R5ZS1YdWc3cGtyVzJ4VE9faEExUm1SdDIwQnpsUkxHRzVHWWpKQXZrNG9ObVY5cThzUldZR1lQbHl1MmlycXRwWmtpWEtoUHQtN2xZa0dNbkEyRHhWWGo3WmJxbE5DNDFBNlk0bFpBcUNSTWxJU2o3QnRnOGJJTWVnR2dLOFo0T05uUHp1Q2tXcl9FSV9qQ0g0UmhrcnhFWC14NVZvTThlelc3TFIxZ0RyVC1zWnhTb1dKbmtfOVNUaDFodEp1bnh2MHVWV2FKLWtLZFp5czZKbGs1ejMwUm8?oc=5",
+      "pubDate": "Tue, 14 Jul 2026 16:40:22 GMT"
     }
   ],
-  "fetchedAt": 1784044651
+  "fetchedAt": 1784049348
 }
