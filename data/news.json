@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "SpaceX shares fall below IPO price for first time as post-listing excitement fades",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-shares-fall-below-ipo-price-for-first-time-as-post-listing-excitement-fades/articleshow/132420340.cms",
+      "pubDate": "Wed, 15 Jul 2026 21:59:06 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Angel One Q1 Results: Net profit doubles to Rs 231 crore",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/angel-one-q1-results-net-profit-doubles-to-rs-231-crore/articleshow/132419853.cms",
       "pubDate": "Wed, 15 Jul 2026 21:27:19 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Wed, 15 Jul 2026 21:01:28 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Fed's Kevin Warsh says interested in probe of Bowman bank meeting, won't prejudge outcome",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-kevin-warsh-says-interested-in-probe-of-bowman-bank-meeting-wont-prejudge-outcome/articleshow/132419357.cms",
-      "pubDate": "Wed, 15 Jul 2026 20:56:11 +0530"
+      "src": "LiveMint Markets",
+      "title": "SpaceX extends losing streak to four days, drops below $135 IPO price | Buy, sell or hold?",
+      "link": "https://www.livemint.com/market/stock-market-news/spacex-extends-losing-streak-to-four-days-drops-below-135-ipo-price-11784132250478.html",
+      "pubDate": "Wed, 15 Jul 2026 21:49:18 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,10 @@
       "pubDate": "Wed, 15 Jul 2026 16:07:22 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Nifty 50 above 27,000? PL Capital raises target, sees more upside in Indian stock markets but flags key risks",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-prediction-pl-capital-ups-nifty-target-to-27-000-sees-more-upside-in-indian-stock-markets-but-flags-key-risks-11784107475075.html",
-      "pubDate": "Wed, 15 Jul 2026 16:00:00 +0530"
+      "src": "CNBC TV18",
+      "title": "Ather Energy launches QIP to raise up to \u20b91,300 crore; sets floor price at \u20b91,170",
+      "link": "https://www.cnbctv18.com/market/stocks/ather-energy-share-price-launches-qip-to-raise-up-to-rs-1300-crore-sets-floor-price-at-rs-1170-19946539.htm",
+      "pubDate": "Wed, 15 Jul 2026 22:31:47 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -70,7 +76,7 @@
       "src": "CNBC TV18",
       "title": "From Meta to IBM: The biggest one-day stock crashes that rocked Big Tech",
       "link": "https://www.cnbctv18.com/photos/market/stocks/from-meta-to-ibm-the-biggest-one-day-stock-crashes-that-rocked-big-tech-19946489.htm",
-      "pubDate": "Wed, 15 Jul 2026 21:22:04 +0530"
+      "pubDate": "Wed, 15 Jul 2026 22:03:51 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -85,41 +91,35 @@
       "pubDate": "Wed, 15 Jul 2026 21:05:13 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "GTPL Hathway Q1 Results: Net profit slumps 78% despite 12% revenue growth",
-      "link": "https://www.cnbctv18.com/market/stocks/gtpl-hathway-share-price-q1-results-net-profit-slumps-78-despite-12-revenue-growth-19946464.htm",
-      "pubDate": "Wed, 15 Jul 2026 21:01:07 +0530"
+      "src": "Google India News",
+      "title": "Indian Gas Exchange files IPO papers with Sebi; parent IEX to divest stake - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbVBPLVg3Y09SVjZHSVZMR1N4X3lseXNrSjMxMGdpNUx0N1RjVTlhSjBQU2hwS2FJanBTQUJUNExjV3l0R3ZqUnE4Y2xHMUluNDJZVThfSWtKN2VsaDlGckRfb3hYdXNTUXZSVUFxaGhnU01PY1lYbnhUQWpxQzNuSVRpeHAwWGRDaHNnSklzSkNJbEFzcDczekJFX1VqaVFWWjJuMDVORnoxRnV2bnlnaUdfd2llYVBrRkIxSG9Cd2kwMm0wbXfSAcwBQVVfeXFMT1FsdDF6Q2FsMV9Ccnhvc2NDakJkU1RvMU1hQlhRYTF1ZmJBa2ZfUzFnaktjWWJFMktxaXZfVTJDZzhpOUNOSUt3TnhVd3RTbmNnd09GR1RnTzY4WVVFSUJLSGZvQWttNURkRHpCM0pFeE53Si1NWDhuY2hkX21pTHp2enFZanVmUnNQSWZNcFNCenk2Ym1US3VCdFVyN0dmYmlDQlFTREVWSkhuNjFOYzg4OThWdVhRSlEtRGhleUFmZWFDTy1oWmc1TEhH?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 16:37:39 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Market Trading Guide: Inox India among 2 stock recommendations for Thursday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRDhON1liYlFFS19hNFJmT3R5WFZMUFZTRXR4cUY0U2ZpVUFWY09Db2Y5cks2U2lzZ3gydTRFRnlOUXZoNHljQ0R4WVlXSVNRUFgxbTd5TmNFcnphM0VDOF9Yc3BicnNZWEhJbUxKRktvZTFmZVVXbTlod3EzaklZMXhPX1lmbFZRVWdTX1ZLUmpYYUtRSHIzWlpRNklaMk5VZDJ0Q1NFMkN5ckNROW9aRHJjOElzMWc1QmY5SE1nUXdLdDV5TEJyRTNpdGlnYy1DYWZtS1ViekhsSGdWTlBUWG1n0gHnAUFVX3lxTE9OeXgyN2JHU2t1NC1CTjNNWGlJYnhBcTAzN3RzbW0wcmdOaXFvVm9FTVZoVXZMZGdhYnVwRGtydndOZTZpdjJQcWtEX1JBZFB6NGVJeTJCakZmRW5EakE5a3Q4QkNQZGlIWkUtdVRFdFVaZGVaWmp5eXUwSk02Q2RPeDhkZkVVVGpkTlZqN09DSXFqN1ltOVJnMkJmcEw5dUpseEdfLWJCTkFiS3NfVVlsUndWbkNoS3pQUXg3LVlwRDBfNEhZejJsc3ZLbWFyRHJNbWIwV29JRVFVTlptdU1mWHJUNGt0aw?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 15:24:33 GMT"
+      "title": "What Happens to Your Money in a War? India's Investment Landscape Since Feb 28, 2026 Amid US-Iran Tensions - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQY3Vqd1lrYm40VjZqMnIweFI1RS1vYUVOdFdhR2FtNkNrcVBkcFl0N2FIcGRmdDdaZGhTbFRYVWhpTFZCX1haeFhzOVVNTVVqZDg4am56Wk9jd2MwM285TDVhOU5TQmNfWWhtTjZTMkZQNHo3VzBRRGdTMUFyblZqRWVicG1fd010S21KQ2lmaktBU2R2OS1EbTBzb2RmWTI1b1MtYVZndFlDQk5fcU5nWlZpc2s3UFozNDgtOTBTMG9IbTJnNHpTNjdVVjFNTVp3b0w0UlF3?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 16:43:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian Oil Stock And 2 Indian Dividend Shares Paying Over 5% - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMENuVmRqbXNLaU1CUmFVaTZIUWVpbGVRbE1aUFhRNE45XzBTOXdiX3BQdDY3S2VtS2tidGw3bzlqQXBLcm9pUmtVZjNvUEN1RWVwUlMxWDBrWW5aaVMtSm1fQTR6a2EyWWM2U0tLUHlvSHJpNmNfcVZJQi1XVHdNSkU0QmQ2ZmljcXFIdVB2WXRQaFhrVjhXQ2JjeGppWjRyZGJPLWFfem40OFd3ajFIYlM0TGNFNzRmOTM2UW93LWxRbGpvY0tMUzVZdVpGRTNaYVpjT0NKNNIB3AFBVV95cUxNb1N1RDVRTUJJR0hSSDE5SGdjcWlNRUxvT3R3MC1oZWRab1RnakhNUmlWdWVWSnNMbjZXLVl0MTloRjZaUkpKM0YyOE5vVks2NzFNU0JwemVadElicXV4OXVsWWVQLXdBa3FIaWQ1NGtIMjhhMEhGWDRKZnlxNFVUYktvbzV2WjBrNkNCYXB2UGNqMnpPbGVmcVg3THltbDBWODNWQkNCZUJqQzhOa2VhQzZPbkdXTjNNb1k3YkItcWU5Y2lQbzVqOXduTFZYZ01Fa3pGYXJ6WFVJWi1l?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 15:41:21 GMT"
+      "title": "'Grabbed partner by neck\u2019: Lawyer defending migrants in ICE shooting case once faced abuse charges - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVjlKNDE5MFRkV1JVQUFxZE9KNTRvN1lqRm9xWEE2bGZSQk9tQjJBOFNRbndTU0kzR3hVdURzcEd6b05FRC1pYUNNaWVoQTZPMG5RYnRoVVhuM3FOTndISFp4SW4wQjF5YnFMX01DbXc2TzF2VUZmd3ZIUXkxR1RTcDA1d3NCNTV5SU5BaHBZa1R2RVh2Ukpza01LNUw0M1VpWEFaZUF0N1JsemZpSUhXWlMwMWxnazVOdVJ3NGYxamh0QVVkUmhFRWt3Rlo2TW5fcXZDMEgxeFZaSEFEYjVyUkVnellIeFBodDd6THh2OThIdVhOejFjaGwxYlcwc1hFbTc4WlR0aDLSAY4CQVVfeXFMTzZ1TmI4Y09mY09weEZTdDAtZ2J2SlR3aVlQcERSS3lXQ0liNHQzSE4tc2dva1VBNWlvVUh1bTBCcTRqdExJNWs0T3dYUG43NS1FNENnVmV5LUFkQ2tISko5T04tNE9pQnRETW9xYUNaZkVRcVNMUFBrTDhfVmJPT0NIcWdxZEZQYjZqNlY1ZDg2VnNUSWU4TVluWUdDOUduSXdaTjc2dUg5TGZwa3NweDE2a1g0X2l5M3VJY0NWWWh2RlhLMGRGYlhLQ1dfcG5ERnY0U3RNd0hrblpPSUl0bGtYUFlkeVdDYjZrNE1kQ3NTX1VvMExrWmVQX1Nocmx6Y2hBRDc4XzAycFNLbTRR?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 16:48:32 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian Energy Exchange schedules Q1FY27 earnings call on July 24 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc01ybVFUZktwMGxDVUVBSzl2dEdHUURkcnlYQW9CRVJSRkJpazFDdzJid1NpUkR2cWgzR0J6SGpoTkFCOWpEX1EwWHJGWUhVM0N5LUUyei1OclA0QVl2NDFja0dfbHlKM2ZSWWNqNkR2dVlLT3d1TnltRXdfcHltQ3dEaHdYVEMwbFowTUxvSlBvbUJESzBhTVBiTk5qNzZKeHk3eEMzeUdhamR5VW5icko5dDFLR2tFLUlpYUdVYVRrSTctOGVVcWlCZVBRdGdRRk5v?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 15:44:46 GMT"
+      "title": "'Do you still stand by those comments?' Sen. Wyden grills Trump's intelligence nominee Jay Clayton - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQOFhxd2d4TDg0a2hIak9HdXo5N1NiMm8wTVZqS0pqVzBYR29ud0FwSFR4Y0FqS2MzWUxwaVl4c0ExYUYtWkVOY3Y5Yzd3U09QQVBvNlRZb3E2OUhRNmVzeDBxejg1VDVqbFhQV0lKMklObkJDRjEwNlpNM2UzWGFNOElwcTFLLUZzVlFaSEYxdlFHQ1RsaFphV2V0VXppTnZyNGI1ODlxX2h6cFBMYVBnaENnM3JuQjNQTWJEaEl4akdoUzBicWN3V3QxbUJVNU9RQ0R1bEFsOVZST282N19FQnREejdhaWE0UG91bUxES19OZ1gzT3R0NGo4TUlpdXNrYnR6MkJ30gGLAkFVX3lxTE1mcVNSUnZxckY0dmpuV2JZWFlFNHppTzFjU2hJV3M3WUMxUnFha3NoRHpPWHZfWFJVZzRNd2p1Vy1qQXhTX3hNeXFmTnNtb2hfbGxDaGVDOURUc0hpMjktaU1WeVhSSkl0UlFZZEM0X3E4MFdONXRYNGNETlRxQlRaMWdoc3RBWUhOZmhtUXd6YW5TRThlUkFjRFlXczlPWWhPMzJMZWxJck9PUTJNVHZmeExhd0swUXliZmZYYkU1ZFVUMU9faDFiMDRia0RIUEJaTEIzU000WXA0UzhZN1VwUThZN2dnWEVxQ2dmRmdvd0ljdU9qak9tYlYtc3Rkb2trdW9OcnBxd2tzdw?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 16:38:49 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's current account slips into $2 billion deficit in May as trade gap widens - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVWlHM2ZCQ044d2ZaZEZvXzdiZVQ0Rm9RaE1XMko2S1QycWFwR0U4bGo3d1drU3RzSWo2emhONVhzVl92VWZpVmJJN0syeFpVeTh4Y2NEU3pkTWxsQ2I2Mk9abjZJRzJQYklqS3RNLWNNeDlWdFZDS0cxSXV0cWxZVTgyaTRvbXN1UGFONDdmRzB0a1dCVDN4d3ZQcmMwMDZaTVdtZkRzTjRXZk1jVGs3UjNBMjlVT1lmLWdiZ1ZpUmMyYlZYZk41TUxzejUtSUdNSFkwZWZkUDh2SE5HZXEya1AzMXZFaXpQdmZYQjhjRjRETm9Z0gHuAUFVX3lxTE5ybTY3SlhJWXNWT0VoTGtqcnVtcUtsM3pRYnVqV3BWbmw3TUVjV0hDdi1USDN5Rms5NEdlRTNPLWVhUEZCUUFPbWJBVkM2TzdRVWk0TkNQRmEwTDBvTUM5djJ0WFRqbHZoNHJuQVVuZ290M0QweVZOb2FHZ0N6TGhYUmtaMWxGZWxuWW0wMWo1NUdicVFwRUtybDBFMjFWTmtsdXpTR3lzRC1MR3RESm44VXNIQWJqTHNzX0taYjVZcG5ROEczc1JiRXo3aWdBTDhzazlUWjNvVXRIU1N1dnVqSC04a0RQLXEwWDJwd0E?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 15:58:54 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPemMwbGxaQUE4RmVBcVNtbE1QVHktVTRYRU9YU3YzbTl4QjhjaUw1SUM2dUNPY0xBNmpVWE0xYXJySHJ4UGEwSUo5bE0wQlZDSFJ4bmlxeUlIYUlyYnlhQXNhdVJ1SW95ak91N3NDYnNNUTVna3FXVUpZbHR2SDJ5ZTRqMzZYTTBDUFZuUHFHS1F5ZlNRa0NXNXZtNkZuVkc5b3A0TzV0VTJLRjk1Vmp5aUtpX1dKLUpQYV9UMVRiWThVbmgtV2kxVzl6d0tvSWYxZlBpSFdfOUNEd3hfNEk2MGE3Skw5Mk3SAecBQVVfeXFMT3pjMGxsWkFBOEZlQXFTbWxNUFR5LVU0WEVPWFN2M205eEI4Y2lMNUlDNnVDT2NMQTZqVVhNMWFyckhyeFBhMElKOWxNMEJWQ0hSeG5pcXlJSGFJcmJ5YUFzYXVSdUlveWpPdTdzQ2JzTVE1Z2txV1VKWWx0dkgyeWU0ajM2WE0wQ1BWblBxR0tReWZTUWtDVzV2bTZGblZHOW9wNE81dFUyS0Y5NVZqeWlLaV9XSi1KUGFfVDFUYlk4VW5oLVdpMVc5endLb0lmMWZQaUhXXzlDRHd4XzRJNjBhN0pMOTJN?oc=5",
-      "pubDate": "Wed, 15 Jul 2026 15:50:00 GMT"
+      "title": "'Jack Smith has some answering to do': Biden\u2019s special counsel swept up texts of 44 Congressmen - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNU1FDU1dJZHhRV2NUUktGOThPVDBJWnZ6Vkhja2doUDNQTmVIbG55TWs3MUotTHBaNnZQVmRmSzhSWUtzdjZna192Yk1zai1LR0M5Z0NVU2dCSDQ3Z00waDlxWHFZbG0zUDYwU3g4b3hfLXBoV2VFMXJWOG9hbU1qNGhLQlNMYkVFeFRJU2pvYV9XeElxY29ySVZzTHpOZTNpaVlZYU5ESHdPVWN3djVZWFYtQ2pLM1I4Rm0xaHFEaUhzVjJRV2ZSSi1MaWFmMmVOZzBwU08yTWJOWldPaGFVY0xmZjhHVi1CZ2RIbENrNW84WTV1V0xFaGREVEE0QWlNZlZV0gGIAkFVX3lxTE1hZ09TQi1OY3dQNzBON1lvbHJxTUM5b0x1SmRtSG55NkFVNk1MZURiX25qZ0Z4M1FHaHhMZkhDQlczaTFWOEtQcHNQZmlFOHAtdm5LR2UycGVndTJrZW9tajc5eWQ3Vm5obkhpck1OMHdweVRSR2N4anlnMEsyZjRIY2J4MUNNMm5YZXk5SXlEd19xcHZ3TW1JeFZuYWpQTURnOXB5dzFqNDdXTkIzcmdMTmVsYnU4LUtQR2VDZzlNWjZoODZXMG1QUG56YmlRS3g5UXptTWV5LXV5UzZaUW5mV081TE9uNlAwZ0ctUFVPRWNwYlFuYmZQcmc5Uk5Ua2s3M2NRbVZldg?oc=5",
+      "pubDate": "Wed, 15 Jul 2026 16:52:33 GMT"
     }
   ],
-  "fetchedAt": 1784131554
+  "fetchedAt": 1784136979
 }
