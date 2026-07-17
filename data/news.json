@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: Nasdaq, S&amp;P fall over 1%, end lower for week as chip selloff broadens",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-for-the-day-and-week-as-chip-selloff-broadens/articleshow/132469580.cms",
+      "pubDate": "Sat, 18 Jul 2026 01:34:39 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Reliance Retail Q1 revenue rises, but profit falls as e-commerce weighs",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-revenue-rises-but-profit-falls-as-e-commerce-weighs/articleshow/132465804.cms",
       "pubDate": "Fri, 17 Jul 2026 22:16:57 +0530"
@@ -23,12 +29,6 @@
       "title": "US Fed official warns of 'broad-based' inflation as firms urge action",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-official-warns-of-broad-based-inflation-as-firms-urge-action/articleshow/132465098.cms",
       "pubDate": "Fri, 17 Jul 2026 21:33:30 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Chipmakers and other high-flying stocks slide as AI trade wobbles",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipmakers-and-other-high-flying-stocks-slide-as-ai-trade-wobbles/articleshow/132465089.cms",
-      "pubDate": "Fri, 17 Jul 2026 21:31:51 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "\u2018I love DOGE but not the sh*t we are picking up\u2019: Tillis rips OMB Chief over savings transparency - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNakhSZzJvTFJTN2FZT2M4b25PR3kwOVhBbXozUGxNQklmQXdmdUI5WDVLQ3JweHVRbEtXWWh1U2JPSjlSNjJRSnNjWThSVmNwVjZmd0NCSndoTDE3Mmdwa3ViT25KM0NOSXlqSmtIeVo1QklTaWYxaFFSNjBDUVJVU0pMS0pqcmlKVVRUV0tlbldaLUdTeU91TjFZd3NoeXg0QTZvQml6Z1J0cUlMTmw3eTBDUHRiOHJ5ZlEwLTNUcU9fa3N0el9BVTJSTmEyM25wT2N6NWgzYlRDa2xNa2VFanFrNUlTUFZUX1RoVnkzcnNhcDByQ1JwNTVITlhIM1pmRG1BSU9R0gGLAkFVX3lxTE5LTkU3bktfLVltYmZYcTdqczBhM0NKb0lmNEp2aFZLdUU5ejVjbDJ0Z0ZOOEl2d1VlT2RmdENOdktVQm5UYlRsZWozVW1EVmcwYjhuZW5ZT3NnS0lqTExGSEJHMVNyaGVVOWItVTlZb3lNZ04yc0swbFZyaldIbmNsYkM5MDNvclJaUHpaRFdnNlZvSDkwQnZQRGx4MzB3UU4zVGw2RW9KX1NFTVpBeXQ4Z1Z0SVRZRGRsTE5lbHlHTnJqLVRpTkc2aURyX2lCM25iNmNJXzhWc2NreDdiVDhxWDh5YUxJdlN5T0pmX0FNX1RpMjhwZW9Pc2d0b0lGRVJuYkkzWnFyTUNlMA?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 19:12:35 GMT"
+      "title": "Major reshuffle in nifty indices set for july 2026 after torrent pharma merges with j b chemicals - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNVVdCYk5SSENEMTBMVFR3SVRRSGp6Z3ZXU2tIZy14SXgyalRhMnhCc0FDMzVRQktpMXZqYU40SlNSdk9VeTRnMWgyLWRNLVNmQlM2a0U3ZW11cFpxZWdkVFZlRkZ6Xy1VaXZOTGJrZ2RuSWVscHRHdzRxZ0FPcGNlTXJBQU1zdzdyZUZiMDFXb0xPM25jb1ZPeFlQbkFnVmR6TXljY0JuVUMybTU0RmVmeTNrWmVWeTRuOWFBTldfZTZvY3I2am5yWWt4UUJXUmlONXQxR1NOSDRqMUJULThGcG03cy1yVDE0dUdwVi1jcGg4MkVJUnliRVQ0V3lQc2c3RzZDLVNIcw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 20:39:51 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India-Japan Bullet Train talks \u2018progressing well\u2019; MEA says Japan\u2019s E-20 trains to arrive in 2030s - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVVhBcnc5MXlDdXRpMHdTMkJtN1dZSkdQV2dnQkIxSWM2S1dYQW1vTnhfVHgwRTE1VWpyaUlBbmxXdlpWSmRYQ082SE8zYktwbTlKQUlFVVhabEtPdlI2Ti1URC1tYUs4V2RUZ0tlV0loVVN6N0dBYlhILVl0VjJnVWI4ZmVTMFR5TmotU2w2dEo5NUF3SnNnQzZTTDdLZ3dMWi16eG54a2Vvb0pjT3JRX19XMUdKZ0J0UjRybjBmMEVIeGp1SmRCQU9sTTVKanhsbktCeUFmaHAyVU9jQ1RwUzhrb21SRVMxVV9rbQ?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 19:28:41 GMT"
+      "title": "Rigetti (RGTI) Stock Could Trade At A Premium As India Deal Lands - Yahoo Finance UK",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFhRSWZXN2RHaE55SXowTGhoQTB1VUdKcGJSQXVjcGdRXzBJdUJCUWV2cGJSUEpIaVpEMk00Nm9nU3p0ZGRwWnMzWjVqYkJyNjIzekFMZjBCVWdlTF82dGtJbHlaV08xNkNVbmZXY3Azck95RzltZkRjeVBxV1BCSERxRjhCQQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 21:10:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\u2018You gotta give people some relief on medical debt\u2019: Sen Kennedy puts OMB Chief Vought on the spot - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSFFyMzFNUWk4bkhFNGRid25jRlltN3BSZFk1TktfYXF3X2Q0QUIycHFzQnZkSkJDa3ZTblY4TlpZZVNDdW9sYldJb21ZZmdCRmRkRldRM0F1OVMtYVctcExoOUdHRXU0V1RKZDFRYk4tZllIMlNselVQbldtZkNkN3BNY2x1TEx4WkNTNHNQSGlZMTVLR0MxSFA4XzBWdlRTSHd4WlRoUk5kS3BHWDA4Sm43VWZ2R1JVOFFrSkdtcWROa0VqU3dzbzVOYjFnRkdJTU94ckphMWM5RTA0UDA5eWJtcThVdnJfTE1IRDROam1DWHpSbFJzTkJVNDFfZjhONER3emo4UXTSAY4CQVVfeXFMUHJqOGpHcjZ1bkhveHJJMmJ2elJyR0hlb2dIYl9rekhodmpVN3kzaUZicEQzT3NjOW1CTXBPQ1dmcmFMOTI1V1ZINU1oeDlydUl6c0o3eGZwUC1FeFpGUnp1TzB3WnBwMXFPSkV3MjZQc0hVNjZPQzN2RXhFSW4yVkFtelBHU2NNelpudW5ZUmQyQzJSQUhJTGtrTG1tTUxlREdPRGdDQ0NKbVo2aXp2ODBRRl9vMTlBUHIxTmQ1cGdXYnVPM3VmNGRkdWFpckoyclNQWmRDYVNHMVFOMFhRQlp5X2lCWkVYM2dQcnBEdTNyWnNsWWN1TTg2VG1FcWdaZDBCTkdFMkpVZGJoWGd3?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 19:14:35 GMT"
+      "title": "Cricket legend Garfield Sobers, champion West Indies all-rounder, dies at 89 - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM2htLUF5bEg4U3JycFpNZUxJOEJQUXJpbWlMdVpoeXpzTWNQYVQ5MGdwdzZIWVhHMndlX1hYUHJELS1RZmpwakpLTFgzb3FGcVFRc3FETUFtcl9YcW9QcWkxTE9wMUh5YjQwYjVWbmFCR1cxTVdaZU9QNGdlQktQTFZQRnRqWFI0VjgxRWlTdVV2c0NDbjgzc2xhaU1aUENRNV9ULUk5U09pWEZkMGNUUlAzbkhLU2ZZQ196ck5PbW9JRnJ3QjJsOXhBaHhhc044akR2cNIB2gFBVV95cUxNWm1taURaTEMySU4wcDhrZml3NVUzSHIwNU5ZSG5yX3FvZXBDWXhubkpXdjRpdFRJNV9WUjNnMzBmUEtTT2dlYXlzb3JlNENEWVo0M1VoTjBuZF9oa2hGMVBYYVRWSmgyRzZsWVpWd0VDQnVYSDd3eTBiVm9RMXF5a2paRjR0eC1COWE3YnZWVU5mWVd1aC1lV284dmFMcnJBeGs1dXpIcE9zZkpwUTZ2dVpVWXdDMW5rWHBhZ0RLSGJXbS14dVdwVEl3LVc5NEJZbEFzRzhYVlM0dw?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 20:54:58 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\u2018Don\u2019t play games with me\u2019: Schmitt blasts Biden\u2019s clemency attorney over death row criminal pardon - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNMGJMMThHenBsMGlNdVdwSU1aSUl0czNOT1lqM1k3eTRMeTNOVVJZanlENXFFTlFvSDlCdGpzT2MwS0FRNFNpcDBNMkVDV3FaWktHZVBxRVhXX0laeDRyREhKU3pkVzNjQXFPZkxjamttUU5VZ0ZVbVJTWXo0SDZvNDU2SnlXdVV0UDlFRHBXaXp2N25ZWVFYZ1FHeEhvcE1QcFVQcHZrS1BmQ05wNHdoaXZIanRUN2xJT2hfSVhWcTBTdV8yQjByVzkzUXVIUEs4d2RTSGpIYVZtb21rSmw3WU4tWTlwTHJJZFBWNl9MM3ZPSkJjclpLRmt0WHRmU2l2ZnVFOFU1c9IBjAJBVV95cUxOY1d2WTNZTWNVWVc3Qnd5UTU4dUJ0SHk5VldmcmswMUlJZS1qaTZqajEzN0RKb2VZOVlnTTBCcmJBakxFT1ExRmRLazFJaXFTZ0ZMSUlNNXhtbWJyYUxOLTVnMnpBQ2Q4ZXVNOXFaaDNqRlo0cFBGYkpJalJkdEMwT1A5ZHFkSEwzQ05jMm5tY0RfLVNfaG5oMDQ0OHRUT284TkpyNGFkcEM5Ry1RNWFUOFlFR19lZHNmTmNmamJvYW9felpCUDQzUDcxYnhZR0lsNUd0WUVQVDNrNXVjZUhWY2lUQjNUMVM0THNmSnhlVHZ0YXBoV3F0ckxVV0UxX3VTWHd0YXBkczU5MlE0?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 19:44:45 GMT"
+      "title": "Now\u2019s the Time for Emerging Markets Stocks - ETF Database",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRGx0YkNiQ3NySWVJeE5mWm1jTVV5LWlWNVoxVGVOQnZfS04xdkJleml6UWNTVFVBVEJNdElDMVMwV2ZlYzhBQXhMZTdCRE80YmxUXzZ3NS12ZDBrYzFpTDdRR2duN0VKREhoT3IxbGZZZ1QtaHlwU1AtVnA0b0ktS09aUG5jYlN1Q01rU3didk9OUQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 20:57:32 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\u2018Todd Blanche can meet Maxwell but not Epstein victims\u2019: Hirono erupts in fiery Senate confirmation - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPYjl6U0JXZjFtdjB5MnlkRTJhUm80S1VfcGRfZVU4djdhSmpQdXE1d0hyZXBpSEo3TGNjdHE4cmJuUmNZeXEyWW91RW5hd0Y1d3oxamYyUGFaLTkyNnY0WWxla0ZydU56NG9zTGppbFVDdmtXYTVkRUxRMC1SV1JqS2JwS2RMX09Ua0U0REVBSEhTTXpmWVNhLU9zQ0pyeVZ4WjBkMldaU09tZDFIMGxkS2s2NVkxbDk2TE0tb19rc0psMUY0ZnBtcjdrak9QUG9xVmlXNE9NU1FhaUdzLUJnTnp2UDJjeWRhTUYtMWxBcVd5WkZhbmFRMkJ4SWFjU1JhSlM4WnRuNjNjUdIBjwJBVV95cUxNWnNRbXotYi1KaW85MFExVVhMaWlmTGZFNW4xV2ZpSDJuODh3Q1pQa0N5bWRjdHc2M3NnajZXQTZncUx5elRZeWo1b2dhdUsybUVlbE9fYklyY3JpNVpvd29IS0tfTlA4SjBWd1UwX0NRSFdkQkJLeERyYldYc3VQSk5ZZnBFM2hGY0h1Y2YxbU5zMFRMbjRHSVQtR3lRRlJSQndaN3JWVDNZVzh5eTB0bUdWOUdHOWVBMnlPejNRWGx1U1RwaHlfMGd2RmVnLXNDLXpmaXkzRTBYX2dmQ1BjUGdoNExPQm1HcmxFTDR1MzBRZXBscENXajJmY3JvWU1nMk5BLUhGN0FWejdkY0k4?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 19:48:46 GMT"
+      "title": "Gold Rate Today in Ludhiana 18th July 2026 : 22 & 24 Carat, Gold Price in Ludhiana - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5iMUdpRU9lWVBRYkVvcVkzRU5RY0hGaEpjWDQ1UUpoaW1KekZPUW1FdTNWLTdSSlZSbDJrMTlzbGVFNXluMVZPRFg5UnM0UFBDZ21mOWlqWVE1WHBfdXNadFQ2TEVNX21hMGUyRVFFM1lpN0hV?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 20:30:36 GMT"
     }
   ],
-  "fetchedAt": 1784318795
+  "fetchedAt": 1784323369
 }
