@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Reliance Retail Q1 revenue rises, but profit falls as e-commerce weighs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-retail-q1-revenue-rises-but-profit-falls-as-e-commerce-weighs/articleshow/132465804.cms",
+      "pubDate": "Fri, 17 Jul 2026 22:16:57 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "JSW Steel\u2019s profit doubles on revenue growth, beats estimates",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jsw-steels-profit-doubles-on-revenue-growth-beats-estimates/articleshow/132465171.cms",
       "pubDate": "Fri, 17 Jul 2026 21:49:03 +0530"
@@ -23,12 +29,6 @@
       "title": "Chipmakers and other high-flying stocks slide as AI trade wobbles",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/chipmakers-and-other-high-flying-stocks-slide-as-ai-trade-wobbles/articleshow/132465089.cms",
       "pubDate": "Fri, 17 Jul 2026 21:31:51 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "RIL Q1 Takeaways: What Mukesh Ambani said on Jio IPO and how Reliance Consumer doubled revenue",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ril-q1-takeaways-what-mukesh-ambani-said-on-jio-ipo-and-how-reliance-consumer-doubled-revenue/articleshow/132464398.cms",
-      "pubDate": "Fri, 17 Jul 2026 20:46:36 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,18 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Kolte-Patil's Q1 sales stay flat at \u20b9617 crore; collections jump 30%, realisations rise",
+      "link": "https://www.cnbctv18.com/business/companies/kolte-patils-q1-sales-stay-flat-at-%25e2%2582%25b9617-crore-collections-jump-30-realisations-rise-19948514.htm",
+      "pubDate": "Fri, 17 Jul 2026 22:50:33 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Why Wall Street could pay $100,000 a month to read Trump's posts a few seconds early",
+      "link": "https://www.cnbctv18.com/market/why-wall-street-could-pay-100000-a-month-to-read-trumps-posts-a-few-seconds-early-19948523.htm",
+      "pubDate": "Fri, 17 Jul 2026 22:43:35 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Power Grid to build transmission system for Rajasthan power station",
       "link": "https://www.cnbctv18.com/market/power-grid-to-build-transmission-system-for-rajasthan-power-station-19948489.htm",
       "pubDate": "Fri, 17 Jul 2026 21:54:51 +0530"
@@ -79,47 +91,35 @@
       "pubDate": "Fri, 17 Jul 2026 20:26:10 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Apple surpasses Nvidia to become world's most valuable company",
-      "link": "https://www.cnbctv18.com/technology/apple-unseats-nvidia-to-become-worlds-most-valuable-company-as-ai-bets-shift-19948458.htm",
-      "pubDate": "Fri, 17 Jul 2026 20:36:01 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Binance marks nine years: 323 million users, $156 trillion traded, vision beyond crypto",
-      "link": "https://www.cnbctv18.com/market/binance-marks-nine-years-323-million-users-156-trillion-traded-vision-beyond-crypto-19948444.htm",
-      "pubDate": "Fri, 17 Jul 2026 20:09:49 +0530"
+      "src": "Google India News",
+      "title": "ONGC Stock Stands Out As Oil Price Risks Hit Indian Energy Shares - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSlp5M2pjeWlhd1B6Ry1VSFJfVHppbndTRFd1cFdEaTdnVFhBcDJ0T2xQa3loMllzR2p0SHJfZGctNFhuVmFleG9FRDBLRW1ILW90eTl6VFBxSXZib0JsLTdudEdGVG5nTFlOal85N1psTmlraURsaVpnNXFiSnpBUUxOWFRKLU8xSjFiajFVRFRkOTFHS05WUzdDYkFMZy1jWWVmU0VHZ0w3SnNZUFFJMWRmRlFkeWoxUjZIWVQxN2c4eHFPVG9ZMFVfaTU2YmNxSVd1YXVoVEhnS3BBZ1HSAeMBQVVfeXFMUFZuazhSQkRkM2JtR3pPZXdOV3c1eW9oMmhQZ2tZTS12azJqM3pNcDYtOThPZ0ZDZWlZMWVKT3hWNEtIUkIzcnAtWmNvMlZnUUZ6RVQxS0VLTHpVaTF6R3hUTUtEVHk4NUJpUEJHb3RxcjBPR0hsZXV0V3hrZHNNSVpJZ050NnNSMDh0UlB6b1oxcUdONzlpNUk2VXJrSnB1cFhERUdpbjhpWk54eTh5MU81V2ZHT3VHSzhac0wxZzVHb3VRZUEtX2dpazF0UXhINXhadjByYjhUelBtUlVOTnV5RVU?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 17:31:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Which states are the most investor friendly? Gujarat tops Niti Aayog index; Maharashtra & Tamil Nadu rank - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONi1zSmkzUkFacDg3d042MktjMUxibzg1b0ppQ19sbHJPZm83R1lWMDFscEhYRkhuaDM4TlFLdDJROEdReExuSlN6LUVZOUZNZ2w5WlpEZlhhRGFmSFU0LVI2Ml9SMVItYkRpSEg4VGFPZzVmMGxWRnVCT1dsRE1WNU5HRXhNckJzMmtRTUl3OWVNMWdRYXZENmdud2otRmRVRlBSZXpRTGNHMDFQNGhETWdQTjBBZG5HQnBQVDdjd0N4eERmbElvbFh1d29ubWc2M05LOWdCV0FsUEVpTnJ1M3FsbG9SeUg4RVNwamJWTG52RWlBa2xXaFJEeWxpQS0wWnFlQTlvVUR0YjJLWGxKQU9hRGQtRlAwcXNOc9IBogJBVV95cUxNRDBYaWowQ3AwTDNTdkY5eUFRT0RONVlvZGg4SUprTXJiSGo5aFIwSTRMZ2w2d0NianEybXhMYmJmak1WbGxlSzVDQjYxSTRCODUzU002V05BTjVqTGU0WUZuLVpldE95akRlbWk2X1E4bFpsdjgtOXBYNXV0c2ZKWGtGYTllSU0zTExTTUd2SlpoaXNEbkpfV0FqVWo1SUJ3Z3lHTnZSWmhBbVhsbjJlcHRjM0wyU25PcFJ5bUpOTkFXcjZHSWtQR3ZPVUR4RnkwZHRyV2hGYXpFWW5ocnlBeFI0bEptX3J4WFVrUklOU1RzWmUyekk3N25fNTFncUFEemVzT1hTYS0zckgzbDZtT3dQM1F2RnlLcHRuQWZtUVBfZw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 16:00:00 GMT"
+      "title": "GIC of India accepts V. Balkrishna's retirement effective July 17 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZnhjRGtFWWQ1bXN0X2pFZV9tbU9JUGdQRFh0SDRqQWpRNmc0VU0wX1ZzRm5lOUZIOENfSFdFR050WmFJSkRQemx1b0sxN3AtekdVQ0FaaXNKZ2E4UXFOaEVDSEh3enFjd1RJa1pFQ05rR08tOWc1SU1ZOFlpcHBIQ1YyTy1NdVlMNTNnNXphQXVVLVFGcUVrYzJDQmpqSlhTMno1VERTR3B5eVh4WjRPRktib1pwY0RjYVE4ZHp3?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 16:54:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "MakeMyTrip India files DRHP for India IPO through confidential route - Lapaas Voice",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY2swVWl4UDd0dlFMeC1vMG90Q19sT3dRaThpLXVsZkV3MUNuM1Bsd0pXd0puQjdUUkszYm1Xb3JJWTZvMkxLV1R4aXdHV1M5b0xFLXVUSjdKNWJSd3ZSNDF4bTJnWEhWbjV1TmZvT0toeGhuSDQwVjYxN0piLU1zQWQxTXNGLTRGdXVQNldxeUpZeWRPeHBoUzZ3?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 15:51:48 GMT"
+      "title": "Sanjeev Sharma and Shubham Mukherjee - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3BfNDRwVXZwbE1FMnZEUzQ2ZG14UkFaWVdVY0kwY1JSNF9WYzBwZHhkUWhzSDdncjU0VW1zRjJraUI1UEJ5aW1SbFFPU3Fsdkl4ai1nVzl5UDY0bFNIOVhveGI4cG1FWnU3bDdJUWhVRUJWZlQ4MW9VNmpMUU9zNUVnd3F6VlJsUThIZ1V3a00wWHQ4RkdSaE9wRFJKaFItTnBVYXN3V0tYay15UmFR?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 16:54:24 GMT"
     },
     {
       "src": "Google India News",
-      "title": "PM Modi Inaugurates \u20b95,470 Crore Rail & Road Projects in Jalandhar, Punjab - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbUpsUFR3NWVGN1ZFd3cwYXREVHZxODFxQzh2SFFHZmZmSkg3VjdRNXZQVS1pZHJoNVEyOHl4Q2t4eHlPOEVVb0dHMW1kSUxHMkNSREMzeWxEdXM2M0NQWllzbHE3Y19XODhQRjBZeUNFdm1IS1puQXd1cFRDR2Y3NTl3QU5wYl8tdHBxaVprS25QbkFsakF1VGxMcVlDdmZEN0twOHdUMXNZVk93aHlXaVVOMjVFQy1WbEdlM2ZpYk1BcEtpYWtONlcwMHZCZk4zaUpIQWFPVWViS2duTWJF0gHkAUFVX3lxTE5XQU9lek9DbWJFS2xPSzdvZmtEeWNjanhwMTh0SWxlMG9EMklKWlNHRHFzQ3c4ME1CLXRFanNKS19LZWNGWTZSSGZpRUpsaEJSLUpNbDJkaEF4RWRHVk91a1dQRmhIQnJrSEs4VHVvVDJsTS11T2E2ajh6dFQ4elpWbVRmYVpVNE5WbllRaGNOYWFsYjdQQkJsdW11MVV0MGU3aEtvZzAtZlNENDZPNUdaVHVlWEhQLVNUNHNod05Ga2FPOFFXSHBJc1hhdXhGZzZta2Ruc2RpeUZ6YjZNaU1sajRSUg?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 15:47:52 GMT"
+      "title": "Alphabet stocks falls 2%: why is Wall Street still bullish on the stock - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYnQ2ZnVlc1pKcW5nNUpHN1o4U2tBd2lJRklyaHJtQ1BFZjR5TVBlTV9wWFJ3bWhkRmNYTFNZMU15LTc5SWhZSGFaX21iN2F4RmVJV2dNc19FYTBvUGhCWU4yWUxWRDN1bHhuN2F4MTQ5MUJyU09MaXNFVm9kU2wwTlZxSnh5XzRfalR1S280ZnFZdnZUNGhfaDdPSDlQdVFPQ2xSTmtBNktNNGc1WGFBNXJEcFgyQQ?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 17:23:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "14,000 feet up: Deep well drilling completed for India's first geothermal plant in Puga Valley - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOQld1UVRIcFhoTFZacXNQRXBxdTZUVE54ci1Nby1jcVFlY28zVUcwdkhJZkxnaXo3YTN1bTI0UmI5cTlEejNoNjhWc1pRRzJXTW1ZVWxVa2hrNFZWeEVDS3BEbzNrbGNkeGhMUEFUWF95ckZNeW5jcVV6ZnFwNGxfbHZlT2NfVktfTHk2b1dzWnd2X2Q5cTYyN0RoRk11d25QWVliVjNPd2s5eXV3SGJTYzNaT3BzV1N4blQ2LURPUTBwaDFIbFZnbXNBS1pLNmdmLVhmRGdVR3c2T1VaZXhtOEkyUzlTTGVjdUxEbWdTZ0Z1WHNqdXpkOGYxNi1sZ9IB_gFBVV95cUxOQld1UVRIcFhoTFZacXNQRXBxdTZUVE54ci1Nby1jcVFlY28zVUcwdkhJZkxnaXo3YTN1bTI0UmI5cTlEejNoNjhWc1pRRzJXTW1ZVWxVa2hrNFZWeEVDS3BEbzNrbGNkeGhMUEFUWF95ckZNeW5jcVV6ZnFwNGxfbHZlT2NfVktfTHk2b1dzWnd2X2Q5cTYyN0RoRk11d25QWVliVjNPd2s5eXV3SGJTYzNaT3BzV1N4blQ2LURPUTBwaDFIbFZnbXNBS1pLNmdmLVhmRGdVR3c2T1VaZXhtOEkyUzlTTGVjdUxEbWdTZ0Z1WHNqdXpkOGYxNi1sZw?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 16:32:00 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Belding board approves proposal for direct listing on NSE Main Board - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMjJjN0N5LVdHRUhDSnhDSXFYSmw3UFZjTUlqeWlhLW1RSjRwVms3T3NWaHRQUHVJMU9XVVM1RUp1QUcwcERUZDIzeTVRS3ZQQklDRDZSZFdrMWxOM2lqZnp5dldrRWpLcW1Pekw0dGo1QzBaT2c5WkRXRmRPSFgzcjZ5cXFjZ2M5YmJQY21qS1RrOVBmZlllTEdyVEtzc0VQajk0aV9uak51cjhyWm5TUFNaa25FdkJIdWhv?oc=5",
-      "pubDate": "Fri, 17 Jul 2026 16:32:43 GMT"
+      "title": "India Cements files BRSR for FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORjdqVWxJdUZjMEl4R0VzX2lpY214T0Q1UmxwVko5cUJ5SFZneUtMRVBSS1VQM1ZnNkhBQTJOeEFfM2JNMnpJczVPVkxSeFNMMWxMVDRfbHNfZVliRmVXcnh2RnVRa1RHc3J2TkNiYjNuaW1BemIxVTlUZmdZMlBNUkFmYjVzdG5QN1l0VmFRSGs2X3Ft?oc=5",
+      "pubDate": "Fri, 17 Jul 2026 16:50:30 GMT"
     }
   ],
-  "fetchedAt": 1784306733
+  "fetchedAt": 1784310576
 }
