@@ -2,33 +2,57 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "The New Oil? Why the World Is Chasing Copper",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/the-new-oil-why-the-world-is-chasing-copper/articleshow/132474599.cms",
-      "pubDate": "Sat, 18 Jul 2026 11:16:40 +0530"
+      "title": "Yes Bank Q1 Results: Net profit surges 34% YoY to Rs 1,071 crore; NII advances 18%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/yes-bank-q1-results-net-profit-surges-34-yoy-to-rs-1071-crore-nii-advances-18/articleshow/132476478.cms",
+      "pubDate": "Sat, 18 Jul 2026 13:56:44 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Concurrent Gainers: 13 smallcap stocks that gain for 5 days in a row",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/concurrent-gainers-13-smallcap-stocks-that-gain-for-5-days-in-a-row/slideshow/132474636.cms",
-      "pubDate": "Sat, 18 Jul 2026 10:53:42 +0530"
+      "title": "PNB Q1 Results: Net profit surges 214% YoY to Rs 5,253 crore; NII up 2%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/pnb-q1-results-net-profit-surges-214-yoy-to-rs-5253-crore-nii-up-2/articleshow/132475639.cms",
+      "pubDate": "Sat, 18 Jul 2026 13:41:36 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Agentic AI, alternative data and SIFs take centre stage at Indian Institutional Quant Conference 2026",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/agentic-ai-alternative-data-and-sifs-take-centre-stage-at-indian-institutional-quant-conference-2026/articleshow/132474311.cms",
-      "pubDate": "Sat, 18 Jul 2026 10:50:36 +0530"
+      "title": "FIIs, retail raise stakes in Q1; 12 stocks rally up to 135%, 5 turn multibaggers",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-retail-raise-stakes-in-q1-12-stocks-rally-up-to-135-5-turn-multibaggers/slideshow/132476369.cms",
+      "pubDate": "Sat, 18 Jul 2026 13:34:47 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Xtranet Technologies announces IPO dates for launch next week. Check details",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/xtranet-technologies-announces-ipo-dates-for-launch-next-week-check-details/articleshow/132474277.cms",
-      "pubDate": "Sat, 18 Jul 2026 10:44:57 +0530"
+      "title": "Kotak Mahindra Bank Q1 Results: Net profit climbs 26% YoY to Rs 4,123 crore; NII rises 9%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kotak-mahindra-bank-q1-results-net-profit-climbs-26-yoy-to-rs-4123-crore-nii-rises-9/articleshow/132475694.cms",
+      "pubDate": "Sat, 18 Jul 2026 13:01:17 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Longer-dated yields lower after data, on track for weekly decline",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/longer-dated-yields-lower-after-data-on-track-for-weekly-decline/articleshow/132474217.cms",
-      "pubDate": "Sat, 18 Jul 2026 10:38:13 +0530"
+      "title": "Axis Bank Q1 Results: Net profit jumps 23% YoY to Rs 7,114 crore; NII up 8%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/axis-bank-q1-results-net-profit-rises-23-yoy-to-rs-7114-crore-nii-up-8/articleshow/132474844.cms",
+      "pubDate": "Sat, 18 Jul 2026 11:50:18 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Yes Bank Q1 results 2026: Net profit jumps 33.7% YoY, operating profit up 25.5%",
+      "link": "https://www.livemint.com/market/stock-market-news/yes-bank-q1-results-2026-net-profit-jumps-33-7-yoy-operating-profit-up-255-11784360724934.html",
+      "pubDate": "Sat, 18 Jul 2026 14:01:55 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Kotak Mahindra Bank Q1 Results 2026: Net profit rises 22.5% to  \u20b95,480 crore",
+      "link": "https://www.livemint.com/market/stock-market-news/kotak-mahindra-bank-q1-results-2026-net-profit-rises-over-22-to-rs-5-480-crore-check-nii-asset-quality-11784359648709.html",
+      "pubDate": "Sat, 18 Jul 2026 13:01:59 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Axis Bank Q1 Results 2026: Net profit jumps 23% YoY to  \u20b97,114 crore; NII rises 8%",
+      "link": "https://www.livemint.com/market/stock-market-news/axis-bank-q1-results-2026-net-profit-jumps-23-yoy-to-rs-7-114-crore-nii-rises-8-11784357377152.html",
+      "pubDate": "Sat, 18 Jul 2026 12:22:28 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "MakeMyTrip IPO soon! Online travel giant files confidential DRHP with SEBI, 15 years after Nasdaq listing",
+      "link": "https://www.livemint.com/market/ipo/makemytrip-ipo-soon-online-travel-giant-files-confidential-drhp-with-sebi-15-years-after-nasdaq-listing-11784349545911.html",
+      "pubDate": "Sat, 18 Jul 2026 11:50:59 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -37,89 +61,35 @@
       "pubDate": "Sat, 18 Jul 2026 10:44:49 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Stocks to buy under  \u20b9200: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-suzlon-idbi-bank-zee-11784344285100.html",
-      "pubDate": "Sat, 18 Jul 2026 09:44:07 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Axis Bank Q1 preview: Profit, NII to stay healthy; NIM likely to shrink due to deposit repricing, competitive funding",
-      "link": "https://www.livemint.com/market/stock-market-news/axis-bank-q1-preview-profit-nii-to-stay-healthy-nim-likely-to-shrink-due-to-deposit-repricing-competitive-funding-11784288726370.html",
-      "pubDate": "Sat, 18 Jul 2026 08:59:33 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "ICICI Bank Q1 results preview: Net profit seen up 3.1% YoY to  \u20b913,164 crore; NIMs, asset quality may remain stable",
-      "link": "https://www.livemint.com/market/stock-market-news/icici-bank-q1-results-preview-net-profit-seen-up-3-1-yoy-to-rs-13-164-crore-nims-asset-quality-may-remain-stable-11784280397246.html",
-      "pubDate": "Sat, 18 Jul 2026 08:58:57 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "HDFC Bank Q1 results preview: Net profit likely to rise 6% YoY on strong loan growth, NIMs to remain flat",
-      "link": "https://www.livemint.com/market/stock-market-news/hdfc-bank-q1-results-preview-net-profit-likely-to-rise-6-yoy-on-strong-loan-growth-nims-to-remain-flat-11784280966594.html",
-      "pubDate": "Sat, 18 Jul 2026 08:58:47 +0530"
+      "src": "CNBC TV18",
+      "title": "Yes Bank Q1 Results: Provisions more than double sequentially; Slippages improve",
+      "link": "https://www.cnbctv18.com/market/yes-bank-q1-results-provisions-double-qoq-gross-net-npa-nii-slippages-margins-share-price-19948628.htm",
+      "pubDate": "Sat, 18 Jul 2026 14:06:11 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Axis Bank Q1 Results: Lower provisions aid profitability but asset quality sees some pressure",
+      "title": "Kotak Mahindra Bank Q1 Results: Slippages see minor increase, Margin compression in-line",
+      "link": "https://www.cnbctv18.com/market/kotak-mahindra-bank-q1-results-other-income-profit-asset-quality-provisions-nims-share-price-outlook-19948655.htm",
+      "pubDate": "Sat, 18 Jul 2026 13:22:32 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "PNB Q1 Results: Lower taxes aid profitability, margins compress but slippages fall",
+      "link": "https://www.cnbctv18.com/market/pnb-q1-results-provisions-rise-lower-taxes-aid-profit-gross-net-npa-share-price-19948653.htm",
+      "pubDate": "Sat, 18 Jul 2026 13:19:26 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Axis Bank Q1 Results: Core income sees marginal miss; Slippages rise sequentially",
       "link": "https://www.cnbctv18.com/market/axis-bank-q1-results-nii-profit-asset-quality-gross-net-npa-slippages-provisions-share-price-19948611.htm",
-      "pubDate": "Sat, 18 Jul 2026 11:33:13 +0530"
+      "pubDate": "Sat, 18 Jul 2026 12:02:33 +0530"
     },
     {
       "src": "CNBC TV18",
       "title": "Explained - The significance of Reliance Industries' \u20b93 lakh crore revenue in Q1",
       "link": "https://www.cnbctv18.com/market/reliance-industries-share-price-3-lakh-crore-revenue-in-q1-higher-than-annual-topline-of-most-cos-19948583.htm",
       "pubDate": "Sat, 18 Jul 2026 10:43:57 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Q1 Banking Results LIVE Updates: Axis Bank's core income rises 8%, provisions fall",
-      "link": "https://www.cnbctv18.com/market/q1-banking-results-live-updates-hdfc-icici-axis-kotak-yes-punjab-sind-bank-share-price-outlook-liveblog-19948575.htm",
-      "pubDate": "Sat, 18 Jul 2026 11:36:41 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Explained - What sent the US chip index into a 'bear market' on Friday",
-      "link": "https://www.cnbctv18.com/market/us-chip-stocks-semiconductor-index-bear-market-dow-jones-snp-nasdaq-100-kimi-k3-trigger-19948567.htm",
-      "pubDate": "Sat, 18 Jul 2026 09:03:51 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Zepto IPO: Norges, Motilal Oswal among investors eyeing 40-45% of anchor book",
-      "link": "https://www.cnbctv18.com/market/zepto-ipo-norges-motilal-oswal-anchor-book-investors-valuation-19948543.htm",
-      "pubDate": "Fri, 17 Jul 2026 23:27:37 +0530"
-    },
-    {
-      "src": "Google India News",
-      "title": "Aptus Value Housing Finance India - Concurrent Gainers: 13 smallcap stocks that gain for 5 days in a row - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMDRGa2hBSXI3cHdLdU95eUpIcVY2REN4c3c1NnNtQlh0WlMzd0taR2ZuREQ2NVlZVmxHV0xiVDlPbEY5a3dza1BYNXVSNEFNUTd4d2JrNDlKVWJ4eDRISmE1SEpZTlRqT1hjeDBCcUdSSmhkOVVVU0hZMlIwS0dZbmVwekJCanpnWXhBd0t5c1NSU1BSc0tZbWVEbkdBVnpsa01OdG9IMWpPQ0JXYjM3YV96MUxlNTBEV2F3dlAyOVFZSzAyYk9EZ21VdDJway00SW8wOWlFQ1loZFFHcDVQWTd3?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 05:35:27 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday - 20 July 2026 - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTGc4ZHRneGU1WWswWl90YjV1QUZIVnBobjB0eUhMaFlqc1Z6SnNjU21qbWgyYUJ1QU54S0FYSEt2eXFWclhBMnFqRjg1X0FmRWJOU21qVjJqY1NFNTQzaEI2YUQ5QUtmSDd0dkNpSWlLRFJpN3h6MHNHdHRNTXI1bFdybFJGbkFDa2pYc3BPek0xRThrWWxEamt0NUtjSU9pejZheDhTRXM2cV9VeTFrRlRnVHFpdzlNdUVGVVpGTW1kN0pTeXpSV25QeEd5YmlDZFQ4WXh5dUZyakNHajl2SjJ3aGdmajEyYl9abm9GTEF2cmNTV1dsOEV5bm5wRmlXUWfSAYcCQVVfeXFMT01yQ2hEZTJobGc4cC1lckpFNUJzOV81UnVqZHBjVnZGN2xQQ2V3YlQtZnJudWZ3N2s3ampOSnVpVW1zM05WclotR2tHeS1jQ2tvajRFeExsVlJubzlCQ3Nwb3JWOUQ3NlJMd0Vrc0F3Tk5BWHlYajNEY05hX0d2dzJGR18xQXBDaGtFRHlVTGF3QU15bmVMVWFfVlFOOHJfVUhhbmw1cG5zUnBnYkZkSVlGamtoLVl1Q0ROZGtxd1FWdzRDS0J2M2JpNXZ6blJWZjF5QXZBdGpkNW5RNURNSmF4WmJXckpEbFZGNU0wMkFBRUxsUHdmRXlUdTdWUFBsSEVPbHE2ZWc?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 05:14:49 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "ITI Ultra Short Term Fund Regular-IDCW Weekly (\u20b9 1,001.84) - NAV, Reviews & asset allocation - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVmxuRURWZU42aXRIWUYtLVU4ZGVlOVV4RFRYZHh4WWNKNEJyYmF2TTJldjFEVXFUMXFFaWhjVUdrYWhGQVNQUnBrbUJad2EzNXJHS2tfZWNyaWVhNXFsaFJ4VEtHdmVRT0d2VVJkYWF1X3NtWkNOVTFUX0xqdXBUS2lMNjg0VnYzTHpmRl83WTZfSVFLSndWT0VTdGpUZw?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 05:25:14 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Stock Market Closing: Rs 12 Lakh Cr MCap Wiped Out! Sensex Crashes 1500 Pts, Nifty Ends Below 23,400 - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNblZIc2dnQ0hvbmJyMmNpWmZTenRQdmsyc0tnRS1COVMyYWdqN2pjSGJNSzlSYTJlNDJnR21rVmVKRWVQR1gxLV84Tm1YWE5HYkk2Zk9xOWNGT0FTVDQ4WjRFbGtkRldvS1JTZ0dvcGdYR0l2VHVlTm9EMlBFckxLd0NCeTEwN2haU1NBOWwwb2gtSlNyNTkwb0dycmthZndJMmZRLUVLckdaTkdTVTI3UFoyRUJxMlBhQ3pvSHBhVFNhWUk?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 05:13:44 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "SBI Funds Management IPO GMP surges to 16% ahead of market debut - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVi1wdy1vUno2SHBZTjUxcjFTdFl0bjVPdmN0ZnB5TTFJZDVqYlBsRkd3bUFEX2xacHNVNDVLWEZEOWxfR0kzYlZqMEdhSmVCYWFNVlJpSmdzU2I0NEUxVUVoNFRZVXRKRERsRWxTdFoydTUzUExtQ1c0U2VtTnlMaXl3VDd0WUFuNXdIRExSTGtkcmx4RjlxaHhuMWhBQmVFMF9PRjk3YVpZVmR4blltc9IBvgFBVV95cUxQN2t5Wk93U3pwY0Y1cW81S1ctRkFEX0Yyc1AwZmJkYmlDekZab2R5MG0xbWpLQ241MEJtdHVlQW1xcnVfTlh2SHJ3dHZna3dIOFNGeGRmakxrRlBNUzFySjlma204Q3M3QXRhRDdFNU1LYjF0OTlQR19aRE5BRlJUVHAxSjByMEhUUTFPNExrVjNncVBCWVJZMlR4dHdqWXVLS0dvbENWOVZJeU1QeWxQQ0RzNS1Za01aTng1RmZn?oc=5",
-      "pubDate": "Sat, 18 Jul 2026 05:17:42 GMT"
     }
   ],
-  "fetchedAt": 1784355199
+  "fetchedAt": 1784364932
 }
