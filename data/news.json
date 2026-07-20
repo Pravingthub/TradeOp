@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: S&amp;P 500 edges down with Iran and earnings season in focus",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-edges-down-with-iran-and-earnings-season-in-focus/articleshow/132523900.cms",
+      "pubDate": "Tue, 21 Jul 2026 01:34:34 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Paytm Q1 Results: Profit soars 79% YoY to Rs 220 crore; board decides not to go with bonus proposal",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/paytm-q1-results-profit-soars-79-yoy-to-rs-220-crore-board-decides-not-to-go-with-bonus-proposal/articleshow/132519429.cms",
       "pubDate": "Mon, 20 Jul 2026 22:36:19 +0530"
@@ -23,12 +29,6 @@
       "title": "NY Fed survey finds highest credit application rate in nearly five years",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-survey-finds-highest-credit-application-rate-in-nearly-five-years/articleshow/132519402.cms",
       "pubDate": "Mon, 20 Jul 2026 21:37:45 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132519322.cms",
-      "pubDate": "Mon, 20 Jul 2026 21:36:42 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Stock Market Outlook Today, July 21: Sensex, Nifty Likely Range-Bound as Crude, Rupee & Q1 Results Trigger - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTRfSm11MEdKU2lLLUpQZi0xRHM2TFZneTg2ZkdfOUFPR3lRWTdFdjg3VjY0ZUxleV9KM1FGczlnUzIwM2hXRVJGZnRmWjJMWGdvd3owN1lRVUpBUkkwMU5sRmFoT0hiZ3Y1T0dyQkhuUHlvNGFHbC1VR28yd2k1bmdBNE5WUDVBTXFBRHQ4Z3dza2VlWkpWVTd2bVJGYlJtTEpiRlFRdDYzNDFuTGJ5RTdqR1FXUzlkSWprVVIycENuRm1sV3hXbTg1ZC1BU19hVWRyYVBB0gHgAUFVX3lxTFBZS24yYTZ3Q0QtZFJBQXlyTjJwTVF3azlINXJuOXVyZXZYMi1WTU1GWUlZcnpfdTVGVnoyYXduVzJLa2ZHVV90Ym1BREIyUG9BMUpvZWRxVmRsblpvaThXejRNcmxuTUFINWZrcDRhcTlZMWFKZEt5UDhON3c1WWwtVGV1QVNpZ3dWdUI2a2RITTRfNnU3S05YLXZjcVNaSUwwRDBGTEs3Rk9uU0FWdFRoRXNmb3dWeVlxUS1LTTNtRlBrZXk4VXRlakVqVzJWQmpvVXVNX0M4amV0RWlnN3pw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 18:30:26 GMT"
+      "title": "Coca-Cola calls in JPMorgan and Citi for stock market flotation of Indian bottling company - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMElZbTQxSFRRR0xaNVdTZXRNM2gtMFR3UFFzNldhSnBfWE4wNEI2RzNfcUJ0VWxaSnNHVm1NamF5VlRzb0Mxa3hVMi1oQ1NVQzFGQ2YxSlZkcENKaGVzTHFtaDhSSEtiLU55YkFMTXhHZF9oYW9QQVRlbXJrYWRQaVA4ZEthdG1OS21MQjZGZndXMFVqMWNKSldxVWFDTVhhWHBta2JUV0lyb0JEUUFsLTRseWJacnpIVDdzTW9oNEVvTGxFbElXVUY4a0I1ZlF4dFE0aF81VGlybHM?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 20:01:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE plans new volatility index with revised methodology; pilot launch soon - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTTBlaHQxdGFuMUlEWkM3Szh3N2U3bS1jVkpsUUJ1cUlReGt2Vl8xcTFfM1VpR3RIV29MTmVNbTFWZDc2b2cwdVRSS2FNUnpGODEyOGFESnZsamJockQ5U0oyYUNlLVprZ3p0QVR1bEZERHAxc2xzY3ctaE1jTmhlM1c3aTZiMG9DOXhKanRtaWZib1RCMG1MRFpaTjZONjVVaHZOY3lLX1JpMFlmN3ZkTkd3cEUwazdWVG1wZG83QlJSQ05NZTlGa3ZKQm5sdEdyY1V1cmdKc9IB3AFBVV95cUxONy0zRl9jalZaelRUVlEwWUUwUlRjbG9VY2dYODRIeHBaZFkxNjZTNDVKNjNQUV91b0sxVU5SWjB0amtIMHl2Z1NuSlFZaEV3WmY5NDRjUjVodnNHclVZbEItR0JIWUEzRm81WmVUMmNOZVpIektjcDRNcWUteHdaSFlTX3hhZlJESjluSy1rektLc2Y5RHVGZ3lwM2E2S05tSXJHaU9yakwwRXpMQ3dpUWh4cHYxY0lKSkwwdzQ0TXkxcWs0NGdlTUktYUctWl9RdjF5dVZlOGRjMGhT?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 18:09:31 GMT"
+      "title": "Shrem InvIT sponsor group holds 74.95% in Q1FY27 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNEhXc3dRYjVHOXlDX0FjdVExSkNUb2Nfb3puZlRiUENCVVNSZTNOYUtMNVpUZkk1UndMU2JmQmpwVGFQTEJNel9xUnRwVzlQVXRyeTBhcFpRY21ERTVnNWMwZ21QWU5MRzAxb2NsQ19hZTE5VzB4QU84dWhJeFFhRnF1WENvTVhlQ3RNX0x6X2p5dU5zVG4wTFBabkZjWGh0Rk1FaXlNVQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 20:10:10 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Cemindia Projects board to meet on July 23 to consider fund raising - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSks0MGRkcWU4ck9LXzczcWhreENXV1RPbDloLWw1bGZzRm9EWXBjN1NrYWl2aGVaTGFpX01OQ284cXRZdEdtMGFIN2VmLW5HdkN4dGRJSmpaVTliaDk4bmtKQjRVMDBlcHBHcVJLS0ozV2RwTXM4MjF6WnAwU1VCOGVfNXVialVEdm1UUTh6QTMySWcza2JLY2xjT3lJeEl5emxCakN4X0E4LTF4cnZ4bVVNTnR2WTNsRVl5WlJGM3ItUQ?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 18:35:18 GMT"
+      "title": "Britannia stock trades steady as biscuits maker builds on FY 2025 earnings growth - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb1RyVDVsMmxuRGxTWHhyTHVZMGx3Tld4d2RuMEtScjcwcWxHNlRodk1kdkFXUl9VTkhOdl9PSUl2ckg4SDhTOWVkcmxVSks4X0hETERTbEdmZW9wN005WkpwUFliUFQwbG5Nc1piR19oWUU0TUpIc2RZSGxTaDRTZnN6dnpLRGlycUs2VHJobElfdjUwZXJ1SGJPLXRIc0dHeko5Y1VoRUNPUHh3MENJQUd3SEQ5b1ZtaGQ0NWRpUVdoRVhIdVdkMDQ5c2VaQQ?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 20:08:57 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Vertis Infrastructure Trust sponsors hold 57.76% in Q1FY27 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRVBPOHhQUk04aWp3cWdHdWxyRVg5TVRrYzJuVWpOb25UVWsyWVpVZVpSazB6Q3dqWFkwcjRpNzBmcTdoUlVOZ05qQ24wcGN5c1VNRzJTay1DanhCaThNcUU1YzgyQ21oNXdhNnVYMjhmb2d5NnplUHZUVG1OYzNHYkcxeF8tdlVRRS1xWW1Gajdad0dJVTZ3YkREeERYZElpdGZTMlFFRXlxdWZSZ0VjT0Vad1A?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 20:10:10 GMT"
     },
     {
       "src": "Google India News",
       "title": "Sensex, Nifty today: GIFT Nifty signals cautious start as crude surges to $90; Asian markets weak - MSN",
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZkRIZUNqZlloeEVTRUtvUkEzM1VjZmFQTTNPbjBjNjlkQV9DOElleS0zMlItcnZVbmxabjVwU1doajUySHU1M1ZYc0w3MzViU2t4RXJWbW9QOXNDSmNqOWtMc20yNHhzbFJIcmRnV3ZzaEQxcWFSRGJSYWx0RnJfQTdDUlVxR0lMLVBjUjl1aEM3cWNvSmdXaGJvcEd1aUUzZGtmMHBXS2RWNVpTZ1JUcXl5SENGUjFRSXhyVlZsU1JWQ3lJSU1DWmswQ2JHd0lHTjdyYzRCRDIyZ2ZMMmNNc1BrS1plSXFfTUdjaUdSTUl2bHR0cjhLMVZweVZWNnk0M1ROcw?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 18:22:30 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Instagram stock trading lessons cost Mira Road man Rs 25 lakh - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSmkxLWlMN1hKdmRPY042Qy1HMENPbmxlT20yMWVsNzJ3V0t1d3pNRVV6eXE4ZGtZZ2hHM0ZRSVpvMmo1V2g2MWtLb01ZLUZ4YU8tWEtrMGV3QXpaeUJ2WFh1MUpocmc2cTI4NkVwT1hoY1dBd3RYRlpJMV9aNHpHUnhkVnRFUVdaOHVLY3JHOVh0N1NiMjcxUXhiVG9fX01jUUxiSG5Jai1ybVd0ZTVFajhGcm1DbEhwX2xfUHdMMGZkRkN5RmxJUy1mOHF3VmN10gHWAUFVX3lxTFBFMHlvSkZfUGZsZWFFZTEwSHpMdzFuMlI0V0RmT01Eak5XYUtZYWsyeHEwR1h3b3lLOEVvU1ZaMGJNUmVJeWlkSVpZcDFNNkpPNE1lX2pzWUhtbGVUdG9WMG5aTHJQOXVEZWdWX19mYVV1YkowQ01VR2JobUFBRW5lZnFuc3NUOERNc2NLVmtSY2dtVWdTSXNjVzRxUVM5Z3BDbHh6YTRWUUQ4VWRjclFfWmhmZG1UNVU5TVdnMWNlaHkyQ3V1RjQ2YzhQUzc1LVZLWERpYUE?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 18:30:00 GMT"
+      "pubDate": "Mon, 20 Jul 2026 19:39:17 GMT"
     }
   ],
-  "fetchedAt": 1784574422
+  "fetchedAt": 1784578940
 }
