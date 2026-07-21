@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "India's private banks draw thinner margins on tepid credit growth",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/private-lenders-like-hdfc-bank-kotak-mahindra-axis-bank-draw-thinner-margins-on-tepid-credit-growth/articleshow/132526092.cms",
+      "pubDate": "Tue, 21 Jul 2026 05:00:00 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks today: S&amp;P 500 edges down with Iran and earnings season in focus",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-edges-down-with-iran-and-earnings-season-in-focus/articleshow/132523900.cms",
       "pubDate": "Tue, 21 Jul 2026 01:34:34 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Mon, 20 Jul 2026 21:41:19 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "NY Fed survey finds highest credit application rate in nearly five years",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-survey-finds-highest-credit-application-rate-in-nearly-five-years/articleshow/132519402.cms",
-      "pubDate": "Mon, 20 Jul 2026 21:37:45 +0530"
+      "src": "LiveMint Markets",
+      "title": "India\u2019s demat boom hits a trading slowdown as retail investors step away",
+      "link": "https://www.livemint.com/market/indias-demat-boom-hits-a-trading-slowdown-as-retail-investors-step-away-11784536641028.html",
+      "pubDate": "Tue, 21 Jul 2026 05:16:05 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,16 @@
       "pubDate": "Mon, 20 Jul 2026 19:34:51 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "US stocks to buy for short term: From Nvidia to Netflix- Appreciate CEO suggests picking these 5 shares",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-to-buy-for-short-term-from-nvidia-to-netflix-appreciate-ceo-suggests-picking-these-5-shares-11784551408198.html",
-      "pubDate": "Mon, 20 Jul 2026 18:46:32 +0530"
+      "src": "CNBC TV18",
+      "title": "Ather Energy completes \u20b91,300 crore fund raise at a premium; ADIA, MFs among allottees",
+      "link": "https://www.cnbctv18.com/market/ather-energy-share-price-1300-crore-qip-closes-mfs-adia-issued-shares-ytd-gains-market-cap-19950042.htm",
+      "pubDate": "Tue, 21 Jul 2026 04:51:49 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Dow Jones falls nearly 600 points from highs on Monday courtesy two potential factors",
+      "link": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-fall-monday-high-oil-prices-iran-war-canada-tariffs-results-yields-usd-19950040.htm",
+      "pubDate": "Tue, 21 Jul 2026 04:30:17 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -79,47 +91,35 @@
       "pubDate": "Mon, 20 Jul 2026 21:42:18 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "HDFC Bank ADRs fall over 9% after Q1 margin disappointment",
-      "link": "https://www.cnbctv18.com/market/hdfc-bank-adrs-fall-over-9-pc-after-q1-margin-disappointment-19949955.htm",
-      "pubDate": "Mon, 20 Jul 2026 21:31:47 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the July 21 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-21-trading-session-19949924.htm",
-      "pubDate": "Mon, 20 Jul 2026 20:47:00 +0530"
+      "src": "Google India News",
+      "title": "India\u2019s demat boom hits a trading slowdown as retail investors step away - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcU93RFZxOEphdlRlSW9nVklMZ0tZZjhTMG1Rc3VmRlE1b0FoY21JRndhRkEySVduVUx2WmN6WXhORzBKaExPUlEtU2hvdm5TeFplbXFjZjNFM0dwY1F3NTRPVmtrc2RNcXdwc0NrMUMxWi1nWExBX0FFVVpUVzNvelUxT2dTVXpZQVJ4QmRseGgtSXhkY1lDektXMF9BbE95V1R3a2V0dzNydjhwbDhfaS1Qel9NcEwtbXpiem1JZ0fSAcYBQVVfeXFMTXFvTm1XX2Nremk0UnJPVHN1M2hXRXNlaGtUb0VGWnNuSEV1MVE5XzJ3RkFTbTc3RGFTYUtiZ0FQZzVwa3N0OGdkc0kzYzZUaENsSVJoQzJkbVRiX1UyckpyYTFLZjZnMUxkWHRfczYxWGdDSHJmQWZFMERpLVdkZlBpa2NBTll0WVZ0eVJzNE9POVl3Ukx4aW9makl6QVBFS2hYZ0ZDT2poT1dGTjg4d3AtblNVZEpadEluQmFuQlZTS1hWWFFn?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 23:46:05 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE\u2019s Ahimsa index targets cruelty-free investing - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQkZ6UmFNY3U0NzJ4c1hyM0hhZzg1VGlzUjdicFdiUjdaU3lLSHBlQm1LUmZXWUhCbTZWYVJZZDE2ekp3Qm9QbGFNUk9WbjhnRDQ3bDRwVkRBczFYeTlPMXVUSF80VDVvdEF5YmFSNFljbnBjdHpEakVMLUNYRHJyTk5HdGdjcTZKTWJSUVBkNHVMNEZWaURndnh2YjJTaW5lemhfdlhyVUVwRHBmYWp6Q1N6SU92WVowSUl2SHgtb1gxWEp4QVdBSmZGQnZsTkHSAdQBQVVfeXFMUGt4NXlkdUVJLUUxQm1pUG81WXFDdVRpdXVpNVQ3WGV1WlJ0dUN5NUFrcGQtV2dOZjlaLTdDbVBSVEQ4MFNURUZFQlFJWFpzQzJSekdtbWhValdBNjFBc044MTZnNDA0ZFAwbzVaZUNWSkwyRUo5NEJEX3BrdWlwb3lOeGhoNkM3WDFOVjNhU3lQQjFhdjU5YVd4YlN5cE1TbEd0S3czY1hXTkFyUUFrRTdiNFA5X21HVFhTeWxqU0NwalNhUWlHQ0dydHc3akFVVlFjV1E?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 22:45:00 GMT"
+      "title": "Stock Radar: Divi\u2019s Laboratories stock hits fresh record high in July 2026; time to book profits or buy th - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQUm84ZDdtbHk0M3pncXA1cERuR2hEa2pvdWctUUZDY0pBUVNGMG5oR256Xy02aTF1M09xeFBFbkd2OU5oOUl6enh5TzJZR1VBUDZjbGRQb2tOSHdCVmRJZUQ4MDlVNlNGNTRMb1FDRWx2ZVFwaU5JNFZ3U2czX2VlaGYyMlhUUVNKSFdCZ3pHTkZtOXRrdGc3emdDZGxoTzFGOWotQjV1OVc1QWlLRG5VTGZyalBNeVJYNkJITmh0ZnRDQkVVcWxzREhyTmlaWUlHVGpiNXB3U0duUG5nVlhaTEh2UHg5bWtCaUJtMTJLdVhFRk5MZlZ4WHZycmZzQmRkVk5rSHV1RTJuYlNGbVRr0gGUAkFVX3lxTE10dEk1dlIyazdJUW5OVkR4dmthUklOaDhZZURNaWZrUElXX3BMZGJZNzFRQ1lralRmd3RpN0ptTDNzQ3BDLUd2RnV0SlBSZ29mQlplNHhzLUhubUVRMlUweDFpb3QyLVZvMEJDMFB3bUJNVDQ0ZFp3WjJ6aDJOdm5JYkVIRnlyQmhFMDhUM3UyYlZwMDNGbVV6VmF4S3kzU3FJZERUWTU5VjNkaTVHYURHVW5CRlhHT0ZkTXJabnlJOHQ5WTFVZEktVzBRdmxoY3VYbl9CWXZia2Nkd1RoblJPaTFodVhJaFd2d2hXcmtLTUdpaXJ3bEtnYm9LQVhQejkxZ0dMT0JPS25MeFNYaTVRbDBXcw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 23:30:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3 Indian Industrial Stocks Trading Below Fair Value on Cash Flow - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQX3pnenQ3RWhiYXgwZ2JRSGdNd1FIQTNZZXAxVTMySlBuYnF2U0o2a0Y5OEdjUGpOWnlLUm9ZTUlWNkg5clY0UWR4M2l4MTZZaU5ZRWFtZHBlSERLV0ZES0Q0WmdjSWsxSEt5QVZIbENMMU5yYUE4UHUyd0wyZ0UtUHZseEV5MzZ6UFQtWmV1UDlWV2dYS3B5ZHVjaU5uZXlHT2xTWTMwTWlKQjJUMEtWaDg4YkNsN3h6b2FUbnpDcFVUa1NPZjJ2TjdlRWZveTRpampmaUFDQ04yMXVS0gHiAUFVX3lxTE0wenB4VnJoWHpkQnNsd05Ub2hrMmgxcTJhOEJwLS1xMlRJdExXWlFtc3l4bllBQjQ1Y0VuOFN4UXhWQndTb0xaYkdLb0ZQRWlnQXZCdVVZUFlCVW1icDJDUUpYbVdTN0NkTG5SSHlCZTdPZlNSSGxVUENzZXN0Wkp4S1JCWWNWUVp2OTR0V2k0bzFmMTZ5R3J2MTRmc3JrcEVwbUhhODh3NUJialFuTzZtS3hEV2hUc2xLNUh1cnBlY1ZSQlczMER0SzhfbElQTmJFa2V2TTdUYVZRRTRUNVNDdXc?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 22:31:44 GMT"
+      "title": "Bihar plans tough anti-gambling law with jail, fines for online betting - India Today",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbDk2cGFsVzFWbEt1UV9hYkg0T0doRlRiaXB6WUJjTGpyN014VnhzYnZEYXJMeXRMSTlqS1loc2ZCRUlMa3BmQWVfcFczclFMbFlmbGpiQWJUN01qS1V2b3ZYdkZYV0d0d0k5S2ktSEJ0UEVic2RULWstM1NJM1ZRbUV5UF9yUTBId1pFOW1jX3AtNnRqV0Z2UnQwLWUxSzAtaW5fdkYyZ1ZjMVppMHpVbS1LbVdpVkxkelFtVHNnVDczZ9IBwgFBVV95cUxQbDk2cGFsVzFWbEt1UV9hYkg0T0doRlRiaXB6WUJjTGpyN014VnhzYnZEYXJMeXRMSTlqS1loc2ZCRUlMa3BmQWVfcFczclFMbFlmbGpiQWJUN01qS1V2b3ZYdkZYV0d0d0k5S2ktSEJ0UEVic2RULWstM1NJM1ZRbUV5UF9yUTBId1pFOW1jX3AtNnRqV0Z2UnQwLWUxSzAtaW5fdkYyZ1ZjMVppMHpVbS1LbVdpVkxkelFtVHNnVDczZw?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 00:03:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Global markets mixed in 2026, Japan's Nikkei le... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KRnhXbVBfQjNCWTR1YVRTMm1EN2hFZjZ2TlFlRW1tYlhPclhJckpLZWlfcjB0V3B0dFIxV3NOWU5qRnNVN21VOW9YWHFaMDZCckMyRUpLLXp0Z19uZkZmSldtN2Z6cFduZll2dzhsX01BOFU?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 22:46:18 GMT"
+      "title": "Qcomm leverages cart clout to draw higher margins from cos - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNc2JRdlE0eWhkVXRRRHRtdWU0Yjc1eEZQVy1OaWtVWFVfTGRWdExscWVTY2JjNVBCT2c0LW5RSFFPblFwbUQ5RFAzZUZlWHV2UWtyd3kzQ2l2Q2hDdXB4cGJYWGRtejV5ejVEMnlzNlhRV1F4TElSUjU5WlpiLUxjWlVMQTlIZTRuLUFlN29oWk4wU0NsQmM2cVJpMlNfaTNNRjRQdXVYbndnYkhNNkFkLUF4eTQwLTdRLXRkcFNDcXRvbkJvUkNVMjJFVlZzV3hsOXhhLXRZNWZETG5vZ1JCS21TRkdSZFV2S2NEcFNfaElvM1NuQktDLU82dmFpTjRBMk9WLTQzUmNyTTlMRC1uYWVCdXV6V3dQeGluZFhsZEE0eEFTUUlRclBET0tkamdpa1B5eFJpS09pbmdZ?oc=5",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\u2018I love you like a taco, don\u2019t be a buster\u2019: Sen Kennedy\u2019s witty remarks leave Fed Chair in stitches - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOb3RkMTMxLU80NVk5SnlHTmdPSktDN09SbE0xUnBHdF8zd2RlNXU1R3gxR1ZqYjR0dXNNQkpsSk5WT21IUVJ6dEpmOG9tUklXOHpyWEcyWTIyV09VVFFQVWl4dWV4XzA3N25ET25idHZqZWV0MHVnM1hsbnVlcGNObWxiWTRvNTgtYWwzcVg3MW9LWVJIaXNNRjlOamF0eGxod1V2Z3VEcXNydEtyNk1EdUFiRTJXb05INFJEZ29BVkVVR0tEWHIxNm96eHRnV193SC1EcVRLNE02b1VjZE5SQTlZMFctZTZRSVRuZHhBdXlhdW5XQmh0c3hqUG5BdDB0SzNLbG11SdIBjAJBVV95cUxQc3NLc25vSGsxWU9vMGhqQVlKc1k3bGlCY01BZm9lWlV3aDRpd25XUVlOTXFaSHZFNHpNcGUwdVBvLTlkZWZqTGRUcFkyTlBKUWJEMkE1eTBod29TSjNGbzRHZHhKZmNfaXV5aGNKV1pSLUhMYWVLc0ttWFpmc3BKMlNNQS1XTElxTk9SY3lBREplVDladzBxT0RjV1RTZXJndzNyVW9fTUdQal9fWGlYNGg5RVE1eHdKekRhcVMzVFZ3OUEtOC1pTG1SRjVGeVVtUEpiOHNKTkI0VFFQVkotczhTdG1TRGp3U2N0NTVXSlJJYXFVSDNGaXdmX3dua1Q3Rk9xcnkxUnBmWmFa?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 22:41:15 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Stocks, rupee slide as oil spike fuels pressure - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSWxOQllnUnh4UDh6am5ROVg5VXIwRkszYmJ3SzhBNHhMUjZyYTZzTkR2c1plNjVzQnVMckNKVE9vb2lQNVE3b29Pbm5VLWpJcGs1ODlGSTV5V3F1WXVteVhzblNQVXgxMzBQZWdnVHdvNE5OcDZEZm5vMlV6WTBUejNGVmhzSm5QaVZ0UTVEYlhuODNkNHRsZzQwZThuTDh6dnhrRzMtZHdvSnJOWW80ZmhEc2NtZk5VaFFHRkNhWU5STGJrSl9TWUF1dlfSAdIBQVVfeXFMTmNJUmdQR2k5OFFxTHdyaE83eFRnWlk5aU1vTFNmTEhTNEdLSnV0ZzVVSDZJSm5OcmY2aXFKcExUdk9hazRKdmdmOGRMVHk5LXVVTElnOS02R0JOeS1xSGRuWkRLWGF5NG1EWldRQVUzYkUxZ212dmhUYjVRSWVHUEtLMVpVQ1ByZmdiMVVjY1VuZEI2MW12bFZXaDJ0NTllU2lySGFlSXNNdy02YTFGckhpbThWa0hVQUVRVk9uZ0U1SERWYmxYRkE2Mlh5UzlRSENR?oc=5",
-      "pubDate": "Mon, 20 Jul 2026 22:23:00 GMT"
+      "title": "Indo-MIM IPO Date, Review, Price, Allotment Details - IPO Watch",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9vSWV5azRGVzVjMkpPZXRnZ0NZMDNTR05mLUN4T0t4RmU3WkFtTGx3ZXFRbV9laTVDUnp2bURQVzdGb3VRbWQyNw?oc=5",
+      "pubDate": "Mon, 20 Jul 2026 23:39:05 GMT"
     }
   ],
-  "fetchedAt": 1784588516
+  "fetchedAt": 1784592417
 }
