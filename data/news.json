@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "UltraTech Cement comes up with a record June quarter, profit surges 17%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ultratech-cements-comes-up-with-a-record-june-quarter-profit-surges-17/articleshow/132563390.cms",
+      "pubDate": "Wed, 22 Jul 2026 22:05:35 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "CSB Bank Q1 profit jumps 27% YoY to Rs 150 crore as provisions decline",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/csb-bank-q1-profit-jumps-27-yoy-to-rs-150-crore-as-provisions-decline/articleshow/132562546.cms",
+      "pubDate": "Wed, 22 Jul 2026 21:21:57 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "PRISM's premium hotel push emerges as next leg of India growth ahead of IPO",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/prisms-premium-hotel-push-emerges-as-next-leg-of-india-growth-ahead-of-ipo/articleshow/132562158.cms",
+      "pubDate": "Wed, 22 Jul 2026 21:10:53 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132561965.cms",
       "pubDate": "Wed, 22 Jul 2026 20:42:48 +0530"
@@ -13,22 +31,16 @@
       "pubDate": "Wed, 22 Jul 2026 20:38:22 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "AMD to invest up to $5 billion in Anthropic; AI startup to buy up to 2 GW of chips",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/amd-to-invest-up-to-5-billion-in-anthropic-ai-startup-to-buy-up-to-2-gw-of-chips/articleshow/132561775.cms",
-      "pubDate": "Wed, 22 Jul 2026 20:23:52 +0530"
+      "src": "LiveMint Markets",
+      "title": "Lohia Corp raises  \u20b9492 crore from anchor investors ahead of IPO opening on Thursday",
+      "link": "https://www.livemint.com/market/stock-market-news/lohia-corp-raises-rs-492-crore-from-anchor-investors-ahead-of-ipo-opening-on-thursday-11784740649066.html",
+      "pubDate": "Wed, 22 Jul 2026 23:02:05 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "AT&amp;T shares jump 4% after strong Q2 earnings, raising buyback target",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/att-shares-jump-4-after-strong-q2-earnings-raising-buyback-target/articleshow/132561079.cms",
-      "pubDate": "Wed, 22 Jul 2026 19:41:25 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US Datawatch: Bill Gates' top 5 winning stocks of 2026; surged up to 55% YTD",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-datawatch-bill-gates-top-5-winning-stocks-of-2026-surged-up-to-55-ytd/slideshow/132561134.cms",
-      "pubDate": "Wed, 22 Jul 2026 19:36:29 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold, silver prices today: Comex gold tops $4,170; silver extends winning streak as safe-haven demand rises",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-tops-4-170-silver-extends-winning-streak-as-safe-haven-demand-rises-11784734687457.html",
+      "pubDate": "Wed, 22 Jul 2026 22:59:48 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,77 +61,65 @@
       "pubDate": "Wed, 22 Jul 2026 19:44:27 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall Street mixed ahead of Alphabet and Tesla earnings, Super Micro climbs 22.4%, AT&amp;T gains 3.8%",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-s-p-500-nasdaq-edge-lower-as-chip-stocks-dip-big-tech-earnings-in-focus-11784728186429.html",
-      "pubDate": "Wed, 22 Jul 2026 19:32:34 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US stock market today: Wall Street edges lower ahead of Alphabet earnings; Brent climbs above $95",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-edges-lower-ahead-of-alphabet-earnings-brent-climbs-above-95-11784721735142.html",
-      "pubDate": "Wed, 22 Jul 2026 18:11:31 +0530"
+      "src": "CNBC TV18",
+      "title": "Waaree Renewable Q1 profit surges 34%; order book stays above \u20b95,300 crore",
+      "link": "https://www.cnbctv18.com/market/stocks/waaree-renewable-share-price-q1-profit-surges-34-order-book-stays-above-rs-5300-crore-19951807.htm",
+      "pubDate": "Wed, 22 Jul 2026 22:50:52 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Is IndusInd Bank set for an analyst re-rating after Q1 earnings?",
-      "link": "https://www.cnbctv18.com/market/indusind-bank-q1-results-analyst-re-rating-share-price-target-19951804.htm",
-      "pubDate": "Wed, 22 Jul 2026 21:23:11 +0530"
+      "title": "Tanla Platforms Q1 profit up 20% as digital platforms, enterprise communications fuel growth",
+      "link": "https://www.cnbctv18.com/market/stocks/tanla-platforms-share-price-q1-profit-up-20-as-digital-platforms-enterprise-communications-fuel-growth-19951863.htm",
+      "pubDate": "Wed, 22 Jul 2026 22:43:16 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "HEG Q1 profit jumps 17%, margin expansion powers earnings growth",
-      "link": "https://www.cnbctv18.com/market/earnings/heg-q1-profit-jumps-17-margin-expansion-powers-earnings-growth-19951718.htm",
-      "pubDate": "Wed, 22 Jul 2026 21:20:24 +0530"
+      "title": "Market Pulse: Key triggers to watch before the July 23 trading session",
+      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-23-trading-session-19951798.htm",
+      "pubDate": "Wed, 22 Jul 2026 22:14:13 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Schaeffler India Q1 profit rises 14% as revenue growth offsets margin pressure",
-      "link": "https://www.cnbctv18.com/market/schaeffler-india-q1-profit-rises-14-pc-as-revenue-growth-offsets-margin-pressure-19951721.htm",
-      "pubDate": "Wed, 22 Jul 2026 20:54:00 +0530"
+      "title": "HCLTech to enable South America's first cross-platform eSIM transfer capability",
+      "link": "https://www.cnbctv18.com/market/hcltech-to-enable-south-americas-first-cross-platform-esim-transfer-capability-19951824.htm",
+      "pubDate": "Wed, 22 Jul 2026 22:14:01 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Dr Reddy\u2019s ADR falls 5% as profit drops sharply - Check details",
-      "link": "https://www.cnbctv18.com/market/dr-reddys-share-price-adr-falls-5-as-q1-profit-drops-69-on-semaglutide-related-provisions-19951747.htm",
-      "pubDate": "Wed, 22 Jul 2026 20:41:24 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "United Spirits Q1 net profit beats estimates, jumps 52% on higher revenue",
-      "link": "https://www.cnbctv18.com/market/stocks/united-spirits-share-price-q1-net-profit-beats-estimates-jumps-52-on-higher-revenue-19951771.htm",
-      "pubDate": "Wed, 22 Jul 2026 20:16:09 +0530"
+      "title": "Marco Rubio on Trump's pharma tariffs: 'Would expect India to be concerned'",
+      "link": "https://www.cnbctv18.com/market/marco-rubio-on-trumps-pharma-tariffs-would-expect-india-to-be-concerned-19951822.htm",
+      "pubDate": "Wed, 22 Jul 2026 21:57:48 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Market Trading Guide: Bajaj Auto among 7 stock recommendations for Thursday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPek9JZ2R3Q0d6dlZCSzlZVmZLSVQ5OHEzXzZ3SXFsN0RXM0E1WmliZnB6ZFFHUFJ5RmRUdFVJcEtORnFTVEVsU0RycmxKQVlwcGdEWkZwYlRjSWRpN2JZaFFnelR4MmJSMG83WERaLVFtZDF0VDhnbXZuT2dYV01CbG43LVRHa2k4QnFmQmREeUd5LUtjaFRNSkVtY19kSlJkaml5U1ZWNnNtU2hhMFAwN3dqVlItMEV1Y2IyN1pRWmVad1dWUllfWXQwUkZOeU5lZzJiLVAtTEM5TzR1SWpMQVlsU0VuTVNHTWY4RXllZ3FZZEE?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 15:22:12 GMT"
+      "title": "We underwrite the Indian consumer, not market cycles: Temasek's Ravi Lambah - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbHNGSW96WTZ3dGxmWkdXZjhodHN2emxEY0FKQjU1bm1jckpkcVVLbFJlck1jM1Bic01fVF9hcTlHb1czMjVEZHB3VjNCa0Q0anBRSmhIQ1lucGt5RUNHX0tUcEt4N3dOcmJkakFQRU9JNm5MNFlISTZlRXp1aHE2X2FmQWNwaGdSMTdyRVNsbXZEa3ZLZHZqU2U0d0FJUTlUc0Q0VmxDZ1Jkd0huLW9rc0VjZEc1UTh6cFdrc3hQME1jYTZrVFptZTVjTk5tN2VNQUplaE4xZnVxWlNY0gHiAUFVX3lxTFBmLUsxS3czVzBEM3pfY3ZGZ09HOTdQYkN5VkJaYm1PekZpVTNDeldXQ2wzZXFGeVFiZUc5a2VfVjBJX0NkdjhiMmJOY3EwU2d5dTREcmQyM3B2MmNrUEJhSG9OVm5hQUpXVFl6QXItZGxjYVhQY3N1dG9yWW9sS1RUVmlqU0lOMkxVVHQzSkQtNWs3aDVSWkR6VUZkRFpPS2pHZjk0a1hGQUk5RlVXTVA0UGhBNGZlenQ2Yl9GazN4NzVacUNEbHdsVWV2RHpQejEtaDltd2k1dVNwejFtWTBhWlE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:22:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Suzuki\u2019s no-frills cars once ruled India. Then buyers demanded frills. By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSnlkTjZvSU40N19TZFhXZ1hOREhZakFGRHNVNkY1Ny1Sb042cU1tQXVQZHFmWXlaeWpyWUR4VFdoWGthaGlUS0l2d1hSLWtoRkpERUhka293NTB6UE82ZUpZYXp5ME1zRFJFS3pVQlVheWdXNlBjdnZaZzFHZlpfNkQtZEw2QTg0dXQxUTh4UlJPYlpZNjlibThGRjh6a3ZPRG50a2pyR2FyUGlUZkJ6OXdNd3padTZjaktGS3JoOGM?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 15:51:48 GMT"
+      "title": "Lohia Corp raises \u20b9492 crore from anchor investors ahead of IPO opening on Thursday - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNnRxaEtFcXdwWkFZSGRuTDlMS3BMWVhUNF9Wbkdjc3JTenAyUHpXOHpHRFFyTTU2VDFHT1YwbVhFTkx6MTVTeFU4YmttSk1aOHFsYU5sNmJHdzZpM3dIM0s4MFZwWENuYmRadmRweWhFMG0xMHR6SlZKNjdHSi1IcUktbXVDQkQxRHExOFNPdXdJYWFPbGxTZy1TNFBwckRlV29jS281Qmx1YzNNODFDWlIyVjdob29zT0JYMjAyUFg2c0RHQ285dEhrbDlVYjNrVlFHcVd0R0dCd2g1aW9UNUlJczYxZWNLVnZN0gHwAUFVX3lxTE5vb1FWZzBwcXhpb2NHaFFvc2tuZ1h6N3liMHFJaTU5Um5IQzJTNk1xNVFEb3c5RHZBR1JSSGZ0YkF5blF2SUY0Q2tCWkpiZUdldUhDV3VoMjgybXY5Snh2eDdvendTZnlTRjdLSW1LSWN1QjlVYkxNRmNFc2VISVJKYVNYcjFzSWVBdlZKUFI3dVFpN296UDRvSGhzQXc5OGVrQ2FzakNmTzh4U213OG5WRGo0VE1xS3Ezc0NqUk94YUh0d3Rnd0piWTF5Q3hDbXItTk9MbnEzRXFqOE9CWmh6VW5GR09zZHl4V2QtVnBrVw?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:32:05 GMT"
     },
     {
       "src": "Google India News",
-      "title": "RBI net sells $6 billion in spot forex market in May amid volatility - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVl9IdkpxdncxM2NXMjNrMGY0aGU3S0ZCSUZNYWJuQy1rSnFfWGZMcXhMOWFEbEFQWlRhRHdtSGZTd2xMbHE3b2dHcVpCOWwtLURXamVQcU52QjQyX05lRi1FR19hMHNZaTJHRHVBMDhBTFV4MHJJUmFvUGlVN0NYclFNTzRKY1paeWFiUTBUYkFUX28zWlpFRnVKek5VSHl4WEVaMmlaN1FZX1BpbDJjSGZMZFZTbXEtcGVpbFp1NksxSlFOcmpPdjhYR3g4M0HSAdQBQVVfeXFMTmc1RzdKTld4d0h3UmhwLWo1SEZ3S0YwNU1sa0tMOExLMll4ajdTU1pqWWZVaXc3RDVKTnlTb3R2UDlLb3FQVWNOQlBfb1o2YkNDWGpJRlJMaUlzbEpPYVdybW9LUWN1alVrTFF4NjE3YlFnUjlRUGthMF9OcG5IT0FUbkpHSEtyOU9FT3VUc0J4X3laYmd3UVRrOU1PYWxlMlYtRXJOdmwzc0JkcnIxa2hqbFd6ZlNHT0JpTjFzYnVUYlZfVVh5YW12bVlsZ2U4MDVRcG8?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 15:44:57 GMT"
+      "title": "Medplus Health Services corrects inadvertent investor presentation filing - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWjRpRGtZOE1aQUFJVGctN3I1YVlfWXQwdVlheDAtSTRkaHJDR2RraDdSUE5sMmx4Ym9CcVRyVEhoZ2FlRS1Od05VQTZXaWNUZzR1NE5RSjVlZS1FejdrdjZIOEYyQ3psZkhuRVVhQ2RkSnVPQWJ4YTY2Y2x6SlNLYXVCR3otRENscDVBeUYweldsbWFuMnJNTnpXeWpkblhvd0swQWU5dUVsYXB6TEJNVmY4R3BkZVNqQmZNOGcxa1JtR0g0b1RkYXBn?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:28:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Schaeffler India Q1 profit rises 13.6% YoY to \u20b93,367.3 million - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR005MU9nd1hwenQ4M3VpeEk5bG5OUmFtU3otVzl2MHlrRFY5QkZTd3BvN0xwT1B1UkZCalZ2SFBmb00yWHhCOHR3TXRMbDRrQ29zNnU1QmRRNk9NOS15cncxRm93Vmw2LWZQSDdSSl9lS3FvaWRYbmZLekFtUUR3UDJVVkZSVmxFWDl2b0xBTmExRExKdjhOWjRsZkhVNVJjckVDZ2RhSTRFSDZFMkN5Z1ZMTE5sd21R?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 15:23:48 GMT"
+      "title": "'Who gave you the authority?': Rep Boebert torches Smithsonian Museum Chief over US history exhibit - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNVHRBYnpRa3RZSzZSX0V4clJxdExxNHJ6VHZNb09TY01JRFV3RFhPVG5Ka0k4YWJHVXBHODFaYm95OEM5N0JCb1ktUXBhV2REaTRGc0tjejQ0ZE1YT3hLbS1ESHlZUmFobWpPdnoyX21OOE04NDdvREhuNkxCMGJ1THlWN3NCY0lkYVJaTjctUHRFa2w2QUtmRENDS2xCZkZnVTlXcEs3TWdMN1F4RE4tODYwZkRPSldQWldubkJNaklJVHJna3NLMnh2NmFHMkJNamtUM0cwdEdjS0diZTFpWU5GZWZyLVFRSnhBdEVLSHl4TzAzdU1IREhWd0IwREJycEJEa2NVR1fSAY4CQVVfeXFMUEhBY21BN3ByWS0xSmRUOXEwZzZFYTZLU2xmMTVFVW40NUJQNmNpRWp0TlpqRVBYZTlLRnpqSnY0VUVLcEVHeG50eGdfTkQwQkhNbGpuVmM0Vlo5T3I4YUlHekxoUFZSaFpCcnR3Y1FwZl93NnM0NjdBQTdzdlRhQjdYbl85dlR0Z0lkNTRyXzRkTlM2R2o2YWsyQzhTVXk2ZXNFcjl3bE9jWUNqcUNPcGI5Mnh3Zk5HaE53b0tFUlkxLV9HdEw4cHNtVGx0UW5YYlh3NmhtWWNCaHpwMjBxYkFDRjRRY0QwODRzbmhhamJhSFBXVVZ2dnBCcXZ5c2ZqRkhYTFI2d2R4T3dPcmx3?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:02:52 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's foreign investment outlook improving despite global uncertainty: RBI bulletin - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWnltakRaek1INDdTLUlGZGJNZjBMdUc3YWczbXhSQnhsSE9WRkRXQ2UzeURfR3JyZlVlTW1CTXhhSVlBYktYbUdiZmI0NkZaTUQ1dXBGN05KejQwTFJhTy1Ta0JleldaeGRKeHIweDlKczBOeGZZWU9pa3QtSDlIeVpwRVFZZnE1bzBTb1I0WmhrSkhyRldfWDZyWmNHbjdEeHZNVjVScFQ0bFJjYW1XU1F2Q2l2WE5EdmFQVWhIMW5OWGtfLURsVWpqb3Qwb2hZQkNjMThCU0ZUYXhIMHdR?oc=5",
-      "pubDate": "Wed, 22 Jul 2026 15:46:19 GMT"
+      "title": "Devyani International to discuss Q1 FY27 results on July 29 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNenBVTmlURmU5a0Q4T0NQUGp6dEROXy1HY3lPOXBNVW1vODBRQXIwc183SllZQVluRUJqeEtlSE5rY1p0NHNmbFVTa3FFY3dNcWhGRGxDWXlaMTdHS0k1V1BxRmpoaDdwQzdoQXFXR1RkN1BxZTVib3FmaWdYZmY1X241TGlQRy0wSk9WTGRVU19lc1hpblZkaFBRT2w5TlZHSmNUQXhYYjIxelZud3NXeThsdG8xalE?oc=5",
+      "pubDate": "Wed, 22 Jul 2026 17:06:05 GMT"
     }
   ],
-  "fetchedAt": 1784736072
+  "fetchedAt": 1784741725
 }
