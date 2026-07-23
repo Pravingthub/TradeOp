@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: Nasdaq plunges 2% as tech earnings spark AI spending worries",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-fall-as-tech-earnings-spark-ai-spending-worries-and-oil-hits-100/articleshow/132591456.cms",
+      "pubDate": "Fri, 24 Jul 2026 01:33:25 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Tesla short sellers mint $4 billion profit as shares nosedive",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/tesla-short-sellers-mint-4-billion-profit-as-shares-nosedive/articleshow/132591384.cms",
+      "pubDate": "Fri, 24 Jul 2026 01:23:21 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Suryoday SFB Q1 profit more than doubles on strong loan growth",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/suryoday-sfb-q1-profit-more-than-doubles-on-strong-loan-growth/articleshow/132586902.cms",
       "pubDate": "Thu, 23 Jul 2026 21:42:44 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Thu, 23 Jul 2026 21:35:22 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Nasdaq tops profit estimates on high-profile listings, robust data revenue",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-tops-profit-estimates-on-high-profile-listings-robust-data-revenue/articleshow/132585994.cms",
-      "pubDate": "Thu, 23 Jul 2026 20:49:37 +0530"
+      "src": "LiveMint Markets",
+      "title": "Heat Worries US Wheat Farmers Just as Crop Prices Surge",
+      "link": "https://www.livemint.com/market/heat-worries-us-wheat-farmers-just-as-crop-prices-surge-11784841971254.html",
+      "pubDate": "Fri, 24 Jul 2026 02:56:10 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Tesla shares crash 14%, Alphabet falls 6% as AI spending worries hit Wall Street",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tesla-shares-crash-14-alphabet-falls-6-as-ai-spending-worries-hit-wall-street/articleshow/132585791.cms",
-      "pubDate": "Thu, 23 Jul 2026 20:45:07 +0530"
+      "src": "LiveMint Markets",
+      "title": "Dollar Rises as Intensifying Iran War Lifts Rate Hike Bets",
+      "link": "https://www.livemint.com/market/dollar-rises-as-intensifying-iran-war-lifts-rate-hike-bets-11784841425131.html",
+      "pubDate": "Fri, 24 Jul 2026 02:47:04 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -47,18 +59,6 @@
       "title": "Gold falls 2% as Middle East tensions fuel inflation fears, rate-hike bets",
       "link": "https://www.livemint.com/market/gold-falls-2-as-middle-east-tensions-fuel-inflation-fears-rate-hike-bets-11784831852540.html",
       "pubDate": "Fri, 24 Jul 2026 00:07:32 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Tesla falls 15%, Alphabet drops 8% as AI spending concerns mount",
-      "link": "https://www.livemint.com/market/stock-market-news/tesla-falls-15-alphabet-drops-8-as-ai-spending-concerns-mount-11784819582476.html",
-      "pubDate": "Thu, 23 Jul 2026 21:50:44 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Indo-MIM IPO: Issue receives solid response on Day 1, subscribed 1.4 times; NII portion booked 3 times",
-      "link": "https://www.livemint.com/market/stock-market-news/indomim-ipo-issue-receives-solid-response-on-day-1-subscribed-1-4-times-nii-portion-booked-3-times-11784817692816.html",
-      "pubDate": "Thu, 23 Jul 2026 20:37:17 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Global demand puts India's two wheeler exports back in top gear - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQN3NKbVBjLVlXVnMwV1lNaFk2ekJxQjVxX3VVaUhCeVpnMkV3Q0wtV3JkNWFuMTRWdGlaUjF2R1N1cEZuVWRWTmxCNjJBTWo0Sl9QRV8tX01oMHdHNmNXa1FPdjhZVXV4by1DOWRRdlZ6SHRVTThYNHRqWTFkbVJoYWk2RUlCc0EzVThPcXdST010eXp5eWRHdFhBZjlYYzgzX0pCUTRyZ2g4VnNQX1BaQnpCRHlqdmNERVRocEFuUkNRUHN4bEQ3b1FYSXlxM3VaUUVLY3FNZzBTQWtTc0hiM3lubnRGWWhhVHVFYkpvTDZLQ2lyQm5COV9vb9IBgAJBVV95cUxQSTlrbUpIMWt0Wjl5UzRHZ3pUcFM2ZmtJZWNIN3ZBdXRXeW1iSExZdWw3UHBkdGIybzEtSHd5UlFVbm5BeTJQeGcxZzJITmlMc3RSSG1WNnpjNzVSOUkzUGlfU2VVUDJJaF9jdWN6ZDVBVmxDOW9VVlhjNDlpY2lPX0R2Ym9uV2NhRlJyQ2x3NFVMcHNOQ01zb0FZMGFPR2dBSGVOVTkxcTR6b2MtemJyQWJDRjhxeThHc0tRTThmTXdoWTR0WU9fbW1KOGNDcEVwME5PUllrQU9pdm51eU5tNzNXRmZ1N3RtYS1Ic1d5NGswMVFrVkJOS3ZMZ2xtcHB5?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:50:30 GMT"
+      "title": "3 Indian Penny Stocks With Positive Earnings That Look Cheap - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdktiWGlxclBWU2dySzdOMVFCXzR1TFA5UHc3c1lXbUZSLWlJZHlpa0dPMXdUX2hpUWhIa3ZtVEZ2RXU4VXRrWG1wUmRhcFc1VXZGbWwtNHE4Z0x3ZHp3NUxSQ2ZGNXZReEN1U2wxMy02VkM0TTNGNTJxRFN1Yno0d3luQ0U2bXJxWDg3Qy1lNVd4RmtjR0Y5Zm9qYS1VdXhOVjU0cFl5V3RxQTB5SmJrM3I2dFNWc0t4YVBidXFTQ0o3WENCb1RPU0JleWJ0dFQ1SWgtVDJhUWRkbndDbG9xOURsRS05V1VaYkt2R1Z6d2FSQdIB9wFBVV95cUxNVUpjeTkzZzBCSTdNVm1xZFdoSWdGX1dBYzJ2SHBtS3JaOWlId2czVmkwanRyZGotWExQLWI0dTl5YTJoRHRxSDEzYlpzNlQ0QnVmQmkxV1lEWUh1UmZEVHlwM2VYVUtjY1BLZTNjazhHOWdZbl9fc0RKQ2pFc1h2eUt2WWdPWHRycmR3ZmNWWTNib3hFX1VBVHY3dTJFbXdNaWpOYS1fclNCd2l1T0VrRllkb2c0WHJxOGk0YWo1N2hjM1hyX090NlBJYk1VYjhHZGZhOGZNeDR5czVEVkpKUVp4dG8tRV9CNHNHa0hFbjM0b1NOMU5n?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 21:05:35 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Why is Amazon stock falling 4% today? - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSi1URXdUa1R5c0VGa2ZuWFRkaVA2QnVPTDVIVFJYRFBzb2dYS0lLeU15cmVxMzM4Q25LZ0pOVy1GVGNSM2g0dXFWVk5fdW1EWmJkbmlSTVZqMzlaYlVFMGl5NThva3NvSjlLc2ZHNkI5MVlHZTFTdFZfLUlBekhwUU5FV1d6aFV1?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:13:20 GMT"
+      "title": "Emirates NBD H1 2026 slides: record profit amid India expansion - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWTZEOGx2WTZUamxHRmVhV0pPZlhSN0pyM3FLQkVmeEN2Ulh6MTEyQnVEZUptS19YTmgxanowMnFldjhjZDFsVTVpUXJDNUhkMHFscXlTb1VVaVNkZk1EajZXSVBRQ2NkbmlrNmVMSXdGajZnc05sZUxfMFItVmxvdXNibE5lQWF1cjNMY180enlWWnEtbi01NVlWejhQemotc25UVHdVcTRkVlVPXzNWNzhBN3VWT3pOMVE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 21:17:52 GMT"
     },
     {
       "src": "Google India News",
-      "title": "For Nestle, India a growth outlier across markets - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSVJiWDJMVDVOWWhhaXI0aHZPY08tYVdTaHRZSXpzMExIbkY5RmJWY3N4ZDJTMkZGcVhXNllxczg1NjlyaURiUmFlQnpJSHEtcXpHUVhpdGJFX1JvbkdreU9GX0dtejYwSFQyMEtEMVV3Mm0tcFN0cW41RzllaXpaX3cwMHBJaW95MEdJMnFzUUY5Z19BM3ZvTnlITFZkSkVRZGxCbnduQmJSNHpEdFNOSU4wV2Z1RElZcVlfRzktekZ4WWJheHNhdkN30gHPAUFVX3lxTE9Wd1V4Um8ycko3d3BYXzhsdG9HcWFmNHYtWTBUTHZCdG5IZzlmSzJ5VlVRS1BwV0JBOGM4dUp1N3IzMW5xWUFtUjMwUzVNV0thU2g2bTgwN3JWemQ2d2RtUjBiaWY2OGloX1FsZU5ERDNsbUhmN21ETFZlazY5a0NMejl4MWlCejNSN1NmUG8tcldaaER6ajBmSElaYzg1YkRPdEdkRThGU2xQN3ZHRFlCZ3BLSHVndzljQzdyNXVoemVUY09idWF0YlhiU1VRQQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:16:39 GMT"
+      "title": "Indian Dividend Stocks With Strong Yields And Growth Backing Them - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOczZSLWd0MERYVVpSQ0N2d2NLbHVLTFBaSjNQT0prZHR6bGZJdmZUR1RaSjV6czlmVFkwTUUxNk9mZ2NRSnFYUkptTlVwVEYtUFV6MlVUWHpSSmwwNzh3SG94cmVCNUdwNmZWWGhjSkcxOWg5elVJQjU0MWNOTHljVWVtazJzc2d1MEdJdTIyVFBYRjJZX0tNNzZMdGgySWs3RVJYY2M0eURES21ob3Bqc2hEMjd0U2pXMXhkZkMyc0RIalZzZUNhVHFfZWpiYm1TZS0wR2U2M1E0TFlZ0gHiAUFVX3lxTE1keFJiRndRU3h3ZmdqWHNGLWVGY21MSGQ1SXc1TWstQW1Mcl9kM3JNOFAyRk9hQk85Rk5GNHZvRWhsZG11a0U3MkhwYWtneUtMdENTLWZKY1plQW1oT3hFcXVQUlpRSTZUY0N0RmdGUlhrajdfTGdFNG16NzJfeVFUNnZLU1pBN3d5ZU1aX2JnWDE2VUZ1bWI4TDB5V2xYVnBTSnEybXhEUzhnSGdzQ1lCWWZQYkExWnJZQ09aZ3o4YVRVLWF0bGVfZlA1SEZtYThlRlVaRDZRYk9ZbHgtYkczckE?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 21:32:37 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Trent Ltd: A Case Study | Q4 Update | CA Rachana Ranade Mercury Vs Valkyries (vEQWDWeg2l) - Mshale",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KMEdYdi1MYVMzRTZFNzJZMUotQm5zR19wSklpXzZZTERnUHpuYUVKdWJrRnhrbzFSV0E5M0g0RjdjN1dxNHVxVTc2MlNKLXNIQ3ItWXU0LWV3LVQzMTZIdg?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 19:17:32 GMT"
+      "title": "LIVE: Shohei Ohtani joins Dodgers at White House as Trump honors world champions - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZ0I4dDU0cm1YX1R3YjRucEVmUmVRd1NJRU9hX1F0RmNUV3p1ZlNyVF8xSndKTlZPVGlPeGkwN1BtS3F5Rk1lUGVoR3JWNEZJX2YtMEpZLXFueWRXQ3EzQUxWQkdhd2s0OWM3Wm1RX3B5aDhYMHAyTmttZmdQMU1FMWltdVAxQmEybHV2TUVkSklGTXZaWHE1MGVUOG1NVkJTSFJ1bmRVUzcyM1hsSDhKNTA1cGY3cDNFNHhYa3Vyb0JBTXF3RTk0bmkxdm9CUGREblRqR09oa2k1cHpEUzJUUTA5QUF4djZqZHBmc2R5cVczTjTSAfgBQVVfeXFMUEItS2tPLXEzWkpnZExBRmtNV2w3blFDUFlsSGJmeDMxVHlrN01MWkx3dllodHh1cFpvNEZmYVl5ejRHTGdfbmZaeDVJUHFrQm5EV0J2ZnJxbDNlYjJXM1dJeUJ2YWNFV0E5cmxOUWtIejFlSjFxU3VlMkdyRkdWblFWM3BTcFRHM1ZySUxBdFp6QjNscWl0bUVVV1ZkYVZJaTQ0T05VLUFtdFh6aGFjQnJxdEIwZnpJZ2taQktIWDBoQVhFSjlfYXRwNW14NDctcndpcEYtS05IWXp3eENTeTgtSTBDengyTXc4ZUVFMmJRTnlpd3oyNnQ?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 20:47:40 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Evening digest: Trump ramps Iran threat, Magnificent 7 tumbles - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaHdNTXVtTUhPVFJNZ2JJQnZmX2NaVl9RV29DeVBRbGZMYUJueGhhci02SmZzc2tJWU1nbVJtZmVDcUVIVUpyVF95dVhrNHd0MTVZSjRoR0Q4eHV5aHo0ZklpdXo2bHM2a0hXc2J1d25jckM0aV9Yb0R6OXJ2VG5ta2kzMG1RclNlTDdONDREUVpLTWt0N01ERFZhTDViUWI1?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 20:11:30 GMT"
+      "title": "Intel stock forecast after boosting its guidance: time to buy? - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmhkUWhELXBNOEEwYkt3bDhGLWRYRnNNOFUxZHhGUFJqWmV4dFZZNU54LVNIMi1GVWJ6WVZTZTFTY0U2YTZrSTdsdEVWbE9LV29zMEZSUVZEYm0zWnlnaUZKb3pScXk2TEMwbU5QaXoxRzREdGNCemh5NlVYRlBCLWJKaWtTQk9RT0ozTGxqQ0lhNnMxVGhjb3dnclhrR0t2?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 21:09:43 GMT"
     }
   ],
-  "fetchedAt": 1784837564
+  "fetchedAt": 1784842578
 }
