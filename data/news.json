@@ -2,13 +2,25 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Nasdaq tops profit estimates on high-profile listings, robust data revenue",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-tops-profit-estimates-on-high-profile-listings-robust-data-revenue/articleshow/132585994.cms",
+      "pubDate": "Thu, 23 Jul 2026 20:49:37 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Tesla shares crash 14%, Alphabet falls 6% as AI spending worries hit Wall Street",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/tesla-shares-crash-14-alphabet-falls-6-as-ai-spending-worries-hit-wall-street/articleshow/132585791.cms",
+      "pubDate": "Thu, 23 Jul 2026 20:45:07 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "ITC charts growth strategy as cigarette tax hike hits stock",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/itc-charts-growth-strategy-as-cigarette-tax-hike-hits-stock/articleshow/132583409.cms",
       "pubDate": "Thu, 23 Jul 2026 19:08:40 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "US stocks today: Nasdaq plunges over 1.5% as Big Tech earnings rekindle AI spending worries",
+      "title": "US stocks today: US stocks fall as Big Tech earnings rekindle AI spending worries; oil hits $100",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-lower-as-big-tech-earnings-rekindle-ai-spending-worries-oil-jumps/articleshow/132583362.cms",
       "pubDate": "Thu, 23 Jul 2026 19:06:38 +0530"
     },
@@ -19,16 +31,10 @@
       "pubDate": "Thu, 23 Jul 2026 19:05:38 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Meesho Q1 Results: Loss narrows to Rs 133 crore; marketplace revenue rises 48%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/meesho-q1-results-loss-narrows-to-rs-133-crore-marketplace-revenue-rises-48/articleshow/132583247.cms",
-      "pubDate": "Thu, 23 Jul 2026 19:02:20 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "AI-led boom in IPOs raises concerns about a bust",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-led-boom-in-ipos-raises-concerns-about-a-bust/articleshow/132582690.cms",
-      "pubDate": "Thu, 23 Jul 2026 18:48:39 +0530"
+      "src": "LiveMint Markets",
+      "title": "Indo-MIM IPO: Issue receives solid response on Day 1, subscribed 1.4 times; NII portion booked 3 times",
+      "link": "https://www.livemint.com/market/stock-market-news/indomim-ipo-issue-receives-solid-response-on-day-1-subscribed-1-4-times-nii-portion-booked-3-times-11784817692816.html",
+      "pubDate": "Thu, 23 Jul 2026 20:37:17 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,71 +61,65 @@
       "pubDate": "Thu, 23 Jul 2026 18:51:52 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Sebi proposes MF-only portfolio management service, wider investment universe",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-pms-rules-mutual-fund-only-pms-25-lakh-minimum-investment-11784807708558.html",
-      "pubDate": "Thu, 23 Jul 2026 18:43:35 +0530"
+      "src": "CNBC TV18",
+      "title": "Market Pulse: Key triggers to watch before the July 24 trading session",
+      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-24-trading-session-19952692.htm",
+      "pubDate": "Thu, 23 Jul 2026 21:34:35 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Infosys ADR falls over 4% after Q1 earnings, FY27 growth guidance cut",
-      "link": "https://www.cnbctv18.com/market/infosys-adr-falls-over-4-pc-after-q1-earnings-fy27-growth-guidance-cut-19952514.htm",
-      "pubDate": "Thu, 23 Jul 2026 19:46:02 +0530"
+      "title": "Brent crude crosses $100 as Red Sea attacks stoke fears of supply disruptions",
+      "link": "https://www.cnbctv18.com/market/commodities/brent-crude-price-crosses-100-dollars-as-west-asia-tensions-escalate-19952694.htm",
+      "pubDate": "Thu, 23 Jul 2026 21:13:40 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Motilal Oswal Q1 operating profit growth led by Asset Management; AUM surges 31%",
-      "link": "https://www.cnbctv18.com/market/stocks/motilal-oswal-financial-services-share-price-q1-operating-profit-growth-led-by-asset-management-aum-surges-31-19952611.htm",
-      "pubDate": "Thu, 23 Jul 2026 19:42:45 +0530"
+      "title": "Shadowfax Technologies block deal launched; 9% stake offered at \u20b9197 floor price",
+      "link": "https://www.cnbctv18.com/market/stocks/shadowfax-technologies-share-price-block-deal-launched-9-stake-offered-at-rs-197-floor-price-19952658.htm",
+      "pubDate": "Thu, 23 Jul 2026 20:43:21 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "US stock market today: Dow falls over 450 points as Brent crude tops $100; Alphabet, Tesla drag Nasdaq",
-      "link": "https://www.cnbctv18.com/market/us-stock-market-today-dow-jones-falls-brent-crude-alphabet-tesla-19952614.htm",
-      "pubDate": "Thu, 23 Jul 2026 19:33:58 +0530"
+      "title": "FIIs sell shares worth \u20b93,000 crore, DIIs nearly offset outflows with fresh buying",
+      "link": "https://www.cnbctv18.com/market/fiis-sell-shares-worth-%25e2%2582%25b93000-crore-diis-nearly-offset-outflows-with-fresh-buying-19952623.htm",
+      "pubDate": "Thu, 23 Jul 2026 20:28:50 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Why Meesho\u2019s Q2 may disappoint\u2014and how AI fits into its growth plan",
-      "link": "https://www.cnbctv18.com/market/meesho-q2-gmv-growth-softer-as-flagship-sale-shifts-to-q3-ai-push-intensifies-19952564.htm",
-      "pubDate": "Thu, 23 Jul 2026 18:58:54 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Cyient Q1 net profit doubles sequentially; EBIT margin improves to 9%",
-      "link": "https://www.cnbctv18.com/market/stocks/cyient-share-price-q1-net-profit-doubles-sequentially-ebit-margin-improves-to-9-19952558.htm",
-      "pubDate": "Thu, 23 Jul 2026 19:14:57 +0530"
+      "title": "Stocks to Watch for July 24: Infosys, IndiGo, Suryoday SFB and more",
+      "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-july-24-infosys-indigo-suryoday-sfb-and-more-19952641.htm",
+      "pubDate": "Thu, 23 Jul 2026 20:28:43 +0530"
     },
     {
       "src": "Google India News",
-      "title": "HDFC Bank under US law firms\u2019 scanner over alleged payments; shares fell 3% after May report - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTdyV3Axdzl5eFdMRnBXV3VZUERJRUNWaF9XeVpxQ0ZwUkdmd2RQbDlCRFBVZ0txbGRZQkxZUHdvblhSVlB1dUljb0NlQ3RwTl95QmI0Y2JCUzlSMUJmUWFpVXp4TDdfYUFlNGNiS0hTeEVVRl9DOE03YWR0VnRyUVh4V2NrdldaSDNVVDA0cmE2SnViVHlXYmlvWGtoc0lYSmpzMzN2dk52OFM4X25hN2FHZDBxT3ZvemppNXdJblrSAccBQVVfeXFMTWs1TTFTV2U0S1JRYzhHRXRzcllISjRqcEtrZENnTmY0eUNrZDV1ZHJielhqVVRWUHBxbGJ2UkIydzk1ejZUSXhac0M1QmdYMzhub18tSU1qVldKQTVhWmFIdEdObGd6U1lVRkVuSlM4MFlfdjBYYUJjUl9JWFVLSFFOMFNER1pZRk1iaC1fZEU4S3poQUNUeFZjdXowU1ZSZzUyRTlCRTJQTm8xMGRFUTN4QmV0QTRoY1BoQXZtdWphSzF1RWszUQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:29:01 GMT"
+      "title": "Stock Markets Extend Losing Streak for 4th Session as Oil Spike, Sensex sheds 364 pts - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSDA3bFdsRk9abFdqWVBHdWdKWEtpMlpqTmJtOVN3SlpkN0JEd0NBTVpyeS11TC1FZWNNaDFWRW8xZGp3dlI1eDhPa1RKSUNaRlkxRnpWeE5xMWpRTk1KUmxxNmlTZU1EYTdwd0pTYzRacnY2Q2FYSExJY3U5ZDNvcWtobVl5ZzI0YUV3c3VRS3F3cDM2YU9PMEpSemVFb3E5LU80cGoxRG9WWFNPcUR0OGpn?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:18:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US stocks tumble on renewed concerns over massive AI spending, rising crude prices - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSElkXy1QLXVkRUFsX1pIT0F1bjhSV2FIemhmRHhXX0V5NkE1NFFxTzJUTXNYbWdzYmhLMTlfS1pieC1pYWVwXzFNM2Q2eXQybHBjclVHVTBSMVRGN1NzYWhva1F6aC1zd3ZWblJDeHcyejlpSUlBc3czMGJQYWtqcUN0UF9YRDg0SWQ2VE4xMUFZWnZ0VVBWSTZfSjU2eHJpYnMzNHJhb2VnMVIzc2dHZmZrTDN0aXZKcUZqcWlVSHpLZVlPRGFUcTFrNWdzQk9peU4wMG1zd1NsSE4takM0WnpVNmFvQQ?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:03:10 GMT"
+      "title": "Why Retail Investors Are Tracking These Founder Led Indian Stocks Today - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVFVlbDFMT2V6TUU2Rl9MNm1DcEI2MVRLb29rbEhHcEUtdk0yQXpvY0VlNmlyWWJrRFdwR0RZWnhiOW93enpRY05YMlByRnRWV1JUWk5wMW1hWU9INlpieWZSUURXaDBBM3NsZzE1ZVJCMEc3YVhCbDB1Z253bllTYlV0TVN6bm1vR3QtcmJrV3pnM2ViRzlZUy1NUkxRZWlfTnFmNGRMVGVUUS1ERHdHT25oeFd5N19VcFpQOF9PM2hDWnBZenR5MmE3X09Icm1HN3JfVVdlcG1LdmMyMUHSAeMBQVVfeXFMTy1OdTk2cWFfVDhoeTBLZjF1OFVPOHRPd1lGdUFZVmRaZ3NWdkZsUHQ1c0ZzRnJFTHlOeTE0RUpoRjVOMkw2N2RnOU5KY0FTaUdOOUZOV29zcy1fNnZNYmlzay02RWg2WVV1alNqUC1RRVlEem1rMUo1VFpHMlB0U3hRS3hRRWxQVHNTRm5wSVl3aXZHcWh1WHIwUUtnNFJia2l1MFdhaG45eTdleHUzLTBDSnduSDRSRklHVGczMEFib0Fkb2Y3RUhGRGhHNlRJbUxIbndNODU4VDJfWmZqOGZmRGs?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:42:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sebi proposes reforms to online dispute resolution framework for markets - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUk9JY05UVzk5bU1ycmpjQUJWM2k0TUJsbW9JOG9hclI1NDlNYV9Jb3V5aUxRQU43YldhMmtDbXJNbDdUejZvY3NJbnh4U1kyazExaHpjdEoyUEtqenN2d1Z4R1pjbjVWRWM1MjJJLVNrVjdWc18wZkhUMEwtR3dqNURSc083MmZlU1pvOXcwUWlCcGpFemt2U0tFb0h3Q2x3Uk9taHE0eks5T205OHVwbjd0aUtFX1F6MEkyQnhpZmg0UG1QaEJLOHE5eDhJdnI4ZmxndGlB0gHbAUFVX3lxTFAwVzl0bEVuZ3hvbG1pYS1BaHpVendwT1FUcU1iOWJTWmlOMmZjdUw5ZEVBQ2ZXV2ZGTEhwdVJYSzg0T1BYQmFXUGoyQkhiUTRBcWVwOWIwYVJ4THAxN1dtRlpuVDZTMGJVWXhPT2p6ZW13cC1wNW0zWEtwWThkMV83ZC1OUEVNTFcyNkpsaEhRQmRWQXNyYjM2Q3RtUGlvUTgwQnY0VHRvb0xGbTVhX1R2UUNMTjBJemdpSHc2dFI4NDNuSV9sYWN6M055TmhITTdhWHdkMW0zMXRtaw?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 13:48:06 GMT"
+      "title": "US stocks today: Wall Street trades in red as oil tops $100 per barrel; Nasdaq tumbles over 2%, Dow slips - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxPT0xOVTRaQUxic0VTdWdsaDdnOFRYX3ZvMVpoNk15SlJ2ZkV2OXFNZWpxRHVuWXZ1Mi1aSHVLSEFKR0xncFBEaXctUVA4c1lOa3hEY3RIRHo3WHJIX0M4Sm9JaG44NFoydkQwaDY3VGx1c0dJSmF5VHdsMHNZemFQRU9NWDJacWNPb3hlbmtBa1RMQUhVUnpXajZSVEZTTVlBRjJXMGxwaUhWejJxLXdoekRQdDJDamZSZlB2dmozQlpuTElnSmk0V1Q0blN2OWlzd2pXM2dNYk5HdW40UjVyb3dvcy1xYVJSYUJyWjJ4MlFSVFpidnk2WnN6cUVYWUFzU2h2OWVvejJoZ2JxeDZ4TzEwUEp3NzQ3b05Tb2h2eGZjQzM5N2JWa2ZMOUhxWE9hSFVBTdIBugJBVV95cUxOVXFfYzUxZzU2aU5hRDVoUXFuYkgzQ1ZuOTB5MF9CcXJINWRqendPS0tfaVFrVGdEdHpFbDhZX2NpelVMSEZWVnlWaGQ1TEd2NHdnVUZORFpmU3JvVUgyeDBvdlFlR2RfZzB1R1oxb3ZNZlprT1V5clUteGRmeEF2RlY4SGN6TFRSNkJSYUJTNWNZN1A3cU9XaEdnNlNQNjJJNFctTUlvV2Z6VFNtc29EQmEwSDlWVTBHR2JZeXI4bGxjSExLMk5FQW1TdmFEVWhjVERTZTBFN1dmVTdoVGJGNnI4UmxYSTF5ZVNtMXlQSy1LX3FUdFQwYjBfZHc4ZkMxOG94YVhISzF1aXdJNGtiYTNmdWFKajFvUVg2Um9zVmJzYUhtT3FOS0NwSFBEajU0QldLYjQ4bUk5dw?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 15:46:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Infosys Q1: Profit rises 12%, guidance cut; Ashiss Kumar Dash named next CEO - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcGFZaEpFLXQ5NllnTVJjYlQwRnVKYzcwWFd3TVgtVUh3b0RhcjdnWHZaWXc3QW83QlNHejdLb0drb0FCSnZ3dmNIQzFxeUpqTFZmRE1FR05sWEpNYUVWR043eDJMby1hcGtkZDlpQTdlYnJWbVR4dGZSaUNBa3VFVF9PV1lDVlRpSW5wQ3lMaGVYNXJlM0dkWWV6QUZPVDFxWklKeVhzc0d6UWVkRmhmT3BMQ05ib1lWU2V2aHJpS1RNemc3RkljWFBxSlZ6eTND0gHWAUFVX3lxTE5xVWZtbHBuRkpVWnNSUUNxZnZCZW9USlVhb0VZUjF2Yk5LZFJpdVFZSzRQbzRwUXphOGFRaW5rV0xLZEtwbEhLc3ZKQzVVQklqZ21MbHhDR0p2eGt0QVRWV3pwUUswTEsycldEQzlSTmYwR1F3bUJsbkpEeGo4Uldqa19mVTVRazBGMTBKeEgwVXk3NXpOb1o4NUJ1U1p4azFiR3JmT21vMzZEUHlEdTV6OHd3cThDUUJKUm1mb2t4NFQxSDZmTGpvX0V4YUxqQllBYlFoNVE?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:29:15 GMT"
+      "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcDBKRVFQUERTeEJTdHgtc05fblJNNmZ1cjlzMDZoUlVOT3VBR2tjaHhRNVFHZWdmcDJGekhKYW5nQUQ1TU91WlFnOXg0dnpJN2I5bmhMaEVPU09sam0wQzBYWjRGb1ZzZUM5aE1QMWhIZHZKZGtxU3k3NnFaakFpTm1aX3I2bXhoeWlIX3BNZU1MLW5KdG10ZkxkbUF0VnN5Xzl1Tml2RFZsMTVmaE5GZEJUYlpnanI4dEhfdU1BcVhadXBvR2lWVnh2a18tN2d0TVpVakwzS25qQTBHN0Fn0gHkAUFVX3lxTE5WLWZwQ25OenRhckoycjJBMFB0Q2JQSzFfWWFHYl9VMTk2SnZFSXpVMFBjYm1sM3BBMWZFN254Q0NQeDVIQ0hLZ0Zxb1U0XzNCdE5yVVNYM05fcXFDb0NLdGltbjlHY2c0YzM4VGQyakVjVThUcGRMdDgxZXNuY3FRNXJzLVdsVUh4bEJuNTh1d1djeVhRMmNncEE1NzI5NjQ3U0NoVjl3V0dyUTcxQmxMTkZxZ0ozWDlDSWRUcGY5dElwajNZeENGeE9TZl9YMnVfTE93bVVGX0JVY0JrSXVtbWJ3Sg?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 16:05:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Cyient schedules Investor Day for August 25 in Mumbai - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZEpXaHNzOTBrVEptR1RCRUxKNTBJeFR5bUYxR1FGYnUyMGJVVVdFZC1ndEZlc3R0MjlsbzFUV1p0SkQ0LU9JN2NIQm9qc3pINjlSNzNHb3dqTUh1Ymh2MjNhZGRMTnNaTTFPdXU3eklxcFhRWjRNYWUxVjAxa3Y3NnNicDBCUlJJV1BJVFFtUEFTYTNybFl1TWlTcVNKZDBIdGljbnJxQldUNmJ3UllR?oc=5",
-      "pubDate": "Thu, 23 Jul 2026 14:04:10 GMT"
+      "title": "Wall Street hit by AI and Iran war jitters as oil tops $100 - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOWpZSFlqRlpId3dsMWg4aVNuNmFscGd1dmQ5Q1VKaVJ5OU5lMDQ3WGlaUV9CRXphYTRLSEdiVVlIUENMNUR5Uy00TDdTWVZmOU1id2JzRWNtcFpPLXg4UHVlbFhsQkVCeWRCMGFHMkM0bTFPX29WekNhU2ItV0xRNmxVMmdPVnRQRnFZa2RBQVl0VkJEUFJLRE9hOWlNOURHVHh3aEdPODlhd2RzNGtscGZJU3lYZ19pX19UX2NDWXE1amU1SUHSAcYBQVVfeXFMTTlqWUhZakZaSHd3bDFoOGlTbjZhbHBndXZkOUNVSmlSeTlOZTA0N1hpWlFfQkV6YWE0S0hHYlVZSFBDTDVEeVMtNEw3U1lWZjlNYndic0VjbXBaTy14OFB1ZWxYbEJFQnlkQjBhRzJDNG0xT19vVnpDYVNiLVdMUTZsVTJnT1Z0UEZxWWtkQUFZdFZCRFBSS0RPYTlpTTlER1R4d2hHTzg5YXdkczRrbHBmSVN5WGdfaV9fVF9jQ1lxNWplNUlB?oc=5",
+      "pubDate": "Thu, 23 Jul 2026 16:05:12 GMT"
     }
   ],
-  "fetchedAt": 1784817424
+  "fetchedAt": 1784823209
 }
