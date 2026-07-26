@@ -2,7 +2,13 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "10 Midcap stocks with massive upside potential up to 70%! Do you own any?",
+      "title": "GS, Nomura, Axis hired to run Carlyle\u2019s India automotive platform IPO",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gs-nomura-axis-hired-to-run-carlyles-india-automotive-platform-ipo/articleshow/132639839.cms",
+      "pubDate": "Sun, 26 Jul 2026 16:10:31 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "10 midcap stocks with massive upside potential up to 70%! Do you own any?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-with-massive-upside-potential-up-to-70-do-you-own-any/slideshow/132638787.cms",
       "pubDate": "Sun, 26 Jul 2026 14:25:41 +0530"
     },
@@ -25,10 +31,10 @@
       "pubDate": "Sun, 26 Jul 2026 12:09:52 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Gold\u2019s next rally could be taking shape: Why investors should focus on the bigger picture",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/golds-next-rally-could-be-taking-shape-why-investors-should-focus-on-the-bigger-picture/articleshow/132636524.cms",
-      "pubDate": "Sun, 26 Jul 2026 10:28:16 +0530"
+      "src": "LiveMint Markets",
+      "title": "Expert View: Mid-year - recalibrating India equity story with a positive bias, says Vinod Nair",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-mid-year-recalibrating-india-equity-story-with-a-positive-bias-says-vinod-nair-11785059036565.html",
+      "pubDate": "Sun, 26 Jul 2026 15:30:23 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,22 @@
       "pubDate": "Sun, 26 Jul 2026 13:07:24 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?",
-      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-ongoing-us-iran-war-11785044321155.html",
-      "pubDate": "Sun, 26 Jul 2026 11:53:01 +0530"
+      "src": "CNBC TV18",
+      "title": "Zen Technologies unveils portable anti-drone system for high-altitude border operations",
+      "link": "https://www.cnbctv18.com/market/zen-technologies-share-price-unveils-portable-anti-drone-system-for-high-altitude-border-operations-kargil-vijay-diwas-defence-tech-19954105.htm",
+      "pubDate": "Sun, 26 Jul 2026 16:36:58 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Stocks to watch for July 27: Bank of Baroda, Tata Consumer, SBI Card, NTPC",
+      "link": "https://www.cnbctv18.com/photos/market/top-stocks-to-watch-for-july-27-bank-of-baroda-tata-consumer-sbi-card-ntpc-19953586.htm",
+      "pubDate": "Sun, 26 Jul 2026 15:49:52 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Upcoming IPOs in August 2026: Zepto, Shiprocket, Truhome among 14 firms ready for public debut",
+      "link": "https://www.cnbctv18.com/photos/market/upcoming-ipos-in-august-2026-zepto-shiprocket-truhome-and-more-set-to-raise-rs-25000-crore-19954044.htm",
+      "pubDate": "Sun, 26 Jul 2026 15:39:27 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -73,53 +91,35 @@
       "pubDate": "Sun, 26 Jul 2026 12:29:12 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Hindustan Zinc to spend up to \u20b95,000 crore on capex in FY27: CEO Arun Misra",
-      "link": "https://www.cnbctv18.com/market/hindustan-zinc-share-price-spend-up-to-rs-5000-crore-on-capex-in-fy27-ceo-arun-misra-q1-results-19954009.htm",
-      "pubDate": "Sun, 26 Jul 2026 11:49:04 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Pharma is the new tech; sector to remain a top bet despite potential US tariffs, says N Jayakumar",
-      "link": "https://www.cnbctv18.com/market/pharma-is-the-new-tech-sector-to-remain-top-bet-despite-us-tariffs-n-jayakumar-19953940.htm",
-      "pubDate": "Sun, 26 Jul 2026 11:13:43 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Hirect bags first Indian Railways order for MEMU train propulsion systems",
-      "link": "https://www.cnbctv18.com/market/hirect-share-price-bags-first-indian-railways-order-for-memu-train-propulsion-systems-order-win-19953986.htm",
-      "pubDate": "Sun, 26 Jul 2026 10:52:03 +0530"
+      "src": "Google India News",
+      "title": "'Start Investing As Soon As You Begin Earning; Wealth Creation Needs Years Of Waiting': PL Capital CMD Amisha Vora - ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdkpQN0ZuTmgzcWUwcS1ZaFhHQVJ1cWRqSjhaeV8yc0owWWRrMVd4NGhHR01IUHYtYTVOc2dnYjMwWndZZ0VoWVgzNDc0VG93SXc5WTViekM0ZDhuYVZfbDZPcWd0RGxCLXZ2MEVpQWwyVEpEM05ia2lmUzRPWU51bUtDYUhqNmRaRmVqZ250S2VZazBEbEF2UWlyd3ZseDVnUHl3UXdvY25fUzJRSDRFQtIBtgFBVV95cUxQb1ZkREExbTZQRGYxWnJRVXBJNWpyNjFDS0N1TzZKRFJmbi04STJXUjg3TVZZc21ZV0ZJVWNadkhqQ1M1dlFkeUh2bTUzVVIzbDBLUjhEeVIxblYtdUtBX2J3ZlRHREJBMmN6aTNTS2hDRWlwT0h1d0g1Y0hfRWtwWTMtQzVYZi14M1NqVHVXS0E1YWl1a0RGZTg1RkxJSlI5QUxQZG5DVzZLOFRlYVlRX0FTREtBdw?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 11:07:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "10 Midcap stocks with massive upside potential up to 70%! Do you own any? - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV09xQ2xRaHhfZ0c5TGVvX0JqQURqc1dVRFFtUHo2ZWpucUdHSE02bk8yejg1XzZSLXItRGR4aGgwbFhQTW5kZHZDeldxWUF6a1B2b0xfU2M5ZTFwc3J5WXVpR1VhYWFDN1Faek51SUd6Um5ILWlMQXZVTUlVVzNmRzE5R2ZfbjdLQk81ZzVSMnduLWQtTjRQaThzTTBBNzc3X1o2eUJ1aXRuSTVac0dvTzZiM3JoWnhQMnVheFN2Ul9LYU9rQzVrazB5T0xGcWJvekJFMFZTZTVWdw?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 09:04:46 GMT"
+      "title": "Sensex faces resistance at 76,300 as market pressure persists - Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNUZzeEt6VW54SktBbWFnMG1TUmdOZGh2OE5yRE4yN1AwME51NDRoY2RER2gzUHNxMHV0NXVQTHRaSHVkQ1NaY2xGT0ZyeUdZM28xajFxNXBpT1E3WGtXTmFMYmFfcEI2QUNBTDJsbS1FNHY5UlA0WlVIWC1DX2JGY0I1c21STVRaenM1elhXaXI?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 10:28:07 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Upcoming IPOs: Manipal Hospitals IPO, Juniper Green Energy IPO among new nine issues to open next week; full list here - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNNVY2SFU5S1BzalVGOFRtMUtpTEJwc1dDVmVnRXBsVE0wLUdUY3pXZ1ZDdE42eXUzMjVWZ1Flc3lKUExOVzB1N3Z5SGdGWUNJNDFmdmZhNU1TTnMzX3lzZzBlcEVuaktncE03a1FDSnhWQ1MwS2NpaXNkUmNTTmVfaUkzWEdOVkJTeVc3MVpoNnQ4MTdzbE8tdmJEbnVYY3Z6Qk1QY2hsTmgyMDVhZWV4cnRaTnNSSUJnQlRRQ1Z2NWxhOXlwU1lhVk9NaV9xQXBTck5OZ0R1UjVSai1YclRpMW04cEQzNE9qZXMxVXpXM1haTzlJUHAzT0NuRmpBbUFtcHdZbFB3SXVFMGRwaTJvVGIyRkhhV21z0gGYAkFVX3lxTE01VjZIVTlLUHNqVUY4VG0xS2lMQnBzV0NWZWdFcGxUTTAtR1RjeldnVkN0TjZ5dTMyNVZnUWVzeUpQTE5XMHU3dnlIZ0ZZQ0k0MWZ2ZmE1TVNOczNfeXNnMGVwRW5qS2dwTTdrUUNKeFZDUzBLY2lpc2RSY1NOZV9pSTNYR05WQlN5VzcxWmg2dDgxN3NsTy12YkRudVhjdnpCTVBjaGxOaDIwNWFlZXhydFpOc1JJQmdCVFFDVnY1bGE5eXBTWWFWT01pX3FBcFNyTk5nRHVSNVJqLVhyVGkxbThwRDM0T2plczFVelczWFpPOUlQcDNPQ25GakFtQW1wd1lsUHdJdUUwZHBpMm9UYjJGSGFXbXM?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 08:58:30 GMT"
+      "title": "Coal India Q1 Results on July 27: Brokerages Divided as Costs Rise, Offtake Stays Muted - NiftyTrader",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqa2pDLTdNMzhPdEowZ1lxa0Z3ZTdOYTlnNlpSMjlzRGZlMWlKU0FqOW9LUDlCYmFrU1B0T3kxdF9VM0V4a2tUVk5XRXFHQ0FGNGFjNU92d19fenRncTVkUnZBTTA1ZWhDSUZzcUthdy0zOHc4b2JN?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 10:49:39 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Philippine Peso Finds Line in Sand as Record Low Holds - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGUyamZKd1ZCWjE1V180S2Q0OXFkRllXMVhIZFJaYmRrcHNROGQ1bjhURFNYaVNtNmVMNmNlQnMyZ3pGNVAxdURjVC1DYTBMeEtPdFdxYWRqTEJPT3FwYXcxa2dvYVdkZTlFbWxUOHNLbTZGX2puMkdvbkw1ZjdVMGNGNVNPWlF0ZGxzRzV5YllqQ2ZmZ3gweFBoMkI4c25ySHBfaFUzVE9aQdIBrwFBVV95cUxOVFZMT3VJcUMzQURqRUVnbnM0djFwVmlRNGQ5T3lIUWZXMmlqT2Iza1VaNWFWOEZfZ3ZLU05wZ3RxWWJOdEFGRi1LWlprRFNxeDJVX3ZkQ2xaUzE3MHNWb3ZmZTNsbmliZ3loVEpEMkhYc3h4dXFlNlRFVmp3VmZvNUMxdlNYQ19NeDc1M3pKQnFlQUMxSmVNTVA2LUd5ZFhrWmNBSGwyc2lEV2FFS1Iw?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 08:39:24 GMT"
+      "title": "DCB Bank board approves fair disclosure code for UPSI - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQUTJlcWpSR3NsRmNBZ0QtUzV1WUdacFAtbW1GV29HeENod1Ribkp6SnB6aGtoUGtMVWk5Y3AxWjJSTHRhcm5rSFJ4YVVtbHpJbDZiXzY1VURlVjlpQnkxdHZwV3Fyajd3TldhX0J6ZzJsdkYxNmVBNE9JSDlKX0VrRkhRVDZFRFA0MGVoaHJIY0xGMGNTajJnODdqU2VLenRxbnZud0xFU3FfeWRmMzFPWVozWFhhT1hHSlFqNDBjaF9mbGJrcE1rWWNsUVdaWlVUbUNxTzFn?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 11:03:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Zepto, Truhome Finance to lead IPO rush as firms target over \u20b925,000 crore - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOV9ya2ZuR0tGclFJdnN6UTNLdi1ObElpNVpST0NTZWFyaGV5SktmWDYyYUhIZ1Jqai1sbEhSVHpTdmg1eFNUc1hEQ0NmakZVa0NZZFRwUTJnMVZTbXJzVU9XUHpDbVNEb1pqZ0c1azNRWUdZZkxvd3NpLTN1LU5DM09mdERsQ3ZRUTB5SHM5bWhPNW9IQUs3ZnYwcXYzcklLcDJTd3Z5NzNGejRyS0JrOUFzbW1hdDhhRlk3NG9OZEhGNFZWcjdiZ3AwX3ItZw?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 08:50:03 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "AI spending soars as tech giants keep cutting thousands of jobs - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUXVweS1xellfY01lWDJfemhIS2dYSXd2MFRXRGJ0OUVidzFBS1lMdUJYYUpaWGxCc1NPUndKSHR0Q0xXNUtMM1p2elZtWWtaWGFOMGNHUkFoZGgyaWR2NzNZYkRMYTg2RERld282bU81eU5GQ0lxbHhtOWlCX1BCd2Y5cVhqT0xzT2RFSzhybXN6TzRib2dBcnZnZl94QnBsQjlIU2htMXlkSGZHU1BwaExfNXlsbC1oUTd6dzRmb0FYd9IBwgFBVV95cUxOUXVweS1xellfY01lWDJfemhIS2dYSXd2MFRXRGJ0OUVidzFBS1lMdUJYYUpaWGxCc1NPUndKSHR0Q0xXNUtMM1p2elZtWWtaWGFOMGNHUkFoZGgyaWR2NzNZYkRMYTg2RERld282bU81eU5GQ0lxbHhtOWlCX1BCd2Y5cVhqT0xzT2RFSzhybXN6TzRib2dBcnZnZl94QnBsQjlIU2htMXlkSGZHU1BwaExfNXlsbC1oUTd6dzRmb0FYdw?oc=5",
-      "pubDate": "Sun, 26 Jul 2026 08:35:45 GMT"
+      "title": "India among top 5 growth markets, key to global strategy: Red Hat - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcFVlT0NSbm0tblZwR2dfWHByclJRMG4zNEtMWUpvQlJ5eDdVQWFMdWJhdm9lUUI3c2JuZmo2ZUFXSF82dWtTdDEtYlJPSlJYeTlkQl9wUmhPZWIxTE5IT2RIcHkyZnRyZmxHaFQ3WDVud2h5SnZNTEZKWV9mWkwxZUdibDdVM2lvZkNreVlneVVkR2FzOE9zb2JzTTFsNU5RMXJOcFVaZTdFblg3WWtsTlpoaURaZjc4TFZPY0ViVmxIYzlBOEpDUkRPLXbSAdIBQVVfeXFMTVFhRmxERkZYVTk5T01hbzgzNmFzelFJZUtTa0stM2g4OGpEVXFzbGVIMUZsTlR5TFZScUtaNmR0ZWRyYVlNWU5nRHdBdzQ3NTRhOW9OYXFVSEJQVGZMbFByX0JSc1B0NVdSN0xsa0NURDRhZnh4dzBnWFNQb0dPWW9lWVNleXJVTUppMGZURlhPWGdqMEQ0RU12QmhTbjUtMlJMNllMYTMzM2VTZHR4UWEyclhDbXdOUk1kdl9vSjIyN2djcVY0VE1nM01nVFptTkpR?oc=5",
+      "pubDate": "Sun, 26 Jul 2026 10:26:32 GMT"
     }
   ],
-  "fetchedAt": 1785057680
+  "fetchedAt": 1785065119
 }
