@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Bond investors, unsure about Fed policy outlook, hedge against US rate shock",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/bond-investors-unsure-about-fed-policy-outlook-hedge-against-us-rate-shock/articleshow/132665831.cms",
+      "pubDate": "Mon, 27 Jul 2026 21:33:25 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132665751.cms",
+      "pubDate": "Mon, 27 Jul 2026 21:28:10 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Global markets: Shein will struggle to justify up to $50 billion Hong Kong IPO valuation",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-shein-will-struggle-to-justify-up-to-50-billion-hong-kong-ipo-valuation/articleshow/132664467.cms",
       "pubDate": "Mon, 27 Jul 2026 20:16:18 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Mon, 27 Jul 2026 19:51:24 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Hedge fund bets on rising US healthcare stocks near 5-year high, Goldman says",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/hedge-fund-bets-on-rising-us-healthcare-stocks-near-5-year-high-goldman-says/articleshow/132663498.cms",
-      "pubDate": "Mon, 27 Jul 2026 19:31:02 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold, silver prices today: Comex gold and silver edge higher as easing US-Iran tensions cool oil prices",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-edge-higher-as-easing-us-iran-tensions-cool-oil-prices-11785169046300.html",
+      "pubDate": "Mon, 27 Jul 2026 22:51:33 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US stocks: US market climbs after US, Iran pause conflict; focus on Fed, earnings",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-higher-as-pause-in-us-iran-hostilities-lifts-sentiment/articleshow/132663154.cms",
-      "pubDate": "Mon, 27 Jul 2026 19:09:43 +0530"
+      "src": "LiveMint Markets",
+      "title": "AstraZeneca shares climb after earnings beat estimates as cancer drug portfolio drives strong growth",
+      "link": "https://www.livemint.com/market/stock-market-news/astrazeneca-shares-climb-after-earnings-beat-estimates-as-cancer-drug-portfolio-drives-strong-growth-11785169429376.html",
+      "pubDate": "Mon, 27 Jul 2026 22:48:11 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,77 +61,65 @@
       "pubDate": "Mon, 27 Jul 2026 19:29:59 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall Street edges higher as oil prices slide after US-Iran hostilities pause, Microsoft climbs 2.6%, Google gains 2.8%",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-edge-higher-as-us-iran-hostilities-pause-11785159746123.html",
-      "pubDate": "Mon, 27 Jul 2026 19:26:04 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Lohia Corp IPO subscribed over 7.25 times on final day; QIB portion booked 9 times",
-      "link": "https://www.livemint.com/market/stock-market-news/lohia-corp-ipo-subscribed-over-7-25-times-on-final-day-qib-portion-booked-9-times-11785158264834.html",
-      "pubDate": "Mon, 27 Jul 2026 18:58:49 +0530"
+      "src": "CNBC TV18",
+      "title": "Happiest Minds Q1 net profit up 11% QoQ on higher revenue, margin expansion",
+      "link": "https://www.cnbctv18.com/market/stocks/happiest-minds-technologies-share-price-q1-net-profit-up-11-qoq-on-higher-revenue-margin-expansion-19955165.htm",
+      "pubDate": "Mon, 27 Jul 2026 23:04:28 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Apple overtakes Nvidia to reclaim title of world's most valuable listed company",
-      "link": "https://www.cnbctv18.com/market/apple-overtakes-nvidia-to-reclaim-title-of-worlds-most-valuable-listed-company-19955098.htm",
-      "pubDate": "Mon, 27 Jul 2026 21:07:18 +0530"
+      "title": "Meesho Block Deal: Elevation Capital likely to sell 12% stake for \u20b91,200 crore",
+      "link": "https://www.cnbctv18.com/market/stocks/meesho-share-price-block-deal-elevation-capital-likely-to-sell-12-stake-for-rs-1200-crore-19955143.htm",
+      "pubDate": "Mon, 27 Jul 2026 22:20:01 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Tata Motors says Gujarat floods disrupt Sanand plant, impact production of Tiago, Nexon, Sierra",
-      "link": "https://www.cnbctv18.com/market/tata-motors-says-gujarat-floods-disrupt-sanand-plant-impact-production-of-tiago-nexon-sierra-19955039.htm",
-      "pubDate": "Mon, 27 Jul 2026 20:55:44 +0530"
+      "title": "IndiGo appoints Kiran Thadimarri as CFO; to challenge customs duty order",
+      "link": "https://www.cnbctv18.com/business/companies/indigo-appoints-kiran-thadimarri-as-cfo-to-challenge-customs-duty-order-19955136.htm",
+      "pubDate": "Mon, 27 Jul 2026 21:57:58 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "FIIs remain sellers, offload \u20b91,688 crore even as Dalal Street rallies",
-      "link": "https://www.cnbctv18.com/market/fiis-remain-sellers-offload-rs-1688-crore-even-as-dalal-street-rallies-diis-buy-19955044.htm",
-      "pubDate": "Mon, 27 Jul 2026 20:30:50 +0530"
+      "title": "TVS Motor raises stake in TVS Credit with \u20b9711 crore acquisition",
+      "link": "https://www.cnbctv18.com/market/tvs-motor-share-price-raises-stake-in-tvs-credit-with-rs-711-crore-acquisition-19955150.htm",
+      "pubDate": "Mon, 27 Jul 2026 21:55:33 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Nifty Outlook for July 28: Index back at 24,000 but monthly expiry volatility beckons",
-      "link": "https://www.cnbctv18.com/market/nifty-outlook-tuesday-july-28-index-back-at-24000-but-monthly-expiry-volatility-beckons-19955063.htm",
-      "pubDate": "Mon, 27 Jul 2026 20:21:33 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Tata Sons Chairman N Chandrasekaran's FY26 pay rises to \u20b9158.6 crore, highest in five years",
-      "link": "https://www.cnbctv18.com/business/companies/tata-sons-chairman-n-chandrasekarans-fy26-salary-rises-to-rs-158-6-crore-highest-in-five-years-19955036.htm",
-      "pubDate": "Mon, 27 Jul 2026 19:59:03 +0530"
+      "title": "Market Pulse: Key triggers to watch before the July 28 trading session",
+      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-28-trading-session-19955091.htm",
+      "pubDate": "Mon, 27 Jul 2026 21:43:03 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Sensex Up By 776 Points - fintechbiznews.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ0tOM2ROWVFncDhCcU1JUVlaSE1hRDBvbl9hNm1lRVYySldnam5jYW9va1BWNEhPeGRUa0VoRXpXTnRBMjNiTWdMck5DWDB1RDJGYl8yMTJWdUFoYkh1RGotY3JtdklRSTJSbENOR3YxcmJSUlU3bTFCRkx1RmQxcGo3Q2dpWkU?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:52:08 GMT"
+      "title": "'Point of shame for America': Rep. Keating blasts Waltz after US sides with Russia at United Nations - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd09aR2Nyd0Raa2xHN0sxdE5ZblhSWUhpU3JWUi1JWDBxVkR0TTRmWlBQcWh1bkVYZXhUMjNkcXhVN1o1NDRVekxqNWthcFVJcmNKYkpVbkZqLXZjaW9QMW92ZU9XY3MxTGlvc0NDZk15bFBGYlZxcUt3eW4td1hCU3Y5QTg1S2YxMWJZNjRzWThxUGRrbk5BcnpwUVdEMW5Kd040TlRJYzdwMlNqQzgwQzJQb2ZjVDF4Nmd4Y09zS3RiRko5MWYyUzZzZ3ZzUlZFMUowVTYxRzdVa2M4YkVxa2xwRGJFUXg2NlVaaG1QTnZKalZKS2dSOV80eUhua2NJQVhnVTFhUnhNQdIBjwJBVV95cUxPTHNNWkJBeWdpUkRrLXBqdW56akJoMkNzQ3NqNS04eEF1SkZ2YnhzcTFqeURmRWNUWHRieGExX0FkVE9TLWl6bnBmcGxjYUgwX0ZHcWZwSVNGekF2NHhPNHpST0h0d3RZU0ZqMWxLdWlSYVV1WW1taGlVMlFZeVQwY2lUSjBTMDF5aGQ3STVtRFBEZkV4SGVrQXZycE1QWk94dVRwd2tfQldHT3FxMXd3TGNlZHpPblZuT3NmZ185U3lGMFlobGR6QkJnRGo2T3VtQzBRdjU0WWd4RnowRjhibXlKRk8tWWhlNHAtVm5DQTlVQVFacFpIRG1wOEhNeUx3YjNBSFF0U3FGalJNd19R?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 17:26:41 GMT"
     },
     {
       "src": "Google India News",
-      "title": "UPL Q1 Results: Board Meeting & Earnings Call Set for Aug 3, 2026 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVDNuNzVQbUNPaWEyQ3VsR2pZZ1BFUHEweUtvUVBxeTFWdjI3YU56QmFEcS1hNnptVWNsbDlnbF9WMmxvZ192MkhOQnQycXY0VUNyVGxlNnpHV2RMd0lCbFM4b1NPVVNYaWVrdjNiR0JUQWJzcHAwT082OWsxMmw4T3pqeFpJc0JvSTdldWpHS3U0aDhHZVdkVDZwR3V1TlBkWHVNZV9oU3hyUTlva2lRWENQNmdiOXMxQ2c?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:59:05 GMT"
+      "title": "'I'm coming to New York': Netanyahu defies Mamdani's arrest call, accuses Mayor of 'spreading hate' - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUjJSa2M4N0I4SUltSk9lS2xuYU1SVnp6RHVFblBabGxGTU8tWG5KekJyLWdvOU10N0lYUlc5c2xfSXd4TkpLTEl3UTVLNE5McG10WXV6UnlBdVR2M3hVbWpibTZrVEFWNXA5bDRWVlhZM2tfUVBOTVhZdHA1MEpJaDlrbTRRWVo5UTJwcEVQUjIydmhKbFVLQ0JPZjlRTmpjcU5mRUN4MG9odTA1SkNQOVljeGNTS1QzazJnTXBJcjNiUWFIbUdpTmZBZjJweEJNeTBQZjBTUDYtV01GM2lTbUgzOGVaYzhITkdTNEhJbjNEWmZLTnFxYUVjZ2ZQenFGbEpB0gGIAkFVX3lxTE9RWTd0RUp5djN0NFFDcVRKUEhKa0EySnVHcTlTN2p5ZHViZGZ5Qm9uR1pjZnd0ZlB6aXRsR3M0ZE5LSWRQLXNwX09SbjdMWVZpVUJEWnpRZmpRV29uY2sxQm5xWUdNNk1zLWZqQ3ZUWHRpS0lDclhneWRGNW9hYUh4Z0U4ZzlTZDQ4SHE4X1JmWV85YmVMUXNUeVd1RjR0WmJtOS1kemdIVkNKbnhaSHM2MzdTODk5aGk3RFJkVTdHRkZDTnUyS3Y3NGN5Mks5eGJ4V1Z4Q0Nad28yLUFhaWRhRXA3UXJNNU53ZlB2SnZ0eWtvc3I2VTFlRzFBWlg0d2U3UlJDMmsyRQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 17:04:42 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sensex Jumps 776 Points as Indian Markets End Five-Day Losing Streak - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVk9zT2ZEbnNaWk9GMGtQTzM1VDNLVmhwNXRWNE5qcFRJYi1aM2RJaGhFTXJJaDhCTV9icVBNRGVaR3doNjBKSWFtY0tSbTVSZGFIRm1BTkdJXzQ1akxhRFNxbXNodnJsR1IzSWVUN1F5TG8telNjajZCVUZJWEczaW9pd0ZZMHZ6ZEpMR0xwdjFqang2djFMZjJtUk5OUQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:09:09 GMT"
+      "title": "\u2018Govt has time till tomorrow\u2019: CJP\u2019s Saurav Das sets deadline, issues ultimatum to govt - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdlNVQ0poUVliUC1lWEdha2twWHd2Y1haekthT2ZveVhRYjctelh4Q0huWEJ5aGctMVJVejRXNFV5SE1CTTg2b1k4eDZqQldOSDJSSjlrVmlpQW5IV1c3S0hsSUZKUnJlYUtkOWxvbW04N19uN1ZwSzByZHIwNUFTb0cybF9CYTBWbHVVakpCWWc1U0dSQl9nZUF6Z0l5dGpFOVd6cmFha1VZeVFvNHlmZ2VVTi1FNmR4dnpVQi1DcXFFT3pjNlUyVnF4cFh1TUVmM2p4aldSVXlSTTZ30gHkAUFVX3lxTFA3VTRESUtyZjNQYVJucG1FS1NMOFRWOU5pLU9BcWJSc09yMTJoSENXU2JnUlF5cUgyX3hnOWJ0OW1nM2JOeHFqWENIRUQ1VmlyVzlCd3FrU09Lb0t6WWZvRGNpcXZHWFNPSUFRazRqU1MzdEhuajhmWDR0VUZtS3poSFM0TkI5RFFrQnpfOHF2d0ZDNjBhSVBseXZiNTczVDVxOFJaY0pBczhmLV9WLS1KQW12Qnl2SU5GcDVKQnl1eGxnNXdaRTlkRThpWHJScGtEWlNWNWNWajhETkV6aXFJckNoMQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 16:54:27 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Earnings call transcript: Tata Chemicals Q1 2026 gains on India strength - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOW9SbDFlT3NTaTRaU1lxckRZSjVSS3NiSVlTdmxMeUhTeFRnbXFlcUs5eEJEcWd4VldMR0pSZEs5M2pxaG1WOXI0UTByYUY0Qkg5YzhHM2RabjdBbkk3WmhGUGFJazVOVmFKOHdULXNBSmEyXzNLR1NLWTNNQkNXMHk0SldVVm9pa1o0b2NWZWpiLWwwdkx1d2xQYUpiWEpRaTBzOFJhcm1NeHAtSXRyb2UzV3FiV2JiSG40eHRMLVVxODBQSkE?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:12:19 GMT"
+      "title": "'Can't let 9/11 repeat...': Explosive clash over GOP bill to criminalize visa overstays rocks House - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVUdCSDhJWHh2dGRyN0RHQTdYajZaa2dPSlhlb3BBWmI5UW9PNHBXLUNTVmdqclRPOTBmWmVKbk1DczZGZTRfNVRxc2Nxb0tUcXpXMVFyRllqQ3N1S3JDTTVHSFRnV3ptS2lETFlnMGpMbVp0eDZuaS00TWplZlgxM2h5TGJCaWJQQjZEazRIMmtPMWE1ZjVWb2F6U0FBQ2x4Xy1JT2dkQUdmWlVWbmxELTRvNjlncmZYRkRwendIVWFlT2tqLUxUMS1hS0xkRU1fUWtwUGQ5R0Uyb09taml4V2pGVlhvNzVaNGNfVHVQZU5wQkJ1LXlNTWIyS0xrSzB3b01SaNIBigJBVV95cUxQcFB5U2FkbkJWOEVRODBmZjNOYUROWHJSMEx5N0JYTVpIZ0Q3aFJ3STZfWE45a2hDbHV2VVI3N1VzeDNKU2N2WVp4elRzX2JZeW54emJEZWQwWlhUUGlOVlJ4UmVJc3VVV0xnbTBDa3F6cHN0bzZjMUNzVXk5Y3ZUT2pFU05LdnF3Y3UzTHJBOEp4aVRjTi1qNWVhbzZPa2dDeEFRNTJaYlU2TTlVdklOTjBxREwwakp6WjNMUlRnTnFRQ1VOa1VIUmtfV3ZBZHVjYVo5OUZybVduQWQ1QklTNVlpRDVjNDR5Ykh5TGFlekR0YzJldEw1bGVTdE1IZTRwU3U2eDJKQ05zZw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 17:03:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Union Bank of India board to consider foreign currency debt issue - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZUJHbTN5WmxiZEpEaWd6TU1XRGdtVG9nM2VRLUtKa1drOUdmUm5iejdYaFZHNUZINjRWZkd6Um5kd2dTRHdsQU93Wk56QnBONXRzWjRna1hkclFlbTZXX0hEV2d1c1ZYaDdyVDJKYWtUUEwyTFNYRk5HbVp1VHhoNk53bGJ4d3hacDhSWXBsTk5uMFBHNjBZNkdlbkR2dmxiY090aV9qQzZoaXZEOTRvTkVWVHc0eHU0T18wU0hKSQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 15:30:56 GMT"
+      "title": "Parliamentary Panel Slams India\u2019s Drug Pricing Framework - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUnZBUHdMZ2Jpb1FrbS1FLUljMmNCeU5JOWw4Y1BpaHdUMVpsaVNYb3JlY1Y0ZFhNOEhCZWN3ZDZFRThwajhqVzh0cXBTanE3bE5iWTVBMHRRYmNtM3MzRHhwVElYQUttdVJ2RnlJVjRncGdEZFVpWHNyYlQ2eFNOLTh6ak9jUFQxaE9R?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 17:25:00 GMT"
     }
   ],
-  "fetchedAt": 1785167992
+  "fetchedAt": 1785174565
 }
