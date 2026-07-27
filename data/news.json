@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market ends mixed as investors focus on tech earnings",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-mixed-as-investors-focus-on-tech-earnings/articleshow/132670435.cms",
+      "pubDate": "Tue, 28 Jul 2026 01:31:59 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "SpaceX at $100 would imply zero AI value, Morgan Stanley says",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-at-100-would-imply-zero-ai-value-morgan-stanley-says/articleshow/132529138.cms",
       "pubDate": "Mon, 27 Jul 2026 23:31:25 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Mon, 27 Jul 2026 20:16:18 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Tata Power board okays raising Rs 4,500 cr via NCDs",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/tata-power-board-okays-raising-rs-4500-cr-via-ncds/articleshow/132664416.cms",
-      "pubDate": "Mon, 27 Jul 2026 20:13:38 +0530"
+      "src": "LiveMint Markets",
+      "title": "Wall Street ends mixed as investors focus on tech earnings",
+      "link": "https://www.livemint.com/market/wall-street-ends-mixed-as-investors-focus-on-tech-earnings-11785182564454.html",
+      "pubDate": "Tue, 28 Jul 2026 01:32:44 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Dollar eases as oil prices fall on pause in Middle East conflict",
+      "link": "https://www.livemint.com/market/dollar-eases-as-oil-prices-fall-on-pause-in-middle-east-conflict-11785181650901.html",
+      "pubDate": "Tue, 28 Jul 2026 01:17:30 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "US yields decline as oil plunges",
+      "link": "https://www.livemint.com/market/us-yields-decline-as-oil-plunges-11785179752035.html",
+      "pubDate": "Tue, 28 Jul 2026 00:45:51 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -43,24 +61,6 @@
       "pubDate": "Mon, 27 Jul 2026 22:48:11 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Mold-Tek Packaging Q1 results: Net profit jumps 14% YoY to  \u20b925.6 crore; revenue crosses  \u20b9300 crore",
-      "link": "https://www.livemint.com/market/stock-market-news/moldtek-packaging-q1-results-net-profit-jumps-14-yoy-to-rs-25-6-crore-revenue-crosses-rs-300-crore-11785166078548.html",
-      "pubDate": "Mon, 27 Jul 2026 21:19:59 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Crude tumbles as US-Iran pause eases pressure, but risks to India\u2019s oil supply remain",
-      "link": "https://www.livemint.com/market/commodities/crude-tumbles-as-us-iran-pause-eases-pressure-but-risks-to-indias-oil-supply-remain-11785153779446.html",
-      "pubDate": "Mon, 27 Jul 2026 19:54:47 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "PE at 18! Small-cap stock hits 52-week high logging 14% intraday gain",
-      "link": "https://www.livemint.com/market/stock-market-news/pe-at-18-small-cap-stock-hits-52-week-high-logging-14-intraday-gain-11785159683498.html",
-      "pubDate": "Mon, 27 Jul 2026 19:29:59 +0530"
-    },
-    {
       "src": "CNBC TV18",
       "title": "Cipla secures USFDA approval for generic Advair Diskus in all three strengths",
       "link": "https://www.cnbctv18.com/market/stocks/cipla-share-price-secures-usfda-approval-for-generic-advair-diskus-in-all-three-strengths-19955173.htm",
@@ -70,7 +70,7 @@
       "src": "CNBC TV18",
       "title": "Happiest Minds Q1 net profit up 11% QoQ on higher revenue, margin expansion",
       "link": "https://www.cnbctv18.com/market/stocks/happiest-minds-technologies-share-price-q1-net-profit-up-11-qoq-on-higher-revenue-margin-expansion-19955165.htm",
-      "pubDate": "Mon, 27 Jul 2026 23:04:28 +0530"
+      "pubDate": "Tue, 28 Jul 2026 00:38:15 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Stock Market Outlook Today, July 28, 2026: Sensex, Nifty Likely to Remain Range-Bound Ahead of F&O Expiry - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTWpKX1ZZOTk4anZVdGk0TmhiQUt2ZGp6MW1vVEtRRTQ1eGFWTDB1RFpkazhWWHBSeWZTZlUwSzRHU0M1ZEJBeDVxZnBQTDhBSnpjVHFyelJaZDVscjhpSFhPNXQ2UklLZE1xZXg4NFRET1lzeHduUy1Hb1daMGFXMzVBdmNZV0lKSFM3RU1kZEprSkh1dGlNS1QzNzgwZDZBbWxiUW16c1Q3MDVGVjRmZHVIUEplUzRmMXNTMzlMX2FfOEQyNTZuWGdOX21hc18tX2w4RDlUUlJEY3RNbHfSAegBQVVfeXFMUDVlckFOaUV4blMzdURSZlhRUFlnR0NlVWdTc3lfcVdvcjRhODEyVURZYVZrVC1OMjcyYjdvM1V2VFViZ3hOdGd3SGJLUF84WmEzbHVnTUp1RUhsZm0xd3VKRmVMa0tzQnk5Z2I2R0h1d1dha09uUG81R1lwQVpDYmxhYzlyT2tCYXFEeWxhaDJVTm43TVRISnhnaUwwcU5wVVdILUNQQXZJSENfZXBZMHBGUFU2Z0NIbFY3SFZOZ0xWS2JsSG1UZGR3d2FFWTZJSGdDYmJwZWhSZGFseWcxWEppaTVBMXhsMg?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 18:43:39 GMT"
+      "title": "Stocks to Watch Today: Meesho, Zaggle Prepaid, CCL Products, Usha Martin, Godfrey Phillips, Tata... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQWEZtV25oS0VEb1dzUjN6UEJ1MDZ5MUFabUhxU2NFbVJGMU5HM1BySUVBc2RJOWxmbUZPVE8xQXJFVVJRTGJZUlVyN0lyME43bk9JdTFFZGJFSDhVNXVXM2c5RHlVcG9Kd1FZdGwwU25kZmtjbUhjSUtWcm5oTWY5NjU3YVducnczcEVSSTJxWTBxcHZOZ2dKNm1rMjhPOHRqQWk2VFBET2doWlNxZUVCd2ZaSUtScThxT2JjRTN0dGVobzItcC1GZm0yc0puSTFUUGYzUzEyTFM0dUZtVUEtWGRIREtPcl8wT1ZQOHpNcDVQV3pCN2VhV0FSV0VGNEpJRVY4VVBjbGc4R2x6QkhJYnpEb3FrRU5aVTBCWDFDZnhUaGlWRTA4VlNNRUt5TTE5NlHSAbICQVVfeXFMUFhGbVduaEtFRG9Xc1IzelBCdTA2eTFBWm1IcVNjRW1SRjFORzNQcklFQXNkSTlsZm1GT1RPMUFyRVVSUUxiWVJVcjdJcjBON25PSXUxRWRiRUg4VTV1VzNnOUR5VXBvSndRWXRsMFNuZGZrY21IY0lLVnJuaE1mOTY1N2FXbnJ3M3BFUkkycVkwcXB2TmdnSjZtazI4Tzh0akFpNlRQRE9naFpTcWVFQndmWklLUnE4cU9iY0UzdHRlaG8yLXAtRmZtMnNKbkkxVFBmM1MxMkxTNHVGbVVBLVhkSERLT3JfME9WUDh6TXA1UFd6QjdlYVdBUldFRjRKSUVWOFVQY2xnOEdsekJISWJ6RG9xa0VOWlUwQlgxQ2Z4VGhpVkUwOFZTTUVLeU0xOTZR?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:09:29 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Anand Rathi IT invokes pledge on 96,997 shares of wealth firm - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLTRfd1o5Z2dGMFFWVHJ3QXhiVDhPXzVHVE1fTTFkTWZHN1dnTzFzR3F6cTNKUW1USS1ISldNUEc3RHZoN3ZuaTRBSWd1VXIzNy02WTJtYXFBUkJ0Yzd2WW1SRndyX08xaTlqWnRlOHp1QTE4QkxKZk9LLTMtcVBaejEwcDJBajc3U3VfY2IwbXZFbnZXNnRZSjNwX3hrSlM1OUlWVVNZbXZ5SWtvbEdHc0JsWXZtY0oyOXc?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 18:57:44 GMT"
+      "title": "\u2018Press still hot & heavy about me\u2019: Fauci\u2019s Diary exposes his \u2018fame obsession\u2019 despite COVID deaths - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQSDhPU2RpUEdRN1RQZkFmNnNscml0bjhianpRdlc3RXpZV1cyYUk5Z0xKXzNSR2xCRlpRMnAydzBRWE83anpYWTRqRUhSMDd1RDMwWm1VMEktdk02VTJMRFYzX2FRLS1CZEJIX1p0bjZ1TDcxaVdKZjdnTFM1MjZHUXJsNnFZemwxVVc4Vnh6VzYxM3ozVHRWc1RyUUZBYl9jcFVLMWg2d18yQ0I0LTNNTVh5V0pleF94NXVjTUN2Z0hFU0Q2N3FfV041TG53TFl1bDZwNktuV0hWNlFycWthME1Zc0NibVQ1bDlaYTNncXJjN1JVc2JjeTh3NUVGUWdfUzE40gGIAkFVX3lxTE5IdTRidEhEMlY1T1RmYzYzUFN2Z0MwWC1JbEw3QTZ5ckluRVRickJBakdrekhhbGc2M2M0ODJlVFBqZVJfdUt4eFNSc29ENXVoa2FBUmQwTW5sZlIteV9KX2xMVGh4bGI2TkstVndYNklRT04wM0VSOVhFeFpNMHlEZ25WcU5QOWlwbEtNMEFIWklYTGZWRjFmTElWVDliSTJHWnJlZUhoaGdxVXZ5UzNCUkhIWGczV3JnelZmSXZ6Y2habUxHNUVuM1RzQUw0bV93Ymx0TGQ3M3Frc2gxVkt4RWVUUEdRdzZvaXBvS0RmbUtFYXVQOE5pbmNwbGM2MVRIcy1xNU9pYg?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:20:16 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SMC Global Board Clears Q1 Results and Rs 150 Crore NCD Fundraise - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYjUyeGNwVTlOTktyVHd0X0sxSGxqWjFJd3NkU2RZNGtYeU8tUDlkS3MyakxPTkhPdUVpN1pwb1dqWWJQMlBkUnF6OGtNWFpQOFVZYkpGQWlkZk9qSl9YRGl1RXZMX1Q5dmk5U3ppYnBfVkc0VXpxU196Y3lWQVFyRWZoYkNzdkl2SmVrbGNSLWZ5VGRHaVp6M0h6VTZiNi1mX2o0eVFBWUFBRUdXSDduSC0tbnJ1NzVnQ2VKQ3pBRGJ4VUVDUXRsdzFXcTJ4a1d0aE1yRTRyNDRUMDJEQlpF?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 18:46:40 GMT"
+      "title": "'Are you & Netanyahu on same page about Iran?': Trump\u2019s answer shocks press ahead of Bibi\u2019s US visit - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQmRZa3BDbk9PZThrc2FDdEZ2NExVS05lWGFsVU5UTlBTa2JVTGZ5blp4dDBCZ3htaHEtdDVFQ3ZjTHRMVXdWSFdlRzFVM0MxZkZ0QmlPbGZKVzdaRGNuZ0hOYnhPRGMyYy1CQmItWTV5Q1V2QzItS05pbVJ1YWd6WllfaXJhQnJCMngzdWhya1BPamllczBnUWlDazFBVkF4VVZYQ0RxOTVFdXlyTjZnMkJWcEZ2UmVCb3JKaWV5akdwY0lENkZiTFl1WGpjeEdnYmttU1NfUzlIRXRSanI3V1V0TVhPbUJGdWxLTGxoU2VIVWdGbTA1NjU0SHZZekE3M1Z0dNIBigJBVV95cUxQNFJXZzhUTzBCRkVsS014djJDMVdkb05IQV9wekdDRGY1eDVfeWVrcGp1MVJueHFUV0FBQVlxUDAyd3FYT01oMGlUb0dmUEhGZmYwWHk3N3d5ZnZfd2hXYkVXTERld0xuOHB0NEVKdm0tV2Y3bno4YWlmQ05tbmJGZHZfREsxbzY3dTNMWDJESjJMUHJvVUphamJia2hNRUVXV0pnbl9BYUlsdWhTM3JhSVloMElrOEZuR1ZIbUpLNllRNm8ydTJOSEswM01COFlNNVlpRUNGY1F2eENLQmJZdzZ3UVVoN3M4RnJmUnQxclhRWjNFOVEzQWlRVXRRdWI3WGczdFlNamF2Zw?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 19:48:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Radical day & night shift at borders\u2026': Stephen Miller hails Trump's border security turnaround - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONVZGWkRrdXRGVmJSS3A5RkN0VUdQWFpEbkpralRobGNRR0l4c280MXNKVXc3bHFydmw2dGZKRnphblB2dG9MTk0xM1JpcnJwSWRyNnpDZXRMcjktb1Q1NnUwXy1MQVY1emJjSjNkOTFIZHAteE42MlFWbk5xNEdfRXd4amJzVGNfZVBqV0dzeFJEdVcxanBQZ2F1U21QTzJhX0s0dkU3anhibWVqb0lVaXJuZ0VNcEcxdXF5N2F0TGZmVjY5ZGMzMG1zcnJBRzNoRV83ZjdZQ3BpU3JvWEllUldUQnBzcjNOMFU1RVhnTXd6YkRkMUpnZDh3TjloTGhT0gGGAkFVX3lxTFBmOTJReFlVZ25BWVhrTmFoZXpHbDFEZEJLSHBTYVpuMms4akZlVTZZRTdnaS1VcklkSFVrMnk1OGFRNTI3ZExSc2w4QXFncUJURzZJRHY5VWZJR3cxczBadGFwcmdVYUFrcTBab1J1b29Fc0psQW5XZzFHYVFlai02azRrU3pNaXVybUdQMVhsN1lSMi1ia1U1NV91YUNHR3ZiclBVYS1rMU90STBZelFiRHoxRl9UTXBSaGliNVhGWjB2MU1vd1V5WFlmblRTelRWajZWZ1VIQTBEd2psamZ0SXk2RnBoVXh2ZVhubVhhTW5Dem8yODZZNE1YODYwX256WXgzeWc?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 18:15:28 GMT"
+      "title": "Market Wrap: Nifty and Sensex Close Higher with Strong Sectoral Rotation - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcTVxeTM3T2E3YkpzS0ZvY1dYZXhhUFBxQzE5ZWlTWHI4YUpuWG1pYnNzODN0TE5GeGRveUZvcTA5QUhwTUxQT3pOcEQtUnZDODFod1BfWXZvNjJJTERXRjQ1X1U2VGs4NzFieUlQcGptclFaUkNpWEdzdzV1bE51MHVSTUF6cTRtWW13Vjc2SlNzWmVkWDBMdE5zY2l3ZlFFSi1PZGtZam9HVGt3d1IySGxRMVdFT1VEa3hvUkpuLVgtNS16?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 20:04:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Bajaj Electricals Q1 Results: Earnings Call Scheduled for Aug 6 to Discuss Q1FY27 Performance - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMlJHRnRlMm83bDhoZWxYRERKZkdhenhieHMtTnk1TU1hNTVxdk5FY3RmUmNsS3ZaM2lCRWFPQm1mc1JEaThiaXhRSldjVTFQODhpQXRMS2JCbUZJQzRUaXJNVk9XWmZzMkZUOWpKdXZOc3VPRmRwVUhGWF9paEpZWTVoaGxvVlBLbmlkMDU5LTFlenNtb3JXNFpMNXdnSHJWd3dCcnFkcmktVDhDcUdqU1M2RU9vZk12djM1UEVJVEphUVRnN1F6bmZsN3dtS3R3RnE0Y2pzWXNQQ25Od01pdU5zWQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 18:31:33 GMT"
+      "title": "The Turning Tide: Why the Worst Is Over for Indian IT - Dalal Street Investment Journal",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON0Q3dFhHMlYyVFpHT2FVbWdMYS1OYW1wNlZvVEZZVWp4OV92cU1XSFBnbjdncWVJVE1hdVFpNDJSd2oxVFZhTXNMeGRRbXg3LTg5WE1JTHJDV21BMlQ1djdUMU9ZQXk1a0FOODdMYW04TVFlZzUxLXBZZC16TzdKWUFzRkRsM3NLN3NJM0NoTG5WeHB1US0tWnpUdWdQWHRXRWZN?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 19:39:43 GMT"
     }
   ],
-  "fetchedAt": 1785179079
+  "fetchedAt": 1785183784
 }
