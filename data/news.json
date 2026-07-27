@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "SpaceX at $100 would imply zero AI value, Morgan Stanley says",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/spacex-at-100-would-imply-zero-ai-value-morgan-stanley-says/articleshow/132529138.cms",
+      "pubDate": "Mon, 27 Jul 2026 23:31:25 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Bond investors, unsure about Fed policy outlook, hedge against US rate shock",
       "link": "https://economictimes.indiatimes.com/markets/bonds/bond-investors-unsure-about-fed-policy-outlook-hedge-against-us-rate-shock/articleshow/132665831.cms",
       "pubDate": "Mon, 27 Jul 2026 21:33:25 +0530"
@@ -23,12 +29,6 @@
       "title": "Tata Power board okays raising Rs 4,500 cr via NCDs",
       "link": "https://economictimes.indiatimes.com/markets/bonds/tata-power-board-okays-raising-rs-4500-cr-via-ncds/articleshow/132664416.cms",
       "pubDate": "Mon, 27 Jul 2026 20:13:38 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Adani Energy launches Rs 3,500 crore QIP, sets floor price at Rs 1,698 per share",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/adani-energy-launches-qip-sets-floor-price-at-rs-1698-per-share/articleshow/132663955.cms",
-      "pubDate": "Mon, 27 Jul 2026 19:51:24 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Cipla secures USFDA approval for generic Advair Diskus in all three strengths",
+      "link": "https://www.cnbctv18.com/market/stocks/cipla-share-price-secures-usfda-approval-for-generic-advair-diskus-in-all-three-strengths-19955173.htm",
+      "pubDate": "Mon, 27 Jul 2026 23:31:48 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Happiest Minds Q1 net profit up 11% QoQ on higher revenue, margin expansion",
       "link": "https://www.cnbctv18.com/market/stocks/happiest-minds-technologies-share-price-q1-net-profit-up-11-qoq-on-higher-revenue-margin-expansion-19955165.htm",
       "pubDate": "Mon, 27 Jul 2026 23:04:28 +0530"
@@ -85,41 +91,35 @@
       "pubDate": "Mon, 27 Jul 2026 21:55:33 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the July 28 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-28-trading-session-19955091.htm",
-      "pubDate": "Mon, 27 Jul 2026 21:43:03 +0530"
+      "src": "Google India News",
+      "title": "Stock Market Outlook Today, July 28, 2026: Sensex, Nifty Likely to Remain Range-Bound Ahead of F&O Expiry - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTWpKX1ZZOTk4anZVdGk0TmhiQUt2ZGp6MW1vVEtRRTQ1eGFWTDB1RFpkazhWWHBSeWZTZlUwSzRHU0M1ZEJBeDVxZnBQTDhBSnpjVHFyelJaZDVscjhpSFhPNXQ2UklLZE1xZXg4NFRET1lzeHduUy1Hb1daMGFXMzVBdmNZV0lKSFM3RU1kZEprSkh1dGlNS1QzNzgwZDZBbWxiUW16c1Q3MDVGVjRmZHVIUEplUzRmMXNTMzlMX2FfOEQyNTZuWGdOX21hc18tX2w4RDlUUlJEY3RNbHfSAegBQVVfeXFMUDVlckFOaUV4blMzdURSZlhRUFlnR0NlVWdTc3lfcVdvcjRhODEyVURZYVZrVC1OMjcyYjdvM1V2VFViZ3hOdGd3SGJLUF84WmEzbHVnTUp1RUhsZm0xd3VKRmVMa0tzQnk5Z2I2R0h1d1dha09uUG81R1lwQVpDYmxhYzlyT2tCYXFEeWxhaDJVTm43TVRISnhnaUwwcU5wVVdILUNQQXZJSENfZXBZMHBGUFU2Z0NIbFY3SFZOZ0xWS2JsSG1UZGR3d2FFWTZJSGdDYmJwZWhSZGFseWcxWEppaTVBMXhsMg?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:43:39 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Point of shame for America': Rep. Keating blasts Waltz after US sides with Russia at United Nations - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPd09aR2Nyd0Raa2xHN0sxdE5ZblhSWUhpU3JWUi1JWDBxVkR0TTRmWlBQcWh1bkVYZXhUMjNkcXhVN1o1NDRVekxqNWthcFVJcmNKYkpVbkZqLXZjaW9QMW92ZU9XY3MxTGlvc0NDZk15bFBGYlZxcUt3eW4td1hCU3Y5QTg1S2YxMWJZNjRzWThxUGRrbk5BcnpwUVdEMW5Kd040TlRJYzdwMlNqQzgwQzJQb2ZjVDF4Nmd4Y09zS3RiRko5MWYyUzZzZ3ZzUlZFMUowVTYxRzdVa2M4YkVxa2xwRGJFUXg2NlVaaG1QTnZKalZKS2dSOV80eUhua2NJQVhnVTFhUnhNQdIBjwJBVV95cUxPTHNNWkJBeWdpUkRrLXBqdW56akJoMkNzQ3NqNS04eEF1SkZ2YnhzcTFqeURmRWNUWHRieGExX0FkVE9TLWl6bnBmcGxjYUgwX0ZHcWZwSVNGekF2NHhPNHpST0h0d3RZU0ZqMWxLdWlSYVV1WW1taGlVMlFZeVQwY2lUSjBTMDF5aGQ3STVtRFBEZkV4SGVrQXZycE1QWk94dVRwd2tfQldHT3FxMXd3TGNlZHpPblZuT3NmZ185U3lGMFlobGR6QkJnRGo2T3VtQzBRdjU0WWd4RnowRjhibXlKRk8tWWhlNHAtVm5DQTlVQVFacFpIRG1wOEhNeUx3YjNBSFF0U3FGalJNd19R?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 17:26:41 GMT"
+      "title": "Anand Rathi IT invokes pledge on 96,997 shares of wealth firm - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLTRfd1o5Z2dGMFFWVHJ3QXhiVDhPXzVHVE1fTTFkTWZHN1dnTzFzR3F6cTNKUW1USS1ISldNUEc3RHZoN3ZuaTRBSWd1VXIzNy02WTJtYXFBUkJ0Yzd2WW1SRndyX08xaTlqWnRlOHp1QTE4QkxKZk9LLTMtcVBaejEwcDJBajc3U3VfY2IwbXZFbnZXNnRZSjNwX3hrSlM1OUlWVVNZbXZ5SWtvbEdHc0JsWXZtY0oyOXc?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:57:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'I'm coming to New York': Netanyahu defies Mamdani's arrest call, accuses Mayor of 'spreading hate' - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNUjJSa2M4N0I4SUltSk9lS2xuYU1SVnp6RHVFblBabGxGTU8tWG5KekJyLWdvOU10N0lYUlc5c2xfSXd4TkpLTEl3UTVLNE5McG10WXV6UnlBdVR2M3hVbWpibTZrVEFWNXA5bDRWVlhZM2tfUVBOTVhZdHA1MEpJaDlrbTRRWVo5UTJwcEVQUjIydmhKbFVLQ0JPZjlRTmpjcU5mRUN4MG9odTA1SkNQOVljeGNTS1QzazJnTXBJcjNiUWFIbUdpTmZBZjJweEJNeTBQZjBTUDYtV01GM2lTbUgzOGVaYzhITkdTNEhJbjNEWmZLTnFxYUVjZ2ZQenFGbEpB0gGIAkFVX3lxTE9RWTd0RUp5djN0NFFDcVRKUEhKa0EySnVHcTlTN2p5ZHViZGZ5Qm9uR1pjZnd0ZlB6aXRsR3M0ZE5LSWRQLXNwX09SbjdMWVZpVUJEWnpRZmpRV29uY2sxQm5xWUdNNk1zLWZqQ3ZUWHRpS0lDclhneWRGNW9hYUh4Z0U4ZzlTZDQ4SHE4X1JmWV85YmVMUXNUeVd1RjR0WmJtOS1kemdIVkNKbnhaSHM2MzdTODk5aGk3RFJkVTdHRkZDTnUyS3Y3NGN5Mks5eGJ4V1Z4Q0Nad28yLUFhaWRhRXA3UXJNNU53ZlB2SnZ0eWtvc3I2VTFlRzFBWlg0d2U3UlJDMmsyRQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 17:04:42 GMT"
+      "title": "SMC Global Board Clears Q1 Results and Rs 150 Crore NCD Fundraise - The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOYjUyeGNwVTlOTktyVHd0X0sxSGxqWjFJd3NkU2RZNGtYeU8tUDlkS3MyakxPTkhPdUVpN1pwb1dqWWJQMlBkUnF6OGtNWFpQOFVZYkpGQWlkZk9qSl9YRGl1RXZMX1Q5dmk5U3ppYnBfVkc0VXpxU196Y3lWQVFyRWZoYkNzdkl2SmVrbGNSLWZ5VGRHaVp6M0h6VTZiNi1mX2o0eVFBWUFBRUdXSDduSC0tbnJ1NzVnQ2VKQ3pBRGJ4VUVDUXRsdzFXcTJ4a1d0aE1yRTRyNDRUMDJEQlpF?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:46:40 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\u2018Govt has time till tomorrow\u2019: CJP\u2019s Saurav Das sets deadline, issues ultimatum to govt - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdlNVQ0poUVliUC1lWEdha2twWHd2Y1haekthT2ZveVhRYjctelh4Q0huWEJ5aGctMVJVejRXNFV5SE1CTTg2b1k4eDZqQldOSDJSSjlrVmlpQW5IV1c3S0hsSUZKUnJlYUtkOWxvbW04N19uN1ZwSzByZHIwNUFTb0cybF9CYTBWbHVVakpCWWc1U0dSQl9nZUF6Z0l5dGpFOVd6cmFha1VZeVFvNHlmZ2VVTi1FNmR4dnpVQi1DcXFFT3pjNlUyVnF4cFh1TUVmM2p4aldSVXlSTTZ30gHkAUFVX3lxTFA3VTRESUtyZjNQYVJucG1FS1NMOFRWOU5pLU9BcWJSc09yMTJoSENXU2JnUlF5cUgyX3hnOWJ0OW1nM2JOeHFqWENIRUQ1VmlyVzlCd3FrU09Lb0t6WWZvRGNpcXZHWFNPSUFRazRqU1MzdEhuajhmWDR0VUZtS3poSFM0TkI5RFFrQnpfOHF2d0ZDNjBhSVBseXZiNTczVDVxOFJaY0pBczhmLV9WLS1KQW12Qnl2SU5GcDVKQnl1eGxnNXdaRTlkRThpWHJScGtEWlNWNWNWajhETkV6aXFJckNoMQ?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 16:54:27 GMT"
+      "title": "'Radical day & night shift at borders\u2026': Stephen Miller hails Trump's border security turnaround - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxONVZGWkRrdXRGVmJSS3A5RkN0VUdQWFpEbkpralRobGNRR0l4c280MXNKVXc3bHFydmw2dGZKRnphblB2dG9MTk0xM1JpcnJwSWRyNnpDZXRMcjktb1Q1NnUwXy1MQVY1emJjSjNkOTFIZHAteE42MlFWbk5xNEdfRXd4amJzVGNfZVBqV0dzeFJEdVcxanBQZ2F1U21QTzJhX0s0dkU3anhibWVqb0lVaXJuZ0VNcEcxdXF5N2F0TGZmVjY5ZGMzMG1zcnJBRzNoRV83ZjdZQ3BpU3JvWEllUldUQnBzcjNOMFU1RVhnTXd6YkRkMUpnZDh3TjloTGhT0gGGAkFVX3lxTFBmOTJReFlVZ25BWVhrTmFoZXpHbDFEZEJLSHBTYVpuMms4akZlVTZZRTdnaS1VcklkSFVrMnk1OGFRNTI3ZExSc2w4QXFncUJURzZJRHY5VWZJR3cxczBadGFwcmdVYUFrcTBab1J1b29Fc0psQW5XZzFHYVFlai02azRrU3pNaXVybUdQMVhsN1lSMi1ia1U1NV91YUNHR3ZiclBVYS1rMU90STBZelFiRHoxRl9UTXBSaGliNVhGWjB2MU1vd1V5WFlmblRTelRWajZWZ1VIQTBEd2psamZ0SXk2RnBoVXh2ZVhubVhhTW5Dem8yODZZNE1YODYwX256WXgzeWc?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:15:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Can't let 9/11 repeat...': Explosive clash over GOP bill to criminalize visa overstays rocks House - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVUdCSDhJWHh2dGRyN0RHQTdYajZaa2dPSlhlb3BBWmI5UW9PNHBXLUNTVmdqclRPOTBmWmVKbk1DczZGZTRfNVRxc2Nxb0tUcXpXMVFyRllqQ3N1S3JDTTVHSFRnV3ptS2lETFlnMGpMbVp0eDZuaS00TWplZlgxM2h5TGJCaWJQQjZEazRIMmtPMWE1ZjVWb2F6U0FBQ2x4Xy1JT2dkQUdmWlVWbmxELTRvNjlncmZYRkRwendIVWFlT2tqLUxUMS1hS0xkRU1fUWtwUGQ5R0Uyb09taml4V2pGVlhvNzVaNGNfVHVQZU5wQkJ1LXlNTWIyS0xrSzB3b01SaNIBigJBVV95cUxQcFB5U2FkbkJWOEVRODBmZjNOYUROWHJSMEx5N0JYTVpIZ0Q3aFJ3STZfWE45a2hDbHV2VVI3N1VzeDNKU2N2WVp4elRzX2JZeW54emJEZWQwWlhUUGlOVlJ4UmVJc3VVV0xnbTBDa3F6cHN0bzZjMUNzVXk5Y3ZUT2pFU05LdnF3Y3UzTHJBOEp4aVRjTi1qNWVhbzZPa2dDeEFRNTJaYlU2TTlVdklOTjBxREwwakp6WjNMUlRnTnFRQ1VOa1VIUmtfV3ZBZHVjYVo5OUZybVduQWQ1QklTNVlpRDVjNDR5Ykh5TGFlekR0YzJldEw1bGVTdE1IZTRwU3U2eDJKQ05zZw?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 17:03:45 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Parliamentary Panel Slams India\u2019s Drug Pricing Framework - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUnZBUHdMZ2Jpb1FrbS1FLUljMmNCeU5JOWw4Y1BpaHdUMVpsaVNYb3JlY1Y0ZFhNOEhCZWN3ZDZFRThwajhqVzh0cXBTanE3bE5iWTVBMHRRYmNtM3MzRHhwVElYQUttdVJ2RnlJVjRncGdEZFVpWHNyYlQ2eFNOLTh6ak9jUFQxaE9R?oc=5",
-      "pubDate": "Mon, 27 Jul 2026 17:25:00 GMT"
+      "title": "Bajaj Electricals Q1 Results: Earnings Call Scheduled for Aug 6 to Discuss Q1FY27 Performance - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOMlJHRnRlMm83bDhoZWxYRERKZkdhenhieHMtTnk1TU1hNTVxdk5FY3RmUmNsS3ZaM2lCRWFPQm1mc1JEaThiaXhRSldjVTFQODhpQXRMS2JCbUZJQzRUaXJNVk9XWmZzMkZUOWpKdXZOc3VPRmRwVUhGWF9paEpZWTVoaGxvVlBLbmlkMDU5LTFlenNtb3JXNFpMNXdnSHJWd3dCcnFkcmktVDhDcUdqU1M2RU9vZk12djM1UEVJVEphUVRnN1F6bmZsN3dtS3R3RnE0Y2pzWXNQQ25Od01pdU5zWQ?oc=5",
+      "pubDate": "Mon, 27 Jul 2026 18:31:33 GMT"
     }
   ],
-  "fetchedAt": 1785174565
+  "fetchedAt": 1785179079
 }
