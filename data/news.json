@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Fusion Finance forfeits unpaid rights shares after final reminder",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fusion-finance-forfeits-unpaid-rights-shares-after-final-reminder/articleshow/132689928.cms",
+      "pubDate": "Tue, 28 Jul 2026 22:16:54 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132688972.cms",
       "pubDate": "Tue, 28 Jul 2026 21:22:42 +0530"
@@ -25,10 +31,16 @@
       "pubDate": "Tue, 28 Jul 2026 21:03:06 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "India's cities need USD 2.4 trillion investment by 2050, but municipal corporations raise only a fraction: Report",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-cities-need-usd-2-4-trillion-investment-by-2050-but-municipal-corporations-raise-only-a-fraction-report/articleshow/132688500.cms",
-      "pubDate": "Tue, 28 Jul 2026 21:01:51 +0530"
+      "src": "LiveMint Markets",
+      "title": "Crude prices extend decline, fall over 5% on US-Iran talks optimism; Brent down 20% in three sessions",
+      "link": "https://www.livemint.com/market/stock-market-news/crude-prices-extend-decline-fall-over-5-on-us-iran-talks-optimism-brent-down-20-in-three-sessions-11785258884871.html",
+      "pubDate": "Tue, 28 Jul 2026 23:02:15 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Pentagon blacklist of CXMT: Is Washington accidentally creating a stronger Chinese chip rival?",
+      "link": "https://www.livemint.com/market/pentagon-blacklist-of-cxmt-is-washington-accidentally-creating-a-stronger-chinese-chip-rival-11785251453860.html",
+      "pubDate": "Tue, 28 Jul 2026 22:51:50 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,22 +61,22 @@
       "pubDate": "Tue, 28 Jul 2026 19:17:53 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Birlasoft Q1 Results: Net profit jumps 51% YoY to  \u20b9161 crore; TCV rises 20%",
-      "link": "https://www.livemint.com/market/stock-market-news/birlasoft-q1-results-net-profit-jumps-51-yoy-to-rs-161-crore-tcv-rises-20-11785241695017.html",
-      "pubDate": "Tue, 28 Jul 2026 18:08:11 +0530"
+      "src": "CNBC TV18",
+      "title": "IndiGo's next destination? The world, says Rahul Bhatia",
+      "link": "https://www.cnbctv18.com/business/aviation/indigos-next-destination-the-world-says-rahul-bhatia-19956150.htm",
+      "pubDate": "Tue, 28 Jul 2026 22:21:05 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Expert view: 10 sectors that could generate alpha over the next 5\u201310 years, according to Right Horizons PMS founder",
-      "link": "https://www.livemint.com/market/stock-market-news/expert-view-10-sectors-that-could-generate-alpha-over-the-next-5-10-years-according-to-right-horizons-pms-founder-11785238853300.html",
-      "pubDate": "Tue, 28 Jul 2026 17:32:16 +0530"
+      "src": "CNBC TV18",
+      "title": "Graphite India faces 3.68% preliminary US countervailing duty on graphite electrode exports",
+      "link": "https://www.cnbctv18.com/market/stocks/graphite-india-share-price-faces-3-68-preliminary-us-countervailing-duty-on-graphite-electrode-exports-19956138.htm",
+      "pubDate": "Tue, 28 Jul 2026 22:13:16 +0530"
     },
     {
       "src": "CNBC TV18",
       "title": "RPG Life Sciences Q1 net profit jumps 17% on strong domestic formulations, API growth",
       "link": "https://www.cnbctv18.com/market/stocks/rpg-life-sciences-share-price-q1-net-profit-jumps-17-on-strong-domestic-formulations-api-growth-19956108.htm",
-      "pubDate": "Tue, 28 Jul 2026 21:44:13 +0530"
+      "pubDate": "Tue, 28 Jul 2026 22:17:30 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -79,47 +91,35 @@
       "pubDate": "Tue, 28 Jul 2026 21:30:43 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the July 29 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-29-trading-session-19956047.htm",
-      "pubDate": "Tue, 28 Jul 2026 21:26:13 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Nifty Outlook for July 29: Index looks for 24,000 support ahead of big results day",
-      "link": "https://www.cnbctv18.com/market/nifty-outlook-wednesday-july-29-index-looks-for-24000-support-ahead-of-big-results-day-19956086.htm",
-      "pubDate": "Tue, 28 Jul 2026 20:59:19 +0530"
+      "src": "Google India News",
+      "title": "Indian Oil Stock Leads 3 India Dividend Picks Yielding 5% Or More - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUTRWbF9ZSGppRjF3NGtqa0dLcVV5aGdoSzhkN2I1Q2tZbDVueXp3NGpYc0hNWG0wUUF4cnhWS3llVU5sMl9aYlhvY2djVVR4R01ZaFdnNmNWNkJKRWhGTWxacS10YWJQWU5kZGlvVGtKdHcwSW9yV3g1MXZZWkczMWJ2eGh5TmVuRXhlVXpBSTdGdE92ZlU4bXZzZUNSRTFrcFFGTmN3S05SeTUzUVNtUVFNcFI0aml4TnlyLVUxYXNVM0k2cWp1eDd5RUJtMVpIeEQwcFh2a9IB3AFBVV95cUxQalpnejRRNE96bkJpdDBvaGFHT2p2U25ONVE0S3pnSXFMaHVNX0RCdEVNUDVEVWxLbFZZTjM0aEV6dTJabURlWGIwaHVHeV9zY2poaWZTQnBaamdWeWIzWXBzVldtNFVyT1R1X2xQMXNkN3VUaVVZelZZZ1ZLWFdUUjVUeWlFbmZFSF9ZdVZ1RzVldHY5LU1IbU1NVkhmaXNHVWJZMENvMWdfdzg1aW5GQ0VVVHp3TUwzYjI2UXpHdWVMa2xwV3Y5RVpMTktLbWlYaUk3SUc0ekNoWjZP?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 17:43:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Capillary Technologies Q1 Results: Earnings call scheduled for Aug 4 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ1RhRUU1bFRiV1ZLUGJKY3NMT1BPaGJqQlF2MGhxUWxMVkZYQ01ROXlsZkhYc1p6ZFM3TnJyUmd2ZU5rUHBDQWJrY0tiRWFvaHRMS0dQY21wMnlWY2Z1UHQwdGtaUWZ3TFNLQXJ1aXpxR2JUVWpaY3EtYm16UDBOdmJIQllwRnFMdVhoQXpLMWlLaE12QzVyUHBDQ25LMVhzVVJTdjlic1hpNmkwR1NCMXZmWDdNYkdVVzZ0N2ctNDBzdw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 16:23:54 GMT"
+      "title": "Software stocks in India are set to beat global chipmakers by record - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWXFRcHhHLWR3Qk12LXJPOHRxaU5ONEJWTHFDVDlpRl9jYl9EWTFqbEFzZndNTFNOWTV2WXlhTFkxWnZ3QVJHU1dzc2NvWDFWbm42ekJLd0Y2dXBEYjVNb25DX2NZUnFaUWYybFQ3VjU0MEd0LVRTbDRIdndsZ09HNlpadDNmU3JVZWxTaEI5WnNpSmN4TUVHWG5SLXplNW9kdXQwbmJYR2dMLWtkUnF6Y3RaY3lKM3FpSm5yV2Z4UnZUYmRUSGhrczJjdXdtMmhI0gHWAUFVX3lxTE9wNjJXYldJdUlsbEpYTERrLThJUW1pRnhWcWV1Wk1aSEg4c2ZnNjlWVmZiZFRvYkFKaVp5UWNrTVVBQ0I0RWktMWtOajhhSTB1VlZsZGhGZWJSVlRHVnpSZ3Z0eG05c091em9LRUlKbDNacjZ1NkN2T1FGZVoyUE51OHZSekFQUTVaRmVweHI0eXZRQm9ud0ZyNUY0eVdSRWF2RkE1d0RzTnlsUUZ3MFNnNFBQQXpqNnpON0h2ajUwNHZmWmtlZERKZ011TG9MSkI5NUZjUFE?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 17:24:06 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Govt imposes sugar stock limits till November to rein in prices - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQM1R1c2hYaFdQYzFCZWFIb2w0VWEyb01lbkgyNGdRS2hmaFNqbjk1ckVNRk5YZzRQaVBOeFZZYzBlYlVmT1RnMDVhWjlGRHRnRThadWl4MTZwTjlJMDVQSk0xU21qY1hsa3luVWc1N1hvNG9vUTJrZklxYmRnSk1xNTg5RUpQSlF1aVNCanVobEo5UTVoS2hFblZSd0ZWYXlZaWlQaDdrMmJVY2xJTDA3NTk2OElQU1U1Z0tr0gHAAUFVX3lxTE96RFZYQWl2bW9ZSS1COElXT3VQZU5saWRjQzEya1RfVjhGY1lsX05VdWpGZEw0ZC0tdURTNWh5MGQyRm5qYlNpUDVpU3dPUDI0NlFSYnUyVVVFRC1JcndxcGIyWE5lT2dXRmItVnRVN09EdlV1cENmeG9ScWVMUEUzc19Qc0VibE9XaWY3cExVUXJYU0M1dzdPVm1TaDNiWURXLXctbjVCU0pNY2RSWTYxU0Y1RVJDRVZGM0otYlpsNw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 16:12:47 GMT"
+      "title": "These 7 private and public banking stocks have an upside of up to 29% in one year, according to analysts - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcmQwOVRkX1pjc1NHWjU1ZksyV0lISzJOQ3ZWbmJ3MWtWYTIxbkJmZGJ1TXh5U3daNFZvR1dmNzZnUTMwTURhOEhWeEZWTW5remluNS1zeTBpUG1nZlBXOGhadW5WZjdRYUFpRlo1bzlybzhFV3hIQ3JIdkhqdEdMaF9jd2lxQWQ2UlNsNTZqNUx0NGJLSUY4cXhwZ01mTFNBdy1rM0UwNlhxdVBSRHFOS18xRUR1SHQyWEhaSlFLVkg5aUJ4U3FVTkpzNHN2RzVFVEJ2Q2tEc1ZpWmgzOXp5THBkcEVDWXdBVmQ4M3pPNkdCNjZ5b1BLXzZFbmlOc3RBZHB3MmpqY9IBjAJBVV95cUxPOFYyaFBfa0lNdTJiaTV3TWNxb0JiclVEdmlMMUpDVTN4WklKZ3VpQ2ZGbnU0MEhmREtaQ1NNZ2l0aXFrSHVtc1VHVWtkTzJtX01jcEx1MUUybkU3cWFRNWZ3MDFZSVFIV0toMnFBY1doWkRFNktzYjNyU3Z0a2NGN0duMFJvaEtVcFByZndjWXFVenBpS0VUaXRGTVIxdmlISU90aG1ZMXdRNVU5YWwyUlMyOXl1R0Q4ekp6ZWl0eU9YUlltbGNlR29vSUNzMlFCOXgtek5GTm5QaV9IVkNBbWpJTGZwcXlWcGw3Z1ZqLWFMNGxkdDVONUtuWFo0X3BFNEt6U0QwNG9WVU15?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 17:23:35 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian govt asks sugar dealers to hold maximum 400 tonnes stock till Nov - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZkZEdzBxdVdwaFhSeFBIVHlBSzBqbThwdkZsR1JvNzNtenFqRE1Md3hGV014M0hXWjBYSFBCQWNsdkxuTVl6X0NMcVdmSE84VUI3bUVHNTF1TXVsNkI4MmRJdFpZTGZkbDN6cThFV0N0dWd2cXFOYmJnX3pYOGJxZ244X3luQWJrR3lIb3pBbDhqekV4UEFEYXJScEt4YTRrQXNqNS16Ql92M0tySnJ6Z05YWkMwb081cHBMcUVmRzRHWjlOM2hJelVWcVRWSFpQYS1QMUNUMHFDUTgxRlRGTXR3NEFQQdIB7AFBVV95cUxQRDNfeUFTdHdITEN2Rmt6eGFia2dzUE5rMS1uaTJEa051QnFWcGsyNDZONmZJeVJCeEhNLWRRNFlTdlAyQl9MZ1ZZV191NGg5MlhuVmJieEtPelllX0FaUVZlOXNzZEtReGh1bTU0cmZRekdqMGVkQkdlWGRsNWMyVTFIbTBTTkJWazBKS3k0aXU0M3EwWFdMWmJiT1N1Yjlzc2VXUmhiQndEekJMQUgwZ1IyVDBydWRJV19HN3dyR3ROZ3BuWWlIWmozd3dMRzhmSzJCSG1hLWFGUTVNZ2JhZzEwTjJDLW9TUnRraw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 15:55:06 GMT"
+      "title": "UltraTech Cement sends report access link to unregistered shareholders - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQkI0d1hTdWdoNlhob0ZDVTZjYWtzMy1NNTF2YnRUdVJuWVhsd0lGRUxfLUNaN3pnODhDV2xsN0wwcUJlSWYweHd2WlB6bXBpVi00eVlxX3dpQllhUkY5Z1FCeUM4eURtczRNY05kc3JZX09xb0h5REFKWnMzWlVFLXZQMVJNVW02cTVVM1JVcW9NUThEc2JLZmZ6SW11cDBhZVdhWXExaHFDN0FtSmZkdlRkb2dzSjFwMDlVc3puUjV1di02R2c?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 18:00:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "ADB commits $1 bn to support sustainable growth, Indian cities' resilience - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRzV0UktkbndsUW4tc1BuMThfbXVuNWV1VElEaFU1cjlSMGtNZWJGMmZoMFViZkJFaFRVeWJsVDJCLXBuMHJCZ1RWQXNpTHVlYkN6Vm1TT1lnYXdjOS15ZWplZXVZQjRUWFJCTFZ3NnJrWndrOVJkNEt5ZXZJRnRjTWFGYmlZNllkWWQ3M1hsU1dxQnFVdGhLZUhQTUtrWG9wUVZCckQxaE1Qdi05T2VNNGN1eVJoaG9KSk9DaW9xRTBQWmtMem9uOFdSeEhJRjFvSEtRUtIB2gFBVV95cUxOcHItaWw5dEliYy1KVlBoWUJncHBrYlQzVjE0NkctWkdvUVNGanJiWE03TGh4c1E5bTlrRUtPaS1iR1JpUEMtVURPeDBLQVd6MkQ2aHNGZ0VaeTdOMVQ2ZVJ0ak9HY3BlWjNBak12RUkwMWZGUVlIUjZIWnFrb2tNWU1mWlJFaTJHSHpfek5RNHlSa0Z4NTNGcHZtZkJPR2pWU2Nmc3ZLMWJpSzUza2pYaGg0LUVWaXlEWEJOazd2OF8xRHRtUThZdTh1Y0QtQUVSbzNxclA5ek1sZw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 16:41:33 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Coal India Q1 capex rises 17% to Rs 3,399 crore, land acquisition gets biggest share - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbWVkLTV1WHBvelp4T2hwNDg3b1BhazNJQm9YNElqQzl3Q1dYRVNXUnlGQUdDN1pNQlNKSmVBVDNrSGNnSTVCNjZKRVliMjFJTzBBZmVIWTRqMV9wUzN4eGZ3RFdRTTFxOVo3YUVVNmdubUVzMnAxZzlPdVZVd3dYcXpUWXNQTGcwZ0JzdmxVTzZnZHpLNWI5dTdDRlRUbXhlNVZrMkludzFibmJSTFk3dlJJZnBjekg3dWp5NDk1V2tqaE1iVW15d3VBOWxzR0dlZE1RZDNFZzQ5dEctRW1FYm5DLVlxSlRscUoyODZId0NuNktlYV9paEJwRdIBgAJBVV95cUxNX3Z5SkdQZzdYU3ZCbFRPNW92RzFmNzQ3cWpRMWNoX2h1ZV9DcmkydDViVS1hQTBJbENEcmlyM0Z4NnhDLTE1aS1feHpRNWhqMy15Sm9vNVg4aFZRb0Rsa1NwZjlpRnUtaWRweFFNWTFqRmppd1V4R2JXeXY5ZTUtZUlQTnlhdms3dmVMUVVoNnoxRWFiYnZXSEhwTVNxSGNHRjZxX2d2OUNfQVk4ZzNyWlRndlVMQzE2X3dKWHJTT1dmSExxUXpYc3d0SEVzWEo3LUkwWE9pbS1XNjBDNzQ5VktyNkRIbWhWRF9ZNzR2Qy1nNGpmQWZUTXpNUnNmQlZt?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 15:48:00 GMT"
+      "title": "PayPal stock jumps after Q2 earnings beat, outlook improves - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUElNMjBDUldtNm1NaFNTeGlNcXdQVy1EWTVvUnpJaGs2OE1aXzFKWmVpUmV4WWpWQWVlUXpwcl9nRzBTSWhCOC02YVY1bWV6N25hQ0lBdmdmSkNhY1JhdGwzUVhwRlhhZ0JrS0pBU0I0dzlsc3BmRGZGeWFORjMtcVU0Ti16RUM5UEhNTXlEd0JnX3ZSYnJrU3Y0eGZ2QQ?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 17:51:06 GMT"
     }
   ],
-  "fetchedAt": 1785257208
+  "fetchedAt": 1785261912
 }
