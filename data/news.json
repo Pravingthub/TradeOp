@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: S&amp;P 500 ends higher as investors await tech earnings",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-investors-await-tech-earnings/articleshow/132694299.cms",
+      "pubDate": "Wed, 29 Jul 2026 01:32:04 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Apple briefly tops $5 trillion in market value, second after Nvidia; unveils iPhone leasing scheme",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/apple-briefly-tops-5-trillion-in-market-value-second-after-nvidia-unveils-iphone-leasing-scheme/articleshow/132693980.cms",
       "pubDate": "Wed, 29 Jul 2026 00:56:55 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Tue, 28 Jul 2026 22:16:54 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/132688972.cms",
-      "pubDate": "Tue, 28 Jul 2026 21:22:42 +0530"
+      "src": "LiveMint Markets",
+      "title": "Goldman Says Japan\u2019s AI Stock Trade \u2018Not Broken\u2019 After Rout",
+      "link": "https://www.livemint.com/market/goldman-says-japan-s-ai-stock-trade-not-broken-after-rout-11785273521589.html",
+      "pubDate": "Wed, 29 Jul 2026 02:48:41 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Chip Rout Sinks Emerging-Market Stocks; Currencies Trade Mixed",
+      "link": "https://www.livemint.com/market/chip-rout-sinks-emerging-market-stocks-currencies-trade-mixed-11785271370611.html",
+      "pubDate": "Wed, 29 Jul 2026 02:12:50 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "TSX hits record high, led by tech and financial shares",
+      "link": "https://www.livemint.com/market/tsx-hits-record-high-led-by-tech-and-financial-shares-11785269958336.html",
+      "pubDate": "Wed, 29 Jul 2026 01:49:18 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -41,24 +59,6 @@
       "title": "Treasury yields retreat as oil tumbles before Fed policy decision",
       "link": "https://www.livemint.com/market/treasury-yields-retreat-as-oil-tumbles-before-fed-policy-decision-11785264502739.html",
       "pubDate": "Wed, 29 Jul 2026 00:18:22 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Crude prices extend decline, fall over 5% on US-Iran talks optimism; Brent down 20% in three sessions",
-      "link": "https://www.livemint.com/market/stock-market-news/crude-prices-extend-decline-fall-over-5-on-us-iran-talks-optimism-brent-down-20-in-three-sessions-11785258884871.html",
-      "pubDate": "Tue, 28 Jul 2026 23:02:15 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Pentagon blacklist of CXMT: Is Washington accidentally creating a stronger Chinese chip rival?",
-      "link": "https://www.livemint.com/market/pentagon-blacklist-of-cxmt-is-washington-accidentally-creating-a-stronger-chinese-chip-rival-11785251453860.html",
-      "pubDate": "Tue, 28 Jul 2026 22:51:50 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Gold, silver prices today: Comex gold and silver slide as stronger dollar, Fed uncertainty weigh",
-      "link": "https://www.livemint.com/market/stock-market-news/gold-silver-prices-today-comex-gold-and-silver-slide-as-stronger-dollar-fed-uncertainty-weigh-11785251924513.html",
-      "pubDate": "Tue, 28 Jul 2026 22:02:19 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Capital Income Builder reduces 360 ONE WAM stake to 3.11% - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNDZhbU5YMXpGQThnaGpGYlJHYlF4ZHBidGNqVHBaSUNqRHE4R2JCMzRnd3pleS0zQnI2ZjFtNTJZb3c0dkdjTGg5T19HMWF1OWcxOVhoQlZ1bHV0Zk1uZ2xiRlRxYm5ySFMtZVVTcHdZM2RlNXpEeDBxQXNnYlp2VG0yaWx0WkVRU0lzb2ZCem9NdVNEdE9xUTBycGliYTd0T0xfc0dtUEZucmtIYWY2d2hVaw?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 20:02:15 GMT"
+      "title": "NEWSLETTER: India File: Youth crisis beyond the protests - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZThVSWpxNTdieUNDRUN3MDIyRUY0S2dMRFZoOElOQkF2dlRQY1BwNHprVzZlaWZHSV91RGItZ1ZkNmoyQlFaMkNtSXZDd1ZkWGhjeTJGd01IdGxtTnhqYTBhMEZEU01jUjdPSldWN05HbXhMQk5XZnRQY0VUMHYyXzJ3?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 21:22:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's Ahimsa indices mark beginning of a new era in ethical investing - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTjFzaDJKZkUxa003ZEtyVHE3NTlrcGIyQlZKZmwybW53Nks1TEFER1JlaklBQ055REhpS1gwNnp1emhMdjNkMGx6Y1VoLVFhRHdkZHcxWUkxX1B0eUIybW82RTQ4X1FXa05HTnQ4WGg2UjVqRGVncWloVWxQei1pN2VaTzI4cV9XS0tQNWtDeERWdmYtLXNtMG9ZSC1FTXF3NHI0R29tc3Q4djk0SldGQ2tDdHpPLVRlQjIzNGM3bjBIX1Z6TmoxTHFGRzJ6eXRsOUZWazJvSDFTTVNoN1JB0gHkAUFVX3lxTE9GZ0E2SXZlZVhubDZFZXBnNE44eWdueWZjSzVPQ1RRN1dFcDlHZ3hnd1gwald1U0dpUlBlOVhTWnhoRXRVNDRNNW4wNjV5UkhJYUE0NjNnZ09zZzBQSXN5dUdIQnIwT2dfUE9IQ0RMdUh3VFRWbmpON085NHFUMklSTnNSdmtkZUVnN3BLUjdJemRGcGFYUEdXODA5REVyNFptUU9NUk5zQ0dFN0xmdEN0eHRkM3RveGJKaGFnN1EyUlJFRnI1YTRnTXhuS28wWnA0bnBSZFF6ZmUtOWRtSGdvREdWcA?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 19:28:51 GMT"
+      "title": "Market Wrap: Nifty and Sensex Close Marginally Lower Amid Mixed Sectoral Performance - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUDJZTUphMTN2Y1BiR05zWmdRRVI2Z1VLeENSZFpDb0dTV05NZDFHZmpobGlSTjdaSTA4ajdmcWRUblJ3a0lycmszSmJlMkZOSk5MazVrMEc2eGZhRUpKbmtCNkJzSTJTUFY1OHNmMjZiZUN3Vno4My1ReHFLc1o1RUppZkNzUUo5WDduUFRfSkk5NWxUUmctU3YtYVN3cWpLMVJVR0JkRkV6WTVvWjRaYktfY2VZVUJ2WFprRERUOTdRUjZSX3Mtall6alhsemNKZWhmSw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 21:26:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Bhagyanagar promoter pledges 1.27 million shares to Kotak Securities - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSjJ2TTN0NWJRNV8yM3YwRW5XX1k4RnlVUFFaalU1ZnZQMi1waWNvWGpNVGdfMFh4OEVRdnFBYkpWRGlqNVN0S2tOZ3ZSNVNrWjluMVdBVmFxZ2dVTWhjSTVxZTJNZ2NCUTF1NzlSNXNqNHQwR2tNdDZKTzI0eUlpa1ZteVRBVGMzQU41LUJUVVpDaVZNdGJsMk5oc2NKUEpjLUNDZzBETmZfME8wcHYtbzVDTElMMk11VTEwZXR4V1h6YlE?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 20:06:15 GMT"
+      "title": "\u2018Members of Congress should bear consequences\u2026\u2019: Letlow erupts over paychecks during govt shutdown - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxONy0xdkIwRGNyZXlXUUVqcTIzYkFsNGd2Zlc4ZjBGX2huT2FmTFg1ZktZMHF0SE43cU85T0dIRERRVHY3bDN0RFJNVk5wbm1UWkJ4RU1vQWZ2eWtKUnpPMlJjZV9BaWNOWHJhM2ZONHY0aDdjT1NxcjhzT3hEMlpUaldlYUtOMG5KWnlBM05Wb09WcldsckxwS2RTM0ZJTFZrQ3QwMFJIRk9VRjdyQU1pWmxNVHdKUlBrR0VadV9rd1ZJTU9RUGl3eE5VdmpLRzdBbWs5dkdITnpJclpLVHpVUTBqd1NIVEhlZERZQ096VUNEVjB1RFo1Y2ctaTJ1SXF5T0sxZXVDQdIBjAJBVV95cUxQT0xnMjcxSkJHQ2ZHUkhSbWJWbDI4bUt0YVJyeEFIX1hhdmZaREN1bDNrR0wtOHR4NG5iMEZBU3oxbnN1dFVhV09yMENPS1hfblpaWDdQYXZObms0cjZJdTU5OU4tODJQRkYxNnp5SnItd1hDcHNUbWZwUWF4UGJRU1ZCSWFxNlNESVJvY3pmbDFRUlN3eGUzSmRJaWkwZ3Z2U0NmNFVXX1dtRWdtRlExVkJRamJrMlpuSWZEdzlIaXRCMlVWakM0LTBkVll0N0JpeGRxNzd5NDY3Q1JPTjZsUXZuZzBjWkI4Q2VzV0RUS0d0cHk2MW00VW5KUjh6YWRXdDVLSTlUZ185WWZl?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 20:59:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US stocks: S&P 500 ends higher as investors await tech earnings - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPaUNZRG81MFFIcTlzLThQRGt6elU4cE9DVVJ2TkN1eTdPeUJpSzlKVnVwRFZMeTFQYldCTFd5X0VBNURBeG1Ob3B0RHBjeXoxV0tuRzl1V3ptbXktU2JBUmpLbW5BU1MxV04yWUk1eXQ1UFd3RXRvUnVIcTFqZ1ZhWXlHU2ZvclNJdlh6ZV9tVnFTN1QySU5ESk5MOEF3WDBRQTl5YVdrM0NCOEQwUzhvN0JYdWcyZVFoeDhyMG92THdnXzg3RUktaktMMlpSRlhzTVA2QjRKV2dTUdIB2gFBVV95cUxPaUNZRG81MFFIcTlzLThQRGt6elU4cE9DVVJ2TkN1eTdPeUJpSzlKVnVwRFZMeTFQYldCTFd5X0VBNURBeG1Ob3B0RHBjeXoxV0tuRzl1V3ptbXktU2JBUmpLbW5BU1MxV04yWUk1eXQ1UFd3RXRvUnVIcTFqZ1ZhWXlHU2ZvclNJdlh6ZV9tVnFTN1QySU5ESk5MOEF3WDBRQTl5YVdrM0NCOEQwUzhvN0JYdWcyZVFoeDhyMG92THdnXzg3RUktaktMMlpSRlhzTVA2QjRKV2dTUQ?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 20:02:00 GMT"
+      "title": "Dow jumps over 540 points as earnings, lower oil offset chip selloff - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNk9heEptUVpFYzJPUlZISU5LTW11RjBDUXpSRTNHcW13MkF1M0VyM1ZqZ0g3SVVRNkVFUmJhRG9QNkI0VVNTSVVsZnZfalBfXzVmMFQwdk45WWk1T2xlaEVuV2YySUdkMTVxN0hpb3FpTVNhb29DanNSa0stT0p4YWo5c1BtZ1dQV1YwOE5sR0ZPR3pUMnhfR0pmYWh4ODBlN3JWY3ZSdjZNZw?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 20:44:46 GMT"
     },
     {
       "src": "Google India News",
-      "title": "United Polyfab promoters confirm no new share encumbrances in FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLVczTDQwRVhGcW44ckZmUzh0anQyZDRDZlFKbUVkOEk3MEE1N3FHXzVlLVBNcDlkQzFQRzBYY29DVXFnZU9NRlRibE1WakxGRzBYOG1fLUJXV2ptY0NXcnZmcHpCVUZvcUpaWDc3TGQ4Z1FKSU16d0t4NDZka21OMmpQUUdxdHlCLXJnaWZtbGR4SlRFM1d0ZjNhbHZTcEpoR25wZzRBU2toU1ctMkNIaFM3SWtiWmdSd21GQV9yVUY?oc=5",
-      "pubDate": "Tue, 28 Jul 2026 20:06:15 GMT"
+      "title": "\u2018Sitting, laying, wherever he may be, he\u2019s watching\u2019: Trump gets emotional at Graham\u2019s funeral - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPb1FTVHRadmVLSzM1dVVrUC1CN2RUTWU2dVRFWUluM1ByT052OEdxUXQ1dTFGQUcxWGNjZ29NeTU2ZkxQZXJ6aXZYSGZBclNzVGlldy1lTzZ1R2VvT1ZEeUtJZE04cl92VFFhVW9JTE5BV1NZT2VpMmhVZTh5VjYydTViZTNUUzVncV9rSFJ1cFhvQkNGeFdtSlZLd0QzNmVob2pvVzRIS05sUENreDVfcTV3T2NIaGZYZm5GY2FWazY2MkpXeG5BWTVoZk9kLTZtZUxNbGJsTFBGR00zajhyQVp0QXhNVzhUQ3ZWM3ViTzRjVTV2ejZ0QVVMbzPSAYICQVVfeXFMT0R3VUFGVGdVRnI1ZGI3b1lYMjdKbUtfdE5ZRkNpUkVWQjh0dVpoNGg2SXBYTGlSemxKb1VYM3hfZUJJX0dQSTgtN1lrNkJBbVZzZ1hJaTY5UUpta2ZZUUcyOEZFbVFQRWRTVEdGc3U2ekdjZ1FHdnZvTXA0VWF3VEJBblpUM29fZEY5UnpmUzNxczFsbU9taE1VRXNMblhfd2NXaHNaeXExYldVc29EZXRHVnlkTGxpLU91ZU02bUJaZ0pGOHRPWG41VE1aRzdHRnZzTXQ5WlZNVDRVbXhKYlNReVdnemoyVzFUdWZiTHBUb0R2eHJzanZTb3FvdUFPclp3?oc=5",
+      "pubDate": "Tue, 28 Jul 2026 20:57:49 GMT"
     }
   ],
-  "fetchedAt": 1785269823
+  "fetchedAt": 1785274760
 }
