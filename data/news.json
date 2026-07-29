@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Brent crude jumps 7%, climbs over $90 on escalating Middle East strikes",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-jumps-7-climbs-over-90-on-escalating-middle-east-strikes/articleshow/132717383.cms",
+      "pubDate": "Wed, 29 Jul 2026 22:10:16 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "J&amp;K Bank Q1 profit slips 13% as higher provisions hit earnings",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jk-bank-q1-profit-slips-13-as-higher-provisions-hit-earnings/articleshow/132716700.cms",
       "pubDate": "Wed, 29 Jul 2026 21:30:39 +0530"
@@ -25,10 +31,16 @@
       "pubDate": "Wed, 29 Jul 2026 21:08:22 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Market Trading Guide: Lloyds Metals among 2 stock recommendations for Thursday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-lloyds-metals-among-2-stock-recommendations-for-thursday/articleshow/132715595.cms",
-      "pubDate": "Wed, 29 Jul 2026 20:35:31 +0530"
+      "src": "LiveMint Markets",
+      "title": "Microsoft stock edges higher ahead of Q4 results, Wall Street eyes AI payoff",
+      "link": "https://www.livemint.com/market/microsoft-stock-edges-higher-ahead-of-q4-results-wall-street-eyes-ai-payoff-11785345972320.html",
+      "pubDate": "Wed, 29 Jul 2026 23:16:11 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Cupid makes additional $5 million investment in GII Healthcare platform",
+      "link": "https://www.livemint.com/market/stock-market-news/cupid-makes-additional-5-million-investment-in-gii-healthcare-platform-11785343254688.html",
+      "pubDate": "Wed, 29 Jul 2026 22:16:35 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,77 +61,65 @@
       "pubDate": "Wed, 29 Jul 2026 20:15:17 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Indo-MIM IPO vs Xtranet Technologies IPO vs Lohia Corp IPO: What GMP signals about the listing gain?",
-      "link": "https://www.livemint.com/market/stock-market-news/indomim-ipo-vs-xtranet-technologies-ipo-vs-lohia-corp-ipo-what-gmp-signals-about-the-listing-gain-11785331695644.html",
-      "pubDate": "Wed, 29 Jul 2026 19:49:59 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US stocks slide as oil surges and markets await Fed rate decision",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-fall-ahead-of-federal-reserves-rate-decision-11785332832586.html",
-      "pubDate": "Wed, 29 Jul 2026 19:26:04 +0530"
+      "src": "CNBC TV18",
+      "title": "NBCC signs $75 million Seychelles housing deal to build over 1,000 affordable homes",
+      "link": "https://www.cnbctv18.com/market/stocks/nbcc-india-share-price-signs-75-million-seychelles-housing-deal-to-build-over-1000-affordable-homes-19957248.htm",
+      "pubDate": "Wed, 29 Jul 2026 23:10:36 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Prestige Estates Q1 net profit falls 19% despite 16% revenue growth; sales plunge 46%",
-      "link": "https://www.cnbctv18.com/market/stocks/prestige-estates-projects-share-price-q1-net-profit-falls-19-despite-16-revenue-growth-sales-plunge-46-19957181.htm",
-      "pubDate": "Wed, 29 Jul 2026 22:01:29 +0530"
+      "title": "Piramal Pharma narrows Q1 loss as revenue jumps 17%, EBITDA nearly doubles",
+      "link": "https://www.cnbctv18.com/market/earnings/piramal-pharma-narrows-q1-loss-as-revenue-jumps-17-ebitda-nearly-doubles-19957228.htm",
+      "pubDate": "Wed, 29 Jul 2026 23:09:54 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Coforge bets on applied AI, says next phase won't be won by access to LLMs",
-      "link": "https://www.cnbctv18.com/market/coforge-bets-on-applied-ai-says-next-phase-wont-be-won-by-access-to-llms-19957003.htm",
-      "pubDate": "Wed, 29 Jul 2026 21:41:10 +0530"
+      "title": "Three things that shaped Vedanta Oil & Gas's Q1 results",
+      "link": "https://www.cnbctv18.com/market/vedanta-oil-gas-swings-to-rs-945-crore-q1-profit-after-one-time-gain-19956885.htm",
+      "pubDate": "Wed, 29 Jul 2026 22:53:06 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Quess Corp Q1 net profit jumps 61% on professional staffing, overseas growth",
-      "link": "https://www.cnbctv18.com/market/stocks/quess-corp-share-price-q1-net-profit-jumps-61-on-professional-staffing-overseas-growth-19957164.htm",
-      "pubDate": "Wed, 29 Jul 2026 21:22:24 +0530"
+      "title": "Chalet Hotels Q1 net profit dives 58% due to revenue decline; RevPAR up 6%",
+      "link": "https://www.cnbctv18.com/market/stocks/chalet-hotels-share-price-q1-net-profit-dives-58-due-to-revenue-decline-revpar-up-6-19957211.htm",
+      "pubDate": "Wed, 29 Jul 2026 22:45:21 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the July 30 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-july-30-trading-session-19957146.htm",
-      "pubDate": "Wed, 29 Jul 2026 20:59:21 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Earnings Central: Wednesday\u2019s Earnings Had A Twist In Every Name",
-      "link": "https://www.cnbctv18.com/market/earnings-central-colgate-eicher-motors-dabur-adani-vedanta-asian-paints-waree-q1-results-19957122.htm",
-      "pubDate": "Wed, 29 Jul 2026 20:26:11 +0530"
+      "title": "Punjab National Bank gets nod to raise $1.5 billion through foreign currency bond programme",
+      "link": "https://www.cnbctv18.com/market/stocks/punjab-national-bank-share-price-gets-nod-to-raise-1-5-billion-through-foreign-currency-bond-programme-19957199.htm",
+      "pubDate": "Wed, 29 Jul 2026 22:17:32 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Stock Market July 29: Sensex Jumps 900 Pts, Nifty Reclaims 24,250; FII Buying Lift Sentiment - theindianawaaz.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSzkyTGRHTWJDRWY1WEllNHUtejUzUm5WdXhyRGFOLXkzYjdWeUFHYVBDYV83NzVlUHlxVGwwLVdmcGluNFZpV2JWV3gwS3R4UEpOU1huRkhGS01sZmtvTXFsOGZLbzZWSHZQTzg4cm93WnE0Ty0tYXN2VEh1MmkzcmE4UVc0WmZfVUJKREdKRG5VaFRxSHVZenE1VHBVRXo5aTRTcElJekNobUJGVk1TM1ZuX2RqN28?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 16:16:00 GMT"
+      "title": "10 research analysts lose Sebi registration over non-payment of renewal fee - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVVk5WExiNXN2RElvRENRZ2lLZk9Mano0bTR6eGxHYWhMcHRBeGl0MHJHRXhiWmJ3WE5lYTJ2QjVCeGlGS2c5c0YzeHhQX2s5dGY4cHBGSFNxN3FYS0lfQWdkMm9tajBGUFlubzRRbGNucFpTWGlzTy14YjBVQlY4bXhoaGdUTDNqTThtemV6Z0Q4cnVlZnZJYzc1ZDNGVEk1N2ZmVER4WHpfQ3o0ZjBuXzkyYzgwUTZoLTQtWjJpUFoyWjhZMnhSTG41LXdEdWJ3czR6U2Yzd0Jfd9IB3wFBVV95cUxNdGtHNjdQNmloS0hVSXN0dGx3OEJ2SGN3TDg3SFo3RWE4TEI1MWpaM2F3Q201Q1duNXBpbFFBVEdCcEJGajRFWmZZWF8zX0p0SEtISE5veV9TUGFqZk53ZXN0UFlkaHV0QlVoTlBNeWRiVUpHZFVvcWdJTnR2dlI4OWRSbVZjLXhKaFo3TnN1YzNsclN1dmxud2hSUU9EX25HVHFRckwxQnloYTN1VkZ0bnI3cUpRVnQ1Q3FQYTFuTU41OFBnWHE0STNMa1cxeVl5eE9ZSUpNcTBfZnZoM0p3?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 17:30:46 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdWU0eHJKY2U3dDhwamZGT1FJWENPSmhPMDg4RmdvU2lLTl9seVZLUFBvRlhvRFl2bUE1VW1DN0J6SGQ5N2pkWEhGQkV3TUVleUlOT1NMcXdXOTRya1Y1RTR4bHp6a2RiUkNlYWxRejVKYkt4LUlXZlpTdEExdk9oRFp1LWppN1pYOENVMUxoQ1BQQ2hJcDFXa0FWOG5Bc042dDdqWGNDRFBwT21EalNadWRnMVVRbm9aN3dhUlRReWthQWI0Y0oyLVFuMERoZDBMZkl1ME1aVnMyV2FUV0lZaENn0gHnAUFVX3lxTE0wQTBIUmJkYTdPY2trbzZJTjhZdDROWVZvdU9IUlRiYTlRd0l1anc4ckxSSTk4UmhjUThGU0RKWkhMMlNxenZTZ05fRm5UYzgzdkNfdTA0MzB2MWxGa1FYMVFlOEo4RGFkcG9CSkYzMUEtZE5JOUdybHJsVFgxLUgzYk92U1lIWXlYVjN2ekhrUmpUTHlhZ1ZEdWNxdEd6Q1ljVnJiM202M2Z0TmJJVmlhSzZNWlhvRUZpaUtQZFhLVGRhbFA3a2prYzFGT0U5NXhHcU1qVk4waVBwN1lCeGVSY0J2ZjlBMA?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 15:57:07 GMT"
+      "title": "Honeywell Automation India approves \u20b9110 final dividend per share - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3hJbWFoaktsdHh5UUZ5T1ZTWFp4cVlXVDk2SFhxZEwzeTlsTFI2LVlrT2kwV2ZVbEZQd2tuVVNia2ZWR3ZyQ2c5VGFxLWo1UTk3TE8wNFYyRXEzWVJwSWFVTkZ5OEo3ZElpMkdpLVhhQUd3Rnd1LTFuSWNDd2YtWUZoMHFqNl9icUZxY0NWVFN3Sks3bGJMQm14bTB2clJVNzZQRU00U3Q2OEIxcWdOdFFIMHM5dlA3MVRza1pn?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 17:24:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "What India needs to do to respond to emerging global challenges, high crude oil prices: Finance Ministry - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOY0R0VDd3RnlnRDlWck9PMTF6UjZON1BQdUhrV0VjeXR4by1uNzdIRTJGajVUY2c3YUdXakE2RUdSMWF1U1BNaFFRTFMySHNvcXFlUjJZUHJ1OS1UR05sNzdxTkNWcnFQX3VqZWFPMXlkWm5uM0V3X0JrWkFXQ2ZtMlE0anBTQ0dfeEpwZDU2RjdxRm5jYXNvenFqXzVuQnVaX2F4bUk2TzFYdFgwMkdET01ZRTcwUS0xSU5JRXVqNVh6YVItR0drZWNKOVpoYUNaLW96dWs5VlZhUGZuZWRaZEFPci13WkhsYUJldGFRV010dmJtSGl6N3BocTBYajRMMTBlWnc0RXhINERqNUFVTEUxdmVBekViRnUxdWc0dlpraTDSAagCQVVfeXFMTjdPT3JTOXRWR3ZTamRsT2o2LWdrT2pnNVFEN3RIeEI2VFBhcXRYc2k5b19pbVNYZGpLb0ZTNUpTazBNeWV3cXZaUkY3eXAyWnFrVEpCOXU5MnU1WkpPbWo3N1VrRHktRExjZ0p5alhaMEVIX1EyV2hKakVrdHFnRURiNXgxLUV2aTRjWjZiSEhEYW9DUXZtaHRWck5nMTF3Zm9JeTNFWF9mWEdRenJsQ0RGbXRFU3h6em1nbm5NMGUweVZmQ2hSRlZ2RjIzeTJwVUtXSy1MV25tNWxjNUVBRmViNWlpTV9yRVYtN3R4ZlNxRkVzM2NVRFhmZlFRbUdzTzRYVmhpb2MteFR0dW1maVZUTm9WWk5ud3JJSzAwY3Y2aWRfbVAwSVI?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 16:03:00 GMT"
+      "title": "India, US trade pact to come into operation once India gets comparative advantage: Goyal - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa3Z2aDQ5TkZ6aUlJWVZ1bjQzLVR2RHFTLXFWUHVzaU4wdVlxZXhsYnhVeUJINV95dXFwUjhrMkZpVUthQTE2bG04bHZqV2Q2MXZzcTh6RlBJSmdQUGszNWFMZjdoREF3TDJnX3dSOUtNQUVCelpsbVlPREw2WFMtV0gtY1liSHhwS21GSk1JQnZKMmRNbTVBenladzRuNHhDTnU0XzNLZWt1T1FxdXJpZ09rY09CRkt5RlU5djhvZEZOX0N3WVh0b1JxN0NqTHM3RmhTU2FLT2dmXzI0Yl9URdIB4AFBVV95cUxQa3Z2aDQ5TkZ6aUlJWVZ1bjQzLVR2RHFTLXFWUHVzaU4wdVlxZXhsYnhVeUJINV95dXFwUjhrMkZpVUthQTE2bG04bHZqV2Q2MXZzcTh6RlBJSmdQUGszNWFMZjdoREF3TDJnX3dSOUtNQUVCelpsbVlPREw2WFMtV0gtY1liSHhwS21GSk1JQnZKMmRNbTVBenladzRuNHhDTnU0XzNLZWt1T1FxdXJpZ09rY09CRkt5RlU5djhvZEZOX0N3WVh0b1JxN0NqTHM3RmhTU2FLT2dmXzI0Yl9URQ?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 17:05:33 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Juniper Green Energy mobilises over Rs 539 crore via anchor book with 75% investment by mutual funds ahead... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxON3BzVmdQaGJFX0x0V1g1STZUR0drbHMtbHRTSFlwWGhKcXZqS1FTbzREN21WdVNIRk1YRy1lbmtZTm5EZFE1MkdON3habmtZUHRUZ3FLMExGQkFHd2NtQkFVLUo1REJVeW5Od1hBWm5DMGRaakZrX0xvMTVSMmg3UF9ySkFuUmdUMzRfRzEtLUFJQUNLX2pwS0tlRTN1WDNZVlNjdU5kdEhPTDRlMnVCcVlCeENQWndJMjZ0Q1UtTDJnb3lLRjF0QWUyQ2RZZkFJUS01ckxuS3lLNU02aVJ1QnppOUF0T3drWmZjeWZVUlBkVFlSdjluSnB3cnU4M3lQa0U1Y3NfdXPSAYgCQVVfeXFMTjdwc1ZnUGhiRV9MdFdYNUk2VEdHa2xzLWx0U0hZcFhoSnF2aktRU280RDdtVnVTSEZNWEctZW5rWU5uRGRRNTJHTjd4Wm5rWVB0VGdxSzBMRkJBR3djbUJBVS1KNURCVXluTndYQVpuQzBkWmpGa19MbzE1UjJoN1BfckpBblJnVDM0X0cxLS1BSUFDS19qcEtLZUUzdVgzWVZTY3VOZHRIT0w0ZTJ1QnFZQnhDUFp3STI2dENVLUwyZ295S0YxdEFlMkNkWWZBSVEtNXJMbkt5SzVNNmlSdUJ6aTlBdE93a1pmY3lmVVJQZFRZUnY5bkpwd3J1ODN5UGtFNWNzX3Vz?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 16:32:32 GMT"
+      "title": "NBCC signs $75 million Seychelles housing deal to build over 1,000 affordable homes - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ0ZscTU0WWpKd2dXS2plX1FLOFptSXhILWtWaDhsNlhka3lId3daRGV2UVl6UXlSMmt5SXl1bWZkbHZIQWhIakxsR1MtU19mUTVrU2hQYVR1UE5jTVNaRk5zWWViME1STTZKbUJfRmxEdUpQMnFNR2tsNkczcWdDcTVKdWVLYndIXzlVOVpJT2MxRmVpd1dzM3BDcXFEM1E4RnhjMXJoQXBjRWk1c2xWYWZiWXJmMWYzVFQ2UWVIaU5TTzlDby1zLUFGQ2phNmQzWGFNdjhtMFgyQ2ZkQ0FHc29oajcxQdIB6wFBVV95cUxOd3M3X1h1WlBXU3NJVDZydEE3cXZNSTFobTRsc0JIZkpBeTFldk5iTDRIeTRZdF9hMXVTbGo1QTJmRWg0Vmc1Yk83aDlVZ2tjVmhQMFZVN09zb3BkNDNBS3JSdVdIc2NwYkx2YzVUM2xwa0hsSGRMUVZpeFNzRmRHbnZhanpOanR6d2hkZDhfY1J1dmpab1BkNlB3dlVtWnlQTzdfLUxPeHNjUkVRMHIzTE9IcGZrS2JSeWdaU1MxYW41QzBzdGMtelZFNTFhUWpvc3htVVVGeFNSbU1qbkdCSE1lTXJ4NzJkZEdv?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 17:33:37 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Siyaram Silk Mills gets NCLT nod for bonus preference share issue scheme - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTG9rbjRrVmhaeVl2QzlCNUE5S3lGMnE3ejEzdmlrMjU0aWZmTHdnMHY3OU1pdzk4bnRRakFyWERadVA1dEc0dy1lTXpoTnBEZXZtcDNlZWpBUHhJR1ZSc1NpMzZoT2ZuYzYxVWxYVHdwdnNOdVFlZnJhN3VxYmFNNE4yZk1lQS1IYVBYcUhhVVEzYWNsaHhGdTVGelJjak4tN1RER2pfUDMyT19DMVB4eEF4MnBOYmd3b1I3RzFIRFNYbGF4Q1B2MA?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 16:11:54 GMT"
+      "title": "How AI is helping pharma prevent drug recalls, counter fakes and improve patient safety - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX2tERzhzMkxoekNsb25ZWGhzanMxMXV5cWxnWERuMXM4Z2xnWnRRS2lybW14dE9rWkwzbmt3UDRNdUhmRUtnbkhsam5KQnUyakQtWlpja0l5TGctLXl6QkQwcnN4ZUYyZDhkMGVuT2luR21iTlRCSzdBRzNqbXhyd3NYRzRSR09GMExEZk10SERicVpSMTBCc0ZkVjJrOFhkeWxwb3F6MnFYaW9Lc0JITnpSVVlRWkxJT2s3WWpzRWtGZ21NZ0JsT3VIV1BURVZhblBrWGVWY3NjRU90RHV5TEVsdWREeFlZVng5Q2FNck1CNlgt0gH6AUFVX3lxTE1iTlNrZXNzUnBuRk5oX0ZETVBWOWEtVTVCMFJValM0M0I5TkE0VXROV29ObmxkOWJ5WGU2cXNPUU0yaExLTlpZcWl5eTJZVEZSbUZHZ3M5Z2JFdzhEdGFrek1oME9TYU96dGVDd3ZhVWZkYkNGTjZ2dDF4UGZ2YUhuVGJSSE9vSlJyYTVocWxUMHBlSzczMlczaXh5ekJ0X21Ld0FRUmJRdnpjWFhBdmFueUxCUlVVMG9xa3ZRNXhoWFRHc3JGNS1VVzhONE9NbVhpSUFYS1hIMmJaZ3JkZjlRSWpMSGdfdW5ydVRKTlA4Q2puSFllekZpQlE?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 17:34:00 GMT"
     }
   ],
-  "fetchedAt": 1785343137
+  "fetchedAt": 1785347674
 }
