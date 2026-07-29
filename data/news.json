@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserve-keeps-rates-steady-as-iran-driven-inflation-risks-keep-markets-on-edge/articleshow/132719615.cms",
+      "pubDate": "Wed, 29 Jul 2026 23:32:07 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Brent crude jumps 7%, climbs over $90 on escalating Middle East strikes",
       "link": "https://economictimes.indiatimes.com/markets/commodities/news/brent-crude-jumps-7-climbs-over-90-on-escalating-middle-east-strikes/articleshow/132717383.cms",
       "pubDate": "Wed, 29 Jul 2026 22:10:16 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Wed, 29 Jul 2026 21:27:07 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US Federal Reserve expected to hold rates as Iran war clouds inflation outlook",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserve-expected-to-hold-rates-as-iran-war-clouds-inflation-outlook/articleshow/132716071.cms",
-      "pubDate": "Wed, 29 Jul 2026 21:08:22 +0530"
+      "src": "LiveMint Markets",
+      "title": "US stocks stay lower after Fed leaves rates unchanged",
+      "link": "https://www.livemint.com/market/us-stocks-stay-lower-after-fed-leaves-rates-unchanged-11785351254137.html",
+      "pubDate": "Thu, 30 Jul 2026 00:24:13 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "US Federal Reserve holds rates steady for fifth consecutive meeting: 5 key takeaways",
+      "link": "https://www.livemint.com/market/stock-market-news/us-federal-reserve-holds-rates-steady-for-fifth-consecutive-meeting-11785346712831.html",
+      "pubDate": "Wed, 29 Jul 2026 23:34:31 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Juniper Green Energy raises  \u20b9539 crore from anchor investors ahead of IPO opening on Thursday",
+      "link": "https://www.livemint.com/market/stock-market-news/juniper-green-energy-raises-rs-539-crore-from-anchor-investors-ahead-of-ipo-opening-on-thursday-11785344630966.html",
+      "pubDate": "Wed, 29 Jul 2026 23:27:59 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -43,22 +61,22 @@
       "pubDate": "Wed, 29 Jul 2026 22:16:35 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Oil prices rebound, jump 8% as Trump warns Iran after attacks on US forces; Brent nears $90",
-      "link": "https://www.livemint.com/market/stock-market-news/oil-prices-rebound-jump-8-as-trump-warns-iran-after-attacks-on-us-forces-brent-nears-90-11785339835236.html",
-      "pubDate": "Wed, 29 Jul 2026 21:54:05 +0530"
+      "src": "CNBC TV18",
+      "title": "Dr Reddy\u2019s Srikakulam facility in Andhra Pradesh gets UFDA Form 483 with 3 observations",
+      "link": "https://www.cnbctv18.com/market/stocks/dr-reddys-share-price-srikakulam-facility-in-andhra-pradesh-gets-ufda-form-483-with-3-observations-19957275.htm",
+      "pubDate": "Thu, 30 Jul 2026 00:15:45 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Oil prices surge 6% amid fresh escalation in West Asia",
-      "link": "https://www.livemint.com/market/commodities/oil-prices-surge-6-amid-fresh-escalation-in-west-asia-us-bill-to-impose-penalty-on-russian-oil-buyers-11785330945312.html",
-      "pubDate": "Wed, 29 Jul 2026 21:00:50 +0530"
+      "src": "CNBC TV18",
+      "title": "Sun Pharma gets Brazil nod for semaglutide, eyes launch within days",
+      "link": "https://www.cnbctv18.com/business/companies/sun-pharma-gets-brazil-nod-for-semaglutide-eyes-launch-within-days-19957263.htm",
+      "pubDate": "Wed, 29 Jul 2026 23:29:34 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Nvidia\u2019s $750 billion circular financing loop: How it became banker, supplier and investor \u2014 and how big is the risk?",
-      "link": "https://www.livemint.com/market/stock-market-news/nvidias-750-billion-circular-financing-loop-how-it-became-banker-supplier-and-investor-and-how-big-is-the-risk-11785243777113.html",
-      "pubDate": "Wed, 29 Jul 2026 20:15:17 +0530"
+      "src": "CNBC TV18",
+      "title": "Hexaware's profit slips 6%, but revenue and margins improve",
+      "link": "https://www.cnbctv18.com/market/earnings/hexawares-profit-slips-6-but-revenue-and-margins-improve-19957253.htm",
+      "pubDate": "Wed, 29 Jul 2026 23:19:06 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -73,53 +91,35 @@
       "pubDate": "Wed, 29 Jul 2026 23:09:54 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Three things that shaped Vedanta Oil & Gas's Q1 results",
-      "link": "https://www.cnbctv18.com/market/vedanta-oil-gas-swings-to-rs-945-crore-q1-profit-after-one-time-gain-19956885.htm",
-      "pubDate": "Wed, 29 Jul 2026 22:53:06 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Chalet Hotels Q1 net profit dives 58% due to revenue decline; RevPAR up 6%",
-      "link": "https://www.cnbctv18.com/market/stocks/chalet-hotels-share-price-q1-net-profit-dives-58-due-to-revenue-decline-revpar-up-6-19957211.htm",
-      "pubDate": "Wed, 29 Jul 2026 22:45:21 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Punjab National Bank gets nod to raise $1.5 billion through foreign currency bond programme",
-      "link": "https://www.cnbctv18.com/market/stocks/punjab-national-bank-share-price-gets-nod-to-raise-1-5-billion-through-foreign-currency-bond-programme-19957199.htm",
-      "pubDate": "Wed, 29 Jul 2026 22:17:32 +0530"
+      "src": "Google India News",
+      "title": "How the Mobile Phone Manufacturing Scheme could make India a global electronics manufacturing hub - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQeGVSSHBWdDE2RUZ0ZmFoNHB6Yk5VVk5NVGJ0a2ZnZ1Z2WnNiVkhJbmdDSm9lUDNiZ18xRndvejVtbzgxU2w3SW1vVWxaaU9mT1FudnFQbVRZb296TjhKR3lVWkV4UVRELXAyanA1SFZSQmFNZGFNMlViZ1B0VjZGN01KcVc1WG5Qa0NfRkZJZ051cEExMmc2dXlBLXJDdXNER0RQdUc4VVVyeXBtcWRtRExBd2RjZ0RTbjFPOHRTVERzUVY0Vm9rZm5WZENUMHNYb0NZWVJkWXMtUGZyUWpzekhBaUFuU29uSXp3dTAtZ0tYSWdEOHhKeXRpTHlaS0dOT0ZB0gGIAkFVX3lxTE1OWlI3NDJkUzVkTWJjRVJMZGxtREE2SW9VQ2MyaDBXal9xYUtLT3FINm5vTkxva00wbVZTRklfYW5jMUZnNkpPWDdnZHFmSHdjS19sVnJrM3BINUVLREdBTTZ2V2gyMDFkbVdfd3o2UGZNOEhBdzVsaVlYTFVGdTlPUVZZZjl3dlE5M1FwTUxabEQ5ZDRuVU53TURCQU1nOFZWaVVYSldXcUlxSkMxazhmcDNMRkNPdVUxZmZDTFBSbDlqZFAwUFQ4M01lTzhwQzVVOWRDNmlsR05QeXB0aUtsN0tqU01FRmdFTDcyaTBtRW5fbDlvM1lwZmtFb1IxVUpnVDJPc1MtbA?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 19:00:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "10 research analysts lose Sebi registration over non-payment of renewal fee - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVVk5WExiNXN2RElvRENRZ2lLZk9Mano0bTR6eGxHYWhMcHRBeGl0MHJHRXhiWmJ3WE5lYTJ2QjVCeGlGS2c5c0YzeHhQX2s5dGY4cHBGSFNxN3FYS0lfQWdkMm9tajBGUFlubzRRbGNucFpTWGlzTy14YjBVQlY4bXhoaGdUTDNqTThtemV6Z0Q4cnVlZnZJYzc1ZDNGVEk1N2ZmVER4WHpfQ3o0ZjBuXzkyYzgwUTZoLTQtWjJpUFoyWjhZMnhSTG41LXdEdWJ3czR6U2Yzd0Jfd9IB3wFBVV95cUxNdGtHNjdQNmloS0hVSXN0dGx3OEJ2SGN3TDg3SFo3RWE4TEI1MWpaM2F3Q201Q1duNXBpbFFBVEdCcEJGajRFWmZZWF8zX0p0SEtISE5veV9TUGFqZk53ZXN0UFlkaHV0QlVoTlBNeWRiVUpHZFVvcWdJTnR2dlI4OWRSbVZjLXhKaFo3TnN1YzNsclN1dmxud2hSUU9EX25HVHFRckwxQnloYTN1VkZ0bnI3cUpRVnQ1Q3FQYTFuTU41OFBnWHE0STNMa1cxeVl5eE9ZSUpNcTBfZnZoM0p3?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 17:30:46 GMT"
+      "title": "Kesar India acquires 100% stake in Kesar Lands for \u20b9155.86 Cr via share swap - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa29na3E3dTU0SzV0QTAwc295WmJ0UjJmaUZJUUJMRmdVMzR4c3dLcXVhOHhnVnJCTTd4VXFzYnBRNFlfY0tTYkxpRlJ4c203czJGOS0yMHlZNGk4cThnSFNXNEdtaEZOUGx0WTRtVDItRVoxR2l6WWNZa0pBUmZmcEptVlRJTVNGV3QtTWRHYWMzdGJPWG1MTFhacDB0NjV6TmMyMURaZDFtUE5USmR0WEhsVXVkMWtRaHllZjRkbDV4RHFwYUdSLUlUbw?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 19:12:35 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Honeywell Automation India approves \u20b9110 final dividend per share - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU3hJbWFoaktsdHh5UUZ5T1ZTWFp4cVlXVDk2SFhxZEwzeTlsTFI2LVlrT2kwV2ZVbEZQd2tuVVNia2ZWR3ZyQ2c5VGFxLWo1UTk3TE8wNFYyRXEzWVJwSWFVTkZ5OEo3ZElpMkdpLVhhQUd3Rnd1LTFuSWNDd2YtWUZoMHFqNl9icUZxY0NWVFN3Sks3bGJMQm14bTB2clJVNzZQRU00U3Q2OEIxcWdOdFFIMHM5dlA3MVRza1pn?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 17:24:11 GMT"
+      "title": "India growth resilient amid global uncertainty, but crude risks linger - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQcXpYUG0xeHVJa2FnY2JQZ1EwN2N6QURpMlNERlZzNjA4bld6UzltNHYyZWdnNlUteGdEc09CX203dE5JcHAxTzMxeG1VRDRRVWR6dXprZ2p5emVGVVRtODJpa2RvR1VPTnRKVzBTTlNIUFN4bHh4ZzhtLTFKUUFQTkVHOG9ZNVFQZHQyYUtraFFKTFd1aTlXSXVkR2RZZ1RUeFRQNnkyWllrQzlJeFJ2Nm9pMVR3WVhVY2hUNWZDX3I2SVpVNUdHMzJ0enFFeDJhRkdscWJ5aFhSdGEwaUFuWDhScVlDUGgwZ0Q0dkJyLU5ETm9Vam1icFZIRGtzMzJMaDIwcURoNkVvY1ZXNllTN1gyNC1iQUpOaHNndEdnRlZneWNKakZ3aXlScmlNVmF3WjFDUXdsa1lUNE4xdk1LdXRFdFlvZ2k3c1E?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 18:44:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India, US trade pact to come into operation once India gets comparative advantage: Goyal - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa3Z2aDQ5TkZ6aUlJWVZ1bjQzLVR2RHFTLXFWUHVzaU4wdVlxZXhsYnhVeUJINV95dXFwUjhrMkZpVUthQTE2bG04bHZqV2Q2MXZzcTh6RlBJSmdQUGszNWFMZjdoREF3TDJnX3dSOUtNQUVCelpsbVlPREw2WFMtV0gtY1liSHhwS21GSk1JQnZKMmRNbTVBenladzRuNHhDTnU0XzNLZWt1T1FxdXJpZ09rY09CRkt5RlU5djhvZEZOX0N3WVh0b1JxN0NqTHM3RmhTU2FLT2dmXzI0Yl9URdIB4AFBVV95cUxQa3Z2aDQ5TkZ6aUlJWVZ1bjQzLVR2RHFTLXFWUHVzaU4wdVlxZXhsYnhVeUJINV95dXFwUjhrMkZpVUthQTE2bG04bHZqV2Q2MXZzcTh6RlBJSmdQUGszNWFMZjdoREF3TDJnX3dSOUtNQUVCelpsbVlPREw2WFMtV0gtY1liSHhwS21GSk1JQnZKMmRNbTVBenladzRuNHhDTnU0XzNLZWt1T1FxdXJpZ09rY09CRkt5RlU5djhvZEZOX0N3WVh0b1JxN0NqTHM3RmhTU2FLT2dmXzI0Yl9URQ?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 17:05:33 GMT"
+      "title": "LIVE | No rate cut! Chair Kevin Warsh faces tough media qestions after fed holds rates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUFV3a08yeTd2TjlhY3ZfVk9RS25LX2FrYVR6UjFha0RoakpGSUduVGh2SHAyT0NRV1R4a0N6OHhvNHUzWDQxd0VMcWw1VUREdDJwNk41SnNUTm1rc21Yd2Rwa0luY2s5bXk0RTNBVndnS0dLYUQ5NUM0VXpvX3lwWlIxelo4eG53dmNQWHpHTC1JSkd2S1ZaYVdzTktYcUVaNlY4ZVRyZC1CeVhUWm9PbUNsRzlXaTZtQnZ0ZFFQbXZaVGxXMVFINVJpNDZLeGJuc2JaUGhxaTlpcmptM3N4dEVhYUNnTDU4aTNCZkNfd3dFb3Y0MGZoYdIB_gFBVV95cUxQaUhkMzUxOGxTNkpTRl9ra3B0ZU9sM0NZdXV3N1N6am5MUWppb2ZuUUI3SlFfeUZIa3hRekhwWDUwNlVFZWdvTTcyR1RPWVhCc1puVVBjRldFWTZkdkJwQ0lDWU8tLTRZYVowVzBZcXZYY3MyaFpaQlE5N0Z0aldFbG5kaXprekRTMVUxVmFiSWRsZUlPRlpycHZZVEt2YkpUMTJ0eUhxQlFLQndOU0NEZ0djSUN1dUF6NHVRYUZydU8tRExMbEtMQS1MdlV4QW81dXc0aUpTdFdmVE5sZ2ZnY0Izb3gzQXh1bkdVUVZPU0ZJVGFBNGxzUVdudHN1UQ?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 18:41:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NBCC signs $75 million Seychelles housing deal to build over 1,000 affordable homes - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ0ZscTU0WWpKd2dXS2plX1FLOFptSXhILWtWaDhsNlhka3lId3daRGV2UVl6UXlSMmt5SXl1bWZkbHZIQWhIakxsR1MtU19mUTVrU2hQYVR1UE5jTVNaRk5zWWViME1STTZKbUJfRmxEdUpQMnFNR2tsNkczcWdDcTVKdWVLYndIXzlVOVpJT2MxRmVpd1dzM3BDcXFEM1E4RnhjMXJoQXBjRWk1c2xWYWZiWXJmMWYzVFQ2UWVIaU5TTzlDby1zLUFGQ2phNmQzWGFNdjhtMFgyQ2ZkQ0FHc29oajcxQdIB6wFBVV95cUxOd3M3X1h1WlBXU3NJVDZydEE3cXZNSTFobTRsc0JIZkpBeTFldk5iTDRIeTRZdF9hMXVTbGo1QTJmRWg0Vmc1Yk83aDlVZ2tjVmhQMFZVN09zb3BkNDNBS3JSdVdIc2NwYkx2YzVUM2xwa0hsSGRMUVZpeFNzRmRHbnZhanpOanR6d2hkZDhfY1J1dmpab1BkNlB3dlVtWnlQTzdfLUxPeHNjUkVRMHIzTE9IcGZrS2JSeWdaU1MxYW41QzBzdGMtelZFNTFhUWpvc3htVVVGeFNSbU1qbkdCSE1lTXJ4NzJkZEdv?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 17:33:37 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "How AI is helping pharma prevent drug recalls, counter fakes and improve patient safety - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX2tERzhzMkxoekNsb25ZWGhzanMxMXV5cWxnWERuMXM4Z2xnWnRRS2lybW14dE9rWkwzbmt3UDRNdUhmRUtnbkhsam5KQnUyakQtWlpja0l5TGctLXl6QkQwcnN4ZUYyZDhkMGVuT2luR21iTlRCSzdBRzNqbXhyd3NYRzRSR09GMExEZk10SERicVpSMTBCc0ZkVjJrOFhkeWxwb3F6MnFYaW9Lc0JITnpSVVlRWkxJT2s3WWpzRWtGZ21NZ0JsT3VIV1BURVZhblBrWGVWY3NjRU90RHV5TEVsdWREeFlZVng5Q2FNck1CNlgt0gH6AUFVX3lxTE1iTlNrZXNzUnBuRk5oX0ZETVBWOWEtVTVCMFJValM0M0I5TkE0VXROV29ObmxkOWJ5WGU2cXNPUU0yaExLTlpZcWl5eTJZVEZSbUZHZ3M5Z2JFdzhEdGFrek1oME9TYU96dGVDd3ZhVWZkYkNGTjZ2dDF4UGZ2YUhuVGJSSE9vSlJyYTVocWxUMHBlSzczMlczaXh5ekJ0X21Ld0FRUmJRdnpjWFhBdmFueUxCUlVVMG9xa3ZRNXhoWFRHc3JGNS1VVzhONE9NbVhpSUFYS1hIMmJaZ3JkZjlRSWpMSGdfdW5ydVRKTlA4Q2puSFllekZpQlE?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 17:34:00 GMT"
+      "title": "ADF Foods Ltd approves Irish subsidiary for European expansion - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnRZYWdXck9GQ3Q5RV9sUHBMQ2psTERzZlpiSGZkd2FGZWlJRmdlenlEalhkUXl1bjFxbWVyLWhXYWM3YVhLWkhLT1I1T05pQWhEejJBZlJpVFhFemhJZk1Ecll0WHdpb3B5cE4zOElMYTdJdFp6aGZldXZGcHlGQ0hIYkFnUDgyR3pQZjhKakxtTEFwenhZdWMySWFQNGkwWlFnYVBidmxaR2QwdlY4SzhqclV4Uk03OVFR?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 18:26:28 GMT"
     }
   ],
-  "fetchedAt": 1785347674
+  "fetchedAt": 1785352391
 }
