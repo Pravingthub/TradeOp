@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market closes down sharply after Fed holds rates unchanged",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-closes-down-sharply-after-fed-holds-rates-unchanged/articleshow/132721597.cms",
+      "pubDate": "Thu, 30 Jul 2026 01:32:32 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US Fed chair Kevin Warsh says this after holding rates steady",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-fed-chair-kevin-warsh-says-this-after-holding-rates-steady/articleshow/132721355.cms",
+      "pubDate": "Thu, 30 Jul 2026 01:32:11 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Federal Reserve keeps rates steady as Iran-driven inflation risks keep markets on edge",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserve-keeps-rates-steady-as-iran-driven-inflation-risks-keep-markets-on-edge/articleshow/132719615.cms",
       "pubDate": "Wed, 29 Jul 2026 23:32:07 +0530"
@@ -19,16 +31,10 @@
       "pubDate": "Wed, 29 Jul 2026 21:30:39 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Star Health Insurance Q1 Results: Profit jumps 25% to Rs 550 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/star-health-insurance-q1-results-profit-jumps-25-to-rs-550-crore/articleshow/132716654.cms",
-      "pubDate": "Wed, 29 Jul 2026 21:28:56 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/132716493.cms",
-      "pubDate": "Wed, 29 Jul 2026 21:27:07 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold, silver prices today: Comex gold and silver recover as Fed keeps rates unchanged, dollar weakens",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-and-silver-recover-as-fed-keeps-rates-unchanged-dollar-weakens-11785355194093.html",
+      "pubDate": "Thu, 30 Jul 2026 01:43:30 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -53,12 +59,6 @@
       "title": "Microsoft stock edges higher ahead of Q4 results, Wall Street eyes AI payoff",
       "link": "https://www.livemint.com/market/microsoft-stock-edges-higher-ahead-of-q4-results-wall-street-eyes-ai-payoff-11785345972320.html",
       "pubDate": "Wed, 29 Jul 2026 23:16:11 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Cupid makes additional $5 million investment in GII Healthcare platform",
-      "link": "https://www.livemint.com/market/stock-market-news/cupid-makes-additional-5-million-investment-in-gii-healthcare-platform-11785343254688.html",
-      "pubDate": "Wed, 29 Jul 2026 22:16:35 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Founder Led Stocks For Long Term Investors Watching India Consumer Growth - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNU1locXpCQ2F0aEtEN1lMek03WXVvNU5VNnVvV3YtMEdMQ2h2TlRWOUxYazd5SmIxT1BaYUZHa0l5MGZnXzM3V3FYOWhweFBBbFVmVlFfTE5LbWVKYmdyaWRFa3B6R3dhZjNaWTZTOEpPMm5xRmFCd2tGcFRkYVNkUTMtcVVkUE1UWFFZVldZSTVWeHhGaXllUjRVX21LMWJNOFRwWlptTmJtT3dRWVBKbmcxUVpZSWZMQmVpYjdBVmFTMnA4aWcwUXliSFNKdldKanVXRUxZUjlPSENLcWfSAeMBQVVfeXFMUElTVFBybHZNN3g1N0hOdzVoTVBOdVFxcFNLbEVnNjlkYUYxb3JYMjFpNHQyR0U4cUR6NlcydG1qWWx1VEdLT0NYUlktcVlVcUlhcjc2aERuWW13ckwteVYwcHZKbm13dFg4YkxuWGt6SjFhdG9uYnhWM1NqcGJ6Z2ZqQkpCa3h4Z0w0SkRzM2lXQTRtNW9HcnhMc2d2S19ucm90aDFLaEhPVGdNYjVJazkxdU4yUkktMTJXanB2bjBJYjNCYnZvc0QxcE41Z0F3WWd1OWkwck1qU2dtTTdMMVlKRk0?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 19:35:58 GMT"
+      "title": "Plastiblends India promoters acquire 8.85% stake via inter-se transfer - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMmlOMzdPeWNxNmdlYUpSLVBlR2xmMWZOYU1UdVFuaVcyaFFXSnhfRXBLM2R6S01ScTFrMGpKTlJ3SFoyUm51VDFRM1NranJGcTJrTGxmRTNsUGVBVzV1SVNzVUw0Y2FmS1BJb2tqRzR3QVU5Z1k0b1ktZDNBYVpvQUl3MkJGLXRUR1l2SENTRlFaQUJtSjBfOW1nUVJBU24tZVNZSm5abllSUjZ5MWkxVm93VW9YbnZ5am12LTh6eDloOE45?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 21:13:08 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Netweb Technologies hosts investor meets from August 4 to 7 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUZEQlBveXdWak5oenU1ZFZkcTRrbkgxUHMwV1oyUjhreVREYjNiWWxRcU5NQTFFUi14Y0U3VDhXSDNwWjNLUzU1aDdWV09kTlM0NC1pRGxfYm5NdG5jZnU1T253bmY1cXZlN0Nnd0stMEVaa2xxYU5qOWxnQUtFS3VIM09wNzBKMG5tMC1qSkpEcGFXQ2hoMFVWRGdWbzJFb2t6UDM0dHpPWHlYV0llRi1ONHNkY28?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 19:38:56 GMT"
+      "title": "Crude oil prices dictating the direction of the markets - First India",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOamtQUVFDWk5VRHlkamJFbmNkbEplbFhqNlJmYTZLeXlRYWZDYmowTFU4dTRDNDJMM0ZlM3ZQRnVDVlA1SjBYdjRNNFFfU2F0OGhXZXF6VTFjUVZLU1NvT0FTNnBLMXlSV3ZYczZTR3FLM0s3NTZhSlhBRWlEaVlvWkREalZ4U0FPX1Rac1NJZ3RMU2lLbU4xamV6YWg2cVVaeUE?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 21:01:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Oil Prices Surge Amid Middle East Tensions; Chip Stocks Decline - India News Network",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNmd4bEQyN2sxbVd5MmpSSnMzNjZNcXAyMzBZbzJlY3p4bmNTdXNHdkR2bFBUV2tnS1VTNWVhb1loeXBYamtMM0tCNEFib0g5b2QwS3VlcExHcTJNb2p1c0lGWHdmR0pfWEV2MnN2QUFvSnhYYjZVV3ZJRXRkRHNmek95cHptaEdrN01QYllwR1FfUGFwcDJtM2xia2ZQU3pjc1ctYzJKRllWMUk?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 19:40:53 GMT"
+      "title": "\u2018Inflation remains elevated\u2019: Fed holds rates steady; Kevin Warsh defends policy stance | FOMC meet - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOR0xpbWVDa2NwSXpIWVg5VzVEdDdkWm1iUktBWWxQU2ZXdjVCN3hZSDd3R0o4b2p3YmJfZlJESVJ6ajZJV01SaEYwUWpZai1kMHBNa1ZBOHRyT1hWVkN2QktiWlB5eXc5eTlERXowY005RjVJMUpsZzRSUUtPZHJLSTV4UllGazUzZ2RGQmxpcV9lYXdtM3VONnZObjNpX0VOellzX1plclhkSkhoR0F2ZFJRa0NTRnJtVnY3SkNfU3FTUFltLVhUZHFTRHNkZ2JZS0VMck0yaU01Uks3UmNJeUt4b1lna1YzekRpZW5QSERfbEEyUUVqNkFoaWhZSmhtTkhUb1l30gGLAkFVX3lxTE41OGNxdFl6ZWxNVi1DR21iYV94SWNWbm9POThwOTJkRVlseHVwZVN4QjdSNmF5MUtrNWwteUFsSlZkRmJlS0w5YXQ4NDE0MnZKRHBKeDF4VHByQXZCV2hTU3Q5SEFTUHRDSDhFTDhPRzAxOFNWeC1Ndk4yZFlrek9nZGVBY3VGUTZOLVdHb1Baa1NwYnBtNlozWkYwSDhCUFFUM2JHZGpHNW1IVlFIS1FZay1wMmxxYm5qUEpiWkxUamhDQ25wdVVXU1dTMWJSTWs1NElwbEIzSEhRY3g4UFYxYXR2T3VpZU5aSDZiRmQ4SmVVN09HY1JLUGFfamt3WmFDLWJhOWFaNTdKcw?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 21:00:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Trump LIVE | POTUS, Secretary Sean Duffy unveil major transportation announcement at White House - economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNcHVlQ0FwUzk3b2dDdmpRRFlDMUUxVE9ON0lKRW4xNkpfRVlpOVlTXzViN1ZFLUtMSDM3V09MUWhzWEp4VVdJeFk2MGttcTVKVVdPdm5xX2ZYWkViWDFJbVZjeVl6V2lQZllaY3lydy1DbnN6d1YtQVlORzI4SnhPRDlRZXBJdmc0ZVdmN29rVkFndXdwVXVWZjRIOUhJa2VPRDRhSWpGQUFoY3lZYW1YUS1GVzg4Vk94WExRZmVheTNWVi1ZR3lCQl9rZzFVUWVhYkRXbmdRc2xXdTRLdU83cTdWbHZXV2g5UHlmR1lkZWlnVDlnNFZrNWJZTk9pNTdaMUFaQ1RR0gGLAkFVX3lxTE56bVR1cjVpWXR1SmVhMTkyWW80NXhheEZ3Z05IeEYzVVQzdHc5UzJBeUtGbGt4N2dJS0RTZy1NTUFLcUc0WTB4VGlFUkg1eDFCUmFiYkxnM0RidTFLRTkwbVBGeHlLSVZic2tOY1NvWnRZOW85c2FReUFzSmphbU40dXFHMDlwVUxfbC0xbkhZNHBpaHJObjRhRGo0RkowVjVrejJLSkR4My0zcmllaEFfQVBYTVY1S3BrMWlWMlJIY3p5U0ZoQjlKLWw5MU9fM1JTRmY2YlZpdDkxaEpHdDEtWGNlbDZWZkNsUWZGSERsdG9MVE16TmVTeG1XdVJ4TGpJUThxR3pRamtodw?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 19:37:51 GMT"
+      "title": "Why SIFs are catching on with investors - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeTBwczZoTTFHOXltVTRkVlRSTEctWTFGYWRvWEt2OTFzbmc1OG42TzcyS0lTWUFiUmwyUFl4RFJpek1SeUF0cXNqc1Exa0Q3LXlpakNZLWZIOUNPb2xLYVpGVTd1Rm1adXVDNlJ5ajUwamtqX21JSTJfMG9pQ3hEUXhyVGtRNFg3WllJYmdYeFdpOEhXcWc0MEZES2RGQmtvbHpQdmczenY3OFMteXNHM9IBtgFBVV95cUxOR25PYWY2WkNtUEZvakM2V3g1Q0NNSENkbVpBeW14cndTcTh6Wlp1YktmYlh2TWpwYkhnVS1pcW84SHUxLTk4d2xIaWdZeDFCQ1NYNmEzWi1Nai1KZ3YxWUFxenI3OE4xMHo2YTh5R3dDb1hGbWk2UmRkNS1zWk1FQ2VwaTJ3bi1WNUJUQzNwcVMyTlNaX3loOGliLW01YmZ3MW9JTDBnNVBFLUgtS3l2YklFN2pDZw?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 20:40:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "LG Electronics India FY26 Results: Net profit down 23.5% YoY - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONExSb3NuX09fUGhwUzVEdUZTbDN4eDY3OTdlRzZRd3dUckhzd19DMGpDUGFSb3d2VzFYeWlsZ05FNnZ5aHptNmwwcHRzRVZzRGdDMmlZZVhLcmFxMlNQc19iTGpHSUlNTDdOdlFja3lpekVCOHNsLVJfN2FpbW1Gb29wVW5xU1JpbncwZnRPTTFNcEtmMDRhLW9pVjBIdDZCSl9tNlBuUjRLZWN5QnFZNUEyTENJUQ?oc=5",
-      "pubDate": "Wed, 29 Jul 2026 19:46:47 GMT"
+      "title": "Tamilnad Mercantile Bank to host virtual analyst meet on Aug 4 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ0dPazVvRUNSVGRIY1ZibGktQk1pNndRV3FRMHFTTF9iVklzeUZJd1poUDQ0TU11LW94eG4wR0NTUTBDS1RKcjBsVl9FRUZfb1VPYTUtbzNDRUp0NEVOLXY2ZjVsa1RwMzcwRkdGYS1sUjF1cU81ZHpfa1F5Q2RkVExfR3B4VkZNLXZxQ0g4b2RxbjYzWll4dlZsSmhfWC1hRnVSUTJvZHgxVXREbDRXcUE3ZzVoRmpsMXVF?oc=5",
+      "pubDate": "Wed, 29 Jul 2026 21:11:05 GMT"
     }
   ],
-  "fetchedAt": 1785356025
+  "fetchedAt": 1785360427
 }
