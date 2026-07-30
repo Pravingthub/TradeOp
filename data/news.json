@@ -2,33 +2,45 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Jersey Mike's shares fall 8.7% in New York debut",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-jersey-mikes-shares-fall-8-7-in-new-york-debut/articleshow/132746674.cms",
+      "pubDate": "Thu, 30 Jul 2026 22:55:08 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Mastercard profit beats estimates on strong consumer spending",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/mastercard-profit-beats-estimates-on-strong-consumer-spending/articleshow/132745542.cms",
+      "pubDate": "Thu, 30 Jul 2026 22:22:40 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "NSE Q1 Results: Profit rises 7% YoY to Rs 3,120 crore; revenue up 9%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nse-q1-results-profit-rises-7-to-rs-3120-crore-revenue-rises-9/articleshow/132745768.cms",
+      "pubDate": "Thu, 30 Jul 2026 22:10:49 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/132744947.cms",
+      "pubDate": "Thu, 30 Jul 2026 21:29:55 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Qualcomm shares fall 5% as higher costs, Apple-related weakness cloud profit forecast",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-shares-fall-5-as-higher-costs-apple-related-weakness-cloud-profit-forecast/articleshow/132744543.cms",
       "pubDate": "Thu, 30 Jul 2026 21:13:23 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "NYSE parent ICE to buy MarketAxess in $5.7 billion deal to expand fixed-income offerings",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nyse-parent-ice-to-buy-marketaxess-in-5-7-billion-deal-to-expand-fixed-income-offerings/articleshow/132744499.cms",
-      "pubDate": "Thu, 30 Jul 2026 21:11:58 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold, silver prices today: Comex gold jumps $144, silver gains $1 as softer US inflation dents dollar",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-jumps-144-silver-gains-1-as-softer-us-inflation-dents-dollar-11785426931282.html",
+      "pubDate": "Thu, 30 Jul 2026 22:42:17 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Fusion Klassroom raises over Rs 11 crore from anchor investors; SME IPO to open on Friday",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/fusion-klassroom-raises-over-rs-11-crore-from-anchor-investors-sme-ipo-to-open-on-friday/articleshow/132744304.cms",
-      "pubDate": "Thu, 30 Jul 2026 21:10:24 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Rs 104 lakh crore club: India's richest 3,040 now hold wealth equal to 30% of GDP",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-104-lakh-crore-club-indias-richest-3040-now-hold-wealth-equal-to-30-of-gdp/articleshow/132744001.cms",
-      "pubDate": "Thu, 30 Jul 2026 20:41:15 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Microsoft shares surge 16% as AI cloud bet starts showing up in numbers",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/microsoft-shares-surge-16-as-ai-cloud-bet-starts-showing-up-in-numbers/articleshow/132742769.cms",
-      "pubDate": "Thu, 30 Jul 2026 19:55:30 +0530"
+      "src": "LiveMint Markets",
+      "title": "Zepto to raise  \u20b91,000 crore in pre-IPO round at USD 4.5 billion valuation; public listing delayed",
+      "link": "https://www.livemint.com/market/stock-market-news/zepto-to-raise-rs-1-000-crore-in-pre-ipo-round-at-usd-4-5-billion-valuation-public-listing-delayed-11785430328994.html",
+      "pubDate": "Thu, 30 Jul 2026 22:35:40 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,77 +61,65 @@
       "pubDate": "Thu, 30 Jul 2026 19:38:27 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Mazagon Dock Q1 results: Net profit rises 22% YoY to  \u20b9550 crore; revenue up 12%",
-      "link": "https://www.livemint.com/market/stock-market-news/mazagon-dock-q1-results-net-profit-rises-22-yoy-to-rs-550-crore-revenue-up-12-11785417488121.html",
-      "pubDate": "Thu, 30 Jul 2026 18:54:11 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Juniper Green Energy IPO booked 38% on Day 1; QIB portion fully subscribed",
-      "link": "https://www.livemint.com/market/stock-market-news/juniper-green-energy-ipo-booked-38-on-day-1-qib-portion-fully-subscribed-11785415981243.html",
-      "pubDate": "Thu, 30 Jul 2026 18:35:19 +0530"
+      "src": "CNBC TV18",
+      "title": "NSE Q1 profit rises 7% as trading activity lifts transaction fee income",
+      "link": "https://www.cnbctv18.com/business/companies/nse-q1-profit-rises-7-as-trading-activity-lifts-transaction-fee-income-19958332.htm",
+      "pubDate": "Thu, 30 Jul 2026 22:50:20 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "LIC Housing Finance Q1 profit rises 10% despite muted growth in lending income",
-      "link": "https://www.cnbctv18.com/market/lic-housing-finance-q1-net-profit-rises-9-9pc-to-rs1499-crore-nii-inches-up-0-6pc-19958256.htm",
-      "pubDate": "Thu, 30 Jul 2026 21:31:18 +0530"
+      "title": "SEBI clears \u20b91,491 crore settlement in NSE co-location, dark fibre cases",
+      "link": "https://www.cnbctv18.com/business/companies/nse-co-location-case-sebi-clears-rs-1491-crore-settlement-19958260.htm",
+      "pubDate": "Thu, 30 Jul 2026 22:57:01 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Nucleus Software Q1 profit falls 32%; bets on AI, banking platforms for growth",
-      "link": "https://www.cnbctv18.com/market/nucleus-software-q1-profit-revenue-falls-bets-on-ai-banking-platforms-for-growth-19958075.htm",
-      "pubDate": "Thu, 30 Jul 2026 21:11:26 +0530"
+      "title": "Data Patterns Q1 profit falls despite higher revenue; acquires composites firm",
+      "link": "https://www.cnbctv18.com/market/earnings/data-patterns-q1-profit-falls-despite-higher-revenue-acquires-composites-firm-19958320.htm",
+      "pubDate": "Thu, 30 Jul 2026 22:30:44 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Bai-Kakaji Polymers hits upper circuit as Abakkus Fund buys 2.8% stake in bulk deal",
-      "link": "https://www.cnbctv18.com/market/bai-kakaji-polymers-shares-hits-upper-circuit-as-abakkus-fund-buys-2-8-pc-stake-in-bulk-deal-19958248.htm",
-      "pubDate": "Thu, 30 Jul 2026 21:03:10 +0530"
+      "title": "Aarti Industries Q1 profit jumps over 3.5x; sticks to ambitious FY27 plans",
+      "link": "https://www.cnbctv18.com/market/aarti-industries-posts-260-pc-jump-in-q1-pat-reiterates-fy27-capex-roadmap-19958291.htm",
+      "pubDate": "Thu, 30 Jul 2026 22:25:20 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "11 years of Ethereum: How a white paper became Wall Street's blockchain",
-      "link": "https://www.cnbctv18.com/market/cryptocurrency/11-years-of-ethereum-how-a-white-paper-became-wall-streets-blockchain-19958139.htm",
-      "pubDate": "Thu, 30 Jul 2026 20:56:05 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Bajaj Finance aims for \u20b96.5 lakh crore loan book by March 2027",
-      "link": "https://www.cnbctv18.com/market/bajaj-finance-aims-for-rs-6-5-lakh-crore-loan-book-by-march-2027-19958233.htm",
-      "pubDate": "Thu, 30 Jul 2026 20:41:54 +0530"
+      "title": "Medanta operator Global Health posts record operating performance in Q1 despite flat profit",
+      "link": "https://www.cnbctv18.com/market/earnings/medanta-operator-global-health-posts-record-operating-performance-in-q1-despite-flat-profit-19958304.htm",
+      "pubDate": "Thu, 30 Jul 2026 22:15:40 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Gen Z Leads India's Investor Boom, Making Up 59% Of New Market Entrants - NDTV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWnBLSTlpVkc3MVN0djB4YkEtM1JpVjZqemFrajRuaWVscFRONWZoTE9KeW16NHYzUTBkbXc1MWpFVi04aHhRMTM5Wmw5M0FVRUxoTS14c3pBbVM3X3B3Y1RjejZ2aDIzR09uRXlqbnpaUXJmR1BYN1RnRGdZbm45eC02QUQ1U3FRQVJ1Z01IMV9NXzhIVW16ZnprR28wdlQ5cURTX250NWZQWkxkUnBDekJ30gG6AUFVX3lxTE9sVmUxM0VQdTFmOHE1cTdzNFh3SVdUVVN2Ni1hU3FfaFhLdzBrSnhwdXQzbTcxTjZYT3BDbkVPbElqanNQOThzeDJSSkw5SDZmWC00Nm85ZFBSQlV5WTZhYmpndks5WWlDX241bHdkTmllZEVybkxONi1UQklncDhCRkdGLTlLdWxCd0xpNjlpSG00VEE3b3VkZGt5amZQbHA5WWEzZHh4aHRyMTZFNTNMM194TURreHlFQQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:11:34 GMT"
+      "title": "Market Data - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jc3FyVXdDdUVBdi1tYkJmbmxWWjJ6WjhuYTVRYUlYanlVVnZTU1dsWkZYa0dSMXRyZldDRkVQSnJiWmJzdWhBS1lheVV0ZDh0YzRMUDAyOEk2NFJKLUtiU2x0QVBZQVNu?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 16:46:21 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sensex Gains 274 Points as Auto Stocks Lift Indian Markets - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONjI4RDA2eWNnZEFIZHBZTVpzWlhBUmJCNFRmUzItODBMZUs1NEZqVFRJX3NTT0pza0dNREU2Q3dOVE1fNXBsMVMxemNnTkhRQWxoTDBwb2RzeTlqZS01cndpa1hKSlduMWtOV1RoaDRVQzFjcnFCQlZfQ3R5R09YcGZFZm9PWUhQV3hiaXQ5UGo?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:49:59 GMT"
+      "title": "'Makes our exam system more robust': PM Modi praises anti-paper leak bill in new Instagram video - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPY2swM21YVnl6REJ1WFhkWXFQbVpVaWh3OWxENlNtazAtMDNkVW1yclNFS0lLSG9VSFVnZHc4NzhNb1VWMTdLejA2NGI0TDZmN0xqU3ByV1k5d1g2NGJGYzA2bTQwRnJVT1BVUTlTdHpub2U5ZUxMTU51Vk5ZLVhpODJ0TGZ0RmxoVUtaRVhMa0NNUDk4RzFFVzN5Q0poeklnOGd3WjF3SGZ3bVZlWnY2dUt2MWdWQlBnQ19tekZKYmJlcks4Zk9VUlk1dDF2TllkXzM0OGZsczF3ZnV0ZF9QRlh0N29BV0J0ZnBjd21VSE1iRmFMVUV2SVlBWGZHb2PSAYQCQVVfeXFMTlI2NmhJaWlDV28wcWE3c0hfdlBmdURrWkpLbTV6dExLMXNBNS1TR1EzbFhkYk5oYjJQMExWSmJDYnJGY1JyM3RfdWlBVVN3V1FMNTlhblNQN2ZtQWpWSE8tTTNoSUJiWjZkRG5faWV4TnJlSTQtcmI4dWxzUzZ2cG5rTURGM0pHQ1BSSUVwMmRsLU9xelVBYk9SdXFLaVNCd2ZZUi1vUEs5b0lhMjU5ajZXRW1TUG1VT1VlbmdZUFZCcF83N0doZW9RUy14VWxaQWpnMVBObUNSdHEwM29yVTh6VFR4NnQtOUQ1SUJFLXNmclJnZjVLeUhNelhrNWVFNFl2RU4?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 17:40:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWWpTYk9JN3dhaXIzbkZ6azQ3UGlsQ0N1eGUwaWw2eDlVaEp5S0NrUm1FUV9QbUpxcDBVSVRESGxLN29kOFpLTDIwcEJNZE04dm8tSVB4Y3ZjOWVJSFdhRjdxYUVBRWF6bnFpSnRoSnFZSk1ESFZOajk0WDJFUEFhWmI5UmNCbV9YLVVGcVFBVTZQbVVqZTNzT0FnbUNOOEFGSlhpQm5aRlBqVXdrelJqUUM1OFV4d1F5OVVKYXpXNld2S0hOdnBEaW54VWRQWklHUVR3OTNrem1RYVJjTlVN0gHkAUFVX3lxTE9HenVKWC02NU80cTdXckNoNDNGa1ZYb2xtUHNaS0FhZzdpNDIyOC1WOTdTSDVmZjRhNG12bUwxUkxCLUtmblczWmF2d2J0RTV2WFd1SzRZdFlQVzRJY1gzMGZuQUxYX1U0YWlLbjNqTUl6Wm9YeVlBUHFWd1hrb3ZiWU1FcjlzWHUzc21ESWVWX1Vfb0tfOEFxTkl3eGxtSHhUWlY3MVNUdlFBVzNZTk5SRDBySFJEUVZDTXQ1QndGNWZFazNoVnJzZlRhNWUtZ29LQ01xaGNHLTlybnhjMmpvSV80Yw?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:59:55 GMT"
+      "title": "Trump LIVE | POTUS unveils 'freedom haulers' program to replace immigrant truckers with veterans - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdEF2TnpsYjc2R0VBWXVMSkRKUFZLTzg2eGd1RU0wNExiNlpQeGZ5ZTlQekxIZEstUzM4NEM1U1pMR1pWbTFBY0c4ZEZGdHJuaWY3dzVCMUtoa3ZnYXRXSnRScU8wWnVuOXI0S3BlUHozRnF5UWlCd184cDZLcnZWRGV5VEZFYUFRbW5DR01YLUxMVDlTd2llTml3V09BazRvbUx1QUhpcjJlVHVjTnVDeF94anlSak1tNTNyNDRmSHRPR0pjV3lCNjNkZmtyNUNFaFkxSlhMVUx3RmVLV1dhMXV6RjhjZTZ3cEU0dTA0R0lMeGh2UzJSdFExQVJ0Vm5mY0pTadIBigJBVV95cUxPdnIyLVgxZDNjSXlITmphTFM0QUNKbWMzZnctOWt3Z1ZkM2V0b05sV0VkbFdadTFjb1ZjdmtYOG1xdnF6aWRaTS1LUlFoaEVoOTBNaEFlUWZIX3VwOHBCb0U3UUdHdDdtbWU0OGpIYzdJTnhsUUVFbjBiN2tUenhhOG5vMXJweWhmcUpfLXA4bzVRY0JvTU1tRm5XdXRrOXFfYlZNNnZLd3NoSEtQaDBsaDJqcXE5aVQzVEpDSTJ4RTRWRmtFelM4MHY4bWJxQWx4OUJtQnhGdTgyZ1BtMUlRUzJJb0FMaktvWnY1U0hOZ1RLbW1jRmVfTFVucndlMW1HX0hTUjd6TWU0QQ?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 17:38:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Share of Indians with access to formal credit doubles, driven by phones on EMI and less developed states - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPTUNlc2dEaVg0YW1hQTR2eElmQ0V0RkloekZ1LXRKX1AzQVNxdWxEakVyR2pCbC1nZE5uMHowN2VJakpfRGpVZ2d1dmZhZWN0OVliZDBRLUswZnhlX2xaUnNPWUwyQkpyRC1nV0l0UEZwQjZfNU9wcXVwTTFVYVdRVWdGNW1oLU1yTTE5LUc3NDQ2RzVnQXFYQUNoalhwMGtlanVLck5pWnhmUmh4dHdYNXVqaE9NQ3VaRzZ4ajMxQXpwU2hWN0xGQ3A2U1p5eFBXTVVlUzhSTXNfN2duS01Wb0pUempUQTZGRnYzbTlfMHZkdXNHeUQ2a1RkeUJDcG9yUHpDdzZ2N1RHNlZqT1pIRTNPWEhhUnZx?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:36:00 GMT"
+      "title": "'They had my daughter's voice': Mother's emotional testimony reveals threats of AI voice cloning - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPU05JYlZoTTBmUjlHZlJhRnFtUHRpRlk3bThaZlFDbGcyR3RVX1cyZ1VUaFhORmxIdXlEM2VKajVMakJrUWtaRmJDSV9UeklmSGRnSXgwaGpyTGE2eVJjQ2lwN2xPUENUY2RJMGpxeDV5Z1dyeE40bW1WOHU3amVTUEZOZVdNT3k4M2ZuM1EwOGNSZ2ZIb2pjQWNzQUx5eFhNUC1GZGFqWWtKN3hzaVBMdEtZb2JDWWxzMU51elhZMEZ3OXFNeElhSUxpYmNJQTZQTEFXRVhtRktGYkg3Y2lQaHZ2Zi1HVlM5bGRyYmZNSTRuSkhYelNjb1VmdEt1VGtEanlj0gGIAkFVX3lxTFBVMmdjU18ydnZ2aGU4SFdNUHJ2U0dFXzNQMmxzT1liTGxjMER5c2sxdXNuQjRrVUdkNTRVLVNSS09YdWZUbGxDckhQVW1qQTVwTEI5WFQ4cDhaZUk2WVZETFAxNmhpYi1HbGFvWUNlb3E4eS02VVZScEszeGZrM3lvUlZZZEJEbDNCQ0lBWGNfT0FTSjJ5bEJIdHRic1ZrVzNPQllOZlJoTlpkNUpyMjRZbDJKQ3MwS1RKMUktejUzQ3dpR2dnNU9RcTMzOS0weTZDU2pHNV9NaGRBenhTUXcwSC1BOVZzSjR6QXUxUXVIX2ZZMmo1YlUzMnJmQWFmRWNCeVBwd0VRRA?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 17:36:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Carraro India Q1 Results: Earnings call scheduled for Aug 7 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMnNSbjBVR2FELUNtSnlFaG8ySkJocmo2ZmQxNVU5ZTdJSHNPQUNTSXZzZUxHMlg3TktCLWlFbDBKUm5HRmV4Y1VWWkszUmFGNmNUdzE5SEpUMUJnMFhiUTFwMnBMMlJldFp0bjRTUEFKS0JKUG80NTRXWU9iMjZMUDdXcERLaGRuRG9BVkQtUlNKUUJwZGxUMzN0VGJtUTVzSWNBM2Z5bkljcEo0ZjJpWFFuVDVKQQ?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 15:17:06 GMT"
+      "title": "India's NSE says regulator agrees in principle on settlement offer over past lapses for $155 million - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTFdOSU1tX2ltMWpxeE5DZ0pOdTRUcWN3VWRGQWdXTnlzR1A4N3BvM1IxVlFVZTVuOEpIZkgyVEptWUlrMHd2eGNGOEVzTXNrYVZrdU8xU1REMmNZak5rY0szRTgtR2cwT09xTHEtbkZlekh3WWhZRVY1RHlldzV2SWt0N2xFbTlUbnV6aVVMb2tkbzBuN0pWWG56WTREcWo2eWhSUUF3SHJtQWpYMjZ2SlVTVHlFckZjT0kyQWp2Yw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 17:04:21 GMT"
     }
   ],
-  "fetchedAt": 1785427664
+  "fetchedAt": 1785433565
 }
