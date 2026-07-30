@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market ends sharply higher, lifted by soaring Microsoft",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-sharply-higher-lifted-by-soaring-microsoft/articleshow/132749971.cms",
+      "pubDate": "Fri, 31 Jul 2026 01:31:57 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks: Microsoft adds $485 billion to investors' wealth as shares rise 15%. Check why",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-microsoft-adds-485-billion-to-investors-wealth-as-shares-rise-16-check-why/articleshow/132749888.cms",
+      "pubDate": "Fri, 31 Jul 2026 01:18:58 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Goldman Sachs Asset Management launches AI investment platform: Report",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-asset-management-launches-ai-investment-platform-report/articleshow/132749611.cms",
+      "pubDate": "Fri, 31 Jul 2026 00:55:38 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: Jersey Mike's shares fall 8.7% in New York debut",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-jersey-mikes-shares-fall-8-7-in-new-york-debut/articleshow/132746674.cms",
       "pubDate": "Thu, 30 Jul 2026 22:55:08 +0530"
@@ -13,22 +31,10 @@
       "pubDate": "Thu, 30 Jul 2026 22:22:40 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "NSE Q1 Results: Profit rises 7% YoY to Rs 3,120 crore; revenue up 9%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/nse-q1-results-profit-rises-7-to-rs-3120-crore-revenue-rises-9/articleshow/132745768.cms",
-      "pubDate": "Thu, 30 Jul 2026 22:10:49 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/132744947.cms",
-      "pubDate": "Thu, 30 Jul 2026 21:29:55 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Qualcomm shares fall 5% as higher costs, Apple-related weakness cloud profit forecast",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/qualcomm-shares-fall-5-as-higher-costs-apple-related-weakness-cloud-profit-forecast/articleshow/132744543.cms",
-      "pubDate": "Thu, 30 Jul 2026 21:13:23 +0530"
+      "src": "LiveMint Markets",
+      "title": "Yen soars as analysts suspect official intervention; dollar broadly weaker",
+      "link": "https://www.livemint.com/market/yen-soars-as-analysts-suspect-official-intervention-dollar-broadly-weaker-11785440871874.html",
+      "pubDate": "Fri, 31 Jul 2026 01:17:51 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -53,12 +59,6 @@
       "title": "MV Electrosystems IPO: Issue received a solid response on Day 01, booked 3.9 times; GMP signals bumper listing",
       "link": "https://www.livemint.com/market/stock-market-news/mv-electrosystems-ipo-issue-received-a-solid-response-on-day-01-booked-3-9-times-gmp-signals-bumper-listing-11785423426709.html",
       "pubDate": "Thu, 30 Jul 2026 20:40:33 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Crude oil prices drop as reports of Iran-Oman Hormuz talks temper supply fears",
-      "link": "https://www.livemint.com/market/crude-oil-prices-drop-as-reports-of-iran-oman-hormuz-talks-temper-supply-fears-11785419330130.html",
-      "pubDate": "Thu, 30 Jul 2026 20:11:54 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Stock markets end higher led by blue-chip buying, foreign fund inflows - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTllHZ29vZjdaYjdRRUlqYnptV0xrcURiSVhTTkJJZjkyOTVWUDd1aHlkY3RoNHRGTDMzWlBwclZia3MtNzI4dzRWU1VjUG16YUIyNzdSQ0xOQUwwTmJwWS1NWTdZMXh6b3RFV04tbV83dGlObDg1bE5NdjlILWhRWmp2bXFWZC1xdkYxdXptcWdpUFVFWG0wTzVWdmpySFEwNnphWmZucjdtU24tdXZBNVZTc1U5Vzg3TWV2cTQxR29hajBfS2Y1NE9QVl93RXdZVHBvMnhoUXUycXJiUC1Xc3RlOA?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 18:32:10 GMT"
+      "title": "Persistent Systems to hold non-deal roadshow with investors on Aug 4-5 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmpUTnNNeHlBOFVSbUpxOHl0c29ZWTJUbWJ4UFlwelZSMFdycWxWYkhvMGZRNWhMN2kybWFfX3JNMmR4d1ZxdTk0WC13QUxtUXRNS0stZnRpRWJmVWx2QXRvRHpXbTNZQjctVHNKQzRUT2RITHA2OHVqalVwNnVYandZd1dhMWxRQ1AtMWE0VVVJSlNZZUhpWlZnNTZRc1MyMWt3NFdacXM3cmFzZ2ZUektuc3I2REFhV1EzQlJhY1RxcU9vVGc?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 20:02:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "If CrAIze slows, India can play catch-up - economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFNEdzlDNE00dU53UjRUUUI0VWlhNTdTMUtVZC1fR1NDMHpLb1NKRkNSUGtsQ0tHRjVGZTNtX1U3VEhFWVBXUjkyNWJvYUpBY28zZkhPY2tNMnIzblRzMmxyMnF5aGc4NERvRi1nY0xJZGJGUzNiS3RQZVhMTC1DbGFfYjlLbUVCYkhaM0ppTWRvdk9xNVRXS1RCUF93TFBKQlAwUk5ydVhNYS01Zm1INFMxaHI?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 18:40:25 GMT"
+      "title": "\u2018Every Indian parent needs to read\u2019: Actor Madhavan on Finland's education system - No homework, no exams - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTkQwZ2JZb0pLVHRxbmRHWnBVWHlmc2RMcTg0UHZkRnVnNXJWcEpYSVJHRFJnMFMzbTZWWDFxZXF6em1KS01aRUt5WTFVX3d3a1R6UmZCLXFiM3Vsd1hXY09hdm1qRGJjUFR6WmxlbEpwM0loS2dBR2ZScENtZzBBQ3BDbmRRdkNYOVJRQVdkTUlpNFlxLXdvNkZVZHA2bkl4N3FCVWotX1MyREZKa1hTUDNJaE5ORUUtSGVOS1FHRHZKdG9fWDBpeXVNRnZoakY0aE5RQmtVWDdGUDJzaEo1Z1QwSTRnalZIRmVlR20zMjlGSlBMTFpSV2NidnUxTGd2X0RpWmpMc2xDUdIBjwJBVV95cUxQVHBiQ3I2SjFKWVVkYUtISEFfcnRvdEFoSFNCMlh3RGdZZG9KbGNXcDZHbUpPMXZIOUFmYWQ2N0FZZnYxZ3RLSS1PSFZFanhrWlVxQXp4MkhGaGlCMHlOZU9iWWVYemkxUG1XZURDd1NaMUZIMHpZUjlhSExyZDlEck9PSWduQzJJcmdYRkdhMFZjdUlIVVdHYkh2TVFIbGV4S001OFRORFlsUDNzS1hyVWdHUHBaaV9IZ1dVMzI3NWxBZ2lqUlhfQ2l2bnpXME5HZmJKQjgwV2FJbEE0MEhGX040ZXM2cGdvZ2tBZWQwWWRiQmVDRjFqc2pIaUNlOEFXWjc2SFdtVEdJNk5jRG9n?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 19:41:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Uno Minda raises Minda Onkyo India stake to 99% after buying 19% - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcDhwM1ZzTGxZUFc2eUNzVjRMNk1WTzVJd0I2bmRhVjh0T3o4eC0waG4xc2hneGdxd09qUnhJTzFlQlFNV1ZhbHZsQnpkUDd0Q3RIc2YyVmZrdGI5NkZPY1ctUU4tMm1KWXoxSkszT2sza0VmVUloUjc4V1NsUlB3Ql9KbU1xdmlVeC0wWUxyZ3hXdHlVMzZMMTc5VHpCUkl1cXVBU2hyUjN4OExyWmx3eW1qMjZIdXdMUXZR?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 18:43:57 GMT"
+      "title": "JSW Steel seeks shareholder nod for Piombino Steel merger on Aug 21 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQjlmZThPZ1lUZjI5V1ZmMFRzVVFlb200bWJzREZqeEQ0QV8zdlVYVGFBN2NhMTRjdWhid045bTZ4cWhFWGxGaXh1TU5Od2RaNzk5YmxEQzdUYnFGZGRlNEJ4aVJONWlIUGJ4SGhMLVBSTi1SU2lNenE2UEt4SlBfSnNmaEc2bktGU1UwR1RFV0pyQm5obnZZU09fQWhHLTVGb1pDYldZUDNaZ3JFdDdkTFplQUNMSTlzNnV0cDJ1dkdLdw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 20:08:26 GMT"
     },
     {
       "src": "Google India News",
-      "title": "THE POWER PLAY - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHV21kZ1dGM01PX1JTSTFnWmNhd0tSWmdhT0F5MzBBMFRGaEdoc2xldEMtQUlFbU5zeTFNcFdFd1E1VXpVZHJUVW1fU1NqcWNPMGNhcm5CendZSEZxaFVPZDV0bHNKM2pGWlE?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 18:53:35 GMT"
+      "title": "Mastercard stock rises after Q2 results beat estimates, lifts revenue outlook - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRXNjM3Bmb1dIUmh3WmNqRmJJby1VNTN1eEJMOW03TjhlX001a3QzMmRxeGlKaExWYV9HOW1mdDBJMm43MWQ2MEdyUHMwWjRVT3h0bk5LOXFWazdveGlSdkxmOEdQNjNxUUFLanVMWlQ1YVpacVE1TjhBYzBweFc1ZVY3Z21aM0lWNUdaRFFVWjZvRkM4bXVDZTR5c21fa0F2NjM0ZmZnVlloWnRwUmVWSHk1T3Jrdw?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 19:17:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Mahindra Last Mile Mobility raises \u20b9322 crore at \u20b910,822 crore valuation - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQVNvSnl2WVR0dFZrQVVXemJpbTlfUUxGNkJ5cHNSdjIzV2VHZWQwRXQ4SHlxVjlyX0JwMFFBbVlMZnZ0U1hkUXV5UzJSa1BRa1Y4MjRiSFJETWp2YkNmV2w0NnZ0S2YxX1QwVGFGamI4NnVzOVZ4cXBJRW5pRmp1WXhEamtEN2dtaFd5MFJtRjVnU1RsOGE5akNuRjFOVDZXX0Mwak1wbnVOeG1TNUM5dGdFQ0lXLTlhcmRLQXBNRUZQV0N4eEE?oc=5",
-      "pubDate": "Thu, 30 Jul 2026 18:49:59 GMT"
+      "title": "Mahindra & Mahindra Q1 Results: Earnings call concludes - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNnZqa1I0bDR3dDIyVWppM0FFT1RUUkhudk9pTnF4Q2kzX181TXhraFk1OGx2OGlBT0Jpd1BVVHJWU0RnazZmdTFGcUNIYVJqUDNJZzJvNTlYcEsxVmI0cHVLODRaUlpXbXRqWnFlME14VjlwaFM4RldfUjBnUWM4a00xT3E0OTA1Vy05YWc1bG9walJjdC1QRzMzVUhRWE16bERZYlp5dEpBeFdRblE?oc=5",
+      "pubDate": "Thu, 30 Jul 2026 19:44:17 GMT"
     }
   ],
-  "fetchedAt": 1785438213
+  "fetchedAt": 1785442485
 }
