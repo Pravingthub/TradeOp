@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market ends higher as Amazon soothes AI jitters",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-higher-as-amazon-soothes-ai-jitters/articleshow/132776618.cms",
+      "pubDate": "Sat, 01 Aug 2026 01:32:33 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Zee shareholders approve Rs 3,143 crore promoter fund infusion, ESOP plan",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/zee-shareholders-approve-rs-3143-crore-promoter-fund-infusion-esop-plan/articleshow/132772857.cms",
       "pubDate": "Fri, 31 Jul 2026 22:18:58 +0530"
@@ -25,40 +31,34 @@
       "pubDate": "Fri, 31 Jul 2026 21:40:50 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "IOC slips into loss in Q1 on holding fuel prices despite rise in cost",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ioc-slips-into-loss-in-q1-on-holding-fuel-prices-despite-rise-in-cost/articleshow/132771859.cms",
-      "pubDate": "Fri, 31 Jul 2026 21:25:46 +0530"
+      "src": "LiveMint Markets",
+      "title": "Hedge Funds Add Bullish Bets on Oil at Fastest Pace Since March",
+      "link": "https://www.livemint.com/market/hedge-funds-add-bullish-bets-on-oil-at-fastest-pace-since-march-11785532739554.html",
+      "pubDate": "Sat, 01 Aug 2026 02:48:59 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "US wheat falls on technical trading",
+      "link": "https://www.livemint.com/market/us-wheat-falls-on-technical-trading-11785531221499.html",
+      "pubDate": "Sat, 01 Aug 2026 02:23:40 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "TSX ends lower as gold falls, posts fourth straight monthly gain",
+      "link": "https://www.livemint.com/market/tsx-ends-lower-as-gold-falls-posts-fourth-straight-monthly-gain-11785529770170.html",
+      "pubDate": "Sat, 01 Aug 2026 01:59:29 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Oil Posts Biggest Monthly Jump Since March as Iran War Simmers",
+      "link": "https://www.livemint.com/market/oil-posts-biggest-monthly-jump-since-march-as-iran-war-simmers-11785529272579.html",
+      "pubDate": "Sat, 01 Aug 2026 01:51:12 +0530"
     },
     {
       "src": "LiveMint Markets",
       "title": "Gold, silver prices today: Comex gold drops $84, silver slips $2 as US dollar rebounds",
       "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-drops-84-silver-slips-2-as-us-dollar-rebounds-11785513541055.html",
       "pubDate": "Fri, 31 Jul 2026 22:20:41 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Apple set to lose $500 billion in value: Can Nvidia reclaim the world\u2019s most valuable company crown?",
-      "link": "https://www.livemint.com/market/stock-market-news/apple-set-to-lose-500-billion-in-value-can-nvidia-reclaim-the-world-s-most-valuable-company-crown-11785512936813.html",
-      "pubDate": "Fri, 31 Jul 2026 21:50:10 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Bharat Electronics shares to be in focus on Monday as company secures  \u20b9847 crore order",
-      "link": "https://www.livemint.com/market/bharat-electronics-shares-to-be-in-focus-on-monday-as-company-secures-rs-847-crore-order-11785509810588.html",
-      "pubDate": "Fri, 31 Jul 2026 20:35:57 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Bloomberg again defers decision on including Indian government bonds in Global Aggregate Index",
-      "link": "https://www.livemint.com/market/bonds/bloomberg-again-defers-decision-on-including-indian-government-bonds-in-global-aggregate-index-11785502421270.html",
-      "pubDate": "Fri, 31 Jul 2026 19:56:56 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Jio Financial Services declares record date to finalise eligible shareholders for FY26 final dividend",
-      "link": "https://www.livemint.com/market/stock-market-news/jio-financial-services-declares-record-date-to-finalise-eligible-shareholders-for-fy26-final-dividend-11785505871823.html",
-      "pubDate": "Fri, 31 Jul 2026 19:54:38 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "'Isn't $9B Somali fraud serious to you?': GOP grill Minnesota Gov Walz, AG Ellison in fiery hearing - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQX3pTUFp0TDdQUW1OUVpieW5XNlZ6cnBaVVdMLVdCT2ZIX0RDRlVpNnZQOUliYlNBNEtJNVRwMzJiZU1ST0RGbW53d0s2T0VtTVVqU1ZOX29mS1Rjcms0VXhqaXlLVVI1Y0tuMy1fUFNlYmtmUGpucjVfeFp2MUlheVBuRlEzVExuT2o1Q21kNHlncERSaTFEQnMtdHhQVDhmLTdhamxjUXg2VExOcGlWTUZhWmxWVHBaSE11NUdOLS1aOHlCeFNndm00eWN6Y2JaU0JqNFNiQU5jdXo1TTQwNzVwSUxGSThkcjhoMThUSS0walB2UnNVbHhYWDZFVUpzZnY3SdIBigJBVV95cUxQTTZFQmxONldTa2Y5X3BiaEJ0THJ5VVE4VlFyRkN2SFZMUkl4XzJzb2dZbW0yWlRFYV9pSk4xRTR4WEs2Z1luNjR4VG0zSkR6Y2J4ODlHbXBkZlpxU1lZUVBFajd2V012R3Jzbk9USktGbDZqcTdJRkJFX0RFVU5RNWZqTmF6MU5nQjlpZXF4S2t1bnh3Qzc4QmxMc1VNRGt5NmZScHNfWC1Nby12aVdNZUpUUFJMOGRocWhDVHlhOFZZZkRhLS01SVQyTXNDZm5lUFZiM05IblBEUFlMXzBrV1doVUpsZlBlODdMYUNNMVJicEFsU2RXZ3hTNWE3N1V4dWdKaV9DTFFDZw?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 19:59:21 GMT"
+      "title": "Equity Outlook for August 2026 - Cafemutual",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96SzluOXE2b0xMZzZhdGVobjl1R1F5ZFN6azF0clQ3cEQ0dGszdGMxSnNURVZydmM5LU1TSEhkbEEySEFHcWNic1l3TkU0WlpNQjdLWmFOTmFzYkNBQm9waHNFZjQ4djJlclljNUhCS2lTOWhmeTM0aGlpOVpvdw?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 21:34:46 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\u2018Illegitimate intl organization\u2019: Rubio determined to dismantle ICC over possible future indictment - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTHctQ29QcUpzU0JPYU1pZzhmbXpEbWJiOW9qZXJxVV9waG53a29BSWl6VGE2d2FVVTdJdGpyQ1JmTDZYXzFfNFhfS3RMMzdMaVJVa29vdV9iNDluRTl3enZDTF9yaFlPUkZoUFJCNktRZ0JPRFB3WmFPcEZwYmFzOEhGQnZmUENuVnVxN1pObHJxUWRxQzBvaXg2MWdKR2dpWEpPVjZLU1VILWxiTkg2bzk2ei0xblNVUTAxOVhNUmRzTngwSVUyZE9HRlFxX25vb0x3Y21HTmlZVktHbS1mYTBlVHpHVnFLSklTckhxMEMwU2FnZ2FUYTJkQTJaSEphWWpTZjlXcXBJUdIBjwJBVV95cUxQZjhHR1prRUQweDdVTGJmZ1FoNEZlQ3pDMWpOdmhqRS1idmVwdXZHTTdWV3VyWTAtWG01dGtXWTZmRjlOWHY2UjVGeG1WUGRDcC1HdDN1MDk2SFE0QTQ3SzBQeHphUEs1Wm9QUFBLS3BiZmU4MFlKQ3FTRXNSTTRZbERpYmdEY2FSbkx2NDdEejZjOWdReWF3RmhCcDEwa2xDNXAxX3BFYXhWVGx3c3RuZUljdGJQYmJHbHJIQXVRemhObzJRLWZlSTdVbnh5bzI1VnIyNTU2cW44U01uY2liSTJROFNXaEg3aXBRU29HaGZadTBMd0RmT1EtUjFRT09rd0RaMTdpcU05RnllZ1pJ?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 19:54:35 GMT"
+      "title": "Market Data - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nOF8xZWRnSzlMMmF4ZjNKYUNPSGM2SjdqaTFRNlFPclBHLVo4QkNmZXI1T2oyYjBoVGdRR2NmQVFNNjVhZS1KQ0FvYzhYbUVmZjBKYzlCVFZFUnlxejhqNkRVc20tVjNj?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 20:50:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3 Indian Cash Flow Stocks Trading Below Fair Value - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORzZkQzhPOE1TMDFLZVVyYVU5S093TzJBQmdXXy1JN2xwd2dWYTBmblZ6clFqRmM0V3ZGZ1pMNGlNd2plRzlKNWZlbGhRa3ZRUDE2U2JiaW9WZEljZ1lOUlZxZ0tHSEFpNUJvTWY1X21hZ0VibUpUaGxkMXVseTZQWFUwNDV3M05LNEt5TGE3UVpiYktKWWpNWWhnUjQyY2NNeVV0ZmlwMTJoNkQyODZka29LcmNWazNpUUxvNy1lLTIyNHRqN0tvUlgwSDh2Z9IB0wFBVV95cUxOaE0tZnZuS242WVZ0ckd6QWVwUzlYWjZkOGJ0a21FZHBhYkxPbWt4ZHIwaUwzc0pfX1JfZEExTXlEZzRRT3l0RE90Vk13Q0NFb1ZZN2dfeEJkdmFyWlhjXzNfWm1oVWZFeEtxamxyS0NLU09GcDdLS1Zla0puajV3STdQY19QbEVPTUlndEsyQUdQVXdmZVJPdzJVUFpHUUJBRnYtYkJHck5vYnhrb2RuTU9CSnFneHdFLThZVnl1VENsbFFEWW5fSEdkT05fRXdld3JB?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 19:21:59 GMT"
+      "title": "\u2018He just had a big victory\u2019: Trump congratulates Jay Clayton on DNI confirmation at cabinet meeting - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNUV9tOVFYaHZCeUhuX2t6RThuVG9WazB5cXBqZUxJdmcyMGs0X3hvYVBkTE5kVm9ocS1UaWhhN3drU3Q1bVlob016MEFVbVFPZnY1bWxCQU1HXzRlVFdkWFNzbUdzazNicVpFdTZ0MnhnQVRVQmlXcVozQ2ZCYmJ5ZS1XUzZXNzVWeWVKQ0J2N0piaHJ2LWRXc2c2bHJZaG4xZ0Z5RmhyeElQVUhCTHVtRE1BdnljOF9wQXUxZS05WDVvbGVtZ0N3d0VUYkN0eWZYSjNUeDFCbjNZdDFpMHhTS1YtSXVwb2RhLXBUY3BRVDJrM3NYWkk4QWdGaUVBMkN3bGhFSm1yMmhVd9IBjwJBVV95cUxNUkRESXhuWTQ5TjlyRTVjSjVMdFVKNkYtZUhtVTVDd2sxU1ltVUdrODFlVUdzcTE5NkdrV0JyUjRSNVBuS3EtMWh3UXc3SXBzSDFOd01SSjkwcVprUk9OblpjWkF0MW5FUWpMdXo2OF9XRWZuSlRiNXVXeDJMVkZaaktEN3hORGV0QU5scVczNHFfUVpjOU56Nm4xTTR1bHBpT3BQRzh4NG1GV1JNamgtMENpbXJmYXNaUmJPSk9kRTlFV2ZPaWRDRmhNbmt2VFVqR0s4UXlmZGM0LXdjeUxtYmFWQWpxbl9TZGhhOTY5ak9qWkVMeDhGVUxXcW9IU2t4Q3JiTGVIalFsRzdhd2JR?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 20:52:10 GMT"
     },
     {
       "src": "Google India News",
-      "title": "PoK's 'Azadi' protests turn Pakistan's Kashmir narrative on its head - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUmpnSERlX2xvMWR0eUFONDhKM1RNRk00ZjZ2WWlVUGJBdVplemM2dW1uTnloYU9aY09PdnRzandRU19iZmtmalNhcFB1bnpfNVNFY0QtYkx5SFdmRkVxZ3o2dVFubDFHUTBwb0hlTTRSMzMzSXBzaGhaUTFqbzBzNDA3VW44VmppcmREeGVVSjlubXlWckZvNWVRMEM3NWVpY0p2RjhWYnR4dzlxZ0ZWbEljSnQ4V0VmaWV3ZlZwZlhLSDMzdE92RTVfMmlwalFjQ3dDX0hUQdIB3AFBVV95cUxPcTdpeXZfamhINERMSEJ0dVltZHpscWx0Ui1yXzNGVlBycC1Ldzl4dGdhTUFBbE5Ic1IyeTF4OWJ0NTdvWjh3MGxIekdZUzJUZy11ZFJ4MGFaS2dFQ2tSWTY3RUlCTElJTHpIdmwzeVNMckRKSnVTdmdWTUtFRjdiMGsyMk00YkRybTduSEFLcW9EeWpxS0pBR0hwRVRqZG1CSTBsbThBS3hzS3BIcGZaZzNLaUREMC1CLTZqS0t4cXEzNkhLbF81cUVBZ19IcW5zUzg4SWNLNnIxLVR2?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 19:40:00 GMT"
+      "title": "India is starting to pay for apps, not just download them - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcWlqeFFTeHJKNXZuOW9xd3ZiX3ZiT1RFWHBqWHpVczhWZDJBNGtXYVBlaGVxYy1aVWVKeGtqMkZNZXNVZ3JkVUQyRGtWWTBPbjNwVk52SmlkWHNKRzZjMkZkN0haSDVZVTUyYjZVdFhtTmxXLXFydkc1d3Flazd2ZjhLY003VmN2aHhlOWNLMVpVMnI3T1E?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 21:07:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Easing crude powers indices to best weekly gain in four months - financialexpress.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOVF1bXBhYXpaUTRSUmFMZXJFTFZuZUwwU0FCZ25LTXQxQVdNa2JHTnU0NVYydGE4MUpDczRaRHFILTFWekY0U0h1UlJ6M3lTdV9NUEU1WnJGSTRLcVc4SmxOUkdkVUtvRHJhWVZueHluOWNibEl1dThkb1lIdnE5elRTa1BNNm1URk15M24zTTNQWFg2dmV4UjFxV2dPZDBRM0UtM2VqbzJ2eFVRZl9EMnk2QjJ1UdIBvAFBVV95cUxOSjhBcGdQenFFS2RENC1NaWxOVFoyRXBBb0hvM2pGbmdpRHRkWHVuYWxreGJkWG82UUw5MUg5MHAzRlE1cEs4QklXLTJNX21aUmsxbnE2MFA3SWJxc1ktOXRtTmFJNGlfTnJyN29CUXFhWEdfbVFPaDR1djN1SU53TkhlX21Wd3pxVmFRY0xYRjUzSzBNS0NvTkM5NE9heDBHbkg1R1ZSRjROU1Y3amdabGo0cjdCZjFLS2xLQQ?oc=5",
-      "pubDate": "Fri, 31 Jul 2026 19:29:51 GMT"
+      "title": "Manipal Hospitals IPO: Should you subscribe or wait? - Value Research",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb2NpVzRuajJZdTlWVDNQTl9wWjdEaFk0TDZQcXdPUWY5c0hycnN6eGlPaU9CQXpHc1M4WllZTjc1MGhTcTF6bk9rNkZmeFo3emZMSnplUU5IQ3JzcEhZUlJ6VlZGRks1anlJS0RjeEVRMXZCNWRPNEVtbFhIMXBEeWswbzBwUUJpNEZzbFZhc1dGbk9BTTRVOExDQnhmSUU?oc=5",
+      "pubDate": "Fri, 31 Jul 2026 20:57:34 GMT"
     }
   ],
-  "fetchedAt": 1785529274
+  "fetchedAt": 1785533971
 }
