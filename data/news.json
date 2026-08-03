@@ -2,7 +2,19 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "LIC OFS opens tomorrow as govt looks to sell up to 6.5% stake. Check details",
+      "title": "Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kansai-nerolac-q1-profit-rises-5-approves-rs-601-crore-capacity-expansion/articleshow/132836083.cms",
+      "pubDate": "Mon, 03 Aug 2026 21:23:30 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132835943.cms",
+      "pubDate": "Mon, 03 Aug 2026 21:17:49 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "LIC OFS opens on August 4 as govt looks to sell up to 6.5% stake. Check details",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/lic-ofs-opens-tomorrow-as-govt-looks-to-sell-up-to-6-5-stake-check-details/articleshow/132835659.cms",
       "pubDate": "Mon, 03 Aug 2026 20:56:23 +0530"
     },
@@ -19,16 +31,22 @@
       "pubDate": "Mon, 03 Aug 2026 20:16:19 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Sebi extends PaRRVA enrollment deadline to Sep 3 for investment advisers, research analysts",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-extends-parrva-enrollment-deadline-to-sep-3-for-investment-advisers-research-analysts/articleshow/132834953.cms",
-      "pubDate": "Mon, 03 Aug 2026 20:12:37 +0530"
+      "src": "LiveMint Markets",
+      "title": "Elevation plans twin stake sales in Paytm, Meesho after June-quarter earnings",
+      "link": "https://www.livemint.com/market/stock-market-news/elevation-plans-twin-stake-sales-in-paytm-meesho-after-june-quarter-earnings-11785764788211.html",
+      "pubDate": "Mon, 03 Aug 2026 22:42:26 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "3 early investors to sell Paytm shares worth up to Rs 2,002 crore at 5% discount",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/3-early-investors-to-sell-paytm-shares-worth-up-to-rs-2002-crore-at-5-discount/articleshow/132834342.cms",
-      "pubDate": "Mon, 03 Aug 2026 19:42:51 +0530"
+      "src": "LiveMint Markets",
+      "title": "SBI Funds Q1 Results: PAT rises 3% YoY to  \u20b9873 crore in first earnings after listing",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-funds-q1-results-pat-rises-3-yoy-to-rs-873-crore-in-first-earnings-after-listing-11785772340299.html",
+      "pubDate": "Mon, 03 Aug 2026 22:00:14 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Palantir shares edge higher ahead of Q2 earnings as investors eye strong revenue growth",
+      "link": "https://www.livemint.com/market/stock-market-news/palantir-shares-edge-higher-ahead-of-q2-earnings-as-investors-eye-strong-revenue-growth-11785770366337.html",
+      "pubDate": "Mon, 03 Aug 2026 21:54:08 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -43,83 +61,65 @@
       "pubDate": "Mon, 03 Aug 2026 20:05:01 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "HSBC, SBI and ICICI Bank get half of India's FCNR flows under incentive window",
-      "link": "https://www.livemint.com/market/hsbc-sbi-and-icici-bank-get-half-of-indias-fcnr-flows-under-incentive-window-11785762263771.html",
-      "pubDate": "Mon, 03 Aug 2026 19:49:27 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Wall Street climbs as crude oil prices plunge, Amazon jumps 3.8%",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-crude-oil-prices-plunge-amazon-jumps-38-11785765123026.html",
-      "pubDate": "Mon, 03 Aug 2026 19:41:24 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Marriott Q2 earnings rise on higher hotel prices, annual room revenue outlook raised",
-      "link": "https://www.livemint.com/market/stock-market-news/marriott-q2-earnings-rise-on-higher-hotel-prices-annual-room-revenue-outlook-raised-11785761446757.html",
-      "pubDate": "Mon, 03 Aug 2026 18:54:43 +0530"
+      "src": "CNBC TV18",
+      "title": "Meesho block deal: Peak XV, Elevation Capital to sell via \u20b91,900 crore block deal - key things to know",
+      "link": "https://www.cnbctv18.com/business/companies/peak-xv-elevation-capital-to-sell-2-3-stake-in-meesho-via-rs-1900-crore-block-deal-19960850.htm",
+      "pubDate": "Mon, 3 Aug 2026 21:46:49 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Arvind kicks off \u20b9500 crore QIP with 4.5% discount to market price",
-      "link": "https://www.cnbctv18.com/market/arvind-kicks-off-rs-500-crore-qip-with-4-5-pc-discount-to-market-price-19960827.htm",
-      "pubDate": "Mon, 3 Aug 2026 21:09:43 +0530"
+      "title": "Why did the Nifty surge in the final minutes of trading today while the Sensex didn't?",
+      "link": "https://www.cnbctv18.com/market/why-did-the-nifty-surge-in-the-final-minutes-of-trading-today-while-the-sensex-didnt-19960874.htm",
+      "pubDate": "Mon, 3 Aug 2026 21:40:50 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "LIC OFS opens on August 4: Here's all you need to know",
-      "link": "https://www.cnbctv18.com/market/stocks/lic-share-price-ofs-opens-on-august-4-heres-all-you-need-to-know-19960832.htm",
-      "pubDate": "Mon, 3 Aug 2026 21:00:57 +0530"
+      "title": "IREDA Q1 profit jumps 37% as renewable energy loan book grows",
+      "link": "https://www.cnbctv18.com/market/earnings/ireda-q1-profit-jumps-37-as-renewable-energy-loan-book-grows-19960848.htm",
+      "pubDate": "Mon, 3 Aug 2026 21:28:55 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Jio Financial Services headcount more than triples in 3 years; crosses 2,000 employees",
-      "link": "https://www.cnbctv18.com/business/companies/jio-financial-services-headcount-more-than-triples-in-3-years-crosses-2000-employees-19960824.htm",
-      "pubDate": "Mon, 3 Aug 2026 20:38:23 +0530"
+      "title": "UPL Q1 earnings call: More price hikes likely as industry adjusts to higher costs",
+      "link": "https://www.cnbctv18.com/market/upl-q1-earnings-call-more-price-hikes-likely-as-industry-adjusts-to-higher-costs-19960853.htm",
+      "pubDate": "Mon, 3 Aug 2026 21:28:04 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "SBI Funds Management Q1 profit up 3% as assets under management cross \u20b912.6 trillion",
-      "link": "https://www.cnbctv18.com/market/stocks/sbi-funds-management-share-price-q1-profit-up-3-as-assets-under-management-cross-rs-12-6-trillion-19960791.htm",
-      "pubDate": "Mon, 3 Aug 2026 19:49:46 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "SEBI appoints Prasanta Mahapatra as Executive Director for CFID, Recovery and Refund Department",
-      "link": "https://www.cnbctv18.com/market/sebi-appoints-prasanta-mahapatra-as-executive-director-for-cfid-recovery-and-refund-department-19960773.htm",
-      "pubDate": "Mon, 3 Aug 2026 19:47:59 +0530"
+      "title": "Market Pulse: Key triggers to watch before the Aug 4 trading session",
+      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-aug-4-trading-session-19960844.htm",
+      "pubDate": "Mon, 3 Aug 2026 21:18:36 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Amazon achieves new milestone! Market cap crosses $3 trillion as AI, cloud growth power stock rally - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOVltR3IzdjNVUlJuX2JpQnBsand0T2lqUDBMcTFpZEJ3aG1GeWh4enk1Zk1CZjFyc0VJbGYzZkJXSTdjaVZ1RlpEYzNFSW5lM0p0a2F0d3pJOC1lOGZkN1JnbnJ4eDdTM19GNjMyZ09uWkhLUE9JVnpjbk5rekVHdEFHSlhtblFkb0xYNEpxVG1qTFZhMWFsTndCVFV6WHNVNDhLbTEtcGQ4MEVtRmZ2TVJXRTB2OFhIMExobXhQbWpNV3BORWJ5QUkwZ0V4V1lJM0NfaEVQRkd4enI2eWsyTEtkalVzTGQxQXhqQi1PY0E1V0hTQmJlZGdvWmFUYTFkYjRSUnVRbnhkaTc3SmdzNE8xRTlrcVBLUWfSAZ8CQVVfeXFMTnNLQXRoUF9wemlqb2NKS2pHQUk5Z1NES1BiN3ZqQ2Ezc1ctNGthb2w1RV90VDZidlFFdFhXTXU3SlBHQW5kd3BPTGNOSXdmUXdXenp6OHNacWpQcXpoMThPVy1hd0dxaDZHQjFhT0JKc1I5Vm91M01UeDRfcEV1Uld4N3dQVzJBcmdBNkJJREFzYVcwaklQbHNidUs2Q0lidU9XRnN4cWdYaEgtYU5CeTdsQ0tTeVJwajhJZ3BnRDJaLU1scFpZaFl6dEJHbDI3SGtuakR0azRnbzd4QW5XQlhPbnJubnBpUDRpLUg2U0h2VmZUTVNtdEpoZ0Jma3lBSUl6NWY2UWV6LW9CZXRLY0JZQ1YzRTJKX1ZvMFE4OEU?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 15:38:00 GMT"
+      "title": "India to sell up to 6.5% LIC stake in over 300 billion rupee share sale - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2tkS0tMaXpxOXJVWmdHZTRvNS0xVFIxNTFSUW5WWks2UHZERldsc05OVmloYU9mZi1nV0IyWDdQazBGd1BSV2lxRFVwa0EzNkR5NHRCYkZYSEhacVZlRG5FdzMtVkZuZmpnQ3BUYWtJTGhXOFgzQWFqdndsLXk5UWVhRWFuUW9vQW1TZU1vOHpzQm9kX0I3S2l3?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 16:41:08 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Market Wrap: Nifty Surges 1.6% as Auto Stocks Drive Strong Rally - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY21DSGRNVEQzeTgyYzI5MUhDb0dwRU8tZHJTdDE3RVZvYkxpaVlMNERPS05BNHB6TU1QNkRnbndkRi03LWMxdkR6bUdHeFJuV1pQUm8xeTEwRW5fQ2NjRGozN1JBQ3JuRk9nWnQ3YzA3Rk95NmtiTXE5cEdJaThLV0pSYnVGWlAwQmZmSnlCeG1xeGdmOFNGV1VZSjFOcmxRLVVYZkJjdERHMU02c2h5SVNHVFN5ZTdQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 15:03:33 GMT"
+      "title": "Domestic investors overtake FIIs in Indian equities as DII ownership hits record high - Asia Insurance Post",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlM0JPQ0dHaDRSZHZvMTY3MG4yZVlfWGY3T0oxSzIwV1M0TEZvWFJmM3VTVVVXdnpyUllvd01PbTBsdHJrN1dOMWw3c0NmM2hOazNuWWR5aw?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 17:14:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Prasanta Mahapatra assumes charge as Sebi's Executive Director - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdjI2MktFYUpNeU1udVVhaDVaTEh1cHFVRDVDSHJaNmtVSzRKMWprSlU2QXlkMG5JUGU2c0tBbzU2MVBPTE9BTFlHalIzaXRnM19LMVJrelVSdC1aMHUzWWh6Y2ZJMm0xS2p1WS1WS3piMHVlRXNSZVkzTERBVW84Zll4OXpkaGlncm1TSVVIM1dOZVlpdUZXNmJaUXFTWC04Z0Y5dVhRZEdtVVZIZlEwWVcxb2dEWkU4cmd3VjQtUWdHZElNOE9wetIBzgFBVV95cUxQaHJXTkdHWGlUc3QzZnVnd2VKRE5OdkNjUDJZdzJNRkNsVUtpSFc3aTZRUWYtM1pwWWNocm0wQl9nTURUN0tBdzdLaWpaSmZXSUM3MlFmV2g2UkVXSlBSeEtPS09JZnlIYW1WeXJTYWdVczBnWE1xZzhJMm9udTRGRDJJSE52cGNwNGVPRC1XUi1Ba2JCd1FpSXl1UXdYb2VaYW5lNWlBTjA2MnIxdFhKa2Vod05CV2N5dkVzVDI2NW02dDd5RWdaNUExcG56UQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 15:31:43 GMT"
+      "title": "Derivatives Trading Sinks At NSE On RBI Curbs - ndtvprofit.com",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1JybXh2QmU1MWNNZUpnM0hORURrY0oyZzZsT19LMHJldE1Ld3k2RVFYOVkyUnljblJHTWNUdmRPVWhEWEFQUEpzbmFHYU5KNGJsVFFiT0xfNVNYVk85WjZnd1FUSE82NnJyMDN5dGxBM1ozU0xOU2JKcUYtYzN0RFk0aldtdXNtc3czN19jVGdvTTjSAZsBQVVfeXFMUF9tMHBXVFpOWlBEbEVvaVJKNUcxS2QyT0hoNjZTYVVmY3BCeVlYdnVPaktjdGJBNmdUMFFUeF9selVPYW1vbHlxeGNlcmNmNDFUbmZsRnhpY0xqdFd1aFZIR053NUZkRG4tLUtiRWw1QW5SUkhsMTlMalVwZVZTZDdROW0ybzhYU2hCNWFwTjhRMlFicnlSVnZCWDQ?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 16:39:31 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Govt to sell 2.5% stake in LIC via OFS at \u20b9382/share; retail investors to bid on Wednesday - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObjh2NkVBNFNneWU1cG04VXk5X1dTT1AwQTQ0MDAyS2lhVDlTMS1pUjI3WDdjQnNJbkRvallvNVFQUjFXam9DWmRnVkpJMFNfRHF1bEc1VmhMZk9Ga0VyNlBKcl9ITjZWSWVWeVJnNUlkblVMTVVhMHNDSHVWdEdGTXFSWXZpT2U5TlFBUXA4TjJpQWI5dndSNkRDTWpsb1lGN2xWTWg5Q29ESmh1MDcxNkRKX2RFcjU5ZGVraEpmTGNxaWRlR09BRdIB1gFBVV95cUxNQ1BFRUtXYWtGOUNBRlVqRGpWdWN0bzVlUVdkc252Z3FtUC1leFdEYkdTUXZBNXcxMjdWVVA3T0VZM0ZfbDRkN3F1c2tRczM0M2ZUaHdsbk1fM3BMcl9FTm1kX01pbGNZejZwQTQ1ZTJnWFJiS1U5dWpHR0s4TUhMT0p6NnIyeUZnemJNQTZZZTZrX2wzTHZmM0JkWkszV0J3VG96dkp5ZmE4dG50QjlBQjc3dXNCV0JaOGpoMkduUDQ3a1dHUVVMUlBzMnBNNDVmNkxJc3BR?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 15:23:50 GMT"
+      "title": "PTC India shareholders approve Umesh Kumar Nand as director - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdVRSVkI5NEwzelYwdmNQbnNLNTU0WWYtenRRX0M0OGRDUzJWSTJoNXF5S183d25BRjQyazdGbnc1bHZHZXh1aXd6cVFpd1NfU3VPRnNWMk4xNGdUb3lNVnM5VjRTREotTjlDU3J1ZzF5bkhOTVRfNFNhU19OMUtvb2dtMUVqYV9BLVc3XzNrMDVUVldRWnpFTVRCUDlUNi1Hd1I3UVF3RHJ6S1J6a1g0NmRoS3hIQ1U?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 17:21:21 GMT"
     },
     {
       "src": "Google India News",
-      "title": "IREDA Q1 Results: Net profit rises 37% YoY to \u20b9339 crore; asset quality stays stable - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM05neldmZEIyNlQtb2pWeGZ0VmtXNzN2Ykl4NVVuQWU3YTMxUlZibkp6c1NoMEJwaGZ6WkhWWFFLUHY4by1OTTNmTDJSMWRHVGNFT2dMT3ppWm02cUNWbFRacVJuM2w5LVNteUx1MHEtU1FzVEw1UVlwemVIS281M0ZQV1llYVNqeTdUYzNyUHRJRHZXV2k3c2x0SDNFbklNSlA3NWpGVk9ac19mY0tPTnVkUGJDZzJsMGxhZnl6VFFXQ1NyTFpjYjVOSlRFR1U4YWlmNUlYTDVTd2NCTTUzWGlFMkpWdWx30gHuAUFVX3lxTE44dXlKa252aDhoWVFINWNSTmRaTGVrM3BITk9ZMWhrRDBUWmp5ZUVGaUN2Uk51UVBEaFNZTWpScU4yTmFvODMwbHFLaTJlU1JOOHRXbGhRVUdlYUZCemdlWHcwWWVmT3RyNjRLWmVCSzJxYkNfVjlEalFYTWdTVl8wWExDSG5kMzlBNWY3cUJOWndWaENEbUVGcTAycGxUVkV4TzNiN190T21iUVhlTnNHcF9xcTYteW5XeVpTdEtuem1VZXNrUFJkR25GSzBJT2pFNDlvTnNvU1NhdUxoeWdjMUdxclMyclhCemZqQlE?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 15:12:04 GMT"
+      "title": "Govt to offload up to 6.5% stake in LIC through OFS opening Tuesday - business-standard.com",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVdqTUN5STRUMkxFZW1CbURWdUp0R1hVQ0pnTmtRWl9rbC1qajZQRVVoUmE3ZEZQQlBhR3U2RjVHTVNiVl82a3hHeHRud3dzLVhTNWVzeERFbFNuM1BnU3ZQNzFla25HTjZVcER3aWo2Uzh0OEF1U0lZYklJYVBpbjZEWnAxZ1h0R29CNlBkQmUwYTJRa2dHRVZqU2RDZHA4N21tX0dyZkhmUE1WS2o1SV9iemRfczdKanVzZlgxVl9NZUZ5Wi1OcVozRUbSAdIBQVVfeXFMTnBIMWVnYXhLQ2xTaDRWRFo1bnFOV3FrNkM4Z1c2TzlEY0V1ajZ4NVpNWGR2ekYxc25KSnZ0RlNUUUJvZEJPU2ppSjR3WFhTTm1RaUtpZG10ZXFwazFZMnk1c2JYZFpGMkZ2TUFMRktFNkE3LVF2d2pCZllDTVNoSFlxME5QVHBDbUV5SEczTEpKWUxXSDRIcVdjQmxfaGtCSUIzTnY4ZWN1UU44NGpSNmU4Q0VBMllMQzR5bERBYlBzaU55VWlvbEdmamxMU3poTlZB?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 16:33:36 GMT"
     }
   ],
-  "fetchedAt": 1785771858
+  "fetchedAt": 1785778250
 }
