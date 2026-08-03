@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "RBI likely to extend rate pause; neutral stance seen unchanged",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-likely-to-extend-rate-pause-neutral-stance-seen-unchanged/articleshow/132815869.cms",
+      "pubDate": "Mon, 03 Aug 2026 05:31:41 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Bill Miller's investing strategy: How the legendary fund manager outperformed the market for 15 straight years",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bill-millers-investing-strategy-how-the-legendary-fund-manager-outperformed-the-market-for-15-straight-years/articleshow/132803593.cms",
       "pubDate": "Sun, 02 Aug 2026 13:56:48 +0530"
@@ -25,10 +31,16 @@
       "pubDate": "Sun, 02 Aug 2026 13:11:15 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Real estate firm Assetz files IPO papers with Sebi via confidential route; plans Rs 1,200 cr issue",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/real-estate-firm-assetz-files-ipo-papers-with-sebi-via-confidential-route-plans-rs-1200-cr-issue/articleshow/132802599.cms",
-      "pubDate": "Sun, 02 Aug 2026 12:57:49 +0530"
+      "src": "LiveMint Markets",
+      "title": "Yen Bears Face Risks on Joint US-Japan Action, Strategists Say",
+      "link": "https://www.livemint.com/market/yen-bears-face-risks-on-joint-us-japan-action-strategists-say-11785714752066.html",
+      "pubDate": "Mon, 03 Aug 2026 05:22:31 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold Dips as Traders Eye Dollar Recovery Against Yen, Fed Path",
+      "link": "https://www.livemint.com/market/gold-dips-as-traders-eye-dollar-recovery-against-yen-fed-path-11785714689172.html",
+      "pubDate": "Mon, 03 Aug 2026 05:21:28 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,16 +61,22 @@
       "pubDate": "Sun, 02 Aug 2026 18:55:12 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall Street\u2019s Favorite Bet Comes Undone as Chips Whipsaw Market",
-      "link": "https://www.livemint.com/market/wall-street-s-favorite-bet-comes-undone-as-chips-whipsaw-market-11785676685906.html",
-      "pubDate": "Sun, 02 Aug 2026 18:48:05 +0530"
+      "src": "CNBC TV18",
+      "title": "NSE Closing Auction Session set to begin from Monday; Check timings, eligibility and other details",
+      "link": "https://www.cnbctv18.com/market/nse-closing-auction-session-cas-explained-timings-eligibility-orders-limit-market-price-19959970.htm",
+      "pubDate": "Mon, 3 Aug 2026 05:20:31 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Banks Offload Risk from Leveraged ETFs With Exotic \u2018Crash Puts\u2019",
-      "link": "https://www.livemint.com/market/banks-offload-risk-from-leveraged-etfs-with-exotic-crash-puts-11785669635507.html",
-      "pubDate": "Sun, 02 Aug 2026 16:50:34 +0530"
+      "src": "CNBC TV18",
+      "title": "Q1 Results This Week: Bharti Airtel, Trent, DLF, UPL among 215 stocks reporting numbers",
+      "link": "https://www.cnbctv18.com/photos/market/q1-results-this-week-bharti-airtel-trent-dlf-upl-ongc-hindalco-kaynes-pgel-share-price-report-19959967.htm",
+      "pubDate": "Mon, 3 Aug 2026 05:04:17 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Dow futures, peers rise after Trump calls of Iran attacks; Crude oil, US Dollar fall",
+      "link": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-us-iran-war-crude-dollar-bond-market-results-fed-inflation-19959965.htm",
+      "pubDate": "Mon, 3 Aug 2026 04:47:03 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -73,53 +91,35 @@
       "pubDate": "Sun, 2 Aug 2026 19:26:20 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Right about AI, wrong about leverage: The fall of Leopold Aschenbrenner's situational awareness",
-      "link": "https://www.cnbctv18.com/market/right-about-ai-wrong-about-leverage-the-fall-of-leopold-aschenbrenners-situational-awareness-19959866.htm",
-      "pubDate": "Sun, 2 Aug 2026 19:08:15 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Nifty Outlook for August 3: Index may react to positive FCNR flows, results amidst oil fall",
-      "link": "https://www.cnbctv18.com/market/nifty-outlook-monday-august-3-index-may-react-to-positive-fcnr-flows-results-amidst-oil-fall-19959901.htm",
-      "pubDate": "Sun, 2 Aug 2026 18:59:49 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Persistent Systems Q1 results: Profit drops 9% despite revenue growth; posts record deal wins",
-      "link": "https://www.cnbctv18.com/market/earnings/persistent-systems-q1-fy27-results-profit-falls-revenue-rises-record-tcv-19959792.htm",
-      "pubDate": "Sun, 2 Aug 2026 17:00:15 +0530"
+      "src": "Google India News",
+      "title": "Stock Radar: Amara Raja Energy on verge of a breakout from ascending triangle formation. Time to buy? - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPQU9vRFVxZ21zYWpLSmxGdDlBTWtfSHFzaHMtSGViZElmYl9MS2UwX1JwemJUaXRfTjQ0dG9JZzNhTWNWYWhRQko0eVNzb25tRzJLWlE2S2xYYko5ZlU3T0MxUF9SRkZlQXZHV1FXeFIwM0t6MHlDRXpHbUswM3h3YkV5YVppSXdYeTBqZFl4c3FkVXVCQVVwRDlOX3J0Z25QVnl3cUFFQ3FMNjFJY3BPX1NubllqWEp5Q012cGM2VFNTclFXbmpwMlM0Q1QyX3oxX2xITHBnNzRMNDlBaGhjakZIbjdPVDRKZVhMQnFoczJxQnZOQWZZQjdmUmJRYjFEeEHSAYcCQVVfeXFMT2NMY2tJQVVhVTJBc0RpTXdINDFIT0hPZHVaU2ZhcnhEYVhlY3draWRvOS0zVGdfRThPd1IyZUFIM1NSWG8teUw5SV9ZUDl4dFdPU052cDhfTkFvSlo3cGhyOHlSSmJZVGc5N1drZEdpZ1c1X2dMMW9OMFdtRVFPXzVwcUUxeld0TVlncnZCSHdCeHd2U3laVTFuQXRwNTR1U3Nrd2tWUHlIVEp3ZEpQenczTUpwSFRfTFVWSVhFVmIxdXM1M1h3eXZXRDNuNGNlQW5ET0NrYVIwanp2eVZvUGxab0EwelVYakJpNkFNN09DU09EZjNONDNuTWphWjJtWC03NjJ6SFk?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 23:30:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Is India Asia's ultimate 'anti-AI' trade?: Raychaudhuri - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb2NCZE9XeXdnYVJoal9ZM1EyRFk0U2ltd3FrUk5PLXhTLWlUTTA3c0FRTmEyeDRqVURuMDU4TXRDbnpjMjQ3VG5DTC1scXhKcGZKek9oZW5yejBhaGJ2OHVVTmZYWExRQ3dKNENNOVdjRWhSU2RfWkYwbDZSNlIxLXhwSUt5TGdjQXhkT016MmhnVUV4Nl9iTFZyY0xXT1lHYVk2dEpPS2ZyTHRZSldFbW5NelJfM3BNbTRv?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 21:15:22 GMT"
+      "title": "Oil PSUs' June quarter losses miss govt's \u20b975,000 crore estimate by wide margin - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOc2Npb0lFR2xYbEw5UWdnb2ltVVRIYXlTZlNldVlpUDFfV3Y2LTlKb2tXRVE4SzVxQVhHNWpfWndiZWxieUwtNXBycnM2bDlHaEowbmpNN2g1RW5YQVhwNHVvdVRQZHZPWjFBVFN4cDBjc2h6WWY0V0xoZ3RFN2IwaEd5aFF5aWx4R0QweHZGekhUUWRXUktwcGptZU1oSG1jbENvMmZUMTZoUVVYMWxmT1c3bjdNZVF3NDRsdTdhNGFOYXczQW5qMF9aWUVDNFZCeVZQU194aGxhdE1rT29YWlV3eUFtRWdQN0R0QS1hZW1mOVZlYklDUURiRmVLQ1cyLXZWcXhWazJLY1QyaUZZOGRVMUJ6UzVqRWVKelpCVHZ6RmNTb3lWQkdOeGhYRkFmWkduejVIVlM1WndZT1ljODNYOFg4alZoZEk4NVlOVFRCQQ?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 23:30:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Investors pivot to India as AI frenzy cools in Asia - \u041c\u0435\u0436\u0430. \u041d\u043e\u0432\u0438\u043d\u0438 \u0423\u043a\u0440\u0430\u0457\u043d\u0438.",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE90U25VVGVVVDdlMWhXQnMtaW83R21maDdYazU3RkwwSFNHU0JsX0pjV3c0Ynp1VUdzMUtWS1AwejRER0dPZDlEX1ZhU1lBTXBNaGhvRHpWSVJXcHZGRlB4Nmc0elJPZW8?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 21:35:27 GMT"
+      "title": "Indian Oil Ramps Up Spot Purchases, Russian Crude Imports in Q1 - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeFJwNUlaMThVR2x0cWZhMTR0cUJTYlNvSWNHY2tSZDhzQldjMkxURk9SNkRzSHZtakYwdTBsT2ZTUWt0ZTZYUXo0cnM2V2c0a09tVjdqb21JUlJoLWFZTHN4QzN0MklKVXJFeElEeWtBMTlwZVAzTEdpdWNKVXJNYkVYaWtlX3JjcHQxdjdjQ2pzTEplNXkwZHYxNl9hSXpLX1p1Qm81OS1OTkIxcExTc2tOUTJVQQ?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 23:42:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FPIs Pump Rs 20,200 Cr Into Indian Equities In July, Ending Four-month Selling Streak - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQckh1RE5NaG1uZ1FYa3hGaTlWZFBKbUJuZnJmR0VKbXVYUkkzUXczdGVYSTJpcU9IWEV2T2pJWUFVaVBqQnVFTlRSSGpwZ0lUYnplOXhubnFmOEZFemZCdjdMLTFjaEdXbFpnOEd2dXYxOVdKamlPcFo1TU9jRU15TDYtbnZ4clRIX2lzeG5fVnM0Wks1cGhTMzBydmFiYVJ2emo1ejdXR1NUck5FVzkzbjU4b1FKSE1EYjZOZW9ZYUdCYmJUZnVR?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 21:23:31 GMT"
+      "title": "Companies may soon get to retain legal identity in flipbacks - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQektoTGU4eG9meFdiNEtvZ2VYNTc4WDdQT1hUU2VpNGNDenVvUkFNOXhMd0RjbTZzRFlqMFkxMW9pRHNjc050X1AtMkszX1dTQ3BULTM1VDdBOHVWSXdkZ2FDSlBUVkdRSTd0VzV3SmNGT2s2RUprVjVZQ3pvdXZzbXRUUmRCbjRwelZRZm9veWhBUE5jdTA3MEp1c0ttcTV2cXpVaUY1Y0FpTnV6b0w0X1l5SGcyZWtkeFMzN0VkU1FBSnZhR2swenRBVkc4SEdmME9RNVVRZTRvcmM2OWlHd1lYXzB4RnJSZjR2YTBmM3RKUjlnNlVyOHQtRGhnTXlVQ3BqYS13T1NTd0ZnSnRGUWhFOWJOUHZsbmZWUTlFeFI1bmdCUHBnQ1M1OWlSV2hOUUEzY3o0NWVBQXVTMU9wcG81Q3h5Z9IB4gFBVV95cUxOMTUtdkwyeWhkb2Y0QTVoTklxTzdkTlVTNi1vbHpWSF9BRVprWEVTdmMtRXkyMnJfWGVYeGZvczdMeU9LRWtDbzlDeDV6LWpHeU83VVBlWExPT1Q3SkNSMktob3J0ZEotRF9aQVVreG5ZZC1BQzg4WkU0bXhDeVNPUHdfRW5MdW9PWTNCYV9sc2lDNHdiRk00dWtDUUs5cVRiRUNheGRpX08xNTViM1VhM21WalR1aHBvYUh2SWNJb1pKYVV4enE4YUc2bnBocm5qNExjUE1qVWZWNEE5a1VNLVJ3?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 23:30:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Surging domestic demand transforms India to net iron ore importer - hellenicshippingnews.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUXN3ZXNySUJncnpzblRXN2VIckQyTlVTRW9EVU5SdlhVVGlFWktkcEVXdWZzajlIVGlOVnI3YklLd0czUUlQTnFydlVaMEVZS2hGcHBPUkxVdFZWMnFNVEg0THJNTDFIVFFKbXVKSTdpZmNEUW1qUHQ0bUVSWGYtY2swWU8wRHgwZXR2Z0NZaWhLaTRwNlQ1SDNJLXFkcXpQVUtrNV9B?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 21:03:18 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Insider Activity: Who Bought Their Own Stock in July 2026 ? - smartkarma.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYmRCT2VsMllkR09BdDdhUFk0QWNRMnYwbG4ydWxBT0U0VWo2RG5FNXNQal8wb29XdFZ1X2V5bFB5OEtlY25pTTM0MURuNzdjbHNpaEsydG5SNDZkaG42R1RfN0lvZnJuMkFLeWtSUDBxVzY4Smxaa0VxM1BxU25sSVFabWNWWlV6U0ZuZ3VVU0xuT1kwU1dlc0kzS2RUMTNDWnJwT0R4ZUNBR25udnducXdBaGJnVWdtaC1PbEdHeGM?oc=5",
-      "pubDate": "Sun, 02 Aug 2026 21:42:49 GMT"
+      "title": "Carmakers partly absorb commodity shocks to keep production on track - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS2NwTXdqc19ZUHNtYkt2cFkyZlVyY1h0X1Eta2NWeTVPN3ozNjBZTmJleFBCUExiUXFBZmJXTWlpZDA4VERsUGhMUXdOTElKRkdVV2c5cnY4YnhhMFB2MGxCOVpfVF9obHNhaHNlaHpIWWlTQm9DYnpvX1lYNl9CcHR1Nl9mZEVrTGVNNXRqWVd0andHRHF1ZWgyT0xqNUdqS05aYnRPci1qUWMyTFV1NURLdzFqVzBjUjI0U3NmUkotR1dZSGxXbUlPdHUxTHhMa0p3cFNodEwteW1oTks40gHkAUFVX3lxTE1yN2ZheWpmMlViNkxvTHFySGNULUNWa2Z5U0ZQLVdEZEdiNnI0bmVOWlRUQkVoVjFpR1ZOMWZhYlg3SnI5VEF6NXgxbmpNNHpTUm85NlhCYlYtWHFPRm91S0l0NER3YllOa28tOVdubzAtZ1gxR2h3Y2lFTGVXMmxFd0YyY1NjRTFFbkRVWHlNdDdabVlTbjBVYW9NblVwQUFNMmd1YnY5UGIyYWR3YTVkVjZmUWR2V3VaSDNCb05sYWFxbGxoYWpvSVRzbWpwVDNSbmc5bU9EVzF4dFUyZzlFTUt2NQ?oc=5",
+      "pubDate": "Sun, 02 Aug 2026 23:22:57 GMT"
     }
   ],
-  "fetchedAt": 1785708166
+  "fetchedAt": 1785715526
 }
