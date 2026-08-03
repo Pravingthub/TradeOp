@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Yen holds gains after Japan, US confirm joint intervention, signal more action",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-holds-gains-after-japan-us-confirm-joint-intervention-signal-more-action/articleshow/132839035.cms",
+      "pubDate": "Mon, 03 Aug 2026 23:28:43 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Muthoot Microfin case: Sebi exempts six family trusts from open offer obligation",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-microfin-case-sebi-exempts-six-family-trusts-from-open-offer-obligation/articleshow/132838278.cms",
+      "pubDate": "Mon, 03 Aug 2026 23:06:04 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kansai-nerolac-q1-profit-rises-5-approves-rs-601-crore-capacity-expansion/articleshow/132836083.cms",
       "pubDate": "Mon, 03 Aug 2026 21:23:30 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Mon, 03 Aug 2026 20:56:23 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Amazon joins $3 trillion club as AI, cloud growth fuel stock rally",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/amazon-joins-3-trillion-club-as-ai-cloud-growth-fuel-stock-rally/articleshow/132835634.cms",
-      "pubDate": "Mon, 03 Aug 2026 20:52:59 +0530"
+      "src": "LiveMint Markets",
+      "title": "Citadel Securities Says Bull Market Drivers Are \u2018Firmly Intact\u2019",
+      "link": "https://www.livemint.com/market/citadel-securities-says-bull-market-drivers-are-firmly-intact-11785783427923.html",
+      "pubDate": "Tue, 04 Aug 2026 00:27:07 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "MakeMyTrip Q1 bookings rise 20%; AI assistant drives growth",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/makemytrip-q1-bookings-rise-20-ai-assistant-drives-growth/articleshow/132834965.cms",
-      "pubDate": "Mon, 03 Aug 2026 20:16:19 +0530"
+      "src": "LiveMint Markets",
+      "title": "New closing auction sparks rare Nifty-Sensex split amid low participation",
+      "link": "https://www.livemint.com/market/new-closing-auction-sparks-rare-nifty-sensex-split-amid-low-participation-11785769915392.html",
+      "pubDate": "Mon, 03 Aug 2026 23:03:24 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,16 +61,22 @@
       "pubDate": "Mon, 03 Aug 2026 21:54:08 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "IREDA Q1 Results: Net profit rises 37% YoY to  \u20b9339 crore; asset quality stays stable",
-      "link": "https://www.livemint.com/market/stock-market-news/ireda-q1-results-net-profit-rises-37-yoy-to-rs-339-crore-asset-quality-stays-stable-11785767562389.html",
-      "pubDate": "Mon, 03 Aug 2026 20:42:04 +0530"
+      "src": "CNBC TV18",
+      "title": "Jupiter Wagons partners with Italy\u2019s Lucchini RS to make railway wheels in India",
+      "link": "https://www.cnbctv18.com/business/companies/jupiter-wagons-partners-with-italys-lucchini-rs-to-make-railway-wheels-in-india-19960928.htm",
+      "pubDate": "Mon, 3 Aug 2026 23:42:52 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Why did Nifty 50 jump 200 points in the final minutes of trade? Here's what happened",
-      "link": "https://www.livemint.com/market/stock-market-news/why-did-the-nifty-50-jump-200-points-in-the-final-minutes-of-trade-heres-what-happened-11785765452716.html",
-      "pubDate": "Mon, 03 Aug 2026 20:05:01 +0530"
+      "src": "CNBC TV18",
+      "title": "NSE sees \u20b91,276 cr turnover in closing auction session; ICICI Bank, HDFC Bank among top traded stocks",
+      "link": "https://www.cnbctv18.com/market/nse-sees-rs-1276-cr-turnover-in-closing-auction-session-icici-bank-hdfc-bank-among-top-traded-stocks-19960920.htm",
+      "pubDate": "Mon, 3 Aug 2026 23:14:39 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Exide Industries Q1 earnings call: Price hikes, cost controls help margins improve",
+      "link": "https://www.cnbctv18.com/market/stocks/exide-industries-share-price-q1-earnings-call-price-hikes-cost-controls-help-margins-improve-19960907.htm",
+      "pubDate": "Mon, 3 Aug 2026 22:57:06 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -73,53 +91,35 @@
       "pubDate": "Mon, 3 Aug 2026 21:40:50 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "IREDA Q1 profit jumps 37% as renewable energy loan book grows",
-      "link": "https://www.cnbctv18.com/market/earnings/ireda-q1-profit-jumps-37-as-renewable-energy-loan-book-grows-19960848.htm",
-      "pubDate": "Mon, 3 Aug 2026 21:28:55 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "UPL Q1 earnings call: More price hikes likely as industry adjusts to higher costs",
-      "link": "https://www.cnbctv18.com/market/upl-q1-earnings-call-more-price-hikes-likely-as-industry-adjusts-to-higher-costs-19960853.htm",
-      "pubDate": "Mon, 3 Aug 2026 21:28:04 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the Aug 4 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-aug-4-trading-session-19960844.htm",
-      "pubDate": "Mon, 3 Aug 2026 21:18:36 +0530"
+      "src": "Google India News",
+      "title": "Rupee Extends Winning Streak as Oil Prices Slide and Dollar Weakens - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUxGZXluQklVWDdUbjRldFRvV3hiNWNMbTQxdzAxUVlSbFMtaGpvYWU0REZqeXB6NWdieVktMkY1WnU0TDJRTjNCMVVGWXhhUmtRVlhIOXExQTFMR1Zzb3BNX3RuQ2ZjT01pckJMckVENTZaM2dfZzBsUDliblBueDRDbUF4ZFN6U2p0YnRMZ0FwVGRuVk8wR0FLUQ?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 18:27:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India to sell up to 6.5% LIC stake in over 300 billion rupee share sale - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2tkS0tMaXpxOXJVWmdHZTRvNS0xVFIxNTFSUW5WWks2UHZERldsc05OVmloYU9mZi1nV0IyWDdQazBGd1BSV2lxRFVwa0EzNkR5NHRCYkZYSEhacVZlRG5FdzMtVkZuZmpnQ3BUYWtJTGhXOFgzQWFqdndsLXk5UWVhRWFuUW9vQW1TZU1vOHpzQm9kX0I3S2l3?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 16:41:08 GMT"
+      "title": "India, Uzbekistan should double bilateral trade in three years, says Piyush Goyal - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOVmpDMGhUNG9XZ2NJblF3akhLM3ZlalBGVzRHTHdLYmlTaHBETzdxbFRxOGxodlk5WmdyTjhpbU5SQkpDaGdwVFJ3SWRONjBnUllsbW5meV8ybWM2TEdfXzJJcWNVR1JSZ2FUUFY1eExGV2FxWWJHLUVMZFhhSnh2dmVaVVZrR182U2NuSXQ3VHdwM1RNZl9jUTZXdXFjblJWUkh1bEVPVUNnbFUxZHR2ZEs3R0ljR2JkWW1Od1Z4U1ppZkZPNF9mcW5tN1lqVTJQQThqdWpCQmhfVndnYmhWVUFlLVVMdjh4TEtIckhIbEdUTHducGRMVXBTSDFtTXlaNE0taVh4YmhjdURzOVRfYnJnZmxNeUVsUm1rYWtjeWQ3QW51bHhBNVk3MFM0RlRfZE03TkFPWGw4M1BoSnQ2Sld4LU94N0tVY3pyOW9XcHBSc05QbWtIVm1DUdIB9wFBVV95cUxNRUhKMm44LTc5UzZuRHlvUDNUNDdoMW1YM2VKOVhwTXlFdjVKbUM4czJPa3pFSExMSDRUVUZDM0lidFNzamZjUzNGUTlCRk5BT1RsbUNLeHRwM2tTWm9mSi15cjktOWViZUNmWk93cFprVHpab25ScFBVNlUxclRlUmdkdjlVLXd6WXE1d3BKbkZMQkx2SWI4b3F6eUZGc1N3SDAybU1pZEdUNW9sb3FIaHRXelJRVDNRWUQtRm90ZTZsWlpNbUxIbE55RFV1dm1LRFlVWHVhRVZTQllkbV9zelJFSVlaSWE1UWxDc2d4UmZJb3Y1cEhB?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 18:51:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Domestic investors overtake FIIs in Indian equities as DII ownership hits record high - Asia Insurance Post",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlM0JPQ0dHaDRSZHZvMTY3MG4yZVlfWGY3T0oxSzIwV1M0TEZvWFJmM3VTVVVXdnpyUllvd01PbTBsdHJrN1dOMWw3c0NmM2hOazNuWWR5aw?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 17:14:22 GMT"
+      "title": "Bharti Airtel shareholders approve Sunil Bharti Mittal's five-year term - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnNTeEVET3p2TW9BVWxRMjZTaDRBdWFBdzNVVG9zN1k1MnVDNnRRMGtJQ3EzRmRpMFJSdUdoRF9sMkpEdGxxMEJxMDdOREg3dXRmYTB6RnRXODZyVW1HUEU2UGVPSlJBSzNKWUh2d1NSNUp3QXJFeVd2ME84TXA1WlB5VEItRnREOGozSTJOcl9SRWxKaTZ4Z2RpaUtaemNwUGlSNUJFbFBKdElwdXZHc0o3RTJwYXI2MmRjeC1jbXBzM3dfVHVB?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:06:36 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Derivatives Trading Sinks At NSE On RBI Curbs - ndtvprofit.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS1JybXh2QmU1MWNNZUpnM0hORURrY0oyZzZsT19LMHJldE1Ld3k2RVFYOVkyUnljblJHTWNUdmRPVWhEWEFQUEpzbmFHYU5KNGJsVFFiT0xfNVNYVk85WjZnd1FUSE82NnJyMDN5dGxBM1ozU0xOU2JKcUYtYzN0RFk0aldtdXNtc3czN19jVGdvTTjSAZsBQVVfeXFMUF9tMHBXVFpOWlBEbEVvaVJKNUcxS2QyT0hoNjZTYVVmY3BCeVlYdnVPaktjdGJBNmdUMFFUeF9selVPYW1vbHlxeGNlcmNmNDFUbmZsRnhpY0xqdFd1aFZIR053NUZkRG4tLUtiRWw1QW5SUkhsMTlMalVwZVZTZDdROW0ybzhYU2hCNWFwTjhRMlFicnlSVnZCWDQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 16:39:31 GMT"
+      "title": "David Rebello - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByZklGZ21kaUFJVzZhMlVHSm4xSERTTmdOVDcwdUxfU25rbFNCS1VRWndqNnlVUmlPekd0ZWJvOUc4azVvU0FCTTlWdFJrLUlmUzdBMzdjdWMzTlJfdnhsMFBsb1dGVUt2b3p3UUJSU3N6SWNQXzdV?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 18:15:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "PTC India shareholders approve Umesh Kumar Nand as director - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdVRSVkI5NEwzelYwdmNQbnNLNTU0WWYtenRRX0M0OGRDUzJWSTJoNXF5S183d25BRjQyazdGbnc1bHZHZXh1aXd6cVFpd1NfU3VPRnNWMk4xNGdUb3lNVnM5VjRTREotTjlDU3J1ZzF5bkhOTVRfNFNhU19OMUtvb2dtMUVqYV9BLVc3XzNrMDVUVldRWnpFTVRCUDlUNi1Hd1I3UVF3RHJ6S1J6a1g0NmRoS3hIQ1U?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 17:21:21 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Govt to offload up to 6.5% stake in LIC through OFS opening Tuesday - business-standard.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNVdqTUN5STRUMkxFZW1CbURWdUp0R1hVQ0pnTmtRWl9rbC1qajZQRVVoUmE3ZEZQQlBhR3U2RjVHTVNiVl82a3hHeHRud3dzLVhTNWVzeERFbFNuM1BnU3ZQNzFla25HTjZVcER3aWo2Uzh0OEF1U0lZYklJYVBpbjZEWnAxZ1h0R29CNlBkQmUwYTJRa2dHRVZqU2RDZHA4N21tX0dyZkhmUE1WS2o1SV9iemRfczdKanVzZlgxVl9NZUZ5Wi1OcVozRUbSAdIBQVVfeXFMTnBIMWVnYXhLQ2xTaDRWRFo1bnFOV3FrNkM4Z1c2TzlEY0V1ajZ4NVpNWGR2ekYxc25KSnZ0RlNUUUJvZEJPU2ppSjR3WFhTTm1RaUtpZG10ZXFwazFZMnk1c2JYZFpGMkZ2TUFMRktFNkE3LVF2d2pCZllDTVNoSFlxME5QVHBDbUV5SEczTEpKWUxXSDRIcVdjQmxfaGtCSUIzTnY4ZWN1UU44NGpSNmU4Q0VBMllMQzR5bERBYlBzaU55VWlvbEdmamxMU3poTlZB?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 16:33:36 GMT"
+      "title": "Prashant Kishor net worth: Know about the Bankipur by-poll winner\u2019s investments and portfolio - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVpYNDE5ekZvTUxMR1NmbVFWdkNtRTlvN2d6XzBKcElaUi1WakFYMWNYWHFXdGhDOVpjUFhFalQ1NXZiNGcwSkQzcWlYbFhHQVZxalRFSnF6VWdaZ1lzbVRZenZwWTFXRmlMdWU0bUg3eVQtQmR1N09Kd3JKSWI5d1RIaHJ6QThKUWo2UnJXM3E0WGNsOE1SV0ZCQU9WZFdxUkFpeTdIM2tCdHVJRkx4bkFZVXY2a1Z4amkzZVd0d1AwVE1YY1ROd2RrWjlQbEtr0gHWAUFVX3lxTFA0Znh2NllJbHcyLWNDOENBekNLMEZOYXUyc255VFZULWV2YzRPdUxQaVdBV2ljYktabndWNTZKVVRpZ3N2ZTlpallicWowM0xKSkpJamtiNkhzY2JfN2RFUmRhU05lZmJ4Wk5tQzFWejctN0NVOTktNEZDdTRiMG5EYjFRRVJBZEZYQmh2ZkhvYVJub2tJaTZBNlFZaHQzRFVuLXNmZWJ2YW1TR21lNUkyZkJUR2NiRXVsQ3VBRm5WMmh2QmJMelMwYkRWMmM4Sy1ETDlPcmc?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 18:32:29 GMT"
     }
   ],
-  "fetchedAt": 1785778250
+  "fetchedAt": 1785784167
 }
