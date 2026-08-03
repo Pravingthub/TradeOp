@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Dow closes at record high on Iran talks optimism",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-high-on-iran-talks-optimism/articleshow/132841035.cms",
+      "pubDate": "Tue, 04 Aug 2026 01:32:38 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Yen holds gains after Japan, US confirm joint intervention, signal more action",
       "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-holds-gains-after-japan-us-confirm-joint-intervention-signal-more-action/articleshow/132839035.cms",
       "pubDate": "Mon, 03 Aug 2026 23:28:43 +0530"
@@ -25,10 +31,16 @@
       "pubDate": "Mon, 03 Aug 2026 21:17:49 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "LIC OFS opens on August 4 as govt looks to sell up to 6.5% stake. Check details",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lic-ofs-opens-tomorrow-as-govt-looks-to-sell-up-to-6-5-stake-check-details/articleshow/132835659.cms",
-      "pubDate": "Mon, 03 Aug 2026 20:56:23 +0530"
+      "src": "LiveMint Markets",
+      "title": "Wall Street rallies, Dow closes at record on Iran talks optimism",
+      "link": "https://www.livemint.com/market/wall-street-rallies-dow-closes-at-record-on-iran-talks-optimism-11785787392771.html",
+      "pubDate": "Tue, 04 Aug 2026 01:33:12 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "South Korea Is Becoming Uninvestable, Too",
+      "link": "https://www.livemint.com/market/south-korea-is-becoming-uninvestable-too-11785784953244.html",
+      "pubDate": "Tue, 04 Aug 2026 00:52:32 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -47,18 +59,6 @@
       "title": "Elevation plans twin stake sales in Paytm, Meesho after June-quarter earnings",
       "link": "https://www.livemint.com/market/stock-market-news/elevation-plans-twin-stake-sales-in-paytm-meesho-after-june-quarter-earnings-11785764788211.html",
       "pubDate": "Mon, 03 Aug 2026 22:42:26 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "SBI Funds Q1 Results: PAT rises 3% YoY to  \u20b9873 crore in first earnings after listing",
-      "link": "https://www.livemint.com/market/stock-market-news/sbi-funds-q1-results-pat-rises-3-yoy-to-rs-873-crore-in-first-earnings-after-listing-11785772340299.html",
-      "pubDate": "Mon, 03 Aug 2026 22:00:14 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Palantir shares edge higher ahead of Q2 earnings as investors eye strong revenue growth",
-      "link": "https://www.livemint.com/market/stock-market-news/palantir-shares-edge-higher-ahead-of-q2-earnings-as-investors-eye-strong-revenue-growth-11785770366337.html",
-      "pubDate": "Mon, 03 Aug 2026 21:54:08 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Rupee Extends Winning Streak as Oil Prices Slide and Dollar Weakens - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMUxGZXluQklVWDdUbjRldFRvV3hiNWNMbTQxdzAxUVlSbFMtaGpvYWU0REZqeXB6NWdieVktMkY1WnU0TDJRTjNCMVVGWXhhUmtRVlhIOXExQTFMR1Zzb3BNX3RuQ2ZjT01pckJMckVENTZaM2dfZzBsUDliblBueDRDbUF4ZFN6U2p0YnRMZ0FwVGRuVk8wR0FLUQ?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:27:00 GMT"
+      "title": "Stocks to Watch Today: Paytm, Meesho, Life Insurance Corp, Poojaa Precision, VVIP Infratech, SBI Funds,... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOc2s5c2RhcDdSb29PTWtLVmNjN01lYmFsaW5Sb1FOQVJvSU5RNWlHaFZYMS1vakdVWnBsWWthSjI0a2lUUWtnRlVxZDlfY1NiXzcwWWtMRUQ0dVgyQnpQYXcybjVXekdFNFBYTjU3dXM3WktPejdpamp6Q1JnOEJXMnZETFN2dDNReGxLWVBtVEpfNzBZLWFYNktkSk1JTkVsTkpLTVd4bmhmT2U5dWprbTJqQzlIR0ppS1AyVVNyWWlKSVV6MzUtUXNOT1ozMXBwNGFoUWwwZThOWkRUWU5DbzhCZGF2M2pEVmVOdnJvSTFQeUs5QV9KUm9lSmh0MEdCVWtxX1RSRG5IaWdXemU4UlJxUi1wQW9PR1poOUZ3TU9sdENHODBXMWtfY0Y2RXdrVVRsSTFnQzNqdWY3VWx5ZGRn0gHHAkFVX3lxTE43dDRBUFF4QjBwaERaUW1TS2oxVklhOVBmdV9SMHpWS3FTX0RuYWFnb3BqT1FvV3ZfX3g3VTZDSTlTSzhzLUhxOFhKbXpKZVJfajJlcEVOLWhTLW00MjlkSUtLYjdKVlU5S2ItbTNDQzVBOHVfZGxvOWc3OUNhcUtDNW1YLWlscGNCOExGTW1LME9PVUJNYWJCeHh6cTUyMV9WYXppYzVUMnVMWHBLYS1JV04xaGlqUFNTc0FoUGU0aHZ3SWFBNUx5Y3BEeUlRZ0hRRWJKR1VzbzAyTFM2cmtVdnRNSGxuV3Z4cU5XWi1EdHZjNmI5eWRYMUp2VlliWUFjMk5JQ3RheDZHY1BqWkEtZ1Q2WXRDOVFHcTlqUVNLR0IzZzRmejVYdE9BOGV5bzYyNC14LWNwaVJJWHpBbHJ6Nkd5aGpYTQ?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 20:00:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India, Uzbekistan should double bilateral trade in three years, says Piyush Goyal - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOVmpDMGhUNG9XZ2NJblF3akhLM3ZlalBGVzRHTHdLYmlTaHBETzdxbFRxOGxodlk5WmdyTjhpbU5SQkpDaGdwVFJ3SWRONjBnUllsbW5meV8ybWM2TEdfXzJJcWNVR1JSZ2FUUFY1eExGV2FxWWJHLUVMZFhhSnh2dmVaVVZrR182U2NuSXQ3VHdwM1RNZl9jUTZXdXFjblJWUkh1bEVPVUNnbFUxZHR2ZEs3R0ljR2JkWW1Od1Z4U1ppZkZPNF9mcW5tN1lqVTJQQThqdWpCQmhfVndnYmhWVUFlLVVMdjh4TEtIckhIbEdUTHducGRMVXBTSDFtTXlaNE0taVh4YmhjdURzOVRfYnJnZmxNeUVsUm1rYWtjeWQ3QW51bHhBNVk3MFM0RlRfZE03TkFPWGw4M1BoSnQ2Sld4LU94N0tVY3pyOW9XcHBSc05QbWtIVm1DUdIB9wFBVV95cUxNRUhKMm44LTc5UzZuRHlvUDNUNDdoMW1YM2VKOVhwTXlFdjVKbUM4czJPa3pFSExMSDRUVUZDM0lidFNzamZjUzNGUTlCRk5BT1RsbUNLeHRwM2tTWm9mSi15cjktOWViZUNmWk93cFprVHpab25ScFBVNlUxclRlUmdkdjlVLXd6WXE1d3BKbkZMQkx2SWI4b3F6eUZGc1N3SDAybU1pZEdUNW9sb3FIaHRXelJRVDNRWUQtRm90ZTZsWlpNbUxIbE55RFV1dm1LRFlVWHVhRVZTQllkbV9zelJFSVlaSWE1UWxDc2d4UmZJb3Y1cEhB?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:51:47 GMT"
+      "title": "Bharat Gears accepts Schilha's resignation after 10-year tenure ends - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGRBTmhLRlhHV0NNQmx4c09rQXBjUExNTGVjQjJMVW1uYXZDc3ZLZEJyb1FTNk83MHVrSDRQRmN3SDRDeW5heUtHWHZrd1JSMnZpSXVtR3hlNTRhQVRYdzEwTkZpaE9taF9KMktGRlpRUjA5ekFVLUNFeXVYS0RHWU5YOFpDRU5UUUMzbDBwMG1WT3VsMFFWdlBPZmFjdTVFNUVWV0pleHB1bFJuVHFQclZRRlVObzU5X3FSdk5KWU56djcyemw5b0l3?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 20:01:40 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Bharti Airtel shareholders approve Sunil Bharti Mittal's five-year term - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnNTeEVET3p2TW9BVWxRMjZTaDRBdWFBdzNVVG9zN1k1MnVDNnRRMGtJQ3EzRmRpMFJSdUdoRF9sMkpEdGxxMEJxMDdOREg3dXRmYTB6RnRXODZyVW1HUEU2UGVPSlJBSzNKWUh2d1NSNUp3QXJFeVd2ME84TXA1WlB5VEItRnREOGozSTJOcl9SRWxKaTZ4Z2RpaUtaemNwUGlSNUJFbFBKdElwdXZHc0o3RTJwYXI2MmRjeC1jbXBzM3dfVHVB?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 19:06:36 GMT"
+      "title": "Govt introduces bill to modernise bank records law - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZl9JV21BZUt5V1FkOEZ0d1FBajhDU0V3ZktMb291YWlCOUc0X1ZsSW42VEJBS2k5Q1hReWRSb1JtLTlUQTIzcllpV2VrSlFGdVVjTjM4a0tzT3RPZzBsVnNXTXBhNFpTNFV3LUNOaDQ3d0wyTl9jenYxRlRmdEFacnNzcTFnOG11NGdoa1pqS0Q2TTV3UXNxWXFjbjBTaXI4amoyaW5UcGMxTGxjMmlpcjN5cWptaWU3NTBiWjJWV0JCOWhjTHg1cGt1c1BJTl92YTEyUnZwUUV4MmhWNGxv0gHYAUFVX3lxTE1Mbk9JRjROLS1jY1hEUGVsZmxXQUdQUGJuWnBOTENDd3kwbWNRVnJGRllJMUxSdW8tOURXRm5vQk9PSjhydG0tV2E3V0IzS0l6WW1VRS1UUXZaTVVQZnpIWWh4WURCT2ktOTdtUmZPU3ZrTGNpWGVBdXRpMFA4Uno1RHNOVnV6LXQ3c3R4WHJUVHk2dGxXano4UFV3Mm1vMGFXUW5NTmxDVTIyN2ttMDZYSGlvVTZlN1E4Nm5saElDZHdCN3pVR1p5Rnc4ejFEVVphb0pKdkt1Rg?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 19:39:46 GMT"
     },
     {
       "src": "Google India News",
-      "title": "David Rebello - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByZklGZ21kaUFJVzZhMlVHSm4xSERTTmdOVDcwdUxfU25rbFNCS1VRWndqNnlVUmlPekd0ZWJvOUc4azVvU0FCTTlWdFJrLUlmUzdBMzdjdWMzTlJfdnhsMFBsb1dGVUt2b3p3UUJSU3N6SWNQXzdV?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:15:18 GMT"
+      "title": "Govt launches 2.5% OFS in LIC; floor price fixed at Rs 382 per share, retail investors can bid on Wednesday - First India",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNmF6NnpVOW51U0JWWFZ6WFJaa2MyQTJxckVtaEFYSXM3NldKVnZUQ0M2bXlXMElJVVVvUENJQ1hmNV95cy1xY1VXSmRXX0R4N2xja2xFUUpnY1BPM0hhVVFQZ3dJNnhWQ05tZ0M3RnJDa1IzOE5EZmRqelBkM0NWM05tV1hldGY1UDlGdzdBVFVCcEkwQVo3T0tvdWladkxjYm42ZERzcldnR01hdEJWTGhZWFhFUVFwTDlLR1EtVUJhOHBxT0tnWk0yRG1CcWJ2ZWNGUFBUZlh1azF1SWJhU3dR?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 20:03:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Prashant Kishor net worth: Know about the Bankipur by-poll winner\u2019s investments and portfolio - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRVpYNDE5ekZvTUxMR1NmbVFWdkNtRTlvN2d6XzBKcElaUi1WakFYMWNYWHFXdGhDOVpjUFhFalQ1NXZiNGcwSkQzcWlYbFhHQVZxalRFSnF6VWdaZ1lzbVRZenZwWTFXRmlMdWU0bUg3eVQtQmR1N09Kd3JKSWI5d1RIaHJ6QThKUWo2UnJXM3E0WGNsOE1SV0ZCQU9WZFdxUkFpeTdIM2tCdHVJRkx4bkFZVXY2a1Z4amkzZVd0d1AwVE1YY1ROd2RrWjlQbEtr0gHWAUFVX3lxTFA0Znh2NllJbHcyLWNDOENBekNLMEZOYXUyc255VFZULWV2YzRPdUxQaVdBV2ljYktabndWNTZKVVRpZ3N2ZTlpallicWowM0xKSkpJamtiNkhzY2JfN2RFUmRhU05lZmJ4Wk5tQzFWejctN0NVOTktNEZDdTRiMG5EYjFRRVJBZEZYQmh2ZkhvYVJub2tJaTZBNlFZaHQzRFVuLXNmZWJ2YW1TR21lNUkyZkJUR2NiRXVsQ3VBRm5WMmh2QmJMelMwYkRWMmM4Sy1ETDlPcmc?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 18:32:29 GMT"
+      "title": "TKMS: A Submarine Builder's Two-Front Bet on Ottawa and New Delhi - AD HOC NEWS",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOV0JIQkJqSWEtVkRzRnpXdTdIeUhSM2c4WFNBNGZmVGhXT2VZNUh6NkpkM1BNRXdIRmJhTW1ZY1U1WDVsR2lHTHlQYld3d21Zc241b0NwRnlRT0U1ZU5Ya3k1Q2hwbjMtSkdSNUZ0S1ZlNGZack5UMUx4NHJtdnVod0h3Z1lFOG1ycklwRTZpYmEwSEZmYWp0dlFmV2MtX1RIWGoza2pqbHFEYnhiakN6MHhYajJ2bzRpVGZtZlJBUXNnZ0dWZ2J6M0M0bE5rQ1N2SkE?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 20:01:57 GMT"
     }
   ],
-  "fetchedAt": 1785784167
+  "fetchedAt": 1785788863
 }
