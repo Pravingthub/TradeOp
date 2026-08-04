@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: SpaceX quarterly revenue surges in debut results on strong growth in its Starlink business",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-spacex-quarterly-revenue-surges-in-debut-results-on-strong-growth-in-its-starlink-business/articleshow/132872768.cms",
+      "pubDate": "Wed, 05 Aug 2026 01:47:25 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks: Dow, S&amp;P 500 close at record highs as AI earnings impress, oil prices tumble",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms",
+      "pubDate": "Wed, 05 Aug 2026 01:39:21 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Treasury yields fall as oil retreats on Iran deal hopes, Fed hike bets ease",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-retreats-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms",
       "pubDate": "Wed, 05 Aug 2026 00:41:12 +0530"
@@ -17,18 +29,6 @@
       "title": "US Fed's Anna Paulson keeps 'open mind' on rate decisioin as inflation remains too high",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-feds-anna-paulson-keeps-open-mind-on-rate-decisioin-as-inflation-remains-too-high/articleshow/132867445.cms",
       "pubDate": "Tue, 04 Aug 2026 22:28:37 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Palantir stock jumps 27% after \u2018otherworldly\u2019 demand lifts outlook",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/palantir-stock-jumps-27-after-otherworldly-demand-lifts-outlook/articleshow/132866951.cms",
-      "pubDate": "Tue, 04 Aug 2026 21:51:53 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "SK Hynix rises 5% as brokerages launch coverage with bullish ratings",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/sk-hynix-rises-5-as-brokerages-launch-coverage-with-bullish-ratings/articleshow/132866674.cms",
-      "pubDate": "Tue, 04 Aug 2026 21:29:48 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,34 +92,28 @@
     },
     {
       "src": "Google India News",
-      "title": "Kritika Wires confirms no fund raising activity in Q1FY26 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTTdFZG1aa1ZNbFJxMDA2NHRDay0zdzlrMWh1NFl0TzlhN2twa3JucWFCOHcxTHNGTDJYeUx1bXAzQTJzemZ3eXZCMHZPMVFLM3NlSld3WVM3cl9pM0c3VkF2clBXcmZmLTJQcFBBemREV2RZNjhJdWUycmdZQ2FfOHpRNlJzYmgzM2pJaVl5X3NZLVE3alNvTjZsbUVrSGlTZlh5Nm02Mi1XX0d4andQekFiRW4?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:37:02 GMT"
+      "title": "SpaceX Q1 Revenue Jumps 92% to $7.8 Billion; Stock Faces Pressure - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQ2luT1VpUXdvWVd4eF9tRldGazlQancxUzd4UlNmV2xOWXpWc2JBSk9PSHdvZkU5bC1CWEV2SE9IMjlDdHlKdjBXcVdkVG5iNlZyTnNwNl9jN1kyblp3ZXBlZG1PQ0ZHVkItaEdVa3ZIVjRORDY1WlM3eU83akhuWm9Wd0RyLUhHbEhjYy02YTdFNUVOY1hENURvSXJYd0hHNk4tYWhOOEo1bS02dE15Q3NOb1c2bXJkM0pMNDNhU3hnNEt6MkxWVVlkbDZNMS1UTFJTa3NybU9nb1ZCc0QwWHpQYTA?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 21:18:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India\u2019s Milky Mist Dairy Foods reduces IPO size to $162.83 million - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanRYMGZYSVQxZXpQVU1OVlcyY191bVg1MWRsS0VBb3JtaEg4ZnhicjdMSmFlMnllei1MUmpUUTZldEd3Rms2WEk0VmhBOV9OakNOYTJNN2E4TGxjVlBQQ0FtN2VXZkM5b25JTGkzbmJVYlpnZkNSRGJsNlVCZFN0TXRScFFsSEFSVU1qQS10b1Jsc3ZXSzZsS1JTaXZMaFQySjA1NVZXN0l4aVhNSmk4WVJmSnJoU3VVYzVnQWR2WXdPUQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:25:17 GMT"
+      "title": "BSE clocks fresh milestone with CAS implementation - BizzBuzz",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2llSDFsR2ZyWDNMdXRFQThZbjdZSlhUdTZwTnphTEh6bXo1UW9ZWE1wT2tENnpCTkpEQmg5S05tYUtldmNSb091RGpWTV9lVUVTcEFybTNKX1BZbWVwemdoV20zZzhib21FWFM4clBLT2JzWGlVYkdmU1pqV0kwbDdGTjhwc09yY0JsSF9VR2k3bzNBWXpr?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 21:01:51 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India\u2019s Milky Mist Dairy Foods reduces IPO size to $162.83 million - Investing.com Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZDNOUUFhOEswSVpISkR0YUVuaFlLTVIyY1l6eVdXOHVjdDRBekJ6MHVGbDNRQXJoN2ZJRHNmbkpNMzhTZ2ltcFcyNW1PSVJsa1hST3RYNnBsNlNJV0RRZllqR0RGMDZIRjdoWmFZUFRlZXpRZS1XUU9lRFducG56a2J3eG83UERJQjRNYjZMbTlLTVpVampSeEt1aXRZdzBVakJtME81anI2dXBlbUFCd0NQVFE1TG9FbU5aSHloWFBUQQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:30:28 GMT"
+      "title": "Aequs Publishes Q1 FY27 Earnings Call Transcript to Bolster Investor Disclosure - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdU5UdTJTWmhtLUVGLVZ2N1B2VFBzSUJTM0NYazNYamE2Y2xQaDJ3eUJyaUdBUktfMnhERGFmdG9BQVozTXkwZlJVRTJqWVFHODhSVl9GRElnajV1cHhXT2hCclAxZENfSG0tbEdFN2h0N2RoS2RYeF95dVpDTmgtejdXbjF3V3BaX2ViWlIzNjJKRlYwZ2ZyV1ppQjVoNUhQQS1EbHpDNXNwZUpCMlZHS3VDVmdzWkxVNGxHVGJjOFhxWjQyRlhwcEtxZw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 20:59:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "G.V. Electricals IPO Date, Review, Price, Allotment Details - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB0WWxWSGNCYWFUdUZxV0N1RzBabEg0MFdRdjBZdzNJRkxTMjcwbG9LS0poWlc0S0JpVW5vUWhJX08zaERsVm1KYjZTbHczcmhz?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:27:10 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Zen Technologies appoints Uma Priyadarshini Kollareddy as independent director - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVmpkaDdnQTFBM2Nsd3FTX3o0a05kSWx6YVBYQktXamZtUURJNWJJNGtwcVFiUlpsdXpMcVN4YU1mUzdyeFh1UEhmRmowdVVqbnhpNmdVVXA1U0ZpR2NzUFAwakFsWlZvMDc5MmtTVE5RdVRVYjRzOVYxdWE1YS14VjlzS0tLdFFTVFUtc1lGRFRDbHNCUHdXNkxNTXU3dkZ6T3lfQXE4NEpwUC0xV3Q3Q25GWkF0aHR5YjNBZmtlbGpZX3JkaXpZTUExbmp2OHJU?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 19:24:41 GMT"
+      "title": "Belong launches GIFT Nifty Futures - BizzBuzz",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYk1XVGRabVlZYmNvLWkzcnJFZ3cyTkRpTzZtc0dGZHlDNndwQmktMl9XRGZ1WDdObWpQMDRtbG02b3F5MXUyeGVYTVVqQ09FelNPeFB6V0VQM3FyV0dqbU5PTVV4cFRfcVQzWmQyOWctTmk4VTY4ak9IdzRQWjBFZE93?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 21:09:31 GMT"
     }
   ],
-  "fetchedAt": 1785875077
+  "fetchedAt": 1785880174
 }
