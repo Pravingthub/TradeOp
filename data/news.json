@@ -2,7 +2,13 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "Jefferies gets new evidence of fake invoices at Beleaguered Fund",
+      "title": "US Treasury yields fall as oil retreats on Iran deal hopes, Fed hike bets ease",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-fall-as-oil-retreats-on-iran-deal-hopes-fed-hike-bets-ease/articleshow/132871326.cms",
+      "pubDate": "Wed, 05 Aug 2026 00:41:12 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Jefferies gets new evidence of fake invoices at beleaguered fund tied to iron ore trader",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/jefferies-gets-new-evidence-of-fake-invoices-at-beleaguered-fund/articleshow/132869731.cms",
       "pubDate": "Tue, 04 Aug 2026 23:51:47 +0530"
     },
@@ -25,10 +31,22 @@
       "pubDate": "Tue, 04 Aug 2026 21:29:48 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Drugmaker Pfizer beats earnings estimates, targets $2.5 billion in additional cost cuts",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/drugmaker-pfizer-beats-earnings-estimates-targets-2-5-billion-in-additional-cost-cuts/articleshow/132866592.cms",
-      "pubDate": "Tue, 04 Aug 2026 21:25:24 +0530"
+      "src": "LiveMint Markets",
+      "title": "Yen holds most gains as intervention keeps speculators on edge",
+      "link": "https://www.livemint.com/market/yen-holds-most-gains-as-intervention-keeps-speculators-on-edge-11785874259298.html",
+      "pubDate": "Wed, 05 Aug 2026 01:40:58 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Palantir Short Sellers Take $3 Billion Hit After 30% Stock Surge",
+      "link": "https://www.livemint.com/market/palantir-short-sellers-take-3-billion-hit-after-30-stock-surge-11785872351134.html",
+      "pubDate": "Wed, 05 Aug 2026 01:09:10 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "CBOT grains, soybeans fall as oil drops on Iran hopes",
+      "link": "https://www.livemint.com/market/cbot-grains-soybeans-fall-as-oil-drops-on-iran-hopes-11785869727323.html",
+      "pubDate": "Wed, 05 Aug 2026 00:25:26 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -41,24 +59,6 @@
       "title": "Palantir climbs 27% on 'otherworldly' AI demand; Karp tells shareholders business has 'Marxist' values",
       "link": "https://www.livemint.com/market/stock-market-news/palantir-climbs-27-on-otherworldly-ai-demand-karp-tells-shareholders-business-has-marxist-values-11785861835803.html",
       "pubDate": "Tue, 04 Aug 2026 22:41:32 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "SpaceX faces its first earnings test after a turbulent IPO debut; expert says, \u2018have very little confidence\u2019",
-      "link": "https://www.livemint.com/market/stock-market-news/spacex-faces-its-first-earnings-test-after-a-turbulent-ipo-debut-expert-says-have-very-little-confidence-11785859718961.html",
-      "pubDate": "Tue, 04 Aug 2026 22:10:40 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Crude oil reverses gains, drops 5% on renewed Middle East peace hopes; Brent falls below $80",
-      "link": "https://www.livemint.com/market/stock-market-news/crude-oil-reverses-gains-drops-5-on-renewed-middle-east-peace-hopes-brent-falls-below-80-11785856793729.html",
-      "pubDate": "Tue, 04 Aug 2026 21:27:20 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Sebi asks brokers to boost retail participation after auction debut",
-      "link": "https://www.livemint.com/market/sebi-asks-brokers-to-boost-retail-participation-after-auction-debut-11785853087493.html",
-      "pubDate": "Tue, 04 Aug 2026 21:25:00 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "10 Best Margin Trading Platforms in India - ahmedabadmirror.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM1NZMHJ0cm5mWlJLa2tmcWhRenZwMTJxXy1yV2dSbTZjbVZ6TXozR05Od2Zkb0h0QnR5by1tbF95YngyaGNFQWc1THNHcEc1Mlo2NXROeGN2dm5rS0hLbHVHVXRZUDA4RlJlWDNaYzRlRDNNdXpQOUR5ZkFETXI0OWp2Z3ZwYWtlcW5FVUdrcF8?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 18:02:12 GMT"
+      "title": "BSE Q1 FY27 slides: record revenue driven by derivatives surge - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEZ2Z05ucExTR3Rkbm5xeFBmUE1tS2hQdmhLZEpLUnBzdjlFZHRtRXd0WDVyZ3E5MWd4OVRzcEdPYUlSXzJDMEtrVWQ2WmR4bUhfR3hWZG9TSWZndkU0SVlkZWNjUXJKUEV6cUpIYXNFSFk1ZlZ4NDlxYjBiVHc0YWx5ZGUzWkxMSjdEVy1qRVdkcFdUWWRwLWV1RXNNOFR2b0lJcUZMMVpzVnNxVHZweW9EZmpWczUw?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 19:19:34 GMT"
     },
     {
       "src": "Google India News",
-      "title": "AI Stocks In India With Strong Exposure To Software Defined Vehicle Growth - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZDhmSnNaTjZRYXdMcjI2RXVRMTQ3MEI2MWtBZ1pVc3FiSTNDMDUtVExYSTZyQlMzNm04NEJJWVI4NWIwaFNzS054LVRrSUd4RjFlR3dsRWI4VGJNdHRVNUlUM3E0anFZcE5RZEU1cHZscDY5OVowUXExMTRXYmNIemE4bGU0VEhMLUtaU3FXSFprRUpRRGVPZWxVR3Z0MEtVY3MwaXpOODJ1cXluMEJBcC1MTjVvUV9NZy1hcTlTcGhBeEZYMmlZUE9NVnJkLVNOeFdJV3BTTWpma1FGUDNTd21uSdIB4wFBVV95cUxNZDhmSnNaTjZRYXdMcjI2RXVRMTQ3MEI2MWtBZ1pVc3FiSTNDMDUtVExYSTZyQlMzNm04NEJJWVI4NWIwaFNzS054LVRrSUd4RjFlR3dsRWI4VGJNdHRVNUlUM3E0anFZcE5RZEU1cHZscDY5OVowUXExMTRXYmNIemE4bGU0VEhMLUtaU3FXSFprRUpRRGVPZWxVR3Z0MEtVY3MwaXpOODJ1cXluMEJBcC1MTjVvUV9NZy1hcTlTcGhBeEZYMmlZUE9NVnJkLVNOeFdJV3BTTWpma1FGUDNTd21uSQ?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 17:58:13 GMT"
+      "title": "Kritika Wires confirms no fund raising activity in Q1FY26 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTTdFZG1aa1ZNbFJxMDA2NHRDay0zdzlrMWh1NFl0TzlhN2twa3JucWFCOHcxTHNGTDJYeUx1bXAzQTJzemZ3eXZCMHZPMVFLM3NlSld3WVM3cl9pM0c3VkF2clBXcmZmLTJQcFBBemREV2RZNjhJdWUycmdZQ2FfOHpRNlJzYmgzM2pJaVl5X3NZLVE3alNvTjZsbUVrSGlTZlh5Nm02Mi1XX0d4andQekFiRW4?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 19:37:02 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Deep Industries schedules analyst site visit for August 7, 2026 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZVY3RWlUckp0QjFsRVQ5M1AzdnJ0SHp1OFVQT1Q3SHpKMGNsa0luRjY1X3RiLWVLaUtJUGJHRlVmODY3ZjYzX2VPYW56cmVwYlBHZi1CeGhVaDhGaVNSeWhCOTBKRHh4M2dmTFI2ckJsNnZzdjA0WERsWDJZVy0wRERKWHZLWEdoMmJvWmRBWWVfNlAxZFlCY2d4bE9tTVd2aTBldlVza2taTENzdTE1M29aWjhkVTlldUNr?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 18:37:21 GMT"
+      "title": "Thai panel explores food biz links in UP - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLTUwOE1iY181UTJGSjhVWWdXeHppcWk5SjdOZ1hSS1hpRjRySlpYYWM0TlhKX0FoQkhvVWI5Zlg1aHc3Y3FfcmlfNGJOeUhDZm1WZWZJLU16SmxRekl0bTZDMjV1cWhhQVdZQjJEU1lSa1hsWmdkbVBLVnZ1LWdWSjZ6b2FaYzVfRlU0TzltaXVpVHJQSzJYU2NqZDNjdUlNX2x3UmppblFvNDF4d2J0WkJUNFh6c3dTa1pR0gG7AUFVX3lxTFAtNTA4TWJjXzVRMkZKOFVZZ1d4emlxaTlKN05nWFJLWGlGNHJKWlhhYzROWEpfQWhCSG9VYjlmWDVodzdjcV9yaV80Yk55SENmbVZlZkktTXpKbFF6SXRtNkMyNXVxaGFBV1lCMkRTWVJrWGxaZ2RtUEtWdnUtZ1ZKNnpvYVpjNV9GVTRPOW1pdWlUclBLMlhTY2pkM2N1SU1fbHdSamluUW80MXh3YnRaQlQ0WHpzd1NrWlE?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 19:23:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Kwality Walls India Ltd (KWIL) Share Price - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbHpKbGxmOTEwQTU3b2ZwV0tGN3V1QW1nWWxKZjlSUzBxTktFamNMWngwT1dGRXpFNUd3ZlBsUnBFU3JfV0xiczhlNlN2VGlsMWR2a3pLZ3B5amNZWTRqLS1vdEE2dmlFSWkxQ2tMbTRkQ0owc01QZHVZaThKR2k3dkUySUNPRGZTMkZF?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 17:58:32 GMT"
+      "title": "India\u2019s Milky Mist Dairy Foods reduces IPO size to $162.83 million - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanRYMGZYSVQxZXpQVU1OVlcyY191bVg1MWRsS0VBb3JtaEg4ZnhicjdMSmFlMnllei1MUmpUUTZldEd3Rms2WEk0VmhBOV9OakNOYTJNN2E4TGxjVlBQQ0FtN2VXZkM5b25JTGkzbmJVYlpnZkNSRGJsNlVCZFN0TXRScFFsSEFSVU1qQS10b1Jsc3ZXSzZsS1JTaXZMaFQySjA1NVZXN0l4aVhNSmk4WVJmSnJoU3VVYzVnQWR2WXdPUQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 19:25:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "HEG to conduct Middle East investor roadshow in August - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPV3hWbnVHVXZtTVQ0WHlYOFlGYzZMRUF5Tm5DMTE0UUk2T1VBel9fV3E2cW9lcEpfcVVKWjl1elVSYWhzcG9Va21qbEhpMU4yRi1xWnJyRllsUml6YndrQ1BFN21TUENEM2hsZkNlZW04ZlpSdFVwWXF5aFpVQ2l4VmYtQUZmRW5DeERHUHZiNVJKdWxXdWlFZjBfOTQtY3Izc0lpSlhqOWZCUHkxYW1jaA?oc=5",
-      "pubDate": "Tue, 04 Aug 2026 18:32:53 GMT"
+      "title": "Ball's aluminium packaging shipments rise 4.3% as Q2 earnings strengthen - AL Circle",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZFVvMWJSV2prUm94ZjdJUUUxOHBsRW40Zk9xMjhfX3U2cnJUMnZUZGJodVVEcTg3ZHpUUDNfcnFqYW5ZS0d4RTIydVNHcUxnZmdKTWpSeE9KOEMzdXdVNnROSG9laXdpZWxMNXlGYm9raTRmYVFGYTh1eGZ1c0hGUkNnY0c2TE5iV2JXQXRLR3kwQXFCMzFKZGgwNjBWUFFBazZrQ05kYWRITXNu?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 19:35:00 GMT"
     }
   ],
-  "fetchedAt": 1785869305
+  "fetchedAt": 1785874524
 }
