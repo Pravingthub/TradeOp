@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "New closing auction triggers confusion, sparks late Nifty swings",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/new-closing-auction-triggers-confusion-sparks-late-nifty-swings/articleshow/132843295.cms",
+      "pubDate": "Tue, 04 Aug 2026 05:31:12 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: Dow closes at record high on Iran talks optimism",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-high-on-iran-talks-optimism/articleshow/132841035.cms",
       "pubDate": "Tue, 04 Aug 2026 01:32:38 +0530"
@@ -23,12 +29,6 @@
       "title": "Kansai Nerolac Q1 profit rises 5%; approves Rs 601 crore capacity expansion",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kansai-nerolac-q1-profit-rises-5-approves-rs-601-crore-capacity-expansion/articleshow/132836083.cms",
       "pubDate": "Mon, 03 Aug 2026 21:23:30 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/132835943.cms",
-      "pubDate": "Mon, 03 Aug 2026 21:17:49 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,6 +62,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Dow Jones surges 700 points to record closing high - Here are the factors aiding the move",
+      "link": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-record-high-what-aided-gains-monday-oil-yields-ai-stocks-results-19960941.htm",
+      "pubDate": "Tue, 4 Aug 2026 04:59:34 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Jupiter Wagons partners with Italy\u2019s Lucchini RS to make railway wheels in India",
       "link": "https://www.cnbctv18.com/business/companies/jupiter-wagons-partners-with-italys-lucchini-rs-to-make-railway-wheels-in-india-19960928.htm",
       "pubDate": "Mon, 3 Aug 2026 23:42:52 +0530"
@@ -85,41 +91,35 @@
       "pubDate": "Mon, 3 Aug 2026 21:46:49 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Why did the Nifty surge in the final minutes of trading today while the Sensex didn't?",
-      "link": "https://www.cnbctv18.com/market/why-did-the-nifty-surge-in-the-final-minutes-of-trading-today-while-the-sensex-didnt-19960874.htm",
-      "pubDate": "Mon, 3 Aug 2026 21:40:50 +0530"
+      "src": "Google India News",
+      "title": "If the earnings don't come through, markets will struggle: Paul Wilson - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxQTEdtbF9LYW5WaEJ2ZmU1Ni11YTdUazlmUTNBTDhPLVFablV0dENpVk16LTUxUkhPWS0wYnRidEM1ZkpsQnA2Y2dPLTVjcklHenczY1pDVFZnTzY5Sy1UNFpJdVU2T0pfa1Nqd1NnWGNROEFMMkNfMU1OWmdPa1RaODYtRjNDaXlMaGhXRTFybHFiZ0NSTW1IQTlOQlBFWHdEdG5rNHJ4U2sybVg3TUM2VGN3a3BwYnNTMTdibmpobmtHQnVCSjl4TmU1YTR1QzYzTGtPbVpzYTFXZGxlUFZUTWNTSGcycDVsV1lhTmZ1NDZvdkh3bTZ4OFR4NnlZaWwzVHdWMmliNzJOM1pBMXFrMC1BQzlZeXZBckZFSnBlamN1RS0weHVXZkk5aW84WHZGemU2cXVadGRyMFlOQ00yN0Fn0gHeAUFVX3lxTE9sMU41UUxqUEM5YkRlLS1CZU1CeVRGTE41ak1aVEZnajVxcllGQ3RFOUhMeWVLM0x5LWFTSHhnZzhBNHEwVTFNa2FEMy1IV3JJRGpNdXJDTm44aXJma2JHaWdRdWlxTFNET2JXUm85TFplcFVNYkV3d01uQ2I1Ym1ILVJDWTRPOGxnYmRRRHFvU1hIYkItZkZDTE9uY1p0a0ljcU1VWWE1aWRuZlVvVWlqLU9FWGlwTHVROEkzNGRqY1FCeXhWcm1GZ3Ftd3Jkcjg1YnM4dXM4b2lyOE9sQQ?oc=5",
+      "pubDate": "Tue, 04 Aug 2026 00:07:46 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Edelweiss Nifty REITs & Realty Index Fund - Direct Plan Fund info - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZHBtOUpsOEJWMGdqV19vOERJUmpNWGhJOWFRSVRPbGNiN0pCNEd6OGEyaE55RlZwX1RqVWdfc3c2UGxBVDBPNzgwdU1POV9sZnQ4TW5HVVJ6bDB0QkI2Wnpma19RYjZPU2RhbzlmY1VYRE1VaGtjeFBQYXlWaVRMcDR0RlNsaHdlcjUxZE9oeHF6X2o4MlZUdkZzYldlSE5jNkxxd1RVTmI2ZXFCNmRlXw?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 22:15:12 GMT"
+      "title": "Bigbloc Construction publishes 11th AGM notice in Financial Express - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb3VIaUpUNWNMb1B0dlZqcE9ObS1zcEhPQXhnakJtTUt5UHo0bnFWdGs3QVBJX18yT2hPcXBDSEg1TU5VbWY2bVh5RUFPX04xZTVVTDViRUNuSzlNTlBtenJPeGJmSlNCbW5hZEJEZW5UTmNqQWxwTnBtOUxaLUFPNjBHYzdxUjEyVjVRSGZoRXdrRWg3R1dnVmVxREFReW5ZXzNVeVZnX013em85MzcxX3c4d2s4TDg?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 23:16:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SignatureGlobal sets Q1 FY27 earnings call for Aug 6 with senior management - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb2VHQmtCR0ZsbGl1eFdFVlZVdlRCci1BY0hzUF94MzUxMEw0VGFFQjVuWmt0X0FsMTlCUEFkNGJVVTV3RFM1bjg0MGJKR1JMTXM1YXhnZmR4Q29SNVY4WjJ5bk12OFBHVTB4TW94NmI0ZlRtMkpiazlNMzBDR0xPWFhpcTVHd0stY3FDcUhVb2FrUVZ1WFdjQWhGMGNEZlpqaER2Z2NZQjdhcE9WYjhQVlRfOWJQc3JhcXNKT2RTcWRObWs?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 22:28:00 GMT"
+      "title": "Ardee Industries IPO GMP, Grey Market Premium Today - ipowatch.in",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2UVJnY0xJdlgyVDIxVlYxRGR1RWtRSkVfX3V4N2VBVjh3R1lCM0tSN3BGdmsxOTJkdTRNWldGUEFpbVptRXdwZ3F2UVpHVUVqd3QtUUo0WXFkS2JTMXJrS0dJUFZZQVVxN093d1pMQmZSRVE?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 23:26:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ardee Industries IPO Date, Review, Price, Allotment Details - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GOE1iOVpaM3E1dEE4MHl1NFVCa05xVFZPaEtseWZ5TE1wMzZVbWZuR19ydWpraGVHT3B3UlBxdnAxTWV0T3dDTDVXS2tqYTRBN1Nn?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 22:28:44 GMT"
+      "title": "Changes to boost electronics, investment - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZ3VvaEQxY09YREdXS1BKUDZTdEZKNFNKWFdzcUJKazl3TGJPQTJlRUZsc2FLRUE0b0RyY0VuM1ZkUWhlYUxKYk56MFByQ0gzT3ByMWI5QTVUcXVtZExmSzRNZ1JtSzhoanpNZENRTHhLV0JwZlNLSXVBeXUxZTAxeWV0Y2YzTUR2Z2tCaGZ2ZTl0UkpXcjlFVFA0NUNHX0xNNENSdVE0d0xXRkpBMENTSFZaNTlCVGVUTXhMRHQ2ckFYazTSAcgBQVVfeXFMTjk1bmN6YktqZnpDRGVCRWx0cWlnSjY5ZU5fa1gtRHdES0hER2Z3UW5ZaVViTnNIc21jQ3M0Z2VCcXU3Y0VTbjlLYkFYaFZ5R3dPZmgzb19Oalh5MzNqNUJBLUlhWGdJd1IzNFN6NlNYQ19CTmNtYjQ5WFBlQWxXUko5cnV2cVN4dW52SC1memZoaF9RSE1MQjNEQ2gwWms4eldHaW93VlpDOERBeTFwT1YzdXd2Mm5iZFlUdUlVckFqd012WGlUTGk?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 23:49:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "The 4 Best Home Theater Projectors of 2026 - rtings.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0zNnBjZzhsTC1jMUpwZFhwMmtRQmxLNHlVX2JEM2dHZWl2UnBNVExnc3g4N1ZMWGJFV016VnNWMkpWMXJLcWI4N2ViR2xfbEJsVHVsV3dnR0NnXzdsUVlqWm1iX3AtT01RNUE?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 22:50:54 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Anawil Wire & Engineering IPO GMP, Grey Market Premium Today - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KS2ZTd1dzblFRcTh5WDRNWkRPNXNOYV8zYUpIRm0tSDRGUFFDc0thYzFSbEdBamZ1ZjBEWU95NjVRUmhkMDJ1akJ1NTJFdE83UVBlNkJrWTZSODktM2xmS2NvWUxTTXY2UHVWNVBaOTZrcmNJcEh5MXAzcw?oc=5",
-      "pubDate": "Mon, 03 Aug 2026 22:22:41 GMT"
+      "title": "Government to sell up to 6.5% stake in LIC, may mop up Rs 31k cr - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNU1kzRlRQVmFhSnV5SjlsMlA5R0FCcGExUzl0YWFwN2Jqdkx5QnlmempsZGg5aUNsYnI2X1FnR0U0U3pEa1Vlc2R5WG9MTVdLWHYtSFU4Tlh0VUdJUDNnTUJlcDRob1F6SDNoSzMwYkNVUjI2WU5YUk5mOV9IMXBCOHhQRE04a0pHajFSalBmbzdzTVFlZzBtU1dfbEltdllDOU1qV2N6TXNoc2hsOHB4TVZkZUFuNlpVUVNlS3VWNERCSkhPdUhlaFJHTzNrZjkwMHg3Tk96OVFqVlpHeVBlVDdR0gHnAUFVX3lxTE9KQmQxb2NDYzZFbkF6ZURmMVE2Q1BxWUgycmliVVRoS1BieUdNZnRzVHYzS3pZUTl2U2NUbWJPZ2FjVVMtRXI4eWZGZVNoeEdKcmNYQXJndUNGamhzMHZyOEw4U1pKVVNHeVFiYXlXM3pYUEwwdjZrdmF2cl84MmVxR19zZE5GX1REQmNYc2ZQS28tNkx1cXFDcnNqc1VfR1dJQTJBZG9COGFTWTlSVkVqXzdGYnA1WEs2em4xd2p6RlpnWXBwT1I2T3Z6bmlKX1BNUmFfWjFIUjkzVEdWV0ZSRWxfc3NSQQ?oc=5",
+      "pubDate": "Mon, 03 Aug 2026 23:36:00 GMT"
     }
   ],
-  "fetchedAt": 1785798036
+  "fetchedAt": 1785802495
 }
