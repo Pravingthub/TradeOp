@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-on-mideast-optimism-spacex-amd-drag-nasdaq/articleshow/132970250.cms",
+      "pubDate": "Thu, 06 Aug 2026 01:41:04 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: Alphabet shares fall 4% as DeepMind chief shifts role in Google\u2019s AI shakeup",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-alphabet-shares-fall-4-as-deepmind-chief-shifts-role-in-googles-ai-shakeup/articleshow/132967508.cms",
       "pubDate": "Thu, 06 Aug 2026 01:02:38 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Wed, 05 Aug 2026 21:25:47 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US Treasury keeps coupon auction sizes steady",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-keeps-coupon-auction-sizes-steady/articleshow/132946122.cms",
-      "pubDate": "Wed, 05 Aug 2026 21:08:23 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold Jumps Most Since February on Hormuz, Technical Breakout",
+      "link": "https://www.livemint.com/market/gold-jumps-most-since-february-on-hormuz-technical-breakout-11785964080778.html",
+      "pubDate": "Thu, 06 Aug 2026 02:38:00 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks",
+      "link": "https://www.livemint.com/market/yen-firms-after-landmark-intervention-dollar-near-lows-on-optimism-over-iran-talks-11785963413851.html",
+      "pubDate": "Thu, 06 Aug 2026 02:26:53 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Yen firms after landmark intervention, dollar near lows on optimism over Iran talks",
+      "link": "https://www.livemint.com/market/yen-firms-after-landmark-intervention-dollar-near-lows-on-optimism-over-iran-talks-11785963413482.html",
+      "pubDate": "Thu, 06 Aug 2026 02:26:52 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -41,24 +59,6 @@
       "title": "LIC share sale ends with partial retail subscription",
       "link": "https://www.livemint.com/market/stock-market-news/lic-share-sale-ends-with-partial-retail-subscription-11785950528341.html",
       "pubDate": "Wed, 05 Aug 2026 22:54:53 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Gold, silver prices today: Comex gold jumps $173, silver hits $63 as US-Iran peace hopes lift sentiment",
-      "link": "https://www.livemint.com/market/commodities/gold-silver-prices-today-comex-gold-jumps-173-silver-hits-63-as-us-iran-peace-hopes-lift-sentiment-11785946064993.html",
-      "pubDate": "Wed, 05 Aug 2026 22:48:41 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "'CAS isn't a bad idea, but...': Why Nithin Kamath says India's closing auction is exposing deeper market cracks",
-      "link": "https://www.livemint.com/market/stock-market-news/cas-isnt-a-bad-idea-but-nithin-kamath-says-indias-closing-auction-is-exposing-deeper-market-cracks-heres-why-11785946981171.html",
-      "pubDate": "Wed, 05 Aug 2026 22:35:03 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "SpaceX's lockup expiry tomorrow could trigger record insider selling: 'We're in uncharted waters'",
-      "link": "https://www.livemint.com/market/stock-market-news/spacexs-lockup-expiry-tomorrow-could-trigger-record-insider-selling-were-in-uncharted-waters-11785939875384.html",
-      "pubDate": "Wed, 05 Aug 2026 21:47:12 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Power Grid Corporation of India adopts amended UPSI disclosure code - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUmp1VXV3d1ZrYWl2N05iR05BLWxPVzZPcktZNzhyTU9UeXBZOGVoUmVnZDNVLVdMNXltU3pUWlIwSk4zclR6NFg0cFBhbXlGZXpjOWp1NTdreDBDTC1oNDlRNFhBNE95TDZfWGRVdTJ3MDg2M0RTVTVnNXgzUkRuT1dVdFNhVDBPRG9MUEZpLV9raTF6Rlo0X3FDdVNIZHhDZ3NnSVN0NmpBV0g3ODl5TTdPYVFvbmlSTkJ5VTNaX0cwUQ?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:44:58 GMT"
+      "title": "$55.6 | First Trust India Nifty 50 Equal Weight ETF (NFTY) Stock Price Today - Binance",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VRGQwalU3S1J6Q3I3cnZ5dXhPUFpjbUtNVnJINGdqMzNfMHVHbGV1Y2pGRDVZN0ZueC1icTlXYmFqZnR0RWRlU0h4YnZSakU1Mi1ZYjhQNA?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 21:16:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ardee Industries IPO Date, Review, Price, Allotment Details - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GOE1iOVpaM3E1dEE4MHl1NFVCa05xVFZPaEtseWZ5TE1wMzZVbWZuR19ydWpraGVHT3B3UlBxdnAxTWV0T3dDTDVXS2tqYTRBN1Nn?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:42:53 GMT"
+      "title": "SEBI proposes overseas listing route for REITs and InvITs through depository receipts - Cafemutual",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYTdYa3Z3N01mWjhSWkJBUl9zWkFDdkhzQmxSMHhNY0FsWVIxTnpIY3FiM3N0eWM4bm5wSzI0cHdIN1ozVGRXNHQyaWhzZGNzaFViZjBFak53Q2tJV0Fndk43WURHa2hvSFhNLUpvSlNCYUczUGs2R3dfRmhnSkRLQ3JQOEktWjdnMHgxUklKV293UEJuZUlBeDJxYXY3MzgyQ3ZsX3d1S0c1WEJKeHFfMlNDYWZwUnJqZmVDWVc2bWZzNUFjZ3BF?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 21:32:09 GMT"
     },
     {
       "src": "Google India News",
-      "title": "From Ethiopian Airlines to Air India: Tewolde Gebremariam Takes the Helm - StockMarket.et",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb3pGSmpiZC1SSUxSQmtUTUNneUc1dFVzRWR6cm0wcUhxTDFKd3lLUkxLeGI1ZmY5TW5LMXNmQnF6OUxSTHNHNGdTRDBENjBYSVVFM2VsWEVZbHZEd0JaSmNJSTV3NG9pOTZ4T2g2cHVhSFpVWlZBd2lHSWFYVmtjUTAtQkVucThyNHdoYnlKNTFPTER1WXVYT25Uck1ZbmZn?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 20:07:30 GMT"
+      "title": "BASF India posts sharp profit jump as portfolio cleanup lifts first-quarter numbers - Indiatimes",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVFp3ZmJPWVpKV2RYazNGOFh5OE9oQWZDaFkwTXF1SHJWWEw3MU1kVU1YekFhdTNTandNTUV6UlVBQlRSX240a0JGUS1LSExPN2RwNE1oMlNKTWpUNXVzcFk5am54RHJWRFphWDJNbWVBNkVjSlJoTVBoTU5UX2JjNVZyNThWRUZnNmU5VGF4MjFXU2pTVXpmbXNqNVFTSWhGMm1ndE9ULUtpQUN0QVpkYWlaeFdMWXI5Y3dtNHFEamNhYXNuZ3IyaEwxQkJfTno4V0MtQ2FuMTVMamhVeHMwUDRXUHFXMUJHbjBTMm5hWHV4VlI3TVFKVg?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 21:01:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "No decision yet on merchant discount rate on UPI deals - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPeFBtWVlCZjhwMTFwdi1ZaU1rRVUzRjRsN2VZR194N3NCQXhkbW9leC1naXB6N0xxUDJrYmE2Vk9QTjR3aWlvMFRiRS1zMXYxczRFTWNCX0taZVNmZUJTakRnUFI1bThjQVVJRzkxSHp2VlFxaXc5NUZCYU5HQ3R2bUc1VjloX0Q5clBfUWNOMXBkSHdfV2hDYmtIMk9EYUQtNVNYb3pjcmV5Z3lCMm9zZFJlbFVyeS1uSFhiZEpHcEpKNHdyYmthRThVR0NXQU0tOUVNclpoTWJQU0FEY3B4ZlJLdmPSAd4BQVVfeXFMTnZXVy1lMGE2UHFKX1o0T014aDF4QXJrVXdMNlVCWnpiNmhheE16YW94YmRuZnROUmgxbDZXRUFNMTFWUDlTaXhnRmthN0xpb1dNeHpENGxKOG00NnJqSTllMHBWRW03R3FiSTRvcE1UOXlLaUVIZ1NaM2R3NkhDdzYzdHZseE5FbmVWVlNhcGQ3c1FsWU50UTdlMDIyb2FwdTZPUDZreUxBWHBCY3c5SlJVN3hqVkRVbU1BOVJ6T21fQm5fM1A0ZzJxM25wOExlbHVVUmdfREt2T2FZVjRB?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:40:00 GMT"
+      "title": "Dhoot Transmission IPO Date, Review, Price, Allotment Details - IPO Watch",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Ea2o2bkFSTjQxOUFVV25DNVJwMWRyVTR4RVlQSVBLRDVFXy1EdTdteTRjV3pyVXRjMDlhcEp6WndPWl94cldBLTNTVjd5NDR2amp4RzZ3?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 21:31:16 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Power Grid approves \u20b9856.94 Cr reconductoring project for TN lines - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNnZLcGo4ZF9fSmIxTFRmZ0RFT2RoaHI2SFdjSUZZWnFCY1lrTzBDUE9fM1lrckJTeTcwOU5hNEMzUU9neGhXbkFxcnIzVWRaS05TOHpZS1Z6WlB0c2VvTnNGQmhfc3ExSWt3bzFKMjd0Nzgtd3NGbzdDSHJyMklvWjFYSV9OSFJ4d05LaVZqNkpvMzliQlNkZlZWbXlFRnBkWkdBMGR6RTJzZjdhRFJDYkZIdEpyeWlXa095cmpYcw?oc=5",
-      "pubDate": "Wed, 05 Aug 2026 19:49:57 GMT"
+      "title": "LIVE | Trump delivers key midterm message in high-stakes Las Vegas speech - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNnVRVzg3SmU4OTI5SG51NHA1X3E5MGVZV0lQdXF5N1lPTUdOblIyZG5JZURPeFQ5LXlwYVIzeGFmX2tsbnFpc3VfdWdoT293S1dLTjU3RE8xWXA3LVgtcXA2aXIyYndfejN2VmdGOEd1SVhLY3BNcXl3dVFaZkkxVmFhS00wWUd6STVpMjNqT25YTkF4dTZEcEY2dDNZUVc2S3czM1RhZGVRZmQzQU5uZnFzU1pnUlZqUm5Pd1RxS18tWnlpaTl2WmswWTVoVGc4?oc=5",
+      "pubDate": "Wed, 05 Aug 2026 21:19:19 GMT"
     }
   ],
-  "fetchedAt": 1785961641
+  "fetchedAt": 1785966514
 }
