@@ -1,6 +1,6 @@
 {
-  "fetchedAt": 1785948169,
-  "fetchedAtIso": "2026-08-05T22:12:49.097828+05:30",
+  "fetchedAt": 1785953561,
+  "fetchedAtIso": "2026-08-05T23:42:41.998080+05:30",
   "quotes": {
     "NIFTY": {
       "price": 24624.6504,
@@ -21,7 +21,7 @@
         "close": 24614.9004,
         "date": "2026-08-04"
       },
-      "ts": 1785948086,
+      "ts": 1785953487,
       "source": "yfinance"
     },
     "BANKNIFTY": {
@@ -43,7 +43,7 @@
         "close": 57907.1992,
         "date": "2026-08-04"
       },
-      "ts": 1785948087,
+      "ts": 1785953488,
       "source": "yfinance"
     },
     "INDIAVIX": {
@@ -65,19 +65,19 @@
         "close": 12.19,
         "date": "2026-08-04"
       },
-      "ts": 1785948088,
+      "ts": 1785953488,
       "source": "yfinance"
     },
     "SP500": {
-      "price": 7742.8999,
+      "price": 7743.6299,
       "prev": 7736.52,
-      "change": 6.3799,
-      "pct": 0.082,
+      "change": 7.1099,
+      "pct": 0.092,
       "todaySession": {
         "open": 7771.6201,
         "high": 7793.6802,
         "low": 7722.3599,
-        "close": 7742.8999,
+        "close": 7743.6299,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -87,19 +87,19 @@
         "close": 7736.52,
         "date": "2026-08-04"
       },
-      "ts": 1785948089,
+      "ts": 1785953489,
       "source": "yfinance"
     },
     "NASDAQ": {
-      "price": 26508.1504,
+      "price": 26464.0234,
       "prev": 26584.9902,
-      "change": -76.8398,
-      "pct": -0.289,
+      "change": -120.9668,
+      "pct": -0.455,
       "todaySession": {
         "open": 26698.0176,
         "high": 26738.9961,
         "low": 26393.6523,
-        "close": 26508.1504,
+        "close": 26464.0234,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -109,19 +109,19 @@
         "close": 26584.9902,
         "date": "2026-08-04"
       },
-      "ts": 1785948089,
+      "ts": 1785953489,
       "source": "yfinance"
     },
     "DOW": {
-      "price": 54522.1289,
+      "price": 54559.6289,
       "prev": 54085.8789,
-      "change": 436.25,
-      "pct": 0.807,
+      "change": 473.75,
+      "pct": 0.876,
       "todaySession": {
         "open": 54266.1211,
         "high": 54744.3281,
         "low": 54266.1211,
-        "close": 54522.1289,
+        "close": 54559.6289,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -131,7 +131,7 @@
         "close": 54085.8789,
         "date": "2026-08-04"
       },
-      "ts": 1785948090,
+      "ts": 1785953490,
       "source": "yfinance"
     },
     "DAX": {
@@ -153,7 +153,7 @@
         "close": 26202.3496,
         "date": "2026-08-04"
       },
-      "ts": 1785948091,
+      "ts": 1785953490,
       "source": "yfinance"
     },
     "FTSE": {
@@ -175,7 +175,7 @@
         "close": 10879.4004,
         "date": "2026-08-04"
       },
-      "ts": 1785948092,
+      "ts": 1785953491,
       "source": "yfinance"
     },
     "CAC": {
@@ -197,7 +197,7 @@
         "close": 8666.6299,
         "date": "2026-08-04"
       },
-      "ts": 1785948092,
+      "ts": 1785953491,
       "source": "yfinance"
     },
     "NIKKEI": {
@@ -219,7 +219,7 @@
         "close": 63957.5312,
         "date": "2026-08-04"
       },
-      "ts": 1785948093,
+      "ts": 1785953492,
       "source": "yfinance"
     },
     "HSI": {
@@ -241,7 +241,7 @@
         "close": 25852.9199,
         "date": "2026-08-04"
       },
-      "ts": 1785948094,
+      "ts": 1785953492,
       "source": "yfinance"
     },
     "KOSPI": {
@@ -263,19 +263,19 @@
         "close": 6358.9502,
         "date": "2026-08-04"
       },
-      "ts": 1785948095,
+      "ts": 1785953493,
       "source": "yfinance"
     },
     "DXY": {
-      "price": 99.728,
+      "price": 99.667,
       "prev": 99.89,
-      "change": -0.162,
-      "pct": -0.162,
+      "change": -0.223,
+      "pct": -0.223,
       "todaySession": {
         "open": 99.872,
         "high": 99.9,
         "low": 99.628,
-        "close": 99.728,
+        "close": 99.667,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -285,19 +285,19 @@
         "close": 99.89,
         "date": "2026-08-04"
       },
-      "ts": 1785948096,
+      "ts": 1785953493,
       "source": "yfinance"
     },
     "USDINR": {
-      "price": 95.107,
+      "price": 95.11,
       "prev": 95.3316,
-      "change": -0.2246,
-      "pct": -0.236,
+      "change": -0.2216,
+      "pct": -0.232,
       "todaySession": {
         "open": 94.92,
         "high": 95.2475,
         "low": 94.908,
-        "close": 95.107,
+        "close": 95.11,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -307,19 +307,19 @@
         "close": 95.3316,
         "date": "2026-08-04"
       },
-      "ts": 1785948096,
+      "ts": 1785953494,
       "source": "yfinance"
     },
     "EURUSD": {
-      "price": 1.1547,
+      "price": 1.1561,
       "prev": 1.1507,
-      "change": 0.004,
-      "pct": 0.348,
+      "change": 0.0053,
+      "pct": 0.464,
       "todaySession": {
         "open": 1.1534,
-        "high": 1.1559,
+        "high": 1.1562,
         "low": 1.153,
-        "close": 1.1547,
+        "close": 1.1561,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -329,19 +329,19 @@
         "close": 1.1507,
         "date": "2026-08-04"
       },
-      "ts": 1785948097,
+      "ts": 1785953494,
       "source": "yfinance"
     },
     "BRENT": {
-      "price": 79.62,
+      "price": 79.19,
       "prev": 79.36,
-      "change": 0.26,
-      "pct": 0.328,
+      "change": -0.17,
+      "pct": -0.214,
       "todaySession": {
         "open": 78.93,
         "high": 80.93,
         "low": 78.13,
-        "close": 79.62,
+        "close": 79.19,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -351,19 +351,19 @@
         "close": 79.36,
         "date": "2026-08-04"
       },
-      "ts": 1785948098,
+      "ts": 1785953495,
       "source": "yfinance"
     },
     "WTI": {
-      "price": 75.57,
+      "price": 74.91,
       "prev": 75.77,
-      "change": -0.2,
-      "pct": -0.264,
+      "change": -0.86,
+      "pct": -1.135,
       "todaySession": {
         "open": 75.17,
         "high": 76.7,
         "low": 74.24,
-        "close": 75.57,
+        "close": 74.91,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -373,19 +373,19 @@
         "close": 75.77,
         "date": "2026-08-04"
       },
-      "ts": 1785948099,
+      "ts": 1785953496,
       "source": "yfinance"
     },
     "GOLD": {
-      "price": 4301.2998,
+      "price": 4312.1001,
       "prev": 4095.3999,
-      "change": 205.8999,
-      "pct": 5.028,
+      "change": 216.7002,
+      "pct": 5.291,
       "todaySession": {
         "open": 4133.7998,
         "high": 4325.5,
         "low": 4121.6001,
-        "close": 4301.2998,
+        "close": 4312.1001,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -395,19 +395,19 @@
         "close": 4095.3999,
         "date": "2026-08-04"
       },
-      "ts": 1785948099,
+      "ts": 1785953496,
       "source": "yfinance"
     },
     "SILVER": {
-      "price": 62.335,
+      "price": 62.405,
       "prev": 60.056,
-      "change": 2.279,
-      "pct": 3.795,
+      "change": 2.349,
+      "pct": 3.911,
       "todaySession": {
         "open": 59.785,
         "high": 63.02,
         "low": 59.62,
-        "close": 62.335,
+        "close": 62.405,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -417,19 +417,19 @@
         "close": 60.056,
         "date": "2026-08-04"
       },
-      "ts": 1785948101,
+      "ts": 1785953497,
       "source": "yfinance"
     },
     "COPPER": {
-      "price": 6.7175,
+      "price": 6.7465,
       "prev": 6.6185,
-      "change": 0.099,
-      "pct": 1.496,
+      "change": 0.128,
+      "pct": 1.934,
       "todaySession": {
         "open": 6.6285,
-        "high": 6.719,
+        "high": 6.7475,
         "low": 6.6115,
-        "close": 6.7175,
+        "close": 6.7465,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -439,19 +439,19 @@
         "close": 6.6185,
         "date": "2026-08-04"
       },
-      "ts": 1785948101,
+      "ts": 1785953497,
       "source": "yfinance"
     },
     "BTC": {
-      "price": 64642.7109,
+      "price": 64658.7812,
       "prev": 64055.9531,
-      "change": 586.7578,
-      "pct": 0.916,
+      "change": 602.8281,
+      "pct": 0.941,
       "todaySession": {
         "open": 64052.5586,
-        "high": 64693.1719,
+        "high": 64701.0898,
         "low": 63869.5156,
-        "close": 64642.7109,
+        "close": 64658.7812,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -461,19 +461,19 @@
         "close": 64055.9531,
         "date": "2026-08-04"
       },
-      "ts": 1785948102,
+      "ts": 1785953498,
       "source": "yfinance"
     },
     "ETH": {
-      "price": 1891.96,
+      "price": 1915.8101,
       "prev": 1868.3859,
-      "change": 23.5741,
-      "pct": 1.262,
+      "change": 47.4242,
+      "pct": 2.538,
       "todaySession": {
         "open": 1868.3561,
-        "high": 1894.0693,
+        "high": 1917.2888,
         "low": 1857.2588,
-        "close": 1891.96,
+        "close": 1915.8101,
         "date": "2026-08-05"
       },
       "priorSession": {
@@ -483,7 +483,7 @@
         "close": 1868.3859,
         "date": "2026-08-04"
       },
-      "ts": 1785948103,
+      "ts": 1785953498,
       "source": "yfinance"
     }
   }
