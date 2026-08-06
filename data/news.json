@@ -2,33 +2,45 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Profit-taking, debt supply stall India bond rally",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/profit-taking-debt-supply-stall-india-bond-rally/articleshow/133003162.cms",
+      "pubDate": "Thu, 06 Aug 2026 17:35:14 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Exide Industries among 6 midcap stocks that hit 52-week highs &amp; surged up to 20% in a month",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/exide-industries-among-6-midcap-stocks-that-hit-52-week-highs-amp-surged-up-to-20-in-a-month/slideshow/133003139.cms",
+      "pubDate": "Thu, 06 Aug 2026 17:29:03 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Market wrap: Reliance Industries, SBI, Power Grid among top gainers and losers on Nifty and Sensex on Thursday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-reliance-industries-sbi-power-grid-among-top-gainers-and-losers-on-nifty-and-sensex-on-thursday/articleshow/133002408.cms",
+      "pubDate": "Thu, 06 Aug 2026 17:27:36 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "LIC Q1 Results: Profit rises 23% YoY to Rs 13,492 crore, NPI up 7%",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lic-q1-results-profit-rises-23-yoy-to-rs-13492-crore/articleshow/133002094.cms",
+      "pubDate": "Thu, 06 Aug 2026 17:21:18 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Indo MIM shares surge 10%, extend gains to 82% over issue price. Should investors book profits?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/indo-mim-shares-surge-10-extend-gains-to-82-over-issue-price-should-investors-book-profits/articleshow/132997743.cms",
       "pubDate": "Thu, 06 Aug 2026 15:59:30 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Indian rupee slips on importer bids, far forward premiums ease to one-month low",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-slips-on-importer-bids-far-forward-premiums-ease-to-one-month-low/articleshow/132997510.cms",
-      "pubDate": "Thu, 06 Aug 2026 15:51:45 +0530"
+      "src": "LiveMint Markets",
+      "title": "LIC Q1 Results: Net profit rises 23% YoY to  \u20b913,492 crore; VNB jumps 61%",
+      "link": "https://www.livemint.com/market/lic-q1-results-net-profit-rises-23-yoy-to-rs-13-492-crore-vnb-jumps-61-11786017351195.html",
+      "pubDate": "Thu, 06 Aug 2026 17:32:51 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Bitcoin trades near $64,000 as profit booking emerges, but bulls continue to hold control",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-trades-near-64000-as-profit-booking-emerges-but-bulls-continue-to-hold-control/articleshow/132996736.cms",
-      "pubDate": "Thu, 06 Aug 2026 15:33:34 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Global Market: SoftBank's AI strategy stays on course despite flat OpenAI valuation in Q1",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-softbanks-ai-strategy-stays-on-course-despite-flat-openai-valuation-in-q1/articleshow/132996579.cms",
-      "pubDate": "Thu, 06 Aug 2026 15:27:06 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Distortions are inevitable: Nithin Kamath explains why new closing auction is causing wild moves in Indian stocks",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/distortions-are-inevitable-nithin-kamath-explains-why-new-closing-auction-is-causing-wild-moves-in-indian-stocks/articleshow/132996405.cms",
-      "pubDate": "Thu, 06 Aug 2026 15:23:35 +0530"
+      "src": "LiveMint Markets",
+      "title": "Infra stock declares 1:1 bonus shares, raising of share capital. Details here",
+      "link": "https://www.livemint.com/market/stock-market-news/infra-stock-declares-1-1-bonus-shares-raising-of-share-capital-details-here-11786014557356.html",
+      "pubDate": "Thu, 06 Aug 2026 16:53:05 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,77 +61,65 @@
       "pubDate": "Thu, 06 Aug 2026 14:38:09 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "New closing auction rules spark delivery risks for stock option traders",
-      "link": "https://www.livemint.com/market/stock-options-expiry-closing-auction-physical-delivery-risk-11785995214248.html",
-      "pubDate": "Thu, 06 Aug 2026 14:12:53 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Trent Q1 results 2026: Net profit rises 22% YoY to  \u20b9518 crore, revenue up 18%",
-      "link": "https://www.livemint.com/market/stock-market-news/trent-q1-results-2026-net-profit-rises-22-yoy-to-518-crore-revenue-up-18-11786004405089.html",
-      "pubDate": "Thu, 06 Aug 2026 13:56:05 +0530"
+      "src": "CNBC TV18",
+      "title": "Why Signature Global slipped into a Q1 loss despite a \u20b97,300-crore revenue pipeline",
+      "link": "https://www.cnbctv18.com/business/companies/why-signature-global-slipped-into-a-q1-loss-despite-a-%25e2%2582%25b97300-crore-revenue-pipeline-19963471.htm",
+      "pubDate": "Thu, 6 Aug 2026 17:41:02 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Here's why markets closed in the green despite a weak broader market",
-      "link": "https://www.cnbctv18.com/market/heres-why-markets-closed-in-the-green-despite-a-weak-broader-market-19963329.htm",
-      "pubDate": "Thu, 6 Aug 2026 16:11:56 +0530"
+      "title": "Markets begin adjusting to new closing auction mechanism as volatility eases",
+      "link": "https://www.cnbctv18.com/market/markets-begin-adjusting-to-new-closing-auction-mechanism-as-volatility-eases-19963468.htm",
+      "pubDate": "Thu, 6 Aug 2026 17:34:03 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Weight-loss drugs have officially entered the corporate boardroom",
-      "link": "https://www.cnbctv18.com/market/weight-loss-drugs-have-officially-entered-the-corporate-boardroom-glp-1-bank-of-america-19963340.htm",
-      "pubDate": "Thu, 6 Aug 2026 16:09:54 +0530"
+      "title": "Crompton Greaves Q1 misses estimates; net profit up 15% despite commodity inflation",
+      "link": "https://www.cnbctv18.com/market/stocks/crompton-greaves-consumer-electricals-share-price-q1-misses-estimates-net-profit-up-15-despite-commodity-inflation-19963447.htm",
+      "pubDate": "Thu, 6 Aug 2026 17:27:22 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "CESC arm Purvah Green Power wins SECI award for 175 MW wind power project at \u20b93.85/kWh tariff",
-      "link": "https://www.cnbctv18.com/market/stocks/cesc-share-price-arm-purvah-green-power-wins-seci-award-for-175-mw-wind-power-project-at-rs-3-85-kwh-tariff-19963332.htm",
-      "pubDate": "Thu, 6 Aug 2026 16:02:45 +0530"
+      "title": "NCC Q1 Results: Profit rises 13% as order book crosses \u20b981,200 crore",
+      "link": "https://www.cnbctv18.com/market/earnings/ncc-q1-results-profit-rises-13-pc-as-order-book-crosses-rs-81200-crore-19963458.htm",
+      "pubDate": "Thu, 6 Aug 2026 17:25:18 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Mumbai water tunnel project: Afcons Infra bags a big order",
-      "link": "https://www.cnbctv18.com/business/companies/afcons-infrastructure-secures-rs-1918-crore-mumbai-water-tunnel-project-from-bmc-19963241.htm",
-      "pubDate": "Thu, 6 Aug 2026 15:49:45 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Gold gains marginally, silver eases: What's driving bullion in India today",
-      "link": "https://www.cnbctv18.com/market/commodities/gold-gains-marginally-silver-eases-what-is-driving-bullion-in-india-19963301.htm",
-      "pubDate": "Thu, 6 Aug 2026 15:42:23 +0530"
+      "title": "Lloyds Engineering Q1 profit more than doubles as order book swells past \u20b92,800 crore",
+      "link": "https://www.cnbctv18.com/market/lloyds-engineering-q1-profit-more-than-doubles-as-order-book-swells-past-rs-2800-crore-19963416.htm",
+      "pubDate": "Thu, 6 Aug 2026 17:22:20 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Sensex Today Ends 374 Points Higher | Nifty Above 24,600 | Navin Fluorine Up 13% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWHZ4aDdYcmtRU05pMzFUT0VUS29FajNUYmFKTVdoUzVLSDZOS3VZUWRmcm9kUkxXT3dtYVVRMkNHVE5XR2lEcW1TZzRjS1NERDRSbzJOMUphQTg5OW84clZsVV9QamFaejBOckhZSlczVUNUbHh4dkpWbUJiVnZzUjdrclp6aWdyQnMzaHRsZGxQVS11dzNhRWV6U3IxWFZIWHQ1UmFHU0tzUUpBZy1rTXQzTmlXbjZ2dXBPVXRsQVhzdzh0UVZrQVBuR1g3QnJD?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:25:13 GMT"
+      "title": "Indian IT Stocks are Booming Again\u2014And it Has Nothing to Do With Indian IT - analyticsindiamag.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaFE1dGI1bWZucWZwVnZTbkNGNWNBdXI4eWlwYWlNSUhpaEFxc0lYeXp6cDNjNXpfblEzRWZpMFVZc3NnVm5kdGtSUk9LQnlfRmlidnJFQU91anZ3bFJyWEtKajhPUUNRNVBpM2doX2dOUXBISEE1amg0aEE1OWc4MDFYYjI0bmQ5Yi15ZnRpb0M2SlhLbzNUMDBCUGVjQVpQZThwZHdYQWF1UXBSc2E3SHFNOXUzQQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 11:58:26 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SENSEX, NIFTY50 gain for second straight session led by Reliance Industries, SBI - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMlFtZzJJX2pNbjlpWERlQWlEb0p4OUF5RlRxaUVmMUtVeVdmRE1mNDhDTU05UW5kSGx0b2xrRzVPZ1ljOERnSFIwYkdoMVJPUmdIZkM1MWMzRnI3RDZ3LTh4ZmhKSW5pQmppVnBteWFRMWlFeEhOTXFoUkRvZWNhYWNlbnVvNXJjRUotRUJ0OXk0QlFZVmx3a0dDNmpwdFViYmdjMWZmWVJzeHJRMXVBU3g2NUFLREo3YU1UQUJEZzdvc3BTTVpiU1lNb2xuY1ZXUGNSTQ?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:36:30 GMT"
+      "title": "Indian Equity Markets End Higher As Green Energy Stocks Deliver Mixed Performance (06 August 2026) - SolarQuarter",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVVZDX3FOQnpMMjA5dWxDek5DbkhpVW5RLVQ2VWlDbTJGeGRyU3F0bV9UZDZmellqZFJ3NDZINm45Nkp3RkNXRGxKOWx3aXVkSEptbXNzNkFUdGdtRUlBcVFsdW5mbFp4WV9qNHp4cEhqaUQ0aFZ1ZlBrMWlLZ0otWlk1cEo3a0NpcjBMMjRVU0prZ09xZmxTUFA5X0J1WGZQV3p6cThGWDh2aGgxX1hKMW9rX3pNUzBEOEx4Vk1BZjBYaTA1SzEyVThtLWNmUQ?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:25:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Green Stocks August 6- Stocks Struggle For Footing On Slippery Ground - Saur Energy",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObXhGSnJMTFY1SEdpVDB1NmNCQ0h6UEZETmVSMlh5dHYyOFJjMGJXdGJ5QUNCYk9lVmtrczk5ZXJqYUNUdFFfV012VmVFZlBTTjVySlhpMXlGWGQwNmIwZEtmWWoxZVczNkVGZEtUUzdsLUExYmdwWV9RYjdwQ1c3UEdqY1JoZ2laTnpIX2pBUXFtV3d5NUEtVkZENWhBNXJEemVaeU9hZ3l6eXNmNXlBdVJnbExCNWpTaURDU3JCcll1Sk9ZWHhvNQ?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:31:59 GMT"
+      "title": "Quick Wrap: Nifty PSU Bank Index rises 2.20% - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaTNINDVyZHBOdUppV3VDMmZsdGFBbnNiSEJJUkRRX3o4U0ZIeGVlX2lRZTNYb3pCaEtDOXRmdUIydTd4d1pmOHlNbTNVS3pSbjMtVFpUX2xsUnhtSEhIbHhIT3d3OHhqN1NOeHZ5LXZTSElLc2JjczdMNEhHYlRleWtoVFN5U0h2XzdNYmhJUE1pOFZoa2pIUGx1SExBRmVJdTFkN0VyZVk2aHU4Zm9ZZHVhMVZnQ0RjQ0FuYnpXTjdXQdIBxwFBVV95cUxPa2pRQzAzdEtkSGdlSllqLWtlekxfUEVnQ1ByNnVUTDRqR1hWWko2U0QwajVfTkExSVhWbDZtLVkxRHVvQ3B4Y213aS1vLVY0YnlGTkw1b1djMkZGVldHTUpXQkdqYVZhZklwRHNUMUdHcmpCWWVfcl9wSHZYMkpHNHF3R041LWFvQ1FyN2d1X2FKcDNsV3o1T08zalUxTjVuQUplWVFXUHc4c0dUMGQ1M0ttRFJ0cndSdWpfUldrT0tyRzRQTUdn?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 12:01:02 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Beware of Stock Tip Operators 'Shubham' and 'Solapur Share Market Academy', Warns NSE - Moneylife",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMUp3akFhaW1YZXRFY1g4NEstSmt1dGpMR25OOEVfMkFqMW9HaXFvVkVOcllFWno5dGpqbkZmV01JSnFweXhkS01Hc2k0YWpXV0NRamlmRGJJSllHV3ZERF95U05ZNTljOFFBdW0wSEJna01ESGp4eGVsN1hWb05kaEJrMGVmMTBidGZvU0ItZHZ4ejNTemxwT3Y1Zko1d3E1RldEZ0FhVGpGZU1YWVlhR1RFM29RRk1OVllCbERna3pzQQ?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:02:17 GMT"
+      "title": "Market wrap: Reliance Industries, SBI, Power Grid among top gainers and losers on Nifty and Sensex on Thur - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxOQ19xTjdoTFFzN0I3WDZQa3JaRnZwcW5rRnBYRGlsb2pnYmdXUmhQenBRRkVUOWhuRHdZVTY2SWZlY2loR0ZFcDlteHhvNUVpVGVrVHVMZ2tZZEtPUXJLWGRmdkZpQjU1TkdSYjFYOXM5R3ZRSndHQnd1dEVnby14Q0wwb3BZMTIxU1EzX2dmSVcwSm5sZHVsR3cxN0R3SGVidjhCcDJKakxuYkhNN3VNcVUtTXk2Vkh3RWp5NVVkdlYyaFJhVFJVQS1iMWZNNHRDMzFnVkR2U2dNc2hnckFVT1k1QV9Eb3MyOEVKaDlUZmxSV1IzQnRNM2lxeDdlRVF5YWM5dXdmVmVlNkxnTy1iczBDTVpfcjVCN1kydTN5d3h2Wnpfc3pycG5WR2FNTHE2SDhlNzR3TmdmVl9TY2dnYnF6YWZ4WVhXNFBUNjJLN0daRVhuMWJHYVFsaFo1SzJ1MW55VHU1WEU5SzJmWkJtdDdMNjQzanfSAZMCQVVfeXFMTzdoZVA1UlVjanNHQXprdVFMOEN1REV0a0ZCVjBEX2NBM0pYRFVNRVV4cG1XQmpjWXRsX2h6eVJnYm4wbzd1MTZ6TjVOVU43TXhzWU1udm5oZVFKSGlJUUU0UFktRVRWaUlZQVl3bDlSYmROaVMzX3kzLXpqT2NzTm1PcEY4Vk8wYUNzUkVzd25BMDV2ellxUzJEZTNJdHFXNE50OVhndDBIZ3RSaFNVbU96U3luLVZmWk9LbEw1NzdnYk5XMXV3R2dUZ0VOZGFrbndzZWxsaURfLXdCVEJDTE9MUDVBOGFaOE9uVzJoanBYc0JZUV9TMkNfQllGQmxaVkpqbG03RDBKZEFnT3pBS2xMT2s?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 11:57:36 GMT"
     },
     {
       "src": "Google India News",
-      "title": "This Small-Cap Defence Stock Bags Fourth Consecutive Export Order; FII Stake Rises - Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMWl0YUVwSDBueGpQaFVjWHUtbExKRXBNeVRFb05zLWwtV2M2X25Pb3dtXzdXdWxPOHkzdDQ0Um1LTFJOVGp0ci1HcC1LWGJYNzdPMmdWNmdja3IzT2djVGFlSFU4N0VyYXhqN0JpUlVHSU1ubl96U1o1RzItTXg1SXhQTTFGV3JWSk03RW5GaEdJSVhSU0ZlcFcxQXI3aURQUFRpdk83MmJqM1R1NFpzMGlyR2VEZ0hYRW82SG9STDhTdw?oc=5",
-      "pubDate": "Thu, 06 Aug 2026 10:44:25 GMT"
+      "title": "Sensex climbs 374 points on buying in Reliance, ICICI Bank; Nifty ends flat - DT Next",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1BlbzhXS2J6djZfMjNxeGxSbFBrMGp2WG5fT2lFQ0lvMlhEQ05zdmJZM2hIZ005cUw0d0lBV0pwZl9OYTZkemItNlhwQzBkRXZwOV94Mmc5OWE0NWJzQlZ5cUNZRm13U09iOEZSV0tDUVpMMkpveHNLT3hBSFRSWWJoNEdWakQ1WXh1dkFXU1lGajB3WTg3YThIMUhJdFlkTW1OTnc5Vm52TE10QXfSAbsBQVVfeXFMTk1NdlhMWGRJLVB1d0Z5YmFla3dHeGZYUm1qdVBDRUEwNXFPNTBkNkMxMDliV1Q2ZXlrd2RwR1BZVi1mRDdsZ3NWeWFuWktYVk9FMmU1WFA1bkFCN0wtMS1lUmlXTnlkLXptckh0bDROcWVvNU51NnF3WDdTdFlQR2dmOVg0Y3J6MTNQbkxuSk5ORmd6ZlhsZG9PUDhWcFdFYmRfQWFTLXlNS0lqZEhWbHFpdG9ITURwazVTOA?oc=5",
+      "pubDate": "Thu, 06 Aug 2026 11:39:31 GMT"
     }
   ],
-  "fetchedAt": 1786013333
+  "fetchedAt": 1786019540
 }
