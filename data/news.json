@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-fed-hike-after-jobs-data-but-economists-still-see-case-for-tightening/articleshow/133040583.cms",
+      "pubDate": "Fri, 07 Aug 2026 23:50:08 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Dollar falls against yen, euro as weak US jobs data clouds Fed outlook",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dollar-falls-against-yen-euro-as-weak-us-jobs-data-clouds-fed-outlook/articleshow/133040262.cms",
+      "pubDate": "Fri, 07 Aug 2026 23:34:12 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Raymond Realty Q1 net profit falls 19 pc to Rs 13.43 cr on higher expenses",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/raymond-realty-q1-net-profit-falls-19-pc-to-rs-13-43-cr-on-higher-expenses/articleshow/133037906.cms",
       "pubDate": "Fri, 07 Aug 2026 21:27:29 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Fri, 07 Aug 2026 20:07:50 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Doximity shares soar 60% after CEO says its AI can outperform Anthropic",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/doximity-shares-soar-60-after-ceo-says-its-ai-can-outperform-anthropic/articleshow/133036609.cms",
-      "pubDate": "Fri, 07 Aug 2026 19:57:19 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gold hits seven-week high as weak US jobs data dents rate hike bets",
+      "link": "https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html",
+      "pubDate": "Sat, 08 Aug 2026 00:30:43 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "9 IPOs get Sebi approval as primary market pipeline gathers pace",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/9-ipos-get-sebi-approval-as-primary-market-pipeline-gathers-pace/articleshow/133036494.cms",
-      "pubDate": "Fri, 07 Aug 2026 19:49:02 +0530"
+      "src": "LiveMint Markets",
+      "title": "Equities poised for best week since April as payrolls surprise eases rate-hike concerns",
+      "link": "https://www.livemint.com/market/equities-poised-for-best-week-since-april-as-payrolls-surprise-eases-rate-hike-concerns-11786127839882.html",
+      "pubDate": "Sat, 08 Aug 2026 00:07:19 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,77 +61,65 @@
       "pubDate": "Fri, 07 Aug 2026 21:59:00 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Airbnb shares surge 16% to 4-year high on Q2 beat; full-year outlook raised for second time",
-      "link": "https://www.livemint.com/market/stock-market-news/airbnb-shares-surge-16-to-4-year-high-on-q2-beat-full-year-outlook-raised-for-second-time-11786113146220.html",
-      "pubDate": "Fri, 07 Aug 2026 20:21:19 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Pulse of the Street: Small-caps steal the show as equities extend gains",
-      "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-small-caps-steal-the-show-as-equities-extend-gains-11786106174324.html",
-      "pubDate": "Fri, 07 Aug 2026 19:44:37 +0530"
+      "src": "CNBC TV18",
+      "title": "Godawari Power and Ispat Q1 net profit rises 3% to \u20b9222 crore as revenue jumps 32%",
+      "link": "https://www.cnbctv18.com/market/stocks/godawari-power-and-ispat-share-price-q1-net-profit-rises-3-to-rs-222-crore-as-revenue-jumps-32-19964668.htm",
+      "pubDate": "Sat, 8 Aug 2026 00:16:01 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "SBI analyst concall: PSB targets $10 billion in FCNR deposits by Sept., says deposit drive won't dent margins",
-      "link": "https://www.cnbctv18.com/business/companies/sbi-analyst-concall-psb-bets-on-10-billion-dollar-fcnrb-mobilisation-sees-no-hit-to-margins-19964628.htm",
-      "pubDate": "Fri, 7 Aug 2026 23:25:44 +0530"
+      "title": "Lemon Tree Hotels Q1 profit rises 20%; expands hotel network",
+      "link": "https://www.cnbctv18.com/market/earnings/lemon-tree-hotels-q1-profit-rises-20-expands-hotel-network-19964655.htm",
+      "pubDate": "Fri, 7 Aug 2026 23:58:32 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "NTPC Green Energy secures 200 MW storage capacity under West Bengal's 500 MW BESS tender",
-      "link": "https://www.cnbctv18.com/market/stocks/ntpc-green-energy-share-price-secures-200-mw-storage-capacity-under-west-bengals-500-mw-bess-tender-19964629.htm",
-      "pubDate": "Fri, 7 Aug 2026 22:58:05 +0530"
+      "title": "Dr Reddy's ends distribution deal with Novartis India after ownership change",
+      "link": "https://www.cnbctv18.com/business/companies/dr-reddys-ends-distribution-deal-with-novartis-india-after-ownership-change-19964657.htm",
+      "pubDate": "Fri, 7 Aug 2026 23:52:28 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "PFC Q1 profit rises 2% as net interest income slips; board declares interim dividend",
-      "link": "https://www.cnbctv18.com/market/earnings/pfc-q1-profit-rises-2-as-net-interest-income-slips-board-declares-interim-dividend-19964594.htm",
-      "pubDate": "Fri, 7 Aug 2026 22:27:10 +0530"
+      "title": "PPFAS' Rajeev Thakkar defends fund strategy, says equity volatility is the price for higher long-term returns",
+      "link": "https://www.cnbctv18.com/personal-finance/ppfas-rajeev-thakkar-defends-fund-strategy-says-equity-volatility-is-the-price-for-higher-long-term-returns-19964647.htm",
+      "pubDate": "Fri, 7 Aug 2026 23:48:13 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Upcoming IPOs: Meet the 5 companies that just received SEBI approval",
-      "link": "https://www.cnbctv18.com/photos/market/upcoming-ipos-meet-the-5-companies-that-just-received-sebi-approval-19964468.htm",
-      "pubDate": "Fri, 7 Aug 2026 22:21:51 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "US stocks open higher as investors assess July jobs data",
-      "link": "https://www.cnbctv18.com/market/us-stocks-open-higher-as-investors-assess-july-jobs-data-19964571.htm",
-      "pubDate": "Fri, 7 Aug 2026 21:18:45 +0530"
+      "title": "Shriram Asset Management Company Q1 loss widens despite 12% rise in income",
+      "link": "https://www.cnbctv18.com/market/stocks/shriram-asset-management-company-share-price-q1-loss-widens-despite-12-rise-in-income-19964650.htm",
+      "pubDate": "Fri, 7 Aug 2026 23:48:44 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Sebi approves nine IPOs; Ardee Industries IPO booked 133.66x on Day 3 - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLXNsVXZPazdwNFdQRDhHWFUtb3BWbWdBY2VOaFlocFUzYVRMX25hZ2EwbU1SeEhYRFZTa0dJS3NfSnAtZWVGZUcxY0hFYktOcVJjQi1ISHpKSEUxRVNRaUdZMGdDaVpHOUJLd3Z0b0t3dTFGVmVoREpraWhZM0htNi1ld3UyUDVGQmJDMkc1WDF0Ymd0aGZqV0lGV1Zpd1B1bWFyYzRzbk1wSzJxejFIdGpvd0ZqdVJzMXdRaGN4YUFSTDRSeVJLX21RcmZZVi0t0gHWAUFVX3lxTE9nWlZzRE9xQjQ0eS1yMFVTTjEwQnEydXotZmZKWElPU2E1dF9sdG0zV01STEFXbzl0dktaXzBIY0lXcjJ6RXQ1amdlU1Z0cG9jUm1EZlNPQ1AwODdJc0x3YkpHSVhiZzlwcUFST0ttLWhhekxfQng4VEZWODZnY3d6SnJmTXc2TVIzdXZ6YWNYRUFOYWVyOWRGeGpLQUFuOUxHd0c3Mzcycm92bWFhOGIzMkZXNW9yTU5Ma0JZeERacHFjcG1KTmR6MDF6WlJRMmE5eWZjSlE?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 17:53:32 GMT"
+      "title": "3i Infotech re-files FY26 BRSR after display glitch on exchanges - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0JUd2xfTjFNZnFiUnRsdjdyd2ZQMDBRbnhOOFhtMVFQSmlhblFBUVNycV9LU0FTWmIzem5mbjc3eHhWajJLazBqRkNTSWNYWjdBaDNsaTJsQ2lBYVpETXJnN01kb0hTQXJ1YkhLSE1xZUVhZ3JLZ3FnNVhQTTNCTUktTHUzWThCQVRMT0xYVU1WZ3JLdTZoNkc2RHBXTTI3bWtKOXFWMnZtelBtVWtxM2lrYlZaYzFFb0I2Q3ln?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 19:02:26 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3 Indian Growth Stocks With High Insider Ownership Investors May Be Missing - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRkQwbUxDcWx2eS1OaHBGeHd6SjVDRlBlcEtXNm5OLUhodF8zMzFYY2VpdWJ2LU9VazhaTXBWcndibEM5REVPZFNYbjNUeFBDMFprbEFjdXFFSkdEZlFLLXpCTGJNZlNBRTVabEdfUHA4aWtpVnpoeWZrT3Mtc3FVVXE0OFFhcTZtanp1WV9ydFo5OHM1dk9reTNSZ3lkeTkxUUhFdGl2cm5PTTQ2ZS1aSzV1V0g0WWlHRTBfemh1bEhrU1J2TXRpb0RmSFh1SGR6OTdRc1FWcmNENU9OY0VQdWh2SlBRNVh3VWNnWEZpWljSAfYBQVVfeXFMT1pTQmkzZURSSUZ5M2JfVW1JeDJRUERqNHRZMlhmM1U0N2lHbnVEampGWTdaakU1QS10X2I5T0doTVI5Y2pqcEk2Z0tOSGFPTFBKd29TWHZORUk0NTdJSkNZR3k5SVBtNDNtTG1IMW83bmV4LUtEa01YMUlHU05nVTNRUjg5bVVYdTNfSWdJUG1pVE9vZkZVRjhOWkJNNEdPeEJxSVNrZEpiWmZJQ1c5cjRaRlYzQk1ObVZJcVpkSEl3aV9qV2gzWUVFYi1INWNpY2dHUk9kVWI1dGRPZURXbFN5VjhiVDI3c0YxYmtMVHVXVkJTckhn?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 17:44:44 GMT"
+      "title": "China\u2019s view of India has changed. It\u2019s time New Delhi recognized that shift - The Morning Context",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2Z0S0tXUmlZME5QTlozaWZGdHp1SkJCT2JSTnh3V19jRVowMFR5Ukc2VXFISFVCUS14QXFjenpxeU5ORG5LcEwyMTJqZzJieTEzcElESm5FcnN5dzNIQ0c2TXRSRXRrc29fZy1PNHJRak9oUTh1QWpIdUJacm5ZOG5Tc2JDc0kyRE1hWUN4NUNDUUNqR1BycmI4R0U1d0k2QnNhZU1kUVlBMGt0elE?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 19:06:39 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Hitachi Energy India uploads analyst call recording for Aug 7 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVJDbHhqV3FDYlBoTTc3eGdlUjJCemttNTN5bHM4UzJaQW9YLXhXVDRWcXNVRC1jLVJDQzBaWXlzRnprRkR5WG1SWXlJTDBoT0VkMl9Gck5YRm1NLUo5Z1lVekZNVGNqejFBT2VrOGw3NDF5MFZKOUVtMzVGN01XZ3N6NzUwZ2pUdkFHdU1EY2cxY0FvQXN2MW9HNGFVSEdMMElKOWxkQmF6S2hZeElNdE0xbmlwbXZxRFE?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 17:46:43 GMT"
+      "title": "Three from Noida lose Rs 1.4 crore in trading scams - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWDQwUkJoMVVLYWdfZzN5MkpoUzNaOS00bWVOeXYzYWdFM0YwZWFXR0hFZzUwUXRUUTR3WS1DVDdqYU5XaWNRdmNPS2RGc1pZcnh2eUVlV29HQmhLNjEtX1NEWk80aUcwaEFqMDVCYU1ZM1FJTzdDaEZ4aGpRRXpNUmdPWkxZME43U0Q5N3hiQ3JtYlRMN2hqMGFHaEZ1ZHpXNlFkc2doVkdqMmtHaC1WOXAzYlVyb2l2eWdob1lJT2Y0Z9IBxwFBVV95cUxOd1RHbVZ6MEhqdDJoWGhRU0tYRkhGOUxpci1sYlExMXl6bTlWbUcxelRkaGxMbExCYmpaNFZsc3o5S3Bmc1RucUI0RWNfTGRhU29TaFF2bGp1eEdlRW05U1NHbWNReDM3dGQwck1QQVNJY0JTMmlVdFVWNHU4c1BVZGVwemVwcUdBZDlzV3JSSzIxSURENS1aRml6dUQ1ODNHTUtxV1VybHVlX0tYUTJ4VFJRTTVwMzdUVE5NT0xDaV9ILXZ1bXdj?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 19:01:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Anandam Enterprises, Navodya Enterprises acquire 1.4% stake in Electronics Mart India - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSWR2cVk4aVZUV0tXWVUwVzk5S1lzR3ZzcEFIUjVlajNuR3pUaUhlSTVmbnA1TW5pemtya1ZpNVdrNnREdEJ3MDRtdXpzOUIycVlMUm5xdlJ0NEQ2aEJfaWpmNnViSFNnWUFGd0J4QmVDT1dQSk5vUUNOd3ZCR0N5MF95aXpwclo1Ykdyek5vaW5sVkFTQ2xrMHpRSmRDcEpsVUdYTkVMOU5hTXlHNG5PWHBYUXU5MUJBUHBsYTNDdjAwVnBRRUZfcm9SVkpTa0FFR0xGRk50YURzdjZraWs0XzZB0gHnAUFVX3lxTE43dFc3eS1BWnBRYzYwbUNsY1E1YU9FMXBVcHdGWFFoa0lMczFWbjlMQzNqY0FrWXVKQXR0dXJpNmdSd0F4UnZKZ3Zhb1J5ZGVrQjBEUGxtZWFHYmZaVTlFUEFpQTBKUDlkTVJsNWNscmRyMUhPRnRGdElucmNEQ1BFX2UyVkVQVU5mdExVOG83TE12WHVvdHNCbnRWbC1xMmhaLWRmMkg2ZGZVYUxFUVpfQ1lDTGt4am5GVWxpNTZocmFMRXVyZXJnYmRoWVN3TUxuTDNyRW9uZTZJRzRGSTFUbGlaV0c0NA?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 17:51:36 GMT"
+      "title": "India's Growing Interest in Financial Education Shows Why Classrooms Need to Evolve - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONUdPdURxRU94dHdKQy1OQ0ltVDhWWlVicGtnelNWUjlYelBoSlg4aU5TNTZOb0RiU0NzeThwM1ROeFE1UTBYVnlsTmtZT2xmRmFxenFIc2JfU0RFcHJfSTgteGFTRFdkR0duUVhRSzRRZFYtaWlWOGthWXBKSzg2YlpWTVh2dVJrTGRHVFhNZFdUdWVuRl84Z0ZWVEgyY0VpaVVWVU9GeGtXaS1lY0Y1cENHX1FfWDVMWlEyeU90U0FlSWZiV3hJdTRKbHhOT0doNDctTlFuZ3RfMVBhbWE5Tk1JT0tBSVNmZGJKTW5sbEJaR3pYRlFv0gH8AUFVX3lxTFBiaHlETGhVUDlqVl9VakNSeDdIVm82c085bEhxOGxYS0dWY1NRR0ktM0JKd3pLM09vVTB6a3hSVE05dEEzMS1vZDRhTUJQRGwyZXFEbF9ycjlzRURxT1pfUFVnQnNBek1vZjJ2azdiZjlKRWdhcjhaVk5qcF9JazFZVHJEckhiVEctMDhzSVU1d3RCSHdCMkNDT0d6UXBNbTg1SEh5a2cwM09nNjZmVjlKelJXeWVJeEs2MTlTY3NyRWl2VktvYXFUT0ZCSkw1VDZzemhZQ2pmeUUtdG1NSVFHRUFlajYxSXZsVURHWlZ6TVFZU1l3d0kxOVlOMQ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 18:45:02 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US Job data: Stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes for easier rate policy - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeTlWTHBFTUx1YXRLTmNYcGNsa1NSUTNnZFpmd1FYWV9UbTIycERweC12Y3hWd0o3alBldHJrdHFMWnhxWEptVW9iT2VSb3RXaUxHZDA4QmdsZkxiVGtpT0FES0U4VGZmcmdBNTB4VENKUDc3WllrWVJ4VXJLQmRwdExyaC1zYmQzYlg4YTBSR0ZzR2tBVVoyNV8xRXYxanNNVkh4cGJKbzlGc21vUDY1NzgzcTlCZkFHOTZFcVU5Rmo1Y0lDMmZObm11a0VkazktdWdRR21lZmJVZ2NOV2ZnX3JlZzRkU0XSAfQBQVVfeXFMTjBvZk42QmFtamo0SkxXZ1JKcWxHUUpXYXZBQ1JmazRUdlNzZ09FbmU2WU1wd2VKRFJidVE1NkNuLV9wTkd5eTkwbTNOdFFpemVia3ZDdWZXaC1maFMxMGpjV3NJdnBkWWEwSzlUUE1EeGFJMERPdF9WVXNlWkIzVXc2TGJzaEtLWk1BRjhzMk9iVXY3MGN3dWRqdXl1NGE0cGJpVV9xOUJJOXd3ZDBON1lCcWY2aGxOcG5neFZqWmRkc1ltWEtHdFFua0VIVkJRU0pUV1BOTmY4Z3lwOE1SVTBzdVd0ZzRXNGRISV9halllRWJvUQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 17:14:37 GMT"
+      "title": "Dhoot Transmission IPO GMP, Grey Market Premium Today - IPO Watch",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzRGl6THdyQkRJZGkxOF9Vc2xWMXhsV1Q2bnlUMFRLaS15dGNKc1g2Uk1abVBBaVRRVk1ROGtZcFNrbmtxeXo4Z2FBTV9NazRqNTdCUkRveE1SUHpvbVUtOVBwNHV6N0o0VDg5SC1hV3J6SWZUNmc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 19:05:25 GMT"
     }
   ],
-  "fetchedAt": 1786125984
+  "fetchedAt": 1786129914
 }
