@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Raymond Realty Q1 net profit falls 19 pc to Rs 13.43 cr on higher expenses",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/raymond-realty-q1-net-profit-falls-19-pc-to-rs-13-43-cr-on-higher-expenses/articleshow/133037906.cms",
+      "pubDate": "Fri, 07 Aug 2026 21:27:29 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Gold hits seven-week high as weak U.S. jobs data dents rate hike bets",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms",
+      "pubDate": "Fri, 07 Aug 2026 21:25:36 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Airbnb shares surge 15% to four-year high on raised forecast, AI gains",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/airbnb-shares-surge-15-to-four-year-high-on-raised-forecast-ai-gains/articleshow/133036764.cms",
       "pubDate": "Fri, 07 Aug 2026 20:07:50 +0530"
@@ -19,16 +31,10 @@
       "pubDate": "Fri, 07 Aug 2026 19:49:02 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Sebi cuts inspection load for market intermediaries, shifts focus to risk-based checks",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-cuts-inspection-load-for-market-intermediaries-shifts-focus-to-risk-based-checks/articleshow/133036043.cms",
-      "pubDate": "Fri, 07 Aug 2026 19:32:09 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "SBI Q1 profit beats estimates on strong loan growth, asset quality",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-profit-beats-estimates-on-strong-loan-growth-asset-quality/articleshow/133035822.cms",
-      "pubDate": "Fri, 07 Aug 2026 19:23:19 +0530"
+      "src": "LiveMint Markets",
+      "title": "Cupid net profit jumps 194% YoY to  \u20b944 crore in Q1 as margins expand sharply; raises FY27 guidance",
+      "link": "https://www.livemint.com/market/stock-market-news/cupid-net-profit-jumps-194-yoy-to-rs-44-crore-in-q1-as-margins-expand-sharply-raises-fy27-guidance-11786119336545.html",
+      "pubDate": "Fri, 07 Aug 2026 21:59:00 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,16 @@
       "pubDate": "Fri, 07 Aug 2026 18:33:04 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "EIH shares drop 6% after the announcement of Q1FY27 results",
-      "link": "https://www.livemint.com/market/stock-market-news/eih-shares-drop-6-after-the-announcement-of-q1fy27-results-11786103630279.html",
-      "pubDate": "Fri, 07 Aug 2026 17:51:00 +0530"
+      "src": "CNBC TV18",
+      "title": "PFC Q1 profit rises 2% as net interest income slips; board declares interim dividend",
+      "link": "https://www.cnbctv18.com/market/earnings/pfc-q1-profit-rises-2-as-net-interest-income-slips-board-declares-interim-dividend-19964594.htm",
+      "pubDate": "Fri, 7 Aug 2026 22:27:10 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Upcoming IPOs: Meet the 5 companies that just received SEBI approval",
+      "link": "https://www.cnbctv18.com/photos/market/upcoming-ipos-meet-the-5-companies-that-just-received-sebi-approval-19964468.htm",
+      "pubDate": "Fri, 7 Aug 2026 22:21:51 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -70,7 +82,7 @@
       "src": "CNBC TV18",
       "title": "Raymond Realty Q1 net profit falls 19% on upfront marketing, construction setup costs",
       "link": "https://www.cnbctv18.com/market/stocks/raymond-realty-share-price-q1-net-profit-falls-19-on-upfront-marketing-construction-setup-costs-19964564.htm",
-      "pubDate": "Fri, 7 Aug 2026 21:07:03 +0530"
+      "pubDate": "Fri, 7 Aug 2026 22:14:37 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -79,47 +91,35 @@
       "pubDate": "Fri, 7 Aug 2026 21:00:07 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "FIIs turn net buyers after brief selling spell, pump \u20b9480 crore into equities; DIIs add \u20b9236 crore",
-      "link": "https://www.cnbctv18.com/market/fiis-turn-net-buyers-after-brief-selling-spell-pump-rs-480-crore-into-equities-diis-add-rs-236-crore-19964535.htm",
-      "pubDate": "Fri, 7 Aug 2026 20:52:40 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Earnings Central: SBI, Titan, Oil India and Hindalco lead a busy Friday",
-      "link": "https://www.cnbctv18.com/market/earnings/earnings-central-sbi-titan-oil-india-and-hindalco-q1-results-lead-a-busy-friday-19964546.htm",
-      "pubDate": "Fri, 7 Aug 2026 20:27:07 +0530"
+      "src": "Google India News",
+      "title": "Indian Stock Market Weekly Review: August 3\u20137, 2026 - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMUZ6eG9uSzU3eVU4ZXYxLU5ZRkxDdUctd2xKeWRkZHR4T3EzNHFyUGFyWnZ3VHJsQXRRQkVkb1JaOXFjV1dVcUdIbXRrZ1dGem0zb1hCbXQySG40c3lTVU1sVFo4UHlBTlZ2ZWltLXlCM2tXcDJEM0VfT09ic254Tlp4Zw?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 16:54:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Share India Securities fined \u20b91 lakh by NSE Clearing for MWPL breach - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQURwb3VJM2dnZW03Q3dYaERZVnFGS2FrUVlrM1ppMTRvOG5VTnJJT3lfZ0NrTmxSX1JkRDRUbWw2ci1GXzQ5MVF0YTF6S3B3OXB1Rm53bG5uakwwQ1FRS3pfb2FjWkFtODZrbGJOMmpVYy1SS1FBSTFXVWNYZk5WeFRiSnB5UEpBTE9UemJPLWJTdFBWUGlHdWxBMkRQelhDY1RqWFJIU25WM3daUzk5TGRUcjhMTVI0all4anJGeW96UQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 15:51:10 GMT"
+      "title": "Upcoming IPOs: Meet the 5 companies that just received SEBI approval - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaUFHejhfOGpVQ2ROV0JxWEE0cWcwSkJ2WmNhMzk3MnNCOHdBUmN4TVNzR2ZFRUhaRXpENUxGTkJ3SjZQbVZ5cFhkWlNXSXJvc253QTAtUGRtekZfQUpQT2tEOVJYcVVTeDU2T3BWUE9ERl9xWVhONkw3Q2JVQ0g3ZGNNU1FOcG9felRrTnFjZ3pybno3cG8zbEdreGVkSklGYkxxLTZBbGtBaU9lV2VQSjN0RzVxT3lCbEZ30gHAAUFVX3lxTE5SVC1FRGJhVkdIZ2JzMHhoZVpJY09lejJPRUtDeFAwOWRIMWxFMVVZSW5udGZJdkRBS2hEcHlUVlFKd3hfbnU4TE1VQ0RTRFRTOXBENUo2VXlTMnQtYUloRTR2WTZ0M0hJRS02ZFRpNUhSMzR4cEZUd0d3cU5HTUw2MmVSYzFleXZaZTl0YzF3bWtLcEFWdEJpb2VlSXN4THVnYkJlbEJvMV95M3JRaWJvWUZIMUlhNmVab2FTdXowNw?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 16:51:51 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Fermenta Biotech Lists on India\u2019s National Stock Exchange - Roastbrief US",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLTU0VzRfQTZqSGFaNVI1MDVxZE9EZ21tTE5wSndhQzN0UTJ0T3RSa2o2TW5kQVhQOU5SQURTX2hhRGdGN2p3cjdXekFCQmlLeUp1Mi1laEVva2tpa3hvOVVkTkxTV3JMYlFNOVFSSkdEcl9CLTVmaE8xTkdvcldjMjhBOGVLQQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 15:24:31 GMT"
+      "title": "Sebi clears IPO plans of 9 firms, including PlaySimple Games, Garuda Aerospace, Rediff.com and Jakson Green - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc05jOExPbW1VT3dweGswTGZoNEI0WUQ5em1lcjJySk54SHNyNGFjY1hJaXdtQXd6bnBNODFNN1JsTnNja3NibHkyMjBxWnhjQk5SVTVNczVLaDJuOHlScHhIaE9sUUROaXd6amp6bjI2TzhUNkpaRmtnY2F6WTZwd2FZN09BeHVLTVUycmd6NmdvWVJVSlF1Uzk4b1pXUUNqQ2E1OVJLQTktX2thR081cE1kdFhqN3lUdlQ0elpid2UzOTM1Yy1WWVNqYloxWldpZDUwQVNhVmNMNFI4U1FvNdIB7gFBVV95cUxNU0JyRVc0NnFkRDcxUDBLb1hRRUpjUmNLRUtjN0psdkpOLWFLOVZiaW1ZMFl1eHkyTlg0T1gtUVR3d2w2RWE3TXZtVk83WG4wdW91bU82eVIyVkhqaVlkdkhUa0VEQUszblFuYjZrLXRfbHpWS3pTUG9aQmloVmdUX3ExUVpqNVRuS0k4NXItNnlzUW53SVJmZWZKZ2Y1UDlLY0cySmZSRVlEQnJSeU9ndGZuaWp1RUNLYkg1YVRXVHJuOVJTQ3ZfSUlnajQ0Vi13THh3QVBLaTdfT3BWcXlXUXloSmZLWkwweUVHR1h3?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 16:54:07 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sensex Falls 456 Points, Nifty Closes Below 24,600 as Global Tensions Weigh on Markets - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZDR6OUpzSHFjQ3o2SVQ3YmdVWVZ4RjN2SE1GZ0RhMXFDc3ZIeDlBbkxCVUh1V3ZaNkJ4ckszZFI0YzlzVjJpN3JZN29uZUNkUjJoWnhDTnk0b3pKQ0M4MURqdlBaQ2JPajJpbW9ZWm5YMl9RZGJyekdJT1JEbXlUMm4zbUdvVFUxY0NkM1AycHl3R242OFdUYk1FV0syS3E1RjVXTk1fdWUxdGtLR0w0UnRKNA?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 15:38:59 GMT"
+      "title": "Penny Stock Below Rs 10: Fintech Stock Bags Rs 37.79 Crore Order from One of India's Largest Public Sector Banks; Check Details - Dalal Street Investment Journal",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNU2pnNXBHT1FzT2tub1JNVGtWT3pOX2NTMnRSS2gzT2Y1aVlocGRBS0RoTHk5OGlFQkVEU2dqVTBZVUNkMV9oV1Y4aEpndmRfNUlFa2NvbnVyZ2FxaDc0amtIZ3loSWpySTAtMEIzWS1RdHBPclBfV2RBOVJJNjV3MG02Wml3bUlkS0E0MzhUenlwS3RObDZmWno4Wk9xMWJXcEZldDRHRFFma3lBRV9VRTFXNHJYRVJjbmhlSEo4dy1NUVc2NzdRNmdQYWZ2M09ubGlfNVhoUGJnajVVT24zT2NSWlRRdXNjYzdhZzNYY1NKMWdzRW0wTHUxc3Q2a0xyVmc?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 16:45:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "More hirings than firings: Nomura report tests \u2018ground zero\u2019; says AI creating more jobs in India than cu - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOdjlIZVVjTFZCcHAzQkRITFgyeUljMXh2X2VaLUlsR254NWN4RDlrUmlZTDRKUy1tU2xPT1lFUm5BNTBZS0QwNTF1cjl6czFINUxLNlJoVmJrRDFNWE4tUWstNzRrYVRSU1VIWlNZM05UNmV3UnU4M3kyNnB0VVZDS1FKaXctY0JLQ3loX0NhUS1SUWVFOHhtdkkxQWM0aVU3Uk5QeXBqUHhuWE45SzFXYnRDaTV3cGtSc3pVS1JDNXpidmc5WW9md0FraF93bk5HVTg1TG5nTmw3elZ6X20wRVRhY2QtcjZ6a1lxSzk3Ymx3a0prX2N3TXdsWUlsdWJXbEYwTHBPVDhzR1FNY0ZSNk5DbFNWTE820gGeAkFVX3lxTFBmOFJobi1JSkF2bGNST2QwQjAtOGt5eHV2aThQNnFRYnNBY3NHckRiMG5yOUstQl9LaWVYdTlPc0twTFRmcnJkM25taGZSMHRpdDQtN3BYeUFhX3Q3azFja0lCendjVXBYVGt1OU90U2RvMlk3ZzJ6UjVmaW1JREthZjJhNms4eElUdkl6TGJfN0VPcW5YWWxpLS1Ed3FpTTVucEpJV0drSzVjRnI5ZVNuYjNpRzJEY0hOYTh4bU41cXBwMnQ0SUQ0elh5d2R5dEtTemcycXlfTktmUGh3Ty1xelZJNmxOeHZBZkVNenEyQjFTV1JaUGNibUIyWEN2QjJoMHJjUGlwamoyYTZiTV9jdnJDREV0cjB6ZGc1cnc?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 15:41:00 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India hosts 22 AI producers, but cloud services dominate value: BIS paper - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNnFFVmdpOFNkX3ZsV2tibzJqeldvRVNQSXBFT0YyeG9QWURYZWJIRUttVy1EcnZqZTFZTWVpZUNyVVAtVFpiRmlpWmRWUHg3UmQyWGw2bEVOalhsQzNxZnFqTExvZGlJaFBZWVYtVnFpcy1HRUdrczJ6SUk2SVp4aXYtQnBROHFXVjhKZGVsNThJLS1tQllkN2k2NElHdW4zZ0VnSEc4VVJlb0dzRlhOUnJsNTkwcG83ZU05VXh0MFMxbFZ4RndHVzhwQzZyU01lQnpXNEdqemE2MUxuRk1r0gHkAUFVX3lxTE9xanVqRzdqZ1J1aVdwcUtKMUNMYzM5UmJhckJNT2ZaOTAxV2ZTUmxHekpGQ2gxZDFXcUJRbVAyM1dfRjR0c08zOFlZdzdNR0o4SmhkSFFIc1l0d01vamdnLUJjY2MzUGVtTWZoMkdWaGlncnVnOHU0OHA4SE5Mb3hIVGoxOGRPX1lrczR3QTZjSDdFZTh4T255SlhCVFFFNTdqR19QUmpscEMyZElQdzFnMjVOTFZMemJUU2Utc1ZVQm9mTVdHc3NnU0M5VU5uem1Va2t0WC03aTFmVTVsRHZiYVk4Rw?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 16:04:33 GMT"
+      "title": "KPI Green Energy to host analyst meet at Emkay Confluence 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMVJLUC1vbU16TXFOWXFnaEFOMDNxb0xuTG1IS2N3YTVVT2ZMbC1sOE1XcjBqMWVhYUhPMEhrbDJrT3dqRXR1VFR3OHBSR2p4d2ZyWFJ0Q2Vham9WNTZwU0pmWm5JSGlzY0RSZUQ4b2xoY0twVVRSQzNxbUNiLW1vc3V4WmdFVDlva0h1MFBJc1NOSU54RTI0SWlPZVNNTTV1RHM2QkNQVGFMNmMzUEd5LS00cEdMU1pCcFRJ?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 16:56:46 GMT"
     }
   ],
-  "fetchedAt": 1786119119
+  "fetchedAt": 1786122740
 }
