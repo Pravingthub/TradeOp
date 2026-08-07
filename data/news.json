@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
+      "pubDate": "Sat, 08 Aug 2026 01:38:04 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/market-cuts-odds-of-fed-hike-after-jobs-data-but-economists-still-see-case-for-tightening/articleshow/133040583.cms",
       "pubDate": "Fri, 07 Aug 2026 23:50:08 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Fri, 07 Aug 2026 21:25:36 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Airbnb shares surge 15% to four-year high on raised forecast, AI gains",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/airbnb-shares-surge-15-to-four-year-high-on-raised-forecast-ai-gains/articleshow/133036764.cms",
-      "pubDate": "Fri, 07 Aug 2026 20:07:50 +0530"
+      "src": "LiveMint Markets",
+      "title": "Short-Term Treasuries Cap Biggest Weekly Rally Since May on Data",
+      "link": "https://www.livemint.com/market/shortterm-treasuries-cap-biggest-weekly-rally-since-may-on-data-11786134305338.html",
+      "pubDate": "Sat, 08 Aug 2026 01:55:04 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -53,12 +59,6 @@
       "title": "Sebi to cut routine checks by two-thirds, focus on high-risk players",
       "link": "https://www.livemint.com/market/sebi-inspections-high-risk-intermediaries-brokers-equity-market-11786108148578.html",
       "pubDate": "Fri, 07 Aug 2026 22:51:17 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Weekly Winner: Ujaas Energy jumps 68% this week as upbeat Q1 earnings fuel buying",
-      "link": "https://www.livemint.com/market/stock-market-news/weekly-winner-ujaas-energy-jumps-68-this-week-as-upbeat-q1-earnings-fuel-buying-11786120993442.html",
-      "pubDate": "Fri, 07 Aug 2026 22:47:40 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Sensex, Nifty Set for Weak Open as Iran's Hormuz Threat Sends Oil Past $83 - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HaEtUQzN0MlNZZjhGdFVPYTNPSjlOZURuLXpfbnctdlVYVDBJY2pXVV9INGk1VGVzcWtvTjRtZWNwNE4ta1d3XzlHWHlaWFJRYS1BQ3Zwbm0wbUpGVzRJeVJRaUFodzFHUHU4YndicFhVR3VESGc?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 18:57:00 GMT"
+      "title": "Has the AI Bubble Burst? Impact on Indian Stock Market - sahi.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5xUjUzNDZhU18yZG0wVVprSURUYUNZd3dnbm50WTA0a2RoZ2laRHV6Z3BuVDNacHRTLUJUaGNLbk5RdlB4UHR3RVRWdTJremQyRnpwMEg2OWVVSlc2cU1ZVDJsc0dtazUzT1gxbUY1eXkxaXhlVE5YZw?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 20:07:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "LEAP India IPO Date, Review, Price, Allotment Details - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85Wm5STnB0Y0Z0aTBzWXZrZEpmLVZyYldGMnRuSkZJVzZycFVMSDRCWWM4S3JqaGsyVS1DZnpxbnFRWFUxMGh0MHRxSQ?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 19:37:40 GMT"
+      "title": "Sensex Today | Stock Market Live: Sensex falls nearly 450 pts, Nifty near 24,550; IT, auto stocks bu - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTEhSWGdoeE5hRU5kN1Vqc2E4aUpVSTlYa0VaM2s5OVZCZGhKUTRPTEFZUWJIeWlKb1VJV3BudHdObzBYOUlpelpzeTZCdDFMQkpsb3hfX09DbWJ6OVJXNV85V2NaaXBGTEh6VmJPZGN4dWk0dzlab3lfUjh4WHJMSmhxQzV0VzMzbVNIOS1MNmdVbk01TmhRSVlaVTd4ZHdhTG5fcmJ1SG1LUzdpeUR4NEdMaFlRWVdZakhQdnByU0ZraDdyR1ZFeg?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 20:02:08 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3i Infotech re-files FY26 BRSR after display glitch on exchanges - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNY0JUd2xfTjFNZnFiUnRsdjdyd2ZQMDBRbnhOOFhtMVFQSmlhblFBUVNycV9LU0FTWmIzem5mbjc3eHhWajJLazBqRkNTSWNYWjdBaDNsaTJsQ2lBYVpETXJnN01kb0hTQXJ1YkhLSE1xZUVhZ3JLZ3FnNVhQTTNCTUktTHUzWThCQVRMT0xYVU1WZ3JLdTZoNkc2RHBXTTI3bWtKOXFWMnZtelBtVWtxM2lrYlZaYzFFb0I2Q3ln?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 19:02:26 GMT"
+      "title": "Stock Market Close: Sensex declines 456 pts, Nifty at 24,571 as West Asia tension weighs - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEFZN2NmbnZLNTBmWHBydVVIcGxjR1BWdk1DX1MxV0hRZGwyNU1PeEhacXVvQ1lpVUhtT25vTGxUOU5RWTZNTEx6SXB5Vm9nOVJ3Qng3NmJhaE00TUNLZ1oydTJvb2RDNk5mWmtTNktFb05OSEg1bW1rNGtmRjlRazRQVVNJamhWZllOaThSWkthcnhELXZvQnZCX0R2bjFLbndFN1ZkaFBJQ3o3cFJ2b1dFODZNUE9UVV8xUThn?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 20:02:08 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India begins efforts to join French-led sixth-generation fighter jet programme - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNdkF6eVYybTBKSXdTWDlCdkR3MHpPZmUwTXVxWEVfQTVBMWNBU1Y1SWpQcjcxNEp0Rk1VYTVrZkdjTEV5MUNHRmVpNmY0NTlTdVBiLXU5bGFmUWhXTkt1SzV6UDdpbl96S1g3OWFtWFY2enUzTklHY2o4VGtSdjEyZEtXaEhuT19ySDhfQVhsOVRoS1hlMFZiX0J5UF9iOWR6eGFhVHR6NzUxYzNyN2QtSGNMRHVDUzBiWE9NQnV5X3UyZVd2WncxZ1RlNDdwVk95SGM2NkdlNHRNMzJWNTJPc09YYmx2OG03cTF0RWUtWFlGeWZsT1FKZzVJcXduTFZxQ2UxSWcxV0x2TlNxb0tJdXlOVHN6QWxuV3ZsVVVlcGdmcGNrbnFwbXpkaWVHcF9PakVhNFBEMFd4d3Y2alZtYjBFT1d3eGvSAeMBQVVfeXFMUEtPalZGOVVkeVQyNGpnam5odzZ5d2JjclFXNUdrOHRQbzdHSlUxcWlTSUw5Nm9maFhpQU82Xy0tX2RETHlIYUNwS1lLRjloX2Z6b2R2cjdHbkpsdHpFMzhXQlNPM3lzT2JUcnNERV9yNnA0QXRpdFE2bmJuX1VGbklmSlBkY293Ql9EYUVjRVJMR0Vrb0tGTFF6T0pqclZVMFlobHJnakRLVFpTX21oSllRTVdLZ0JtX095b3JkMUxKcEg4QnVMb2l1TzZ4elZaYndvV0wyNElYX2RINFV4MnRhR3c?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 19:12:20 GMT"
+      "title": "Zen Technologies sends physical letters for FY26 annual report access - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcEJfbTQwbVBaSWc1eTFoMmpUVzk4SkxGR3BqVDh5TnJYb1pLdjdULWhmU2VqV1dxS3BkQUxDSGxYZC1hX3BTQzUyR2J4ai11S2VQZFA2anJkZ3lUdUx2OFpQTnNFS3dUakdIZ3B6R014M3BBcnhOeU5qNnVGUjNJNHl1NTFRNkxDYXRqcm84TTVmR2xNZkVCOFpvV0VubXpqcnItLXFjWkRVaDBsV1VENmpLSl9QUks5cU5aLWhtMmdwdmYz?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 20:17:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "China\u2019s view of India has changed. It\u2019s time New Delhi recognized that shift - The Morning Context",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU2Z0S0tXUmlZME5QTlozaWZGdHp1SkJCT2JSTnh3V19jRVowMFR5Ukc2VXFISFVCUS14QXFjenpxeU5ORG5LcEwyMTJqZzJieTEzcElESm5FcnN5dzNIQ0c2TXRSRXRrc29fZy1PNHJRak9oUTh1QWpIdUJacm5ZOG5Tc2JDc0kyRE1hWUN4NUNDUUNqR1BycmI4R0U1d0k2QnNhZU1kUVlBMGt0elE?oc=5",
-      "pubDate": "Fri, 07 Aug 2026 19:06:39 GMT"
+      "title": "High on India growth, Diageo gives region 'Standalone' tag - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQcm1BTjdOT0xGNTNGQzdMeGZFZTJtcVlfdnJHVGNCQkQ2S0VkTmMtbVNKNEhaTXdPRTNXYXREaVlGZ0lHYzFYNDYtS19hU0xEbV9BTm1RSkVnUVFmRDMzNElKQUdlX1ZTSy02U18yUTRmSHdabzNCRnZzaThQb3lRb3RPRWZtZzQ0eDhWMnFwajFEMFNMY3VmSmg5UHZYV0RERkdINDdZTFh3eWJkSnZPUmdwMldHWW1zRVQ1ODZfeDFKazczd2tTTWFYazJ3dkU3QlQ1ak9wVXI4bWVjbXpiSzRSNWdRaDRWaEZkbm9VTFNOeXlOTVpKd1hVWlVpTE52SmYyOHVfamNBbUNfLUdXY0dSbGgyX1hnaDhoSXhHNnV6bDlYTVFWUEVUMzRueFJET1ZvTzkxOG11bFV4YXN30gHbAUFVX3lxTE5oM1NZQjRocU92NW1kWHM3MWVRMVgtSXVwQkg4cmJwSFhUUXRIVkR2YXoxMjhNVXVINUlFaXA1VF9tX1lsMmJxNHNvZDFkb2pEUTZwMkFoeGI0UmVUOUtFRlB3U0k1d0pWX1ZkS0xVOFZFRVdYUHJxTXpYWktwa3E3MGVmRjlHc0dyNVBIbk9TdW1GRkFOVE90RTQ2dWJyNW9Mc2d6dkJtZ2F3Ulh1WWx4U3haeUt3TVVqbHk0d3RocldqQWNYNFdneDNOZk1RV3hITklvYktTMzZEbw?oc=5",
+      "pubDate": "Fri, 07 Aug 2026 19:48:46 GMT"
     }
   ],
-  "fetchedAt": 1786132397
+  "fetchedAt": 1786135306
 }
