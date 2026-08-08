@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "D-Street overcomes CAS pain to post weekly gains",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-overcomes-cas-pain-to-post-weekly-gains/articleshow/133046028.cms",
+      "pubDate": "Sat, 08 Aug 2026 09:19:50 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: S&amp;P closes at record high as soft jobs report eases rate-hike concerns",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
       "pubDate": "Sat, 08 Aug 2026 01:38:04 +0530"
@@ -25,10 +31,16 @@
       "pubDate": "Fri, 07 Aug 2026 21:27:29 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Gold hits seven-week high as weak U.S. jobs data dents rate hike bets",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-seven-week-high-as-weak-u-s-jobs-data-dents-rate-hike-bets/articleshow/133037877.cms",
-      "pubDate": "Fri, 07 Aug 2026 21:25:36 +0530"
+      "src": "LiveMint Markets",
+      "title": "SBI Q1FY27 results beat market estimates. Is this a stock to buy?",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-share-price-sbi-q1-results-2026-beat-market-estimates-is-this-a-stock-to-buy-11786157865622.html",
+      "pubDate": "Sat, 08 Aug 2026 09:25:56 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Buy or sell: Sumeet Bagadia recommends three stocks to buy on Monday \u2014 10 August 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-sumeet-bagadia-recommends-three-stocks-to-buy-on-monday-10-august-2026-11786154773920.html",
+      "pubDate": "Sat, 08 Aug 2026 08:11:54 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -49,16 +61,10 @@
       "pubDate": "Sat, 08 Aug 2026 00:58:10 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Gold hits seven-week high as weak US jobs data dents rate hike bets",
-      "link": "https://www.livemint.com/market/gold-hits-seven-week-high-as-weak-us-jobs-data-dents-rate-hike-bets-11786129243519.html",
-      "pubDate": "Sat, 08 Aug 2026 00:30:43 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Equities poised for best week since April as payrolls surprise eases rate-hike concerns",
-      "link": "https://www.livemint.com/market/equities-poised-for-best-week-since-april-as-payrolls-surprise-eases-rate-hike-concerns-11786127839882.html",
-      "pubDate": "Sat, 08 Aug 2026 00:07:19 +0530"
+      "src": "CNBC TV18",
+      "title": "US markets close higher; S&P 500 has best week since April",
+      "link": "https://www.cnbctv18.com/market/us-markets-close-higher-sp-500-has-best-week-since-april-19964686.htm",
+      "pubDate": "Sat, 8 Aug 2026 08:43:14 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -85,41 +91,35 @@
       "pubDate": "Fri, 7 Aug 2026 23:52:28 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "PPFAS' Rajeev Thakkar defends fund strategy, says equity volatility is the price for higher long-term returns",
-      "link": "https://www.cnbctv18.com/personal-finance/ppfas-rajeev-thakkar-defends-fund-strategy-says-equity-volatility-is-the-price-for-higher-long-term-returns-19964647.htm",
-      "pubDate": "Fri, 7 Aug 2026 23:48:13 +0530"
+      "src": "Google India News",
+      "title": "SGX to Drop India-Linked Single-Stock Futures - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQYUJUR0FNYUswNnVrUGFWMDh4aUI3b281R0JDUzVtZlJsT3dQTUhiZWRnZVBNdlVSQ0hkd25ndkxiaUZyc3l5X1FXT2dxREZzQTNDdTRJcjFjdGdFbU91bXRRXzBmQlNpZ21TRjNjUFhiWTJ4c0dCTEF4bUlYWERrZDZ1RTVZS19wLUdsbUthN296T3YzYXpDb2NhU3VSVEhOTnpqZm10WUlUS2VCdTBpd2xtYkFnc0FRSExVY0l0NW9NejdtWVBpQ3FKVlpPZm10NXR1Vk5ZcmR3UXktM0Iwd2N4REpSVTJ4cGhtVEI0U3diTkFQSlpubHBDNFB3OE5QM2Q3bkNrdEZCVFRTOFlyenFmZWNHanRrcTEwUWpVb29SYWg40gHAAUFVX3lxTE1KS29kdVRRcWk4X1F2czB4elk2Q3hsN2RmSXJQQWE1YmtOdnNzZjR3WWtiSmV6aHJSVHdXVm9PZEFSWlNnX0xxZTViTTlGLVBMRUZwa1VKN3FKbFhzYWxLaERHTzF6Zng0UG5BVFNvVWd2NXU4Nnl4OTUxd0FGRnUwcDU5MW5NbzZaMUpZdUhycnh6ZDFMSkxFWXg0MDVodkxDakl3Q1cwZTc5NTN3UW1ub3VMclU0RWRXX2p4bTA3bw?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 03:59:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock markets decline dragged by banks, high crude oil prices - The Shillong Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYTRibnU4NzFFTHhFTzdrMjFNWllDZ2ZkU3ZTcjByNzA0NUhWdkx0Q3RIQUZZVElkTmFiOTE0NXpwN21XN0RvTmNFcC1CWjlNSWkzM0o0Tld4Tndtajl6eUJTa2hWcTc4VUVyQ3hpX05QeWhzcVFYV1JxcnpYR2NfdzZid2tKb0VnYWE1S0FUakkwVk5PUHlxeE5YaDZhRjJiMzdV?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 01:26:22 GMT"
+      "title": "Karnataka to teach banking, investments and stock markets in 956 public schools - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNLXdrc0I5enJfdGZMbHhBeXJsNlMtclJVYW1oRjlGT2VSNVByNk5OQndjX0hqMmZyaFNYSENzbU5MdTQtdFM4ZmdRSWpKN3VfRTc3WjdrN09WeTVWUHUwbm5vejVldEFtRFdTRlkyc25mdFljTG5vSkRRT0JvbWk0bFJlbEdxUUdaVmlQQVB5TjFTZFZkbEdnYkFfN3ZUNkNnUmxQVTdzSVFOSVM5MklwNXpjS3A5bGh2S0JZNUVSNHlsZTBMUDczRDA3M2I0VmxIenRSR1pBbElFcDd4Ujd3U29IeErSAeQBQVVfeXFMTS13a3NCOXpyX3RmTGx4QXlybDZTLXJSVWFtaEY5Rk9lUjVQcjZOTkJ3Y19IajJmcmhTWEhDc21OTHU0LXRTOGZnUUlqSjd1X0U3N1o3azdPVnk1VlB1MG5ub3o1ZXRBbURXU0ZZMnNuZnRZY0xub0pEUU9Cb21pNGxSZWxHcVFHWlZpUEFQeU4xU2RWZGxHZ2JBXzd2VDZDZ1JsUFU3c0lRTklTOTJJcDV6Y0twOWxodktCWTVFUjR5bGUwTFA3M0QwNzNiNFZsSHp0UkdaQWxJRXA3eFI3d1NvSHhK?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 03:18:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "What are the pros and cons of investing in Ather Energy? - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ1FoX0J1Yl9iWU44TlJxenh0SGI2TlhVSDM2Y3VKVnhtZUdJYjIxS182SHpiUDk5blo4ZjhGNzVycGJSaGFyS0dRRGdPYUlQY1BSM2w5NF9lX01INUp6anRHaTNVVU9rTUxFVUVVZXJxYzFNVk5pQWd3Zkk0SmZQY0l1ZHJQMUZMT2ZIeHUydXVhTHNtWDlsWFR1TXlYcnpLWjN3ZnAzd1N1LXJlYVBXUjdiQkpUYWFHdUVPbXA4QdIBxAFBVV95cUxQS1JCaF9DRklpN3RGQzVueW44NUF4QkxKT0lzeDU3emZ2VnpEcF85ZEY0RXFTQ0QtWEx2eXVVNGhNQXo0Q0tneF9xQmNjdlE1MFJnUUxLRzd4VFJkQ01XV0dUaW8xcFIyWGZBUmZQUHk2RTFCQUxzdTNaWU9UcEFRYlY5cW9TdkhpMFdVTV84bGVWRFpMcUtEY2lxQzZRM1dIYWoxX0JSeUpkbnlNMEh0VGRiajljRWZ2b0NDZi02S1pNbVgz?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 01:30:53 GMT"
+      "title": "SBI Mutual Fund launches second SIF strategy focused on stocks beyond top 100 - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSE05TWdvVG9HSU9zWDdtb29ZMkRsaWw0QVZZbG5ZQWZrT3JqM1ljRXlxal9naFJjNmZQZ29VYTNYc3BhRFd3MHQ3OWRmazBkY0c5UDdWUTE1ZVVMNEF6UWE5cGZ6MWxWWUlXenhNSkVTYzdTUFdGVFNPU1AyWkJxbUFWWnhUaERnWENBMUFqVEwtM2Q4eWhTeXlDQkt3R2pNNzNqQmhNMGcxY096dTVwV053d2xqVy1VY01jbzNLQnFwUzFJSHVQZjFkQjFrbDAwWlFnZE9nYVpsZ9IB3wFBVV95cUxPVXJFOERvMi1NMlJDYXZrRWpTeGtTNHN4cFQ1eU44M3RQZkdKYnVHUDluTDVxLUw3NTNGNFJ5U2szUV91ekx6UHVFOGdPdHk2aEhfY2hZZmxrYnZ2N1NyRWhIX1ZveEJiblNnYmlXQ3l0alBOb2lDSDhCRlVRNm5UM1pPMndmaGN1cXVzbWw4MXYtbjVQTjJZUEdCZzI5NUJJWEJERGxrdE4yVXBmeXcyV1k4aE5qWU05ZVh0aVlrMEVNeENtQ2V1SVZkSHU1b2dhaUZWQmFHT0h3eTBHaWdV?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 03:41:27 GMT"
     },
     {
       "src": "Google India News",
-      "title": "LEAP India IPO Date, Review, Price, Allotment Details - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE85Wm5STnB0Y0Z0aTBzWXZrZEpmLVZyYldGMnRuSkZJVzZycFVMSDRCWWM4S3JqaGsyVS1DZnpxbnFRWFUxMGh0MHRxSQ?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 01:45:45 GMT"
+      "title": "SBI Q1FY27 results beat market estimates. Is this a stock to buy? - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOcHBDWTFhZEpjM2xzYnU0UjAtWTc4MTRTb3E2M2RTQWwzTFRtb1U1NzR4TzJPNEJJeEVmOExmT2JTWEF1Ny1LZEcyTUFUUHhIOFhld25VTTdOSzZ5cmFJaE1wc3ptZlNvbE1ON0h5V2JCSDRWS1ZaSzN0X1hvbklVQlZ0bnkwODhET2pfSjJ0clZEaVk1dUk5X1RmdElQclg4NkN3WWZWZnFQaGpXTk5zcWZUUFdZTlFjaDA1NjRELVA4YTF2R19aX3VLUURyajUzd0xTenJrcHNnLWFZS19uSm5tUWzSAeoBQVVfeXFMTTQ5Zm9IMzc5dENCSDFlMW1kaFZ2MlpCanBaeVJuejlwaERRMk1PWnlNaXhaRTkxaU9PVTRNWlVLWHYwSVJWWXFjZmtMZmxiSFg0M0ZyM0pMa0k5cFJveEN5Z1Z3a0ozeVJLaTE1Sy1KaTJzUURGcFFiYnc3Tk5XU3pncldzS3RhWXZBREhJTmQ4TXFVb0tvUlZuQW1IQlFyOUNhQnZMSXEwNXRCNDFfODREaFp0WHFxeW9NSnlGU0kyalpPQlNwN2lHN0dXRWVyNEhaZlFmMnAwWWc1aVZPX2pGdGNuRXRDdVlB?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 03:55:56 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Apple (AAPL) Tops $10 Billion in India Sales, But Wall Street\u2019s Focus Is on Supply Constraints and Margins - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcEN2ZGtOem9sa3pOZzJqWUN3Smxpa2czOTVBNVFSbjVyZE14TC1FY1NwS3hTaXFqQXZiX2ZtSDZtY1dUVU9hcF84XzN2RDVlaFZkWVRUQzRzMmRyVEpaWVNtVlZGYlJyNzZXLXlwUTQ0YXM4RzhNamVpM28zQ0xzODlHZW1CRC1IRkU3d0QzQkJFRHVHQ3c?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 01:13:00 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Godrej Consumer shareholders approve Sitapati\u2019s five-year MD & CEO term - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLW9EbEtYZWVsSVhtX2wzQ3NDaHk5RlFfR2x5ejNDcTBxXzEtN1huM0lkZFo4MUJBSmVDdU42ektZZ0JQQnlUVnhkTHBFZ2JaS2psLXNRRVh0VHZBUmFDQjM0VmxyOWFrWTFfeGZhWEpCY2QwT0t3ZFNhSUc4MGFmTFpUajUwc0lCeEtFNnpNVWRmUXZnRGJtUWRNbEFuTk40TUFaVHlacWZna1ZpYkFuYWM0ZnJ4dDBvSExDc2x5c3BPV01GUEU0?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 01:33:35 GMT"
+      "title": "4 Beaten Down PSU Stocks with Strong Growth Plans - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zdFZvcEVWcEJzMHZhdmFNNG83bWpqbjc5ZUk5d1VlakpPV2JJM0dJUGlZUERQQldLTFpHZWhwQ1Izc1ZxNEgyam4yNk5rLVA5STRaZjE1b21mSlJaUHdIWGtscnprYUVXSlJ4SQ?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 03:30:00 GMT"
     }
   ],
-  "fetchedAt": 1786154846
+  "fetchedAt": 1786162609
 }
