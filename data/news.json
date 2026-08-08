@@ -62,6 +62,24 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Ceigall India Q1 results: Margin, profit improves, company announces record date for final dividend",
+      "link": "https://www.cnbctv18.com/market/ceigall-india-q1-results-margin-profit-improves-company-announces-record-date-for-final-dividend-share-price-revenue-ebitda-19964792.htm",
+      "pubDate": "Sat, 8 Aug 2026 15:49:28 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Nitin Spinners Q1 results: Profit surges 84% as margins widen on higher EBITDA",
+      "link": "https://www.cnbctv18.com/market/earnings/nitin-spinners-q1-results-profit-surges-84-pc-as-margins-widen-on-higher-ebitda-19964790.htm",
+      "pubDate": "Sat, 8 Aug 2026 15:39:24 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Greenpanel Industries Q1 results: Plywood maker increases revenue, EBITDA, turns profitable YoY",
+      "link": "https://www.cnbctv18.com/market/greenpanel-industries-q1-results-plywood-maker-increases-revenue-ebitda-turns-profitable-yoy-19964785.htm",
+      "pubDate": "Sat, 8 Aug 2026 15:16:10 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Eveready Industries Q1 results: Profit jumps 23% as revenue rises, margin holds steady",
       "link": "https://www.cnbctv18.com/market/earnings/eveready-industries-q1-results-profit-jumps-23-pc-as-revenue-rises-margin-holds-steady-19964770.htm",
       "pubDate": "Sat, 8 Aug 2026 14:54:13 +0530"
@@ -73,53 +91,35 @@
       "pubDate": "Sat, 8 Aug 2026 14:15:07 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Ambika Cotton Q1 results: Profit jumps 61% as revenue, margins improve",
-      "link": "https://www.cnbctv18.com/market/earnings/ambika-cotton-q1-results-profit-jumps-61-pc-as-revenue-margins-improve-19964756.htm",
-      "pubDate": "Sat, 8 Aug 2026 14:01:35 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Emcure Pharma receives USFDA EIR for Sanand facility; regulator classifies it as 'VAI'; here's what it means",
-      "link": "https://www.cnbctv18.com/market/emcure-pharma-receives-usfda-eir-for-sanand-facility-regulator-classifies-it-as-vai-heres-what-it-means-share-price-19964741.htm",
-      "pubDate": "Sat, 8 Aug 2026 13:41:51 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "NMDC pegs iron ore prices at \u20b95,250 and \u20b94,500 per tonne",
-      "link": "https://www.cnbctv18.com/market/nmdc-puts-iron-ore-prices-at-5250-and-4500-per-ton-19964720.htm",
-      "pubDate": "Sat, 8 Aug 2026 11:36:48 +0530"
+      "src": "Google India News",
+      "title": "Not a moon crash, but AI sends SpaceX shares spiralling 14% lower on Wall Street. What lies ahead? - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQUUlYaHVMZVJlTWhBR1lYSmNhSEtkYjk0QlQxd3BrUUU4S25ibU1BM3dId3pXWHY3SWFxYWpzb1hnWmNVNDNoMUtnM0lnM2M3aHI0QmdHaV90MmhwTWFKN2plWEhNMGZoNDIwd3FpY0IwUG1GcDYwZ283Tnhlb05QcGlLZ0JzRnBIaU9JSzZSY1RlMzhUOWk5WW1YQl9LWVhRbzJkcTlJc2p6ZzhicUN3Y19ycFBFeEZITEtOMDVUN3pWelhCcmktejJMRGtHc1B6Q0EzNTZuUWszYU1oWV9ueUstWXY4SVNfang5YlBlUTc0X1duaXhseHF5R29VZDltdXpsOHZRclhPTVB2bGNZOXR30gGXAkFVX3lxTE1aUDIwY3VJVU5uajRmb3ZNaEx3WTA3V2N6QkZwaDRUT3hpaDhxUUlwampaeDlwMFE0ejN3XzhZWkR3VFNIOUROdkZMLXk3MEE5R25mSTdSYmFNLXlFZTlNSk5yaG1uZllvUnczRnJZWnpSazF1Q3gwRS1iaURkWFBIVko1X3d5Q1JrUlV4akRzQUM3bm1ESVpoMFo2Mnd3V3F0ME9VVm13WW9FTUZMTEtOV09kMFQxV3NfQ0R3STRPSXRBZkYtNk0tcEUyTlVsVDlkTm9WTU0zaHp1WFNSWUN5bHpSYmxEcUpOWnhVblZCZTl3S0h5WVV2cmYxQU04aXEyNEVGZk5hYlA3Wk85VTV5TzZVdVBZWQ?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 10:29:10 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Explained: How BSE traded fewer contracts after CAS but premiums rose 75% in first week - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQeHJXc201ZVNhZzgwZXp5UmNoRHhXN2doUGdTSHRzSE93R214dExJeFFOUk04RDJMRDRkY3hiMkNMajFTMVRJUXhBdXI2eWRFZTdIMUNHTW9TaGlQb29XaUQzNEZ0UE1BOG85NlhuamZiNDVXNDZhOUhBNVFXUVhBbmFkY2tyZUZlQ1d5bWtHQm9xaTBjSFYtMFNpVlBCRHNzT2dXWnJGNTktdUNKOHl4bTdZdEF2Mm5vSWl4Ukx4V3k2c2pubVl0ell6TWdoSmF5WFl3a1B4Z25Sd3JDTGNqS01ieWJHUkc3MDZ6akM4SHnSAfYBQVVfeXFMTVlLWlJDSWlmR0dFZWdvd2psOGtXWEhOcGxRY3BxOXhBa2UtajM0X2tDaWJaYWJSOUR2em5sWlJFWEJmWS1IZ0FKRVZHWTlVc19mSXA2Z2t0eUxwWncwSmZmVk9RVl9QWEVQR05PNDk3TzJfVUxnRkpGR21UNlhmYTJ3OUlrekhzbHBmc0NBT0x1Ul9NU1QxVWJNXzhLRDBNV1BFWWstdHF5TXpRakh5OVZKMXlscFZOUmRqdnlvaS1mQzdtMXlkcm4wT21Oak9EcGhIdUMyVHRBcURKMi1Ja3FmeXVlRjFlQ2FtUVg0QWRCTzhjd1NR?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 09:14:12 GMT"
+      "title": "Medi Assist fixes Sep 11 record date for \u20b92 final dividend - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNFZuR2lqWHk3ajMySnlQelJxRkRfWG1RWS01Wk0xeF92TUhsWl9VYkY4VV84akgtcDNaX0FOVzA0OUlHdElES3ppZlBlcnVsMHhSOVZHT25DS2RySmZhd2dCUlFlcEx1a3V0TFMxSW82ektOWE5odHd6Y2hRZk93VmNiUnhDUnN3Y0QzTEdCcTlCWlV6YUhSeFVMTXhQSndDRC1uSEJ0NGNmb1hLOFl1RzdneHA?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 10:27:10 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India Nippon Electricals Q1FY27 net profit rises 16% to \u20b9270.3 cr - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUmFxaFZPWkt4MzZOVV90bDZqRnNnSGJvRUo1YTVJYWlYN0g2YXNrT1k3bGZrQWRWTWV5UU1RaGUzWE15RWlZa2JDNTFRU3F1RF9pWEpOSHhMbUZhbk41TlQ3endrLUh1RGx2MnJuV2Z5WFk3ZlFpNm1iQU1yUi0xUkZ4ZXN2RWtDZEQ4VzBiR2I5RnhDU1NYT0I0TjRCS2lUWFk2WFhZb2N5aDg2SFJqbzlpLXpERk9FVGVrT2tn?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 09:29:02 GMT"
+      "title": "Ceigall India Q1 results: Margin, profit improves, company announces record date for final dividend - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOUlRlc3RPNEtfSl9fLTlTUTZBQlNCaldNZFlMMFdVX3d5UW0wbE93eUJuZmI3SkFxUkJWaDV6UE9zZnRQNnNMQWRGUFZITlREWW9LOHdybGdBWFF1SmRXcmlmWnFyRlVYUGQ1aHNCR2M3SGM1ZjVpRnluT0NsTjNkZDdBRU5XTjlmRmg1NGt6SmdxRi1lVW5MM00zcFNXbjBvM0VScDdjcnNOYXF1dFZfZnN3MzNpcWdsUzZDOFJHOUV0cVRLcjg2bXh3U3NuSndTNlIxbnNYdFdFOS1EQUxKNnN0SXQtdjFfWmxCZmkzSnRGbVEtZnVPdXF3R3HSAYICQVVfeXFMTkF0cUFqZXVVMU1tbWtrNEtQWmRmT0d0MHNnZFpCeXFHS1NqSHRfYmFjSWlLVWtFOXRuWVlNRWFpZVYtYVNqZTBweVphb2RBSmhvUzhCa1BteTc1RjJrZjVWb1dra3NRVjZqbGpMTjdlcDlVNlJVckN4XzBmRHZMdC1CSDZCb2ZkM05oQ3VvS0FscUQxckNvbjhzUldsMWQ5T0ktY2F4b0NWMGdVb201QnE5cGVEcUJOMzFtT3dRYzhLVXdWLUFKWWdmSkJQRExDTDczZmhGYXRFNE8teTBMQlJvSGtVbFpTRXhVYlV2c3pnczEwU3ROejg4NWxOZEx4MVVR?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 10:19:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "IPO GMPs: Dhoot Transmission, Molbio Diagnostics, Shiprocket, Behari Lal Engg to Milky Mist \u2014 What grey market signals - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPWi02T3ROanpWTWRlbmRHR1Q5VG13VXMwd3ZQdFBybUQ2eWRYeGhFelNqVGJFa185elk1elVVTXluRWVWVEVEVjEzVXNyb0xHV3g2Wm91NDM0UDZocUNmQUtsRl9FYWlZUzUwVEpsX2xidVh1WmEtbndSVjJ1RzFYR0c1MGV4VEphMHBhWHlVYVh6c3l0T0N2cktWTElJLUNNYWlIcG5UbUxaZE5GYldrTVNvbEx6bG9CajJmT25xbHdmWlR3TVE0N2VLLTR5TXpkaktLLS16OHgtS2NQa1pEZFByOVJ5Z0xxZy1vX29iMDBaRmxnT3V5bnNjeG7SAYICQVVfeXFMUGZsZnAybVpQaDJfR2dvVlA3WHF2eExZWjdkWk9IRWlrdW1ENW5yS200Z1lhUUZwUHhIUUwzSllQVl84M0hoQkVDaDdYM3k5VmtQa2NiWHJqd21wdTVMQlk5T3FtajZPTERjbzBadXk2alh5Q1RtaFJTMWk0cEV0VkFJbVFJMXRvM1c4c0l3NVhUM1IzVlpXalBPMzhPdVltb1huX2NyV0FIblZYMGNtLUhJM3J0d2pWZ3JOUmw1MkZDNzVPSDZZZFVnTDV0X1ktOU9Cc0FLczBuV0xnWlYzMk1HYWY4LUo3TUxZTDVra3RKVnpZdXFwRUFmVDJodkcyUnhB?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 08:59:13 GMT"
+      "title": "STAX AI Announces Expansion of Its AI Stock Analysis and Investment Research Platform - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU2stNjNhVkZtakhEQXhpNTA3elFqMGI0WlBmSHBKajhmb3VubUd1cUxrWU52elV5OWxXdlJzUVFtMUEtWFZ2QV9NMVYyTEYxZnExdVIzd0hXUHlFbnNNclR5bEo5ZVVIUWR6Qmt5TlY1Q3k3TWs3eDFha1pmOGF3eVZCR0VuVG8xdm85VGs3R2NORUhGWF9HR05YZw?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 10:17:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India warned Diageo that its whisky\u2019s \u2019matured in American oak casks\u2019 claim was misleading By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQMDd3bVhXM2NZa25mdzNoNkdIeUpHejg2Y2hUQkZMVjJFckh1T2tydGNBY2hsa2pxS3kzRnpRQXlnVWlrMFNXVE1ad3p0RUpjbERnbDUzV2NKRk1ONG1Xakx2RVRoUzUwSDFRelpSQTBELXNLUWl3djNHTUh2Sktwc29nOHhnYkJPcmpHUFI1OUdFSzNIMklxWk1ZQ2Rra0wzVmRBQVV1cW5SYnBRcXRQRkRyVURPZ0diMmEzRGFRNTdUUG9HcDJwRDRKNjVJRE9ReXNKbGJ2TjlPQlBi?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 09:08:49 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Burnpur Cement shares resume trading on exchanges from August 11 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXVyaEREMjFDSWxTRWJYM3JXaFVCVDY1ZlNTVnJTWG82QXdORFJsTEtUYWgtZTViOXRoQmVFQnBnNjh1X1JxamNLV29wS095YTFJNkNYR2NHYzVSRWFZMUJrYl9fSXUxR0JLWDcwWWRfdTI5WUZiMEVEY3dxdlpoeWtBeEhzS196M1VHQzVWQkJZbGpvdVFnd3JXRXFnNDN6TGw5UVNpRVd3SDk2T1FEUmRJTHZWbkgxWE5Lbi1n?oc=5",
-      "pubDate": "Sat, 08 Aug 2026 09:27:03 GMT"
+      "title": "5 Hidden Gems in India's EV Supply Chain to Add to Your Watchlist in 2026 - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HVXFnd0hUek1oUlpmbTUwOVMyVjBUeDFrd0VoRVJYMEllUFlLRTRZTUNQckM2Z1F6UkpxcW5KTzZIeHFtdU5BeEtjSUVpZV9KQVVTekZ2WTVCYkx0Mnl5SDFnMzRVUzkwMXFoTQ?oc=5",
+      "pubDate": "Sat, 08 Aug 2026 09:54:58 GMT"
     }
   ],
-  "fetchedAt": 1786182421
+  "fetchedAt": 1786185717
 }
