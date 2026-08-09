@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Will Nifty, Sensex extend losses on Monday? Middle East tension, Q1 results, 3 other factors to drive mood next week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-losses-on-monday-middle-east-tension-q1-results-3-other-factors-to-drive-mood-next-week/articleshow/133061939.cms",
+      "pubDate": "Sun, 09 Aug 2026 09:20:58 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Delhivery Q1 Results: Net profit tumbles 65% YoY to Rs 32 crore, but revenue rises 28%",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/delhivery-q1-results-net-profit-tumbles-65-yoy-to-rs-32-crore-but-revenue-rises-28/articleshow/133051939.cms",
       "pubDate": "Sat, 08 Aug 2026 17:20:13 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Sat, 08 Aug 2026 16:59:34 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Blackstone's AGS Health files updated draft papers for $500 million India IPO",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo/articleshow/133050913.cms",
-      "pubDate": "Sat, 08 Aug 2026 16:18:11 +0530"
+      "src": "LiveMint Markets",
+      "title": "Stocks under  \u20b9100: Sumeet Bagadia recommends three shares to buy on Monday - 10 August 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-under-rs-100-sumeet-bagadia-recommends-three-shares-to-buy-on-monday-10-august-2026-11786245120795.html",
+      "pubDate": "Sun, 09 Aug 2026 09:17:17 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Buy or sell: Ganesh Dongre of Anand Rathi recommends 3 stocks to buy on Monday - 10 August 2026",
+      "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-ganesh-dongre-of-anand-rathi-recommends-3-stocks-to-buy-on-monday-10-august-2026-11786243110500.html",
+      "pubDate": "Sun, 09 Aug 2026 08:30:37 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Q1 results FY27 to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
+      "link": "https://www.livemint.com/market/stock-market-news/q1-results-fy27-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11786240881737.html",
+      "pubDate": "Sun, 09 Aug 2026 08:03:14 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -41,24 +59,6 @@
       "title": "A volatile week for tech revealed new stock narratives\u2014and 1 bargain",
       "link": "https://www.livemint.com/market/stock-market-news/a-volatile-week-for-tech-revealed-new-stock-narratives-and-1-bargain-11786196401734.html",
       "pubDate": "Sat, 08 Aug 2026 19:12:38 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "A Tough Week for Crypto Has Fans Downing Drinks at a Bitcoin Bar",
-      "link": "https://www.livemint.com/market/a-tough-week-for-crypto-has-fans-downing-drinks-at-a-bitcoin-bar-11786195190000.html",
-      "pubDate": "Sat, 08 Aug 2026 18:49:49 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Gold price jumps as reopening of Strait of Hormuz buzz dents US Fed rate-hike hopes. Is it the right time to buy gold?",
-      "link": "https://www.livemint.com/market/commodities/gold-rate-today-jumps-as-strait-of-hormuz-reopening-buzz-dents-us-fed-rate-hike-hopes-is-it-the-right-time-to-buy-gold-11786181435240.html",
-      "pubDate": "Sat, 08 Aug 2026 16:13:06 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "IPO GMPs: Dhoot Transmission, Molbio Diagnostics, Shiprocket, Behari Lal Engg to Milky Mist \u2014 What grey market signals",
-      "link": "https://www.livemint.com/market/ipo/ipo-gmps-dhoot-transmission-molbio-diagnostics-shiprocket-behari-lal-engg-to-milky-mist-what-grey-market-signals-11786174589659.html",
-      "pubDate": "Sat, 08 Aug 2026 14:29:13 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Do Oil India's (NSE:OIL) Earnings Warrant Your Attention? - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOHU0N2tBQnlJdkJLeTRhcGJ1SGVqNFJVa3JjNUhrTVdVbk02NlczSEpWQmlpX1M2aEFSNDMyaHJweUNOMjZvVUsxUXg2eTAxQWc0Q3M1aVl2QWpiNGExMGs0WUloRk04cWJJYTJ6cUg3NXFnVS00N3BTdmJsRGlnNDBZZzIySVhQY2lxVThjUFdhaE9QV3RVYndqRW9HSjQ4QnFmN1ZUTU5xaTVXQnpKLTZvZTdSMXNiQ3BWZUFR0gHDAUFVX3lxTE5ydXVMenRvN053ekc4aE9LQ2diQ01OTGxaMXZGWEhwWlRjcWNsQlgyWWZ3THFnRE43QTUzZ09pcFM2TWh0bEFjNlA0VkpxVGVGVmtycXdiOWJjYko4bmpVOVU0SWVveW14QzNNUjJpa0JhQno4Z3BQRVluN2xwSHRuaTVCeWwyUEY3S2daTmV3WjFiUHFZTFhrRE1fSDNQU2ZwZS05dGhVWHlrT1c1ZkxOM0VyRlVVQ0x0NC1Ca2FHTnNyUQ?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 02:15:57 GMT"
+      "title": "Stocks under \u20b9100: Sumeet Bagadia recommends three shares to buy on Monday - 10 August 2026 - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUWZOblpnTjYwT0J1Qi1wS3VGbTdrMWJNSzlKWXJEX01wNGtSajE5NUpidVRuTXh6UkwxbUh6Y0tRUlpqbXl5V0pGV1gtY3lhU0ZXNURrdmJuVnhHeEdxb3NDRDdlekFFWEVmUGVHcDUwcWhMYWZlR2cxSzhWdUZUeTVmM0F1ZWZDM2MyZzVfdXZKajdHQUxYenBjdFl5Q0k4RjNPaXBBZ244Q29tOVhNX3NSTFpORmdLUDlWSGxwSHNxV0c1Z21hWkx4aVprZEc0YzRndnQ3TUZRNlppSGJCN1VTX3JGd1JCQXNBRXM5STZDcy12SnZz0gH3AUFVX3lxTE1RZk5uWmdONjBPQnVCLXBLdUZtN2sxYk1LOUpZckRfTXA0a1JqMTk1SmJ1VG5NeHpSTDFtSHpjS1FSWmpteXlXSkZXWC1jeWFTRlc1RGt2Ym5WeEd4R3Fvc0NEN2V6QUVYRWZQZUdwNTBxaExhZmVHZzFLOFZ1RlR5NWYzQXVlZkMzYzJnNV91dkpqN0dBTFh6cGN0WXlDSThGM09pcEFnbjhDb205WE1fc1JMWk5GZ0tQOVZIbHBIc3FXRzVnbWFaTHhpWmtkRzRjNGd2dDdNRlE2WmlIYkI3VVNfckZ3UkJBc0FFczlJNkNzLXZKdnM?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 03:47:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Lohia Corp Ltd | Stock Share Price Live - MarketSmith India",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQQmQ3VzB5WjRCdEU0eDBfOG1DbWRuMlBGMFBfbWhFUm5xZzRFU0xHYXh2Q0JQQUZ1ODFwcDBIamNpaWxJT3RfZmxidzMzTmt4d3laQXZMczZiUEJ2cGpXclgtRndhRWtyOFhVVi1NejZXM2Fs?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 02:04:30 GMT"
+      "title": "Interested In Uniparts India's (NSE:UNIPARTS) Upcoming \u20b99.00 Dividend? You Have Two Days Left - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN1FzeGFaelRuYV96eFpSR0djWXQyZDhfUDRyUFNya2JVMUFvVVhXYmhPS2plQjdvclVZWmdiVlZubWo1aTZwTVNPOTRTMVpxU29PeTlfR3BKMmNtUlJ1SFVVRzBzUWJBUFgyV0xEZ0VoMkZWRElDcy1uaWdpeXRaNmw4Y3ZGSlpqWFlRTUFSN1ZvSVZ3RWNqVDZIV016YlNseWlBZXF1TWRqWnk1T3VLTmNiQlFVMTYwNm1TWV9pMU1JakM4SzJUZ204c2FqaEVPTnBsX2hKOUlkZ0x4a0JF0gHkAUFVX3lxTE85QkVWSndzZVFEUVh5R1VBdktLY28waWNEbTdlVkVIR01GVXpJSUxrbDNRYUY0VTl6Y0lBeWJNWDVhMktWRUhUQkI2Mjc4dzVQRWZRVDZuTGw0SnMtQ3JjaFZ2YkM1OFVwVkpBbjV5Zmw2SXVFd1pSM3A1Z0tuRE9NSk5JbXNZZXdfaVFpdUpSbXdzTG5vRkhDQm45Z05QZ2xwVzhwcDB3c0NzYkJpczczZ1hXVXFVTlhkNXA4S3pMZkZWQTIzRmUtM3pacDJmalpjcWgtRUN5UHU3cFFZRm9KRU1xWA?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 04:06:50 GMT"
     },
     {
       "src": "Google India News",
-      "title": "LEAP India IPO GMP, Grey Market Premium Today - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1KNTk2Z3NlM2NPVlh2ZWJxQnhvLTk0LVNZdXRxZmItMVBCME13ZTJBaWt1ZDBKYzE3NWZNNWRld0I1RmVFM0JhMTF1UGI4aXJiencyQ29EeUZYWHBiNms3WXRLTmVjbzJOd1Rv?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 01:26:06 GMT"
+      "title": "Will Nifty, Sensex extend losses on Monday? Middle East tension, Q1 results, 3 other factors to drive mood next week - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOdzNReXFqRVppRTBHcU5oSnVURDdLRWo1dThQMmd4aXIxYUhHWUswREplUDBHdUhxbjMwY1Y4al9HSGUyeGZpRGFUOHJ5M1RGWEFoTkpwWUVCdHhaQnNQWG5JdTRWRW5ZeHh2MXB3Y25lWmVobFBjRzJzdXdFVGlnUlM4UEJ5cmtSOFJUSmxhUzVmdjNYVmU1WFhNdVFfaUduVWhBMnFKTzBJNUFnSzNLM1ZKTDZjSHJQVlBTS01OTzV0TjU5YV9jRkZ6ejZjY0NSeWlpc21lVWZ4SXZHX2Z6anA4S1BqSzRpS0VZaDhFVDlCYWoyWDIxa2V5Tk84ZEhBMGd5ZVFoVktlbVM2cUFkdnJpcU05TTREcERvajNLcnV2ZTV4OWFybkcxc185dk9pUk1sa0hnLV9HZlNOZmQtbXlzSTVmLXV5SFk4WXp0R3NydWRhcWRQVVRoTDBUQTFNRjBjLUNJUVNnYjhhWHZkQVhoMVRsN2xhSTdXOEV3?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 03:50:58 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Jharkhand student protest: 'Govt playing double game,' student leader urges unity among protestors - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVXRERVBrYXR0Y2Z5QjJGU2lUNUs0YWRlWThqNUVXV0d5TnFvRDViRHEzRVlZd2NDbWtQNzVGZ0JoU1o4ZDdBN0VCNVFPeEwwUnN3RS14QUh2SnVkaHNsbDlLbG8zbTk1dUxEQWFSNGs2b1dKeXhDNF9aR0FXM2gzeHl1S3ZlVmNKa1pLcFNma004UW9CNjQxVGVjVWd2bHhhWTdLbFdLSU1QRUthUkFUeWlRX1FON0tFVmFhNGFQdk5vTFVZUVFUcTY0OG0tTGhyRXVJdXlndFVKV0JDeWJucVZOWmdfUGoxME5XSmJ30gHzAUFVX3lxTE9lY2ZMZmxON3RuRS1ZN1pVR2xyWkVPQVRyOC10UVE1QkR5VU5WU3BBNktoOFBKcW1Da0tNaVo5cEdQVWZ5Rjl1RWx1RWRFZkFPS2xRNzU3M2xBcUVDUkQ4OTlSbkcxZWxEbERXR2daUEt3QWFaRzUwVEM2cUtod1lHNzBWUEFjLTA4VW5KZFFrR3F6M3pYbDh0ZHhSRkxxbnlhRmZVXzZmaDgzTU81VW1NWXZTUzdFa3ZwZVdjYV9oVzVsN3RsQ1lBcElYSEJwY1RHZDlDaEpxcUFwQkVCRHgyelJ5NXQ4UTZDY3ZDRGV1ZUVmcw?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 01:27:53 GMT"
+      "title": "Strong credit growth, capital inflows likely to support Indian markets; rupee outlook improves: Report - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRDNwSEQ3QzNUalFzd2F4NElHX2hTRFowNFFHZ1JhTzlJZ2U4Yjl4OEtJU05TMnlieFNjUzN4azdxbFJtd2ZnMzNoSXRLRjNhUmF1MjVXc2toRUJ2V0UxVWMwNjJPdjJZNTVsSGdhdjhpM0tqX0Z2UjgxbVYwMWhWMFMxa2ctLU9qeFBKLXhuVjJqd3RodVQ0TFJLdFJ2QVhnNktyeHVtd2ZLejdjVFlCNzVMR2Q0bFNlZFdObC1xS3AyalBSb1hsbWM2VjVhUXpTMGd0QUNiR1Q3XzFZQzNEWXh2V2hwSmtsYmZ1cHRVUjV1d1pUSHU4?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 03:38:52 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Wegagen Bank (WGBX) Share Price & Financials - StockMarket.et",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5RN3BVUGxfTzB6YjV5UXhMYXQ2aDhFNXppNm9PUDhDSkFIbnBlWngwclJLQ2o0TlpEQUkzNFJ5aXQyVXNoSWF1RTJ3ZHljTDlKZ21tanZkY0poWEgxbkcw?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 01:38:19 GMT"
+      "title": "Markets may remain difficult to beat, but investor crowding could create opportunities at extremes - tribuneindia.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUTlWSFZnb295RGlrTlZmSGdIck9CUjFYTlA3VEVvV2l2VGF1eXExWUdPSU54STFjTk92SFBiUHk4eGdDZnBSZlRHUlpmeFR5cUludDdkdXhkVGtDQ0NkT3JOazJWUzRHQTRERTFrVUI5WjZTSzdGUy1fQ0dIU2xjR0dsck1PV2owYlBwaDNIT0c3bnV4MkpRVmhCWTVtdTZuWGFId0kyZWI0YUdqdHNmUzY5U2E2azk0WEJBNU9kSXRlUlFxRzg0ZHo2clA4ZXhrakw2TWRVTTXSAdwBQVVfeXFMTXpqa2pmVjRxeWdJUVBRV0J2UTRyNDlVWTF3RFZ3ZzA4aXNaSDhvV21WdnpHZzZZUGx5bEppMHEtNVpNbHpuNEtrc1Bnd045Z3MySThKeEFwdFJGcG40cll2SUM1VkpSOXpqVXFINzR4dHBxcjBBOG8yclJWOEN5UnlIX0t1TkFqX2pCbzdZUVRyNmZqRmJad0JHZHRCWVNOZW9KUDM5OXN5aFJrYS03TFRrU0xBeVAwZkhsX0tUTGJmMHoxSk1kUXZIOUkwWXlMLUpXcjlIdXhEaVN2eg?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 03:58:14 GMT"
     }
   ],
-  "fetchedAt": 1786241973
+  "fetchedAt": 1786249471
 }
