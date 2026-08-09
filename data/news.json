@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Is 'Trumpflation' real? Why Wall Street fears this could be a reason for stock market crash",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/is-trumpflation-real-why-wall-street-fears-this-could-be-a-reason-for-stock-market-crash/articleshow/133066108.cms",
+      "pubDate": "Sun, 09 Aug 2026 16:15:38 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "World Bank's IFC, HDFC AMC invest in Molbio Diagnostics' Rs 281 crore IPO anchor round",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/world-banks-ifc-hdfc-amc-invest-in-molbio-diagnostics-rs-281-crore-ipo-anchor-round/articleshow/133065702.cms",
       "pubDate": "Sun, 09 Aug 2026 15:33:51 +0530"
@@ -23,12 +29,6 @@
       "title": "9 Nifty 500 stocks with up to 50% upside potential: Do you own any?",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-nifty-500-stocks-with-up-to-50-upside-potential-do-you-own-any/slideshow/133064784.cms",
       "pubDate": "Sun, 09 Aug 2026 14:17:50 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "GMPs indicate 15 IPOs opening or listing this week could offer investors up to 37% returns",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gmps-indicate-15-ipos-opening-or-listing-this-week-could-offer-investors-up-to-37-returns/slideshow/133064592.cms",
-      "pubDate": "Sun, 09 Aug 2026 14:07:27 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -62,9 +62,15 @@
     },
     {
       "src": "CNBC TV18",
-      "title": "Quality Power Q1 profit rises 47% as margin expandds, order book stays strong",
+      "title": "Maruti Suzuki India eyes 63 lakh-unit passenger vehicle market by FY31",
+      "link": "https://www.cnbctv18.com/market/maruti-suzuki-india-eyes-63-lakh-unit-passenger-vehicle-market-by-fy31-19965019.htm",
+      "pubDate": "Sun, 9 Aug 2026 16:48:30 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Quality Power Q1 profit rises 47% as margin expands, order book stays strong",
       "link": "https://www.cnbctv18.com/market/quality-power-q1-results-profit-rises-margin-expands-order-book-dividend-record-date-19964928.htm",
-      "pubDate": "Sun, 9 Aug 2026 15:52:01 +0530"
+      "pubDate": "Sun, 9 Aug 2026 16:04:42 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -85,41 +91,35 @@
       "pubDate": "Sun, 9 Aug 2026 13:36:20 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Nifty Outlook for August 10: Analysts see positive bias, but index likely to stay choppy",
-      "link": "https://www.cnbctv18.com/market/nifty-outlook-monday-august-10-analysts-see-positive-bias-but-index-likely-to-stay-choppy-19964938.htm",
-      "pubDate": "Sun, 9 Aug 2026 12:59:14 +0530"
+      "src": "Google India News",
+      "title": "Crude, Hormuz & more: What will drive stock market this week - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNVNUT0RNUC1RNERIOENXVGJlUlJFc2dZVlN3bmE1eDRXSF9kM0JCQ3MzVjhzWXhvbXY3YkdjNlN6WnVNajlHTl9nTEd3Ti0yQXZGRGU0ME9xb2hDem5GYUJ1NHZONERGWnlGd0JmQlJEY1ZyU201aUxONTNiVjZHaW5PSjY3N0x1SVg5d0lOR1JVV3lDbFR4YThBVFRzZ3phMzFacTh5UUZQdmptRlJfNEtGaWl5NkdZQzJiZ01mSXZHbFh4d2hBRVphVlJncXBfaUN2STNNQ09YMHfSAeABQVVfeXFMUEZUZlR1NjI0QVNXejlpZG5kMVdURmh6Z0E2ZjFfU09sbW5ERERpaDlHaXZPY2pfaVNrbFBjRS1tdE1GVldaeWpjazNVU0hfeHFENVVkY1JWTGhnU3lhYUNJb1ktN3kyYVloM3JrajFfalgyRVkwYVNhU3Jpdng3dElBZWpIVXhXckFjZ3V4RVZ1OWpLOXRYN2RBNlNVY0R6TG9OdF8xdU1WSjkzYmtiVU5Va0VjNGVyU1hYQnZCdVBCdEpWYXAyRHVub1RPaDdlU1FhYUllNGNpZFdGcEcyNjU?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 11:00:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Crude oil to steer markets amid West Asia tensions - ET Auto",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkdRbW8xeUdFdmxfMUZzOF90RHlTSEVKY3RXTzVQb1VJdDFjTGNsU2VmRGhmOHpGZXZFRHR5bzdYRU9ycDNJSXU2YTZMOGNzY0lFejFEOHFSenZ4OVNnb3FwUEZ2S21pYWlWR2p0US1pOExIYUxLZGlJMWJDak0yR1djOE56YXlPU2J4aEVsQmp6cmFuY3RMZmYwZ0Q0WHZNelFBdE02YVdDT3lKZWRUSHk1aDNWdmUyYU5jY1F30gHDAUFVX3lxTE1NRndhbnp2TktKbk9sZTJQYzRhb04zWXUxMHRka0MySHNTUzVNdWFSdWtIYmxEbUU3S2l4RlpLaHJlc2FGNVFYX0dQM05DOW5CVjNlOWxKQjUtaXpRTU4wSVI5RDFyNGdaVnBQWXd5cHljbGJhZ2FybTFRMDBYRmQ0REw4QUxxUXlWemRLN3puOHVTSThoeUdMT2tGbW1xWDlOdzkxa19lYXZyb3RjV052NkZWbVJQN2pFTkRvV3BuYXBjNA?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 09:43:30 GMT"
+      "title": "LIC slips to lowest in nearly 4 months on discounted stake sale - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcnZlakdERmJpR094NDI4VGpKektHYV9vSXdzM0p6ZHczekRwZlg4bXlOQ1U1NndDNDVzN2NKZXcwMzE5d0dOcWN2eGIyQkF3VVFkbEZiM0VyOHVVYUNMTTBsbVdfNHJJTnFJMDkzYzVaNjRRbl9TeGl6UFZnNEdsRHJQQ0o4d25zMnE1RnI2SkdZNGIyVTl5cXk1dm1US1dSdEYwZUNHdVR6RWp4TVNoUE4xdlJyc2lCQjVaQXZ1bHpUTUFQSWdOY05OLTFBRFZMVDVZeE16ODFWUdIB4AFBVV95cUxOMTNNQkJBNE5waGljVzEzWkp3eVZvQTdfVmlEV3FXRFdFWFJWZVNVX3RkbkN0bWx0X3BUd3NOZGFpSVkwcHlKVThQeDZfV3JkbG8zODljVzBGTGFqTFJwQmlkNnlBeWJnMjR1U2dDUGNCZ3g1YXVMdmQ5aEJQdEozM2FIY1hHc3lUd1ZBeG9LQVA0cTYxODhULUh4MmlrZ2lMZ2NyMWhSbzBkQlhwTEk1UUhySzd1TmpTTXM3RjlZUng3Tm5mUVRsSm9Qb0RuN1JQWjB2b3VvNEdHd2w3ejNTaw?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 10:57:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "T T Limited files Q1FY27 results, net profit rises 54% on tax benefit - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV0xvSm9FZWJIUzRIMU16clBtZlJtb2taQkhRRURwM09qZjhfaTNGTkNhZllwLTZGcmtwNTZ2SFY1Qy1xV2JKZ0h3NkJuNXFkNTZiWGFrYUh2ZjRsVzNTYl9QQWFBWk81cjRCVjVJWlVPQVhWV0h6VWRSTmJobllieThUWFFIUWdRRHlHbXNEQWc0RzhialZBNjJCTXhTMWdrcXc5QmZQWU1LMlYwbzY1VzU4WEM?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 10:21:53 GMT"
+      "title": "Alfa Ica (India) Q1 Results: Net profit rises 55% to \u20b91.02 crore - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYmlhUjhBTkFlUk1DVEtHQ0JrbHVTdFhqUkJYdkhlRmxvV1B1eHRLREFzejU1VjljYnd1WUlPYU4xY1VZMUdmOC1vMUhoQUFOYUI2bk5yUEVSWUR3ZE5QUXFibl83bzVkd19IanZWUHFOUUQzZG5YX2Y1cWtsNzdkaWdlaENFWEJfM2J4WHBBclpqTHFPSFNxZ2xRYlJ1SmhwNnpVTmltSzBwT3dCVTQtakV1c1Z1eW8?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 10:59:05 GMT"
     },
     {
       "src": "Google India News",
-      "title": "World Bank's IFC, HDFC AMC invest in Molbio Diagnostics' Rs 281 crore IPO anchor round - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUU8yMlNDeVh0SkFtd1BQaEVLbElBdWZvbGN5bHdWWk10MGVwdlJKNUxkWGRwUDVjRnEwRkduTW5ndHlJTHNwcW9CNXBxOWVwN3FmYXBZSXJRR3VYeHJ1blY1NFpPZGJucHQ1VFJuV25iN1lFdVB1NmRMTlJWbnNDTTRDRjRpNTRuTXlSd3EwZk5nUGQ0bmd3cE9OMmJULXJxT0JpY3VhZV9ZbGxaQWl5czRJOUNuWUZic2JKRXNHSEdZZ19tQTktQTd3Q0ZyWjEtY0RLblp1T3E4b2dVX0ZIc1BtUHppUXhwanVTeWJn?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 10:03:51 GMT"
+      "title": "IPO Action: Rs 7,700 crore worth 9 IPOs to hit Dalal Street, 8 new listings scheduled next week - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSi12czU2dElDR0NXNjdKTUMwVFQxVHR0YlV1ejU2eEVwMWg3RHhyWHhBZUg4aHRqSzh0VzVSSVNtQ3gxei1GYXNNU0ROVzJKeW4ydFNpMldqWFF4VlB3cHJlU2lhaTB5ZWZvaEpzRXFYeHI2dS0tZlFnTXJON1VIajBjcjlTMlJVZjlKc3lJMTF5cWcwMkZWc0JmY1p1TXN2aXBQeHFUOHptNjcwWmZvQTYxNzhQMlFaV3VKblJxNEZFUi16TGh1bm03bE9RWnlpUTNlQ3ZlUG0tX1hXaGR1d3ZWTjdEZDl4NTQwZ3V4RdIB7wFBVV95cUxOSi12czU2dElDR0NXNjdKTUMwVFQxVHR0YlV1ejU2eEVwMWg3RHhyWHhBZUg4aHRqSzh0VzVSSVNtQ3gxei1GYXNNU0ROVzJKeW4ydFNpMldqWFF4VlB3cHJlU2lhaTB5ZWZvaEpzRXFYeHI2dS0tZlFnTXJON1VIajBjcjlTMlJVZjlKc3lJMTF5cWcwMkZWc0JmY1p1TXN2aXBQeHFUOHptNjcwWmZvQTYxNzhQMlFaV3VKblJxNEZFUi16TGh1bm03bE9RWnlpUTNlQ3ZlUG0tX1hXaGR1d3ZWTjdEZDl4NTQwZ3V4RQ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 10:54:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "CPCB to act against states, UTs violating biomedical waste disposal rules - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbVVIM2ktbEQ5QUE2UzZMcktxc1BJV29hcDJMUExqMWd5dktmcDZ6bTVsZEszZl9WaTlPSHhrSW4xMks1aFNGa241QlhfWnh5RkgwdUJaOEdiTlQ2bGtIU1FmNFBNWGxNem5QZHBsendTOGRYNEN4Q2NCT2dEQ3JnTTg2eFZSRS1IdzkwbUU2TVc5S2hEbFpjRjZfMW5GU1hrVTA0ZW1JMEw4VW5kUFdHUl91bHJiSmhacUNwUDc1ZUpmX2VDVmxHbzg0eEhaUE1aanVz0gHYAUFVX3lxTE83SVJCTnBhbDB1X2lDVzducGpRMUFUZnpjRDFpckN0MzhHOEwwQ05USm5saUZOUFVIdUliYl9yOXRFODh0TGRMcDRNQ0J1MWVGUkszR1lJSWhhZ2dVMmVJcHlwZzJ6Vjl2RzJfNExPU05Pb2JFcEhROXc0bnYxeF85X0xOeVpvM1hYWjZXTG5aU3dSOFBlRm1BX2FSNWhGbzRBOFdzRnhEd0VkQmwtUEFJLWdVeWZFSVM0clRrQzQ3UUc4cVBleVJTbTNXUWFBNkpmRy02S3h0NQ?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 10:03:36 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Ardee Industries IPO allotment status in focus. GMP, how to check application status online - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTnVCckZ6V3JoUnc3eTJfbXNSeVQzWDR3c3V5NW5XNUhqQjl5eXhuZmlUbGN0NVEtWDVXb1lyNl91aHp0NThzelI2RWdmdFdDV2lSYmNReGdKeVZLYUZSYkJFd0ltcXlDTUpySldrdFUzTjJFUVZxcHJQZkpKbmxqUGN3bm1qblBGYzVSU3N5dzVVSno0eExHZmN6LTkxN0MxNVl1Ukx6VFI5aTlfaFltSXpQMzc0X2M4ZndTWlZiWEFVS19wZXJKdWNmTkpEOGNTYVVuMEd4ZC1DOHFFZUtJZFZ4cHRYV0HSAewBQVVfeXFMTUE1ZmdvaTg3QU5MYzcwQVZpWEtxZkRnN29Mb1J3dGlyQ3ZaRXFQXzZDdlFKRUk5WVJqT0o0NzhuLVZkNnlPeHM2bWZaSzYtWUhXLWlYZEcxekd4UVFFUk9hbk9sVXQ3bHYySnJDS08xdDBhY3d1aThIc0VtZ2VSd2lpRDlvMVYxRUxjVlE5VFEzOS1NenhUSTZDb2tsOENBMW1ua1pXczVpT2ttZF9zbmNZdzJibmpEaXZ5dXlndXVnNDRqUDVSV2tUUEhBSl9TbDZIelhpUjJGNUVFS3B5WXBkZEU5T25sRnY0OTM?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 09:53:13 GMT"
+      "title": "World Bank's IFC, HDFC AMC invest in Molbio Diagnostics' Rs 281 crore IPO anchor round - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUldkb0R3M2NaRDZsNU1lSnJvZDI0dXp5SElPY1dSSS10QkVqVDluM0I2UUVlNDdqS2FGZ1FFWURkaGhFYnNKVmlTUjFBYVlqVEh5SXlydU1GYkgzNzdDRkhuLTZXcWVpcVl2YnVfbzdMMWg3Z1RPdmhVcWExZ05wSkNQcHMwbllUWDVmQnFUMDAwbXlUM05seHFNTl92UlA5WWo3YkY0X2RDRmhwaDNxR1NIWkg1aTh3YjJZ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 11:18:51 GMT"
     }
   ],
-  "fetchedAt": 1786272183
+  "fetchedAt": 1786275447
 }
