@@ -2,13 +2,19 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "14 penny stocks plunge up to 85% in 6 months. Are you holding any?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/14-penny-stocks-plunge-up-to-85-in-6-months-are-you-holding-any/slideshow/133064275.cms",
+      "pubDate": "Sun, 09 Aug 2026 13:30:10 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "$20 billion bet: Where is Warren Buffett's successor spending Berkshire's cash pile after 14 quarters?",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/20-billion-bet-where-is-warren-buffetts-successor-spending-berkshires-cash-pile-after-14-quarters/articleshow/133063236.cms",
       "pubDate": "Sun, 09 Aug 2026 11:48:35 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Rs 7,681 crore IPO rush next week: Shiprocket, Milky Mist among 9 issues to hit the market",
+      "title": "Rs 7,681 crore IPO rush: Shiprocket, Milky Mist among 9 issues to hit the market",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rs-7681-crore-ipo-rush-next-week-shiprocket-milky-mist-among-9-issues-to-hit-the-market/articleshow/133063172.cms",
       "pubDate": "Sun, 09 Aug 2026 11:43:34 +0530"
     },
@@ -25,10 +31,10 @@
       "pubDate": "Sun, 09 Aug 2026 11:21:01 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "AI trade gets crowded as India stages a comeback: What fund flows reveal",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ai-trade-gets-crowded-as-india-stages-a-comeback-what-fund-flows-reveal/articleshow/133062811.cms",
-      "pubDate": "Sun, 09 Aug 2026 11:18:46 +0530"
+      "src": "LiveMint Markets",
+      "title": "Upcoming IPOs: Shiprocket IPO, Dhoot Transmission IPO among new issues to open next week; full list here",
+      "link": "https://www.livemint.com/market/ipo/upcoming-ipos-shiprocket-ipo-dhoot-transmission-ipo-among-new-issues-to-open-next-week-full-list-here-11786259637577.html",
+      "pubDate": "Sun, 09 Aug 2026 13:22:50 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -55,10 +61,22 @@
       "pubDate": "Sun, 09 Aug 2026 11:02:34 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?",
-      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-ongoing-us-iran-war-11786249461743.html",
-      "pubDate": "Sun, 09 Aug 2026 10:27:33 +0530"
+      "src": "CNBC TV18",
+      "title": "Mcap of four of top 10 most valued firms jumps \u20b91.43 lakh crore; SBI biggest winner",
+      "link": "https://www.cnbctv18.com/market/mcap-of-four-of-top-10-most-valued-firms-jumps-rs-1-43-lakh-crore-sbi-biggest-winner-19964981.htm",
+      "pubDate": "Sun, 9 Aug 2026 14:17:10 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Stocks to Watch for August 10: Titan, Oil India, NLC, Ola Electric, PFC and more",
+      "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-august-10-titan-oil-india-ola-electric-pfc-delhivery-nlc-and-more-19964868.htm",
+      "pubDate": "Sun, 9 Aug 2026 13:36:20 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Nifty Outlook for August 10: Analysts see positive bias, but index likely to stay choppy",
+      "link": "https://www.cnbctv18.com/market/nifty-outlook-monday-august-10-analysts-see-positive-bias-but-index-likely-to-stay-choppy-19964938.htm",
+      "pubDate": "Sun, 9 Aug 2026 12:59:14 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -73,53 +91,35 @@
       "pubDate": "Sat, 8 Aug 2026 21:23:49 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Anant Raj Q1FY27: Profit rises 19% as EBITDA growth outpaces revenue",
-      "link": "https://www.cnbctv18.com/market/earnings/anant-raj-q1-profit-rises-19-as-ebitda-growth-outpaces-revenue-19964872.htm",
-      "pubDate": "Sat, 8 Aug 2026 19:56:28 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Latent View Analytics bets on AI, M&A to hit $200 million revenue target under new leadership",
-      "link": "https://www.cnbctv18.com/market/earnings/latent-view-analytics-ai-ma-revenue-target-200-million-new-ceo-19964861.htm",
-      "pubDate": "Sat, 8 Aug 2026 19:32:09 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Mumbai-based Mindspace REIT hits record 95.8% occupancy; NOI jumps 28% in Q1 FY27",
-      "link": "https://www.cnbctv18.com/market/earnings/mindspace-reit-record-occupancy-noi-growth-q1-fy27-ramesh-nair-19964847.htm",
-      "pubDate": "Sat, 8 Aug 2026 19:28:17 +0530"
+      "src": "Google India News",
+      "title": "Lohia Corp Ltd | Stock Share Price Live - MarketSmith India",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIcXA2TU9wNklPSW4zZE9KLTM4aG5wQUg3MzBMRmRBREg1QVNyZmhtMFJpWjV5dG9MT0taVEdOSDFjWWxPV08wZ3A0WHR3dHZ2Wl92LUVoV2s1Q3JfUjJmdDZrWjNvcWxfRTBFbUQzV2oteWtS?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 07:57:19 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock market today: Nifty ends flat as defence stocks rally and Sensex-Nifty divergence persists - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObnRBc0VhUjdDUUxMSWowOThndTJDTXpWNkR1WEJESEg4eDdKSUVMS09PSDFkTThqVTV6UXNxbXNuUVNOWUVfdnFuNGEtT0w2aGFIZVJCT1RYRzUtOTdTMDFYS0pKNXAzNzY3dV9wTHZJaEJkMmxIZWxBa0hCd1hWenR1TmJ3RnB2dUtBMVZaRlEzVkxPZjRza3V4SkhTd0F4aXl5RVNDRmN1V1dBMkdnaE9PQ1V0VzVlMVZva3M4TlhmQ1l3NUVETjRyN19qc1Mybm9mNmJYb014VzAtSWo40gHmAUFVX3lxTE9RcU9LNEdlOFVXQTZ0SHNNV1pkZ0tBYl9ueDQwRnhGTFlub3dxZVNmOGllUjNlY1BhMEVkM2UtVGhJYkNCOGU4NmRLaE5SWW9Ob1N5THRXQVN5S1ZvSW9jZGlBREhUQW95RUhaUjRLczUxc2wzSEJJODdONjJORkFicFEtX3VRMDJlM1NMT1BISnB6RnRtbGY4YXBpbmdDc200UUNYWFplSTBwOTg0R0NlUXFpOUlUbzJJZ1VwbGk2dG44RXM2UDFQNnA5aTc3Um1oQjVZUGpZMW5uaVB1RFVOUWZsRHNR?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 06:39:56 GMT"
+      "title": "Stocks to Watch for August 10: Titan, Oil India, NLC, Ola Electric, PFC and more - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOFh1UmFRa2pmbzBvZGt0NDZSNGVJM1JRTnJfczhYOHBDRUhZTDB2Q2VldTZKSmsySVItaHBOX1RGYURiUXRiMWxEVkVzQlJJeWxLQk9lRElQMmQ3Wk5EZkFDb0RpenpzNFo3MWh5UzlpelJfTzRXUmlrVjV4eHNTSE9wSGRESmhqa3Fta0wwWEhBckNBc1NpUjItM051NlhYb1NFMlByWmRxelhPbi16M0ZsaW41UjlDSjhrSUhjQVY1em03ekw1Zm0xcXpfaGdiNnBJ0gHYAUFVX3lxTFA2cEdIQ01jNVJ3Um0zVHBpUDZ0bXVqVUJETzFzNkdweWZoT0RfVElUakNKaUpzUWJDM243OFM0SHhudUFvY2pqVG5iQktXcmhVXzBWN0VfTEotbHlVZGNkMERabVgxZ0xzSm1ObW9LOWpmem10aEIwNVdLTXJLYmdoX1lJZ1R0YWpTZjZNODdKOXhUc291RXdiRTA1alZMMkl6Vk02MlFyZUFoY0NsNEIwY3g4WGdrcS1rUExvVFAyZkVCSjZJQU1EN1pKeEwwQWlkWmNiYk1lRw?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 08:06:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Defence stock Apollo Micro Systems declares Q1 results 2026. Revenue jumps 88% YoY to \u20b9251 crore, PAT up 43% - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQWUFSUVBRRDF4WTlHcHlmVEhWQ3pCN3lXMnZWYVlzR0xoMlhBWmtzNXUzTVN1VXc5U0VRZG9nMHpFc0pnWVhkajdkZ183MV9YanhlN1hrT1haMkVWQkFDN2o3Z1dXRjFfd2c2YkRwSjFjdFhWMWNvRGpDZG80R0RWVUJWODNiSU1SbE05WVhQTlgwWGtXa1JmWEdtZXVKTmFfWDF2bXZ5Mk5BU3JVM2tlM1ZtTW91c1MweHNzcE13bEZqVjhQeHJtQ1poTzcxeW5aTnVGeXJlV1dpMDJVSzA2aVRQT0ZhaHdBdTV1eWN6YVpBa21zRS1ZTFNzZk13ZjB1bkc40gGIAkFVX3lxTFAtbjhreDdHTnZpRkZmc0RNbktDRHJvZUhhUk5GNEc5VkFnd20ta3dkVUhCRnBOU0djcWpETE9tQnZMOFNJS2hXWTNMMUpMRXJic3B2UHBFWU0tU19qRy1oQk9TRHZsN1N2ZkRBRlNtR0lSVGltU09rbXhhcVlPM2RXam1XbE41eV9LNGpHb3dxUlVsMzR6Z09QRDZMbXgwTDhpZ3ZSLTFPM0FTbEdqQXBLaXg2Rl9YeFNJWjZhNkVJblA3bm1xamxvc29JcTFlUlJPa0FXRFBibFJUUmZWblZGVEEwNXhlZnZ6RU82c0xDZ3dEZThEUGxBNHloZHhKdkpQUWpET0hsSg?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 07:01:45 GMT"
+      "title": "Upcoming dividends, bonus issues this week: Jio Fin, RITES, Godfrey Phillips, HPCL, other in focus; check full list - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPNXNVenYtTnVXQnpxcE43MzRDdjFxT0IxcUdHZDFhcE9fQWdOS21iRjVCSFNySlJzQkR0YTRKVmVKUzJiWU5wbm9HaS1vdWZ1NUlHUXkweHRDMVVmYkRKaFg3azllODItQkJJYjdVUlJRcFBTY0E0Ql8wY1NXM0xnV1VCU1QwcF9BXzYtMFhfN21MdlViRnB4UXlRRjNhUTFyRVF2dGJ3eHRtcWdvNHlYTmZHZ2h1LTRHcDc2dGNrVl9yQVhXSlA3cDNtaldlRHk2RF9kNmpqMklPbUVmZjd0WXI2d1dKb2xJVTBmNGNHQzZuYV9qTll1SWpSVQ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 08:10:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "HDFC Bank Out, MCX In: Full List Of Jefferies' India Portfolio Changes Inside - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSENaVXNQb0h4UTdSamMxVWlodHdHRVg0YTFBNHZpdUpuX0tCQ1FhMWprdzVjVUFDYkFXREFRZ2VmdFQyQzA3Ym5TeW15Z2dRbXlVYzhYa0p0N1pkdUJ6QkhhUWRXV2lIeUZqVmpqQlNsa3JISVliVmQ4dl9Bcnc2NU5GeFZWSUR2OGtQdWlBckE1dnVWR2M2MUxOZWxUNktodVQ5NXJmQjh2dXFrMHJGSTJIeVNIVU5DMTZDbGhVelUwOG80eEk0VW9mc3M3TkRq0gHYAUFVX3lxTE93RWpvbHU3TUFGdTQ1bXpGNnhaRkcxZ0R3dnlBWEYyakFCVW9JYjNXNHdnOU5EbEdSejA2aFoyLUFkXzcyX3hSWGZKTElQRl9zS1pZdHBJOHZ5TUs5NTlRYlJUX3NSYkxSQk0wYW9KYnA1S0FJdmR6QzdzajZDcnNENVlDT2F3WEg1SkF2SWlFRFVMUGp3WmtIVV8xYjZ1MDdiRFhzSmV4NnN4N1p5aThOYU1xNWRuMFVHMnBUbC0teVVLYVZGcFJnajFnZHFDY09FbWduNmYySQ?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 06:26:32 GMT"
+      "title": "IDFC First Bank schedules analyst meets in Singapore, HK, Mumbai - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY01UUGRvc0RraV9BTWRHdGtaSUE3Z2dLN19WdXhzdVYteFJaY0RfbkFkdDhLQ1JkMWg4YlRtZDgwdkl6aTJVUnhUU2lMelp2NU9aaVJuREpzVzU1NE16eGlhRDNNUzNyU191THFkOHF1R3Z5X1hjYlUyODhld0JtbTVZdFd0LUlkSjAyemZOYzhHS3BVZ240RjZ4V3RFajRHM0pnZnpmb1U5Y1dSTXE5YUxhS00zX292YS1V?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 08:12:39 GMT"
     },
     {
       "src": "Google India News",
-      "title": "El Nino may push up food prices in India, but grain stocks offer cushion: S&P - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQm56NXczMUZ6T3ZNck85VTlUMmVPTHdoRk9IYmxsQTM1NW1lWG5DVzVzT2tTY3J0ZndqaUdEc3YxSm51NU5SaXNwRkxFV3hqekJjczlzaEpJazVIZURIc0dRMjRGVVg4a2ppMnFYU1ZUeDJXNFZXenZRaGoxVzMzUHB1WXN1emFSZ3AzN0hEUjR4c0hnME5fbFFMREVlWU50cURDdUo1Q0ZQcDFRMVphZUN0MGpCVjhWeEU4R2NZNTFRY25sZ1RyVlVzcGxXSUlsU1HSAdIBQVVfeXFMTkJuejV3MzFGek92TXJPOVU5VDJlT0x3aEZPSGJsbEEzNTVtZVhuQ1c1c09rU2NydGZ3amlHRHN2MUpudTVOUmlzcEZMRVd4anpCY3M5c2hKSWs1SGVESHNHUTI0RlVYOGtqaTJxWFNWVHgyVzRWV3p2UWhqMVczM1BwdVlzdXphUmdwMzdIRFI0eHNIZzBOX2xRTERFZVlOdHFEQ3VKNUNGUHAxUTFaYWVDdDBqQlY4VnhFOEdjWTUxUWNubGdUclZVc3BsV0lJbFNR?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 06:10:52 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Rs 7,681 crore IPO rush next week: Shiprocket, Milky Mist among 9 issues to hit the market - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSU1hVnNybjZETEtDbWF6cVlqWXpnb0NCeVdCOTFjek9DQXNPdlV4d1NwTng2YTc1N0htdHl3TndpbG52MWVNaVNtc2JyT2I2TWhTaUQtUTFLVU9mTjVUaE93SHVRamN0T2hDVW5SSTZwMU01TjZzMUxMYlc3aWVKUjJESUtVSFo2V3F1RzQ1cFktN09TYUFJaTdiYjZhdWxudm1HdHEtWWRnbll5WEhVUHh2a3M4QTdvaS1MaGp3ZVhDNnotM3AzbGRpUWowODJzMXNabWdpMXFjUWhKeWNlTlpSWEV4SkMzZ1FIcXI2cHTSAfYBQVVfeXFMTy1UejQ5NGJzNnFDMzhOSXNxRG0yZV9ZUy11VHZ0WWMyVVU0Q3NLYlBvRnBNZTJEblZRWngwRERnNUdWb254bXBCbnA3TVBzLUs0bUk5ZXpPWUw1WUlEQmNaMFl5Q1pqTFNWWFlhTE5Va1JyYUdOcnBGMHN1YUpITHd1d3lUbGhFd01SQjgzVnpEbGpKTW1IOVRJcnpGWUVScXE5bzF2c2FOdDBiNkxZMmwtV3NQRi1BT2dwSTJ6UHBkdjl1clUydzN2ejJ5ZGoydTM5V1I0WWtlVzZwZzhyelp5blFENDBJdU1vWHJZX1kwMTlNTmlR?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 06:13:34 GMT"
+      "title": "Ideological pollution at root of environmental degradation: Ex-SC judge - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWU5uS09Pb0xRS3UxaTJIV1YwT3VIRWdZejctR0ptSm44QzZGbVhWUUJhMnNEQWoxVHhIQ3BNNC1Qd0xJUUpOSWJJcTN5Y0J1LTlKV3lmQUtfQ25zVXBYLUFRMjhNX1JRMUViYVVmNXBrTF8zNzAtZS1sdTJMVUpoUXFnUmQ1c3FkalVhaHpiUWJpcGVxb0hubWVMSDA5eExYOEpSaWt2Q0pnX1hoN0VfM0VvYlpEeFhoUHVNVW81Y3RjWDV1TjZKUkJZX1VuZW9T0gHWAUFVX3lxTE11LW45ejYyVktYOXBxVUhNQk83Rm9ua1VyVHVfSUZidDBFeXdJQXVQenBfNTFnUEo1dk9JSjBLV2ZKbnAyQkZHV1RhMUlHN1dBeHVwTm9vaEhTUnhUMjVsVU5fS1NzWEVoVTlyMks4U3RiTlhXSmxFazEyanZ0aU9taTNaRVZFeHJPb3FfQkdWTjNjR2QtTFprbkFwbFBEMFcwX2RTd3hLc0F6TnpmQ21ERUYyMF9JZ0RqckdvSlAyOUZnRXdGbTBuRjhyeHpabGpMX2FGZVE?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 08:43:49 GMT"
     }
   ],
-  "fetchedAt": 1786259291
+  "fetchedAt": 1786265664
 }
