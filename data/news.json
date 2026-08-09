@@ -2,7 +2,25 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "Will Nifty, Sensex extend losses on Monday? Middle East tension, Q1 results, 3 other factors to drive mood next week",
+      "title": "Dividend alert: Jio Financial, Power Grid, HPCL among nearly 90 stocks turning ex-record date this week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-jio-financial-power-grid-hpcl-among-nearly-90-stocks-turning-ex-record-date-this-week/articleshow/133062498.cms",
+      "pubDate": "Sun, 09 Aug 2026 10:34:41 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Mcap of four of top-10 most valued firms jumps Rs 1.43 lakh cr; State Bank biggest winner",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-four-of-top-10-most-valued-firms-jumps-rs-1-43-lakh-cr-state-bank-biggest-winner/articleshow/133062390.cms",
+      "pubDate": "Sun, 09 Aug 2026 10:21:35 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Foreign investors continue buying spree; pour Rs 12,921 cr in first week of Aug",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/foreign-investors-continue-buying-spree-pour-rs-12921-cr-in-first-week-of-aug/articleshow/133062370.cms",
+      "pubDate": "Sun, 09 Aug 2026 10:18:25 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Will Nifty, Sensex extend losses on Monday? Middle East tensions, Q1 results and 3 other factors to steer D-St this week",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-extend-losses-on-monday-middle-east-tension-q1-results-3-other-factors-to-drive-mood-next-week/articleshow/133061939.cms",
       "pubDate": "Sun, 09 Aug 2026 09:20:58 +0530"
     },
@@ -13,22 +31,16 @@
       "pubDate": "Sat, 08 Aug 2026 17:20:13 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "India's resilient economy to support markets but global risks remain elevated: Sebi",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/indias-resilient-economy-to-support-markets-but-global-risks-remain-elevated-sebi/articleshow/133051804.cms",
-      "pubDate": "Sat, 08 Aug 2026 17:09:40 +0530"
+      "src": "LiveMint Markets",
+      "title": "Stocks to buy: Sun Pharma, BEL among 4 shares Bajaj Broking's expert recommends for next 6 months",
+      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-sun-pharma-bel-among-4-shares-bajaj-brokings-expert-recommends-for-next-6-months-11786249393533.html",
+      "pubDate": "Sun, 09 Aug 2026 11:02:34 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Foreign flows into Indian bonds may remain muted despite tax relief: SBI Funds",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/foreign-flows-into-indian-bonds-may-remain-muted-despite-tax-relief-sbi-funds/articleshow/133051511.cms",
-      "pubDate": "Sat, 08 Aug 2026 16:59:53 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Apollo Micro Systems Q1 Results: Firm posts record June-quarter profit at Rs 25 crore; revenue surges 88% YoY",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/apollo-micro-systems-q1-results-firm-posts-record-june-quarter-profit-at-rs-25-crore-revenue-surges-88-yoy/articleshow/133051313.cms",
-      "pubDate": "Sat, 08 Aug 2026 16:59:34 +0530"
+      "src": "LiveMint Markets",
+      "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war?",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-ongoing-us-iran-war-11786249461743.html",
+      "pubDate": "Sun, 09 Aug 2026 10:27:33 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -47,18 +59,6 @@
       "title": "Q1 results FY27 to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
       "link": "https://www.livemint.com/market/stock-market-news/q1-results-fy27-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11786240881737.html",
       "pubDate": "Sun, 09 Aug 2026 08:03:14 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
-      "link": "https://www.livemint.com/market/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out-11786234691643.html",
-      "pubDate": "Sun, 09 Aug 2026 05:48:11 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "A volatile week for tech revealed new stock narratives\u2014and 1 bargain",
-      "link": "https://www.livemint.com/market/stock-market-news/a-volatile-week-for-tech-revealed-new-stock-narratives-and-1-bargain-11786196401734.html",
-      "pubDate": "Sat, 08 Aug 2026 19:12:38 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Stocks under \u20b9100: Sumeet Bagadia recommends three shares to buy on Monday - 10 August 2026 - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNUWZOblpnTjYwT0J1Qi1wS3VGbTdrMWJNSzlKWXJEX01wNGtSajE5NUpidVRuTXh6UkwxbUh6Y0tRUlpqbXl5V0pGV1gtY3lhU0ZXNURrdmJuVnhHeEdxb3NDRDdlekFFWEVmUGVHcDUwcWhMYWZlR2cxSzhWdUZUeTVmM0F1ZWZDM2MyZzVfdXZKajdHQUxYenBjdFl5Q0k4RjNPaXBBZ244Q29tOVhNX3NSTFpORmdLUDlWSGxwSHNxV0c1Z21hWkx4aVprZEc0YzRndnQ3TUZRNlppSGJCN1VTX3JGd1JCQXNBRXM5STZDcy12SnZz0gH3AUFVX3lxTE1RZk5uWmdONjBPQnVCLXBLdUZtN2sxYk1LOUpZckRfTXA0a1JqMTk1SmJ1VG5NeHpSTDFtSHpjS1FSWmpteXlXSkZXWC1jeWFTRlc1RGt2Ym5WeEd4R3Fvc0NEN2V6QUVYRWZQZUdwNTBxaExhZmVHZzFLOFZ1RlR5NWYzQXVlZkMzYzJnNV91dkpqN0dBTFh6cGN0WXlDSThGM09pcEFnbjhDb205WE1fc1JMWk5GZ0tQOVZIbHBIc3FXRzVnbWFaTHhpWmtkRzRjNGd2dDdNRlE2WmlIYkI3VVNfckZ3UkJBc0FFczlJNkNzLXZKdnM?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 03:47:17 GMT"
+      "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid ongoing US-Iran war? - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPcWRiX1NhcUVEdTB3NmF4el82UzFndEVRZDNydmpaMDZkYmk5R19NME92Uk1POV90YzRPRkZYeWZXSEtYTEZGX29KbFVtWDBCczdzWEtXNUlIYUlUQVB3U2dFaUQzZ3BaNlhabmZtY1V5aTE1WFlUc01PX3ItYXA4TW1ETkhFdTBua2xlTjgzcTdRSk1EeEZ4Tmp0NlhfWUJkUnhkUVNERUhyV2liNXZ4V0xDMUktZlZ0dGpWYi1UQlExeWxITjBodTY1RzI3bWRzS3FFcERUelpPU3VCdXNKeDVvVkFQMXhQSGlkY0M0U0t5X3NnT0lZSl9sVDVXTmfSAYQCQVVfeXFMT0VtRG1zam1SMkJpWVNFMEdENW9Ja0VhU3lqRV90MjhRaWc0NHFhY2RET25od1o0X3RLLTNNTmNMX2lfN3l2NFB3SDdKVXZhT2tsazFPc0ZzV283bkZ5enBPYmN5eGtuVUlvVEpKdDhJU3JSUE53OEdWZ2JKdHNILUN4TXNnWG5LMHRYbDFRLUxCWG5wc1Z2MGRTOVNmRGlSNDdJRWxfMnk3eHhhVG9FZHREUWRGZHVJQllpdlZsRHZsdGZrMXlqX1NpOC1jV255dGd4Y3IzTjY5RVp2T1hoRjlfVGQzeGJ5YUIyNE9XemxfOG84R3FoYTM1cDBEUGtPcnhJQ24?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 04:57:33 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Interested In Uniparts India's (NSE:UNIPARTS) Upcoming \u20b99.00 Dividend? You Have Two Days Left - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPN1FzeGFaelRuYV96eFpSR0djWXQyZDhfUDRyUFNya2JVMUFvVVhXYmhPS2plQjdvclVZWmdiVlZubWo1aTZwTVNPOTRTMVpxU29PeTlfR3BKMmNtUlJ1SFVVRzBzUWJBUFgyV0xEZ0VoMkZWRElDcy1uaWdpeXRaNmw4Y3ZGSlpqWFlRTUFSN1ZvSVZ3RWNqVDZIV016YlNseWlBZXF1TWRqWnk1T3VLTmNiQlFVMTYwNm1TWV9pMU1JakM4SzJUZ204c2FqaEVPTnBsX2hKOUlkZ0x4a0JF0gHkAUFVX3lxTE85QkVWSndzZVFEUVh5R1VBdktLY28waWNEbTdlVkVIR01GVXpJSUxrbDNRYUY0VTl6Y0lBeWJNWDVhMktWRUhUQkI2Mjc4dzVQRWZRVDZuTGw0SnMtQ3JjaFZ2YkM1OFVwVkpBbjV5Zmw2SXVFd1pSM3A1Z0tuRE9NSk5JbXNZZXdfaVFpdUpSbXdzTG5vRkhDQm45Z05QZ2xwVzhwcDB3c0NzYkJpczczZ1hXVXFVTlhkNXA4S3pMZkZWQTIzRmUtM3pacDJmalpjcWgtRUN5UHU3cFFZRm9KRU1xWA?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 04:06:50 GMT"
+      "title": "Real estate leaders welcome RBI\u2019s decision to keep the repo rate unchanged at 5.25% - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb3pRRm9RbTNxNzM5R3pxTXA4RndYYm8tNkdreHE5WW11VEFUSDVhcXU3aGx1aUZ5TkV6N1cxTVpkU1dSUHZIOFZrbHVHSzNxVVNxd1ZYNlI3a3BPZ05LNzlfTjZjS0dUSnBZVnRRVzNGaV9Zc2MyWU4xUlFHMjlRLWlSczZrbHFXZjlSV0RQZTN1OVdwWVpLTXhGNERURjVxMTlkZEhGaHZZTXpTYkE?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 05:39:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Will Nifty, Sensex extend losses on Monday? Middle East tension, Q1 results, 3 other factors to drive mood next week - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOdzNReXFqRVppRTBHcU5oSnVURDdLRWo1dThQMmd4aXIxYUhHWUswREplUDBHdUhxbjMwY1Y4al9HSGUyeGZpRGFUOHJ5M1RGWEFoTkpwWUVCdHhaQnNQWG5JdTRWRW5ZeHh2MXB3Y25lWmVobFBjRzJzdXdFVGlnUlM4UEJ5cmtSOFJUSmxhUzVmdjNYVmU1WFhNdVFfaUduVWhBMnFKTzBJNUFnSzNLM1ZKTDZjSHJQVlBTS01OTzV0TjU5YV9jRkZ6ejZjY0NSeWlpc21lVWZ4SXZHX2Z6anA4S1BqSzRpS0VZaDhFVDlCYWoyWDIxa2V5Tk84ZEhBMGd5ZVFoVktlbVM2cUFkdnJpcU05TTREcERvajNLcnV2ZTV4OWFybkcxc185dk9pUk1sa0hnLV9HZlNOZmQtbXlzSTVmLXV5SFk4WXp0R3NydWRhcWRQVVRoTDBUQTFNRjBjLUNJUVNnYjhhWHZkQVhoMVRsN2xhSTdXOEV3?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 03:50:58 GMT"
+      "title": "AI trade gets crowded as India stages a comeback: What fund flows reveal - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOcmxtOEZmVzNHN0dGd01laVR5MDBoeDF3QVgybExLRHdRcUF3ZGVfMVRLczctNTZxMUsxUWpOVlU0UlB5Zjc1aGNQMGNyUjNxTmhMSjFGZEpRb0dIYnFCczZDRFlVeFl4bG1vYlBhX3c4akZFM3c3SHNHUDhwYWxHaFUwVVhLaUlUcV9BdW9Qc3dmcmZyWTlLQmxPN2F4MzR2NFRmTUV4VHhWSzJ6SHRFM2N2dG9oclQ0c1ktVWUxSXNTVEM5dThFbHJhTVgtaU5oaHFnM3RDS0NjMzZSZVl3NnA3TdIB4wFBVV95cUxOcmxtOEZmVzNHN0dGd01laVR5MDBoeDF3QVgybExLRHdRcUF3ZGVfMVRLczctNTZxMUsxUWpOVlU0UlB5Zjc1aGNQMGNyUjNxTmhMSjFGZEpRb0dIYnFCczZDRFlVeFl4bG1vYlBhX3c4akZFM3c3SHNHUDhwYWxHaFUwVVhLaUlUcV9BdW9Qc3dmcmZyWTlLQmxPN2F4MzR2NFRmTUV4VHhWSzJ6SHRFM2N2dG9oclQ0c1ktVWUxSXNTVEM5dThFbHJhTVgtaU5oaHFnM3RDS0NjMzZSZVl3NnA3TQ?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 05:48:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Strong credit growth, capital inflows likely to support Indian markets; rupee outlook improves: Report - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPRDNwSEQ3QzNUalFzd2F4NElHX2hTRFowNFFHZ1JhTzlJZ2U4Yjl4OEtJU05TMnlieFNjUzN4azdxbFJtd2ZnMzNoSXRLRjNhUmF1MjVXc2toRUJ2V0UxVWMwNjJPdjJZNTVsSGdhdjhpM0tqX0Z2UjgxbVYwMWhWMFMxa2ctLU9qeFBKLXhuVjJqd3RodVQ0TFJLdFJ2QVhnNktyeHVtd2ZLejdjVFlCNzVMR2Q0bFNlZFdObC1xS3AyalBSb1hsbWM2VjVhUXpTMGd0QUNiR1Q3XzFZQzNEWXh2V2hwSmtsYmZ1cHRVUjV1d1pUSHU4?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 03:38:52 GMT"
+      "title": "The closing auction is fine, but the participation isn\u2019t - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb0dvZ0IzbW01NlZ4eGFkSDZZWE5laFBhNm83MW5fZlFvaXJLcXFpdktKckpXajhHd2V1U2p0eXpmWGxZbVdmRnp2YXgtOG1mbWU1RzM1bjJDMUVZMlpuVDY4WFlrM1hSVkFLOWVIenE2Zmt1SGR0VWJtQ3E2RDk3LWpJanNBdkVERTZZY09XckdLdEpyLXNGM2ttY1c1YTRfcU05WUd5UWNjaWR2Tjh1NtIBtgFBVV95cUxPWFdtSW9pcUk4cF9RNmhQMll5eHlyZ21VdnlueFlKdDB0Z3M2LTlkTTV5Z3Z5V19SRVlhbVc0clBIQTMxVGw4eXR3cUhRQlg0VE5XaHVlSG9GRU1iYWhncXhiSlBTRVZQV0lWRzFKVl8tSmgwTmg4Z0pVS0JuZE44MkVic1Y0LWw4LXJtbUxqcFlNZGtEWlpqVFBDSTNvS21MT1NFXzZKai1MVExMRjdfMGplUWF6Zw?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 05:35:27 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Markets may remain difficult to beat, but investor crowding could create opportunities at extremes - tribuneindia.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUTlWSFZnb295RGlrTlZmSGdIck9CUjFYTlA3VEVvV2l2VGF1eXExWUdPSU54STFjTk92SFBiUHk4eGdDZnBSZlRHUlpmeFR5cUludDdkdXhkVGtDQ0NkT3JOazJWUzRHQTRERTFrVUI5WjZTSzdGUy1fQ0dIU2xjR0dsck1PV2owYlBwaDNIT0c3bnV4MkpRVmhCWTVtdTZuWGFId0kyZWI0YUdqdHNmUzY5U2E2azk0WEJBNU9kSXRlUlFxRzg0ZHo2clA4ZXhrakw2TWRVTTXSAdwBQVVfeXFMTXpqa2pmVjRxeWdJUVBRV0J2UTRyNDlVWTF3RFZ3ZzA4aXNaSDhvV21WdnpHZzZZUGx5bEppMHEtNVpNbHpuNEtrc1Bnd045Z3MySThKeEFwdFJGcG40cll2SUM1VkpSOXpqVXFINzR4dHBxcjBBOG8yclJWOEN5UnlIX0t1TkFqX2pCbzdZUVRyNmZqRmJad0JHZHRCWVNOZW9KUDM5OXN5aFJrYS03TFRrU0xBeVAwZkhsX0tUTGJmMHoxSk1kUXZIOUkwWXlMLUpXcjlIdXhEaVN2eg?oc=5",
-      "pubDate": "Sun, 09 Aug 2026 03:58:14 GMT"
+      "title": "Leap India collects Rs 744 cr from anchor investors; IPO to open on August 7 - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYkFTSUtJOGpBVDZhOHBSaldaRS02MzRUR3pnU1A0Y2ZMQ0ZCOG1tU1oydU5mU0JaaVZtb05LQmthVjBhdW5iWmJHel94eDNXUF9UaGdUTUgxdG5lUTBtQkJua0ZrQTdTeVdiaFFXZTFGLUl0bU9HN0F2VlVESzloc0RKeVpmM0dfeXVtMWNBVnBISW5aRzFkZTJKWmgyazY4eTFBZW1Ob3RjRXFyYTRrMWFnajIzakh4LW1nSEdsRkZaUkVhRzE4UU40UU1qdHZqQ1hWNEVQd9IB3gFBVV95cUxPdnRqeFBwVFhoQjVKVEw3eHlXZUNRdjcydFFKdE44ZUdqNVJDQ0N4VEhXVjBCY2FWVXVJS2YyUU9DaVo2cmpwYUQxaVJHR0dzel9SOGFhVHU0ZXl0cndKN0dFajFXWl9fSkRLWlE1T1R6MjZCMjhycmo3WXRCWEl6XzVNZ09pbFo0TmllLXpBRFpyZVlIbzJxZ2hPdjZ3RkJEUWREdWhOQ05ySUttcEFvczlwd25xY3c1alM4QjQ2NlRKOHZOaXdMeEFHalhFNjNKejd0SXBGWDNSbUVJQnc?oc=5",
+      "pubDate": "Sun, 09 Aug 2026 05:15:13 GMT"
     }
   ],
-  "fetchedAt": 1786249471
+  "fetchedAt": 1786254771
 }
