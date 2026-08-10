@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Oil climbs 5% as Iran, US both demand compensation and Hormuz hopes fade",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-climbs-5-as-iran-us-both-demand-compensation-and-hormuz-hopes-fade/articleshow/133132265.cms",
+      "pubDate": "Tue, 11 Aug 2026 00:41:43 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US bonds fall as markets weight inflation, Middle East risks",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-fall-as-markets-weight-inflation-middle-east-risks/articleshow/133130271.cms",
       "pubDate": "Tue, 11 Aug 2026 00:07:29 +0530"
@@ -23,12 +29,6 @@
       "title": "Milky Mist Dairy Food mops up \u20b9465 crore from anchor investors ahead of IPO",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/milky-mist-dairy-food-mops-up-465-crore-from-anchor-investors-ahead-of-ipo/articleshow/133117007.cms",
       "pubDate": "Mon, 10 Aug 2026 21:31:48 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "NSE indices rejig: Vodafone Idea, Wipro part of major changes in Nifty Next 50 and Nifty 100. Check full list",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nse-indices-rejig-vodafone-idea-wipro-part-of-major-changes-in-nifty-next-50-and-nifty-100-check-full-list/articleshow/133114561.cms",
-      "pubDate": "Mon, 10 Aug 2026 20:58:40 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,18 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Gold climbs to nine-week high on buying momentum as inflation data looms",
+      "link": "https://www.livemint.com/market/gold-climbs-to-nine-week-high-on-buying-momentum-as-inflation-data-looms-11786389265821.html",
+      "pubDate": "Tue, 11 Aug 2026 00:44:25 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops",
+      "link": "https://www.livemint.com/market/wall-street-eases-as-hopes-for-imminent-hormuz-deal-fade-intel-drops-11786389146085.html",
+      "pubDate": "Tue, 11 Aug 2026 00:42:25 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Zen Technologies shares to be in focus on Tuesday after company secures  \u20b9295 crore defence order",
       "link": "https://www.livemint.com/market/stock-market-news/zen-technologies-shares-to-be-in-focus-on-tuesday-after-company-secures-rs-295-crore-defence-order-11786381376241.html",
       "pubDate": "Mon, 10 Aug 2026 22:49:03 +0530"
@@ -77,18 +89,6 @@
       "title": "This new-age tech stock hits over 4-year high, recovers 70% from March lows. Are you holding it?",
       "link": "https://www.livemint.com/market/stock-market-news/paytm-share-price-hits-over-4-year-high-recovers-70-from-march-lows-are-you-holding-it-11786366609923.html",
       "pubDate": "Mon, 10 Aug 2026 22:02:20 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Nippon India Equity buys stake in Iris Clothings that has risen 250% in five years",
-      "link": "https://www.livemint.com/market/stock-market-news/nippon-india-equity-buys-stake-in-iris-clothings-that-has-risen-250-in-five-years-11786372512339.html",
-      "pubDate": "Mon, 10 Aug 2026 20:32:56 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Wall Street slips ahead of inflation data, crude oil surges",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-slips-ahead-of-inflation-data-crude-oil-surges-11786370280375.html",
-      "pubDate": "Mon, 10 Aug 2026 19:41:04 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -119,7 +119,37 @@
       "title": "PC Jeweller\u2019s Q1 profit jumps 37% as operating earnings nearly double",
       "link": "https://www.cnbctv18.com/market/pc-jewellers-q1-profit-jumps-37-percent-as-operating-earnings-nearly-double-19966054.htm",
       "pubDate": "Mon, 10 Aug 2026 22:41:47 +0530"
+    },
+    {
+      "src": "Google India News",
+      "title": "Commercial Syn Bags | Stock Share Price Live - MarketSmith India",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Ea3BLWVFURVpIcGlTUVpMQUsxSXBZQjhNbDN1LW9tSG5oMGFmT3AxRnY2UGhtQWFlZk1QMWN0Qm8tdExXUkpienRzbmVMd0pkVXpobmhMNTd6Y1R1ZVR1U0poQUFnLWY4OXI0cEdwbkpFSG1sZGc?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:14:42 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Lupin Shares Hit 7-Week Low Amid Broad Correction and Q1 Earnings Aftermath - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS2VJOUVhZW01b25NQVJhN3lwZHA5X1d6YUFneVRrdDFybU10NThheGh4eTFHTzJTWGxkbHR1RkhMLXkwRFViRXV0UXR3U2xjSXIxMERuYW9nWnBKZkR5anZoa3BHdG9acGNPZUsyaWotempXS1pKcVF0WVI1Qmo5SzdKM3ZwaTFfT0s2WTJ3dkZ0VWE2ZG9rU0hwaUxwcl90MG5INHpR?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:36:00 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Sebi proposes more room for companies to spread out debt repayments - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUFNRXQyQVBpWUdZZVN3ZFVHMlA3OXpFQ0p1SmJWZldfSDFWR1EwREJ4ems5RjZtNThqX0IwQzdnbW1lUFdkVHJHYmVVOE15QmZiZlJZRXpwM05RU1V1M2hYUi1uWEdfWlBObENlY0NPdktTc21ya3o1dDNQYlJ2SW1TakpaRTk5azIwMUd2cEZ0b25fOU5LWEhBcWtzNlJITkxCZnh3?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:07:30 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Lord's Mark Industries Ltd | Stock Share Price Live - MarketSmith India",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSDRCT1VoZ3BPRVNreWtjV21EdFdaZjkzLVpRdnlodkpHdmlLQjBlTC1IdEJQZ3FNYmYtQTMzVHNXc2hZN0FRX3dBUW14T014YTI4WVhtVWNENGUyRzZjRUdvZkFyOHdqUkZnNjV6VzFpWXdrZXc?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:14:43 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "'Can\u2019t States be more competent?': Sen Marshall vs Booker erupts over SNAP frauds - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTEttYXlMM2MzbG1sT0p6cjRnSy1wZ3FjN0l5Y0tzZ1hjaUlmYXhHdURvQ29qVFdpUXpuNm9UWERhb0JVWnRraTI5SW56R0hnRFZPNFp2NVQwWkxUbXd2R0NGZWQ1ajlLeGlqMFA1RnpFNVkxYzhiVTNDbFhRZndXeUI4UGVZNjNRR0kxVzg1SDBRaUFjbDE4eWlnVUcyQXRaSTNnZnBWSGhYN2NGbUJoYUhjNTFlaFRmZ01zeGk4ekZOcmNBVUZ4S1AwVFA4M08yeGRkZFIyd0NXZ0xOWFZLSkhvbjlSUzFZcGowM0RwRdIB9AFBVV95cUxOZ09FTzBYX1BlVWVIRVNwN0JzQktoTGpERHZpMmxjWUF6U25fa2QyQTA1RUF1VnZYTG5vM2doYjNMYXRtUTlySHhwV3VkcldYOGVDTENtYk9PYVR2aDgwdjVnb0RwaXlITjNOYzJWdWdaaGhMaFFNQURJc2R1QmZtbUplaGR6bzFMVEdDeUJvcm1lRzNiRTVnQmdTYzdUc1NMOThRc0xzYjdpbW1QQzRWdXR4TlpkWWZCTHhUNW5ZYzB1aEJiY3hkMHpWbkowcHgwaXhsUWVmVndZeU13ajk1YnRJQ045YVFweWYzYXB0a0Z6NVJB?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 19:35:56 GMT"
     }
   ],
-  "fetchedAt": 1786389183
+  "fetchedAt": 1786391760
 }
