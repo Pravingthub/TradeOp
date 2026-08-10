@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US bonds fall as markets weight inflation, Middle East risks",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bonds-fall-as-markets-weight-inflation-middle-east-risks/articleshow/133130271.cms",
+      "pubDate": "Tue, 11 Aug 2026 00:07:29 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Archer Aviation shares jump nearly 10% on deal to acquire Boeing\u2019s Wisk, two other units",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/archer-aviation-shares-jump-nearly-10-on-deal-to-acquire-boeings-wisk-two-other-units/articleshow/133126628.cms",
+      "pubDate": "Mon, 10 Aug 2026 23:25:44 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133117226.cms",
       "pubDate": "Mon, 10 Aug 2026 21:41:26 +0530"
@@ -19,16 +31,10 @@
       "pubDate": "Mon, 10 Aug 2026 20:58:40 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Nifty rejig: IT major Wipro to move out of benchmark index after BSE gets inclusion",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-rejig-it-major-wipro-to-move-out-of-benchmark-index-after-bse-gets-inclusion/articleshow/133111972.cms",
-      "pubDate": "Mon, 10 Aug 2026 20:16:56 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Intel shares drop 5% after announcing $15 billion offering to support AI growth",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/intel-shares-drop-5-after-announcing-15-billion-offering-to-support-ai-growth/articleshow/133111917.cms",
-      "pubDate": "Mon, 10 Aug 2026 20:14:24 +0530"
+      "src": "Business Standard",
+      "title": "CDs' share in debt fund portfolio surges ahead of g-sec",
+      "link": "https://www.business-standard.com/markets/news/cds-share-in-debt-fund-portfolio-surges-ahead-of-g-sec-126081001502_1.html",
+      "pubDate": "Mon, 10 Aug 2026 23:23:17 +0530"
     },
     {
       "src": "Business Standard",
@@ -55,40 +61,46 @@
       "pubDate": "Mon, 10 Aug 2026 20:12:55 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Paytm shares jump 10% after Bernstein revises target price to \u20b92,200",
-      "link": "https://www.business-standard.com/markets/news/paytm-shares-jump-10-after-bernstein-revises-target-price-to-2-200-126081001597_1.html",
-      "pubDate": "Mon, 10 Aug 2026 19:45:42 +0530"
-    },
-    {
       "src": "LiveMint Markets",
       "title": "Zen Technologies shares to be in focus on Tuesday after company secures  \u20b9295 crore defence order",
       "link": "https://www.livemint.com/market/stock-market-news/zen-technologies-shares-to-be-in-focus-on-tuesday-after-company-secures-rs-295-crore-defence-order-11786381376241.html",
-      "pubDate": "lun, 10 ago 2026 22:49:03 +0530"
+      "pubDate": "Mon, 10 Aug 2026 22:49:03 +0530"
     },
     {
       "src": "LiveMint Markets",
       "title": "Intel plans $15 billion share sale as turnaround rally lifts stock",
       "link": "https://www.livemint.com/market/stock-market-news/intel-plans-15-billion-share-sale-as-turnaround-rally-lifts-stock-11786381678993.html",
-      "pubDate": "lun, 10 ago 2026 22:47:31 +0530"
+      "pubDate": "Mon, 10 Aug 2026 22:47:31 +0530"
     },
     {
       "src": "LiveMint Markets",
       "title": "This new-age tech stock hits over 4-year high, recovers 70% from March lows. Are you holding it?",
       "link": "https://www.livemint.com/market/stock-market-news/paytm-share-price-hits-over-4-year-high-recovers-70-from-march-lows-are-you-holding-it-11786366609923.html",
-      "pubDate": "lun, 10 ago 2026 22:02:20 +0530"
+      "pubDate": "Mon, 10 Aug 2026 22:02:20 +0530"
     },
     {
       "src": "LiveMint Markets",
       "title": "Nippon India Equity buys stake in Iris Clothings that has risen 250% in five years",
       "link": "https://www.livemint.com/market/stock-market-news/nippon-india-equity-buys-stake-in-iris-clothings-that-has-risen-250-in-five-years-11786372512339.html",
-      "pubDate": "lun, 10 ago 2026 20:32:56 +0530"
+      "pubDate": "Mon, 10 Aug 2026 20:32:56 +0530"
     },
     {
       "src": "LiveMint Markets",
       "title": "Wall Street slips ahead of inflation data, crude oil surges",
       "link": "https://www.livemint.com/market/stock-market-news/wall-street-slips-ahead-of-inflation-data-crude-oil-surges-11786370280375.html",
-      "pubDate": "lun, 10 ago 2026 19:41:04 +0530"
+      "pubDate": "Mon, 10 Aug 2026 19:41:04 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Bharat Forge analyst call: Key things to know",
+      "link": "https://www.cnbctv18.com/photos/market/bharat-forge-analyst-call-for-q1fy27-key-things-to-know-19965843.htm",
+      "pubDate": "Tue, 11 Aug 2026 00:02:23 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "CMS Info Systems Q1 profit falls 11% as currency-supply disruption hits ATM volumes",
+      "link": "https://www.cnbctv18.com/market/stocks/cms-info-systems-share-price-q1-profit-falls-11-as-currency-supply-disruption-hits-atm-volumes-19966106.htm",
+      "pubDate": "Mon, 10 Aug 2026 23:43:10 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -107,49 +119,7 @@
       "title": "PC Jeweller\u2019s Q1 profit jumps 37% as operating earnings nearly double",
       "link": "https://www.cnbctv18.com/market/pc-jewellers-q1-profit-jumps-37-percent-as-operating-earnings-nearly-double-19966054.htm",
       "pubDate": "Mon, 10 Aug 2026 22:41:47 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Precision Wires Q1 profit zooms 72% on 60% revenue growth; plans \u20b9150 crore CCD issue",
-      "link": "https://www.cnbctv18.com/market/stocks/precision-wires-india-share-price-q1-profit-zooms-72-on-60-revenue-growth-plans-rs-150-crore-ccd-issue-19966088.htm",
-      "pubDate": "Mon, 10 Aug 2026 22:30:24 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Bombay Dyeing Q1 profit nearly halves, revenue rises 9%; operating loss narrows",
-      "link": "https://www.cnbctv18.com/market/earnings/bombay-dyeing-q1-profit-nearly-halves-revenue-rises-9-operating-loss-narrows-19966037.htm",
-      "pubDate": "Mon, 10 Aug 2026 22:05:57 +0530"
-    },
-    {
-      "src": "Google India News",
-      "title": "These large-caps have \u2018strong buy\u2019 & \u2018buy\u2019 recos and an upside potential of more than 23% - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUHoybFlDbzAxSS1laGM1SENjb0k1M3lRYmNzYlFkempETjJ3YUdYaklua2F2VTN5ZjMtNUhYSnIwS2J4ajNPbm5WeXpmdDRzenppQnZrc0c3NGV5MzhFcDBaR2V2Rkd6bGZtc0dMbmZMTm5fR1VLQWxyQklXcnNWd3djSnZHYWJicEdTOWtZNVBaMzFIZEhwcWFrQVEzUE1weW9TMnlCVXhlWlNueHphRC00NzMtcHhwQVdVY1Fsc3otOGE4M1VDNnU0ekhfVjJfcGIyd0w2S2xNSktVYVBnb1lKekpON1ZUSWluUg?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 17:34:58 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "SpaceX retail investors turn net sellers for first time since IPO; offload $4.5 million worth of shares - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNalFpX2ZoSnV6cTNCNFBKYXRTbGYyRU9Lci1wcklNSUxGNFcyX0MzMWdBU2lBMnFXTkJHUXA1LXQ4MHlobnZMcmJET2loa2FXaWF0NFZrd0tTQWRKcXJEMENBT0pIMDU0Z21CYk1LeDJJVnZqcnkwNkxPSk5NUkZ2OVl5RUZwQTdLSVpZazFLZDIydHJJelVwbmFHbzQ1eGdUSVhIaElvRHJocUtfZmR4eDlLbkJ2c0ctY3hTaWo3TTdjMmcyeVQ0aHNJUlpTRzZwR3dJZGpmbmZrMkNJTWxpODhBQnRDN0xfRG0wd25DclpVYnRkZjhuck05TXB3M3RlSFdGRzRCaE44OV9TMUpsVTRhOHNiYzZOZzVURWNkeFbSAaYCQVVfeXFMTVhwOWVwaXFaM1Rka0Y5LW1ES3hTbHl0NEhkbkNjSEtxYzhURm1HRXhWWFZqVTRjakRTT2UyQjA3eVdoSmZSOWo5UGYzcm1zb3VMQlBialpNYl9wTnlORV9rZ1NCcTZJUnBWVExXNXZlUFJfdVdZdkdKX0t4d1RfY1EzZl81T2V1RGlDX0NqVUhHa2tYc2J1WkRrd2trZkgyZV9HZjZZeDZwVkpHczR2N0RBaS0yUHNETjhZcmlNRnlnb3dvNjI1OXhNVEJ4Z1YtbzdvSXFrNDlBRTN1ZUxubXdHOXlBbFlkQ3hYMUJGQlpJZDRzOXZFVHV3Q3l6NjZYLTBmNXltdU9MWlQ5NHBMRDRIWG5qSzhTSGE3NFZjRW4yRDdDdDFn?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 17:52:00 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "CDs' share in debt fund portfolio surges ahead of g-sec - business-standard.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNEJXMjZQcXlqUE83SlNmUWVXY2hwUXo5M28yNnNKc08taUNCV095Slh4VzF2d0NQbk9OenlBUnNYV3lFNXNaOHJTZ1hKZUJaRFZDeEotZmF1T0FzZnZPampKQWFEVFpPQkFIT2RsOTJZbXpneXEzZUJPc0Y2cWhSU1J2dFowVTBoaENPdVdWR2VRaWlsVEVDWG1TV3BCaHJQRXJPN1ZkQmlLMjNHcXUtbENxbDRoc2xwTE5kYmVB0gHDAUFVX3lxTE5rSEFOam1PM1g3VXhLZl9BQVY1bWl5U2RMNFdOY2JHWDdKSi1QSlRtLTYzZE9Lb1Z2ODNmTlVlT0h5LWdaTDI2cHdhX0dyNkg1VXM3Sl9HXzFvTjZVQ1MwOGdxYTNrSUdSWW1iQktHWlpEM2hHbWs1ckg4YXNtMktPd1hXTDRsckwtemhQc0pDNW84NXQya3p4dlpqdkdnemk1bl9FLUJHV2tYTjhRZUxsVzdPTVk4UUJSdTM2SlpRdEtTVQ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 17:53:17 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "FIIs net buy Rs 1,975-crore shares; DIIs turn net sellers on August 10 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU3luNjBBcVQ2emxieno1SDVaaHducHVRb2RzLXZVVzlJTElyelV4aGx4VnVpSnRlVDdxeHdab1Y3T0Z3bE9vS2IzZjZEbGdNUnVOSFZMSDdUZnUtOTRqSU5oTmZIaWdmSEo0TW9LbDBsTkkzU3ctTHJxVzlRUEV4eHRsMGJKWHduRUdETVVMemNGNU1LZ3dTZTV4RG8xUzV6Mm1kQ0tyWldqWjJ6VXhrWHozNDVJSEtnUm1PcjRTVmhEYnZwaFU3MnduZ0VuWHVBRl9lMdIB1AFBVV95cUxQU3luNjBBcVQ2emxieno1SDVaaHducHVRb2RzLXZVVzlJTElyelV4aGx4VnVpSnRlVDdxeHdab1Y3T0Z3bE9vS2IzZjZEbGdNUnVOSFZMSDdUZnUtOTRqSU5oTmZIaWdmSEo0TW9LbDBsTkkzU3ctTHJxVzlRUEV4eHRsMGJKWHduRUdETVVMemNGNU1LZ3dTZTV4RG8xUzV6Mm1kQ0tyWldqWjJ6VXhrWHozNDVJSEtnUm1PcjRTVmhEYnZwaFU3MnduZ0VuWHVBRl9lMQ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 17:49:21 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "The Wealth Company launches GIFT City FoF for global investors - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXRFUG1iZXhqQWpLV1JzeWs5cldiSDl1U2ljeVlINGh6UEpSWFg3U1htN250UmRpYWZ2ZmtFWlo2VDRTNTYwc1NyN1hLZkRGWkZXcmVpTmRDSEVneWh6VlV3VllQb1JTRWtWRUVJNlZJb1Q3YS1rcG5Gak5ZMjB1bnhHeXdJVE5kOWx5YXh5ZXNZY3dUaGtsdHlTcWoyd1p0amxCYnROMW1oYWpIdlFTeU4tWER2Z0JNMlR5NUtUR2kxMGJpTk85WDhlY9IBywFBVV95cUxQZXRFUG1iZXhqQWpLV1JzeWs5cldiSDl1U2ljeVlINGh6UEpSWFg3U1htN250UmRpYWZ2ZmtFWlo2VDRTNTYwc1NyN1hLZkRGWkZXcmVpTmRDSEVneWh6VlV3VllQb1JTRWtWRUVJNlZJb1Q3YS1rcG5Gak5ZMjB1bnhHeXdJVE5kOWx5YXh5ZXNZY3dUaGtsdHlTcWoyd1p0amxCYnROMW1oYWpIdlFTeU4tWER2Z0JNMlR5NUtUR2kxMGJpTk85WDhlYw?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 17:46:17 GMT"
     }
   ],
-  "fetchedAt": 1786385222
+  "fetchedAt": 1786389183
 }
