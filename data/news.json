@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Indian bonds steady as soft US data offsets oil rise",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-steady-as-soft-us-data-offsets-oil-rise/articleshow/133099683.cms",
+      "pubDate": "Mon, 10 Aug 2026 16:41:49 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Project Sudarsan: How Sebi is using AI to police finfluencers with 60% of investors trusting their advice",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/project-sudarsan-how-sebi-is-using-ai-to-police-finfluencers-with-60-of-investors-trusting-their-advice/articleshow/133099411.cms",
+      "pubDate": "Mon, 10 Aug 2026 16:36:58 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Rupee weakness cushioned by central bank intervention, shorts grow wary",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-weakness-cushioned-by-central-bank-intervention-shorts-grow-wary/articleshow/133098407.cms",
+      "pubDate": "Mon, 10 Aug 2026 16:24:30 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Has Dalal Street's near term outlook improved? HSBC lists 4 headwinds, 3 tailwinds to watch out for",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/has-dalal-streets-near-term-outlook-improved-hsbc-lists-4-headwinds-3-tailwinds-to-watch-out-for/articleshow/133097555.cms",
       "pubDate": "Mon, 10 Aug 2026 16:11:34 +0530"
@@ -13,52 +31,40 @@
       "pubDate": "Mon, 10 Aug 2026 16:05:17 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Bharat Forge shares plunge 9% after firm posts Rs 90 crore Q1 net loss on exceptional items, revenue rises 19%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bharat-forge-shares-plunge-9-after-firm-posts-rs-90-crore-q1-net-loss-on-exceptional-items-revenue-rises-19/articleshow/133097144.cms",
-      "pubDate": "Mon, 10 Aug 2026 16:02:46 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "FIIs more than doubled their stakes in 11 multibaggers in June quarter. Do you own any?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-more-than-doubled-their-stakes-in-11-multibaggers-in-june-quarter-do-you-own-any/slideshow/133096409.cms",
-      "pubDate": "Mon, 10 Aug 2026 15:33:53 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Info Edge Q1 Results: Standalone Profit falls 6% YoY to Rs 245 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/info-edge-q1-results-standalone-profit-falls-6-yoy-to-rs-245-crore/articleshow/133095835.cms",
-      "pubDate": "Mon, 10 Aug 2026 15:32:40 +0530"
+      "src": "Business Standard",
+      "title": "IOL Chemicals & Pharmaceuticals consolidated net profit rises 89.80% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/iol-chemicals-pharmaceuticals-consolidated-net-profit-rises-89-80-in-the-june-2026-quarter-126081001208_1.html",
+      "pubDate": "Mon, 10 Aug 2026 17:06:24 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Japanese equities rally on AI and rate-cut hopes",
-      "link": "https://www.business-standard.com/markets/capital-market-news/japanese-equities-rally-on-ai-and-rate-cut-hopes-126081001033_1.html",
-      "pubDate": "Mon, 10 Aug 2026 15:50:27 +0530"
+      "title": "Patel Engineering consolidated net profit rises 24.63% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/patel-engineering-consolidated-net-profit-rises-24-63-in-the-june-2026-quarter-126081001207_1.html",
+      "pubDate": "Mon, 10 Aug 2026 17:06:16 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "China equities gain on policy support hopes",
-      "link": "https://www.business-standard.com/markets/capital-market-news/china-equities-gain-on-policy-support-hopes-126081001032_1.html",
-      "pubDate": "Mon, 10 Aug 2026 15:50:19 +0530"
+      "title": "Gammon India reports consolidated net loss of Rs 370.15 crore in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/gammon-india-reports-consolidated-net-loss-of-rs-370-15-crore-in-the-june-2026-quarter-126081001203_1.html",
+      "pubDate": "Mon, 10 Aug 2026 17:06:02 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Large currency speculators slightly reduce net short position in Pound futures market",
-      "link": "https://www.business-standard.com/markets/capital-market-news/large-currency-speculators-slightly-reduce-net-short-position-in-pound-futures-market-126081001027_1.html",
-      "pubDate": "Mon, 10 Aug 2026 15:50:02 +0530"
+      "title": "Bharat Forge reports consolidated net loss of Rs 89.73 crore in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/bharat-forge-reports-consolidated-net-loss-of-rs-89-73-crore-in-the-june-2026-quarter-126081001201_1.html",
+      "pubDate": "Mon, 10 Aug 2026 17:05:54 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Motilal Oswal AMC surpasses \u20b92 trillion assets under management in August",
-      "link": "https://www.business-standard.com/markets/news/motilal-oswal-amc-surpasses-2-trillion-assets-under-management-in-august-126081000921_1.html",
-      "pubDate": "Mon, 10 Aug 2026 15:48:59 +0530"
+      "title": "Venus Pipes & Tubes standalone net profit rises 6.66% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/venus-pipes-tubes-standalone-net-profit-rises-6-66-in-the-june-2026-quarter-126081001200_1.html",
+      "pubDate": "Mon, 10 Aug 2026 17:05:46 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "IPO boom meets investor caution as FY26 signals more mature market: Report",
-      "link": "https://www.business-standard.com/markets/ipo/india-ipo-market-hits-record-fy26-but-investors-turn-selective-126081001000_1.html",
-      "pubDate": "Mon, 10 Aug 2026 15:36:27 +0530"
+      "src": "LiveMint Markets",
+      "title": "Gland Pharma Q1 Results: Net profit jumps 47% YoY to  \u20b9317 crore; CDMO revenue rises 20%",
+      "link": "https://www.livemint.com/market/gland-pharma-q1-results-net-profit-jumps-47-yoy-to-rs-317-crore-cdmo-revenue-rises-20-11786360033317.html",
+      "pubDate": "Mon, 10 Aug 2026 16:45:19 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -85,71 +91,65 @@
       "pubDate": "Mon, 10 Aug 2026 15:29:46 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Titan shares: Is the Tata Group stock an attractive buy after Q1FY27 results?",
-      "link": "https://www.livemint.com/market/stock-market-news/titan-shares-is-the-tata-group-stock-an-attractive-buy-after-q1fy27-results-11786352452848.html",
-      "pubDate": "Mon, 10 Aug 2026 15:02:07 +0530"
+      "src": "CNBC TV18",
+      "title": "Gland Pharma Q1 net profit jumps 47% on strong CDMO, B2B performance; revenue up 20%",
+      "link": "https://www.cnbctv18.com/market/stocks/gland-pharma-share-price-q1-net-profit-jumps-47-on-strong-cdmo-b2b-performance-revenue-up-20-19965785.htm",
+      "pubDate": "Mon, 10 Aug 2026 17:01:54 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Wockhardt swings to \u20b9106 crore profit in Q1 on 26% revenue growth",
-      "link": "https://www.cnbctv18.com/market/stocks/wockhardt-share-price-swings-to-rs-106-crore-profit-in-q1-on-26-revenue-growth-19965713.htm",
-      "pubDate": "Mon, 10 Aug 2026 16:14:44 +0530"
+      "title": "SEBI probing August 3-4 trades during CAS to check for possible manipulation",
+      "link": "https://www.cnbctv18.com/market/sebi-probing-august-3-4-trades-during-cas-to-check-for-possible-manipulation-19965796.htm",
+      "pubDate": "Mon, 10 Aug 2026 16:59:18 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Bharat Forge expects 20-25% growth in FY27, margins to recover to 27-28% in Q2: CMD Baba Kalyani",
-      "link": "https://www.cnbctv18.com/market/earnings/bharat-forge-fy27-growth-margin-recovery-baba-kalyani-q2-outlook-19965707.htm",
-      "pubDate": "Mon, 10 Aug 2026 16:06:07 +0530"
+      "title": "5 IPOs worth \u20b97,479 crore open this week \u2014 but there\u2019s a bigger shift",
+      "link": "https://www.cnbctv18.com/videos/market/fresh-capital-takes-the-lead-as-5-ipo-worth-7479-crore-open-this-week-19965792.htm",
+      "pubDate": "Mon, 10 Aug 2026 16:49:59 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Sensex, Nifty end higher after CAS adjustment: What drove today\u2019s trade?",
-      "link": "https://www.cnbctv18.com/market/sensex-nifty-end-higher-after-cas-adjustment-what-drove-todays-trade-19965677.htm",
-      "pubDate": "Mon, 10 Aug 2026 15:58:30 +0530"
+      "title": "Steel Authority of India eyes 5% FPO in FY27 to raise funds for capex push",
+      "link": "https://www.cnbctv18.com/market/steel-authority-of-india-eyes-5-fpo-in-fy27-to-raise-funds-for-capex-push-19965764.htm",
+      "pubDate": "Mon, 10 Aug 2026 16:43:03 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Gold may hit $5,000 by end-2026 as softer Fed outlook, India demand support prices: Metals Focus",
-      "link": "https://www.cnbctv18.com/market/commodities/gold-price-5000-year-end-fed-india-festive-demand-metals-focus-19965659.htm",
-      "pubDate": "Mon, 10 Aug 2026 15:43:16 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Patel Engineering shares rally as Q1 profit growth, margin expansion lift sentiment",
-      "link": "https://www.cnbctv18.com/business/companies/patel-engineering-shares-rally-after-q1-profit-jumps-22-pc-19965657.htm",
-      "pubDate": "Mon, 10 Aug 2026 15:19:33 +0530"
+      "title": "Carysil shares jump nearly 6% as Q1 profit rises 38%, margins improve",
+      "link": "https://www.cnbctv18.com/market/earnings/carysil-shares-jump-nearly-6-as-q1-profit-rises-38-margins-improve-19965724.htm",
+      "pubDate": "Mon, 10 Aug 2026 16:37:46 +0530"
     },
     {
       "src": "Google India News",
-      "title": "India stocks higher at close of trade; Nifty 50 up 0.05% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMEFYM2RqaVpQRk9PWFZYY0xvdFdEMlA1RGtiektrRmk4eGhuQW9rS3FkRVZVajdpOWs4cTVfZEpoOUFZOVVub2xkRHprTV9tSDc3Y1BEald4aFRtdHhKQllYMjlSbF9RcW9DS3g0VUV6c2VVY3oxYVNUUVZFbG8zdncteXFGelhDZHhhUFNHMnQ2b1B4SEtMZG1Oejc4ejRDcTFKTXdWejZsb09zU2sw?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 10:34:30 GMT"
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Aug 10, 2026 - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMnNzSGU2cWpWTHlPN3JXYk00N2pCekJGTGp2N2RrNlNUV3NULTJVX0xQY2lWdDQzWngyMWxYZlJESkdmY2NYY2ZjYk8xQjhjcExjRzdzTnI1NV9pT3h1QlY4Zm5YVUowLU5XQlUzeHlZZF9IX25pZDNhLWZpNS1xTWR5M2xkVU40WnlsSWRRUG9PbW5qYktYNHBiT3h0ZHhwVnpHckZSdzMxS1EwTnZKNVJsYkotT2pIQzlsN1ZWZmczUWpIelM0Zi1TZjZjTk1WS2c?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 11:31:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Hitachi Energy India Stock And 2 Grid Rebuild Plays Retail Investors Are Screening - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPc1dUQlFfRDNVTkRBYjlaZ2hpellIR3IzMWlIamlBZHdTUFIxZU16YjBXZWZZSmpUWU1BOEtNNTNZVUFkc3ZfMDFDSmRiX0RIY1BfOTJfY3lWQlF1WktTeW5fLVpIdzN4VHNrekhKN0FJQjB2Q1BSdURRQk14NkJXdXRzYTRObG40Z0V5UUJWR3BEby1tcmdiMVhPdWtOSFZpdW15a0MyMHN0dzZrRXY5a3BScHBkTWFod1NBRlJsSWNEc0ppREhEcWRRNzA2Sk1NbEFwVXBhZnI5SjRGeHFkT3lyMkR5b29DUlHSAe8BQVVfeXFMTllRR1U5VURFRjk0YmZvdl9zX3lFNXhQSndpRWlJRFh5QTRtVF9PLWdJdHI5bG9ZWnNkaVJQR09sRjJsU20tMHF2cl81SFZzY2JpR1BxWGZ3aFlxR3BVUFVxeFg0ZFhsVmFCYWU1SHdvWllZbGZnRHFRWGxaUXcxMm1xM1gxSGRERXIwZTRsa0ZHMW5EZmFtUTY0MTFUeU5pWUZBeVFPUUI3NU1YRGtqYTcxYy1sVVYzQ0dvQ2NYTksxQXhQLWhUc0dvWnViUVlzT0NDWE1RcUNQT3hnUEV3aHliZkJPZG4yNEJhLXRoOWM?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 10:42:47 GMT"
+      "title": "Sensex Today Ends Flat | Nifty Above 24,550 | Hitachi Energy Up 10% - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPd3ZNNWhmOWg2amhBRVNSY21PZDZiN0U0dUlyWVoxRzQ3SWZVaVRoMlVVRmlkaEFVZUhyOUZocE1nWXhfQU9DNkc2QjJvYlFQUUhhWEdWNkxXcGZkbl9aOHM1UXFKNVZyWkd1MEJ3bl9EZ2hPUWlTMHVhR2ZyN3I0QTZ4TVZxUURiTGNzck9UX0FhSkhueGtRb3BldlgzYmZEb0FHVmw5NThYN2RVdjVTd192SWxBVDcwVEFOMFhPQU82SFM3cGk4REEwNVpzQ2dwWVkxZWpMRGRCRkNUQ0FiQ1RVaWRRVi1uU2YyZURETTQ3VkZYV2J1ekZiYjdkX0RELWhlZjQzRDFNd2hWOThuR28xREtLTGlVVHAxVDhKTmhlUzlERnc?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 10:54:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "High-Speed Traders Shun India\u2019s Auction Over Strict Short-Sale Hurdle - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0xjeDJqTVI2X2l1b0lROFE5dndQLWZfbjV3aXNmVExVZDdwVVI5UzVOcG9mVHBaTFZPcEgyYmxjTHZyN3RwdGdzWU5WalRqdDljMHJ5REVUZ3puT3dfc3N1OXR6X1lPVVZzVGlQUXQ1Z09WQkNGeGdPb2FER3BCLUk5VWxsbEp1N21rbjlUaFhjVzBXTVBKRTNtVnI3OTR3X3JQMGVTa24wSmxDckVlc2VYTXFxbDJZNzZZ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 10:32:32 GMT"
+      "title": "IT Stocks, Smallcaps, Banks: Asit Bhandarkar On The Market's Next Move - businesstoday.in",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRU5paUI0TVVlbDlhczM5a2prWGlxNGtlSDJ3VGNOZUVIVGU0M3JOZ1RNOXhUUVRaWmZzTXh1b2RYTEdQU2o0UzBjUTc1U0JqOTBxNlpfdG13NlNSbmFqd2JnRlBWdW1NQTU4eGdUQ25NYlI0OGFmODlORTBPVFlGS1lIYlNTMzF3emN0UllPZGRqRXFwMlkxYkljYzY4MnRiT0lFaXJoSGRPc3pPQjgzNVdnUHdQTkJEUmRnMVE4YVFRVDhTeDQ1bk5YbUdIa1V6NGg5OdIB2gFBVV95cUxPOEM1SzJEdlcxb3JzcWxjUHpkOTVIZk9hZ2hMakhRZzNNcWNMMTNRd3FTSDMtYnZVVk9Hb0drenFIZW9ZelE1V3hVMEk1QU41TGJFV0ZEWnpKSkdkRDFGU2I2RzJLN0VsLUliYVB4NTJ1SEd3WUxUd3h0UldMb3FYekw4YjFfcDBRVWFrNjFITE9ONERiZ1I4c1RYbE41RXZIbkZBT2VFS2dpU19nZk43OHFFN3pTNUJSSEg3Y0hxX2hvRFlwaGlqTlhjWlJMb3hsRWN2LU5tZGdFZw?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 11:34:26 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Paytm Share Price Today - Stock Surges Nearly 10% as Bernstein Sets New Target; Akash Bhansali\u2019s \u20b9360 Crore Bet Now Worth Over \u20b91,200 Crore - India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRUQ4SVZ2Q2xiSXdQS0l5VG1Jd2p2VEI0SVpCbTdZdjItamxMcTJ3R1o0TThGcTZHWjhrY1czUC1feXVPcVp4d3U0X2RPZjRSS0VBT1J5bTZEV0Y1TEZaZVlKN0wxNkFwbFpjZGtnSk5EQ0JuMjZuRTY4WDZ6TUhqREgtcDRRcHhjZWVldmpwb2REamstSnR3RDViTEU4aDZBMGF4aS03UGFOMUIxYW4zYjJhMVhyUWR6d0V4aTJqS1pkUFhoWHd2b2VFVDEzdU5iN2NDdEZuQlJtMGI3X2JtR0FfSzBpeTBxeHBwYlNGa0Z2NHQ3Q21YXzNQTG5Jc3lTVHNxT2NLUQ?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 10:37:13 GMT"
+      "title": "Sensex rises 43 points, Nifty gains marginally amid crude surge - Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTh5WGJlczZtd1pjN2JSM2V5eXd0X3QzaTBMcHBnVHI0UktiWFF4T1c5U204cXRZX0ZzMUFINDlsdlYtNG9NLXUta0hOeDRCdDNaWGRIMndpQ3Rlbm1rYlFXcTBMZlhtSUNOUHMzVGRNUVBCU0c4ZjB1UDZ0ekFlQTBKc2RWSDBhM2ptQzVjODd3NDg?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 11:00:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sensex, Nifty end flat as Middle East uncertainty caps gains; Titan jumps 3% - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMDBRWkhuR0plZElHejhLNVdrc21lRC1HRHJXZU1UVkk0blJ4ckRjZWNsRmlYeTlZTlRyMWVVeFByNWY2Zm9zRzM1c2tMczItOHF0d1A1VktnbVBzLVZvSjltUUJpQXdLSXpud1ZsZ05HRkdLN0N6SzI2WGRWRzd0Uk9nalNFdXcwZUxSeHgydGR3LTRiM194d2Q3a1ZoejJnQTdOYTRFTFBIYXhZa0h1b2JPdW1salJjOHJFb1dQaE91c3NiMEdzRy1nME5KTGZhQXJ6bVI3UVRpbVowTHBockVvdnnSAeoBQVVfeXFMTjJSYnlqcnJwaWlKLUoyMDZrSF9SVlVKVEhWUjB4Q3Y1bksxOFBQTmI2a01yT0ZIaUdSWURPNHhNQTZfeVJLdm1GRG42ZDRQWkllb1lPUEIzQld0TkNOankwMjctN25DaHJURzA0RHFDZUx5aGtQNXBVVDVKMHNLd0JYNHdXT1BOYjhjcEs5QUZSeWtEY09oZ0tNcUo3aVVaX1d4R01vdktyeWFxTE5YdWtzOFJLemQ0a3d6NUJRRll1bVFUMExJQS16WVhla2wzOC1kZnVOU2s4ZHlOWEZTMVlhZDZaNndmTHlR?oc=5",
-      "pubDate": "Mon, 10 Aug 2026 10:26:30 GMT"
+      "title": "SEBI probing August 3-4 trades during CAS to check for possible manipulation - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZGdvRW5XV1luODF6SWItU0NNcDNvRmNBSXlSQUpSOXc3MW12aTRuVEVQM2xiOHJPT0JxdjVLcXlMRlJYVXBqSmxDVzh6ZHQ1em9RdmQtSHh6X2VvRzVWVXllQktkVjZhSHlHc1VVTDJKeTVCOTQ2dk1Dbk5aV0VoYnQyUVdldVNJZmE0MFhHWmI2bDZIcTlMY0h5eE9DQ0QzM3F3SzRHcm1haGk2TWg4UW9vcVdPaVhCb0RfaWh30gHDAUFVX3lxTE9GeXRWaGt4YlhQOXk0S1ZEZGQyU0hOV1AzX0tJWHRrMVFHQmNSazNaZldmeThBSmUxSUxiSVJnNTJFWUxkSjFJZm9KN1otbFdFRno2M2YzZUE3THRzblR4SWk2MFJHeDQxVXdjdFFqa3ZQUWlrR2JzWkdSWktVRFNBclRmQmdNR0owRk80dmRzMFRrTXNfVlZfOWE3LTRGSDR5dVprZl9BNlhjQmRZSnRIVXN3dmFRVHNROUJEV3Y4bmR1aw?oc=5",
+      "pubDate": "Mon, 10 Aug 2026 11:29:18 GMT"
     }
   ],
-  "fetchedAt": 1786359120
+  "fetchedAt": 1786362334
 }
