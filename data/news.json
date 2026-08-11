@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Why the US-Iran war continues to disrupt oil markets",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/why-the-us-iran-war-continues-to-disrupt-oil-markets/articleshow/133163454.cms",
+      "pubDate": "Wed, 12 Aug 2026 00:02:15 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Shiprocket draws Goldman Sachs, HDFC MF, SBI MF and others to Rs 727 crore anchor round ahead of IPO",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/shiprocket-draws-goldman-sachs-hdfc-mf-sbi-mf-and-others-to-727-crore-anchor-round-ahead-of-ipo/articleshow/133160685.cms",
       "pubDate": "Tue, 11 Aug 2026 22:23:54 +0530"
@@ -23,12 +29,6 @@
       "title": "Behari Lal Engineering raises Rs 90.5 cr from anchor investors ahead of IPO",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/behari-lal-engineering-raises-rs-90-5-cr-from-anchor-investors-ahead-of-ipo/articleshow/133158976.cms",
       "pubDate": "Tue, 11 Aug 2026 20:56:20 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sebi proposes to bring all bullion trades under vault management rules",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-to-bring-all-bullion-trades-under-vault-management-rules/articleshow/133158951.cms",
-      "pubDate": "Tue, 11 Aug 2026 20:54:26 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,24 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Chicago grains weaken in positioning ahead of USDA report",
+      "link": "https://www.livemint.com/market/chicago-grains-weaken-in-positioning-ahead-of-usda-report-11786474783700.html",
+      "pubDate": "Wed, 12 Aug 2026 00:29:43 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Colombia Coffee Exports Largely Halted After Deadly Earthquake",
+      "link": "https://www.livemint.com/market/colombia-coffee-exports-largely-halted-after-deadly-earthquake-11786474721326.html",
+      "pubDate": "Wed, 12 Aug 2026 00:28:40 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold edges lower as markets await key US inflation data",
+      "link": "https://www.livemint.com/market/gold-edges-lower-as-markets-await-key-us-inflation-data-11786474118005.html",
+      "pubDate": "Wed, 12 Aug 2026 00:18:37 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Shiprocket raises  \u20b9727 crore from anchor investors ahead of IPO launch on Wednesday",
       "link": "https://www.livemint.com/market/stock-market-news/shiprocket-raises-rs-727-crore-from-anchor-investors-ahead-of-ipo-launch-on-wednesday-11786465617676.html",
       "pubDate": "Tue, 11 Aug 2026 22:28:47 +0530"
@@ -73,22 +91,10 @@
       "pubDate": "Tue, 11 Aug 2026 21:04:39 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Sebi proposes wider FPI access to non-agri commodity derivatives",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-proposes-wider-fpi-access-to-non-agri-commodity-derivatives-11786449168248.html",
-      "pubDate": "Tue, 11 Aug 2026 19:43:54 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "IFCI Q1 Results: Revenue declines, profit improves sequentially to  \u20b960 crore",
-      "link": "https://www.livemint.com/market/stock-market-news/ifci-q1-results-revenue-declines-profit-improves-sequentially-to-rs-60-crore-11786455809358.html",
-      "pubDate": "Tue, 11 Aug 2026 19:23:48 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Apple shares fall amid confusion over 2027 \u2018all-glass\u2019 iPhone plans; company clarifies, \u2018design didn\u2019t hold up,\u2019 but\u2026",
-      "link": "https://www.livemint.com/market/stock-market-news/apple-shares-fall-amid-confusion-over-2027-all-glass-iphone-plans-company-clarifies-design-didn-t-hold-up-but-11786453368556.html",
-      "pubDate": "Tue, 11 Aug 2026 19:15:51 +0530"
+      "src": "CNBC TV18",
+      "title": "Glenmark Pharma US arm agrees to $15.28 million settlement with Humana over antitrust lawsuits",
+      "link": "https://www.cnbctv18.com/market/stocks/glenmark-pharma-share-price-us-arm-agrees-to-15-28-million-settlement-with-humana-over-antitrust-lawsuits-19967058.htm",
+      "pubDate": "Wed, 12 Aug 2026 00:00:43 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -112,44 +118,38 @@
       "src": "CNBC TV18",
       "title": "Dr Agarwal's Health Care Block Deal: TPG, Temasek likley to sell 11% stake at \u20b9500/share",
       "link": "https://www.cnbctv18.com/market/stocks/dr-agarwals-health-care-share-price-block-deal-tpg-temasek-to-sell-11-stake-at-rs-500-share-19967003.htm",
-      "pubDate": "Tue, 11 Aug 2026 22:31:57 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Delta Corp swings to \u20b9212 crore Q1 loss after \u20b9307 crore GST provision",
-      "link": "https://www.cnbctv18.com/business/companies/delta-corp-swings-to-rs212-crore-q1-loss-after-rs307-crore-gst-provision-19967010.htm",
-      "pubDate": "Tue, 11 Aug 2026 22:28:15 +0530"
+      "pubDate": "Wed, 12 Aug 2026 00:28:29 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Why Retail Investors Are Tracking Nykaa And Other Founder Led Indian Stocks - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYXNNWjMwV2NBRnlZQ1hRakx6NHpaZkxVcW9jcWRDQWF1MmdwVmpGd2M0V0ZBVV9SWl9RN192ZDYzNlpKN1lzdmoxTnAzeEp0RG5CZldwNFFyOXpBaU41V3pjajc4TEt6azMwdDMwMU1WYXBBbnJKVEFGRXZwcEp5c0YtOGVrLW1RU2sxRlVHMFRzYTJzd0NJU2hyUDdLaV9KM1VQM1FpUzRTZHRoVmJHcWs4MmpzYVNEOGxnUGtlb3NvbTY5Z0dUbDQ3dW16TDdYRllybmVVM195RExFS3fSAeMBQVVfeXFMUDM0NldjWnFXdjAtaEMyV3lJNFhCeldiQkJjYVdFWEpRZXQzOUFURE52RHJsd2k1R0NKRXdPTU4xcl9Pd0xaYnpEUzAzanhnS0I4cTI0Q3VCYV9weTlVeFBmT2hzVThPRjNfOUhvZVhlWS1BOE4xZFplTFEyaXdnMTF2elVFYTdwNFQ1RjYyV2Y3cWJMaXduMy00SGxUZWZxNVZpVEpRSDA2NHZIeHh4ZTdjWUxFcmt1YjNWWHZBWTVzYW5tZHljNF9VMldvYXAtemEzZFFBbnJjLTNiSHNEUXZpUVk?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 17:45:10 GMT"
+      "title": "Esab India Q1 Results: Net profit rises 37% YoY to \u20b956.14 crore - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSFYwR0xPdnZHWTRMUkJEdUMzRDNSaU1YWnVuWGhrdml4YVVrdXlCZGxQMWNsS2VMZWRWU0h5T1FzRWthNXF0Nkc5UG11YUMteHBISFo1eU9lTGdHME5jXzhiLUN5TW1VeEsyamsyRFh6aFlHT3plcHppWENJVmhEY1VLQ1RMWWFOZWFqa3pnbXlOMnc5SGdrdlhubmxSN2NSOUlPM3dzWkVyV1UwM2E0QkxWMHVEZjZM?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 18:53:19 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stocks to Watch for August 12: Auto stocks, Manappuram Finance, NBCC, Larsen & Toubro and more - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVEtWSnRsZ0hwOFBEdWxhZ0tfSHdxYktPcFUyU0VrNE93cU9QZ0lnb3dYdXVrUmJ3UTUzbkJTNG9lcmRhVjhvbWZhM2JwLURFd29pWjRPTkpRX0RmQy12RjRJenpWeFA3NHhBa2N6U21wOThrZVJ4Mzd0Unk3clJUdldkYUNuRGpMZ1hIUDlQLVdDcEltZjdwVFl5WXc0RWJjUGdHQ192ZXVaMjc1MU5qWVlGaC1wTkNyZUEyMUtCR1J0bG9TZXpqMDNGYlR0TUZZTDFCQXNaMNIB3AFBVV95cUxNM0dVV2hFT19KTzJyS3FTX251UkNfYkh0YnI0QnFJV2xaaTJINlRJN0wxQ05zaERDM052VG5pczY1NmJ6aE81d3IzVG5EYVVKblRzQUJJZUgzMC1vU3dDaDNJNllsYUhISUl0ck1lcF91UHBoQTFFOGZhTHVuckhBRnpLZnJJdDBkZG9Pa3ZucndoQlJRYVZ0eTl5dDNIX1VkOHlFcGU3Z19ob1BScnhMalpYajBjdjJ3bG9DdHJHZTRyeTBtN3gwWjU4WGxWeFg0dG1QNHlmMzcyVjJM?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 17:28:50 GMT"
+      "title": "Shiprocket raises \u20b9727 crore from anchor investors ahead of IPO launch on Wednesday - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGt0ZVZQTlR3UThxVVMzbkhZMndaeHhUR1FuYVBUb2JsaGdmNkc0QkxLUy1ER183enRjWHpaZ1dZWkhSRlZVRFlTaHpwVFN5R3dGOGlmN3hkQ3ZGb3VPeGpXZlZKdVdxWU1OcjBRTDVjWDd3WlBWMG5oU2JVbnA3bW9pdnJDbnhidUVJRjBFZXdTdS1ySDBhTmlUdVBQSlRyaURLTFctZnZuX2ZBanJJVnZnSmIxSUQyYlE?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 18:41:07 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Anupam Rasayan India Q1 Results: Earnings call scheduled for Aug 14 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmRRMWotYWR1LWdFMXlsZXRxX1h3X3JmVlRIbGRxUHIxdWpXYzNYQ3ZzUVI0b2F2Tm80c3E2SHJKQkhCTnF0TWl6WnRBQm4xc05zWXJRbWFpOW1yQkJRV2R3SlQtaGxMdXpYS0pTWTUtaDMxWVpDNW4ybU1vQVlMdmFDSVp5SE5wUlJJQzJseXV1SUFBOUJkODZUYjhpNEl1RWdSODdqQmxaUXgwcUFxQzJuMV9Ock1CLUJ6UkI3N2s?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 17:28:48 GMT"
+      "title": "Technocraft Ventures IPO allotment status: How to check online on NSE, BSE, KFin Technologies - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUdyUWZHNkZSZ2dlVmx2TEktTjl0RlNpMTg2MThMQTJLdG1FM1d2WjVhX043RlFJelJhQUJLdzdwdWcyQ3NJeXlwSWp3clhvcmNFM2lSbzhNUjlwUXpHNlQzQ05TSkh6TjBTYk1KNEdLeWZFUTR5WXI2TjdaZV9WWGNlVXF4aHpINW9Dajc2dXdMUE1Hb2JrTHo2V0h0QlVMYkl0SjVYYTdhYWZRYW5YdE5oRkczaUx2UzZoSGtHLUR3bzdESWJEdERtNVZVNDBlXzVsaUcwaXFTVDIzMkQ5ag?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 18:42:09 GMT"
     },
     {
       "src": "Google India News",
-      "title": "New Bill will make tribunal appointments transparent and independent - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMFZMUnZhSERUWU9ITWFJOVJNcnlSTldQSE9PZ3RXazJsenRWZ3Rscmt0ajBndU1YRldIRnZ5Umx3SldKSktCaG1mZVhDM243TmpFb0JZVXpxWFJLQ19wcmhzeGlPVzc2SktBMWhGai0wYW5hSGg4NUl2OUZnbk01NXZrZTRfX2p1T1RMY1F1X3JUMnNNOFlFa3ZPbEpxM3RHc2dueEZiZUV1eWFUMnNqYTh5S1d2TGdnd1l3aGt4a21wb1oxT0hLTXVMemVGaTN2X3VNQjlVWdIB3AFBVV95cUxNSkZuMzRlN0k4c1hoQ0dObDhwclZSMWFEdzNQdThWVFhNejhLb3BMLXltTkNPeElaRFdBakFqcDhJTzUxUTVvU2hGekZOSk5SNEZjUmZuZHkwcDFEdl9PWnFIUmFIZF93Sk5welgtXzZZN0Z1eEstNFE4X0NuWUVIZTJscUhyeU8xUHRlQUtYV0I0RmthSk9BNEdiTllNVFRKTDhnWEN0MlhTLTNURGMzb1dabExZUXFKbVlsWHZTRm5iREZ3N0FBb2UzQ3JDdzhDSk1VVG1aU0M4S2s3?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 17:51:24 GMT"
+      "title": "Fed says too little, RBI is too predictable. Both may have a problem - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQREc4OVVUbEYxLVQ1MTZYeE1sUmNTLWF2SkNzVGNaa015X1hpZWtnbldXQTVEMm1aNk5XTVhrYkpIWUZSQW9JbU1LVEx1ZXZPR3VOWkk4V0RpRHNtTTdRUzAwdzNYdlZyMm91Z0FSUHNWRkdMZ1VPWGMzR1ZXbF8takJIaG9jbGstUDZMd29aTFJfbFlIcndvMERkamJud19MTXkzYldadGFFSGdIejkzdWJNVENlLVpSMWU4OHNhWlJ2VmRNQldSVEdEYzUtVzVRRmtTMzVRM0lkQdIB3wFBVV95cUxQbVdjdEk4b3ZCY2lvcGpXNHhXaHB2c1gyNHh0ZDhtNUxRQlc4Sl9RMnlBSFl6R0trSU9wbFhVNWZKMThZeHVzMGFhdG5pTlNEaHVFZWdFcHh4LXIzWjRBVmh4YjUyVGhWaWo4bTRzTkFIVXJSOHpDdlhkeFNNYzZBTG1kSlU4MFZic2FTNkVjZDlVUG84UVlEbGs4WXBYemVzWVNWTGptQUY0bHpFWFR2VGJvNm5KSWJQei1UX0lNcEY1TEhVRTBtODJwcy1rVFVTeExvaEx3Z09wZDZmX0hn?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 18:23:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Honasa Consumer to host investor meet in Singapore on Aug 18 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdTl6bTlBcUZpWlpOWTRCOHE5Y1BpWWVvLXZuam1ZQmFsZFFrUWRzSnpwTF9oLUVidEszSjNidjBFamRSc0ctYVZQLWI0UjZrNmxzZWxMVkRRSHZkcWZCcnNUbjlWM2N3Z25lRHpwb21JRi1HOEJ5UjljMVJwTHVGYkVCLVFRamVjdnVMVHljRjU4WGNFYklZQnpMWF9MRHFvcF8yNWJGdDhXLVBEYmtCdzdpTnRoMjB3?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 17:35:04 GMT"
+      "title": "CreditAccess Grameen schedules investor meetings for Aug 12 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPenpwMU41ZUtQRXQ1Z2lHOG1VZ19BbUpoRWtFd3BwSm40a194WlNrbkNfZnFjQmFEdzNjNWVVSlpfY0pxMXFJOGJtN1VOaGdwRUtONUl5TEVzSWltTFl5OGtEOW9wTG5KNG9hYmxNOXpOcHZ6Q1V3Vnh4OVRYckVpN0ZDU2xDZ1JuY3ZaZ1l4ZXNCMzZXU3lvSlZWNGJiTnVPVDlld0xoNkFMTHk5TENOWW5vREU1djA?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 18:57:36 GMT"
     }
   ],
-  "fetchedAt": 1786471811
+  "fetchedAt": 1786475917
 }
