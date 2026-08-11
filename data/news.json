@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market ends down as Iran peace deal optimism fades",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-iran-peace-deal-optimism-fades/articleshow/133165118.cms",
+      "pubDate": "Wed, 12 Aug 2026 01:38:33 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Fed\u2019s Austan Goolsbee says inflation is the biggest problem on Fed rate signal",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-austan-goolsbee-says-inflation-is-the-biggest-problem-on-fed-rate-signal/articleshow/133164860.cms",
       "pubDate": "Wed, 12 Aug 2026 01:15:05 +0530"
@@ -23,12 +29,6 @@
       "title": "Gold edges higher near two-month peak ahead of US inflation data",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-edges-higher-near-two-month-peak-ahead-of-us-inflation-data/articleshow/133159810.cms",
       "pubDate": "Tue, 11 Aug 2026 21:34:43 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/133159099.cms",
-      "pubDate": "Tue, 11 Aug 2026 21:09:09 +0530"
     },
     {
       "src": "Business Standard",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Wipro Stock Falls as Nifty 50 Exit Looms - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRUR5VVFCTDZqTkY1Sll2QUE1dkRDSzNmUEdpcUNCcjdyZE51RTllUGEtR1R6NENpZUM1UkZYczI3bFhoX3VHeV9RRnpVbTZFWlhuWEJCdkVTN0ZhSU1TMHVBWHNseFp4WFlKbFlaazVLSS1zRVdiRWJFUFI3djA0Vk1JTktjdDNxOWJISHY0MEtRTkRxaXM4R3llVzZEZ1FYM3c?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 19:01:46 GMT"
+      "title": "JNK India Q1 Results: PAT surges 8.5x YoY to \u20b99.6 crore - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeXk1My04QTh3a3hycGM3TGlWNThBMHlHcEoxbk5jWTVORHVTWWZmS0RBaVY2OVEyZG1fMC1kTXZsR2NWYXJxYkJySEtYbmU0NVo5aHdHam5aZlV3V3dUa2hURUR3WTZvRG80akptY1JjcmdOemJwdW9HaGdMb3V3cnNkNzBqbnUwanp0ZW9EbmdZQUZ6cUJFbkxxNHdOaXlxaV81bGdLZ1FiNDZNM3Fn?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 20:17:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Paramount Communications Q1 Results: Earnings call scheduled for Aug 17 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYVdaZmZHVWdTalZXdEJEcElaS0t4ZFdvbVhfUjJiczNWa0ZlVjJjYlNaVW1FOFpuNEtpTUlXb3E4ek1jVzMtTmVFQUxKZnZlNC1fSERoVElRTUdKenBXeG5GWHdXbXdNNFdwek54dm9vSlFwTEhGX2w3ZWZwMy1XVzQyRDhQSEE4QW9KVUxVLTlIbzBMbTc0eWpuTGNnd0ZIaHdOVUJXXzBVLVNTdmt2S3Z5dFlJb2NwOXJuTmZ2bk1WUVJlOGc?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 19:43:09 GMT"
+      "title": "'NYPD won't be traveling': Mamdani\u2019s wife heads to war-zone Syria, Lebanon | Security row explodes - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeFdUVWo5Z1NQTURXWGRmVUdUSWVRNnBYTjhzNGJSOTR4TkczRHBCU3E4Q2NMNHlGdlVnaG13bHlZXzJESXFZdkZHdXlYMFdsUk1xbmwzdGJacFJGSnZoRFQwdkNJRVhYM2ZMMWt6dFU3Nko5dWNDdkxWQ3NaMVIxLS13Slg3bHg2N1BFdVA4SFI3Skt1dDJWZldzbF93WUlJRFg4bExXR2d5Q3U2N2M4Y3hMSV8ydlRHUGxReEtuZWdTRFJMRm1xbGp5YmV5cXpTdTlwZ25YOHgyTF9oVG5hY1Q4SFRmMmlaUWR0WldqTU5xUHZiRGNQTU9PTjk1NVpEMWfSAYcCQVVfeXFMT0FzdVU5aG8tcjdDSlFuN3Jzb3E3TElRNE9DMkZvMXdwQTc1V2RISC1qOHBBWVdzbjhMUzAwbHhkRnlsaUhQbGFFeFBjeE1VbUtNeGJjeWZoc3lteU5BZ05yZ1lkNGM1RllxMF9aWi1nXzZkaWhncGlKM0JTTHZnazhqUDBqVzA4bTFJMmtQQmNnbFlqRUNwMFdYOGxNNjNlcnEtRVVpWl9yODdJcXdxaUV3Mi10bDZkeVotQ2xJOGQxODJVc2VkUEdLYlBnd3RaYzE0TGdLZE9wVFZ4TlFmNDdWbE9lVTU5OWpiM3pXdzhBeXl5MVNfWXZJdVhQNnZSLUMwaUVRUjA?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 20:18:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Regulator mandates full review of globally unapproved drugs - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxOdnBGRWNqUmZDbW9YdndNOE5YZmgxYk9ZWE1fdS1ESldxaEdEY2hQY3pQUnl0d3dkR3lkMEwxeW9reVZXd3Uzbm1tQ0V3OEZGRHZKWTFLU194UXc0cUpxMGxoVkZQbkxfbWtBWTE0ZmFEYWE0UUpIemhkX0g4eVZZMUxCLXJYaEdyRXF0cUVBaVkyX1I5ZGtMd2Y2MTRYRmwzQk9kVVNVZV91TV96b3VOT25ZR0l2MFZJY0JvNUpWZlNacEFSV0dhcldKOXF5YmZNb0YzSmNrU21CMTBOMURxRFM0OFUwTmlsSjRORkFRbTlYUm1zRmxsN1BRTHF1eDdsTHMzNHFBbC10Y2pLd2JKVHFXMTdMakpDOHdaRUdCcXluNnZwaFRadEZTamFIUEdqbEQ4QmZvWFd6Q3cxdENKdFFGWWhkMXRFRWhqbzZBN1JfU3o3UUNZ0gHzAUFVX3lxTE9CbEJ0OFhVWWs4TWV4V1phQ0tMUXZRbW1hc0hhZ18xSzhWVHpNbGxIdVJUb3RjYUNmZmFfbkhIdVNfbWtxdU0xc3l2b3g3MEJuNnFHcV81azdObXlOZGpPV3Q4SVpjU0xaVWVVdy1LUUNNZkJVSXppT1JlUjJFaEtIbTVZazlMOFB1X3p5X2llZUVQSmJyN2NjLU9VVHVPdUF6bjUyVmpBQi1Qa0NPMnI5dWg0VmhJMGhYUnNMby1jU0U0VFFzbkI5WWFmZXlqRzNaNjZLdlJxWEE2UHEzSU1uTjI5WVVjYkh2amJaWXJWT1RrOA?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 19:06:50 GMT"
+      "title": "Ecos Mobility Q1 Results: Net profit rises 10% YoY to \u20b9146 Mn - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTlhYm5HS0t6Y3V6RXE4Y2tRZ2pqRVN0Q1dYNmJSeGxTWTk5bF9KdHFjVnlXa0dYMlB1Xzg5M3FqNlFqY0J4X1dsSFg4VDdrS3ZDRWVOZHNVUVlrNlB1aEVjam1WTEJkYTNpMjhRQjFXeFRyX1JGd1VCb2FscE1BSmk5cmJIOU5jOGtyd2RlWm1sM3Fod0REdFNkTzVUZlFlenJHejZNMVd2eEJ4STUybEhZM2ItUQ?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 20:31:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SKF India (Industrial) Ltd approves Pune branch office opening - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPT2RZRTJEekRtR3FOYVRwdDZmRUMtbTF5S0VxTlJnSjNsRXd3UVJkaUM3TFVwTm1CMWZmcnJmYzhSRXZVRDNqbmZldnRlMlV2WGN0TkQyTDl2RTJ4UDcxb0NEWWFtalNTODdSVlhXVVAzTDM5U1lsUGJfRFZZRjZjVWtLUmM5anlaTmxXUWZzTC1aN1Z3NUszQzBsOEVIeFhOTl9oZXdRMVFJUkhEdzVsSS00ZG5sR1Jz?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 19:21:19 GMT"
+      "title": "Foods & Inns closes register for AGM and dividend payout - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPczJMODBESHRhMU01NE9yWEE2STEzX2lVdkgzNVhqVEJ1M3lyQ3RGZTU3dlNlTV90X2N2bVRPdjVWVWlmbl9pX2pIMmV5ckdzQzlWVXFNMUl4VThERDVXTGlSR0t4SWhCbGtJSjlkVVd6R3ZNVm9MamdfZDJpOXN3bmJHU1Q5WEQ1NlFXdk52Y0dtREgzRzZSU21Sb1g2UDdFQVpjNXVFRW9BNmI2aktjWg?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 20:03:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Shilchar Technologies Q1 Results: Earnings call set for Aug 14 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTTNLU2VaSVZldG1zTjlvdUhOUGJfSVFLY2dfRm5HcVJmMzAtMnBUaVA0UjVLT0xBMHpYZE1kVmIzZmN3YWtLZkNVdjRyUVpKRnRzX1MwejJ3RVU0NjhlRzNZREJwQTN1U1d1eGhNN1I4S1F1WDBGU1JVTTZIaTJDeGlXdjhKb25sZnhTcjYzOUVxSGFhQVNJYXh4aEFlZXVwVkRsbE11VGxtOE1NdWQyZjJiTEotQXBQeWc?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 19:49:14 GMT"
+      "title": "Max Estates Q1 Results: Earnings call scheduled for August 17 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZm5tamxZcGR3ckxZbnBha280TkdObTJZekZvNUtHU1pONmE3N2NybzlYQktlRkJqcS1mcElFTGtkT0dQRE1tNGFBQ0NqTDJvX2tWbDVYbjM2dU5mcXY2cUJIdUtoMS1pbFFhSFpoQXNzcGZVcDR1dWpiLTB2ZFBFOGNQeVJ6NXVINnJ5WmJ4T0U2ZUQxdlBwVFBfOGlwMTdRWWhja01KRWJseUVHV18xam5FYUxDY0M2?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 20:01:08 GMT"
     }
   ],
-  "fetchedAt": 1786478457
+  "fetchedAt": 1786481868
 }
