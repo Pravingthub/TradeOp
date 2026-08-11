@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Don't worry about AI! Why PPFAS CIO Rajeev Thakkar wants Indian investors to read what tech analyst Benedict Evans said",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dont-worry-about-ai-why-ppfas-cio-rajeev-thakkar-wants-indian-investors-to-read-what-tech-analyst-benedict-evans-said/articleshow/133152220.cms",
+      "pubDate": "Tue, 11 Aug 2026 16:38:01 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Can SIFs bridge the gap between mutual funds and alternative investments?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/can-sifs-bridge-the-gap-between-mutual-funds-and-alternative-investments/articleshow/133142331.cms",
+      "pubDate": "Tue, 11 Aug 2026 16:37:06 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Global Market: European shares edge higher as energy stocks gain on Middle East uncertainty",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-edge-higher-as-energy-stocks-gain-on-middle-east-uncertainty/articleshow/133151455.cms",
+      "pubDate": "Tue, 11 Aug 2026 16:16:59 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Rupee retreats to near two-week low, closes at 95.43 vs USD as US-Iran standoff pushes oil higher",
       "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-retreats-to-near-two-week-low-closes-at-95-43-vs-usd-as-us-iran-standoff-pushes-oil-higher/articleshow/133150919.cms",
       "pubDate": "Tue, 11 Aug 2026 15:54:26 +0530"
@@ -13,52 +31,58 @@
       "pubDate": "Tue, 11 Aug 2026 15:47:32 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "KPI Green Energy Q1 Results: Net profit dips 14% at Rs 95 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/kpi-green-energy-q1-results-net-profit-dips-14-at-rs-95-crore/articleshow/133150517.cms",
-      "pubDate": "Tue, 11 Aug 2026 15:35:30 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Zydus Lifesciences Q1 Results: Net profit down 36% at Rs 939.8 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/zydus-lifesciences-q1-results-net-profit-down-36-at-rs-939-8-crore/articleshow/133150477.cms",
-      "pubDate": "Tue, 11 Aug 2026 15:33:13 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Siemens Q1 Results: Net profit declines 18% to Rs 343 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/siemens-q1-results-net-profit-declines-18-to-rs-343-crore/articleshow/133150416.cms",
-      "pubDate": "Tue, 11 Aug 2026 15:30:43 +0530"
+      "src": "Business Standard",
+      "title": "Sensex slips 388 pts, Nifty ends below 24,500 as crude boils",
+      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slips-388-pts-nifty-ends-below-24-500-as-crude-boils-126081101347_1.html",
+      "pubDate": "Tue, 11 Aug 2026 17:04:18 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Pound steady after hitting three-week high",
-      "link": "https://www.business-standard.com/markets/capital-market-news/pound-steady-after-hitting-three-week-high-126081101222_1.html",
-      "pubDate": "Tue, 11 Aug 2026 16:17:11 +0530"
+      "title": "Quick Wrap: Nifty FMCG Index falls 1.17%",
+      "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-fmcg-index-falls-1-17-126081101346_1.html",
+      "pubDate": "Tue, 11 Aug 2026 17:04:10 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Matrimony.com soars after Q1 PAT spurts 127.5% YoY",
-      "link": "https://www.business-standard.com/markets/capital-market-news/matrimony-com-soars-after-q1-pat-spurts-127-5-yoy-126081101197_1.html",
-      "pubDate": "Tue, 11 Aug 2026 16:04:14 +0530"
+      "title": "Anantam Highways Trust reports consolidated net profit of Rs 59.43 crore in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/anantam-highways-trust-reports-consolidated-net-profit-of-rs-59-43-crore-in-the-june-2026-quarter-126081101297_1.html",
+      "pubDate": "Tue, 11 Aug 2026 16:36:29 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Nifty ends below 24,500 level amid weekly F&O expiry",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-ends-below-24-500-level-amid-weekly-f-o-expiry-126081101195_1.html",
-      "pubDate": "Tue, 11 Aug 2026 16:04:02 +0530"
+      "title": "Global Education consolidated net profit declines 10.69% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/global-education-consolidated-net-profit-declines-10-69-in-the-june-2026-quarter-126081101295_1.html",
+      "pubDate": "Tue, 11 Aug 2026 16:36:22 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Australia's ASX 200 rises as rate decision lifts sentiment",
-      "link": "https://www.business-standard.com/markets/capital-market-news/australia-s-asx-200-rises-as-rate-decision-lifts-sentiment-126081101172_1.html",
-      "pubDate": "Tue, 11 Aug 2026 15:50:48 +0530"
+      "title": "Ceinsys Tech consolidated net profit declines 2.18% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ceinsys-tech-consolidated-net-profit-declines-2-18-in-the-june-2026-quarter-126081101293_1.html",
+      "pubDate": "Tue, 11 Aug 2026 16:36:08 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Chinese stocks slip as global tensions weigh on sentiment",
-      "link": "https://www.business-standard.com/markets/capital-market-news/chinese-stocks-slip-as-global-tensions-weigh-on-sentiment-126081101171_1.html",
-      "pubDate": "Tue, 11 Aug 2026 15:50:40 +0530"
+      "src": "LiveMint Markets",
+      "title": "Expert view: Market stable due to strong SIP inflows; time to dump stories and focus on cash flows",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-market-stable-due-to-strong-sip-inflows-time-to-dump-stories-and-focus-on-cash-flows-11786446913455.html",
+      "pubDate": "Tue, 11 Aug 2026 17:04:25 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Penny stock under  \u20b91 hits 5% upper circuit after provisional Q1 results",
+      "link": "https://www.livemint.com/market/stock-market-news/penny-stock-under-1-hits-5-upper-circuit-after-provisional-q1-results-2026-11786445169292.html",
+      "pubDate": "Tue, 11 Aug 2026 16:42:27 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Oil rises toward $90 as fresh Trump demands cloud Hormuz deal",
+      "link": "https://www.livemint.com/market/commodities/oil-rises-toward-90-as-fresh-trump-demands-cloud-hormuz-deal-11786445901985.html",
+      "pubDate": "Tue, 11 Aug 2026 16:35:29 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Intel raises $20 billion from upsized share sale: Where the money will go?",
+      "link": "https://www.livemint.com/market/stock-market-news/intel-raises-20-billion-from-upsized-share-sale-where-the-money-will-go-11786443786970.html",
+      "pubDate": "Tue, 11 Aug 2026 16:26:00 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -67,89 +91,65 @@
       "pubDate": "Tue, 11 Aug 2026 15:55:19 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Sensex falls 388 points, Nifty 50 ends below 24,500; rising oil prices, Middle East confusion weigh",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-falls-388-points-nifty-50-ends-below-24-500-rising-oil-prices-middle-east-confusion-weigh-11786443270822.html",
-      "pubDate": "Tue, 11 Aug 2026 15:45:46 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Nifty-gold ratio narrows: Could this be the start of a stock market rally?",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-gold-ratio-narrows-is-an-indian-stock-market-rally-brewing-11786436677667.html",
-      "pubDate": "Tue, 11 Aug 2026 15:39:35 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "High crude prices drive Q1 surge for ONGC and OIL, but output growth diverges",
-      "link": "https://www.livemint.com/market/mark-to-market/ongc-oil-india-q1-results-crude-oil-prices-production-11786438297259.html",
-      "pubDate": "Tue, 11 Aug 2026 15:35:42 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Ola Electric, Ather Energy shares surge up to 5% as EV subsidies extended to FY28",
-      "link": "https://www.livemint.com/market/stock-market-news/ola-electric-ather-energy-shares-surge-up-to-5-as-ev-subsidies-extended-to-fy28-11786439521082.html",
-      "pubDate": "Tue, 11 Aug 2026 14:54:33 +0530"
+      "src": "CNBC TV18",
+      "title": "RHI Magnesita India Q1 profit jumps 83% as margins improve despite higher costs",
+      "link": "https://www.cnbctv18.com/market/earnings/rhi-magnesita-india-q1-profit-jumps-83-as-margins-improve-despite-higher-costs-19966744.htm",
+      "pubDate": "Tue, 11 Aug 2026 17:06:52 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "L&T signs \u20b91,400 crore deal to transfer data centre business to Vyoma.AI",
-      "link": "https://www.cnbctv18.com/market/stocks/larsen-and-toubro-share-price-lt-signs-rs-1400-crore-deal-to-transfer-data-centre-business-to-vyoma-ai-19966717.htm",
-      "pubDate": "Tue, 11 Aug 2026 16:21:06 +0530"
+      "title": "Manappuram Finance Q1 net profit zooms over 4x on higher NII; \u20b91 dividend declared",
+      "link": "https://www.cnbctv18.com/market/stocks/manappuram-finance-share-price-q1-net-profit-zooms-over-4x-on-higher-nii-rs-1-dividend-declared-19966756.htm",
+      "pubDate": "Tue, 11 Aug 2026 17:08:43 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "NBCC Q1 profit rises 17% despite lower revenue as margins improve",
-      "link": "https://www.cnbctv18.com/market/earnings/nbcc-q1-profit-rises-17-despite-lower-revenue-as-margins-improve-19966683.htm",
-      "pubDate": "Tue, 11 Aug 2026 16:12:52 +0530"
+      "title": "Insecticides India Q1 profit falls 24% as weak rainfall hurts sales",
+      "link": "https://www.cnbctv18.com/market/insecticides-india-q1-profit-falls-24pc-to-rs44-crore-as-revenue-declines-12pc-19966733.htm",
+      "pubDate": "Tue, 11 Aug 2026 16:56:26 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Sebi measures reduce equity F&O losses for retail investors in FY26",
-      "link": "https://www.cnbctv18.com/business/sebi-measures-reduce-equity-fo-losses-for-retail-investors-in-fy26-19966709.htm",
-      "pubDate": "Tue, 11 Aug 2026 16:19:36 +0530"
+      "title": "Godrej Consumer CEO Sudhir Sitapati resigns; CFO Aasif Malbari to take over",
+      "link": "https://www.cnbctv18.com/business/companies/godrej-consumer-ceo-sudhir-sitapati-resigns-cfo-aasif-malbari-to-take-over-19966727.htm",
+      "pubDate": "Tue, 11 Aug 2026 16:53:10 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Closing Auction Session a Week Later: Bernstein Highlights Impact on Brokers, Exchanges, AMCs",
-      "link": "https://www.cnbctv18.com/market/closing-auction-session-a-week-later-bernstein-impact-brokers-exchanges-asset-managers-volumes-turnover-19966670.htm",
-      "pubDate": "Tue, 11 Aug 2026 16:02:40 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Balrampur Chini Mills Q1 net profit slides 15% despite 6% rise in revenue",
-      "link": "https://www.cnbctv18.com/market/stocks/balrampur-chini-mills-share-price-q1-net-profit-slides-15-despite-6-rise-in-revenue-19966659.htm",
-      "pubDate": "Tue, 11 Aug 2026 16:01:46 +0530"
+      "title": "RVNL Q1 profit rises 19% as revenue grows 11%, operating profit more than triples",
+      "link": "https://www.cnbctv18.com/market/earnings/rvnl-q1-pat-rises-18-5-pc-as-ebitda-more-than-triples-19966713.htm",
+      "pubDate": "Tue, 11 Aug 2026 16:37:49 +0530"
     },
     {
       "src": "Google India News",
-      "title": "India stocks lower at close of trade; Nifty 50 down 0.46% - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZHpkMl84bU1tdVotd25GbHJodDhwMVF2a0x5ZUJMMTNLN1A3cGNmLXd2VndqWnNuQmMzWmszT2xFLUY3bGtIQnhETERMcnVabXRVQ2dLZzFfTWhLLXNqZ1B6MGtnT1BDX0JXaDhxVVl6aWtFOVYwSWtIWHJpaXpqb2Y5N2xpNmlqSkdJVy1yZ3l6UTZyV1dwOVJLcXdtdnNUeTUybExPTGFZR2kyaVk3aA?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 10:34:50 GMT"
+      "title": "Share Market Today: Nifty 50, Bank Nifty | Aug 11, 2026 - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakJ1aHpUZ2tSanVkU05oRkNSTkQzN0FsSDc2UGsxMjJFbE5ZVUtQMmtFUGs3WmRMbzN2XzE3Q0JtSVM2ZW1LbVctZklLSE9EWjhNY1RaSXNjanpFVjliRFU5SUxJX1NFa3pzV25CQklzU3ljRlN1aTU0VFdWRDZiNVVnWWY3TWE0YllmdVpyc21ZRjdQMkhmNEhfUG5EblJ0OXZBLWpVaHhFZDBuVDJDdEdseWxjY2FSVl8ydnd5SEpHZm1vWmVYOFVIRzFhNkM5Y3lVMUE5cm9HYWpMLXJfbUxfVmg?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 11:31:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sensex Today Ends 388 Points Lower | Nifty Below 24,500 | Aditya Birla Fashion and Retail Down 5% - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcXprUmpRX2JvWnFESnRSVUE3NGxVV0pOb3VrUjdBRGhxU2pLNGlFbE9XRWVub0ZISHE5UTMyT25tM0k1TjZBcUhiNkJNYmQtZThCUE5vclFLYXlXREd0Q2puSng1OHUtTjJON245a1RCNXBzVU9VWThRd1RjYVZWbmRfMDJlWkJ1R1J5VTJRRVhvaDFxZWNobkhmZURhYWcxRlNlNkZsSmFWMXBCb2hZbmtOMGNvTGJURTNobFp3bzBKOG5mRmNjaEJBN2lHOTdabU9GWXRyc1VfZVhZZG1oc3NmT1BFc1pR?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 10:22:19 GMT"
+      "title": "Indian Stocks Dip as Global Crude Oil Prices Jump Amid Geopolitical Tensions - Rediff",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV1dnUkh4elRyRGxyTjNqSnJJTURhYjNBNHJ3X1lCakNUNV8tNlRoeHprS0RJMG00YXZZNl9SMEc0VDNoWlFyOE8zd0l3VjJsdVlxXzUtWldiU2YyWExlOFdYUEdUN2s1QkF2VHBELVhCTGNvRG1JY1gwSWhNdE1LcXV5ZW5mWVNfdFE4RU5rTEYxTmFrRzYtdEE3Ry04ZERPVzVlR2duV3BiQ1hPX3R0TkR1cDNfQTJPYW96MlVSYU1ndGkzd2pPQ3F3VE5LSFJuSzVWTmY2enrSAdsBQVVfeXFMT01BQjVxOUZRbk1NazJmaXZjQnRKenVfbE9IbzJBZXhMZXNUbndOc0w2eXZiRHduS0JnYXZ6VmlrRzlVWXFPME9QVTBldDdMTkxZVjNFdmVLdjFnamJLM3VqV283cGR2cmpaaVNsNjk3QkNfaHY4UGtPaFVIamp4QmpzNTBvaXJtc0FyN1Azc1RWTHpXOFo4d250Y0tKV3JGQVM0bEIycFNJLV9XcXdSazhHdndBV1gzSnRzTWxwanVPaW9KTUxkT0k0NjZQZkh6VWdISkxpVDRaM2Zn?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 11:06:46 GMT"
     },
     {
       "src": "Google India News",
-      "title": "What is Nifty 50? How India's Benchmark Index Works - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPS3dYTVdXbUNxOEJRVmtzdVZHUDYzT0FFYnh1OE81WWV5ZmFWR1A5R1NZUjRBN2JqX3o0eDNuUFIwUUdRX2RhdEVsOTdWVHo1MTAtV3lLTWxqWEtaeTlZdGNfbGZZRDZFZ3FCVzJVSTBUQWRCQnF0WHFOSDZvSFlmcHRIZ3VNSnBLMUFJUEdrTldUeU9nNDNzZU1pZkVvUVRhbzVKcDZYVl80Q0dfOHBqX2V3?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 10:10:17 GMT"
+      "title": "Morgan Stanley notes India equity inflows fell in July - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWlaMWlLRWl1Z3lTSUNPY0RzcDdnNlBObzdOd2pLb2ZlUzFhWVozdHA3WEdMdWE1M3M5UVRvQjZsbFlBU1pLaTh2Q01aWk0tYktDRm43TDhIakxWWm9QZEpDME15YThLeWxFRzZQVHl0ZWxuRkhJYWF4dFZxWDBNcUtIZmNxSU9sai1TeFNWb0c2X0FoX1VPUlVBRUxkUjg0RFA5OWhZbkxGM2JucmVSd2NmeHhGcEk?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 11:00:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's index-options trading faces near-term drag from new stock closing, Bernstein says - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQ2p1TmQ4bWY3TzBPajByZl9oS3ZuWnNiVk9sWHlXLS1ScUVDenBmMXVwTWRXWE53dzE4emxZelc4YldFcnM2bEtocmtWcXBQUVBzeW5zbGthZXZjV2VNODNVWFFhbGM3UERFVlgtaC1BQ2liQ2prM0lBQ0xEN3JJZWlReHlfUFhTUm1SNXUtelJraTNmbFV6NUtMOG03LXgwZXN1X21kUmZKY2JTSElCOXNUM3dlNzVvSlNoaFVUQkNEV0YwaWJjcFlnb3BVN1pwUzRxM2RLdlNsT1RBdTBLcTd2SFJRTG_SAe4BQVVfeXFMTUpxZGo4MXUtTU4xalJ3UmNRWWZhaTRfUlpScnNmOFJERlRLYVBETTI0SjRqTXFfVG9COHVvT3lWM3pTcjkxNnBaQ2d6T2lLUVU1X0VQdk5JNnBvZXlOd0dTMlgtcWRnVzB3Q0hXUFhNd1IybE1WdnpIVGd5N0gtS1Rsa3dmZ0pCYWxrTlhHTlpZRmZUeEV4TEFsVE5GUDVNS0puMjJsbkU4Ml9BRV80OVRiaVRGLUh2bDh5X24xQ2xWSmU0OHFfallxSW05MTczMzhhYVp2VUxyVzVaaU5WMmJ6ZVRDZUgwam9sV3JhQQ?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 10:12:04 GMT"
+      "title": "India's index-options trading faces near-term drag from new stock closing, Bernstein says - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWU1RNlF6SG90NE82RGZvQW9ya0pZb2hJUXc1RzZuV2ZhdEF2Mzl3VE9idEhocHlSZnpmZTl4eXpfTjRObU9jemVmc3ZVMDhSVDFhVHU0OTFpcTZpSURCUkFxTlJoUHFSNGp5eW5zQS02R1VZaElBZnpYUW9BV2FBWGpXZFh6YVVQM0tmYXc0czJCQTk3Q1RSVElqYlZKa2hPdWFyTGxieFVhdEZMWlEySXVaQTh6NExjT2NIY1BzUXA?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 10:55:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Why India's new closing auction is hurting options trading and worrying brokers - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1JIRFhhRTZwbHlRVFl3ZnVEVXY1UnROQ2Q3OFVtcWVQU2k3b1hVb3NPNExBb2l0dGpXSTZTU1FPVkJHZUQ3QTBETVM0WHhSbFQ1ZUlqbEpLZWlwSWllU2FNMnVzQ1FHeVlFLU9NWEtTaFAtX1RFRjI4RmFlMDh4YUI0UVV2VkNTc0ZVc0lKU1RQNDBRZGtXbm8tQ1NoNGpUNXdyeElKdkI3VW52cEgyeVctcmtNME02MXVzdUxMSE0zS2hKeFdJRXhsTnJTNlphNGJaODNB0gHWAUFVX3lxTE9nUkhEWGFFNnBseVFUWXdmdURVdjVSdE5DZDc4VW1xZVBTaTdvWFVvc080TEFvaXR0aldJNlNTUU9WQkdlRDdBMERNUzRYeFJsVDVlSWpsSktlaXBJaWVTYU0ydXNDUUd5WUUtT01YS1NoUC1fVEVGMjhGYWUwOHhhQjRRVXZWQ1NzRlVzSUpTVFA0MFFka1duby1DU2g0alQ1d3J4SUp2QjdVbnZwSDJ5Vy1ya00wTTYxdXN1TExITTNLaEp4V0lFeGxOclM2WmE0Ylo4M0E?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 10:04:07 GMT"
+      "title": "Expert view: Market stable due to strong SIP inflows; time to dump stories and focus on cash flows - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUnFMM1lVM1M4WERoME1vR2lmWWY4SkJEb3M5ZWRLa0lUYkU1RzQza29CV2pKQmdwbEQ1NWNMdkJYbWRiYjRYMDlEUERjTjR5NFQ5bmNpUkdWZmxXYzlBZGFXUEZBMjUwLVhlMlJwTGdSMTNZTlN2S3N4OENBRWh5TkNtdDJ2OXlubWhSWGc0S2pyeVloRWtsSFhkcHBzSS1XWHdJUDRvVVhXQ0Z5SjAzM2Jqb3dORS1sX3c4b0QxaUFFS21LTG9iOFJPUzZScW5xMzhmVDFteWRNZEhXMXhZSXFvaF9BcVZUb3l4b081TFpOLVRwcllpWlFR0gH_AUFVX3lxTFBxN0lCd09ORktBY2Mzc1FMeDdMOGlzTnh5RnBpQnhWMnlDNE5FeGIwd3R6eHN0NjdYdlJYRXN6dEFXSzBJMDdMa1BuelU1T0JkVU9MV3RMOXJ6NU1DMTNwZG9KR0d3LUlRWGxVaVRnT2lzVVJhdVFTT282ck9uWUFfMEYyei1HRVdoZHNvUlRVMTNOY05WQ3dhdVEyX3ZXTHVKM09fOXN4THhvemFKSkV5T3VRc3dzWlU1NDBCdzJtcjVzbWtwNjdSZ1BWc3V0T2NPX1kxd2tFY01qT09BWjJjOTFCWTdzbHlicTU1ODBuSXh2VEpDUlMtNDVJSGdtSQ?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 11:34:25 GMT"
     }
   ],
-  "fetchedAt": 1786445601
+  "fetchedAt": 1786448558
 }
