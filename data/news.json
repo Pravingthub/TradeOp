@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Sebi proposes to widen foreign investors' access to non-agricultural commodities derivatives",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/sebi-proposes-to-widen-foreign-investors-access-to-non-agricultural-commodities-derivatives/articleshow/133153234.cms",
+      "pubDate": "Tue, 11 Aug 2026 17:19:18 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Retail traders lost $9.6 billion in equity derivatives",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-traders-lost-9-6-billion-in-equity-derivatives/articleshow/133152430.cms",
+      "pubDate": "Tue, 11 Aug 2026 16:48:28 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Don't worry about AI! Why PPFAS CIO Rajeev Thakkar wants Indian investors to read what tech analyst Benedict Evans said",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/dont-worry-about-ai-why-ppfas-cio-rajeev-thakkar-wants-indian-investors-to-read-what-tech-analyst-benedict-evans-said/articleshow/133152220.cms",
       "pubDate": "Tue, 11 Aug 2026 16:38:01 +0530"
@@ -19,46 +31,40 @@
       "pubDate": "Tue, 11 Aug 2026 16:16:59 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Rupee retreats to near two-week low, closes at 95.43 vs USD as US-Iran standoff pushes oil higher",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-retreats-to-near-two-week-low-closes-at-95-43-vs-usd-as-us-iran-standoff-pushes-oil-higher/articleshow/133150919.cms",
-      "pubDate": "Tue, 11 Aug 2026 15:54:26 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Is Microsoft overbuilding AI capacity? Bernstein says no, raises target price to $660",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/is-microsoft-overbuilding-ai-capacity-bernstein-says-no-raises-target-price-to-660/articleshow/133150784.cms",
-      "pubDate": "Tue, 11 Aug 2026 15:47:32 +0530"
+      "src": "Business Standard",
+      "title": "Vikram Thermo (India) standalone net profit rises 67.25% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/vikram-thermo-india-standalone-net-profit-rises-67-25-in-the-june-2026-quarter-126081101490_1.html",
+      "pubDate": "Tue, 11 Aug 2026 17:51:51 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Sensex slips 388 pts, Nifty ends below 24,500 as crude boils",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sensex-slips-388-pts-nifty-ends-below-24-500-as-crude-boils-126081101347_1.html",
-      "pubDate": "Tue, 11 Aug 2026 17:04:18 +0530"
+      "title": "Expo Engineering and Projects standalone net profit declines 41.35% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/expo-engineering-and-projects-standalone-net-profit-declines-41-35-in-the-june-2026-quarter-126081101489_1.html",
+      "pubDate": "Tue, 11 Aug 2026 17:51:43 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Quick Wrap: Nifty FMCG Index falls 1.17%",
-      "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-fmcg-index-falls-1-17-126081101346_1.html",
-      "pubDate": "Tue, 11 Aug 2026 17:04:10 +0530"
+      "title": "Quadrant Televentures reports standalone net profit of Rs 3.25 crore in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/quadrant-televentures-reports-standalone-net-profit-of-rs-3-25-crore-in-the-june-2026-quarter-126081101488_1.html",
+      "pubDate": "Tue, 11 Aug 2026 17:51:35 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Anantam Highways Trust reports consolidated net profit of Rs 59.43 crore in the June 2026 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/anantam-highways-trust-reports-consolidated-net-profit-of-rs-59-43-crore-in-the-june-2026-quarter-126081101297_1.html",
-      "pubDate": "Tue, 11 Aug 2026 16:36:29 +0530"
+      "title": "Wires & Fabriks (S.A) standalone net profit rises 400.00% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/wires-fabriks-s-a-standalone-net-profit-rises-400-00-in-the-june-2026-quarter-126081101487_1.html",
+      "pubDate": "Tue, 11 Aug 2026 17:51:27 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Global Education consolidated net profit declines 10.69% in the June 2026 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/global-education-consolidated-net-profit-declines-10-69-in-the-june-2026-quarter-126081101295_1.html",
-      "pubDate": "Tue, 11 Aug 2026 16:36:22 +0530"
+      "title": "Manugraph India standalone net profit rises 9.22% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/manugraph-india-standalone-net-profit-rises-9-22-in-the-june-2026-quarter-126081101486_1.html",
+      "pubDate": "Tue, 11 Aug 2026 17:51:20 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Ceinsys Tech consolidated net profit declines 2.18% in the June 2026 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ceinsys-tech-consolidated-net-profit-declines-2-18-in-the-june-2026-quarter-126081101293_1.html",
-      "pubDate": "Tue, 11 Aug 2026 16:36:08 +0530"
+      "src": "LiveMint Markets",
+      "title": "1100% rally in five years! Small cap multibagger stock under  \u20b950 to be in focus on Wednesday; here's why",
+      "link": "https://www.livemint.com/market/stock-market-news/1100-rally-in-five-years-small-cap-multibagger-stock-under-rs-50-to-be-in-focus-on-wednesday-heres-why-11786447279657.html",
+      "pubDate": "Tue, 11 Aug 2026 17:14:58 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -85,10 +91,16 @@
       "pubDate": "Tue, 11 Aug 2026 16:26:00 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Top Gainers &amp; Losers on 11 August: Triveni Turbine, Crisil, Castrol India, Vedanta, Jindal Steel among top losers",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-11-august-triveni-turbine-crisil-castrol-india-vedanta-jindal-steel-among-top-losers-11786441064137.html",
-      "pubDate": "Tue, 11 Aug 2026 15:55:19 +0530"
+      "src": "CNBC TV18",
+      "title": "JSW Dulux Q1 net profit falls 12% as gross margin takes a hit; approves 1:10 stock split",
+      "link": "https://www.cnbctv18.com/market/stocks/jsw-dulux-share-price-q1-net-profit-falls-12-as-gross-margin-takes-a-hit-approves-110-stock-split-19966784.htm",
+      "pubDate": "Tue, 11 Aug 2026 17:40:10 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Rupee falls 13 paise to settle at 95.43 against US dollar",
+      "link": "https://www.cnbctv18.com/market/rupee-falls-13-paise-to-settle-at-95-43-against-us-dollar-19966782.htm",
+      "pubDate": "Tue, 11 Aug 2026 17:21:17 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -100,7 +112,7 @@
       "src": "CNBC TV18",
       "title": "Manappuram Finance Q1 net profit zooms over 4x on higher NII; \u20b91 dividend declared",
       "link": "https://www.cnbctv18.com/market/stocks/manappuram-finance-share-price-q1-net-profit-zooms-over-4x-on-higher-nii-rs-1-dividend-declared-19966756.htm",
-      "pubDate": "Tue, 11 Aug 2026 17:08:43 +0530"
+      "pubDate": "Tue, 11 Aug 2026 17:17:52 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Tue, 11 Aug 2026 16:56:26 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Godrej Consumer CEO Sudhir Sitapati resigns; CFO Aasif Malbari to take over",
-      "link": "https://www.cnbctv18.com/business/companies/godrej-consumer-ceo-sudhir-sitapati-resigns-cfo-aasif-malbari-to-take-over-19966727.htm",
-      "pubDate": "Tue, 11 Aug 2026 16:53:10 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "RVNL Q1 profit rises 19% as revenue grows 11%, operating profit more than triples",
-      "link": "https://www.cnbctv18.com/market/earnings/rvnl-q1-pat-rises-18-5-pc-as-ebitda-more-than-triples-19966713.htm",
-      "pubDate": "Tue, 11 Aug 2026 16:37:49 +0530"
+      "src": "Google India News",
+      "title": "India\u2019s Retail Traders Lost $9.6 Billion in Equity Derivatives - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnlOVGl5MUtMUlZCWjJCZEF5QXhadnNIaG42dGRUZE56SlhMNWE0Yk5vUkRCNTdwUVUwYmFwc0x0NUVtWlo4RHlXNTZRTnhHNDJRNVFBVjlDLUpKd21NNm9jZWNJNU5rZlU3NUZNSk9wTmVoeVczT0NjSF9sd0lIaEstTXRLUG1IcXlMc2JMbi1ncmlrUVU5U2lHNFE5bjQyRVNJVjlfb0NlMUlucldUWFFR?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 12:21:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Share Market Today: Nifty 50, Bank Nifty | Aug 11, 2026 - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakJ1aHpUZ2tSanVkU05oRkNSTkQzN0FsSDc2UGsxMjJFbE5ZVUtQMmtFUGs3WmRMbzN2XzE3Q0JtSVM2ZW1LbVctZklLSE9EWjhNY1RaSXNjanpFVjliRFU5SUxJX1NFa3pzV25CQklzU3ljRlN1aTU0VFdWRDZiNVVnWWY3TWE0YllmdVpyc21ZRjdQMkhmNEhfUG5EblJ0OXZBLWpVaHhFZDBuVDJDdEdseWxjY2FSVl8ydnd5SEpHZm1vWmVYOFVIRzFhNkM5Y3lVMUE5cm9HYWpMLXJfbUxfVmg?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 11:31:17 GMT"
+      "title": "Board of NBCC (India) approves incorporation of subsidiary - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQN2lldHZzVGJqUnJVMWlWSmV3dGpFT094QnlFNlJlRmJPUXhhaTRSUUR6Qmg2alpDaVRuYVhDT3A1eGNuVUc3UUw4TkE3d1hWTkNhMDhzalVaMUlyWUF0bTVGTFAyY2VoRFFCOFF0U1dLWm05WTdweUhkNmNaWGpLUzRHa3BxWmNGYW40eE9MUTBfN0UtOEw2T2pObDR5d1drZzF3Z3R3aExhaFIyN2lIWGJNY1FERm9fVTFVYVZuVVZ2VkRTMFFHckQ0M296TmN0WDVSatIB2gFBVV95cUxOR1gzSzN5bUwwdHhfUk9kRmlGWTI5UXQ0a3ZKUWZod2FySUhWZmFWWHVta1NCQXlZanlyLVNvVkdqakxta2JLR2NOZFBndnhRYzRKVkJOQnlCSzJ1ZzRSM2ctd3BSQ2lXcjBCV3lzVlBpT0JlSGN5UHMwMXduM3piUGd2U0xxbVpKNDVPRm5JWG1MMlRRVl92QjJPUDgwUXdTUmNjajhKbmpPSXluc3pFWk9hcklzVHhWS3Fqb2NFYnZPcTZVR2F1NFNLSWJVOHY0SHBqejh1ZDd6QQ?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 12:20:09 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian Stocks Dip as Global Crude Oil Prices Jump Amid Geopolitical Tensions - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV1dnUkh4elRyRGxyTjNqSnJJTURhYjNBNHJ3X1lCakNUNV8tNlRoeHprS0RJMG00YXZZNl9SMEc0VDNoWlFyOE8zd0l3VjJsdVlxXzUtWldiU2YyWExlOFdYUEdUN2s1QkF2VHBELVhCTGNvRG1JY1gwSWhNdE1LcXV5ZW5mWVNfdFE4RU5rTEYxTmFrRzYtdEE3Ry04ZERPVzVlR2duV3BiQ1hPX3R0TkR1cDNfQTJPYW96MlVSYU1ndGkzd2pPQ3F3VE5LSFJuSzVWTmY2enrSAdsBQVVfeXFMT01BQjVxOUZRbk1NazJmaXZjQnRKenVfbE9IbzJBZXhMZXNUbndOc0w2eXZiRHduS0JnYXZ6VmlrRzlVWXFPME9QVTBldDdMTkxZVjNFdmVLdjFnamJLM3VqV283cGR2cmpaaVNsNjk3QkNfaHY4UGtPaFVIamp4QmpzNTBvaXJtc0FyN1Azc1RWTHpXOFo4d250Y0tKV3JGQVM0bEIycFNJLV9XcXdSazhHdndBV1gzSnRzTWxwanVPaW9KTUxkT0k0NjZQZkh6VWdISkxpVDRaM2Zn?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 11:06:46 GMT"
+      "title": "Large-cap funds see outflows after 31 months in July: AMFI data - The Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa0hTM0dDS05oMHJZelRqX3JlVk10a3JYVGdwMWZkM1F6eWNrV0ZLaEpjWFZQem8tNXJSeU5sU0poenBMX2I2bzF4NlZoUlo1RkMweWlxZXB3WUdJcDF1RGlBNjV6dGUyeFFEYmROMWw1amZ6djVIT0V2Ung4U0ZKaVVJSkVfbnVzOVZ0b3c4bjI5aEJmTzZGeWlBYXhQenk3aEQzMnM4UmzSAa8BQVVfeXFMTVZoZGZTT3hscXBDR0xxbENZRUpZd1JYYkdmeDIxV3lMUnFUbi1wTGZqTG5zcUNYdTZPZHBXUFBOT2ZpYjF6ZDNTQmZvOXV4RjdtMXh4enlvVGJJWjV2b1ktX3FFR3BDSWxsTlVYaWNEUy1RQUQtbGx5TUVRTjhXSE9BbDFVdExkSE9oUXI0RmtWcHRFem9vb1J0ekhDUkE0d29mMHExdFpYRU8zYl84bw?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 12:06:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Morgan Stanley notes India equity inflows fell in July - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdWlaMWlLRWl1Z3lTSUNPY0RzcDdnNlBObzdOd2pLb2ZlUzFhWVozdHA3WEdMdWE1M3M5UVRvQjZsbFlBU1pLaTh2Q01aWk0tYktDRm43TDhIakxWWm9QZEpDME15YThLeWxFRzZQVHl0ZWxuRkhJYWF4dFZxWDBNcUtIZmNxSU9sai1TeFNWb0c2X0FoX1VPUlVBRUxkUjg0RFA5OWhZbkxGM2JucmVSd2NmeHhGcEk?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 11:00:15 GMT"
+      "title": "Green Energy Stocks Show Mixed Performance As Indian Markets Decline On August 11 - SolarQuarter",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcTJZUGxJSkpSZnFyajY1OUduOEpLMDdta0FPWUw5SUR5Zk1IbWcxMGNrQjdmYUJGb3M3eTk4V3JnaXZxUm02RkZZb25Gai0wSnZhaE9JM3RXRnBoMlUyU1A3RE1neEE2Tl9nSE5kVlBFeF9DT09kZHBqdUtRV2JQRnhIZ0Z1c0x4di15cjZyeEZPZlpFcnZUMDN2dGpKZ3FJeE16OEZ3aThPMUhCUngzaFIwZllPWTRvakE?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 12:03:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's index-options trading faces near-term drag from new stock closing, Bernstein says - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWU1RNlF6SG90NE82RGZvQW9ya0pZb2hJUXc1RzZuV2ZhdEF2Mzl3VE9idEhocHlSZnpmZTl4eXpfTjRObU9jemVmc3ZVMDhSVDFhVHU0OTFpcTZpSURCUkFxTlJoUHFSNGp5eW5zQS02R1VZaElBZnpYUW9BV2FBWGpXZFh6YVVQM0tmYXc0czJCQTk3Q1RSVElqYlZKa2hPdWFyTGxieFVhdEZMWlEySXVaQTh6NExjT2NIY1BzUXA?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 10:55:18 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Expert view: Market stable due to strong SIP inflows; time to dump stories and focus on cash flows - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUnFMM1lVM1M4WERoME1vR2lmWWY4SkJEb3M5ZWRLa0lUYkU1RzQza29CV2pKQmdwbEQ1NWNMdkJYbWRiYjRYMDlEUERjTjR5NFQ5bmNpUkdWZmxXYzlBZGFXUEZBMjUwLVhlMlJwTGdSMTNZTlN2S3N4OENBRWh5TkNtdDJ2OXlubWhSWGc0S2pyeVloRWtsSFhkcHBzSS1XWHdJUDRvVVhXQ0Z5SjAzM2Jqb3dORS1sX3c4b0QxaUFFS21LTG9iOFJPUzZScW5xMzhmVDFteWRNZEhXMXhZSXFvaF9BcVZUb3l4b081TFpOLVRwcllpWlFR0gH_AUFVX3lxTFBxN0lCd09ORktBY2Mzc1FMeDdMOGlzTnh5RnBpQnhWMnlDNE5FeGIwd3R6eHN0NjdYdlJYRXN6dEFXSzBJMDdMa1BuelU1T0JkVU9MV3RMOXJ6NU1DMTNwZG9KR0d3LUlRWGxVaVRnT2lzVVJhdVFTT282ck9uWUFfMEYyei1HRVdoZHNvUlRVMTNOY05WQ3dhdVEyX3ZXTHVKM09fOXN4THhvemFKSkV5T3VRc3dzWlU1NDBCdzJtcjVzbWtwNjdSZ1BWc3V0T2NPX1kxd2tFY01qT09BWjJjOTFCWTdzbHlicTU1ODBuSXh2VEpDUlMtNDVJSGdtSQ?oc=5",
-      "pubDate": "Tue, 11 Aug 2026 11:34:25 GMT"
+      "title": "US markets today: Dow, S&P 500, Nasdaq futures indicate positive open; Super Micro Computer earnings in focus - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQdk1vZjdDUVJHb2R5cXJsa0FjMllDWS1EYkpnNFdRQzZSYWE3RFd4b1RJQ0h4WVZ3aV9SRkttcVFZbTdsY2FwbUREeU5Tc1NScDB3Yk9BOTJWam1zMGNWQnZ2MnBIRkpDQVBvellod0FPNFVtOG5LNjQ5QlZZTW0yVVl5M19oM29NT0JhMnJBVjJza2MzeWpIS2toaG1HM2syQnd5NC16Ny1uQ3RDbmFZT01jd2kyNGxVVm93eThXUk9rYURVT01CVVNUMkF4ZlF1VVhZLW1FcDNzM0d4dWZtNU93cm1rMzBwcWxLQWZPczVnR2FQQnI3bnJaWlNRemx5?oc=5",
+      "pubDate": "Tue, 11 Aug 2026 12:04:01 GMT"
     }
   ],
-  "fetchedAt": 1786448558
+  "fetchedAt": 1786451471
 }
