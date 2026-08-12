@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Londian Wason valued at $2 billion, biggest Chinese debut in New York in over a year",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-londian-wason-valued-at-2-billion-biggest-chinese-debut-in-new-york-in-over-a-year/articleshow/133190804.cms",
+      "pubDate": "Wed, 12 Aug 2026 23:42:12 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Goldman Sachs ups ETF push, set to acquire Neos Investments for up to $2.25 billion",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-ups-etf-push-set-to-acquire-neos-investments-for-up-to-2-25-billion/articleshow/133189967.cms",
+      "pubDate": "Wed, 12 Aug 2026 23:31:21 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Nebius shares soar 22% as AI demand powers revenue beat",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nebius-shares-soar-22-as-ai-demand-powers-revenue-beat/articleshow/133188174.cms",
       "pubDate": "Wed, 12 Aug 2026 22:00:38 +0530"
@@ -19,18 +31,6 @@
       "pubDate": "Wed, 12 Aug 2026 21:30:29 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US stocks: CoreWeave, Super Micro surge on signs of sustained AI buildout",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-coreweave-super-micro-surge-on-signs-of-sustained-ai-buildout/articleshow/133187386.cms",
-      "pubDate": "Wed, 12 Aug 2026 21:26:52 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "BofA to invest $1.9 billion for 49.9% stake in Jio Financial NBFC unit",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/update-1-bofa-to-invest-1-9-billion-for-49-9-stake-in-jio-financial-nbfc-unit/articleshow/133187370.cms",
-      "pubDate": "Wed, 12 Aug 2026 21:25:10 +0530"
-    },
-    {
       "src": "Business Standard",
       "title": "GIFT City commodity trading proposal under govt review: IFSCA chief",
       "link": "https://www.business-standard.com/markets/news/gift-city-commodity-trading-proposal-under-govt-review-ifsca-chief-126081201903_1.html",
@@ -40,7 +40,7 @@
       "src": "Business Standard",
       "title": "Horizon Industrial Parks eyes next growth phase with \u20b92,600 crore IPO",
       "link": "https://www.business-standard.com/markets/ipo/horizon-industrial-parks-eyes-next-growth-phase-with-2-600-crore-ipo-126081201787_1.html",
-      "pubDate": "Wed, 12 Aug 2026 19:56:54 +0530"
+      "pubDate": "Wed, 12 Aug 2026 19:56:50 +0530"
     },
     {
       "src": "Business Standard",
@@ -50,9 +50,9 @@
     },
     {
       "src": "Business Standard",
-      "title": "SAT reserves order on interim relief pleas filed by Zee and Punit Goenka",
+      "title": "SAT reserves order on Zee, CEO Punit Goenka's plea for interim relief",
       "link": "https://www.business-standard.com/markets/news/sat-reserves-order-on-interim-relief-pleas-filed-by-zee-and-punit-goenka-126081201720_1.html",
-      "pubDate": "Wed, 12 Aug 2026 19:28:43 +0530"
+      "pubDate": "Wed, 12 Aug 2026 19:28:53 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,39 @@
     },
     {
       "src": "LiveMint Markets",
-      "title": "Cisco stock rises ahead of Q4 earnings as investors focus on AI networking demand",
-      "link": "https://www.livemint.com/market/stock-market-news/cisco-stock-rises-ahead-of-q4-earnings-as-investors-focus-on-ai-networking-demand-11786556085300.html",
-      "pubDate": "Wed, 12 Aug 2026 23:23:25 +0530"
+      "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand",
+      "link": "https://www.livemint.com/market/oil-prices-edge-up-as-investors-weigh-us-iran-talks-deadlock-against-lower-demand-11786561800055.html",
+      "pubDate": "Thu, 13 Aug 2026 00:39:59 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "BofA to acquire up to 49.9% stake in Jio Credit for  \u20b918,268 crore",
-      "link": "https://www.livemint.com/market/stock-market-news/bofa-to-acquire-up-to-49-9-stake-in-jio-credit-for-rs-18-268-crore-11786554406036.html",
-      "pubDate": "Wed, 12 Aug 2026 22:47:55 +0530"
+      "title": "Gold rises to over two-month peak as US inflation data dampens rate hike bets",
+      "link": "https://www.livemint.com/market/gold-rises-to-over-two-month-peak-as-us-inflation-data-dampens-rate-hike-bets-11786560770348.html",
+      "pubDate": "Thu, 13 Aug 2026 00:22:50 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "IRCTC Q1 Results: Revenue rises 18%, profit remains largely flat at  \u20b9330 crore",
-      "link": "https://www.livemint.com/market/stock-market-news/irctc-q1-results-revenue-rises-18-profit-remains-largely-flat-at-rs-330-crore-11786550554016.html",
-      "pubDate": "Wed, 12 Aug 2026 21:43:06 +0530"
+      "title": "Canadian 10-year yield pulls back from 2-year high after tame U.S. inflation data",
+      "link": "https://www.livemint.com/market/canadian-10-year-yield-pulls-back-from-2-year-high-after-tame-u-s-inflation-data-11786560586614.html",
+      "pubDate": "Thu, 13 Aug 2026 00:19:46 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "\u2018Successor\u2026 not Warren\u2019: Michael Burry says \u2018Berkshire is no longer attractive\u2019 over $400 billon cash pile concerns",
-      "link": "https://www.livemint.com/market/stock-market-news/successor-not-warren-michael-burry-says-berkshire-is-no-longer-attractive-over-400-billon-cash-pile-concerns-11786546125231.html",
-      "pubDate": "Wed, 12 Aug 2026 21:20:51 +0530"
+      "title": "Yen Trades Near 160 Level, Keeping Traders on Intervention Watch",
+      "link": "https://www.livemint.com/market/yen-trades-near-160-level-keeping-traders-on-intervention-watch-11786559796941.html",
+      "pubDate": "Thu, 13 Aug 2026 00:06:36 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "From Trent to Titan: Over 15 Tata Group stocks more than doubled investors' wealth during Chandrasekaran's tenure",
-      "link": "https://www.livemint.com/market/stock-market-news/over-15-tata-group-stocks-more-than-doubled-investors-wealth-under-chandras-tenure-as-chairman-of-tata-sons-11786543718013.html",
-      "pubDate": "Wed, 12 Aug 2026 20:38:20 +0530"
+      "title": "Yen Trades Near 160 Level as Traders Watch for Intervention",
+      "link": "https://www.livemint.com/market/yen-trades-near-160-level-as-traders-watch-for-intervention-11786559795390.html",
+      "pubDate": "Thu, 13 Aug 2026 00:06:34 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "SEBI\u2019s PMS overhaul: Why experts see MF-PMS as a \u2018win-win\u2019 for investors, portfolio managers",
+      "link": "https://www.cnbctv18.com/market/sebi-pms-overhaul-mf-pms-25-lakh-experts-reaction-19968096.htm",
+      "pubDate": "Thu, 13 Aug 2026 00:04:10 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,41 +121,35 @@
       "pubDate": "Wed, 12 Aug 2026 22:19:54 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Persistent Systems CEO Sandeep Kalra remuneration rises 162% to \u20b9389 crore in FY26",
-      "link": "https://www.cnbctv18.com/market/persistent-systems-ceo-sandeep-kalra-remuneration-rises-162-pc-to-rs-389-crore-in-fy26-19967990.htm",
-      "pubDate": "Wed, 12 Aug 2026 21:14:55 +0530"
+      "src": "Google India News",
+      "title": "Chikhali man loses Rs84L in online share trading fraud - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3U5NWluNjFYTE5PX0tsTElkWXRjeDlSckRaZm1BZEN0cUVybUpjODc3NGJ5SFNFVGt1LVRxTWpWalhmS3VPOWpZeEVjNVdvdllEX0ZmMnR4WDJXdjJ6VzRrTHNxd2NvcWxzSHRGWmxpYnJpTHVlQjJwUE9rcHEzcFdyQXEzUzN6aWs3akNRRDNyWHlYZGM4Mkc1RzNNOUEwY1d4WVdlVlBkcVlFMFc2cFNBVXZYNUdWb0ZIb0RCNlZvUG9h0gHKAUFVX3lxTE5rMlQ1cUtHbnRuOG93eHo3d25pUU04SVdXYUh0SnRISVpoR0xXcTFDR2htckQ3WGpwMVFvZ24yVXplRG5HVFlQN3AwWGFQLWFqdFE5blRmZkZkVllQSmxjX2N3SmlKclJjTVRMaEFnMVdXUkVualpUSW9KT1M4b1ZIX3hZVHI0MFZwLUtBenI2TWVfVlVUd3loNURubnhJOEY3cXVQOXBub0k0TjQxcDUyVzR0eDhseGFyTzQ1RDJTMWlkcDRrdzBxc0E?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 18:53:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Aug 12: Markets Extend Losses as Tata Stocks, IT Shares Drag; Nifty Slips Below 24,450 - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGdXUEE0bVA5MXdBb3ZSMHBSXzdrRmE2NXR5Y1ZXaFptQ0E0ckxkS05TOFBjNXhRemxSR2g4elRRaVppeTdtdEFacDlieEw0WVpsbkhKR1pvUEdtRjFrV1ZQbmstd0F4eXk4Rjk1UUw4ZU1rLUVRdjB2YzdiWjRYTmU0b3dyQ1F4em42TnFIemR2M2k0c0R0MGRqSEdTUDZaN00wdXhIS05RYjdoVXNr?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 17:08:00 GMT"
+      "title": "LG Electronics India schedules analyst meets from Aug 17 to Sep 3 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2hfaG9nTGxEa2wxX1hPb0JJNEk4bVpTS2NuWmJUWV9qbFpYRTdhRGVHUF9rV2x3bUI2NVJjVDRmSVQ2VG13a1JMN2FOdkg4aDJiczRMUjhRaDFmVVRxR1U2T0hwYy0xX0cxWFRRWmg3akVOUGFDaHJod3pHN2E4R0F6SFE0bHNkbUZEZ3RyUUM5Zmp1a1A2ZndObC1GM0Z6XzN0dkE0eVR0bEwxa18wZWg4OGI?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 19:03:37 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Let's treat fair deals fairly by reforming off-market share valuations - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdUxRVThqTldaUVVkcW1ZLS0xVVFkazh5a1hwd3Ixa0liSnpNUW5zV3Q1SGlTVGJ1VEdtNnhURmVtNndUOTJxWF9sU2Z5emNsSmIyZWxaMG5KdGJPeEJQcE5JdThqanBPTC01dGRsUl9uVmtHTHhZRElhWEJxbE5rODNmNnk4R1RFVmEwckV5WlV4czhHYlltMV84MENBQ1VNTUtSc0dkdkkyMXU1TGN1NG9udFZYMFgtRF9nVWRucEJjRndjX0NGdk53bnZiMERxdnB2Z1dMY9IB3AFBVV95cUxNNDlBRXpIWkNyMy1pbV9lQjFSaEQydjNseElmazUtOTVDdkctZmtBNnlqTElRMWh2Zm5QQ0F5NUsyMGpBM0owYlVIZU9maFFrWmIxMURWNThFc0dKUHZGYjExdzQ2Qmo4SjVlYXNDNnJ3LTMxbElxb09HRjlXS3JKTERCQW5zVThqTGw3dlhpN3ZhQldWS0RvajVIWk5rUTVwTzQ1eHlQcGpBZlBjUEhBaHF4bE4tTUdIZHdxTFltZmF1WGhzNTFlc2Z3RXdEWG9WeEpNY1JsZ29rWTdR?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 17:20:39 GMT"
+      "title": "Yen Trades Near 160 Level, Keeping Traders on Intervention Watch - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnRCNjhDZ2NZbktkeHRaWXJ2QVNIQ2dNRThxVU45RkxJVV90NzlrLXZpVzY4VUR0eDF0N2tvaG5RRklFQUcxQlVLclNtRDRwU2t5czk3M0VTM3Y0bHRfOEt3a2xvcmkydkhhc1h6aTFqYi03bERNMjhHaFFWVEJuQlM5VG1YX3ZkdTR5eVpIdFlrcGl6dGlQeklJVjRWaFJLalJWVDZaR0k2WGpkUnZia3cyeTlOd9IBuwFBVV95cUxOWjlpUVJ5elZOVGtkZFZRVUZpNUl0UU1BaVVPbFpfNTVMc0p3SFpXdmpPSXgtZE5idzFzb3Y5ZWZpNGNOdVNBYkRndk82VzJXczh1cUlLWVlWOVVoNXplblBrUk9uR2h4T2ZfSGpZSnZyYy1TdWZGRXNqZExvd3Nrbl9PcmJ6TTV0alRCbEF1Y3ItSzREb2hQdC16TDkxX0ZfSFp1YUtUcHV6TkFtbmRCZXhKN29qMXprT2E0?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 18:36:36 GMT"
     },
     {
       "src": "Google India News",
-      "title": "BofA to acquire up to 49.9% stake in Jio Credit for \u20b918,268 crore - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOVlHUVV2dXNaalhOQ3BLcnlUVFV0aWE0Zl81cldrV1ZROXMxWTRUeVpsNFQ4dmNyY3MtRk44NjNfSERhcVZYbnVqUE1PTGpsT01uSExLc2gweGFENVJQYWJXemRFOHVYdWlLcVo0OURMNlR2eDZwMnQwVTBabW9ERmgtR21uWmhrSVZMY09vQTlfWkU2eVkxcFlhQ2l5RndDZnhQWTRfekdhb1lvdlZYRXBrV25DY2RCSVNWVWFwZktYaFIyOEtBTUxGdzFXY1drOVE?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 17:17:55 GMT"
+      "title": "Persistent Systems CEO Sandeep Kalra remuneration rises 162% to \u20b9389 crore in FY26 - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkU1aEhhR2pFenluVExoYjRjaTJmVHpWSE9lNXBwMkg3WVo1dlVKQVNXOGxROXVlMXVWWUpYbW5PV3ozYjhXc0l5LWFDODN6MzNNeWtPSHRPd0VySkpUN1Q2SzB6WGU1MTNtc3RiUUw3TjZ3aUc5Tk9zSDk2NWQ1MXlockNuNDVlWDhoVXl4VDE2dE5QaXJiakpMaTNuZHpYOTY3a1A2eVAxNXNodGNIa3BPeE5yR2M?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 18:59:48 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Bank Of America Partners With Jio Financial In $1.9B India Deal - Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VjR2RTNFI5TFkzOXVVWUtiekQ4YmIxTWJyamYyLWZ6SzNCYTE3dGJyTzdhR2M4RHFVTG85RUl0X09MN29QQkN6R3B2TVZNcnpkQTk4aDR0OUxPRTdDclhhRWc5YS0ydTMwNC14TWRkWXpWazlrR3A3X0lXR2Fhd01PamxTRUI0azZZTnBfYzE1QTNWX0ZZaGNfamRfWmxHbjRSNTR2QTllUk4zYlFWM05aTlllc0FRTE5DXw?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 17:27:13 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "KFin Technologies to present at Singapore investor meet on August 17 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRjh0QnAxN3BkZXNqVTN5Mk5RbFFYUTZLb1BSeDBvNElJNFREcHRaanF4b09hTVJNR0g2UHZSaU9QZzdGZnRzLUFUbkl6cE1xbHAwcHB3cUliUG9CQjFYMmpkUzRaV2t6Y2UxZk15TU1WZldHTzBobWNESHNIVXRvenVYOEM2Z3ZYakxHSDVtOUlXM3d6bXZLMEZlM2ZjYkN2d2R4QnZ2bVlRcTVjdEI3Z3BNTmMycTQ?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 17:07:11 GMT"
+      "title": "ITC Infotech Strengthens Strategic Tech Partnership With British American Tobacco (BAT) in New Multi-year Mandate - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMnVJR25NRUNaNkZEZUszVzRqRTV3NUZLYUxvTW5OOUdPd082R2RuU0FkTG1iREVQRzdPMGd1M1hxaUg5UzdpVWlFQVFWM1gwb2YwVXF3QVRSVlZUbV84UV91OFRLQkNyRDZsZ1p0SE1VQjYyYldyVGtWMEZmdnpZaEhKWHRlLXEzNmdoS3kzdDBOaTlQRkxIMHpadk5qRHhCMVVWT3lYRi1VbDlkeFpKTTFjYkZlVHFuSVBXeF93TkdZaXdmb05iWFh0RmR4MEZCQndYZEF0Y200S0RhYkVUQUhGdWRjLXhrOHpOYnI4Z2RDSGlFRmp2X0M2QjJ1aHNwSkkzYWtNaHlNUTZVM0xWdUw1clEyNy0tbTV5UNIBogJBVV95cUxPUW5vUHlGbi1LM1FXRXlDX1QtSHlDREVzRTRVdmtFb3dudkIwNnVlSWxYdlV4Mklrb3d1NkFoUzZJeWxtSzRhTWlQMDN2bGd4THN2dDhTT2xucFhRS3hWMG54eUFET3hXT1R1NTE3dC1iNlFrTVRYLS1CMHhZZVAxbHY1Zkg2cFZsR3plVllDQ18zd1paVGhycXpvYm4xOTZxc1VjcHRsRHBVb3p2WWVucUxFLWRVOVBEOUV6cTRldGZsd2NjeVo4Q3d3Wm1pQVIyX2RBMk1zYm1XYm52M1k1WXdKTUFQSUdhcWsxY0hvUGtUSXpwZVJldXlLSV8xOVJ1OHRGRmpSNk5NS0tQdDZfVUlKUHpnckJ2NkV1VHUwYi1yQQ?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 18:55:06 GMT"
     }
   ],
-  "fetchedAt": 1786557880
+  "fetchedAt": 1786562223
 }
