@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US Fed expected to leave rates unchanged next month after soft inflation data",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-expected-to-leave-rates-unchanged-next-month-after-soft-inflation-data/articleshow/133191697.cms",
+      "pubDate": "Thu, 13 Aug 2026 00:21:32 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: Londian Wason valued at $2 billion, biggest Chinese debut in New York in over a year",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-londian-wason-valued-at-2-billion-biggest-chinese-debut-in-new-york-in-over-a-year/articleshow/133190804.cms",
       "pubDate": "Wed, 12 Aug 2026 23:42:12 +0530"
@@ -23,12 +29,6 @@
       "title": "Indel Money to raise up to Rs 500 crore via public issue of NCDs",
       "link": "https://economictimes.indiatimes.com/markets/bonds/indel-money-to-raise-up-to-rs-500-crore-via-public-issue-of-ncds/articleshow/133187783.cms",
       "pubDate": "Wed, 12 Aug 2026 21:39:48 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133187725.cms",
-      "pubDate": "Wed, 12 Aug 2026 21:30:29 +0530"
     },
     {
       "src": "Business Standard",
@@ -92,6 +92,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Anuradha, Anand Mahindra contribute \u20b9300 cr worth of M&M shares to Mahindra University",
+      "link": "https://www.cnbctv18.com/business/companies/anuradha-anand-mahindra-contribute-rs-300-cr-worth-of-mm-shares-to-mahindra-university-19968019.htm",
+      "pubDate": "Thu, 13 Aug 2026 01:00:36 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "SEBI\u2019s PMS overhaul: Why experts see MF-PMS as a \u2018win-win\u2019 for investors, portfolio managers",
       "link": "https://www.cnbctv18.com/market/sebi-pms-overhaul-mf-pms-25-lakh-experts-reaction-19968096.htm",
       "pubDate": "Thu, 13 Aug 2026 00:04:10 +0530"
@@ -115,16 +121,22 @@
       "pubDate": "Wed, 12 Aug 2026 22:19:08 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Jio Financial, Bank of America form lending JV; BofA to take up to 50% stake",
-      "link": "https://www.cnbctv18.com/market/stocks/jio-financial-services-share-price-bank-of-america-sign-joint-venture-deal-bofa-to-acquire-50-in-jio-credit-19967982.htm",
-      "pubDate": "Wed, 12 Aug 2026 22:19:54 +0530"
+      "src": "Google India News",
+      "title": "Tata Group shares slide up to 4% as Chandrasekaran opts out of reappointment - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPN3BPOGJUUENZamhORXU2bHBtR1dRREczQVpSeEc5bWczczJNTjhVNXp2U205ZjlIQ013elE4SlptV2tvWElMb0ZsV2ZDdFJSbXc4RWRWbzNXTlpQZ1BMU3BDNmU4S2pYN1B1MTdQNEsyNjNLZzNybDY1dG5acDZ3WkJHMUlSNm9wbjFPMnE2TVBtbWpLWTFiWlVfVXBmVlZxMUJ5NDlEVjZuQ3c1bkRoYkpOU1dZS19RV3VtdVJ4ZnZiMFhaRXdOWkNpcENObjBpbXpDUHdzVDRid240Nld3RW9vWTVNUC00T0F6WEljeXVxYVVNQ1BWZE1rcWpNMFhNcTBvVmlLVVdWMmVNUUtXQVlCaXJIZllDLTJ5T3A2QkhYeGJNdWZGR2o2YV9faUFnZmo4Q1BwODVHRGlQWDNHLdIB3AFBVV95cUxNUDdiaVhCT1JSOEVYdERNTDRYcGx1UkJZcklYNi10TDNrVU9GdTBlc0M0d1dXaEJTelVKZlRhU3pIMXlQMXRmOHVNWmVWSU1sOGxRcGZRRC1LM2tkaDB5R19xdExNelBuazUzRE4wVDh6UlhQSVRmd2U5STh6RmFuWGlna1FMSmpGdUVsbzVxY0JpVTdHSElJOG9rSkZuQzFtVHEzSk5YTUNGa1FVelhvN3VDODZSNnpXeFhud1RVd1Y2Z2lBYXhOSkktQkNJRXpJNVJDdjBWcFp0R1Qw?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 19:23:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Chikhali man loses Rs84L in online share trading fraud - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNN3U5NWluNjFYTE5PX0tsTElkWXRjeDlSckRaZm1BZEN0cUVybUpjODc3NGJ5SFNFVGt1LVRxTWpWalhmS3VPOWpZeEVjNVdvdllEX0ZmMnR4WDJXdjJ6VzRrTHNxd2NvcWxzSHRGWmxpYnJpTHVlQjJwUE9rcHEzcFdyQXEzUzN6aWs3akNRRDNyWHlYZGM4Mkc1RzNNOUEwY1d4WVdlVlBkcVlFMFc2cFNBVXZYNUdWb0ZIb0RCNlZvUG9h0gHKAUFVX3lxTE5rMlQ1cUtHbnRuOG93eHo3d25pUU04SVdXYUh0SnRISVpoR0xXcTFDR2htckQ3WGpwMVFvZ24yVXplRG5HVFlQN3AwWGFQLWFqdFE5blRmZkZkVllQSmxjX2N3SmlKclJjTVRMaEFnMVdXUkVualpUSW9KT1M4b1ZIX3hZVHI0MFZwLUtBenI2TWVfVlVUd3loNURubnhJOEY3cXVQOXBub0k0TjQxcDUyVzR0eDhseGFyTzQ1RDJTMWlkcDRrdzBxc0E?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 18:53:00 GMT"
+      "title": "Two Trades for Today: A metals major for an upmove of 7.8%, a mid-cap chemical stock for a gain of about 7 - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONWN4dmhWY2U1a2Y1aVdJUWw4UnM3a2NwQWwwZjJKd1lJc0hlQlV1YTF5RlVHc2JnT2JjVlZzTTJZWEVCMlNEYkxqWW9SME52WW1rZ3BqelE1akFhUW1OQVRyMHlIZGNqMkRkbG9Yak00STdWRmRHeFFfMy1HWFpKNW8tYnZTbkVPbDlvalo1R3V5cmJiLXBlNHd4UkF3ektIc0lrdWJMMU1GNnFCZlNfWUV6bEVQYW5SVXlkN1FwSEhfWkZkZ1N0Q3A0Ym0tNHdoV3Q3alRpRkcyb3MzSXJZWFdGZ1Ryb0RWakg4QTdSNWJhemhoZHlLNGNqVW9uNU5keFU4bEE3MFAyeHPSAZACQVVfeXFMT1NTVENPMmE3NjM3a3NqUDZsODhTcVhGaGdZNG1oRHZVTm1wUkR3MkZ4NWJLYXgteXAybUhkV0hISFo2Y1pVZWhsMG5wWjJDcmhXLUd0R2dKRXhTTWo2TGF1aUMyQjE3cEVoQlJVUGhGT3RoYnp2WktldURMaTAtOEh2LS00NHRvWEgtMUdSSnhUNHZkTWF2MXZLWTNhTzM0Y0JVb0VEY2F6MXY5d1dsYlJkY2FENlRqRUtjbjNyekZSOVFVcjRJRjZJejVSSUpVQ2xHdVBWOTJmcHVpVThsbUdqMTFyNTRlTVdhWXlaUF9CYVVsWldFSzhpRW1zVmx4ZkR3WjJsTm9tYWFaRUU5bE8?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 19:15:37 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push By Reuters - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0t5YllsWGtMM2tudVNBdFhWXzNoVHZxb3JJQjZMZ2lKNTlCRG9qMUFwOFR5SWFfeTl3cjM2OUdZd1FmS0Q5Z2IyRXJQUDhBUC1reksxcmxCbngtajlvNzM3R2pVdkdPSWpranBrOXZiZzRGa2R1REVGYWxkYnVWOGtpZFBISGlXLXlUX2tqOFlTeWNBYm1kbElFX2J4T1RXVER2aHFSZTgwZWdMRDlZUHM3eXQxcXJzdmd5RG9jaF8?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 19:15:58 GMT"
     },
     {
       "src": "Google India News",
@@ -134,22 +146,10 @@
     },
     {
       "src": "Google India News",
-      "title": "Yen Trades Near 160 Level, Keeping Traders on Intervention Watch - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnRCNjhDZ2NZbktkeHRaWXJ2QVNIQ2dNRThxVU45RkxJVV90NzlrLXZpVzY4VUR0eDF0N2tvaG5RRklFQUcxQlVLclNtRDRwU2t5czk3M0VTM3Y0bHRfOEt3a2xvcmkydkhhc1h6aTFqYi03bERNMjhHaFFWVEJuQlM5VG1YX3ZkdTR5eVpIdFlrcGl6dGlQeklJVjRWaFJLalJWVDZaR0k2WGpkUnZia3cyeTlOd9IBuwFBVV95cUxOWjlpUVJ5elZOVGtkZFZRVUZpNUl0UU1BaVVPbFpfNTVMc0p3SFpXdmpPSXgtZE5idzFzb3Y5ZWZpNGNOdVNBYkRndk82VzJXczh1cUlLWVlWOVVoNXplblBrUk9uR2h4T2ZfSGpZSnZyYy1TdWZGRXNqZExvd3Nrbl9PcmJ6TTV0alRCbEF1Y3ItSzREb2hQdC16TDkxX0ZfSFp1YUtUcHV6TkFtbmRCZXhKN29qMXprT2E0?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 18:36:36 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Persistent Systems CEO Sandeep Kalra remuneration rises 162% to \u20b9389 crore in FY26 - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkU1aEhhR2pFenluVExoYjRjaTJmVHpWSE9lNXBwMkg3WVo1dlVKQVNXOGxROXVlMXVWWUpYbW5PV3ozYjhXc0l5LWFDODN6MzNNeWtPSHRPd0VySkpUN1Q2SzB6WGU1MTNtc3RiUUw3TjZ3aUc5Tk9zSDk2NWQ1MXlockNuNDVlWDhoVXl4VDE2dE5QaXJiakpMaTNuZHpYOTY3a1A2eVAxNXNodGNIa3BPeE5yR2M?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 18:59:48 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "ITC Infotech Strengthens Strategic Tech Partnership With British American Tobacco (BAT) in New Multi-year Mandate - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPMnVJR25NRUNaNkZEZUszVzRqRTV3NUZLYUxvTW5OOUdPd082R2RuU0FkTG1iREVQRzdPMGd1M1hxaUg5UzdpVWlFQVFWM1gwb2YwVXF3QVRSVlZUbV84UV91OFRLQkNyRDZsZ1p0SE1VQjYyYldyVGtWMEZmdnpZaEhKWHRlLXEzNmdoS3kzdDBOaTlQRkxIMHpadk5qRHhCMVVWT3lYRi1VbDlkeFpKTTFjYkZlVHFuSVBXeF93TkdZaXdmb05iWFh0RmR4MEZCQndYZEF0Y200S0RhYkVUQUhGdWRjLXhrOHpOYnI4Z2RDSGlFRmp2X0M2QjJ1aHNwSkkzYWtNaHlNUTZVM0xWdUw1clEyNy0tbTV5UNIBogJBVV95cUxPUW5vUHlGbi1LM1FXRXlDX1QtSHlDREVzRTRVdmtFb3dudkIwNnVlSWxYdlV4Mklrb3d1NkFoUzZJeWxtSzRhTWlQMDN2bGd4THN2dDhTT2xucFhRS3hWMG54eUFET3hXT1R1NTE3dC1iNlFrTVRYLS1CMHhZZVAxbHY1Zkg2cFZsR3plVllDQ18zd1paVGhycXpvYm4xOTZxc1VjcHRsRHBVb3p2WWVucUxFLWRVOVBEOUV6cTRldGZsd2NjeVo4Q3d3Wm1pQVIyX2RBMk1zYm1XYm52M1k1WXdKTUFQSUdhcWsxY0hvUGtUSXpwZVJldXlLSV8xOVJ1OHRGRmpSNk5NS0tQdDZfVUlKUHpnckJ2NkV1VHUwYi1yQQ?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 18:55:06 GMT"
+      "title": "Top 10 Entrepreneurs Leading Business Growth in Ahmedabad - Ahmedabad Mirror",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGJPUVFNMTZrMEZUU2lDUHk2OGlfRlNsSllBR2c4ek5NTFlGYng0a3IwYzBYckdTMEljY2k5LVNMdVpJQzVlVXAtRWNFdXJwUU4taE53b21rdGo2eWVyNkpqRE1VVmFSV2ZoYXhGSDNmdUhKVEhqaGFYYXBuOUE1eUNxY3UtbEMwb3hObS1wNVRGYVJLZlk1c1pzVElvSFVGS1FtQnd3?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 19:31:02 GMT"
     }
   ],
-  "fetchedAt": 1786562223
+  "fetchedAt": 1786564881
 }
