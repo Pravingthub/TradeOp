@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Corn Jumps as USDA Cuts Yield More Than Expected Amid Heat Waves",
+      "link": "https://www.livemint.com/market/corn-jumps-as-usda-cuts-yield-more-than-expected-amid-heat-waves-11786572052753.html",
+      "pubDate": "Thu, 13 Aug 2026 03:30:52 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "US Sells 10-Year Debt at Highest Yields Since Financial Crisis",
       "link": "https://www.livemint.com/market/us-sells-10-year-debt-at-highest-yields-since-financial-crisis-11786566124472.html",
       "pubDate": "Thu, 13 Aug 2026 01:52:03 +0530"
@@ -83,12 +89,6 @@
       "title": "Canadian 10-year yield pulls back from 2-year high after tame U.S. inflation data",
       "link": "https://www.livemint.com/market/canadian-10-year-yield-pulls-back-from-2-year-high-after-tame-u-s-inflation-data-11786560586614.html",
       "pubDate": "Thu, 13 Aug 2026 00:19:46 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Yen Trades Near 160 Level, Keeping Traders on Intervention Watch",
-      "link": "https://www.livemint.com/market/yen-trades-near-160-level-keeping-traders-on-intervention-watch-11786559796941.html",
-      "pubDate": "Thu, 13 Aug 2026 00:06:36 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -119,7 +119,37 @@
       "title": "Petronet LNG Q1 profit falls 15% sequentially as revenue drops 41%; margin expands",
       "link": "https://www.cnbctv18.com/market/petronet-lng-q1-net-profit-falls-15-4pc-qoq-to-rs1113-crore-19968052.htm",
       "pubDate": "Wed, 12 Aug 2026 22:19:08 +0530"
+    },
+    {
+      "src": "Google India News",
+      "title": "Tata Group Has a Succession Problem...Again - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWpfQ1Y4MDlaZnhVd1N3Mnc2R0tTZnM1UGZqR2tCdTJlTmRnSGNoT1pOZEhRdWo0Z2hURV9Ba0hXaTl1X1N4aDlYUkc3YWRtUUo4ZXlQNnYzQjZrQmo0M1ctUldrcFVjcWxaemUyZEJlOEZWeHVMWllLZERfeF9Hdkp4RzMyTmZLZkRVbjFOVGRrSDZSM19nM0lEb2J4bVNpamNZQk1SbVNQZjBwZ29nLXVCS3pmN0RFY0NJZm1B?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 22:21:05 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Food prices push up retail inflation to 4.45% in July - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQblpkZFNFUzVVMW1MLW4xV1dMd3kxcHJGLUZDSElSWFhtN21pNjdTZ2dFMUNfVllLLU9uNjJubWJfeGJpV3VaRG02dmkzVVRNck9pQ0dBOXhSOEVBQlczem1QSjhKbEFuWm5aeWNvQmZTS3ZYTTZMMElFYVhQTnpWRmFHYU1GZ0V0VE5KVjFhWTZXb2JvQzluNXZEaUpEbmh5WTVNQ3ZDVmwtampOR1FZNy1SbzJmNUsydFZHQl9wZjJ5aVpmaEZvdFAwdkxTR3ZGS0lfQ21mYlZEd9IB3wFBVV95cUxOZ2sySmxDdFdYOTBqX19iaTJBZldGUExYb0YtVGszV3ZHUFkxeWlKdG16d1ZUTUVjQ1lQVm5rd3piWVRxTVQyQnEyS2NFVWszVENOX1RLZGd0MjhNZGF2Rm9YMWNmdGV3LXF4Nk5VUks5TjV1TmpmdWNIT1pfTENFZGpZbi00eHBobU1xTVRfTEJEbG1QTm1YWlNNbVR4Mi1BVEVhdzRwMmNZekg4aFNyZkJYaWNtdHVnenB0U21CTEU5VUFYdHBLNjEwMGNkV2cxVnRQeXBuOWltQlNHbWNr?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 21:45:00 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Top 10 Entrepreneurs Leading Business Growth in Ahmedabad - Ahmedabad Mirror",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGJPUVFNMTZrMEZUU2lDUHk2OGlfRlNsSllBR2c4ek5NTFlGYng0a3IwYzBYckdTMEljY2k5LVNMdVpJQzVlVXAtRWNFdXJwUU4taE53b21rdGo2eWVyNkpqRE1VVmFSV2ZoYXhGSDNmdUhKVEhqaGFYYXBuOUE1eUNxY3UtbEMwb3hObS1wNVRGYVJLZlk1c1pzVElvSFVGS1FtQnd3?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 22:35:36 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "APAC Real Estate Market Sees 22% Investment Growth In H1 2026: Report - businessworld.in",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMTBMZHpKQVhrSXhhTExkY2NfWjBuMmRxdXY3VVVXRzg1QVc0MXN1Vl84WlNyeGNMQjlMTXA2TFp3Z3psci1DUmFfTzVWYVV3YUdoc2VNai05RU94S3huYTRRY0YzcmZ6NnJRRllBSmMwdXgtVW5zLV83cmZrZjhJNnZXblRtQmpXekZmM3hCUHpuS3I5WjA1TFJCZDRTNUFKc0hKS0N4dHcxcE5mS1RIaQ?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 21:49:24 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Amid tariff fear, Swadeshi Jagaran Manch says shun US brands - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR2kzTjYxbjR6cms1bUtSQjdlZ196UkhiYkczMDNyTFhzVEFvTDdseV9KUTBtMkpycU81NUVNS2owT1pQZmprQ0RQXzlqR3hCNk9zcDliWFJQRWxDZGpudGhfOE5xdjlRWjZMOTdyUnFST1MzRUpYSTk4aUxPRXNtUllaN1ZlZlBiZmlMRjFvWDlFMHY5R3JpZGJPbk9iMnNpSzE2bDBZdGk0eDhTdFgzckVBOVIxOHVTdlcxeWdocnh1OFV4aGlpN3ZRY9IBywFBVV95cUxQR2kzTjYxbjR6cms1bUtSQjdlZ196UkhiYkczMDNyTFhzVEFvTDdseV9KUTBtMkpycU81NUVNS2owT1pQZmprQ0RQXzlqR3hCNk9zcDliWFJQRWxDZGpudGhfOE5xdjlRWjZMOTdyUnFST1MzRUpYSTk4aUxPRXNtUllaN1ZlZlBiZmlMRjFvWDlFMHY5R3JpZGJPbk9iMnNpSzE2bDBZdGk0eDhTdFgzckVBOVIxOHVTdlcxeWdocnh1OFV4aGlpN3ZRYw?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 21:42:00 GMT"
     }
   ],
-  "fetchedAt": 1786571286
+  "fetchedAt": 1786574438
 }
