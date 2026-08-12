@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: S&amp;P 500 ends higher as CoreWeave results fuel AI optimism",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-coreweave-results-fuel-ai-optimism/articleshow/133192806.cms",
+      "pubDate": "Thu, 13 Aug 2026 01:38:14 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US Treasuries hold gains as softer inflation weakens rate-hike fears",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasuries-hold-gains-as-softer-inflation-weakens-rate-hike-fears/articleshow/133192693.cms",
+      "pubDate": "Thu, 13 Aug 2026 01:25:06 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Fed expected to leave rates unchanged next month after soft inflation data",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-expected-to-leave-rates-unchanged-next-month-after-soft-inflation-data/articleshow/133191697.cms",
       "pubDate": "Thu, 13 Aug 2026 00:21:32 +0530"
@@ -17,18 +29,6 @@
       "title": "Goldman Sachs ups ETF push, set to acquire Neos Investments for up to $2.25 billion",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/goldman-sachs-ups-etf-push-set-to-acquire-neos-investments-for-up-to-2-25-billion/articleshow/133189967.cms",
       "pubDate": "Wed, 12 Aug 2026 23:31:21 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Nebius shares soar 22% as AI demand powers revenue beat",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nebius-shares-soar-22-as-ai-demand-powers-revenue-beat/articleshow/133188174.cms",
-      "pubDate": "Wed, 12 Aug 2026 22:00:38 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Indel Money to raise up to Rs 500 crore via public issue of NCDs",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indel-money-to-raise-up-to-rs-500-crore-via-public-issue-of-ncds/articleshow/133187783.cms",
-      "pubDate": "Wed, 12 Aug 2026 21:39:48 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "US Sells 10-Year Debt at Highest Yields Since Financial Crisis",
+      "link": "https://www.livemint.com/market/us-sells-10-year-debt-at-highest-yields-since-financial-crisis-11786566124472.html",
+      "pubDate": "Thu, 13 Aug 2026 01:52:03 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand",
       "link": "https://www.livemint.com/market/oil-prices-edge-up-as-investors-weigh-us-iran-talks-deadlock-against-lower-demand-11786561800055.html",
       "pubDate": "Thu, 13 Aug 2026 00:39:59 +0530"
@@ -83,12 +89,6 @@
       "title": "Yen Trades Near 160 Level, Keeping Traders on Intervention Watch",
       "link": "https://www.livemint.com/market/yen-trades-near-160-level-keeping-traders-on-intervention-watch-11786559796941.html",
       "pubDate": "Thu, 13 Aug 2026 00:06:36 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Yen Trades Near 160 Level as Traders Watch for Intervention",
-      "link": "https://www.livemint.com/market/yen-trades-near-160-level-as-traders-watch-for-intervention-11786559795390.html",
-      "pubDate": "Thu, 13 Aug 2026 00:06:34 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Tata Group shares slide up to 4% as Chandrasekaran opts out of reappointment - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPN3BPOGJUUENZamhORXU2bHBtR1dRREczQVpSeEc5bWczczJNTjhVNXp2U205ZjlIQ013elE4SlptV2tvWElMb0ZsV2ZDdFJSbXc4RWRWbzNXTlpQZ1BMU3BDNmU4S2pYN1B1MTdQNEsyNjNLZzNybDY1dG5acDZ3WkJHMUlSNm9wbjFPMnE2TVBtbWpLWTFiWlVfVXBmVlZxMUJ5NDlEVjZuQ3c1bkRoYkpOU1dZS19RV3VtdVJ4ZnZiMFhaRXdOWkNpcENObjBpbXpDUHdzVDRid240Nld3RW9vWTVNUC00T0F6WEljeXVxYVVNQ1BWZE1rcWpNMFhNcTBvVmlLVVdWMmVNUUtXQVlCaXJIZllDLTJ5T3A2QkhYeGJNdWZGR2o2YV9faUFnZmo4Q1BwODVHRGlQWDNHLdIB3AFBVV95cUxNUDdiaVhCT1JSOEVYdERNTDRYcGx1UkJZcklYNi10TDNrVU9GdTBlc0M0d1dXaEJTelVKZlRhU3pIMXlQMXRmOHVNWmVWSU1sOGxRcGZRRC1LM2tkaDB5R19xdExNelBuazUzRE4wVDh6UlhQSVRmd2U5STh6RmFuWGlna1FMSmpGdUVsbzVxY0JpVTdHSElJOG9rSkZuQzFtVHEzSk5YTUNGa1FVelhvN3VDODZSNnpXeFhud1RVd1Y2Z2lBYXhOSkktQkNJRXpJNVJDdjBWcFp0R1Qw?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 19:23:25 GMT"
+      "title": "Emami Stock And 2 More Indian Dividend Picks Yielding Above 3% - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUTVzUmRWNnUzcGx3V3JBN0tRV3pkQzRiZWk0MmZpVkFOSEtYRmtxSDhQNTlkMzVXTzFKZENOdTZCRXlUUThzVzdkcWc3c1NXN3hrQVl2WkhPQXlnQXVaTERBTlZ0S1UzSllKTWpydmk2UEhkMldWR1hjVmpJZVRaaldyU0RmN2dFa0RXcDFNb01FQkxDazVfVTRaVlFTQTgtdjRpa1dMNjBZTTh1U1dkZnFVb2hwYV8zMjBaaHZYMlltV3djc05CUlFB0gHPAUFVX3lxTFBpQVdKNjFMQ0R1RFNwX1J5YlNLVHo3ZkZFUzBJZ0VJVFQ4WkdHY2c2TFBzZ000d01ySUdHUmZmdXBERUV6SHBfRXRNdWd4RnZPc0VNMzJvVWdWdXNKYU5PTy0xekh4TmVuRnA0cXJTNDl6RURuaVc1UldIRE1FMUxPd0g5YVVyY0NuVnAtSWJTanRGT1o1TTRLUE91VkxlRWtPdHNqaGhnMHY0MXZRczNhakNocm1KVDBBZFhxQUU3NGVucEMzSUt4MXpESV9PMA?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 20:42:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Two Trades for Today: A metals major for an upmove of 7.8%, a mid-cap chemical stock for a gain of about 7 - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONWN4dmhWY2U1a2Y1aVdJUWw4UnM3a2NwQWwwZjJKd1lJc0hlQlV1YTF5RlVHc2JnT2JjVlZzTTJZWEVCMlNEYkxqWW9SME52WW1rZ3BqelE1akFhUW1OQVRyMHlIZGNqMkRkbG9Yak00STdWRmRHeFFfMy1HWFpKNW8tYnZTbkVPbDlvalo1R3V5cmJiLXBlNHd4UkF3ektIc0lrdWJMMU1GNnFCZlNfWUV6bEVQYW5SVXlkN1FwSEhfWkZkZ1N0Q3A0Ym0tNHdoV3Q3alRpRkcyb3MzSXJZWFdGZ1Ryb0RWakg4QTdSNWJhemhoZHlLNGNqVW9uNU5keFU4bEE3MFAyeHPSAZACQVVfeXFMT1NTVENPMmE3NjM3a3NqUDZsODhTcVhGaGdZNG1oRHZVTm1wUkR3MkZ4NWJLYXgteXAybUhkV0hISFo2Y1pVZWhsMG5wWjJDcmhXLUd0R2dKRXhTTWo2TGF1aUMyQjE3cEVoQlJVUGhGT3RoYnp2WktldURMaTAtOEh2LS00NHRvWEgtMUdSSnhUNHZkTWF2MXZLWTNhTzM0Y0JVb0VEY2F6MXY5d1dsYlJkY2FENlRqRUtjbjNyekZSOVFVcjRJRjZJejVSSUpVQ2xHdVBWOTJmcHVpVThsbUdqMTFyNTRlTVdhWXlaUF9CYVVsWldFSzhpRW1zVmx4ZkR3WjJsTm9tYWFaRUU5bE8?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 19:15:37 GMT"
+      "title": "ENS Enterprises Share Price Today, ENS Enterprises Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTDBfUmY1czRQZGlCdDlDRFAyMDRHM3RtRkE3ZFJBSlNCZDU0OWVZNkxITXc5OUNBaHgydi05NS10YmpJWElJdVBoWmdPNms2cUl5bXRZenNsNnZWNnNCM2JVUHgzekQxb0dkMElIREFabUR1WTkzWktPdFB4MUUxNzVR?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 20:44:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "BofA to take 49.9% stake in Jio Credit for $1.9 billion in India push By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa0t5YllsWGtMM2tudVNBdFhWXzNoVHZxb3JJQjZMZ2lKNTlCRG9qMUFwOFR5SWFfeTl3cjM2OUdZd1FmS0Q5Z2IyRXJQUDhBUC1reksxcmxCbngtajlvNzM3R2pVdkdPSWpranBrOXZiZzRGa2R1REVGYWxkYnVWOGtpZFBISGlXLXlUX2tqOFlTeWNBYm1kbElFX2J4T1RXVER2aHFSZTgwZWdMRDlZUHM3eXQxcXJzdmd5RG9jaF8?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 19:15:58 GMT"
+      "title": "Power Grid appoints Amol Taori as Director (Finance) for five years - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEtoZ2p2WDRHc29ZdERvTW1Yb3J4cUNLendvZGd1MTBCWGdMSW5XTHFhVXlwVkhSaXdwNTRqY1REc3dQRV9EZGZlSGtuLTREZ211X2wyRTBjZWt0Wl9ZT3p1dzh2ZGNYNE05RWp3VllfVUNSZC1NODRVeFBFUlFNejg2MzQ0eTVuLVRremt0X1RITHJuYl94V2dlQmFObGFKMmVWRU55NlRzbGpvYmJrWDdNZE10dw?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 20:17:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "LG Electronics India schedules analyst meets from Aug 17 to Sep 3 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2hfaG9nTGxEa2wxX1hPb0JJNEk4bVpTS2NuWmJUWV9qbFpYRTdhRGVHUF9rV2x3bUI2NVJjVDRmSVQ2VG13a1JMN2FOdkg4aDJiczRMUjhRaDFmVVRxR1U2T0hwYy0xX0cxWFRRWmg3akVOUGFDaHJod3pHN2E4R0F6SFE0bHNkbUZEZ3RyUUM5Zmp1a1A2ZndObC1GM0Z6XzN0dkE0eVR0bEwxa18wZWg4OGI?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 19:03:37 GMT"
+      "title": "Rates Spark: Inflation Is and Isn\u2019t the Issue - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1ZJeFdqczU3cXlyVkp3LWk4Si11VXhYWGFOaGFHQjB6ZUhUNExVU1pDS1ZHYkRHcEpwSFJndUVYOC0yVjBfWHVkSXkwZVZjSVJCUFNoTmtTbzI5YW52VGVIajB4RXhXVk5nTDNUeVlEOTdON0JhNmZqaFlGTjQzV0prS0o5M2Zyb2Y4Qlc5M0g?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 20:34:33 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Top 10 Entrepreneurs Leading Business Growth in Ahmedabad - Ahmedabad Mirror",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGJPUVFNMTZrMEZUU2lDUHk2OGlfRlNsSllBR2c4ek5NTFlGYng0a3IwYzBYckdTMEljY2k5LVNMdVpJQzVlVXAtRWNFdXJwUU4taE53b21rdGo2eWVyNkpqRE1VVmFSV2ZoYXhGSDNmdUhKVEhqaGFYYXBuOUE1eUNxY3UtbEMwb3hObS1wNVRGYVJLZlk1c1pzVElvSFVGS1FtQnd3?oc=5",
-      "pubDate": "Wed, 12 Aug 2026 19:31:02 GMT"
+      "title": "Nirmala Sitharaman calls on multilateral banks to lay BRICS for private infra investment - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQN296cUllNEprbnkzVkZBaG5DNDQySDBabE9rZGhuZWtDUGREemliZ1NVMDhBMnV0S2p6QzRPRHdVelRWWER6NGxFeXI4UFJ3RFZBSVJOMGdGVEt1LWNza1hSbTFuVjg1M3I2V0pOcHVoSFNnNTlGbTQwck92NzJXb3czUG53LXh1TWluVVJ0ZEZJZjJvcTJXUGNWS3FyS09fSVkyMmZOd0ZkbU5Dbm5YbERrZmwzQjF2clVIRVBUeE9nY3pSaEhpd3l2TFpCeXczY1d4N1JjNkZxNjZiWnBVUXV0Zmxfb0hHNmNzSl96Yllqd2hUOGhpYzhKZzluX3VwTFRkVFVqWXdqSjFyQ3RwU0RBOUhxOUhFMEJ2b25Ia19VMVpOTThOaktBN3hjVWlKQ3lfRzZUa2QzUlJWZ2hxczhJNGx5X0ZmU1FXNm9aU2xDdnFvNnpfQTE4V0p0QdIB-gFBVV95cUxNNFZGV3NwSDF5TWZidWxzakhQbm1ROHg1U3Y4ZnlUVmdaNEZZWUxoY0RodHRkOWZnaTgzUFVLeHhmOTlYNUw0UWRiUURHRmxFcHh2WTJnV1FXdEZmVlZocVpjTHdTcmpYdWx1UHhlX0U5dHZPR3o1bWtGb0hnWWw3Nl82NnBoZXQ0QTh3ZmozTjZUaTlqc09qa3NzTWFXOUM5eVAteDhfeTJMQlhNLVk3UWtMRmR4YXBfQXlORUs1U0lGV1BNRDJjNDBhVkFoVVQySmNDYUJXRjNZVXBDUEw4RWR5bUJVaXdhU0dMY1JSdFlXZWYwVVAxSHNn?oc=5",
+      "pubDate": "Wed, 12 Aug 2026 20:01:11 GMT"
     }
   ],
-  "fetchedAt": 1786564881
+  "fetchedAt": 1786568237
 }
