@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: S&amp;P 500 notches record-high close as rate-hike worries ease",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-notches-record-high-close-as-rate-hike-worries-ease/articleshow/133223873.cms",
+      "pubDate": "Fri, 14 Aug 2026 01:39:01 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Average pay of CEOs of S&amp;P 500 companies rose to record $22.8 million following Elon Musk's nearly $1 trillion compensation, AFL-CIO finds",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/average-pay-of-ceos-of-sp-500-companies-rose-to-record-22-8-million-following-elon-musks-nearly-1-trillion-compensation-afl-cio-finds/articleshow/133223688.cms",
+      "pubDate": "Fri, 14 Aug 2026 01:27:09 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Fed\u2019s Barkin says rate hike an \u2018open question\u2019; Hammack backs increase on inflation concerns",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-barkin-says-rate-hike-an-open-question-hammack-backs-increase-on-inflation-concerns/articleshow/133220872.cms",
       "pubDate": "Thu, 13 Aug 2026 23:45:32 +0530"
@@ -17,18 +29,6 @@
       "title": "Bill Ackman adds Netflix, Visa &amp; Mastercard in biggest portfolio shake-up in years",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bill-ackman-adds-netflix-visa-mastercard-in-biggest-portfolio-shake-up-in-years/articleshow/133218734.cms",
       "pubDate": "Thu, 13 Aug 2026 22:00:07 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/133218209.cms",
-      "pubDate": "Thu, 13 Aug 2026 21:29:34 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US stocks: Tapestry forecasts weak annual sales as Kate Spade struggles, shares tumble 15%",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tapestry-forecasts-weak-annual-sales-as-kate-spade-struggles-shares-tumble-15/articleshow/133217828.cms",
-      "pubDate": "Thu, 13 Aug 2026 21:13:20 +0530"
     },
     {
       "src": "Business Standard",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "India regulator proposes wider access for accredited investors By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTmJEZW84SDQxQTJUYUt3bWxxQ2V3ZVlfaXpCZVF4YjFKMXZnd0J5clpBV2VCcUtJSTQzSzVvWkRFUFozOG5CTVF0VHJFdm9iT3hiTUhoZ2N0ZWZRaTM1Q0wxQ1Q5Q3FjU21HOHl0V2lGWFczanMwNlp1QUIzRkI3RjE0YnAwVHNiTFVhU3UtSkRXR1NNZFVuR0JuZUhNbEVxaWp1M3dxdUtMd1lTY2FVaGx3STNjZTBWakZXMm1tdVA?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 19:26:14 GMT"
+      "title": "Bank of America's $1.9 billion Jio bet shows global banks want a slice of India's retail lending market - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQTGlZN1gtQjRmaEZRQ0NNMjVHb0NoS1VacndSRFFjTVNqTjYwcDZxbTI3dThLWmFsMWprSGhnZUxYUDEzWGJKSlNkT3hXNk8xd3BnRWZxRjR6bnVvc1Y2U2tGZGx2Skk5SUZMVFVpa3loNEhUQTdyTHJVVlpTb1BkLS1EMWtuMFdzakdrbGt3czBLVHExMHotczlNd2hiMFVQOTdEc2hWUjM4ZnR4RTY1LWJFanM0bWdWRFpuTHplV0NSaTJPQk5CbHdPanQ2M1l2b2o3R2RqNk9Qbkh2YWxkZ1A5dlI4Q2djWXpZZ3dzX0R2aEZzMHdoX2ZBRERmOEZwZzg2a0ZzRUxzbVhsUlJQUWxZbWdndGdpV0EwZGYxVTJITHNiUE8xR1JqOU80UlE3WW1TQ2JUOXdCVlV4QXAtYmVkcjhsMzltdHVGX25MNTdJd2VSZTEtbzJiSlFrWXVYUnpRRFhCcWdXRjFLQWQ5UGs3TV9pN3RKeDRTVTA1d9IBmwJBVV95cUxQV2VLSnp0dWxlZ09JdnFCQkRGZlpnVHN5Z0Q2RjlzdVRoSDQ2N2dvcjZHM29HSUxrOU5BVF9fVE9NZEZhTGxocEVjdVNYQmQyVS1LNWpJdUVQWGxoZVdJdXJpeno4OWRha214OVlzWDEtdWFWLVUwLUFpUE5fVkE1blhNNy1KcDBkb0VCSGs5UWdjeXE0SFZtNXNlZE5oU21nZDE0MWlyRVN2QzRkcDdmVDVfc2ZnQmZaZlV1bzEzS21ncGRRRXlnMEVRTWxjd3dTN3FVTjNOQl93X094MGhScWdIbjFLR3NkbTViM08xZ3JaR0o0WmoyZkxQVjhJaFdNa09sa04xQ1J6X0lFUS0tV2JhZHU1cEE3dEh3?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 19:48:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian Stocks Slip As Oil, Middle East Risk Offset Fed Relief - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUDM1X18ySUl0Q1EteHA5TktBenkyWWo0cGVOZlUxdi1uVEo1Und3cW9IT0JKV0VNOURSNGtuSGFoSUFjRm9ReXBBbDJ2MHdjMUdUalV0amJlcmRkY1ZrRmpHRE9zaE1rcV80ZjQyS0FkVVhTUE52djJVWmhPQnBNTVdrVGRoc0FqQW1HSjJFVmhPdTNETDU1RXdxZmpyS1U2aW4zc1IwQQ?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 19:33:55 GMT"
+      "title": "Glenmark Will Pay $15.3M To End Humana's Price-Fixing Claims - Law360",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmkzZm9Yckw0U3kyRXFtVm9aV29wN2IxcHBfbkdTOUtXYW1QUE4tMi1DMnhMU0NNVWVGaUltamsxcWZFQ1BaaFJBY0hzNmVZRVRqYzJBN3prbzRTTkRVdVBUVUVkZjRQV0U3aF9oMlRQWDhNd0l6bzhWcDNjUjhXWnhjeEJJeUdxZVdYbERiaElDVEdVY3BqZ0lfMDljdmZKcl9lNjlJRXhYYmhBbWRBQ1dadVBQdXEtc1dHR3RmNlY1UVJjVzQ0eGpJRkViTFdNcV9yVtIBckFVX3lxTE1QaVcwRXJLNW12cXozOEN3RFZUME10UnFRTFB5VWh4a1FuZ3FPQ0ZNMjVCeUozV3JfcW9TcllQUUtWZGYzU2h5NVU3YzFLZzZ1Ny1BMVlTaXNxMVkxeHhqTmlVWF9JQmRBXzZ2U3lUNDdlQQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 20:05:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sector cycles: Experts decode past trends \u2014 and share key lessons for investors to make smarter moves in 2026 - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaFNsVERpQnhKZVRBVHlxbmhVNFpLb2hldk9ydGRMeXdadzNzNWFTVWY1cE5YM1YtRDVZWkZWemxqQlJiQjZucG1IYUNKRk1RZm5RTHUzNzZxLXc0Z1oyQVNEM1c3bkdSSGVtcXh1Sm9uX3dSTWROZVhoMFJBM3J4VU1IaGxBNHdIbk5Bc0NlRVpmR1ZJVE42ZXQwS2xubUxNWHRUUFRjU0lEOWJJZmVjNUQ5UDU1bUd0REFLTDkweWR3OUtnSWswN3RnRDBXTFp1aUF5LThmYXZZYWtOX0oxRXBrTmViUDRJTkJuN3UxOHJIM25RSUVpMTJWeTl4eHZVS29PTNIBigJBVV95cUxQMDd5cTZMQTBLOFZDbVdOekI2TldpNDlGYm1iUmZXOU9NMVExaWdCR1hJVUNZa1RTeWlVREZMcTlYRWhoZmpVRHQ3VHgwVUZiX195WGstUkdqYmF4aGo0VkFZQW1OUVRaTmhIM3dJUzhCUzdMTTlhWG5mUnIycUJ2TF9NQnMtYUo2WjFucnZtVzhGWHhIWkVFNU1uYXkwN0I0b01LcVktYXB2SElISkIxUXJjcFZEUW4yTWNmNHU1S1R2TzNhM1Q0ajBKNDFQenM5M2F3RWtFSjYzNXI3UVhVWFFZVEdjd3FvWnhOYUtHa1NTMEhNam1YRzg0R0FKYXByazd6UDlpZ3lvZw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 19:21:14 GMT"
+      "title": "India, US Remain Committed To Trade Deal Despite Russia Tariff Threat: Commerce Secretary - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSTlibk4tSnVLSkdGYk9QcFFDbFZvV1NfRUx4VXNKWVROX3FTNW9kdFlBbGx0djgzSUd6ejJxb1FKWVR5NXZlMEFHR1J0MmFVaFdSSWdCRDIyREVSTUpBLXlfWFUzM0VFMGlJR3d2bG1nSVdvN216ZjhheG1JclJIanVqTHFJc1U5U21aY19ETkhUc1p4TnpDT3g0a0kzMGExcVQ2R2p3ekp1anFBazVmMThWek0yZU5KX3FyTUJuNU00TFlBNlBJX29Tcw?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 20:01:38 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Project Shikhar Opens Capital Market Pathways for MSMEs - usthadian.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNYXpxV3Q3VkNHaFZCdkRtREMwRHg0OFJwYVVGZkhkT0tvUnNDUFc1WXh6bGlJbERVMEkwa0lXMmZtb1g0czZMRmUwRVpMcFdMaUpVT0psalFlWWc0UEZlUXQzUkV5aVhzTS1xMlZyMjg3cXUyWTRFVUFrLURLZGFsSTVCTTI2WnkxTUE?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 19:32:25 GMT"
+      "title": "ET Graphics | Parliament Report Card: Low productivity, more Bills passed in Monsoon Session - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaFB4UDR2akx3ckVHamtkUm1MdkdoY1ZjR2JVd0tSQ3B2WHYwZnpVZzdSeWdjOXZTQzA0S1U4bVZ2cHBGak9mcTRUYUhYb3ctNnprcy1PajNXYnE2UVlpV1pQSXIwbHVMNDhieDVnQVFIQ2hHYjV1eUtONDJsd25YU0taZVZZcTByUXdjSUpldGNWUUo1czdteDhzV2pLQXFiYWxWbXZFZDJuaXpEdEt2Y1BDMm9acElPR19FN2Q0R2dPMmgtYUN4M2kyLTZxNWdPekNVQ0tkVjdLY1pCSi1maXFnOXlKcGVJYVJodWJn0gHuAUFVX3lxTE5oUHhQNHZqTHdyRUdqa2RSbUx2R2hjVmNHYlV3S1JDcHZYdjBmelVnN1J5Z2M5dlNDMDRLVThtVnZwcEZqT2ZxNFRhSFhvdy02emtzLU9qM1dicTZRWWlXWlBJcjBsdUw0OGJ4NWdBUUhDaEdiNXV5S040Mmx3blhTS1plVllxMHJRd2NJSmV0Y1ZRSjVzN214OHNXaktBcWJhbFZtdkVkMm5pekR0S3ZjUEMyb1pwSU9HX0U3ZDRHZ08yaC1hQ3gzaTItNnE1Z096Q1VDS2RWN0tjWkJKLWZpcWc5eUpwZUlhUmh1Ymc?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 20:00:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Reliance Stock And India Refiners Facing A Russian Crude Test - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcGlaZFlpRGFETm5uUlNicWlORzhrckhXSzZreVF2VlZOTFE5ckY5d1pETmZ4eWY5MXVCbmdBcFVsZnVEQ0pyZTlhNUhqbVdvNUFMRTJJeEctcFVTUGkzU09odVZZY1RocTF4SXF4NWd1UnZwSlhxUGRGcDZ3ZGhfbXNEaVVYaUdQTW5aa2pnc1drdWZRV0F2eUgwSHFNZm9WTmtSOVhUN3RFd2pPbDNUbFpLNG52YlRabUlCT3VIRHJybUh6Zy14VTljX3M4Q2NrOWlIXzJEamJSd2c00gHiAUFVX3lxTE5nRGc1akJrRjJJbHFtSEItbkVnc1Q4aTBIZTJVQlZHN3JMeE9iVWlZaFJsR1ZRdUw5MGdQcmNMZ0lhNGd4NnBFZGQzYVRVN0Fsd3VwZjl1NzlrcFFFMlRVVVhqUWdQVUtGSk9CZDVsVlR1ckppbXNMZDhqWFdaTXdCcE1FcXlYTE0tckQ1RVBJTFB1STNSWTcxZFlYNnJ1clZuUVB6NVBwejRtLVl3QTk3X0FYUl8zUk10TGoyVy11SkxjdDA1Q0RUekxlUVFCNUsyd2s1MUJJSnNMTzJMWHF4Tnc?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 19:34:35 GMT"
+      "title": "Top 10 Entrepreneurs Leading Business Growth in Ahmedabad - Ahmedabad Mirror",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUGJPUVFNMTZrMEZUU2lDUHk2OGlfRlNsSllBR2c4ek5NTFlGYng0a3IwYzBYckdTMEljY2k5LVNMdVpJQzVlVXAtRWNFdXJwUU4taE53b21rdGo2eWVyNkpqRE1VVmFSV2ZoYXhGSDNmdUhKVEhqaGFYYXBuOUE1eUNxY3UtbEMwb3hObS1wNVRGYVJLZlk1c1pzVElvSFVGS1FtQnd3?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 19:44:11 GMT"
     }
   ],
-  "fetchedAt": 1786650981
+  "fetchedAt": 1786653729
 }
