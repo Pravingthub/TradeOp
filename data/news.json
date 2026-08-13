@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Fed\u2019s Barkin says rate hike an \u2018open question\u2019; Hammack backs increase on inflation concerns",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/feds-barkin-says-rate-hike-an-open-question-hammack-backs-increase-on-inflation-concerns/articleshow/133220872.cms",
+      "pubDate": "Thu, 13 Aug 2026 23:45:32 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "FPIs emerge as biggest sellers among anchor investors in IPOs' 30-day window: Sebi study",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-emerge-as-biggest-sellers-among-anchor-investors-in-ipos-30-day-window-sebi-study/articleshow/133219168.cms",
       "pubDate": "Thu, 13 Aug 2026 22:26:19 +0530"
@@ -23,12 +29,6 @@
       "title": "US stocks: Tapestry forecasts weak annual sales as Kate Spade struggles, shares tumble 15%",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tapestry-forecasts-weak-annual-sales-as-kate-spade-struggles-shares-tumble-15/articleshow/133217828.cms",
       "pubDate": "Thu, 13 Aug 2026 21:13:20 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sebi seeks public comments on review of Accredited Investor framework",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-seeks-public-comments-on-review-of-accredited-investor-framework/articleshow/133216989.cms",
-      "pubDate": "Thu, 13 Aug 2026 20:29:49 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,39 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Dollar mixed after flat PPI, rate hike bets cool",
+      "link": "https://www.livemint.com/market/dollar-mixed-after-flat-ppi-rate-hike-bets-cool-11786648017037.html",
+      "pubDate": "Fri, 14 Aug 2026 00:36:56 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold retreats on profit-taking after hitting two-month peak following inflation data",
+      "link": "https://www.livemint.com/market/gold-retreats-on-profit-taking-after-hitting-two-month-peak-following-inflation-data-11786647773501.html",
+      "pubDate": "Fri, 14 Aug 2026 00:32:53 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "BlackRock\u2019s Rieder Says Yen Rebound Hinges on BOJ Hawkishness",
+      "link": "https://www.livemint.com/market/blackrocks-rieder-says-yen-rebound-hinges-on-boj-hawkishness-11786647228236.html",
+      "pubDate": "Fri, 14 Aug 2026 00:23:47 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "An Influx of Middle Eastern Oil Is Finally Hitting American Shores",
+      "link": "https://www.livemint.com/market/an-influx-of-middle-eastern-oil-is-finally-hitting-american-shores-11786646737926.html",
+      "pubDate": "Fri, 14 Aug 2026 00:15:37 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Sebi proposes colour-coded risk meter for bonds",
       "link": "https://www.livemint.com/market/bonds/sebi-proposes-colour-coded-risk-meter-for-bonds-debt-securities-investment-capital-11786636518803.html",
       "pubDate": "Thu, 13 Aug 2026 22:07:06 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "FPIs lead the exit as anchor investors after IPO lock-ins end: Sebi study",
-      "link": "https://www.livemint.com/market/fpis-lead-the-exit-as-anchor-investors-after-ipo-lock-ins-end-sebi-study-11786629154971.html",
-      "pubDate": "Thu, 13 Aug 2026 21:54:48 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Multibagger Mercury EV-Tech stock to be in focus on Friday after June quarter results",
-      "link": "https://www.livemint.com/market/stock-market-news/multibagger-mercury-ev-tech-stock-to-be-in-focus-on-friday-after-june-quarter-results-11786637575044.html",
-      "pubDate": "Thu, 13 Aug 2026 21:54:18 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Birkenstock shares pop 20% to 3-week high after strong fiscal Q3; company raises annual revenue forecast",
-      "link": "https://www.livemint.com/market/stock-market-news/birkenstock-shares-pop-20-to-3-week-high-after-strong-fiscal-q3-company-raises-annual-revenue-forecast-11786631963714.html",
-      "pubDate": "Thu, 13 Aug 2026 20:48:04 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Wall Street surges as oil prices and wholesale inflation ease, tech stocks advance",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-surges-as-oil-prices-and-wholesale-inflation-ease-11786628295024.html",
-      "pubDate": "Thu, 13 Aug 2026 19:41:01 +0530"
+      "src": "CNBC TV18",
+      "title": "Apar Industries raises \u20b92,500 crore through QIP; check the list of allottees",
+      "link": "https://www.cnbctv18.com/market/stocks/apar-industries-share-price-raises-rs-2500-crore-through-qip-check-the-list-of-allottees-19969095.htm",
+      "pubDate": "Thu, 13 Aug 2026 23:54:33 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,41 +121,35 @@
       "pubDate": "Thu, 13 Aug 2026 22:26:19 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the August 14 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-august-14-trading-session-19968988.htm",
-      "pubDate": "Thu, 13 Aug 2026 21:47:16 +0530"
-    },
-    {
       "src": "Google India News",
       "title": "Explainer: Why India's Tata Sons is facing pressure to list - Reuters",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWVJMkljTDdCQzdQSkd6S19kbW9MOTQ3Q2lZMFdQZkEybzN4TlRVcDdBRmozQ1lsbHMwVkJhQUU1THNxRUFEeHVHLS04eVp3MVc4UW5UNElPVUlPTGo0WmtHaEgwNVoxZ2c0SGJUZFUtYkxsRlZpSTduQVMtV1Y3b3NKcjRxdm9Ba0xkX0ZkaXV2aGRpd1ZB?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:26:35 GMT"
+      "pubDate": "Thu, 13 Aug 2026 18:52:39 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Tax Bill 2026 clears tax hurdles for electronics manufacturing and boosts India's global supply chain comp - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPLXdFTmlDUFN0Zk50OVpzZDljZVBqVThrQ3dFYXc0TUVJNzl5aXdWMEw1bk1NSUp3X3k5REgzc0YtenJuUXBjRjlHOHRsZ3BFaVkxVk5JX0VCbnNaOGoyV2Q0QjVHRTNOZzJaZ1h2UW5CWDRybHI4Sk0xTnM4Zjh1c3hKREhSWVJPeWJuVmZpM214WEF2NjlyQktaMnJPQ2FLNU90aTFzS01wYzA5WGJpUDdhNWZld09mWFJybzlhSE91X25KYzVCR05QQUtsVVJVdjJJMGdkSGMtcDFfNlBjR1J2VkNITFA2dkxLV3Z2MVl3QjJMVTRQSnN6cWdUSzRITG9SMFBMSk1BcWN1UEViQm1OQkoyU092X1RUbtIBogJBVV95cUxNREVVNjcwbUFvUXRZalVYZ1JPeEhmY19BV2sxUzk5eHJyOUp1bm1lVVE3MmpETlYzZFZlODlmRThHVkFJeG1WVVZsSkR4a0lidGl6bFAzYm5qc2twSzBPbGdvd1pHbkdEd1Z3SkNYUnNDaWlqaXlKa1ZOWHNvX2g1RWVoUy1XalVQal9fOHVVNVh2eVBWNnNzd3JaV1RtLXFtQm1ON0xMd2h2MnBLX2RWSE05NFE0Yi1JUmRTQlg0ZEY3TWZ5Ri1iSEJ0cUJRX2NVbnBuaUV6eGljYklPdnBKUlEzUEY1aWg2NjYzb2M4SVJYYkV0TThNNFVxMW1LTGFMM2NQaFRZcnA4OGQ5MUkxbkt2RU5yQkxSMFMtNUcxNTFyZw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:54:00 GMT"
+      "title": "India regulator proposes wider access for accredited investors By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTmJEZW84SDQxQTJUYUt3bWxxQ2V3ZVlfaXpCZVF4YjFKMXZnd0J5clpBV2VCcUtJSTQzSzVvWkRFUFozOG5CTVF0VHJFdm9iT3hiTUhoZ2N0ZWZRaTM1Q0wxQ1Q5Q3FjU21HOHl0V2lGWFczanMwNlp1QUIzRkI3RjE0YnAwVHNiTFVhU3UtSkRXR1NNZFVuR0JuZUhNbEVxaWp1M3dxdUtMd1lTY2FVaGx3STNjZTBWakZXMm1tdVA?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 19:26:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SBI MF picks up additional 2% stake in Urban Company; Accel India, Vy Capital, Bessemer Venture Partners... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOUmlyUkdqM2FQcW5wU3l5UkRuTlE2U3c0dW9vbkNZM1dxdmZ5UlV4NjNtbXB4akc4OXFDeDFMTlZGWElhWTZWcDBiT25WTmh0a29SazFGRThYWHMzMmNseEVEWkVkc2dOTC0xLVBkYlIwaEpqeElQa0YxZjdxcWFTOE1VU3dGakx3TDdOcVZCYUpUTHRNU3dZUjZmcnRkbEpXZ1U1YnQ0QTY2VlE3TGNmMVh3anBSZXUxOUdmUm1uUnlEOXlyaGRVZkpKMzN3YzJQUlkybWR4Zm9lRHFVblpiN3cyeEVxUmNVd05RVmg0ekFodnBZcnVoREhVRE5YOTluYVNvZjhYMGhFOHZSOFpRUmNiZ3UzNzdZMWJHV3ZJa2g4b0U5b3fSAasCQVVfeXFMUF9PeUQxUU1mTzF2YktFSFJRLU1MRjNhOEZxeFV2NWdCaVdnTTBGX2htd0pyd3NSZ0JWRjU1RjlweUFOXzI5ajRjRXh5ZHlVYTRCaVRBSm9oWkk2S0k4bnhsVTZaZVJ0WVZ2NXVTcXlvc3FhNGVnbFpIb3poaEVacGw5WDhwRXhHZ0oxV2RlVk9mT1gzUUpjbkpqYmhnTDZmcmZoM2ZLNHdDWlBNY0tfbDhERVR6MktXTEZQTk5mQ01fY1pMN1BXMW05akNNMWRLRmE4dlBvVEM3Mk9Ka3JPVm9TaXBNWEZFbkRZZmJHYk84QmlfM1ZUV3dMQ0RhM3pfLWU3VmRRemt3ZDB6SjZuamtFNVdUSXlQM0V4dEx1OHItakZmR3BKVnJZMVE?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:55:37 GMT"
+      "title": "3 Indian Penny Stocks With Profits Investors May Have Missed - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQclJ5MFpnOXdNRkpEbXladS13SklncTRjcWktcTRLVGFmWmtDZkdMNVNISFEwYVBrM2N0c2VKeldqZjlvYkM2dGdZY1JIbUgxbDFWc1RCVDNZa3UyZzAxUjJVLXRWbWF0Yjh4RkVOZzZqSUktQmFheHpwYzNxVnlVZFlXNURCSnBPQ1ZhSDRsUFE1dDJHblRBMHpqSWw2Vm5iN1FZa2RUNnh2NkQwcmVsVGtua2RhSGc5QjFGVUhxUTJ4amU0R0NZRmhyTGR3SWtXMlBtYlprOGk0MUlfOUZqVi1UbzRCeUNjWjJwTlgxbjRhQdIB9wFBVV95cUxPTS00VWtVQlNvYWx0aFpxNzc4ODgzTnkxLTdONG1EXzZMUUk5Q0VCdGlXNWYxWk9wR3VvWFM5VldSX3BsNkM0RHJaNDhCcHhmSU0zT0lrQkVkV1dVdnMxU3ExSTJuRlMtREtibnFlQnJVTUVBWkx0QzFPQ2hWZGx2NlViNEpQNjFQc1NTUU01enZxQXdQSUxad3JCMndlTUNHa0FlQ2dYSU5oM1pDQ04wdGJCeDlXMmFyOVQtdUhmVHpnTVZRa0kzU05KUFVfTGx2MHhKT1RRWnVLWEZjRDNNYS0zVy0yR3JKSkEyMERhV0RCN09MQmNj?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 18:57:19 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US stocks vs Nifty: Why the falling rupee can turbocharge your returns & complicate your taxes - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNR21NbjZQY04tRkJqUElLalVaWThYTV9IbTN4Zm5mcWVlMWtTMGFabllBYVRmc1lROHJreVZmZld1RlhEQ1BGS0VTd1VyYjJCTUJja2w5dV8ySVhyaDRvV2ZGTEtOM25zNVZ3ZXRVRUtPcmZLeERmV2xROWxuSXpyRFlYY2ZxZzZ0WEowcWppeFJXdDQtU3lJTGIwZWJxQzgySGVVNVNmMGhvN3pBWkhtNnRaaENLWjdMY2Q4R2VYbGZhZXcwZDVKRVFzdjAycHhNbmMxWXl4dGhNWGpsZzV4YzVLNDQ1OU5CTlFFU0lqbHJBTFVzb0JTWWF2MGdnMUFTcGfSAYcCQVVfeXFMT0ZRc29yQjhxYnBjM29NZXBScUhRYUt0SDF4NEljNXpXcC1lZTZnbDRWVEFVUEpQWHozaDJFcW84ZkZPTnZjTlluWnhkTkhpLV83MjdBeFY4eEZYRUtRU0dtRDFfdU9vdmJ0SWpKcDJzcF9zazE5bDlRVEhGMVNmWktLdzdrYUFGenhXRGJiTlBmcFozRVpUNGR2R1VHdnhBQzdWZVlteXJtZVUyTVZKcjR4YmVtaDBmSUVmZXg5bzhOMlRtNy1BYnFJaFJWZmVfM2FjaGNsNkY3aW92YkVsUDN4VEx5NUxpbmt1NUlVWmdrallEU2lkVjVmY252blhtQUVwbml2QU0?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:16:59 GMT"
+      "title": "Sebi proposes colour-coded risk meter for bonds - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnk4X0FBS1JrWFhxdW1hNzROVXVuNXNZaXRJZENvRFNYOVY3X21mYXhaYUZLd3M4SVJfSERaMUpzMnJweWZ3ck9PLUN0VmR2RUE2djNJSlFnYmtBb3hIZURCZENGdHVSMHVJSUo5QzItZlNpZU5KbTZjcUZCMnJoNXd3cUx2aHhCQ0FV?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 19:20:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Foreign firms' investment intensity in India has fallen since FY20: EAC-PM - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQnhfdWZKbXA1VThtMHE3R1BWXzctSlhsblFIckt5bGpmNnJudlp0cFNjU1ZhSUlTMjl6R085RHdwa2RWOTM0RjFWYXEzTUhEUGh2dG1iZUtyZGlwaHdpcU9tRnV6QjIxdzhWelAzNE9oS0pKV0RVNWVTYk5qSlV3RUI5TzRrdlVRN2hvVWlNY3lERG5sZVE0OGFlajc0VFI1OWxhNnBRcncxTVpoaDlSWHZXTTRINjlXaXhVZFFLQmlvWm16Tl9JLUUxX29UTk9iQVNTRXlB0gHbAUFVX3lxTE9sN2lKaG52TXBaVjdGSzVFdWtqMWg4T1VSNzNySUVuMmM2ZURRVFVrR0trcTlFN284X2J2UlJxcVRtMzBhWHVIVGJ5bjViVjJiSi1PRWRFTjdmQkF4dGxKYkI3eU4wZXg4Q01YU1ZLRmNkMVJXM0owWkFUR01VSTdmVDgzU1Y2dDVMRGJrcEQwWGdUeDc5anVyUkdWem1KM1IzMENta0dkZnMzSjVKekItTUp4SllaRk1rTWhMb0ZQX3d5SzdsQm82cjhjRV9yN1BSZ2Nodmk0c1lBYw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 17:16:25 GMT"
+      "title": "Zetwerk Manufacturing files for $272 million India IPO - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHl6Q0FaSlY4TUN6OWFyQXhZX3lzUkZkcC1wMllkMWpKOE1RbXNfelFFaWR6MExLZ051aWhGZmU3MGtTdm5QdER3NnNvYVFaTEtqZ1FMS0syMUdUTno1ODYzOXNxNUtsVFZJZlhKQks0MUhoRm9VRUJZQ0dBaXo5Mm1ZZi0yb09mMXp2eTRQQlVpMkhVc2VZWkdIUzdNQVlKNjFiZ2JkcG9Bck95MDBobkpJVE0?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 19:20:01 GMT"
     }
   ],
-  "fetchedAt": 1786644696
+  "fetchedAt": 1786649356
 }
