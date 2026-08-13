@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Tapestry forecasts weak annual sales as Kate Spade struggles, shares tumble 15%",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tapestry-forecasts-weak-annual-sales-as-kate-spade-struggles-shares-tumble-15/articleshow/133217828.cms",
+      "pubDate": "Thu, 13 Aug 2026 21:13:20 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Sebi seeks public comments on review of Accredited Investor framework",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-seeks-public-comments-on-review-of-accredited-investor-framework/articleshow/133216989.cms",
+      "pubDate": "Thu, 13 Aug 2026 20:29:49 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Bank of Baroda raises $700 million in first overseas bond issue since 2019",
       "link": "https://economictimes.indiatimes.com/markets/bonds/bank-of-baroda-raises-700-million-in-first-overseas-bond-issue-since-2019/articleshow/133216422.cms",
       "pubDate": "Thu, 13 Aug 2026 20:19:47 +0530"
@@ -17,18 +29,6 @@
       "title": "US stocks: Cerebras slumps 12% as mixed quarterly results test AI growth narrative",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-cerebras-slumps-18-as-mixed-quarterly-results-test-ai-growth-narrative/articleshow/133214893.cms",
       "pubDate": "Thu, 13 Aug 2026 19:31:38 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sebi proposes asset threshold for individuals, corporates to widen accredited investor pool",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-asset-threshold-for-individuals-corporates-to-widen-accredited-investor-pool/articleshow/133214378.cms",
-      "pubDate": "Thu, 13 Aug 2026 19:20:34 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US stocks: US market opens higher as investors weigh weaker oil, PPI data",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-investors-weigh-weaker-oil-ppi-data/articleshow/133214216.cms",
-      "pubDate": "Thu, 13 Aug 2026 19:17:39 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Birkenstock shares pop 20% to 3-week high after strong fiscal Q3; company raises annual revenue forecast",
+      "link": "https://www.livemint.com/market/stock-market-news/birkenstock-shares-pop-20-to-3-week-high-after-strong-fiscal-q3-company-raises-annual-revenue-forecast-11786631963714.html",
+      "pubDate": "Thu, 13 Aug 2026 20:48:04 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Wall Street surges as oil prices and wholesale inflation ease, tech stocks advance",
       "link": "https://www.livemint.com/market/stock-market-news/wall-street-surges-as-oil-prices-and-wholesale-inflation-ease-11786628295024.html",
       "pubDate": "Thu, 13 Aug 2026 19:41:01 +0530"
@@ -85,10 +91,16 @@
       "pubDate": "Thu, 13 Aug 2026 17:55:50 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "SpaceX shares gain 35% after lock-up expiry, climb back above IPO price",
-      "link": "https://www.livemint.com/market/spacex-shares-gain-35-after-lock-up-expiry-climb-back-above-ipo-price-11786621043001.html",
-      "pubDate": "Thu, 13 Aug 2026 17:49:59 +0530"
+      "src": "CNBC TV18",
+      "title": "Brigade Enterprises Q1 profit jumps 34% on higher realisations, stronger mall sales",
+      "link": "https://www.cnbctv18.com/market/stocks/brigade-enterprises-share-price-q1-profit-jumps-34-on-higher-realisations-stronger-mall-sales-19969004.htm",
+      "pubDate": "Thu, 13 Aug 2026 21:16:59 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "JSW Cement swings to Q1 profit of \u20b9161 crore as revenue rises 22%",
+      "link": "https://www.cnbctv18.com/market/jsw-cement-swings-to-q1-profit-of-rs161-crore-as-revenue-rises-22-19968995.htm",
+      "pubDate": "Thu, 13 Aug 2026 21:02:59 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Thu, 13 Aug 2026 19:59:31 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Max Financial Q1 APE rises 15%, VNB surges 33% on strong protection, health and annuity growth",
-      "link": "https://www.cnbctv18.com/market/stocks/max-financial-services-share-price-q1-ape-rises-15-vnb-surges-33-on-strong-protection-health-and-annuity-growth-19968931.htm",
-      "pubDate": "Thu, 13 Aug 2026 19:46:05 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "S&P 500, Nasdaq rise as cooling US inflation eases rate concerns",
-      "link": "https://www.cnbctv18.com/market/us-stock-market-sp-500-nasdaq-rise-cooling-inflation-eases-rate-19968937.htm",
-      "pubDate": "Thu, 13 Aug 2026 19:36:07 +0530"
+      "src": "Google India News",
+      "title": "US stock market today: Wall Street moves towards all-time high as inflation moderates and oil prices drop - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNNjlzNWkwS3VneU5mUDZ3T2dKSnBxVHY1LWlMSjRtNkxjUjdjblhZUml6OEpoWmQyY3llXy1CZDBBOHRaVXllOE1nSmM1NXdYSkQxU1VjNThCQjEtaV8wcmZzRk9SRnpnMFJycVdJWlFxRExiUDR1ZzdYNUhaUVBLSUUxbmhBRjNmZE1kOGtDOENoZW5CaWszZkMyWHhZeGxGdVEzeUszRE1vWUR4ZWlFLUxzS0RubEJNbC1kaXkwWkhrQkowY3JlT0p4dTM1T21VVG42UVYtLTh5NE1ZTFZwVUxOaVVnbTZFa0NsQzBYLUswTUNUWUJXNmFfajhUd0VkcE84QzkwaG9OOHpFTHRvSFVFMlNwMmVrWjZ4SExwVWJYa2RpQUFfdmt0NFljcF85ZEN2MWZ1SDl2UkU1WTk1ZXFNUzd4a2dP0gHOAkFVX3lxTE4xalBETGxWT1ZRaXlacFRGdUdYbGdadzdFU2JqM0MzOTZiVmFFU2hxNzBrUFRJMjB3R3cwSUdvUm0xQ1JEbVNuTHFOMlNqNjhjUXB4MzR4Skpkd3habFpKTk95ZzVuUGJNX0ViLTA1UW9DUHp0ZE9iYzNUcEVXVlVrbFdnTm9vU0FxY010czB0NG5NcGpMYldhelBTM2lTUXBrb2NIaDRvcUh0aU83SUt0aTkwMTJidGRBVWVoVVVHamticjZFaEJncDNjN2RmNHVNelF0d194bnhvNllRTXJsRy0tdVNkNGtUdHdNZU9UUHYyRDB2ZHo0SHJmT002cng1cThWSGhDRy1aazRJMUtaT1YzclZGUV91WHR1Y0pDeTF2b183Mkx0YjdIZUpOd2hMc2hmTDgxZXFmdEl1QWU4N0RvSWFOYmt3VHJqenc?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 15:19:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\u0928\u0940\u0932\u0947\u0936 \u0936\u093e\u0939 \u0915\u0940 \u0928\u093f\u0935\u0947\u0936\u0915\u094b\u0902 \u0915\u094b \u0938\u0932\u093e\u0939: \u092d\u093e\u0930\u0924\u0940\u092f \u0936\u0947\u092f\u0930 \u092c\u093e\u091c\u093e\u0930 \u0915\u0940 \u0935\u0948\u0932\u094d\u092f\u0942\u090f\u0936\u0928 \u0938\u0902\u0924\u0941\u0932\u093f\u0924 \u0939\u0948\u0964 \u092d\u0935\u093f\u0937\u094d\u092f \u0915\u093e \u0930\u093f\u091f\u0930\u094d\u0928 \u0935\u0948\u0932\u094d\u092f\u0942\u090f\u0936\u0928 \u0938\u0947 \u0928\u0939\u0940\u0902, \u092c\u0932\u094d\u0915\u093f \u0915\u0902\u092a\u0928\u093f\u092f\u094b\u0902 \u0915\u0940 \u0905\u0930\u094d\u0928\u093f\u0902\u0917 \u0917\u094d\u0930\u094b\u0925 \u0938\u0947 \u0906\u090f\u0917\u093e\u0964 \u0906\u092a\u0915\u093e \u0907\u0928 \u092c\u092f\u093e\u0928\u094b\u0902 \u092a\u0930 \u0915\u094d\u092f\u093e \u0915\u0939\u0928\u093e \u0939\u0948? \u0915\u092e\u0947 - facebook.com",
-      "link": "https://news.google.com/rss/articles/CBMioAdBVV95cUxOMjBnSGdqVTNGb3RXczU4VllVR3FHUkVOQjhhd3FzZkctODJxZU1RQ0hJS2Z2WUVzendacTZHdHlScGJteFUydUxUV1lOM1o3bTNmN3RvVXJGQ054TkNnQm5VN0lrR0F3MEhjWjV5M2V2bWhLdklucHluVXpYU0NKd1NaaHhpaVZsaVBscnhndEM5Yzktbk1PLUhBUVhYQXFOQmdvQXhiS3BvbUFpRHE2MFJWR1B5ZDdYSGxFQmxwNTVaZ3hvLVFQTVBFN1NJRHBmSVlrdGNSWURad0tfT3QxVk9yRTdoMGVRcmJaWFZVem9SWEVUTzNrSllSS1Z2cHFLc2xheUNaaU51TEdfZ2d4MUpnOUFtM3F2QXVOVWFKeGZfaEhkbmhsYUtxWUhsMlBNc1FYMlEwamlidDFIcGtLSm1CWlBSdnREaUtUZVRJckxtRnVucWFfXzNQZWxMZDVhWXNKX296ZjlUcnVDTjc2cHFySVA3TXM4NV82SnpHd1RBckUyWUMyclZ0RDBzUUtOTjdYU29PZ2tmbW5UY0JDNE5DNnNma3RPTk1VbU8zd2NFQ25YY3oxUXluRklsRTFxajk4S0FoTzZNSlBLY05JRWw5WjZBX2hKVkJOOWMyYnR6Y056cl9zRjhjWVR5ZDExd0xVUm4xbF9YbTNkMDFrUmZVZ1p0SzRHU0w5dW1QWmlzbWdCWFVLZzlzYXpYMVdCSVN3eWcycnZMRFozUlVrQTRHN3JDTDNBdmRBejgzNms3dmNzRHFCbU1UaUxJSUt6RHhtTXRPWW42Qkt2QWdXdHFyZFJyYzNqS19qOXU1MkJlS3pKTDEtQ0pqbU1HSF9TMUI5ZGdNTTVqTklHZWptcVdWMEtqMFUyTFBFcWNpTDlxQ21jVm8tdzR1MWVvZGhKbmROd2swMWdmOWlsRktoeGhHTko0NEFxbFpnOHZQcmFNNEFKeUFUaUdyN1FlcFVVY21fOEk4NW9PVmM3VGdCa0hiTHljQTAwTnJuMVVNTktVRjVGbURDZUJlY2pjbnhpX1dteUkteDNKSWV0ejlpN3N5N2xuUkpSTGUtWk4xNVNWcE9WWkJhZU1lVkRBbnpBZXVCVDZYbmxqd1MwYnVtOXctZ3dHQmdfVGRldENZQ01oWHI4YjJ4WTdITUdlUFNEXzV1WHFXRzBEZnJIaDFWTHV3QlJCcDZIa3lCY0NoVmtGVHk0dUV4MzI4OUI4amJ6?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:41:03 GMT"
+      "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS2hpazZGRUxzcGprWFYwOV9BUDJfQzR2RlRlN2p1NEtNdURXR19wT1Z0SGRxRGNIeWVTeHZtclExZHlpcllhQzBkaU1qNGw3U1JQNl82MHFKQWhjSlV0UkQ3WGJfSkRkQmFFOGNvZ0lLZk9zcC0wZ0V4Y3RTaEFGQlZuQUpZdVJPUkdQejlrYnMycDVrOWNsaDZiSlViTzB0bXhUVV95TGFOREtlWTQtdjRFQTJpeVJrYnJaa1pld19HeGxfQkpsM2hFVGJMQW85ckdaS3RfeXNocmdqRXpF0gHkAUFVX3lxTE5GX1FvcVpjX3R6SllYbzdDbDNYNXhrQTBTY21HMFhobEs5UUJ3cDAzR1lFZmFBMlBBZmdDWDhxWGp2TThZTlNreXEtYTF0WDIwei1BZlJyRXFWS3pCbml4S3NONlNlcEFsV2VSSk9sdGU4eGlwZ2ZzRUwtUHJKNXpVQWgxWWRXUUxCdVJhckZicFJxSzZYdjhUdjZvUWZmV2dVRFVDLVR5cFdZb3RYalp0UVF1bW5CRlRpOElPNmdBQWVVQjlKbkxnTWRQYzFuQnhLN3dTRmRubzVrRkhwQmcyMnBUcA?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 15:59:34 GMT"
     },
     {
       "src": "Google India News",
-      "title": "BofA credit deal bets more on Ambani than India - Breakingviews",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb2VZVEJmNG1kQnpqTlVoMm9yaHd3OWR6M2E4MXFVVGRMOFJpeU5yTElXb2RlRnpQR2lHUHhjR3dORXdfcDFCQi1HeE5rRUhTNnQ0VG0yZnpPYjEtYXc1STVoTzNCaFY2U0VMTmtsbkNsbGxleXFMTWZzZ2xiRDkyaTBkRVljNHZNb2YxZW5HQVIxV0tMWG9pSzVud1RZbHR3YmV6RFF2ZUpqVFdx?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:17:04 GMT"
+      "title": "Explainer: Why India's Tata Sons is facing pressure to list - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZWVJMkljTDdCQzdQSkd6S19kbW9MOTQ3Q2lZMFdQZkEybzN4TlRVcDdBRmozQ1lsbHMwVkJhQUU1THNxRUFEeHVHLS04eVp3MVc4UW5UNElPVUlPTGo0WmtHaEgwNVoxZ2c0SGJUZFUtYkxsRlZpSTduQVMtV1Y3b3NKcjRxdm9Ba0xkX0ZkaXV2aGRpd1ZB?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 15:47:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nifty Falls for Third Straight Session as Metal Stocks Weigh on Market - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZTNMY2puc19SaWxiWktZeG9UZUNLT3pUX1ZvR2FqRTFIUmlZeXJVZkxjVFJTR0ljNFNzZDQ3XzhvN05vSlVjTDd4VUtJZ3B4eEs1NzcxcDhHMm5sQzVVcTBQVVE0SWhQS2JHTVl3SEFYUE13TnBrc3JZZVAzNmRXX05xTkpGanZoTEFWQXBDUjNQUjRYNllpNEJhbGZLbXVf?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:58:33 GMT"
+      "title": "Earnings call transcript: John Cockerill India Q2 2026 revenue jumps, stock rises 4.7% - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ0dzZ2NDamZqWm92T2NaVWpGOGN4UlhvRXJvY2xUdnNvUlF0VFJTUmo5Si1rLXV0MXZobWVqdmViNmEyMExZX0Z1aDdmTTE2ZG1RZnAzSk9uYldReFpTakpCU0hHaGtWYjJ0Mk1RNnhZT1dCNzlEdXZQV1ZRMDVlZDgzYk5wYUxoUWwzc21LWkhMU2VFcGFLSjloWERyZ2NvbjUzNWVOX19mRWRNbDE4bHFjWUJEWG9MamRndTUxa0hfaGZuU0hYNmF0RmljQ0dtRndVTQ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 15:16:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Earnings call transcript: Tata Motors Q1 2026 profit slips as India EVs surge - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcE4wUGNIQ2lBcVZnRXFmM21mbWdaRl8zY1AwNWZMemQ2bGRmZHVGc0xSaEo3T2lDZ0ZpcDBLOUxlSGhvQ21Sam5qNzY2dUFaaXQyMVBsSFNoRFAzS3lzTDJhWWx5aC0tbkw4MGtYdHZGX2tJVXBFX2tfNzJ6S2lkbFo0ZVdDTW5IWUMyS29QYUs5OEx0cEZpVEh3VTFTXzUtZXBZc2dnUGVSQlFSYXlHbGQ5cDRqeHVRdWJoVTZDWmpfeUZNQzUtLTZMZw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:40:46 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Indian govt should disclose sugar stock after physical verification, says Naiknavare of NFCSF - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNV0w0WFQyQjlmZzZrOTdvWFRrT0lyWTV2U0kxenlvZE1kLUUySlZlSUtYQW5WdE8zNlJIanh4OEZUOWd4TDZmV2RaOW5iNmVrblYwMm9TYVg0d1BoYjhGQ3NMVW1hMWl4aXQ5Y2dqTm91VEJweG1laTA5YjZzRDd1c0N4bUZVNFFpYjkwcDgtR2UtXzhGZXJ5Q3NQM2RXTkxHUTI4TjA1RkRsR09FQmcycHFycHk3VmgyYThtdHlOSF9aUnhsMGgzZTI1VnpRVDFkMVNyYXJFcjVtTDVxQVhWemU1cjI0Q1l2QkhPY182Tlp2VUx6ek9nUEQzN0FjNFgy0gGHAkFVX3lxTE5FSmg5c1JOWTZ5cTZ6dWtCRE1QNTVkbVQ1OVpPYmhkeGZtSm5iek45LUUxX3J4aUgxenpWeHBtVEd6aFYwUWdvZHl0VXlSeGh4TUZ5aXJMQ2liekVzY2puOGtwUjZHb1Rkc1VFRDJ3M3piMUpVTDNPa1drWFlMMHNCcVhpanoxRXBxTlBYenVxTkdBQ25OQkY0blZQRHo2MlEtR1ZrX2ZQbXBUdVpWV0JLd2ItMVR4OVUzZzJWUmtVOTVUZ296OHF4U3l1aGt4amFTT05xUkFVTmpRMjNqVmVzOFNyRF9pTjlRZTZVWlVjRkhyN2NsWFgzcEVaVExmVm01bGFsTHQw?oc=5",
-      "pubDate": "Thu, 13 Aug 2026 14:29:40 GMT"
+      "title": "Indian government raises USD3.3bn in 6.5% LIC stake sale - Law.asia",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qWVFXVktvTGlXM0FWeDFGUEJiWGJ1cU5wb0FKWlpWMnhJUFlUTGN6X1FmZ3dvMXRqeXVfRW1yQmZudHBtZkVJ?oc=5",
+      "pubDate": "Thu, 13 Aug 2026 16:04:29 GMT"
     }
   ],
-  "fetchedAt": 1786633929
+  "fetchedAt": 1786637576
 }
