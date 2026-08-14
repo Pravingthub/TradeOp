@@ -2,33 +2,39 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Reddit surges 14% on S&amp;P 500 inclusion, set to replace AvalonBay",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-reddit-surges-14-on-sp-500-inclusion-set-to-replace-avalonbay/articleshow/133244407.cms",
+      "pubDate": "Fri, 14 Aug 2026 19:49:43 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks: US market opens mixed as investors weigh Middle East tensions, data",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-mixed-as-investors-weigh-middle-east-tensions-data/articleshow/133243568.cms",
+      "pubDate": "Fri, 14 Aug 2026 19:33:13 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Cochin Shipyard Q1 Results: Profit falls 19% YoY to Rs 151 crore, revenue up marginally",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-q1-results-profit-falls-19-yoy-to-rs-151-crore-revenue-up-marginally/articleshow/133243674.cms",
+      "pubDate": "Fri, 14 Aug 2026 19:29:26 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Sebi revises InvIT cash flow framework to allow adding back external debt-funded maintenance costs",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-invit-cash-flow-framework-to-allow-adding-back-external-debt-funded-maintenance-costs/articleshow/133243215.cms",
+      "pubDate": "Fri, 14 Aug 2026 19:10:29 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Anchor investors stay put after IPO lock-in, but half their bets are gone within a year: Sebi",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/anchor-investors-stay-put-after-ipo-lock-in-but-half-their-bets-are-gone-within-a-year-sebi/articleshow/133242283.cms",
       "pubDate": "Fri, 14 Aug 2026 18:33:35 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Awfis Space Solutions Q1 profit jumps over 2-fold YoY to Rs 24cr, revenue rises to Rs 449cr",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/awfis-space-solutions-q1-profit-jumps-over-2-fold-yoy-to-rs-24cr-revenue-rises-to-rs-449cr/articleshow/133241325.cms",
-      "pubDate": "Fri, 14 Aug 2026 17:51:17 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "India's green bonds find footing as stable 'greenium' underscores investor appetite",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/indias-green-bonds-find-footing-as-stable-greenium-underscores-investor-appetite/articleshow/133241268.cms",
-      "pubDate": "Fri, 14 Aug 2026 17:48:37 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US futures subdued as higher oil prices curb risk appetite after S&amp;P 500\u2019s record close",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-hike-applied-materials-apple-reddit-chip-stock-price-news-14th-august-2026/liveblog/133241270.cms",
-      "pubDate": "Fri, 14 Aug 2026 17:47:05 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "India bonds end week flat, but demand for long notes firms",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-week-flat-but-demand-for-long-notes-firms/articleshow/133240625.cms",
-      "pubDate": "Fri, 14 Aug 2026 17:27:36 +0530"
+      "src": "Business Standard",
+      "title": "Nifty closing gap narrows two weeks after CAS rollout, Sensex stays higher",
+      "link": "https://www.business-standard.com/markets/news/nifty-closing-gap-narrows-two-weeks-after-cas-rollout-sensex-stays-higher-126081401828_1.html",
+      "pubDate": "Fri, 14 Aug 2026 19:37:58 +0530"
     },
     {
       "src": "Business Standard",
@@ -55,10 +61,28 @@
       "pubDate": "Fri, 14 Aug 2026 18:17:23 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "York Exports reports consolidated net loss of Rs 1.52 crore in the June 2026 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/york-exports-reports-consolidated-net-loss-of-rs-1-52-crore-in-the-june-2026-quarter-126081401675_1.html",
-      "pubDate": "Fri, 14 Aug 2026 18:17:15 +0530"
+      "src": "LiveMint Markets",
+      "title": "Reddit shares jump 15% as social media platform set to join S&amp;P 500",
+      "link": "https://www.livemint.com/market/stock-market-news/reddit-shares-jump-15-as-social-media-platform-set-to-join-s-p-500-11786715061238.html",
+      "pubDate": "Fri, 14 Aug 2026 19:50:25 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Sebi proposes easier digital KYC for Indians living abroad",
+      "link": "https://www.livemint.com/market/sebi-proposes-easier-digital-kyc-for-indians-living-abroad-11786713057692.html",
+      "pubDate": "Fri, 14 Aug 2026 19:46:12 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "US stocks mixed after retail sales data, Middle East in focus",
+      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-after-retail-sales-data-middle-east-in-focus-11786714853263.html",
+      "pubDate": "Fri, 14 Aug 2026 19:22:50 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Dollar deluge prompts RBI to shut special FCNR scheme early; $52 bn raised so far",
+      "link": "https://www.livemint.com/market/dollar-deluge-prompts-rbi-to-shut-special-fcnr-scheme-early-ecbs-ofcbs-nris-foreign-currency-deposits-11786713510471.html",
+      "pubDate": "Fri, 14 Aug 2026 19:14:10 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -67,89 +91,65 @@
       "pubDate": "Fri, 14 Aug 2026 18:54:50 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Cochin Shipyard Q1 Results: Net profit falls 19.5% to  \u20b9151 crore as margins shrink",
-      "link": "https://www.livemint.com/market/stock-market-news/cochin-shipyard-q1-results-net-profit-falls-19-5-to-rs-151-crore-as-margins-shrink-11786710131421.html",
-      "pubDate": "Fri, 14 Aug 2026 18:02:08 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Vijay Kedia portfolio stock: SPML Infra shares edge higher after net profit jumps 87% in Q1",
-      "link": "https://www.livemint.com/market/vijay-kedia-portfolio-stock-spml-infra-shares-edge-higher-after-net-profit-jumps-87-in-q1-11786706504717.html",
-      "pubDate": "Fri, 14 Aug 2026 17:07:53 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Bharat Dynamics Q1 results: Profit sees sixfold increase, revenue surges 131% YoY",
-      "link": "https://www.livemint.com/market/stock-market-news/bharat-dynamics-q1-results-2026-profit-sees-sixfold-increase-revenue-surges-131-yoy-11786705115010.html",
-      "pubDate": "Fri, 14 Aug 2026 16:30:13 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Top Gainers &amp; Losers on 14 August: NALCO, HPCL, Tata Motors PV, Netweb Tech, Hindustan Copper among top losers",
-      "link": "https://www.livemint.com/market/stock-market-news/top-gainers-losers-on-14-august-nalco-hpcl-tata-motors-pv-netweb-tech-hindustan-copper-among-top-losers-11786700818338.html",
-      "pubDate": "Fri, 14 Aug 2026 15:43:36 +0530"
+      "src": "CNBC TV18",
+      "title": "Rupee gains 3 paise to 95.42 against US dollar",
+      "link": "https://www.cnbctv18.com/market/rupee-gains-3-paise-to-95-42-against-us-dollar-19969962.htm",
+      "pubDate": "Fri, 14 Aug 2026 19:55:47 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Higher sales fail to lift Borosil's Q1 profit as margins come under pressure",
-      "link": "https://www.cnbctv18.com/market/earnings/borosil-q1-pat-takes-a-26-pc-hit-despite-stronger-revenue-19969884.htm",
-      "pubDate": "Fri, 14 Aug 2026 18:50:36 +0530"
+      "title": "US stocks mixed at open; S&P 500 heads for third straight weekly gain",
+      "link": "https://www.cnbctv18.com/market/us-stock-market-nasdaq-dow-jones-mixed-sp-500-heads-for-third-straight-weekly-gain-19969898.htm",
+      "pubDate": "Fri, 14 Aug 2026 19:52:15 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Turtlemint Q1 loss narrows to \u20b938 crore as revenue jumps 40%",
-      "link": "https://www.cnbctv18.com/market/earnings/turtlemint-q1-loss-narrows-to-rs38-crore-as-revenue-jumps-40-19969876.htm",
-      "pubDate": "Fri, 14 Aug 2026 18:45:37 +0530"
+      "title": "NMDC Q1 profit rises 2% to \u20b92,007 crore, beats estimates; revenue misses",
+      "link": "https://www.cnbctv18.com/market/earnings/nmdc-q1-profit-rises-2-to-rs2007-crore-beats-estimates-revenue-misses-19969932.htm",
+      "pubDate": "Fri, 14 Aug 2026 19:34:36 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "RBI fines IndusInd Bank \u20b959.2 lakh for violations related to deposits, securitisation",
-      "link": "https://www.cnbctv18.com/business/companies/rbi-fines-indusind-bank-rs59-2-lakh-for-violations-related-to-deposits-securitisation-19969865.htm",
-      "pubDate": "Fri, 14 Aug 2026 18:43:48 +0530"
+      "title": "Cochin Shipyard Q1 Results: Profit drops 28% as revenue falls, margins contract",
+      "link": "https://www.cnbctv18.com/market/earnings/cochin-shipyard-q1-results-profit-drops-28-pc-revenue-falls-margins-contract-19969925.htm",
+      "pubDate": "Fri, 14 Aug 2026 19:15:06 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Reliance Industries signals Defence foray with Rolls-Royce partnership for AMCA fighter jet engines",
-      "link": "https://www.cnbctv18.com/business/companies/reliance-industries-share-price-ril-rolls-royce-amca-engine-partnership-19969889.htm",
-      "pubDate": "Fri, 14 Aug 2026 18:42:26 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Zaggle Q1 profit falls 33% despite 28% revenue growth as acquisition costs weigh on margins",
-      "link": "https://www.cnbctv18.com/market/earnings/zaggle-q1-profit-falls-33-despite-28-revenue-growth-as-acquisition-costs-weigh-on-margins-19969773.htm",
-      "pubDate": "Fri, 14 Aug 2026 18:38:37 +0530"
+      "title": "SEBI proposes cutting settlement amounts for market violations by half under new framework",
+      "link": "https://www.cnbctv18.com/market/sebi-proposes-cutting-settlement-amounts-for-market-violations-by-half-under-new-framework-19969919.htm",
+      "pubDate": "Fri, 14 Aug 2026 19:02:52 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Pulse of the Street: Tata jitters, metal rout weigh on Indian equities - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSmZsSjlkWnQ4MS1MM2NIdHBxUUZ3XzNEM2NkNVJHLTlaTzJhQkxSTHhZa1JUVzFSa2J2c3FqUTJSdVpxejk1bjZDMGpOU29mSTM2NmFPdmNoOUQ3OU03ZGcza2h6ZFZta2JGRHhCd0ZjMVN1SW9IcVhIVnZpY1RieUl5TWRXSUlFTUg0cDFKTjlfcDd2QWZkeXpoQXdoY0FIakNjSWE0bzdjbUlnOWFLbnpfdTdubGxZUFgyalZtUk9nMjlvQ0otQkhKOHBLMHF3THlOUNIB2gFBVV95cUxQQ1dFTDhneHlXaUJDTTdQanJNNTdsRDBENVc2OGFvZ2l0SVp6QXhISGNSdGNqZkM5eWdjNjlFQjZYcUt4Y21DSDVZcm5rMWNnTzJabktGbERsT3ZrX2hLaHViVkt0Q2twZmxDR3hqalFsRUNaVEFZQTByd2MwS2ZYRFctUnpPdk5hNExSNS1jUTdqLWZxY0FZN1JwWGFCMkNGX1hvZzRDVnRuZS1lUHZrZDFGbl9mZ2tETll4cmYtMnkzM1laSmpzZFZkc29Qc2hYbjIwWDM1czAtdw?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 13:24:50 GMT"
+      "title": "US stocks: Reddit surges 14% on S&P 500 inclusion, set to replace AvalonBay - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNclQ4cVhSOERReUw4QnVnUXA4REhCRGJWcWI5OGwwRU5YOFh1THc0T2NLRzBiUG50bHU2MlNKdWJWSE51eDF1MXhUQ2JvX185ekxRcExhME11dG00Y0V5MG16WlNzRW5jZ1IwNkx4NUs3YWhZMGM3Ui1HVG5hVXg2bFZ2Z1hnMVlHZ2xMUXBuS1Y5eFlGVGNZY1Zfem9FbmZRdUVBQkVZT0lyUmNFOFhub2FyMnZnOUppcWYzQ0IwUDY5aXk0al9ManZZaUNmM29sLTNyTjRtNFNTaEVoaUNqVDZBU21iMG5UTzlPR0xucktXekFUUGFhSnpScFJDT2otMk40bTlyVVhkTVFQQUxFUU1nNUIyQk9SaVRZYTY5OWdHM1hoNjd6alptTk5aeDZUcWk3SW9HTldNLVBiX0FiMXF3N0Q3Z0hCUXpz?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:19:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FII equity flows into India net to zero over a decade, Motilal Oswal's Duggad says - indiaipo.in",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWk9XUUducDB1a3Jyd2RFWGNLVnV2Zkp2b25vQ1NfaDhIaFc4VUdsaEU2bkVxVmU3bjA0OXNmNXBjM0NOTDNXaGpsemxMb193LUZSOHFiNUVzWkVnUGNRUWQ3aXNnei1oRm01V0QwNlhiVGZBR3RHbjJyaFRHbTFycktqMHZHcXlRWVZrSG9XdmN2Z2JlOThseFFnSDN3cWJrRmdJZFJ1X052WkNjQ3dsb2tVbHJTWk0?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 12:57:39 GMT"
+      "title": "Stock markets end lower amid geopolitical uncertainty; Nifty down for 4th day - The Meghalayan Express",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTzJFa1REU05fTXhQUURwR2lsZTVIclZhOVFQS21pNk1kLWNOSFgwQWxqV0FkMHlYTndkdTltQTIzLUYwc2NGazZ0aXctSGUwakUxNHJHaVRReEpCaHNvWDRuSkVTVTZlRnlaa1JMSThHMk9vMXY3TlpWdG9sRGJCcDM1b1NtWmJNdXpjZndlVTZGajJSZFhSYVRnd1NEQ1dRQlljdlNJSkdoSFF4SDJz?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:17:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's markets regulator proposes to rationalise penalties for settling ongoing cases - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdzRIN2RTX1hjNkhQR0t5UlRKcE1VcHctNFJ6c2ZDblV4aU1BNHBjTlFEX3dvWHREVG5Yb3llSnQ5VURZZDMzc09ObUFadU9faE9xdEhiN0gwVE1NVlROQUV0N3l4M2dLY285MDdxSVMtZEZMbFJ1bG5tMG9zMjBZbWZGVEw3aHM3MUs1cklRTm1tUXY1WDdnM3NlWVltRzBhbHZSSmZ3MEhPR1RSVnpnWmtaaW52WUVGaFM5NGhXSC1sa0R3d0hLLTZ4MA?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 12:56:10 GMT"
+      "title": "Nifty closing gap narrows two weeks after CAS rollout, Sensex stays higher - business-standard.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaTQxQl81RFdSWlhUNHJxRzZRWWhjSjNqSzdVQVdHZHhYLVJmOUs3US1lcEhCMFg1eHhYS2xqWnFlbHBQcU44RUxWZDJIbVh0RHlMWjRtUzFLRFdEVEJtOUVoVHZua1lDbWhDUFRjcmZYMGhHNkhKcEhIcnpBSll1OHBFM0dFUGk4d0RWcUsxT1pVR2pWc1UtZUFoSXFsaGpacjVaWUJ5OVdMbnM2TU5JTmppektCamdhMFJkY3U2RHVVOXpMZFdLQ3BHc2pmcXE2LTFpLTJNc9IB3AFBVV95cUxPVGhjOWp0NGVPbnZSbWJnZFg5bzdPQUtHMmd1ZzFSWG9YbDhHRFdubHZIQ1BYeXBIcXdvR3dYTHZtMEVBMzBCVkNSNmFaNnBuTnFOdVhMZHZfclhJcmM0M3BRWWhxR3FpZ2h1bDB0ZjNMMy1Pamxidl9XMzVHbFFxRjFwVmhhUHVkYi1iaFFyVmhBMmZyWVZhZGx6blp1WWVzUUJUdmpoM21pN3Z3Ui1oaV9KQnJMRDMyM0duZ3ozZ1cwMVRSR1FRdG9sQ0RPSUt1eDYxMGc0YkZCdXVF?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:07:58 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Svatantra Microfin files papers with Sebi for \u20b93,000 crore public offer - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMEYzczA2UWN5TDd3dHQxdkt1bGp1SEMzTmVpQ1RCamdHR0NTeXI3bGM5dkVUWW01d2Q3WFdHdjhFajRsRDhNT1kzN2RDMjZ4MlZwYjJTcmtmelpKQkJGakk0UXpPUHl1aFNXTEpKOEs1Tll4cTRwbjhBNzJ5c0NESVIxU1ZONUNoTUdDX1JvYk5jcFJ2V0xXdzhCZlVobmItbk9BcVU3VllHSjdWN0l0R2MwQTJ4RXZFUUdzdkdDblV2UUs2SEF2NlZBSUZpZlZsdkHSAdcBQVVfeXFMTU5jcExVRk5iUjVBbHlURVh3WEZxR0xnMUc0V21lRE81bUJzMzM5MjNERklqYV9JM2thVDBmOHNiZEptcWFOQjBhaHNkWlF6QkpCVnhkZ2tJeHQyVlBOcUhfb0hjYWhZMXJyMkNOVmhYN2hLUGNzZmVLRVFvcUgwU2JOdjVKSWF3NG53UDR0U2YtQmNiWHhFOVRzN1lrVVcyelJKZ2VsdzlCVUFNcy1BZTRmdm5DTWlvUXFGTzJJRjdrSU1wSTJQdklpTGFnMGxReG1taU5VaDQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 13:24:42 GMT"
+      "title": "US Stock Market Today: S&P 500 Near Record High, Nasdaq In Green As SanDisk, Other Chipmakers Jump Up To 8% - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVjlCN1JDa2VRbnJHUVFqdU5kWkJXUzZPd19rTzZnTzdPT0RvVG5qTDJMNGxMY3JsaE1vZ0lxY0dBUVh4YmZEWHVfbVJ1SmpMcTJIancta0xpc0Z2QUtPR3g3QTRCR3gxdURPUjN0MVNSWU5od3RSTWpXS1NERl9feDNScE5DRGNuLUw4N0Zxcm5EdWJ5MHE1N0duVDdvWm1EdFFBSUFwdHR6LVdfV1Rad3laNDJuZjVvNnJMMmRKZ1lGajB2aW5sU2NHamx5cnRSNmRENEJNeUFodkU5RmRqTdIB6AFBVV95cUxPT3llbHFacTBKUDRUbmRvLWlSQWM1d1ZDTWx6MWNuMWFIbG9MNm4xU2dVblRNRzRZVjZrUE5jai1MeWJyekVpLWV4cTBLLTFqR1d5M09SWmNVTVR4cEctZUk4UUc5bHoySW0xcUdacTh3RXR4cDhrV1JaVlI0WFZqQ0g1eVRvTTU1allrMzU5NFI2SzJSZDQyYVBpM2JiWnd0UjN3aVZuNUtHZGVkbG11VXRrb3U2c2tFY3VGMUg0bzhwSFpiZ0l2LVRSU2tWWDByVE9kVXBNRDBiZ3N4Y2M1ZFhYNGJQWjZN?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 13:38:19 GMT"
     },
     {
       "src": "Google India News",
-      "title": "KKR-backed LEAP India's Shares Slide 5.3% in Debut - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmdUbDYwSmhWenQ5NlJ2RGZFWTNqbUdidHJLVnNhdXJQb0dDWlNtOWlvTi04akdZdzRNelhaTnpCVXhXeHlSckdXVTJLdTdSWTZ0XzMzU2daaVVwc2NHbHF3ajVtM2E3VEt2VFJCVTl0aGlpUTlaT18zMWdaSXN5T18xems4Y2VTcklVZ0xCbFEybTQ3a3JkQnV5WC1XYVJqTVdPNg?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 12:47:46 GMT"
+      "title": "Sebi proposes easier digital KYC for Indians living abroad - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYXNYNTg1VVREMVJXOGpLdHQ5Q2R6dGo3MTFDN1VKWnNRekp5OFBDcFYyRjF3Ynd6T2laSURIdjJMbU1xQzdjcE56S2g3SkRnT215MHJTVU5fcDVpZnNZdHlBLTJwUko1OFgxRV9RRGdVMzFwakJaVGVkLTRwazR3WjZRdEdQM2RlUHFvdDN4VXNINlF3cmVmcEtpV2lETEtXQzBqMEsyYU56WDZZSW5N0gG0AUFVX3lxTFBqZDg3RWJiamN3SkE1N1k2cmZoeHgyOVM1RnU0S3dPLUFwRWROZnBSeG95RG0zd3hvMi13Mm1IRjlJaTFEdEptb1hmTC1OMGc1U0FEZmMyREY4aDUxZE1rLVFUVWNNcTZaQTNTcG9VRnRCZVh1Q0lsTEViNEJaeXg4VGhCVGpXVnN4MUNoNWVpWFdiRXV3ajRFV1FVSlZQV2VYRVdNNVVLRGVrVnlYNTI5akZ0Tw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 14:16:12 GMT"
     }
   ],
-  "fetchedAt": 1786714668
+  "fetchedAt": 1786718197
 }
