@@ -32,6 +32,12 @@
     },
     {
       "src": "Business Standard",
+      "title": "Binance Research: Gen Z Leads Net Accumulation Across Every TradFi Product",
+      "link": "https://www.business-standard.com/content/press-releases-ani/binance-research-gen-z-leads-net-accumulation-across-every-tradfi-product-126081500034_1.html",
+      "pubDate": "Sat, 15 Aug 2026 00:40:06 +0530"
+    },
+    {
+      "src": "Business Standard",
       "title": "A well-designed regulatory ecosystem can further strengthen service exports and ease of doing business, says NITI Aayog",
       "link": "https://www.business-standard.com/markets/capital-market-news/a-well-designed-regulatory-ecosystem-can-further-strengthen-service-exports-and-ease-of-doing-business-says-niti-aayog-126081401914_1.html",
       "pubDate": "Fri, 14 Aug 2026 20:31:01 +0530"
@@ -53,12 +59,6 @@
       "title": "Solex Energy consolidated net profit declines 66.98% in the June 2026 quarter",
       "link": "https://www.business-standard.com/markets/capital-market-news/solex-energy-consolidated-net-profit-declines-66-98-in-the-june-2026-quarter-126081401678_1.html",
       "pubDate": "Fri, 14 Aug 2026 18:17:38 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Ashnisha Industries consolidated net profit declines 66.67% in the June 2026 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ashnisha-industries-consolidated-net-profit-declines-66-67-in-the-june-2026-quarter-126081401677_1.html",
-      "pubDate": "Fri, 14 Aug 2026 18:17:30 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -122,21 +122,9 @@
     },
     {
       "src": "Google India News",
-      "title": "Jane Street Took $15 Billion Loss in July as AI Stocks Slumped - Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHpnTzhRcDhfQ0dfblBsTVdlR2dMMkI2V1BMUzR3MkRiRGJQT3RvNkIxSGJ3LTh1eHJqdHROTi1RN1hwT1BRNU8xbF9Jck4wVVhIRDFKMFFjbFVCWXRXZS1iaU1yMndSMlFQOWRxdlJLckp3MUt0WXc4cU1fNUpNTWZycEw1LVBiM3FSTWdjYmtNdEI3cXBob0hwZW1hUW9ZMmtSM29xNXhqanl4MEwwZG1R?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 21:37:01 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Platinum Price Today 15 August 2026 \u2013 Latest Platinum Rate per Gram & Kg - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE83NGFTbjFrVDVkNDNFQVFkOGhTeXg5RHBsUnQwS1FoSXo0VVdlZG9URG5GcTQ5RXNLVFc1UzdFZW1VOXVCR2NKX0hMdV95RWhmcUROWVJtejRyMzJiX3B0dXBkOTYzV3JsZ0JtTGl4czNBNlU?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 21:33:12 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Erdene Resource Dev Q2 Results: EPS turns to $0.15 profit from loss - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRk1IVGJJZVRRV3UtSlBfc1FCR3VISkRjRTNZYXAyNDZpcTBlNmh6NjEzdEplcjdZclUxVU5VT21uYzFDZnNwWmVfQXgxdkV0cWEyaFdwSHRXUGVxU2NKaE5GM1doLUpSTG9FLWxmRm9KZDFwcVBxeU9waTZuWXEzTmN4V29mbEx5S05UVmJLM2Z6cHBfVERiLVpzdFpiRS0wRUwxWFlwaEg5TEtyVmtYM3U1cWQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 22:07:52 GMT"
+      "title": "BSE SENSEX Dips to 78,009.25 as Indian Investors Book Profits - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOXZkMDFJWWJtVXBubWNpampuSlhyQ2duQVlUNzZEUDNON3FKcnhBZm5IYXdVRkpNOFdHN2FkeHFzc25NSUFxVjVJNVBPTUd3RFE3QXNfb0FabUVRdXNtLWE5ZmNkRG5zemVMaHFaOUl1cms2QnJvRXBIRGU4RzhiekVhWEZ6QzNRNEpsT3E3M09xRWctRGNlYkU4TE8?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 22:20:50 GMT"
     },
     {
       "src": "Google India News",
@@ -146,10 +134,22 @@
     },
     {
       "src": "Google India News",
-      "title": "U.S. markets shut while weekend crypto trading continues as El Ni\u00f1o threat looms over 478 firms - TechStock\u00b2",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUNrcXF5dVFmZEZTZjdSWXJPNTVsQWdVR2thV0M5RkZPU1hVRVZ2Ny05VHBLdWxfS1BIajlrY3hMeEFkWGN2RWlxaXZzOG8zREp3VzFwSGNuRjNPUzJES3F5RHpzVjFUbXM2WUdTX282XzhxSHlYS0x4RTRaVTFsLWxzVllQa19BbEo3WHh1Z1QtQ3lSU1JLMzZIT01YQldPSVE?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 21:40:43 GMT"
+      "title": "Erdene Resource Dev Q2 Results: EPS turns to $0.15 profit from loss - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRk1IVGJJZVRRV3UtSlBfc1FCR3VISkRjRTNZYXAyNDZpcTBlNmh6NjEzdEplcjdZclUxVU5VT21uYzFDZnNwWmVfQXgxdkV0cWEyaFdwSHRXUGVxU2NKaE5GM1doLUpSTG9FLWxmRm9KZDFwcVBxeU9waTZuWXEzTmN4V29mbEx5S05UVmJLM2Z6cHBfVERiLVpzdFpiRS0wRUwxWFlwaEg5TEtyVmtYM3U1cWQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 22:07:52 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "LEAP India debuts with nearly 9% discount - BizzBuzz",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRXMxa25DTVJYUkVkbDlZUEI4MlhlNVlxc0dFb2MyTkZPWmlQVUNKcmlEemsyM0dQY09FdTgwV0hqUTFVcTlocWRZZHJrdWlDMkVGUkhKNzNzZ0k1cVpsaXFoOGxKSU80djV2Rzg1M1otZDR2UjU0dGJ0QmVEWERycnllX3ZmZUJ3WEE?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 22:20:44 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "GIC Re Files Q1 FY27 Investor Presentation With Stock Exchanges - TipRanks",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWkRCaVZ3MEcybEc3d2xiRExDOUFMNUFpanhkWlB5clh6ZWltZ2w3ek1lRjhKUWR3VHJ3RHp1OTZxTE43Z3lGUUlKM3BxMVVLNnI1ME5ERFJIaUplQ0VKR2dGaGo4VDBqTzZZMlBPSXdMZm9TMzFUMjZGdEN0N1BramF0aC1FcmRDY3c5UUZEWFlNSk51T09jOGhhOTBrWnJMa2RLNkxiNXd4QTZiMWNRbC14T1B2UQ?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 22:42:44 GMT"
     }
   ],
-  "fetchedAt": 1786746155
+  "fetchedAt": 1786747824
 }
