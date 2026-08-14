@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Nvidia\u2019s $500 billion plan envelops Wall Street in its AI frenzy",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nvidias-500-billion-plan-envelops-wall-street-in-its-ai-frenzy/articleshow/133249552.cms",
+      "pubDate": "Fri, 14 Aug 2026 23:41:45 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "How a $900 million bet on SpaceX turned 100x into $94 billion for Alphabet",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/how-a-900-million-bet-on-spacex-turned-100x-into-94-billion-for-alphabet/articleshow/133248581.cms",
+      "pubDate": "Fri, 14 Aug 2026 23:16:57 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Patanjali Foods Q1 Results: Gross profit rises 35% YoY to Rs 1,521 crore",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/patanjali-foods-q1-results-gross-profit-rises-35-yoy-to-rs-1521-crore/articleshow/133246238.cms",
       "pubDate": "Fri, 14 Aug 2026 21:20:21 +0530"
@@ -19,18 +31,6 @@
       "pubDate": "Fri, 14 Aug 2026 20:58:38 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Pernia's Pop-Up Shop likely to launch Rs 660 crore IPO by Aug-end",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/pernias-pop-up-shop-likely-to-launch-rs-660-crore-ipo-by-aug-end/articleshow/133245831.cms",
-      "pubDate": "Fri, 14 Aug 2026 20:55:28 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ashok Leyland Q1 profit rises 2% as revenue jumps 10% to Rs 10,750 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/ashok-leyland-q1-profit-rises-2-as-revenue-jumps-10-to-rs-10750-crore/articleshow/133245820.cms",
-      "pubDate": "Fri, 14 Aug 2026 20:53:18 +0530"
-    },
-    {
       "src": "Business Standard",
       "title": "A well-designed regulatory ecosystem can further strengthen service exports and ease of doing business, says NITI Aayog",
       "link": "https://www.business-standard.com/markets/capital-market-news/a-well-designed-regulatory-ecosystem-can-further-strengthen-service-exports-and-ease-of-doing-business-says-niti-aayog-126081401914_1.html",
@@ -40,13 +40,13 @@
       "src": "Business Standard",
       "title": "Nifty closing gap narrows two weeks after CAS rollout, Sensex stays higher",
       "link": "https://www.business-standard.com/markets/news/nifty-closing-gap-narrows-two-weeks-after-cas-rollout-sensex-stays-higher-126081401828_1.html",
-      "pubDate": "Fri, 14 Aug 2026 19:37:02 +0530"
+      "pubDate": "Fri, 14 Aug 2026 19:37:27 +0530"
     },
     {
       "src": "Business Standard",
       "title": "Svatantra Microfin files papers with Sebi for \u20b93,000 crore public offer",
       "link": "https://www.business-standard.com/markets/ipo/svatantra-microfin-files-papers-with-sebi-for-3-000-crore-public-offer-126081401741_1.html",
-      "pubDate": "Fri, 14 Aug 2026 18:54:42 +0530"
+      "pubDate": "Fri, 14 Aug 2026 18:54:17 +0530"
     },
     {
       "src": "Business Standard",
@@ -59,6 +59,12 @@
       "title": "Ashnisha Industries consolidated net profit declines 66.67% in the June 2026 quarter",
       "link": "https://www.business-standard.com/markets/capital-market-news/ashnisha-industries-consolidated-net-profit-declines-66-67-in-the-june-2026-quarter-126081401677_1.html",
       "pubDate": "Fri, 14 Aug 2026 18:17:30 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Patanjali Foods shares to be in focus on Monday as Q1 net profit jumps 86%; revenue hits record",
+      "link": "https://www.livemint.com/market/stock-market-news/patanjali-foods-shares-to-be-in-focus-on-monday-as-q1-net-profit-jumps-86-revenue-hits-record-11786727877953.html",
+      "pubDate": "Fri, 14 Aug 2026 22:57:47 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -85,10 +91,22 @@
       "pubDate": "Fri, 14 Aug 2026 19:50:25 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Sebi proposes easier digital KYC for Indians living abroad",
-      "link": "https://www.livemint.com/market/sebi-proposes-easier-digital-kyc-for-indians-living-abroad-11786713057692.html",
-      "pubDate": "Fri, 14 Aug 2026 19:46:12 +0530"
+      "src": "CNBC TV18",
+      "title": "Max Estates Q1 net profit declines as pre-sales climb 5x; \u20b916,150 crore GDV pipeline",
+      "link": "https://www.cnbctv18.com/market/stocks/max-estates-share-price-q1-net-profit-declines-as-pre-sales-climb-5x-rs-16150-crore-gdv-pipeline-19970090.htm",
+      "pubDate": "Fri, 14 Aug 2026 23:37:23 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Ather Energy shareholders approve \u20b91,200 crore preferential issue; total fundraise reaches \u20b92,500 crore",
+      "link": "https://www.cnbctv18.com/auto/ather-energy-shareholders-approve-rs-1200-crore-preferential-issue-total-fundraise-reaches-rs-2500-crore-19970061.htm",
+      "pubDate": "Fri, 14 Aug 2026 23:04:55 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "BEML wins $6.65 million Mauritius order for hydraulic excavators across African markets",
+      "link": "https://www.cnbctv18.com/market/stocks/beml-share-price-wins-6-65-million-mauritius-order-for-hydraulic-excavators-across-african-markets-19970057.htm",
+      "pubDate": "Fri, 14 Aug 2026 23:03:32 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -103,53 +121,35 @@
       "pubDate": "Fri, 14 Aug 2026 22:16:07 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Saatvik Green Energy Q1 profit plunges 95% as revenue falls 44%; order book stands at 6.35 GW",
-      "link": "https://www.cnbctv18.com/market/stocks/saatvik-green-energy-share-price-q1-profit-plunges-95-as-revenue-falls-44-order-book-stands-at-6-35-gw-19970019.htm",
-      "pubDate": "Fri, 14 Aug 2026 22:19:07 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "NRIs may soon be able to complete stock market KYC entirely from abroad as SEBI proposes easier rules",
-      "link": "https://www.cnbctv18.com/market/nris-may-soon-be-able-to-complete-stock-market-kyc-entirely-from-abroad-as-sebi-proposes-easier-rules-19969992.htm",
-      "pubDate": "Fri, 14 Aug 2026 21:59:08 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Juniper Hotels to invest \u20b9850 crore to develop 550-key luxury hotel in New Delhi",
-      "link": "https://www.cnbctv18.com/market/stocks/juniper-hotels-share-price-to-invest-rs-850-crore-to-develop-550-key-luxury-hotel-in-new-delhi-19969998.htm",
-      "pubDate": "Fri, 14 Aug 2026 21:02:30 +0530"
+      "src": "Google India News",
+      "title": "Rallies and reversals since 1991: The lessons for Indian investors - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcG1zYzgzQi1Ba0wtSlg0TWx5blJ0S0gxaVM2WmFYUE01Y3hNdEUzX2RtTFVkdmRJcmpJalpqREc0U0RyeEhBZDRIV3BSVUN6QWNXT213cWJSYjdQR0VJOXRzOGtqamxBdmFSMDJONFgtQUZTVldIVVlsdy1YZ05BUWoyckNKNnp0VnFOazRCOXd5b2h5cUZiVkV4VHlFek5GYzlHY0YzbDRqMmZvR2lwakZlRjZFM2MxLVdVMjVVOXo3eHIzaVB0SWR6MzfSAdIBQVVfeXFMTTVkUEFTRENYa0JJVHUteVh6U2RWcXlDZWNQajZsam1WVl9kSjZrRkFZZkJIQS0zWlRreHdWRzJaaFY3TlJuNXF0V2VQQVFRVTcwcVBZS0gwSmNlODBYbDREc2JnTUVSTHNNTTFuY1dWNnlxU1NGZHlQbzh2VThYa3o4d2VVWklFR3ZPRDlwNFZkVF9kamN2MzdINkdlbEZfSDdBMEFSSWpqQTRkbkUzdUVWR1BFeEVlRnVwRG1lN0NXa1NsX2VfYkFycDJPbm93b1Jn?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 17:32:10 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SEBI met HFT firms, market makers, mutual funds and brokers to discuss the Closing Auction System (CAS) \u2014 aiming for wider participation and feedback on the framework. Yash Jain gets you the report. #SEBI #ClosingAuction #StockMarket #Sensex #Nifty # - LinkedIn",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdkJCM0FxTkF5a013eXotVGlfa1lJUHZBQ1FkUjlCdkdQdktRWG0xbkdzUEl1MTRnWHBlVHJxNXlpNV92czczcDdMWnRhdTdMNnNFVHJQNXB5NjFGdjFnenlQb3ktSjRXWE5nV0c4dXYwa1BiRFJLekJ1eGRuc3Y5TGdJWTVPVFNMTFZDX1VJbGM3clB1UUVGdi1Qdm92dVYtSWxESUt0T2Y0QQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 16:56:39 GMT"
+      "title": "How a $900 million bet on SpaceX turned 100x into $94 billion for Alphabet - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNaFAySTBjQXJzNGRJVDlCakhGei1DUTcySmRKZDNSZDdLY016SFZSSXVmU0w2bm5pRVg5WVdXUzlLNlE0VnF6VjVQZDdqQUZ4Q1JEZkxva05aby1XOFpsOV9rckJpYk5ISVlTcWswQTVpVVdrTUtyRXdsbkZTMGhoaVd6U3pRZTM0SlRxb0VIaWoybHVJd0E0djZhbTNJTE04M2lhZ04zNHVoYW02QVFHTFk1UUl4c2lWdlRJb3hlYnVUcGRZdlVtZkgyWmpDRlNxdGlMTXZuXzVzVDJuM0NNRnh5b3FMOGNMQ3UtMmdGbHZyZTQ5NWQwQ29wbjVrZDYtdDc4SFZrcXFPQ0dYdGJhZkNTMTU3bDhqWk4xbkczTGttNU5nbHl2OEhGbVZ2Q0tNeTczc0RkOGhOMVl3eFExMkRFdmFjejZVaXdvbXNKZ04tamcybDNGVVU1dkxjd9IB-gFBVV95cUxOSzVFMy1reXF5RzNiOU1FWDdJaFlWczFqRkJvTzBDRW5oODVRX2JmX3U5eDVRYTByajlPT0NPN29tVzhQN2RJVGw0TGozZk81cFRUTjRPaXA2a0tjQ0FSYlQ4VDRDMG9WbVlaZDdQVDBzNnhRaTVwaUM2VnlMbTNiSXIyY25vd25FSnRpLWtvQ0lwMDlEd1FrdTlvdlJJaS1pNlFGN0dqR3VfRlAtTlpNZ29heW5zcTBpdjQwaTZsQ1h0cU9Sb1lmeVdzOEpoZzMwSmpwRDBfcC1pV21TakpEbWpFb2FjRU5RbnRlQkJ3S1hNSHY0T00yTWdn?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 17:46:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NRIs may soon be able to complete stock market KYC entirely from abroad as SEBI proposes easier rules - cnbctv18.com",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYkp3bVVfbm9ieHUtZzNFRnk3cklIcXBfckEwRmxXVU5aZDFobjZ6aDZ2MzlLLXNZVEhfYjhnV0VEUUZVLWpoc0t6Y2VjS0d3YTR6djhQTFJEQmxQTS0wbU5hVHM1WWpjYWtraFlEZFc5VEZOMFJqYzZPX25zdGE1MjYxNjdjc2lWNjQxQVlRalJXUzFMaUJfbDFOYXpCMXZXSHRwWllZNG43OWdiRnBVR084Z1pRUWNicjNuREpkYUU0R2Z4ZHU1TDlWX1cxS2RXOEthU1ppZmVkMVdoMlF30gHkAUFVX3lxTE5Lb283ZW1QYWRvM05hVFowSGhTczh3aE1hWVptd1E2Y0I5ZktBem0zR25Rc0FIbzNIZ1Q0WW0xRTlueTN5LUtIbDNubEU5UTd4b2E5TUlPZGM4S0k3OXFLeVJNOUM3ZW1PZTFEZkxaYkZDX2J6STRLOGlvU3N2MEVlNS1FRy1YT3FXSF9NSnFQMGJ0SGlfSWVtVy1SRUg3bW9ETlZ0UTZRaDZNNERvMmJxNkVVQlRYb0dLSkI0Ti11MlU3ZVQtUFJrMXN3N0htMUxrWTFxMGlRMWdLRDV3RWdmTTB6dQ?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 16:29:08 GMT"
+      "title": "SEBI Mulls Digital Onboarding For Individual Foreign Investors To Boost Participation In Securities Market - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPN3d1UEd4eUZqdGFEejBBSHBvN3lSeGs3UjdHSzhUbHVMeEVKNE5XU2tkSWJNbHlOd3dRUVJYcGtPNWNVZEZXQW5jN0VNclFaZlNreHUyQTJFTktxdlQ4ZkNSZGFRSzBLaXN3ZE9MTzEwak5mOTBrNzBSVEEtcVZDb2t0aFJtTUtjT3NmNHRiVDI2dWhtbVBiaVdsVmVXVVg1SmJPTk0xTklka3Bmcmp6eFV4bXN3MWhaS055MjVCX1hpc25ZWVpHVFZYdGFyOVdTMGpMQkZVTmFTcE1CR1pYcDdiOWLSAewBQVVfeXFMUHBKNVA1TlZtbjU0NDhCSmpzREFhY2d4NVZSRVF5TDFEQVU3RGZuVDBiZldjaEpET1dfZ2pwYldHUzVuQXpIUXRNVkpKSFhVS3FtbjI5allPOEgtZFpzbHRFVlppOHgxanJOQkdVVk9Ybmp1UWVEUzBaRUkxSENGcnhFOEtuS292YmpxcERVUjk0MlAwaVNfbmF4aTBNX1d0NkNuRkU0S1FySFc3SnE5ZEswbW5IWWhHSEx3QkNBMFdoeE9xbVBXRmUzYXd3T3hyMTBRanhVS3NubUtUc0ZvMXVlZzRRb0NKRURkbFA?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 17:58:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's green bonds find footing as stable 'greenium' underscores investor appetite - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaGNQOGg1cjFxVWhHMVlFaGRXTXd6Z0VmRlFsZDBWdExWVldYR1paOTFxR2NxR2k1NlZ1WEwyU2IxRWU5NzdrU1dXbXRiXzVlVWFVWnZwa0tiYnVRRUI5cTBlMlVwNkthckxnZ1dWWEZRa29MS0FDNFM3YVNsYTJlSF9DSEtTUnZFS2JXNzZPNFA0TC1rWEpiNUh2ek1vVGJWNUhRcy1PakFIMWpObWp1MWVPb1RYQzVOTzVXY212NjN2dWhDVTBIZVFoZXRJV2lNNGNmaU01dUdKblnSAeIBQVVfeXFMT3ZfRkJYQ0NwUjh1UC1MVHFTVC1jQTl0ZUMzbk1MckRpMS1QU2ZiN2FuLTJvWkctdENGTDZxV0ZIZGRQeF9yQlViWUhkU0pKYVVqZEtaeS1fY20wdzRrTmxwMGpFcVlQQ3hydmlnWWhaT3c2ekpoUy1UbVp1MFljMFNhVUZHeTAyYnZkcG1zckppZmNnSGNVS1RnREtLYmt2UFVrLWZURWFnTGMxY1NJR1BCT3VUZUdEWldzQk8xZjY0MWZKc0k4Ri1tU0s0M05FZ0xWeHhFN3RuS1BvdDVia2U5Zw?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 16:53:47 GMT"
+      "title": "WeWork Global offloads 2.52% stake in WeWork India; Motilal Oswal, Citigroup, ICICI Prudential AMC among... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNanRDZm9VRzRsbU9uSnF1SzF6c2xmV3VTalA4bXdBVTlTUWdUNW1MYjFRUGxzamNXRXZlbkV4ZHBtblZfdERzRTVEUDJ1dlR5YlEzVXdZaF8xUldBdUFmYnhtd0tiamg2QjRxUExhZDRwVkhVMFM2ajYtcTRHZ21wMlc1ZV9lTjJEak5SVjdKcU9Jc19hcl9iZEJ0c3VtOTVVNTVkQTFyT09uZVlTaWwwckJ4Z0NxY0NHN1pmRFNwZnlZSUhVYjVidWdYbFZwaFZCVjhuMnNCQUJreW1qdG1CbmJlYVFVMW91TGVtU2UwSWxQc0VWVDZtZjBEOHBabHVUc2RaNEs3b9IBhwJBVV95cUxNanRDZm9VRzRsbU9uSnF1SzF6c2xmV3VTalA4bXdBVTlTUWdUNW1MYjFRUGxzamNXRXZlbkV4ZHBtblZfdERzRTVEUDJ1dlR5YlEzVXdZaF8xUldBdUFmYnhtd0tiamg2QjRxUExhZDRwVkhVMFM2ajYtcTRHZ21wMlc1ZV9lTjJEak5SVjdKcU9Jc19hcl9iZEJ0c3VtOTVVNTVkQTFyT09uZVlTaWwwckJ4Z0NxY0NHN1pmRFNwZnlZSUhVYjVidWdYbFZwaFZCVjhuMnNCQUJreW1qdG1CbmJlYVFVMW91TGVtU2UwSWxQc0VWVDZtZjBEOHBabHVUc2RaNEs3bw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 17:46:31 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India says mining tax curbs for states needed to prevent market fragmentation - economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOM0RtOG9HX3lQV2gyTGNCalhSM1Q0Qkp0VFRRem5MTkw4eVNOYk1vX2cyRHJEUUFNdWk0bWFaRHp4M2xlZzJYNmliaGo0eGZDalFMTi1wU0hDMWQwTkRucHV4UGZLdlQ3MUt5RmJfSFVXcGpOaUtfQXhGb09iX19jV25PcEpySnY5TE1zVjhmSW9mdnl3QlloNU1QZ2VEb2FEVERURXhkQ2JVdFRyQVNuUDFsb2U4a2lMN1JxUExnR25ub1A0NHRsbklYMi1qYzhRSjFHTGU5N1RiVG9yLU9wOE00eUc5MHpQVUZJQnZuMWR4Q0dhMnBkelkteWVlTU5IdHh1OVRUMzBJajBMMDVpMHh2b3o4LTJPVzZINWlhNHNJdXJWYl9tNXEwNkd3djJodnFtTGY2TlVmZzFHbmhSbmkyZ9IB3wFBVV95cUxQVnRFT0hfcHZ3d2JFODJaSGNVUV9vMVF5YUpLX2w1UWlzR3lDUm16V0Rhb3VaTlhRQUxyT3RuR2RfVmFxcU5WaDRfT3JOQkVHa1YxbFBmWjZWblJLa1ptc0xGNXA3M21EQnE1M29kUnQyc0dEd2xEb29URklfbnN6VmlhanFEWlREQkl0ajVXUFZvLWl3MXlEZ3BXcTh0Yno3el9KS1VNbEk5dkZsVWViVzFHMXp6dHFRalFsR19yTXdkb1NFd1MtRTA3SHg0R3FyLWNTVHUwWmp5RWc5U1pN?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 17:15:18 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Suzuki Motor (TSE:7269) Is Up 6.7% After Raising FY2027 Guidance, Dividends And Advancing India eVTOL Plan - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcGhZRm4xaUEtM3lfSVplNVhLR0JGRkFTd1U0NWhCREdnVFdSaWdiY2x3Snp3dlllVG1TZjQyUGFjOFVKN21fdXQ5UWJoVEFhZDlXOXpmXzc5YkhmRzNJeVdaSFk0ZGtsdFZHbU5ZaUJJbEZUN2s1Wjh0V2g3OFNNb3NMdDFFRWZLY3lXaEh5NE5IT28yMFlieUtFd054Vy1MazdCU3dhcDJJRGFCajFtMHRyaUE3elJIYThGR3FzUE96eTdlRGxjNko4WkNSYXItbkZZ0gHYAUFVX3lxTE1GTzBUVUdrTFBvWGVBRUhRbzIxWXR6NU1IUTB2Z2JaY0UxcHR2T3BWLXFxdktieW5GT1A2SVpDTVRJTkFHb1ZxTnh4WC1zYVNzakQ4aHdROVhXM1VXbXVxcnhURngtWXZodDhkaXNBLXY3UkxVRDVETnhtZzV0cExjSlFfU3NybFowRDk3MjZxNHF3MXplZ3NRQllVS21LQVZaYk0xRFRtcERqZ1Z1NkQ1WnpKM2NLODNYYUFCaTlZZGg3cmpxMS1FNVBTNlZCUWV1eUVLTU04Mw?oc=5",
-      "pubDate": "Fri, 14 Aug 2026 16:36:23 GMT"
+      "title": "End dependence days: What India should and should not build - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMEJzaVY3T1VVX1U1c1NfSDZGT0VZLUNTYmdLVGR1Q2Q5UktuVHU4Z2JrRmhFbDU2QzdhemdBNkJmcXJVT0hnOEI5TmZhcU43RmlqSUU3aC1YMWlGd2xkTlZxYU9iRUNRWFhNSHVKRXlYZUpEUHltbmFDcHJ2VFRBWmp1eW1FNEhveWJZTEc4TlpVRUpBUjd5YVpOLVFVQTF5d2NpYWFUUkVldm9oOS1MNFN4U3czSGR4bkZORi10RUVtSkJ4dU5uaHE5b3lENWfSAdQBQVVfeXFMTUlNWFY0OXVPNHVfOXNMYS1RWWdvMUZ3cWpGanBMZVNmVl9CMG1CM1hzbWZ1aVdIWGt4amx3d2ZjOUliQnZJcDVfamgyRV9ueGtjaFdnUFJOUDBlVTE2U1g5WkZWVTltamNhQVRreDgyVkFRZnpNWWk4Um5YZnMxRC1TTzA4S0t5bWQwLTR5R3RXY0JBYkMyejdtNEo0eDZUc1pkT3libGJtLTBzWGQzN1p4bWJtUlRydll3alJPUm1Kdld3TW53SEgtLUg5akZqV3FhZUw?oc=5",
+      "pubDate": "Fri, 14 Aug 2026 17:37:00 GMT"
     }
   ],
-  "fetchedAt": 1786728515
+  "fetchedAt": 1786731972
 }
