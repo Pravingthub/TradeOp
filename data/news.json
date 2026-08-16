@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Gold Nears $4,400 as Traders Weigh Fed Interest-Rate Path",
+      "link": "https://www.livemint.com/market/gold-nears-4-400-as-traders-weigh-fed-interest-rate-path-11786897865527.html",
+      "pubDate": "Sun, 16 Aug 2026 22:01:05 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Traders Get Pickier After Big Run in $886 Billion EM Debt Market",
       "link": "https://www.livemint.com/market/traders-get-pickier-after-big-run-in-886-billion-em-debt-market-11786887262475.html",
       "pubDate": "Sun, 16 Aug 2026 19:04:22 +0530"
@@ -83,12 +89,6 @@
       "title": "SRK, Sachin Tendulkar, Madhuri Dixit-owned Purple Style may launch  \u20b9660 crore IPO this month",
       "link": "https://www.livemint.com/market/ipo/srk-sachin-tendulkar-madhuri-dixit-owned-purple-style-may-launch-660-crore-ipo-this-month-11786871581008.html",
       "pubDate": "Sun, 16 Aug 2026 15:32:23 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Upcoming IPOs: Lalithaa Jewellery Mart IPO, Horizon Industrial Parks IPO among 8 new issues to open next week",
-      "link": "https://www.livemint.com/market/ipo/upcoming-ipos-lalithaa-jewellery-mart-ipo-horizon-industrial-parks-ipo-among-8-new-issues-to-open-next-week-11786867799412.html",
-      "pubDate": "Sun, 16 Aug 2026 14:29:59 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -119,7 +119,37 @@
       "title": "Embassy REIT block deal: Bain Capital entity to sell up to 5.64% stake",
       "link": "https://www.cnbctv18.com/market/embassy-reit-block-deal-bain-capital-entity-to-sell-up-to-5-64pc-stake-19970339.htm",
       "pubDate": "Sat, 15 Aug 2026 21:08:55 +0530"
+    },
+    {
+      "src": "Google India News",
+      "title": "FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUGVBVFRLeXNkTzVRUks5T1ZFeGh5NnNLdHhiZXpkTnZubUNRbnl0WDJlMkwxQ09hTE9HNy1rZC1acm1QSkZsaElXMUQ4TFZrUlc4SUdqZTNuSFdjYWlULThhb01SbDdGZVRDeV9DWWQtWmtaTHRsb1E2TWlTZGo3RVU2Mnp4elRvMldkQjF3RGJqaVpkckV6MGlydDhleVlRaW9lTE5mRnR6Y1Y3bnRrbW1HdDRGd3JrQ2F6TXpiSzhjSld3TDlDZjViVzliZ3dVUEh5VDJiY1BVR0VXZVR2bTVWZW0xSmNPaDBqOS12S1bSAfYBQVVfeXFMTjMwVnJibWc0ODVKcFVacF8xdXV3Q1VVRHYyQ2Y3SFpseWJTRzNQOVlKZ2JTR3ZXVTRra3hKN2dBT1NwcjZtMk1fbGJ0eFFxR0wyaU5MYU9ZREp0RmMyMjRxUkVJQkVGdkZCcHFUWVdhM1dhenM0NGs4dFExb3Q5dHNLMGlxWVU4VW9GR0hfTHozaEUtZEtRakcyWk5nRUl2MjdCSDNmcWl4bmpRNlRfbFBnc1NkeE1Iel9JSk92Z2lxbnJkWWxnSDBzNW0xa1Zzc2ptQU5GVFBFWU90SG51VU90M3dDbWh5WGVtQ1UtbnZuZkpLQjZB?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 15:38:00 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "7Seas Entertainment Q1 Results: Filing Released, No Financial Metrics Disclosed - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcjkwdlhkNFkxdWVFWVVBRGowcTRvb0laTlZKNkpVWmIwX0xiUDg0Y1p0YzZEWmNPWUktUHpoOW93OWlGR3cwbWcwa0J6Qy0xVzZWSzM0NW0wbmZHc2RSSnBaTEt1ODdTaU1mWGs1RmRqeHM2YVMtMUZTU25WLXZJUll2WlJnM1NwSkdaNEtUSjhyOS1YY2dEcHVyU0lTSC1LaDBHSmhjMEJlaUpkRmlDVnlHSU5tSUJqRmFjaUd3YUgxUQ?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 16:12:19 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "India's Electric Car Exports Jump To $369 Million In Q1 FY27, Europe Leads Demand - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM1lfMDJCUXFTeWdTM0ZRMFkyVVRqOWdmbXNYa093OXJNdmxrVXEtY191M0w4TFJXWXhlaXUwRnNnSlk4Q3J3c2FnQ0tNQzlaVnM4QVhlLXdCQ3VVZE1nX0QyZ2FGUmd6a0c0alY0SEJUNUpqZUpBdC1IUkZsYnUtcUFVTDZNVjJILThGV0dMVmtlNUdMSjcwZkstUm55a3NwSGNzSjk2LThiVlBQZk8xR0RCUDVkc3RTdURoX01GOEzSAcgBQVVfeXFMTlFzVGxCckw5Q00zSEdXM1JlUFhIMXBlazdTU1E0Ry1LcU1TV1JRRy16d3dCeDNielZ5RjAxMk9oNmdnY2RnbXNxZl9udlVYYW5QVTNHYkt6Xy1IRFdrQlY4dU9iNC1rbWo3TG9jenlPTDBkVi1ub3dvd2lybmlNcHB3bkNabTZLdVBoaUEyTVZySDVRQkE4MkVyUmlvVDh0b25MYnpUT0J3anRlX01ZeGdHeGpqb1EwOERlMFo3dzZuN0liY05ENHA?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 16:03:37 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Drones take the field in Indian agriculture as services expand for farmers - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMUljdzA5RFVTMU5XdEs3TEcxSy1BT092MGdQY1VKMVhVaHN5S3EyenVZUEhRTHNKMDFUTzFaaFBaWko2QXAyYWhrdTVGaTlNTDZnYXpGU21hc0w2aTRpOFN1OTdHMlg1UHlTWHIwclZhcUtMNWl2YlI5T3kxUkVhUmNFVmtyS01kVllGMXBkOXVxSWRwc01ROTVGU3lSNmMzU3lyY2F1SUtTUTNfSWRKdU5lcnJVXzJ6XzFUV3N1d0VsZHl4VmJ4aHZhTVJvb0VQLXdkRTQ1TjBqTmF6WkJzVkZLZUx0NkxK0gHoAUFVX3lxTE0xSWN3MDlEVVMxTld0SzdMRzFLLUFPT3YwZ1BjVUoxWFVoc3lLcTJ6dVlQSFFMc0owMVRPMVpoUFpaSjZBcDJhaGt1NUZpOU1MNmdhekZTbWFzTDZpNGk4U3U5N0cyWDVQeVNYcjByVmFxS0w1aXZiUjlPeTFSRWFSY0VWa3JLTWRWWUYxcGQ5dXFJZHBzTVE5NUZTeVI2YzNTeXJjYXVJS1NRM19JZEp1TmVyclVfMnpfMVRXc3V3RWxkeXhWYnhodmFNUm9vRVAtd2RFNDVOMGpOYXpaQnNWRktlTHQ2TEo?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 15:38:49 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "UGC-NET 2026: NTA to reconduct English, Commerce, Sociology papers after errors found - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdnB5TF94eHhQcVlqU053X2o0bFduODROQTV1QVBMeUZQLXZOOGhHd3lQTGoyVHFETDhHRDlycktzdFZZX2ZRTXFiTFhQaXVFZkhxRVBKdW9SaTRhcHdMYWhZOHFmQm5LQ3U2UEEyNk9mS256NURLaTFhazhkc2NyMi1jaFVITE91QjhfS3JzUm5HNTNfcXV1R3J6WG1abU9QXzBzQXFIcXBwS013R29rZER4S0Z1NXpHVXEyNF9CTUNmTmwwOVFpTnAxZEFMVG1HRUx0UGdrTdIB1wFBVV95cUxQdnB5TF94eHhQcVlqU053X2o0bFduODROQTV1QVBMeUZQLXZOOGhHd3lQTGoyVHFETDhHRDlycktzdFZZX2ZRTXFiTFhQaXVFZkhxRVBKdW9SaTRhcHdMYWhZOHFmQm5LQ3U2UEEyNk9mS256NURLaTFhazhkc2NyMi1jaFVITE91QjhfS3JzUm5HNTNfcXV1R3J6WG1abU9QXzBzQXFIcXBwS013R29rZER4S0Z1NXpHVXEyNF9CTUNmTmwwOVFpTnAxZEFMVG1HRUx0UGdrTQ?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 15:37:23 GMT"
     }
   ],
-  "fetchedAt": 1786894181
+  "fetchedAt": 1786898080
 }
