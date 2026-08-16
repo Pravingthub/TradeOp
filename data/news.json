@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "9 penny stocks surge up to 325% in 2026 so far; 3 turn multibaggers. Did you own any?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/9-penny-stocks-surge-up-to-325-in-2026-so-far-3-turn-multibaggers-did-you-own-any/slideshow/133271258.cms",
+      "pubDate": "Sun, 16 Aug 2026 11:48:40 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Bonus, stock splits &amp; dividends: Bandhan Bank, MGL, Mazagon Dock among nearly 100 stocks turning ex-record date this week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bonus-stock-splits-dividends-bandhan-bank-mgl-mazagon-dock-among-nearly-100-stocks-turning-ex-record-date-this-week/articleshow/133270824.cms",
+      "pubDate": "Sun, 16 Aug 2026 11:36:49 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Will Sensex, Nifty continue to bleed on Monday? 4 factors which will drive D-Street action this week",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-continue-to-bleed-on-monday-4-factors-which-will-drive-d-street-action-this-week/articleshow/133270103.cms",
       "pubDate": "Sun, 16 Aug 2026 10:30:22 +0530"
@@ -19,16 +31,10 @@
       "pubDate": "Sun, 16 Aug 2026 10:02:38 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Zinc Rally: What's drivingprices to record highs and what lies ahead?",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/zinc-rally-whats-drivingprices-to-record-highs-and-what-lies-ahead/articleshow/133269883.cms",
-      "pubDate": "Sun, 16 Aug 2026 09:59:00 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Madhusudan Kela\u2019s portfolio: 7 stocks rally up to 135% in CY26",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/madhusudan-kelas-portfolio-7-stocks-rally-up-to-135-in-cy26/slideshow/133259821.cms",
-      "pubDate": "Sat, 15 Aug 2026 14:56:31 +0530"
+      "src": "Business Standard",
+      "title": "Mcap of 5 most valued firms erodes by \u20b91 trn, TCS takes biggest hit",
+      "link": "https://www.business-standard.com/markets/news/mcap-of-5-most-valued-firms-erodes-by-1-trn-tcs-takes-biggest-hit-126081600156_1.html",
+      "pubDate": "Sun, 16 Aug 2026 11:31:22 +0530"
     },
     {
       "src": "Business Standard",
@@ -55,10 +61,10 @@
       "pubDate": "Sat, 15 Aug 2026 16:20:19 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Oriental Infra Trust consolidated net profit rises 14.42% in the June 2026 quarter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/oriental-infra-trust-consolidated-net-profit-rises-14-42-in-the-june-2026-quarter-126081501153_1.html",
-      "pubDate": "Sat, 15 Aug 2026 16:20:12 +0530"
+      "src": "LiveMint Markets",
+      "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid US-Iran war uncertainty?",
+      "link": "https://www.livemint.com/market/stock-market-news/indian-stock-market-how-are-sensex-and-nifty-50-likely-to-perform-next-week-amid-us-iran-war-uncertainty-11786856501261.html",
+      "pubDate": "Sun, 16 Aug 2026 11:50:29 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -83,12 +89,6 @@
       "title": "Alphabet made 100x on SpaceX, now Nvidia reveals $21 billion stake: Why Musk\u2019s AI push matters",
       "link": "https://www.livemint.com/market/stock-market-news/alphabet-made-100x-on-spacex-now-nvidia-reveals-21-billion-stake-why-musk-s-ai-push-matters-11786807124032.html",
       "pubDate": "Sat, 15 Aug 2026 21:32:10 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Paytm shares jump 11% this week, biggest weekly gain in 4 months; what's driving rally?",
-      "link": "https://www.livemint.com/market/stock-market-news/paytm-shares-jump-11-this-week-biggest-weekly-gain-in-4-months-whats-driving-rally-11786725323997.html",
-      "pubDate": "Sat, 15 Aug 2026 18:30:15 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -119,7 +119,37 @@
       "title": "Institutional investors reveal cautious approach to tech favorites in US quarterly 13F filings",
       "link": "https://www.cnbctv18.com/market/institutional-investors-reveal-cautious-approach-to-tech-favorites-in-us-quarterly-13f-filings-19970194.htm",
       "pubDate": "Sat, 15 Aug 2026 12:28:55 +0530"
+    },
+    {
+      "src": "Google India News",
+      "title": "Indian stock market: How are Sensex and Nifty 50 likely to perform next week amid US-Iran war uncertainty? - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOTMzdnJjN2R1VU1qeHIyRXphNk51SW5vU1lyLVZqdk14bVdsNWRZWDZQQW5FTWp1a3BMUHh0cnMydWhaUnlXWG9YRTFBUEpJMDJqYWhpNXVyYmFzWFVLcHJyUGl0ZkhvZHVvZ3JadWpFSDFiSkZQX2UwdDJzMEZuakRZWTlHTzRkcjBMTDZSSnd5X1pPdzBqRFlURW41N2ZmNW4tVlJtLWZGMXF2cjAzWnBJUnlTS0xJbFNVRjJzcDNlWkRleXhkLXNKMU5KTVZnXzEteE4tSi1NcUpGY0ZLdlFJZDF4M3hkeFljS0FfWWw2eEd6cHRFRlpyMjlqZkFZY3d1c9IBigJBVV95cUxPbFk4dWg3cGhKVFpwR0tlZGlNd3Q5cHU5UDREY2ZBNWtiNEJoV2JRcExsSk9NUDE3ZW5vZEFOZjIySTZKMENxR0ZhbFI0ZmxKNHlXYnV2cmZoc2otcUJHYndIVWU2TGdWeHU2MDBIUElhQ3BpYzhRQXdMOG1qQndXbFNTbGNaYlhFNDAwNEdaMWNmUDhWeE95U3J6MVJGYnB3Q0pwRms0M21zUFhlS2d4WGZUWnQwaXQ5S1FvVkFqcmdzSjQwWnhBaWhLWGNCZlVJb3hUdzFDTVBKd0tGc3huWnZtWC00WWZ1TkFXTUZFM1pfQjNxdFJiamNranRIWlVYU0ZIYUgxTE9qQQ?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 06:20:29 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "9 penny stocks surge up to 325% in 2026 so far; 3 turn multibaggers. Did you own any? - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTzd2SDVqak42V3NGZk5MVnFaal9tQWIwNC1QR3VybGFDNENWLWc5MmFBM3VBRFYwUnJaYzdsREZkZGlKc1M4M2lqUFRKcnZ4S3NOc2w5cTJ6WE9vOERQMnRhT0p0ZkYtMklFc3E2Qzcza21jb09ZcnNqQzJORGVFWUFxMl85Z01Wb05CVkNuNjhKMk5fTVRJOTJVZ25pM2p6elpPZlFSYjB5RVhvSGZEMEpXbVZOVlhfci1iRm5lRDJLbXdXZzM2dkNmejR4MHF1LVMySjhPWU1ialBORnprTGI3U2NwM2pD?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 06:48:15 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "SBI Securities bullish on banks, NBFCS, defence; Shriram, Baja Fin, L&T, BEL are top picks - BusinessToday - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmRTY2dyUExlNGZJYURubUR5RGoxa2NPX0xETXJPM2pVYU16dHlyWUctOHVyckhqMENPcXVOVzgydHBQYXE1WDBMYmJvTXpITE1yOTVqVVRmbEZiT3VaM1I4TW4wRnVRa2VTMFJXZW1pMU1JV1U4S2JBWHNtYnNIaWlHQjN5YlRNTTBUQWtjcmlsNVZBS0xwdWpiU2UweFk5QXp1bmlKU2wzcTZVQUJqY0ZMRE5hNy1JMXA2WjBjTU5Ea3lDal9UNkt3U0Qtdw?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 06:36:38 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Mcap of 5 most valued firms erodes by \u20b91 trn, TCS takes biggest hit - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSzhOMHdKR1FYa3kxQkhhb0hSaDM4Yk9nREEtYlpEejI2QnJoZUx3WGFrdmJmcnNjdUtZTzM4aU9GbmJIM3ZNWHJYOWs1cTh6SzNxdzdfdGFoRTFjeWJZQnFLWnItblVrWk52WVRoakx0YTVzRGVmRllSUVBEQ0xSUERnazYtWFpEQ2tRRjFMR2pmNDBYYjk3VlJHZVI1dExOWGE2ZC1tWFdtc2xURXdaVUFYNnVDUEVGai1kQUtlZ1ljR1RZV2ZNZFJMaFPSAdIBQVVfeXFMTVAwaFBrbFVkS1dEbFdiYnltMy0yWEk1T1dXcjhiS1YyS3AteThVaEw4R0dEcHlwWEp1Q2E5bGM3akh2eS0tSFNacXdlNzZpdzJlcnlnV0FzZDFydDhsU2NFYU1ZbWZHd0xVU1Eza3p2ZEpkUFFGOFZHSWV0bTVmalAzSVNOSnBiR0xHMVMzRHJmX0lGbmxNVEpHVTFRWFZOVVY4ejktaUdsWTA1ZnFTWUdMaXBIYVYyeW15N1J4LTNfRDZ4SFZrWk9qN1Y4cmt3Wml3?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 06:01:22 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Beauty, cosmetics segment to be key growth driver for EPL; raises near-term revenue guidance - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOejZYVnZoU0VnUnVlQWVHby1TbEZRdHE0bGY2OWpHN29BVEpqUXp0c2wybzRBazJ4X21teVhMMFItRzZPdjE0VmJmSFNiVV9QODFVTXJ1OVJUNm1XRlVLdk9ranNERDNEaU5oa0pMUmh3VXUyU2d3OTg3Ujg1b2F3VlR5WTg0UGhkUmU3NUVIY1BIOHQtbWxYdnhXd3lNUU9UY29rZjdBeG1nbXItaFFpd3EyM3FLQ0RWRVVXNEdjZjh6eE50YndwTkw1cElxS1N2ZGVpRjZLcUs4S1d3YkdZb1BybmducjZwb05VNXpfX3NWQndvWHpIZkF5TlRlVlJSTWFJQTZFQ0JfRE40WjBsUHJXekhqd2ptY2hnbzdwZFpMOUhKb25KVjJZZG9VVWVPLVVQWjlJeFpaM2FpbnhKdFFZVHVTcDlrRHEwU1JZV3ZESVBObjllLThraXBzUnBrOGxoM9IBgAJBVV95cUxOcjE0aUhQbzI0V2VTMm5XZjQyTVJFQllsYWcxaGZiTFFaRXZMTTVUZDVXN3pZa2NpTTJvME84VW54bHd0NF9McGlFeW1ueEsyZzJkRWFuT1dXajF2OUkwV2dqY2ZRWWVKLXI5anRoakR2UVRhRU5haTJrcDlLSUNiZzVsOFpfczB6bFBwbEVYdWlqWnNzQi04VEd3TkMtZ0FRVk1aR280SnNtQnNuc3ZWUWZJZjFrTE9HT0dPZmFESktpdGRKTkd0MzZGZVhTMEk1eWFVUUwzWnpMRHd3c0N5NFBlUUx6T255Q0RydFYwemZybjh2UGgzSmREQno4dzNI?oc=5",
+      "pubDate": "Sun, 16 Aug 2026 06:00:59 GMT"
     }
   ],
-  "fetchedAt": 1786858540
+  "fetchedAt": 1786863181
 }
