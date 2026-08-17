@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Copper hits over six-month high as LME supply concerns mount",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-hits-over-six-month-high-as-lme-supply-concerns-mount/articleshow/133301659.cms",
+      "pubDate": "Mon, 17 Aug 2026 22:15:41 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133301222.cms",
+      "pubDate": "Mon, 17 Aug 2026 21:32:23 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "ICICI Bank raises $750 million as Indian banks tap dollar bond market",
       "link": "https://economictimes.indiatimes.com/markets/bonds/icici-bank-raises-750-million-as-indian-banks-tap-dollar-bond-market/articleshow/133300962.cms",
       "pubDate": "Mon, 17 Aug 2026 21:19:10 +0530"
@@ -17,18 +29,6 @@
       "title": "EyePoint's drug for age-related eye disease fails late-stage trial, shares tank 70%",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eyepoints-drug-for-age-related-eye-disease-fails-late-stage-trial-shares-tank-70/articleshow/133300818.cms",
       "pubDate": "Mon, 17 Aug 2026 21:05:40 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Following live trading strategies on social media? Sebi has a warning for you",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/following-live-trading-strategies-on-social-media-sebi-has-a-warning-for-you/articleshow/133300766.cms",
-      "pubDate": "Mon, 17 Aug 2026 21:01:33 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Paytm block deal: Resilient Asset to sell up to Rs 4,895 crore stake at 3% discount",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-block-deal-resilient-asset-to-sell-up-to-rs-4895-crore-stake-at-3-discount/articleshow/133300443.cms",
-      "pubDate": "Mon, 17 Aug 2026 20:41:40 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Yes Bank eyes dollar bond market after six-year hiatus, arrangers appointed: Why now?",
+      "link": "https://www.livemint.com/market/stock-market-news/yes-bank-eyes-dollar-bond-market-after-six-year-hiatus-arrangers-appointed-why-now-11786981933063.html",
+      "pubDate": "Mon, 17 Aug 2026 22:18:28 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Paytm promoter entity Resilient Asset Management to sell up to 4.98% stake",
       "link": "https://www.livemint.com/market/stock-market-news/paytm-promoter-entity-resilient-asset-management-to-sell-up-to-4-98-stake-11786982359516.html",
       "pubDate": "Mon, 17 Aug 2026 21:36:57 +0530"
@@ -85,10 +91,16 @@
       "pubDate": "Mon, 17 Aug 2026 19:25:22 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "US stock market today: S&amp;P 500, Dow futures steady after 3-week winning streak; oil rises on Hormuz risks",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-s-p-500-dow-futures-steady-after-3-week-winning-streak-oil-rises-on-hormuz-risks-11786969512356.html",
-      "pubDate": "Mon, 17 Aug 2026 18:21:48 +0530"
+      "src": "CNBC TV18",
+      "title": "Netweb Technologies launches \u20b91,200 crore QIP at indicative price of \u20b94,710\u20134,790",
+      "link": "https://www.cnbctv18.com/market/stocks/netweb-technologies-share-price-launches-rs-1200-crore-qip-at-indicative-price-of-rs-4710-4790-19971323.htm",
+      "pubDate": "Mon, 17 Aug 2026 22:15:50 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "What makes a good hospital stock? TVF Capital's Shiv Puri says it comes down to three things",
+      "link": "https://www.cnbctv18.com/market/stocks/hospital-stocks-3-things-operators-must-get-right-shiv-puri-19971310.htm",
+      "pubDate": "Mon, 17 Aug 2026 21:50:01 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,16 +121,10 @@
       "pubDate": "Mon, 17 Aug 2026 21:08:31 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Sebi says cybersecurity now also board room issue, need caution in AI deployment",
-      "link": "https://www.cnbctv18.com/market/sebi-says-cybersecurity-now-also-board-room-issue-need-caution-in-ai-deployment-19971271.htm",
-      "pubDate": "Mon, 17 Aug 2026 20:20:30 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Paytm Block Deal: Vijay Shekhar Sharma\u2019s promoter entity likely to sell 5% stake at \u20b91,535",
-      "link": "https://www.cnbctv18.com/market/stocks/one97-communications-share-price-paytm-block-deal-vijay-shekhar-sharmas-promoter-entity-likely-to-sell-5-stake-at-rs-1535-19971244.htm",
-      "pubDate": "Mon, 17 Aug 2026 20:06:28 +0530"
+      "src": "Google India News",
+      "title": "Top 10@10 | Nifty falls for fifth day, DIIs counter FII selling, and India Inc ends earnings season on a high - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTVR6TVRpWGphcDlqSm5WNTB0ZE13QXoxXzJEQm92UzRUTmNmWlE5ejB2cEQ2SDlQX3kyekRNSzNPUEtHUVV4czNmUWNmTkZuaHlzbUwyc0ZGRnFYS0hSTVBQSWhBUlFFTlhOTm12VGVHalRLSTR3UWJHWkxaNk5GS3pQamRmNnkwMWF4VVpKaHpPaW5aX25MMm94ZjVoZWx1UnZQaTY5TFNJQzFYNDhTcXlzc2Q4d0VHQVdTREJ0ckZCaWxTZUxRR25SaG5IQkV4eFQ3dlpiM0steVBGaTR1UTlPZGVhUdIB6wFBVV95cUxOSm9DZkh6TG1VWTJHa290VEtQaVlQU01jTkVGVGxBSEJESHkzd2FwYTBsMGtYVTZmbGZQdTdTTGZSM0RsblM5bFlpOGM4eDNqSzV4a1pueDI3UFJuWUFmd2hlVk5NdGgtbkVUalpUNTZMTzBXSEZuUllMbWIxSmVjVnVTWDRZUTNHZVB0RXpCSk5XcG9UU1BULTVFek96RzhXRWJpaXNSMTlfd0I5NllGYjR1TE1SY21zbmcwTWgwWWRmZjVjRXNoWnYtRVhZOE8wSllTMG4zQ2E5dVpmTHQxQ0tsQVlHaFEyUzBz?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 16:31:05 GMT"
     },
     {
       "src": "Google India News",
@@ -128,28 +134,22 @@
     },
     {
       "src": "Google India News",
-      "title": "Indian Bank schedules investor meet on August 20, 2026 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHgydHE2XzZUVGJqMDQ3WDYwNlZOTG5aWGc1QkdGOUp0MTJlaW03WG5HMXVjWkg0d1ZncmNHU1lxRkhHVmFza2drMm16ZEZhZDFUcF9kdjJJcEFUVW5iLS1YUTBUUkVsaVR1Y3FpTkZMN19yYkVfY0Y1MGhYcll6ZmtxRm51a29jN1c0cXQ1Szc2TDFLQmh3dTJRaDhlQnFfSDRkbDhoRDFRemc?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 16:18:06 GMT"
+      "title": "India\u2019s mutual fund industry grows! Assets under management hit new record of Rs 85.76 lakh crore - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTXJyX3J0NFNYMmJkTUNna2NBd2NyQzFPOEo4bkFPN1NPV2lBc1ZCYmNNcjBpeDl6Q21QcU5Zam9HQ1pMRHlURThJNE5ZWFdkOUhKd2ticXk1WVRwczBOUHRPRnYzb242WjYtMjRFODVJUzFBaUZvU1N6TVdDS2hTOTJwRC11cDJwWDVFYkw4VWJMZ00wM3ZydTh2T1FsRUZzU3dxSlVPbFMtTkV4eXlRb3JtWnZ2S3JqQjVFMHdDaGZkOEtyaXh5c21tc21tZkhacGNmU3pkS202N2xOVENFU2M0WVp0SUdfalA3YnZaZWd6bkdSVVpHcWJzU3JtOXdXeWg3SWtOeFV1bU9vTGfSAZMCQVVfeXFMUEZUclFTcjNGdjFHdXNsYWMxNFRoa3BKc0o5b2lhd205Y0ZPbWRCa1VRUDlLUnEwLUx2SXN5azM3TmpkeDNDWkgxRGs5ZHMycDRKaWV2MEd1ODV6LXY2QjJKSHg1ek9QS3ZqZU95eVpMWUdpYWJCNEFqMmd2TEdMVVA4cThUYkxIOFhFV3Fqa0wwT3duS01VNFVjcENWSElYbk9WV3EtaUl5TUktQ2lIRFk4WWxhZFFzeklvYl9VRlJmZjVRc3Y3UmtQN0t4Y0paQ21wcENlUV9nWVBMazB5aTMyLUlid3RBY1hmZTJrMWh0a1BmX3JzTWd5R2I2X0RRX0JmdlloMHVRWklaU1JyejNWYlU?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 16:30:00 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Netweb Technologies opens QIP issue; floor price set at \u20b94,885.90 per share - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMjlOTERpbm5Hc1NCNWQ4WnZCVVBvQjNlNzJtVk45UWthYjdoQ0NOS2lQTmJpSUZXN2ZKOU4yaGgydzY0QmlUX1o2MUN1ZHZZeW5IUjNONG9FZG1TNUFQQ0trSzR5WEt1Q3d1T1BHSGRmVTBSYWtHRzRBWHBxbUJfLU9MVTYyaGRzbUZsUWJpQ180RXNmR2UtX0ZYWDQ0ZC1nakU5WDl3Y2ZNNkZiNXRaSmw5MnRBNmMwamFZQ3FLS0tvXzFraHc?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 16:06:01 GMT"
     },
     {
       "src": "Google India News",
       "title": "Paytm promoter entity Resilient Asset Management to sell up to 4.98% stake - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPZ0ZRSXhRb0E1X0VxUzNqTGEwZUN5NDdtQU1FeDBLNEdDMU9GbkZrZ0RqQUFwenMzMjdmNzYxWHgwZ2VGWDlNbWhYU3I5c0llXzVySTZieUJvVVl1NEp3VzlkNE52cGtSYXJQSEEtaVF4MnZIMjc2bnROQlJObi0zYnd4b3JfWW1EaDVITDdDQ1VnZXJDbVhmUnh3T0lqLW9YZkRUbXB2bDk2bnBRdWRUZi1wTXlORnlZUmJ6SW9ob0pyZmx4d2ViaHFvb1NSUndnazNoakxEUDFTYUnSAeABQVVfeXFMTV9fQ253V2RmN2xMd0tHdmRmU1hnWnB6Z0lBVERNRXI2SFNCNFdqcGZxWVo4Z09qLXZTT2VMV1pPeVM3STRNQVRxaXJPZndHWFVza3hpbkFLNk0wTEpBa0JtdHVfT1VETTRqWEQweS1HLWQ5XzVPc09rZXJPOHNqaThEdmFjWnZFMGdPcFBYdTZ4MzdPQ3pGTlBWQy1DeWtPX2JFbkxMRUwxVWxyelJocGJYR09pWndScGYyeXJwdGhTUE80THdJakhIRk1PSnYzT0JaTVJSZnF1cERCWGQ0clI?oc=5",
       "pubDate": "Mon, 17 Aug 2026 16:06:57 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Baba Ramdev reacts to 'Dimagi Naxal' row amid opposition\u2019s 'I Am Dimagi Naxal' remarks - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYTlKSXZYTDdaUEpwaUhWaks3Zkt2R09RU0NHSmZuU1RTeU1TS0g3LTM3LWlVRVBVZmg1VVFyblBBbGVfNTRLRnkwa1l4WFJXNVl5cWlkLW51N2NtRVpma2FpTHRoSTJUSG1lTFVfYnFkaWJ5QmxxTzRQTFBZYTFfN1FQY1p1UEt6WnozY0pVVFJ4amVlRWQtZUpJRnBuZlZQTW0weDlrUjJ0QjZoZnh0UW1FMWJvc05BRlQxZnVSQW5WQTE1dU5OSkZ0RmJ6a2RmdUtUMnV4MlN0WTVLY001dzlEUlJNUU5oQndaeTJwZ9IB9AFBVV95cUxNWGlfcXo3TlRIaDZTUldWOWxKajVlbjZPX3k4Q0pWX1IzZG5fTW5tNVM4c2JVLWtQVGhZU3UzWndadUtsRDRTRUtkdUhpcUM3aXplWkI5LUVGQXkzNFUyLUhZMm9teGdBUThwN3E1WXdlWFFjOXJ2RkNiUWFRLXZTZWlyX2U3RVVGYVRhTmJwMnZtVHZmVFBTTHBma3p5T0hWcm5SMkFENnpsalhmSGRFazZMdWJuR096UzdCNGdtVW1kckVaYkhjMnhLT29pWWlEWHM5a0hsQ1ZiZXFtdGhMeWJKOVFSbVRTa3pmLXZSZlpadlFj?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 16:09:32 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "EyePoint's drug for age-related eye disease fails late-stage trial, shares tank 70% - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNX2ZrRThOUll4ak9FaFdJU0ZNTnFLODhPdk0tNkljNEJuVTV5R1otZG1nLVotX04ydGFqRi1YT0pTSzdIMmN0T3Z5LW8wcnZYNWhiUDlNeGtmTFZSYkVHR1gzNzQxUk9EejFvNURSVkl6M2JWOUthMlpGS1FPTmRUZTdCckhIUXRMdFR3a0lqSmgtSHZ3SzF4S2l3WHJpM1dyVjdoYjNDZkhVT2NTa0tDTVFZaWdRUWxQMjcxOXJwbTNzNUd0VDV4MmZIT2hfekhSdEdURG5UV0FtUUF3ai1KLUNLSElzRVprYm9iang3T1dLUmtQLThGVHMwVkFCZ0pNeGNweDZzQngydmQzM2l6S1ZmM2taWE9YV25lbUhUbmhaWEE3QXM1NWdJQmtqMFA0bnp0QUgzM0NPdEJJX1VxR19TSG9sOXhkcXZRbWdXWHVESXpXTzFn?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 15:35:40 GMT"
     }
   ],
-  "fetchedAt": 1786983949
+  "fetchedAt": 1786985772
 }
