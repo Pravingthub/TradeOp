@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "India\u2019s six listed REITs distribute Rs 3,136 crore in Q1 FY27",
+      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indias-six-listed-reits-distribute-rs-3136-crore-in-q1-fy27/articleshow/133291635.cms",
+      "pubDate": "Mon, 17 Aug 2026 14:20:09 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "BSE launches 3-day SLB contracts to boost short-term securities borrowing",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-launches-3-day-slb-contracts-to-boost-short-term-securities-borrowing/articleshow/133290993.cms",
+      "pubDate": "Mon, 17 Aug 2026 13:42:33 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Global Markets: 5 big triggers to watch this week",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-5-big-triggers-to-watch-this-week/slideshow/133291128.cms",
+      "pubDate": "Mon, 17 Aug 2026 13:35:07 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Stock picks of the week: 5 stocks with consistent score improvement and upside potential of up to 23%",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/stock-picks-of-the-week-5-stocks-with-consistent-score-improvement-and-upside-potential-of-up-to-23/articleshow/133290598.cms",
       "pubDate": "Mon, 17 Aug 2026 13:26:59 +0530"
@@ -13,22 +31,28 @@
       "pubDate": "Mon, 17 Aug 2026 13:23:30 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "BSE shares tumble 5% after Jefferies downgrades stock to Underperform. Here\u2019s why",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-shares-tumble-5-after-jefferies-downgrades-stock-to-underperform-heres-why/articleshow/133290430.cms",
-      "pubDate": "Mon, 17 Aug 2026 13:13:42 +0530"
+      "src": "Business Standard",
+      "title": "Schneider Electric Infrastructure slumps after dismal Q1 performance",
+      "link": "https://www.business-standard.com/markets/capital-market-news/schneider-electric-infrastructure-slumps-after-dismal-q1-performance-126081700618_1.html",
+      "pubDate": "Mon, 17 Aug 2026 14:16:12 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Alibaba Earnings: Can AI bets power the next growth wave?",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/alibaba-earnings-can-ai-bets-power-the-next-growth-wave/slideshow/133290796.cms",
-      "pubDate": "Mon, 17 Aug 2026 13:09:42 +0530"
+      "src": "Business Standard",
+      "title": "$115/bbl: CareEdge pegs oil level seen turning OMCs' operating profit red",
+      "link": "https://www.business-standard.com/markets/news/oil-prices-at-115-bbl-careedge-pegs-level-that-could-turn-omcs-operating-profit-negative-126081700591_1.html",
+      "pubDate": "Mon, 17 Aug 2026 14:08:51 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Global Market: AI investment story shifts from spending to picking the winners",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-ai-investment-story-shifts-from-spending-to-picking-the-winners/articleshow/133290209.cms",
-      "pubDate": "Mon, 17 Aug 2026 13:01:50 +0530"
+      "src": "Business Standard",
+      "title": "EMS rises after securing work contract worth Rs 129 crore from Municipal Corporation Jodhpur",
+      "link": "https://www.business-standard.com/markets/capital-market-news/ems-rises-after-securing-work-contract-worth-rs-129-crore-from-municipal-corporation-jodhpur-126081700598_1.html",
+      "pubDate": "Mon, 17 Aug 2026 14:04:11 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "Adani Power Ltd slips for fifth straight session",
+      "link": "https://www.business-standard.com/markets/capital-market-news/adani-power-ltd-slips-for-fifth-straight-session-126081700597_1.html",
+      "pubDate": "Mon, 17 Aug 2026 14:04:01 +0530"
     },
     {
       "src": "Business Standard",
@@ -37,119 +61,95 @@
       "pubDate": "Mon, 17 Aug 2026 13:50:11 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "BSE slides after foreign broker downgrades stock to 'underperform'",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bse-slides-after-foreign-broker-downgrades-stock-to-underperform-126081700584_1.html",
-      "pubDate": "Mon, 17 Aug 2026 13:50:02 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Equirus' $20trn economy roadmap: List railways, cut TDS, end STT & more",
-      "link": "https://www.business-standard.com/markets/news/equirus-20trn-economy-roadmap-list-railways-cut-tds-end-stt-more-126081700547_1.html",
-      "pubDate": "Mon, 17 Aug 2026 13:35:46 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Ola Electric unveils its Shakti energy storage portfolio",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ola-electric-unveils-its-shakti-energy-storage-portfolio-126081700546_1.html",
-      "pubDate": "Mon, 17 Aug 2026 13:31:02 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Sebi launches portals to strengthen cybersecurity incident reporting",
-      "link": "https://www.business-standard.com/markets/news/sebi-launches-cyber-portals-to-strengthen-incident-reporting-information-sharing-126081700515_1.html",
-      "pubDate": "Mon, 17 Aug 2026 13:07:50 +0530"
+      "src": "LiveMint Markets",
+      "title": "Shankesh Jewellers IPO opens tomorrow. GMP, size, review, other details about  \u20b9367 crore public issue in 10 points",
+      "link": "https://www.livemint.com/market/ipo/shankesh-jewellers-ipo-opens-tomorrow-gmp-size-review-other-details-about-rs-367-crore-public-issue-in-10-points-11786955563602.html",
+      "pubDate": "Mon, 17 Aug 2026 14:33:50 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Reliance shares briefly slip below  \u20b91,300 amid volatility: Buy the dip or wait?",
-      "link": "https://www.livemint.com/market/stock-market-news/reliance-shares-briefly-slip-below-1-300-amid-volatility-buy-the-dip-or-wait-11786950918125.html",
-      "pubDate": "Mon, 17 Aug 2026 13:42:30 +0530"
+      "title": "Cochin Shipyard shares extend losing streak, drop 4% after Q1 net profit falls 19%",
+      "link": "https://www.livemint.com/market/stock-market-news/cochin-shipyard-shares-extend-losing-streak-drop-4-after-q1-net-profit-falls-19-11786956032258.html",
+      "pubDate": "Mon, 17 Aug 2026 14:32:36 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Baazar Style Retail shares hit 5% upper circuit on reports of Aditya Halwasia buying company shares worth  \u20b9163 crore",
-      "link": "https://www.livemint.com/market/stock-market-news/baazar-style-retail-shares-hit-5-upper-circuit-on-reports-of-aditya-halwasia-buying-company-shares-worth-163-crore-11786948034095.html",
-      "pubDate": "Mon, 17 Aug 2026 13:08:49 +0530"
+      "title": "HAL vs BEL vs BDL vs Mazagon Dock Shipbuilders: Which defence stock to buy after Q1 results 2026?",
+      "link": "https://www.livemint.com/market/stock-market-news/hal-vs-bel-vs-bdl-vs-mazagon-dock-shipbuilders-which-defence-stock-to-buy-after-q1-results-2026-11786954170289.html",
+      "pubDate": "Mon, 17 Aug 2026 14:24:54 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Pramodini Medicare IPO allotment in focus today; latest GMP, 5 steps to check status",
-      "link": "https://www.livemint.com/market/ipo/pramodini-medicare-ipo-allotment-in-focus-today-latest-gmp-5-steps-to-check-status-11786947676585.html",
-      "pubDate": "Mon, 17 Aug 2026 12:28:19 +0530"
+      "title": "India's steel pipe makers tap West Asia as all eyes on energy transport",
+      "link": "https://www.livemint.com/market/steel-pipe-stocks-west-asia-oil-gas-pipeline-demand-welspun-corp-jindal-saw-man-industries-ratnamani-11786944806720.html",
+      "pubDate": "Mon, 17 Aug 2026 14:09:50 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Sunshine Pictures IPO: GMP signals 15% listing pop; dates, price band, other key details in 10 points",
-      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-gmp-signals-15-listing-pop-dates-price-band-other-key-details-in-10-points-11786946572088.html",
-      "pubDate": "Mon, 17 Aug 2026 12:15:14 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Behari Lal Engineering IPO allotment today. GMP signals 29% listing pop. How to check status online?",
-      "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-today-gmp-signals-29-listing-pop-how-to-check-status-online-11786943306004.html",
-      "pubDate": "Mon, 17 Aug 2026 11:27:37 +0530"
+      "title": "Vijay Kedia portfolio: Arihant Capital sees over 90% upside in this infra stock. Should you buy?",
+      "link": "https://www.livemint.com/market/stock-market-news/vijay-kedia-portfolio-arihant-capital-sees-over-90-upside-in-this-infra-stock-should-you-buy-11786952782416.html",
+      "pubDate": "Mon, 17 Aug 2026 13:51:06 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "PhysicsWallah shares jump 8% after Q1 revenue rises 24%, JM Financial upgrades",
-      "link": "https://www.cnbctv18.com/market/physicswallah-share-price-jumps-after-q1-revenue-rises-jm-financial-upgrades-19970914.htm",
-      "pubDate": "Mon, 17 Aug 2026 13:43:10 +0530"
+      "title": "Tube Investments expects full steel price recovery, margin improvement in FY27",
+      "link": "https://www.cnbctv18.com/market/tube-investments-expects-full-steel-price-recovery-margin-improvement-in-fy27-19970960.htm",
+      "pubDate": "Mon, 17 Aug 2026 14:33:07 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Mazagon Dock Vs Cochin Shipyard Vs Garden Reach: Which PSU Shipbuilder stood out in Q1",
-      "link": "https://www.cnbctv18.com/market/mazagon-dock-cochin-shipyard-garden-reach-share-price-who-stood-out-in-q1-metrics-results-outlook-returns-19970857.htm",
-      "pubDate": "Mon, 17 Aug 2026 13:06:07 +0530"
+      "title": "Hindustan Copper shares surge over 7% as global copper prices near record high",
+      "link": "https://www.cnbctv18.com/market/hindustan-copper-share-price-surge-copper-near-record-high-nifty-500-top-gainer-lme-tariff-anupam-mishra-19970898.htm",
+      "pubDate": "Mon, 17 Aug 2026 14:26:59 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Motilal Oswal sees opportunities in NBFCs, IT as earnings momentum improves",
-      "link": "https://www.cnbctv18.com/market/motilal-oswal-bets-on-nbfcs-it-recovery-and-two-earnings-baskets-as-market-mood-turns-positive-19970867.htm",
-      "pubDate": "Mon, 17 Aug 2026 13:01:40 +0530"
+      "title": "Here's why shares of Suzlon Energy and Inox Wind gained up to 6% on Monday",
+      "link": "https://www.cnbctv18.com/market/suzlon-energy-inox-wind-share-price-key-reasons-why-stocks-went-up-monday-cerc-permission-impact-19970944.htm",
+      "pubDate": "Mon, 17 Aug 2026 14:15:44 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "\u2018CAS is here to stay for sure\u2019: SEBI Chairman says regulator will look at constraints",
-      "link": "https://www.cnbctv18.com/market/cas-is-here-to-stay-for-sure-sebi-chairman-to-look-at-constraints-issues-19970861.htm",
-      "pubDate": "Mon, 17 Aug 2026 12:57:38 +0530"
+      "title": "Gold, silver prices gain on MCX: How rupee, global rates are driving bullion",
+      "link": "https://www.cnbctv18.com/market/commodities/gold-silver-prices-gain-mcx-how-rupee-global-rates-driving-bullion-19970951.htm",
+      "pubDate": "Mon, 17 Aug 2026 14:10:06 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Belrise Industries optimistic of margin improvement as cost pressures behind; Stock down 7%",
-      "link": "https://www.cnbctv18.com/market/belrise-industries-share-price-q1-results-guidance-margin-improvement-cost-pressures-behind-jefferies-19970844.htm",
-      "pubDate": "Mon, 17 Aug 2026 12:43:25 +0530"
+      "title": "SpiceJet settles \u20b960 crore Aviator ML dispute, NCLT defers orders in 8 insolvency cases",
+      "link": "https://www.cnbctv18.com/business/aviation/spicejet-settles-rs-60-crore-aviator-ml-dispute-nclt-defers-orders-in-8-insolvency-cases-19970920.htm",
+      "pubDate": "Mon, 17 Aug 2026 14:07:20 +0530"
     },
     {
       "src": "Google India News",
-      "title": "Dolphin Offshore Enterprises (India) Ltd. (DOLPHIN) Share Price Rises 8.22% Today - Univest",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlh0RjVhTEtMeGNfS1h0ZDFiWWZ5aXpWell3MnM1WjdVN3UwZmJ4VFNVWVBvR1M0U1hDeGFtNVZhREstdmhSX3JTMlJvajFjTE82NnJKUkhZWkxQeHIwZkV4dHhWY00tWXpqT2FYaU9CdDd1NUY4UjF2ZTcydmtvbUxHRDNhRWNZcDJLaTdpX2JkXzZycEx1TTJYUQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 07:54:00 GMT"
+      "title": "Why BSE Share Price is Falling - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNYzVfb056N3gtYXMzdXRJYTBJX09fOVFkWVdSU2hGcElFNmF3eGhrSFRwaXE4V0dLMTFSUklOZFBWWkFZeUxicTZBT3RlaTVUQ3dOdnJzeTlmN2xVaXJpdHFkUjMzX0VHYXZ5YUV2VHNxckZuLUhqT1V2SkZkTTlSZE4yYjFjVzVoT0taNm5nTlNDeXNkMHpFZzFsQ0h1SzBSeG91ZjJsZWVfaWNYMVlRVzlPcVBwX3NiS0QzcXQ1RWd2QUJBMEdCMU1nNnp4UlVfa2lZMndZbS04eHd4NGN2NlZXWkUyeGVXY1FaOVFFM1QxOW5INkktUjJoc3FreVhkNWhNdHZCUXNqYklEMTBv?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 08:56:21 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Molbio Diagnostics Makes Strong Stock Market Debut, Shares Open 21.44% Above IPO Price - chshyd.in",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9waFBhWTRGZl9Yc0RIMU1mM182anUydHlydmxTRkhJVUZzTGhCYlpsM1o1SWRza0dqNF9yNGlTX0NrbHFYMHdSVkU3TlpaZFV4eFVZaV9MVnpvM1pOWmdVX2lfamN2Q2R3VWlweEpROEpmQQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 07:30:46 GMT"
+      "title": "PTC Industries, IPCA Labs, Physicswallah shares surge amid spike in volumes; check full list - upstox.com",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRkJ2ejRkN1hGd0lXVHBGcFJDcVA5YUVmMWlwdXNvaGgxZkNfTlloTjUzZzlwNGo3S3huUVpORXU2UmJESFY3bHczTTNUUWtrZUE4emxlV1oyTzYzSGQ5cmxQRFc5elk3NXpabFhsNVJRTG9zS1ZxZTg2V0xpay05WUJEZjdGOEtDZm1vaVpwLWRVblpvbTkxYlZLanlSYS1aZk5RSTRCa2t3NVZhUkI4cl9CZGtKbkVVaFhOS2pqTUE2eGd4Mm8zaWk0Sjlrakg3Njh4Zk1XSGVTVmhMbTc4VWF3?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 08:52:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Equirus' $20trn economy roadmap: List railways, cut TDS, end STT & more - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjZudnZ3NFJja0tiaTYzcGkzZ1RhS1JFcm9MWkw0NFczUTBVbFNfVWlIYWxPS2lEZmkzZXRramo5VWl5WEMxVUw3SXNUSTg2MHNlR05wSVk5V0dleGs0SjdxMjcwMmI0VlR4VlNyYXlFZUNCTjRrR3M1ZV9IZFRKakZXcVhUbmtSTDJWTU5WZHdEeFpaWHNhZHlNZ1NGb0YyRE81WU9rUnV5R2pDb0gwMGRjOXB2Yk1EMDMtZXl1TlpCMGEwTkJMTndEb9IB0AFBVV95cUxNb0RYSXh1RjVPNUtNX2hjT1BaUldRdHpJQVpYSnVwZ0hSLUFNRXlpYXphRXpUbWI3Z3dMRFNCNjFpc0VhbExJZE9lRm0xalR6VGcyNXhtcEFQYm96eXB6d0ZRZHJ0S0tTV3hra3YzQ2tiMmRBMFFnMXpNeEV5TE1QOWl3UkljYlF2QXFGVGdOb09jN0lxX1RMWXBQRHp3am1xQ0k1Q3dPaG9kSE9xeDFhOGtrQmxfajBOT0E0bWg1cEQ4X2d1ckdhVDE2aFZXaDV1?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 08:05:46 GMT"
+      "title": "HAL vs BEL vs BDL vs Mazagon Dock Shipbuilders: Which defence stock to buy after Q1 results 2026? - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOd0VfUGdtbllkSWY1eEdYbVg0Wm4wa0hwOHBZUDNxcWJpWE9qX3BYTzg1ekpOY0hWUWlZN1ZtdFM3cENmc2dBVGdqcUVYbklGTmk5aVFJS2xxMmFGTHdnR1ZnSU9MLUlwa1dydWtETmRYM1BCMF9CbGNsN0JyRHlZRS1mb25qYktkdzFDMlYzWXN4T3psTlRoazlpWXBMYXdWMlFVd2pjVHp2TlJldmV0NFFhQW15SHllem1QTW5xeDlrOTd0TFp1cDFnUmFsQzVVY1pOaXhLRFJnOXVsQXJhN1BxUFdwekNjaG0zWkwtcWJrOG5WVFVkOdIB_gFBVV95cUxOZXNSeTVTYXRMYXNsMmRmb0lPOW9BSW5iVHZhZjB5WnR4UWJwOWtBbkZ6QV9IS2xEU09vS0E0a3owaUhYMXpjd250ODZjV0dkdklYaklYc0RCQTNRbW93T1E5WUZkalBDRkFPQlIwdENHa1FURzE0RG5IZXJERHFQZGt0YWJfYk5wU2p2eHl6TkhfNlNlbFEweVVBS2pnNFUzZlp1cEUxWVEwaUlxWFVXbTBMaWExUEx3QkRrRy1rZV9PV2Y1WUkzMGc5eGJ3S2FBUE9STE5WM2gxa2NvOG9BUHdmQ0EzMktaZXBQNXhNS1BqRmlSM3k3ek5JR2JaQQ?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 08:54:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Share Market News: Civil construction stock gains after company wins contract worth Rs 28.47 crore from..., d - India.com",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONWtJVHItV3JKaVZjTVBjVmtvdGc1cExoUjJrbW50eDl0R0tqTHZLRjMwcFdiYmhZUV9uLXhOVG15NEJoMVlUaW81dHdzZWJ3SGI0YlpZZmVLTl95ZmhwLVRnbG4yN2tpMG9mSGpVWUZBaHU1TTFSRlZQamNJSDNGbGFDa2tKcnBuemZ6c0d3bUR2MEswRzJSeE91NDRvdWIxcmRZZ1Y2cjBUNVFxSmo5YUdkZ0xZWS1kWGphQWdPem9UVDBqVWtHZnpBWDd4RDJ0RGVxY3BYdFdQV2J2Y3hOdnVmY0lOdjdIaFJ5akJHWHNCZlhKQ3c1eTY2ODllWlBsRnRnMW1kSUVzdTBiZU5V0gGUAkFVX3lxTE8xcWYtX2Z3c3VwZEtQSkU0VGNKNnIyVkxvam1CQnJEVFd0X0lpMWNrcjlfVDIyNWRrcERMNFN0clpKc2dUSE9tMjF5YnF2VEZIX0NJUy1UYm5hVXVWNkwydVVvZFk2c1NucW00Wml0SjMyME92d0gyUmJYNVFYMG9SUWRubC1ncFgzWDZTT2FSWVBCTk1yMW45a0k2RGJPWi1rT3hYVm9HYVBiREVqS2M2YndmX181aWY4dDh4TDNxaENacVJPaE1iOE0zekpnTjR2U0Q2ZHF0Q1I3NGg2SzgwbFZKeDNLQ01zSXpFel9WemF3bmtobVJIal9ZZDFuRFpYNFVpaDNQODZLbEhtaE9hVnZDWg?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 08:13:55 GMT"
+      "title": "BSE falls 4% as Jefferies downgrades stock to 'underperform', cuts target price by 16% - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTHNMa3ZwMkRJbkY0Q3RGSHdUV2JTSjlpS09Lb1luSGtmanJQZ0g1ZzVRQkJLSkx3TnFUTTFWRDZZUGxxWl8yUzJXbURaQTlOQmNnQ25POVVDcVRUUGRLM0ltNE5aSXd6SkJ2OTVYVzdDN3JJTmZXc2duRGtTNlZkbkNCejY5VzYyU0JmenhQUnM3aV92QTlrWEVKWkY1VHQ5UWQtVVp1SFJ1XzRnMllaUS1NS2FNZWtCWVJ0Z3hZdWtEbl91RXhGTUt4ZXExNFdhUVZVTjg4QkxYQXdGQk530gHkAUFVX3lxTE02QVNXbnk5UUxVczNrdDZzcWplSm5YeEI4R2hSMXJDUDB0MlBYUDRCN0gzckxDaWdUZWJadm9MM0Y4X2VZOXV4UEo3d0FaSDRrOFh1d2FDcDZGX1JUYU8tb0VqQVVJUU0wZUlGLU4zeG96clRZZ3B1akZGT2FVM1hKYkpvZGxWYk9lOHRrdmZpYmxVcTFmeFJESHlRNGtOYmJBQ2dxazc1Z0pXVlh5SFZtUm40VkxTODVBTjhWaTBtS2JPWFJEWjhHZktSMzRGNm1ac25BVFB3enNoTFhUWVVuajFqYw?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 08:11:31 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Behari Lal Engineering IPO allotment: How to check status online on NSE, BSE, MUFG Intime India; listing date, time here - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOV0xoeXMzMmdsb3dydlB5VW1lZkZFMDk4Wm0yQnhveDV4aXJpbmFKa3VGblFoa0ZBaHdVNkRMSW4wY3VKZ3oxTGVwWlRjdGxscE5GejM3dVdsRXlGQkpIczV3MlpJMDFfaGxOczIxMkxWMHY1cTVrVHdEcVlxeE5sTlBaOUpwelc5enZtZ1gzcGJjcXEwbENOWjl6MTJISWVMTmc4S1htQ29kbVBXNFpZeGtMYllyY3J3LVl2XzZnSW5nOHRVN25TNzhhZG1xa0FEZ3lhbWRldWw3cDFlOFM2UVJQelNUaXQ2Qk55MDhtR2NzTjNtbl9CRlBJZlpaa05o?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 07:48:51 GMT"
+      "title": "Sky Gold & Diamonds now part of MSCI India domestic small cap index - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQY2FXRjRDc1VkdW1jV1BRd2J0LTNwWTZQT2RhN0hudjhnUTNHN2phd1NNNE0wd2JYOFdFOWV2M3F4OUJoUERHLWtQaUZGdTBZNGhqQXZnaHZabWF5RWNTZUNZVGc1V0pwV204Z2xLRGY5X2NRYTQxUlh4YjcwelhrT1VaQ0dlTndCbHc5T3UwbDdZSG9tdUEtUzlubWpjb1lpdDU0S0RMTk44UXpjMElkdnFhOFp2Z1B4YnM0TzJHd1FvVXpTTmtreU1SZ9IB0AFBVV95cUxQaFBHS0hjeE9Mc2oxQTd2cmJSUVRaOXptYVNQd2h2Y2VVcUQ4SWdQWE5rcFRzUzlaVTRGMm5xb1lVUFE1MVRfY3R1d3FyWFhENGtoRGlUT2dJZGtXZmRoaC13SFBUaEs2Q2ZQZHliVF9fMHdSTExDRUVuMld6RWdSYVBpZGxnUXh5Y3J3bTdLZjFrSks5Q0wwT3l1bEpINElSOXFkYmNRYm0wYUNxUUxZeUdyWjhkdWVEdVg2NWF2SFVNVDU1WW9KWHh0UmVlSmxl?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 08:30:05 GMT"
     }
   ],
-  "fetchedAt": 1786954934
+  "fetchedAt": 1786957758
 }
