@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Gold rises as weaker dollar, fading Fed hike bets lift demand",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-rises-as-weaker-dollar-fading-fed-hike-bets-lift-demand/articleshow/133304905.cms",
+      "pubDate": "Tue, 18 Aug 2026 00:02:06 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Copper hits over six-month high as LME supply concerns mount",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-hits-over-six-month-high-as-lme-supply-concerns-mount/articleshow/133301659.cms",
       "pubDate": "Mon, 17 Aug 2026 22:15:41 +0530"
@@ -23,12 +29,6 @@
       "title": "Bain Capital sells 5.64% unitholding in Embassy Office Parks REIT for Rs 2,325 crore",
       "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/bain-capital-sells-5-64-unitholding-in-embassy-office-parks-reit-for-rs-2325-crore/articleshow/133300843.cms",
       "pubDate": "Mon, 17 Aug 2026 21:07:12 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "EyePoint's drug for age-related eye disease fails late-stage trial, shares tank 70%",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/eyepoints-drug-for-age-related-eye-disease-fails-late-stage-trial-shares-tank-70/articleshow/133300818.cms",
-      "pubDate": "Mon, 17 Aug 2026 21:05:40 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Wall Street indexes slip with Iran, retail results in focus",
+      "link": "https://www.livemint.com/market/wall-street-indexes-slip-with-iran-retail-results-in-focus-11786993198786.html",
+      "pubDate": "Tue, 18 Aug 2026 00:29:58 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "After weeks of shaky ground, AI related stocks are on the rise again\u2014Here's what Elon Musk's post indicates about trend",
       "link": "https://www.livemint.com/market/stock-market-news/ai-stocks-rise-after-weeks-down-elon-musk-indicates-if-market-trend-will-continue-memory-sk-hynix-micron-sandisk-samsung-11786983343642.html",
       "pubDate": "Mon, 17 Aug 2026 23:19:59 +0530"
@@ -85,10 +91,10 @@
       "pubDate": "Mon, 17 Aug 2026 22:18:28 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Paytm promoter entity Resilient Asset Management to sell up to 4.98% stake",
-      "link": "https://www.livemint.com/market/stock-market-news/paytm-promoter-entity-resilient-asset-management-to-sell-up-to-4-98-stake-11786982359516.html",
-      "pubDate": "Mon, 17 Aug 2026 21:36:57 +0530"
+      "src": "CNBC TV18",
+      "title": "Arun Icecreams makes New York parade debut, steps up US expansion",
+      "link": "https://www.cnbctv18.com/market/stocks/hatsun-agro-product-share-price-arun-icecreams-makes-new-york-parade-debut-steps-up-us-expansion-19971350.htm",
+      "pubDate": "Tue, 18 Aug 2026 00:20:35 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,12 +121,6 @@
       "pubDate": "Mon, 17 Aug 2026 23:27:38 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Netweb Technologies launches \u20b91,200 crore QIP at indicative price of \u20b94,710\u20134,790",
-      "link": "https://www.cnbctv18.com/market/stocks/netweb-technologies-share-price-launches-rs-1200-crore-qip-at-indicative-price-of-rs-4710-4790-19971323.htm",
-      "pubDate": "Mon, 17 Aug 2026 22:19:14 +0530"
-    },
-    {
       "src": "Google India News",
       "title": "Aug 17: Stock Markets Start Week Lower as Crude Prices Rise; Nifty Slips Below 24,300 - The Indian Awaaz",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVWx4UHM3Vlh5WG1zSmZOMjQ0cUc1Xy1sUVV5V0pDaUd2N2hSX3Yyem1uZmZickRWRjJ6WHhuMUV4YTVaLXBraThhLTlLUEc1Q0RtT0ZfejdFNlVtcUNYdm1DR0hpRzZpaER1UkxkR0pSYkpfZ0Z5cWRoSlhJd1RmTFl3RFhxWnR4Qkp4TzI0M1VRYU5iYWZEYVNtNHRsdFFjcVIxYXlfSTE5RlBheXlJ?oc=5",
@@ -128,15 +128,15 @@
     },
     {
       "src": "Google India News",
-      "title": "Closing auction gets off to a rocky start, but India\u2019s markets will adapt - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMDVBSFY5Ym1nWUZ3YW5EdUhvX3pncU9qVWRHaXM5RXJ3VERSNElNdHZWWnVsbzBxU1JkeHVJVFBTdUNDT0RtQWJ3T25SeEtnVl9Fb0JqcFUydWI3NkpRcHBseW9mUnBaSUpOalU3V3NsbzBaTFliQzV6TVhpUHVBSDc5cWZselQwRUF2NmtlTGYycjlBdGl4RnVXU0ZXNFFEc0p3Z01VQno0WlRJWlNYaDE2bWJCMktwYnNzOVZJa3ZqcVo2QVJlRUVVeDZmcHEzRnBMRDdLOFkwZm9IdzVaTNIB5gFBVV95cUxQN05kR1JtdlJEdWw1akFXakpNc0I5eklMZjduenc3d1dlZDd5YWMyX2sxT0F0b05CYnIzeGRXTHR3dGYxSEdPaFBRbFdrYVliNk9VNjcwbmJkeGdHd01sdlY2VUFtR2UtWFNVSzBwN1UtSGpaZ2N6dXdkdHZUMjlkT2pJa25HdjU3dTh1cDFHOWk0Rm10dnplb1lpblp1ZHFDVi1aeF9nVThSc0VoUnBlZ012ZGhaR2F3OGIwMFdQNF9VRzZJZG9FRnNJdTA1VHNtdklNSWVoOUZycXAyc2RBcGZSVWlxUQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 18:13:00 GMT"
+      "title": "CAS: What investors need to know - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43Z2ZMRDE5bTRlS2xyampQWTZRaTltUmZCZ1dVQkNjdjh2cG14VzEtZlNVQVdvSXRfMFlYYUVLcE15SDVFVjdRTlplYnVmd3l6VzRraEtHTW9OaGRVaVZsOVpPaF84Nzl3SmRyTGMxcHE4NzByVGc?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 18:40:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "D-Street Bloodbath: Nifty Crashes 500 Pts, Sensex Down 2.2%; HDFC Bank Falls 5%; Why Is Stock Market Falling? - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbl83MmNpN3o2NEo1US05b2FPNlBrMU5SLUp4NmJEXzZySDhQSU5KTTBTRG5xbVZ0U1RUZVVBZHdEc2czdnc0VjVIMlh2NDRIVnNWSkFzUTZ4OGJQV0pSY1VaWXNkUTlQM2ttOU51R1ZSR0dyTHhYRUZwNzRHR016aU8tRG9iMEYzQlVTNHNuc3U4UFk4RzY0ODNQSXMxU25uUEdrX0ZjdDFYSWw0NExCeEFBQ2pFNnphS0pGWHoxY01QN3lwajNUeTZMSDN5b0pTc0E?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 17:41:14 GMT"
+      "title": "FII Sector Inflows and Outflows: Where Foreign Money is Moving - Sahi",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZNlNEME9FZVdJWHhfMzdTT0d4QkIwV3lYb3NrYTlRbElMTWx1QzJqSndRdE96NHhFQkFWa0ZHMXN6SG9tV3gyVVg2MjlfUW15b29VdUFuaEowd0V6LXVMUEYtMU8?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 19:00:27 GMT"
     },
     {
       "src": "Google India News",
@@ -146,10 +146,10 @@
     },
     {
       "src": "Google India News",
-      "title": "India\u2019s closing auction needs funds to show up - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSk1TYzFRWms2Q2NfUEVZSGlGX05vWEU2YU0yREdSU0lDX21VV05CVkM4eFRvVTc5MlRaVjhTR2RnbGxJWDZLc2l4b1o4UFpjUHk4ZV9BSzd4clFobHMtTUNnYzdZSGJkMEJLTlNCSmpibG1idlQ3Z0xMdXQwcVpPTXFGUl9Sb1BLNDBXcVN6YmJRZ0JmRHFuNExRQ3EteDc2MWJEUUtHRXVYeElGN3lyZVp4bW9XcmdQOFFDa1NB0gHDAUFVX3lxTE0yajZtdDh3ZjdPMmNmUmpCeG5pdVBha1l3QUpkbEZCQUh4b2JQTDRoLUxJNmgzWkJLaHNqREx0WW93bEx0THpSM19uSXZqcHZfcGMxaTFkUzJOUnpRTURHTlQtYkZLdXJDM0Q1TTZYNmJBN1hTbWRkWTd4ck1SQURyWEVObDRSdlhEYzFfcUFvWTJlZjZ3LVdUX3BnOXNzUnhGc3dZZTFIS3lnQVpyOERlWm5nRXVSQ0dibDkySWtnUTl2QQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 17:47:00 GMT"
+      "title": "Arun Icecreams makes New York parade debut, steps up US expansion - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNm5YOXRqQlU4U3FxcDc0TjFUSTlJZjF2cnZ5clJJTXZFS0FmU25hRmJ1OHlxclhLd1FRR0ZGVFV2UW9KOFZ2Q1dvSEp0b3BGM2M1TGhGblMyOGVBVUV2SG9uVUhvc1NyaTRIckwwNHBqUTVLRVlzNWo2aUpnRWVESTJhdHlnUkh5czh1UFNkMzhoUFpDQzE3Z0VDNFdKWHVIOFBEQlQ0NDhGLVhsd0YtUVp6bERlUnNvMGZCT3FYOC1Tcmo0TUtCb3VacE1hSk1KVjczSFB5TmRhTlV1LXM2QXlR0gHnAUFVX3lxTE5CcURHWkpIamNKQXZ4eFNSTXB6d0NYcmxoTG9qU1dRZE5PVGUyN19qZUJLQkVlZklSSnFxWG5yY2JhSjBQMnA0emdfOGJWaFJ0T3liYjhTb2NUUGZ5S0RBU3pvb3VNdmNSOHVHbkNmckhZZVhuWV80b01CS2VFdzJ4cFlIVFRJMnhEdU15ejQ0TnVuVlRIbjNlbDVjS2xwSUhYVHB3anpCbFUxVnhYVkY4QlJRbWRNaFpQSmwxWHk0SkV5ejBtQmpZR2dDUzcxTkJKNUpxb2gyamNaYm8yMmlqa2EtZDhvUQ?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 18:50:35 GMT"
     }
   ],
-  "fetchedAt": 1786991748
+  "fetchedAt": 1786994043
 }
