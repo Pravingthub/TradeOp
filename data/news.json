@@ -2,13 +2,19 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: S&amp;P 500 opens muted as Middle East tensions weigh",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-opens-muted-as-middle-east-tensions-weigh/articleshow/133298963.cms",
+      "pubDate": "Mon, 17 Aug 2026 19:24:38 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Michael Burry revives AI warnings, Big Short investor says 'You could have heard it first'",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/michael-burry-revives-ai-warnings-big-short-investor-says-you-could-have-heard-it-first/articleshow/133298147.cms",
       "pubDate": "Mon, 17 Aug 2026 18:44:14 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: S&amp;P 500 opens flat as Middle East tensions weigh on sentiment",
+      "title": "Dow Jones| Nasdaq | US Stock Market Today | Live: US stocks edge lower as Middle East tensions weigh on sentiment",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-israel-hormuz-deal-crude-oil-fed-warsh-rate-anthropic-nvidia-microsoft-micron-chip-stock-price-news-17th-august-2026/liveblog/133297038.cms",
       "pubDate": "Mon, 17 Aug 2026 17:54:57 +0530"
     },
@@ -25,10 +31,10 @@
       "pubDate": "Mon, 17 Aug 2026 17:35:52 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "India bonds sink on RBI's early close of FX swap facility",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-on-rbis-early-close-of-fx-swap-facility/articleshow/133296451.cms",
-      "pubDate": "Mon, 17 Aug 2026 17:35:06 +0530"
+      "src": "Business Standard",
+      "title": "FII ownership falls to 17-year low as domestic investors strengthen grip",
+      "link": "https://www.business-standard.com/markets/news/fii-ownership-falls-to-17-year-low-as-domestic-investors-strengthen-grip-126081701286_1.html",
+      "pubDate": "Mon, 17 Aug 2026 19:36:17 +0530"
     },
     {
       "src": "Business Standard",
@@ -55,10 +61,10 @@
       "pubDate": "Mon, 17 Aug 2026 18:04:02 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Stanley Lifestyles appoints Sudhir Iyer as Group Chief Financial Officer",
-      "link": "https://www.business-standard.com/markets/capital-market-news/stanley-lifestyles-appoints-sudhir-iyer-as-group-chief-financial-officer-126081701089_1.html",
-      "pubDate": "Mon, 17 Aug 2026 17:50:55 +0530"
+      "src": "LiveMint Markets",
+      "title": "US stocks mixed as Iran tensions weigh, Anthropic outlook lifts tech stocks",
+      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-as-iran-tensions-weigh-anthropic-outlook-lifts-tech-stocks-11786974172565.html",
+      "pubDate": "Mon, 17 Aug 2026 19:31:17 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -85,10 +91,28 @@
       "pubDate": "Mon, 17 Aug 2026 16:56:50 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Sensex falls 281 points, Nifty 50 ends at 24,288; mid, small-caps outperform",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-falls-281-points-nifty-50-ends-at-24-288-mid-small-caps-outperform-11786962054954.html",
-      "pubDate": "Mon, 17 Aug 2026 15:59:20 +0530"
+      "src": "CNBC TV18",
+      "title": "Paytm Block Deal: Vijay Shekhar Sharma\u2019s promoter entity likely to sell 5% stake at \u20b91,535",
+      "link": "https://www.cnbctv18.com/market/stocks/one97-communications-share-price-paytm-block-deal-vijay-shekhar-sharmas-promoter-entity-likely-to-sell-5-stake-at-rs-1535-19971244.htm",
+      "pubDate": "Mon, 17 Aug 2026 20:06:28 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Earnings Central: India Inc's best quarter in nearly three years comes to an end",
+      "link": "https://www.cnbctv18.com/market/earnings-central-india-inc-best-quarter-nearly-three-years-comes-to-end-19971234.htm",
+      "pubDate": "Mon, 17 Aug 2026 20:00:53 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Stocks to Watch for August 18: Paytm, Netweb Tech, Wipro, Syrma SGS and more",
+      "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-august-18-paytm-samvardhana-motherson-wipro-syrma-sgs-and-more-19971184.htm",
+      "pubDate": "Mon, 17 Aug 2026 20:04:43 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Rupee falls 19 paise to close at 95.61 against US dollar",
+      "link": "https://www.cnbctv18.com/market/rupee-falls-19-paise-to-close-at-95-61-against-us-dollar-19971239.htm",
+      "pubDate": "Mon, 17 Aug 2026 19:37:15 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -97,59 +121,35 @@
       "pubDate": "Mon, 17 Aug 2026 19:19:17 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "SEBI simplifies mutual fund registration, brings two-stage application into a single form",
-      "link": "https://www.cnbctv18.com/market/sebi-simplifies-mutual-fund-registration-brings-two-stage-application-into-a-single-form-19971203.htm",
-      "pubDate": "Mon, 17 Aug 2026 18:55:22 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "FIIs sell \u20b92,535 crore of Indian stocks, but DIIs buy twice as much",
-      "link": "https://www.cnbctv18.com/market/fiis-sell-rs2535-crore-of-indian-stocks-but-diis-buy-twice-as-much-19971199.htm",
-      "pubDate": "Mon, 17 Aug 2026 18:50:45 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Noel Tata meets PMO, Home Ministry officials days after Chandrasekaran rules out another term: Sources",
-      "link": "https://www.cnbctv18.com/business/companies/noel-tata-meets-pmo-home-ministry-after-chandrasekaran-rules-out-another-term-sources-19971169.htm",
-      "pubDate": "Mon, 17 Aug 2026 18:08:22 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "India clears \u20b97,877 crore ECMS investments; Wipro, PCBL Chemical, Syrma SGS shares in focus",
-      "link": "https://www.cnbctv18.com/technology/govt-clears-rs-7877-crore-ecms-investments-wipro-pcbl-chemical-syrma-sgs-share-price-in-focus-19971132.htm",
-      "pubDate": "Mon, 17 Aug 2026 17:50:23 +0530"
+      "src": "Google India News",
+      "title": "CAS here to stay, Sebi to revamp securities lending mechanism: Tuhin Kanta Pandey - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOczdxVTFabVFOVTRBWVhrTGROSUNGTGZFQWFPSUtaR04zbnB1THlTRXhpY2NiRW1fcE9yZGNCZmo4MXRsbVgxbjZQNTBtWnE2NUV2VDIwY2l1ZjREbnhwVE9zaUpIdGJCLWNudFJWX193MGZPTEI1ekJidVo3M3oyTFY2dVpIZmdlQlhwcmRObjRqY0hQYV91bjdFd0pBaFFpSGdvUjAxdVg2UnVvXzhBdkpHQVl3QUpuNjMyTUJ3WURsX1l1MmptOFlFb0xIZ9IB2wFBVV95cUxQaWZ2ekRvQTNwaWxscVM4QVZwM3dFZDJidVVFaGptR1dqZ1oxZzNHbGZRVXliOU9mY0ZRWWpBSjh5cGdtOUx4Q2Z5NUdOMGhOVU12dkVfS3BSUkE2MTNtOTNjTFVQY2l3aUJ0MWhlTGxZNWJyNno3QU12WXdrazg4c3pHVFdtODhESnVFR0JOb3dTTHBXMHRhVU4yYW9kXzdrRHJQME4zV3Y3dV9EMVZKSGFTSTNsb1p5WkJUR2Fwb3BCc1dMbXcwVm1aTHpEcXhaM0U2SGpranpDZ1k?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:08:58 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India Inc. delivers strongest earnings in 10 quarters; markets stay in the red - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaWJ6WVdYa1QzQ2xUbWtXdGlnbF9PUlFtcXZIWlNTc1VCdzNKX3V6b19BLXdBN2tzTGRnamdIaFZvRGpEQm1LSjZRRWZIUzFFVnlTangyTzZ3RGZkaG0xNU5uZzdBZ3l1M21lZ3NMVVptWklXNDhQcUNiQ2FUS25iTUl5XzVVZ2FpNFMxc1BEbUtncndoZ0p6Q3VMS0FianVncG9oVDR2TnRnRXhGWEJqeHpBQ0pzVjFkNHJNZU45ekN0cjhBM1pvY0tWai1IbWZobG9MM2lDamXSAd8BQVVfeXFMT1VKZHA0NXhLaWE0cDdHakFMWU5xNjNHb0JKZGhHcmVhbEVOQXAza2tpOVQ4MkJrd1REOXFEUnlwMWUzZDQydE8xb2FYZGx3dWFtRTNpbEZNM1hlSkFUdl8wbUNwaU9QNE9FZmVlLV9mMlYyNi1ncXo1eTR1UENHUkY3d3M2RUVjV2J4cE9QelkwMmdRYzZRTW1aeU96SkdaOGFkcVdnYTcwQUZVOV9OWUYzcEtLSmZyaGZQUHA1dUk5NThwVjhDZ2htUENFUkpseEF2N1Jya1N2R25UQTVZSQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 13:25:02 GMT"
+      "title": "SIS Ltd buys back 50,000 shares at avg \u20b9424.9999 on Aug 17 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2RHaGpncXJyN1l6ekkyb1VWZmx6bjdDempyNWVpMjNaRnlDSXZvcGRnQjZIcjZEckFWTHR5NXNOQm1DX1k0bVhiZldYRWFENVhYOGNXQmREdzZxdlNVd2Z6LW4yS3RBekRINUppX2ZRZy1YelpQbWNFZDRPS1RSMTNCeVFZVzhZd3RDNDZTcUV3SV9ncWczZU8xY0VZbHdYYWRQN2sxZFlEVGxE?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:37:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FIIs sell \u20b92,535 crore of Indian stocks, but DIIs buy twice as much - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkhUbzNYdTZyTVNmbUZtbS0yamNRZXEtTUJvNVJfQ21CcDY3Vkw1MVRBeHREcEtDVjV5OG9HbU1fajhCOGFLd1FJQVo3enNWOUNGMXlPM0g4SF9fekJqQWJMS3U5a0lRN2lWQjZtZkV0THNDc1EtZmxLY0h2VUF5TVFteUZ4WnBUdnNxdHpwWTR1VklyR1Z6dFVfb3MwYi1LZUx4ZThIT2RLTFV4QWw5c01Ia292QdIBtgFBVV95cUxQSkhUbzNYdTZyTVNmbUZtbS0yamNRZXEtTUJvNVJfQ21CcDY3Vkw1MVRBeHREcEtDVjV5OG9HbU1fajhCOGFLd1FJQVo3enNWOUNGMXlPM0g4SF9fekJqQWJMS3U5a0lRN2lWQjZtZkV0THNDc1EtZmxLY0h2VUF5TVFteUZ4WnBUdnNxdHpwWTR1VklyR1Z6dFVfb3MwYi1LZUx4ZThIT2RLTFV4QWw5c01Ia292QQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 13:20:45 GMT"
+      "title": "US stocks: S&P 500 opens muted as Middle East tensions weigh - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQeTJNZWF6VVJZUEp4azZTNHpJTGtueEpoYnpvaWQxWFJSSTFLNGxnRlRzZTN1ankwNFZPcXZnejlxc3lpNWRUTHQ4bmkyMlZ0bl9aQ3k1dG81NmNFcmo4UElYOGdZeHo2MGdBTUFNN0l3T1ZWSTVqdzFzVVBKMEFWVU9sVWJqUmttdks1MWRSVXU0b1VDaFB0SnBJRnhsSmJwN015c0ZQbDFXVzdSNUptOHZNdDFWSVN0eGo3djBYbno4eUJmNjJDUHBHam9GWllaa1lPSFAzYUJlOVZMb2pTMmNFajh5TW9sQVBGYm5xRU5SbGdDMjlQRzY4aVVEbHBONk9mZVdGVERzV1dYR2xMcXRRZC1kbk1RWlJaMXRyMDRrbHBncG5TQUJoczdibDloblQ1QWhVNzhsWXl5eXdDWlFGM3FRVkNDSEJr0gHnAUFVX3lxTE5EWHRscVhWbHFGX2pxRmxZdldzbl9KVmd2T3d6MzBZN2JFVlJpYkZnRmRvNTZfUUVlbFVPY3hmSFgxYXJ1YW54QTBXcXR6QTFyamQyZnpXOURpMnI0YWdfVUI4ZjBfUXBLRmNrUDhPaU8wbkc3dEJhcjlvcXpsQ0ZkQWZDbnVlT1NjVC03MlgybzlhVnZ3VVNHMnVNcXdVYlg0NEpoS1dXTWFOczBFQ3V3UEd3aWdlQlQ2SGVPQ0lXdUIxb2FKM1BNaFN6NVdDVERTYjhTM2N5VmFtazJvZE4xbE1TLXRFaw?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 13:54:38 GMT"
     },
     {
       "src": "Google India News",
-      "title": "RHI Magnesita India cancels analyst meetings scheduled for August 18-20 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWjdEd0ZkaVFOdTJlV1NMQ0hqOUk5TTB3bUVmUm1TSmt3d3BCdzNoWTl1alBXTGdsVzNFOE1jRmthemhOcy1PQ1dTOFBnVF9CQlRPLU1TLWl4V3JYSXVQQ05Ha0dmV3ktWVpqRi1uTW9iZjRJMEtQMVd1YnJlbFh4YWx4azl3VmxWOV84YTE2NHJkTlJHRV9saERHNnJuX1Vxb2xYMHJwUmkzYWlkcDZ2Y2JLVUpZVk1lY0R0aWNkUTNGQQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 13:17:18 GMT"
+      "title": "Russia imports gasoline from India amid fuel shortages - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYlpjbkdZY2xyX0pPS2lPWEx6ZDdZX0pSa0IxcnJNR0M2ZWY3V3h2SDVyeHBFVWZOcTJOLURaRGJwLUFIRklRcXFhYjI0eDg3WkVtWEpUbW5xa0hHSm5uR3lCNzhzLXdPMnpfS2RsLTJNcEZoSHRINFdPWUJTUHJXdmNlQzB3WVRzUVRXX2xTYThKVVJzM0w2Z1d1aDVlZzBEV1VfQXA4enh5RmhxZVhmSmRUYnZoUQ?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:28:12 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Prime office rents rise across major markets, Bengaluru leads growth - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcUJkZTZJMnMzMHlEdkVEb2xfUThNRXQ4aWR5YXZ4TmpUazdielVsUXR1R0NvX21hMnYtZjlqcllrNlFVRlp1cEs3NmxFMmJZbVpPNFB0UWhINnR3YVRQb041RmV1TVBGdnpwUlZmRGZUbDE5dExyUmoyNUlLX0hMSjdWeEs2Nlg3anl0Uk9KT3lGMURBM3pZTGNzcGY0a3hGVTJoVlJhelZrMVczOENjSzRQdjNoT1NBSXlvQnA4b0hwWDZucDhtX0doRmFjMGFoUkHSAdcBQVVfeXFMT0tOckY1RklKQmZGVlo1aWYtZE1ZZURNYlo2WXByVERJNXdoZEpudjdudEp0emJWUVE1QmlTM0tpbGNuaWl1Tll2QjRZLWZDNk1OTmFiaDA2R0Vid0FoOWdKdTlHdG9GbGNkVGJIVEF3RG94MjBZS3FCeHlTM0tkeFM0cDVzT3ZxVzV4SVFocDFRU29tV0w0SXpKbXl0S2NZY0d4U0s5c1ZSVjU2OVdJcWs5c0FtRDhTRVNqUDVValJYQ3M5S21ORjBzMzVvOUFQNWRUY1RnWXM?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 13:44:29 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India's Soyoil Imports To Hit Record 620,000 Tons In August On Black Sea Disruptions - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX1B1dW5CYUNVTFk1ZW1qbUhIdURaMXNBcE5XQ0dtZFpSZGFpMDlwRjV5aURnaEhsVjhOZUtOdWJZQi1MT3VxOTZ0bWU0U2dsYkhiWTdJR255OWZ3S05wMGI2VUdwYXREZThCakVmd0RTclhzOG9xVHNucWZaUkMzUnNxcjlDQ2ZFbDZhWVBtNVgxaFNpTlZZX2UwbjZaeU1UOFR0T1NUMTVVc0gxdmkxNFpIaFRDMUJMM3EwMXcyS29Scm1NRFBkeFJYU2LSAdQBQVVfeXFMTWptLUxicW1hVEplRjVUOXdjclJMeFZ1NmNrUlJBaEdtZ0xqd044YXhIai04UTh5ZnV5OTFpSi02TzVldUkwYld1dThBTlAyU2tFZHE3Vkpaa2w4MjRRWnZ4eUxoMmx6QkFrd2ROMnRoSUhBQlRJSUFTd1JySlRBc3lXVDZpQ08tSGtVWFNUVXJNVk5tS21TLU8zNUJEM3c4Z1JRNlA3TU5WNnR6V0lIQWxuZjA2ZlZDOUJCTmd3RlI4WVdSWWstRS14SGxMSkExSFZ3Wi0?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 13:56:52 GMT"
+      "title": "Philips Personal Health India revenue to cross \u20b91,000 crore in FY27 - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNmVMYjN2ZG52MXVsdThqWXB4aXM5RDdqdTVCUDN6T1FxX1JHSG0td3B5NWdmTmJLNXJhNUpiZDk4NktOdmhxQndCVThHTi1IQVRjV2NBckhMTTFRWlBQV19EMmp0NGFPZ3RkZzZqWUEwQU5jTzhhd0VfQUFFX1lPeFBrV2xCN2piMjJzeXE3eDc5ODhKVFotTUxLNTRReGZ0SWtQdkoxeG9rNndJZzZ4eFhZTlUwSGZyQmhmNTF1Vk9IQ3I1SzNxZEppTzlzWU1a0gHWAUFVX3lxTE9CaW1UTm13ZFRxdGg3OW05YzFUY3Jkb09wZU92NVZtcEw0dVprLVhPc0dHbVZ3S25MOFlSVV94YUJwSHpHVmZqRGZPNnB0Zm80NERYa0FVTXdrVjJhVXZpQXlBY2ozQ1p5dDg5SVg1dTRWQUttclhOaVNKcE5iTVhpSmthVjJpbXVJdTY2cEJsNnRrbDdVd2V2TXZPLS05SW1FMXFoTWNLRVY3ZXZYb3pqWHJha1NZZ3laeDZCU1dlZ2V4Vm1FT0lPRGhQOTk3MXN6MXd1c3c?oc=5",
+      "pubDate": "Mon, 17 Aug 2026 14:27:57 GMT"
     }
   ],
-  "fetchedAt": 1786975319
+  "fetchedAt": 1786977656
 }
