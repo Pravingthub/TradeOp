@@ -2,33 +2,33 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Sebi chair rules out CAS rollback; assures commitment to resolving ongoing issues",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-chair-rules-out-cas-rollback-assures-commitment-to-resolving-ongoing-financial-issues/articleshow/133308903.cms",
+      "pubDate": "Tue, 18 Aug 2026 06:06:37 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133304467.cms",
+      "pubDate": "Tue, 18 Aug 2026 06:00:00 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Stocks in news: Airtel, Paytm, SpiceJet, ONGC, and ZEE",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-airtel-paytm-spicejet-ongc-and-zee/articleshow/133303467.cms",
+      "pubDate": "Tue, 18 Aug 2026 06:00:00 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Aegis Logistics in talks to acquire UAE\u2019s Tristar for $1.5 billion",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/aegis-logistics-in-talks-to-acquire-uaes-tristar-for-1-5-billion/articleshow/133308925.cms",
+      "pubDate": "Tue, 18 Aug 2026 05:30:00 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: US market slips as oil prices rise, retail results awaited",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-slips-as-oil-prices-rise-retail-results-awaited/articleshow/133306298.cms",
       "pubDate": "Tue, 18 Aug 2026 01:38:11 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Gold appears set for a rebound as it regains safe-haven appeal after US-Iran war selloff",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-appears-set-for-a-rebound-as-it-regains-safe-haven-appeal-after-us-iran-war-selloff/articleshow/133305922.cms",
-      "pubDate": "Tue, 18 Aug 2026 00:51:40 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Gold rises as weaker dollar, fading Fed hike bets lift demand",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-rises-as-weaker-dollar-fading-fed-hike-bets-lift-demand/articleshow/133304905.cms",
-      "pubDate": "Tue, 18 Aug 2026 00:02:06 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Copper hits over six-month high as LME supply concerns mount",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/copper-hits-over-six-month-high-as-lme-supply-concerns-mount/articleshow/133301659.cms",
-      "pubDate": "Mon, 17 Aug 2026 22:15:41 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133301222.cms",
-      "pubDate": "Mon, 17 Aug 2026 21:32:23 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,18 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Raja Venkatraman recommends three stocks for 18 August",
+      "link": "https://www.livemint.com/market/stock-market-news/raja-venkatraman-three-stocks-18-august-11786982882569.html",
+      "pubDate": "Tue, 18 Aug 2026 06:01:04 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Stock recommendations for 18 August from MarketSmith India",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-18-august-from-marketsmith-india-11786971698790.html",
+      "pubDate": "Tue, 18 Aug 2026 06:00:24 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Foreign Holdings of Treasuries Fell in June, Led by Japan Drop",
       "link": "https://www.livemint.com/market/foreign-holdings-of-treasuries-fell-in-june-led-by-japan-drop-11787004808131.html",
       "pubDate": "Tue, 18 Aug 2026 03:43:27 +0530"
@@ -79,16 +91,10 @@
       "pubDate": "Tue, 18 Aug 2026 01:53:26 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall Street indexes slip with Iran, retail results in focus",
-      "link": "https://www.livemint.com/market/wall-street-indexes-slip-with-iran-retail-results-in-focus-11786993198786.html",
-      "pubDate": "Tue, 18 Aug 2026 00:29:58 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "After weeks of shaky ground, AI related stocks are on the rise again\u2014Here's what Elon Musk's post indicates about trend",
-      "link": "https://www.livemint.com/market/stock-market-news/ai-stocks-rise-after-weeks-down-elon-musk-indicates-if-market-trend-will-continue-memory-sk-hynix-micron-sandisk-samsung-11786983343642.html",
-      "pubDate": "Mon, 17 Aug 2026 23:19:59 +0530"
+      "src": "CNBC TV18",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty aims to break five-day losing streak; Brent crosses $90",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-expiry-today-midcaps-smallcaps-banks-paytm-netweb-wipro-share-price-liveblog-19971381.htm",
+      "pubDate": "Tue, 18 Aug 2026 06:29:05 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,41 +121,35 @@
       "pubDate": "Mon, 17 Aug 2026 23:38:14 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Manipal Hospitals to acquire 100-bed Bengaluru hospital for \u20b9130 crore",
-      "link": "https://www.cnbctv18.com/business/companies/manipal-hospitals-to-acquire-100-bed-bengaluru-hospital-for-rs130-crore-19971332.htm",
-      "pubDate": "Mon, 17 Aug 2026 23:33:12 +0530"
+      "src": "Google India News",
+      "title": "Stock Market Today: All You Need To Know Going Into Trade On August 19 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnZUdlVNYUJScm1wVGFicUFiOTFfdFU3c3VlTWR4bTBCUEt1NmxSU0hHMm1WSXZBX21NQmVib2w3OUtnZFludmwzeGJIWW5NNk5HUlFfWVJTX3pzYzRKTFpEbXBpS2JqN3N3Q3BTX2RtaWxlZTVnbW5GWTQ3bTVqSTBOVWw2Um9NUU1fQ29FaHgzSFJ6ZDFDRXNVNmJjYi1Fd2FVUVVITmdJVkhjQjdlZWlIc9IBuwFBVV95cUxNTVFTaGR5OEJwam40UDJjc1dQYW0zSENyZnVEWlFXOHd0eDhJNklzNHhCVm8tY0lOOE1aTm43b1d6bkRFLU9ya2FHbE1RemlLWWJqQlhJZnAxRnM5aGJKdXFfWDdjRFZBcVZlZ3B6VE1vZmdOaGdtZWUyOE9UdUxpWGlpbVNGUXA3eGYtTGpDazB3bTRZNVB3b1A5dl8xc1FGTjJGQ3J3MFBXT01iQ1NSZ0d4eXdCTVNOeU00?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 00:30:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Portfolio rejig: Here's what top 3 mutual fund houses bought & sold in July - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1lFZnAyY3VjbmM2aXJEMWFySXNWeFQ5LUZwUmwzSXBZbWg0UXNRT1ptZ3dfRTNpYnB6M01sZWxYRzRUb0ZRRUR0azJqVlZhUmRBWDNYTnpLUEVGT2hNOHBLWVhDclJCNGxFSFdvZzBxWnE4VHlzendONkRWeWd2akRzZXVob21HUG9xSXpFVTBZREdfNG90R2d0aGlyNWltVU0zTE5LdTFJQk0?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 23:39:10 GMT"
+      "title": "Cochin Shipyard Q1 Results | Sun TV Q1 Results | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcTFRbVlGSkxHWHM4RXQ4cVB6TnJoaXF4LUpXWXl0QkpMNTFXem96ZDZMR3FEUjJsanBET3l1X19MSlFlQ19YaDIxMTJPY2cwV01URm91a19rUEJqSWc2aHotTjM5eGtKVlo4ZE00QktDU0s0TEJLVmJXQ05maGxodzJVS1RKNkFVUW9CS01hYWtrUHdveU1acVJiUUtCbDJBNTk1NnRWRHluMGhNeDM1TjFWMXN4T3JVSjhFUGM0VFl2NXlPSF95RlU1aw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 00:30:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock Radar: TD Power Systems stock hits fresh record highs in August; time to buy or book profits? - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVlVheTNKNnU2aUxKZGcwdnZFMG1OeUJ3cUxIZHJHVi15aG9PRFMzZ3VBNml0cVVwMk56WllON2FocEtMOXl6QVFod05ETi05YzJucDV3cTlDNFlnWXdJLXFIQWQ1bWZtVEJWczY3aFJCc05oUzVyMlUxN0pVWkp2SWxLcl9meUlWNl9nNU1Jb01iODNDczJCU1JidEMxNUxLZ1lHSmdlZEJWWm1YNDY0TldrVWM4UzZaTjdqVXZHY3RmeDlxNHFYdVdlVUhNTkdnTWRDVmgyMnVOY3pRYUg5NUZ6ZnBXR2dzaXhrdnpRelBrSG4xeXBpSGRzSGMxTE3SAYQCQVVfeXFMUEo2ZllpVEtJZFhIcjJ5bWJaM0l0MXJRbXllTlJyMkhrZ3N2TXZpSmtSLUpYa3J3U3g3ZzJDMFJvYlU5aU5WcmlucUJUR21nTUV5ODNIcE5GU0xTcU9ia012UDhyeTBuV0t6SUp5ODZEeDV1QkgyaThLdUdpX214dl93bFVocTJyZUhoZVk1bDBYTDMtbzJjYjdzUXVSN2ZGMmxJRDhBZHdjbnhmLWY1R0tJRnQ3T1RSUkQ4U1p6ZlBuQUVHclc1YWlWS2NkYlBsUFVyWTVvSnZmNVp4MmNMaTg0dkFrOXNJUzNySmp3dy1EZGRUMG1Ea292QVpoOC1QMTdDSzg?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 23:30:00 GMT"
+      "title": "Stock recommendations for 18 August from MarketSmith India - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUkhpaGZoZzNxb18wRndCN2E3enJUblU2MEZfNVg3a0VaWGstb3E0UkEzZEk3Vzdkanp1TE5tWk1ielpGa2F5QmhUMjR1Q1d3WmhsTDVVcFNZRTU2QXFFR1ZTV3RKNWRSVzdpNlZhdDA0STA2eHpMSFN5RHEwTnV2TGJ0NmdKVVZzdHk0R2NRMHdLNzMzQzZTa0VBck90cUVyQ2RjN1NHU3BoQW9hVVZPaS11V1NJYUk4SFloNFNVWGhacnZZbHRv0gHMAUFVX3lxTE1XWlFkdG5kYWJHOE80Z2tGVmF1Uy03QXdfQU5iaTA4aXlmOEs0NFF0alBZbzhJcXB4R0t4a0FRaEgweGluYUdMekhmc2RveWVnUFdYakllQ3RFc0tLcnB6OHN1Ry0xZzIwWkR1WVVwU2lGWk9mMDRuRjZQSHoyQXYtc1cxMHVSNWsyMzNpNEJsMWxjeXFsOEhYei1oUFBIM2xzbFJWM0hNY0l1OXF1QTV3SjVlS0VHOXNmb1IzUV84aWZ4V0s0R3hfVDJwZg?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 00:30:24 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FCNR deposits explained: Can they help stabilise the rupee? | On the beat podcast | Part 02 - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONXBDYWxMR0RoOHJMdVVKU0RrdHZlRm1OZ3A4czVDVUpSNU0xY0VSSVBTZ1JFZTBTNmpaV1dVdlN0enBucVBoMmg1eHlOZWw2T1lXcTZrZnVXSXQwYW9wTExlT1hCdldJaEF0S0dQLWs4ZTFYSzdTMU5yaWExaUw0TUVJNmZjaDA4U2ZkZjQ0OTdSblpCQmNsN0MyMWJIRFJQemZ6THlyTkMzOUpsd0E4dEJMMTU4S1ZkZThxN2xheDNIeldJWjhJWkkzQQ?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 22:59:48 GMT"
+      "title": "Pre-market action: Here's the trade setup for today's session - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOTmFYM21pbDMzekp2QXBYMktJcDJlNXpQMjE3UXp6ZXFZMDg5dTZfVy1Pajdwak4zS2Y0ZU9JNmpIMTFtUmh5NEJzQVNXbXBsQk9tbGRiVmhuUlVKdDY3Z2NrTXRDcU9GVjVEdWhmZ0dQekNPal90cENia3ZFb1VWSEc4WmwtS0gyRG1pOFJRbmlzZVZWbzY5cHJ0QlFLdDBBMllJU0FCYjJkLWxwVkVNelpBTjdmOWNSajdwWHpzVU9DaC1JNGlFOUV2VlB6d0ZJcnBLVHpTYjkzNUhmc0Y1OXVOcEd0eXgxNVoyQnVCcUxZM0YxTS1iVVoweE9zOVQzRm5qVXNtTndralRvZkxFZll4MTZpU3V4dWxxWkp5SGJ1NGdJMUd4Q0NzZjhsX3RNaUFKVUZn0gHSAUFVX3lxTE16Zk9JajZtQ0dCSU9vYWU5V1E3NDEtTzN0RThyeXZKYkZhZDVIZF8xcXNJYVY0aDVCbE1KU0VnSlZteHB3X055clNBZlpuN1BqZmVKWnVTNFBzWGpLVkZnZDRWNlRVUlV5OWNtZUU1ekt3ZkxSc1lVdlZqSlVyUXhxSjhLQkc0YzMzc25yTWtockxlV0EyLXZDT3NRQ3NxeGtNQlJSUGJhS3R5WjlETnlLbzliYVlUM3Rib09obVJYRTJCX3VJcmxzcHdTVG44a1B2dw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 00:30:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Trump looks to India as he renews US voter ID push, cites CEC Gyanesh Kumar - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTDNieDdaaVRGYUczbWxJdFZ6bFdkdmVhczVmcXV2X3RYXzB0UnhQX25fRzh5amFWS1N3dU5LU3VsTnRBTUs4WHJuV056bnRTZk9ORnlmNFByNHNKQVYzNFdvNkZSYlBpRnpZbkU0OG4tZWMwVG9RVWdoN29ob3dVeGFLWFNBT2pxTkJHcXJ6ZTVlcTQ0LUJhUVF1cmJ6U1VvcXd2ZW9PdC16N2RqMWJ0WHQ4cE83Q2Q5aThydGxPQXBkd3BNRzZzQmVkMkLSAcwBQVVfeXFMT0wzYng3WmlURmFHM21sSXRWemxXZHZlYXM1ZnF1dl90WF8wdFJ4UF9uX0c4eWphVktTd3VOS1N1bE50QU1LOFhybldOem50U2ZPTkZ5ZjRQcjRzSkFWMzRXbzZGUmJQaUZ6WW5FNDhuLWVjMFRvUVVnaDdvaG93VXhhS1hTQU9qcU5CR3FyemU1ZXE0NC1CYVFRdXJielNVb3F3dmVvT3QtejdkajFidFh0OHBPN0NkOWk4cnRsT0FwZHdwTUc2c0JlZDJC?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 23:35:25 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "HDB Stockholder Notice: Shareholder Rights Law Firm Robbins LLP Reminds Investors of the Class Action Lawsuit Against HDFC Bank Limited - PR Newswire",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNSndWZFl1ZjZJOFluc0tVZmlydC1QSWR6Z1YtaHhGMU5CY2tCbGpybUpCNmtvU3F6QzNEanp3VzlYWGdJVjZ5d2FaVUN5Mk1kUVZMb2E1c1J2LXhEZzJtU0lTWEhPWWJicnFlZ3RYLWkzak94SktSb09lSDNMMEJwQ2NKOVA5V296MklJaTdvRzZnSGxVc3N4WUk2RjBMZ0R1ekc4S1plWGxGUHdIWEJFZVFybmVVeGFGZlpDVXROMmdpNzlPNjlLeTk3dnMyZWlSQ3V3ejRzWVh2NWwzUnR0SFBwTTRDX1JRNFQ5SUNHTXhnZFh3anQzVzFIcDFRUzJhZi1RZXZPYVpHaFNCQ3A1V3ZsZ2MwLUdBUkE?oc=5",
-      "pubDate": "Mon, 17 Aug 2026 23:24:00 GMT"
+      "title": "Stocks to Watch Today: Milky Mist Dairy Food, Paytm, SPR Auto, Netweb Technologies, Baazar Style Retail,... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQdkVWS25RbnRNajAzdllDdWRaYy14cHp0SjloVEE0WFdLWG1ZeTNwWkxUNWIxZ2c1N0REYzJVcjg0YjhYZkJpYW4zWWt6bFljRG5nN083em53MnFxZVFwcjlHSXRHSW92YVlDVkxLWUt5bWp3S1RUaERUYU5IeFJkOVp6Q1hjT0JSTGRSbEh5MTZ0T2pXci1iU1BtZWY1azhnM2ZVRXFfVVAzRTJZaFNvYUlQNHV1eVNVREs2cXBaX2VUemVndk9DOWpFTm5VbGdTSExhc0xuSDV5YWIwckFDOENpSTRiMFFMRWotZndZWVJ4aF9BTHlMZG5LaU40SHI2aXlYMmVxd29RdmJRTWhmR0xUeW85dHdXNW9LdXlWbkVGUU1Bb3hET1FxRi1JZXRoVHNJ0gG4AkFVX3lxTE1wYjBWenVWZU5JeHVIdjl4LWFmTmc3U1pGQVZNa0cySllLNHp0ZE0tTndHdVR1U0Zfc05OWlVsZXljTk1YU0R6Zld1SFZZdmd1VXhqVHIxVXcxZlhleWFRczcwMm1ybjdKd2wtZmxybkVlaEtqTk00d0hJVG9rTVlwbDg2QTdjZXVzb2NxYkNnb1NON09zMTdpUzd3LTZQd1d6dkNxNDdiU1NwR29XWlhPUUNEaG5iLV91dHFLR2lSTTl0aVhJM1dvWDlrOTFkTk9zRU5SaWxLY3dkU3ZZMHVqQjR6aFc1cnBENlFPcUlEd3c0VFNNY204THpZaThjcWRRbzA2aGVzTXU5RnVNUzFHUHJtMHdVeEhqclRSMC1NaVRqa0xIQlhWcFZOTzdsMi1tTnpudUFrUQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 00:15:22 GMT"
     }
   ],
-  "fetchedAt": 1787010497
+  "fetchedAt": 1787015110
 }
