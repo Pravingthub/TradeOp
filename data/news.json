@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Tech selloff weighs down Wall Street as bond yields climb",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-tech-selloff-weighs-down-wall-street-as-bond-yields-climb/articleshow/133332021.cms",
+      "pubDate": "Wed, 19 Aug 2026 01:39:53 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Anthropic pre-IPO credit facility set to climb past $10 billion",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms",
       "pubDate": "Tue, 18 Aug 2026 23:14:46 +0530"
@@ -23,12 +29,6 @@
       "title": "Sebi to soon float consultation paper on distribution framework for corporate bonds",
       "link": "https://economictimes.indiatimes.com/markets/bonds/sebi-to-soon-float-consultation-paper-on-distribution-framework-for-corporate-bonds/articleshow/133327145.cms",
       "pubDate": "Tue, 18 Aug 2026 21:38:36 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sakarni Plaster to invest Rs 450 cr on expansion; to set up 2 building material plants",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/sakarni-plaster-to-invest-rs-450-cr-on-expansion-to-set-up-2-building-material-plants/articleshow/133327030.cms",
-      "pubDate": "Tue, 18 Aug 2026 21:37:04 +0530"
     },
     {
       "src": "Business Standard",
@@ -128,28 +128,28 @@
     },
     {
       "src": "Google India News",
-      "title": "Tempsens Instruments India IPO Date, Review, Price, Allotment Details - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vQmlpeVFWZVVmVUZJemJqNnZ1RlRsVjNoQ1ZKaU5rZ1QwZ3hvWUZpb25LRlktOGl1V0J6SGhDXzlOQWp6OXNCMVEzMzhna2VQbFhSRTJCenZkVGpYNFZzcQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 19:50:27 GMT"
+      "title": "Intraday Stocks for Today: Top Picks 19 August 2026 - Univest",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tc21hZHA2dEdyODJfa3dDWnY3eFhsdFVjdTVsMl9sTnJTMkhSTExCYVFlQjlGbmdWWW5sMFAzQ3VfU0pzdzVxVnpYZ096ZEpRa0Z3b01HcWdOLVUtQ296c2Z0UHBacTZocWV1TnRyVQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 20:07:40 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Yext to report Q2 FY27 results on Sept 1 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR1FzZnQ2SGZTTXV3V1NmSmNUVFNKR2V6OEhrY3diTjVwdEJwVUNJY2c2V1RKajg0dkVNLXVIN2pfeEh2MFRJWXMwWEowMXBrOFJxSUcyVTJNTjlESTdvZkpCWG9YN1N1QVJ6LUgwdGlCUTlmMER3c1RTc0w0OTgzZWs3dXl2a2NVckFJaUtVOWFlX3VQZXc?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 20:20:51 GMT"
+      "title": "Dover to acquire India\u2019s Leistung Engineering - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnBFQ1Q0Mkg2ZFp1TXItTENrOHA5VW9SYmZZZnhVZVZuV1A2aTZyY21xR0pzVXBjbnhxNGh3bHhJZ2FadE1RMTBQalRhVzV2Y2M3UC1MNjBNRTdObzFUUHVHdDJ2NUN1RndMTWNGenplS2UwUU9wY2xSazlzLWNZd0hIc1VsRmNBZXdwelUzSE5LYXpVY2daT281Z2hud2JGeXl3QzZTS2E?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 20:24:31 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "'Americans will never be tried overseas\u2026': Trump, Rubio go full throttle on ICC; chief sanctioned - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVHhkVDdKaFJHcUNBSl9iQUh0dTlHUnFjZ19SXzFpWXRobkMzZ1dJSHpZR1VHamFCYzktbFZZaDJOTmJ0ZHBfT1ZBay1JaHdDOHhQU25SOExZUlFCQWI4YXNJUXRhSGVzQmxERHY1aWJXOGlmbDFYci1Lb0RMOTZRRjBIUFVzYzVtY3NWRGZVRlhOZEJFZ1VuX3U3ejBZVHV6NmpPN3J0SVFINEtJcnBVZGlxdDdFM0NIYWRoSEdTOWk2aDNHX2doNzZUZkxrbE9rczh0TkpOVVlNcVRRQ01BYzJDTGFjeTZ0MTdjcmRsU256WVlpejNsOTdYY2tXVENSV3U40gGIAkFVX3lxTE50dS04MzBPNEFLMENubmI5b21MN2t1SndDNnZUOG12TENGTjV4YWx6QmNlUE1DYXREZTl6T1F4VV9HbE1wU0YySklTRzBTUldxZmZUUTJUWkhpZXF0TUMzZHRGTnM0U0c5TXJYYmVyYUE4bl9FYlI4MzV4SThOWjNsNkpTRGV1UUZrU2hfbUtZcmhXaDB3LVh0VXlDWU1sYWlZa05wRjM1VDZHdy1NVm9FYlVVdVRlZXZ4ajBNLVpnTEJERkZLSGdvMVdtNHRFZjBKQklpTThEVGZjMkN5SVlxRzdvSlhYd0p4WTBqTjJ5c0Qyb182S0p3c19YOHQ4enJaUHdYQ3FuUA?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 20:36:12 GMT"
     },
     {
       "src": "Google India News",
       "title": "India offers city gas suppliers incentives to boost domestic piped connections - marketscreener.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZ3VLUTJ2TXVWUzA1VG9vTGNCM2xoY3d3eDhqY2luejMzVzJCSlpSb1NRTVFtMnlCckdzYndIallNSDFPT3RPRG9iZGdxUTV3OTFWZVdFalVwR0VZTWNXdjQ2ekRhMnZaWGYzSUZ2UkZQWUhZWXdQUUkwSENhQVkxZldlM2FTZWlnaTJKby1XQzBnZUJOdUE1QmNfZ2l5dzVaTnBhd2JoNEo1akFWV1ZXME1ydzNFUWdpVm1ORldhN2ZRb0hwbnpfMGlXdw?oc=5",
       "pubDate": "Tue, 18 Aug 2026 20:11:14 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "The big BIT reset: Why India is rethinking its investment treaty model - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOFg4S3hjZDNXVjlHaUdoTXoteTZmNkVNT2lxcGM2RHZmaFBiQmJodFRaUm5uLV9jbktfdzU1VXk5bnU3cDFSWVZKNVpKMEJ4Uzl4RlpadFhDdy1XQWpEU2tEclNsSXdFeXFRLWdDYXM3dTdCdkxTMUpSZmxLcERPbjE2NkZfRkNheWFpdG9EOFh4Q2VoZGhoZ0h1TGh2dU1vc3BYZE42VGNpTlItMVFmZXlpU1AzbFJ0T1dlNWhDSVpET0NPd0FWYmp4QkNUdHVvYkHSAdcBQVVfeXFMTlpoQThTUGU0VUpOeHBnblpHNjVEYWpQeU9ESl9NYUlnai1DdXdhUmZ3THloVm10T2psSmVsZGJHODhoTlB0dzRwRGVvejgwOXJJV2pOSGlURFlGNXZVeVo0MmpZMXVrRk9iZjV4UE9ldWg3UHI3ODdqSlJfMnR2YmNQMk5QNU1TOHpiMVh2eVU0MEI5d0FySnRHUFozZzlZYUNFYzNVUlFKcnJjUjRZS3E4aVBic1ZiTmVlU21HN0FUbGlGNWlZS2RYYkdSU3JVLUVKcHFtblE?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 19:24:47 GMT"
     }
   ],
-  "fetchedAt": 1787084610
+  "fetchedAt": 1787086252
 }
