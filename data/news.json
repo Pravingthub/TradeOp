@@ -2,9 +2,21 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Mukul Agrawal-backed PTC Industries shares slip 4% despite 466% surge in Q1 profit and 180% EBITDA growth",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/mukul-agrawal-backed-ptc-industries-shares-slip-4-despite-466-surge-in-q1-profit-and-180-ebitda-growth/articleshow/133312725.cms",
+      "pubDate": "Tue, 18 Aug 2026 11:10:31 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "NSE to seek up to Rs 5.26 lakh crore valuation in record IPO: Report",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/nse-to-seek-up-to-rs-5-26-lakh-crore-valuation-in-record-ipo-report/articleshow/133312513.cms",
       "pubDate": "Tue, 18 Aug 2026 11:02:30 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Microsoft stock under pressure: AI capex math faces investor scrutiny",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/microsoft-stock-under-pressure-ai-capex-math-faces-investor-scrutiny/slideshow/133312682.cms",
+      "pubDate": "Tue, 18 Aug 2026 10:55:23 +0530"
     },
     {
       "src": "ET Markets",
@@ -19,46 +31,52 @@
       "pubDate": "Tue, 18 Aug 2026 10:48:01 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Global Market: Chinese, Hong Kong stocks slip as AI shares retreat; energy stocks gain",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinese-hong-kong-stocks-slip-as-ai-shares-retreat-energy-stocks-gain/articleshow/133312183.cms",
-      "pubDate": "Tue, 18 Aug 2026 10:38:35 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sigma Advanced Systems shares rally 5% on Rs 155 crore anti-drone orders; stock up 105% in 3 months",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sigma-advanced-systems-shares-rally-5-on-rs-155-crore-anti-drone-orders-stock-up-105-in-3-months/articleshow/133311814.cms",
-      "pubDate": "Tue, 18 Aug 2026 10:20:10 +0530"
+      "src": "Business Standard",
+      "title": "Adani Power receives upgrade in credit ratings from CARE",
+      "link": "https://www.business-standard.com/markets/capital-market-news/adani-power-receives-upgrade-in-credit-ratings-from-care-126081800382_1.html",
+      "pubDate": "Tue, 18 Aug 2026 11:31:30 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Veefin Solutions announces strategic partnership with NSIA Group",
-      "link": "https://www.business-standard.com/markets/capital-market-news/veefin-solutions-announces-strategic-partnership-with-nsia-group-126081800354_1.html",
-      "pubDate": "Tue, 18 Aug 2026 11:04:56 +0530"
+      "title": "Highway Infra jumps after securing toll collection contract from NHAI",
+      "link": "https://www.business-standard.com/markets/capital-market-news/highway-infra-jumps-after-securing-toll-collection-contract-from-nhai-126081800381_1.html",
+      "pubDate": "Tue, 18 Aug 2026 11:31:21 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "INR extends losing streak as oil prices stay elevated",
-      "link": "https://www.business-standard.com/markets/capital-market-news/inr-extends-losing-streak-as-oil-prices-stay-elevated-126081800353_1.html",
-      "pubDate": "Tue, 18 Aug 2026 11:04:29 +0530"
+      "title": "KPI Green Energy energizes 130 MW solar capacity in Gujarat",
+      "link": "https://www.business-standard.com/markets/capital-market-news/kpi-green-energy-energizes-130-mw-solar-capacity-in-gujarat-126081800380_1.html",
+      "pubDate": "Tue, 18 Aug 2026 11:31:12 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Volumes spurt at Billionbrains Garage Ventures Ltd counter",
-      "link": "https://www.business-standard.com/markets/capital-market-news/volumes-spurt-at-billionbrains-garage-ventures-ltd-counter-126081800352_1.html",
-      "pubDate": "Tue, 18 Aug 2026 11:04:20 +0530"
+      "title": "Sunshine Pictures IPO review: Analysts divided; GMP at 20% - key details",
+      "link": "https://www.business-standard.com/markets/ipo/sunshine-pictures-ipo-review-analysts-divided-gmp-at-20-key-details-126081800337_1.html",
+      "pubDate": "Tue, 18 Aug 2026 11:22:01 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "SPR Auto Technologies India gains on launching QIP",
-      "link": "https://www.business-standard.com/markets/capital-market-news/spr-auto-technologies-india-gains-on-launching-qip-126081800351_1.html",
-      "pubDate": "Tue, 18 Aug 2026 11:04:10 +0530"
+      "title": "Groww share price slips 4% on huge volumes on BSE",
+      "link": "https://www.business-standard.com/markets/news/groww-share-price-slips-4-on-huge-volumes-on-bse-126081800346_1.html",
+      "pubDate": "Tue, 18 Aug 2026 11:16:43 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "BJP unveils new national team under Nitin Nabin",
-      "link": "https://www.business-standard.com/markets/capital-market-news/bjp-unveils-new-national-team-under-nitin-nabin-126081800350_1.html",
-      "pubDate": "Tue, 18 Aug 2026 11:04:01 +0530"
+      "src": "LiveMint Markets",
+      "title": "Behari Lal Engineering IPO listing tomorrow: Here\u2019s what GMP hints ahead of debut",
+      "link": "https://www.livemint.com/market/ipo/behari-lal-engineering-ipo-allotment-behari-lal-engineering-ipo-gmp-behari-lal-engineering-ipo-listing-behari-lal-ipo-11787029898525.html",
+      "pubDate": "Tue, 18 Aug 2026 11:46:44 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Small-cap IT stock under  \u20b950 jumps 3% despite muted trends on Dalal Street",
+      "link": "https://www.livemint.com/market/smallcap-it-stock-under-50-blue-cloud-softech-solutions-jumps-3-despite-muted-trends-on-dalal-street-11787031047346.html",
+      "pubDate": "Tue, 18 Aug 2026 11:45:45 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "NSE begins valuation exercise for mega-IPO after strong institutional demand during roadshows",
+      "link": "https://www.livemint.com/market/ipo/nse-valuation-exercise-mega-ipo-institutional-demand-roadshows-qibs-domestic-funds-sebi-11787025810104.html",
+      "pubDate": "Tue, 18 Aug 2026 11:16:41 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -73,22 +91,10 @@
       "pubDate": "Tue, 18 Aug 2026 10:31:00 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Stocks to buy for short term: Grasim, Quess Corp among 6 stocks experts recommend buying today for next 1-2 weeks",
-      "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-grasim-quess-corp-among-6-stocks-experts-recommend-buying-today-for-next-1-2-weeks-11787027051128.html",
-      "pubDate": "Tue, 18 Aug 2026 10:20:08 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Sunshine Pictures IPO Day 1: Issue booked 45% so far. GMP hints 21% listing pop. Should you apply or skip?",
-      "link": "https://www.livemint.com/market/ipo/sunshine-pictures-ipo-day-1-issue-booked-22-so-far-gmp-hints-21-listing-pop-should-you-apply-or-skip-11787026498490.html",
-      "pubDate": "Tue, 18 Aug 2026 10:18:46 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "GIC\u2019s attractive dividend yield and cheap valuation face a regulatory overhang",
-      "link": "https://www.livemint.com/market/mark-to-market/gic-q1fy27-earnings-premium-growth-slowing-regulatory-risks-underwriting-11787023130851.html",
-      "pubDate": "Tue, 18 Aug 2026 10:11:45 +0530"
+      "src": "CNBC TV18",
+      "title": "Hold Paytm, stay cautious on Zaggle; Usha Martin, Skipper in focus, says Mayuresh Joshi",
+      "link": "https://www.cnbctv18.com/videos/market/market-analysts-mayuresh-joshi-zaggle-paytm-manipal-health-usha-martin-skipper-19971603.htm",
+      "pubDate": "Tue, 18 Aug 2026 11:21:25 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,41 +121,35 @@
       "pubDate": "Tue, 18 Aug 2026 09:29:00 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Rupee under pressure: Key factors weighing on the currency",
-      "link": "https://www.cnbctv18.com/market/currency/rupee-under-pressure-inr-vs-dollar-usd-factors-weighing-currency-19971505.htm",
-      "pubDate": "Tue, 18 Aug 2026 09:24:11 +0530"
+      "src": "Google India News",
+      "title": "Opinion | 38% Under 30: Why India's Gen Z Is Gambling It All Away At The Stock Market - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU1hJZHRTZ09wcUJaVlVwaFQ5ejZYSktsdG1meGQ2SGNVR0RsWDBmNHU0TDRSQlNIQUxMUzV0TVVIT1V5YTB0OW9TU1paRXdWVk03dGRIRktzNVgtemNGamFBelFfX3FvMnNUc2NrSXlhZGt5MDhjVmJuaThWX00wTWROcnF5RTVrMlFHVnFBUzUxdk9UQjM5QnJmTXhueXhmemZKdXMyOC0tVF9WRVlHNGhBSQ?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 06:10:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 18 August - tradingview.com",
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 18 August - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdmdoX3NEUFRRRGdsdjBvMWcyVkRXWlNRb0xUSHBFQ0Y2andUYVlxRWNWSWVJajdhQjlBVmdNMnNkT2JXNTBjczcwX3RUYUN0eE9jczkxUmdMNUFhcWdUSU4xcktFU3lpeXdldFZEVjN1elY2WDlYMC1VbDVRN3JZUDFRN09VVXZXYXJucy1PbTU0dnYta3dMcEpqc194M2kyQjhuZ1pPeWduSVZ6NEFBYnVFLUd6T3VnOGNRQXBDRHJiTWRJRU1NS3BqWmFleFdBV3NvVWNRY1h4NzA2V3Zrb01TVndmOU9r?oc=5",
       "pubDate": "Tue, 18 Aug 2026 05:19:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Colgate India falls 3% despite Jefferies' bullish outlook; margins in focus - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMWNsUHVXbWpYcHUzaEx5TzVzUjhJeEhfS1lHRkNQdzA1c2FkTzBaOGJHRkFGUTB5bVZOZkdqQlhzTlQyTWNRam5LaDZkNnZMZXRjRTZOdkczM21nLWt5ZmFSblljcmhZOXlzTks2SU1JZ3R4eFlKa2UzQ3c4R2FDMnNvM2xFN1VvZWdvZnZCMjlOVDBFUHlrUzd5UVJLWktXN3JOWm80bjVNSHRFVHdfRUhsYmNoc1hWamQ2R2RzQloxNXdHalc5ekpjVHlNTmpYckNfSTln?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 05:30:21 GMT"
+      "title": "Groww share price slips 4% on huge volumes on BSE - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObVdMb3BxUVNnRFNnV0xTcTJ1VW1FMGsxRmhhOXlzemtHSWhMSWhwLUFNbDQ1ZDdxSXJweUNxUl9jcnFxOGNCUGxtUWVGQ3dZVXZ4TkVhRS10TnZCdng2d3dmcGtBT2U0eHJRUVlNSGdiNkIteVpzcmhSc01PTFJWM3RnNDVQSEZoQkhtdnFXcFZ0WmU2S01sVkpDNWZua0VGZDY0WFRjYV9uNUNfNEJmQlVnZHFTQdIBuwFBVV95cUxNVFhLcVVBVXoyWko2bHRaMTM0aVVMQXpmV0RsT1JyNnliYW1JbHh5b3U4SXg4UHZ1ZzEtdWtaUFRiN18xN1lXcEMzd19KTGhFcWROZXNaSkVOVnpmT3FyN08yT2h2c2FtWkVRS0NSeF9CaEZ3QnJKTHpnN19LS1F1Y2NOSmhvQm5oWHVIVGV0czNBdGx5cnBqdHV6QjFQWFdJRGloSzhFTzVUZGJmb1Z6QXJPdGlUbGN5VlIw?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 05:46:00 GMT"
     },
     {
       "src": "Google India News",
       "title": "India\u2019s NSE seeks valuation of up to $55 bln in planned IPO - Bloomberg - Investing.com India",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSjA2OEJLRVVjeVYzS2NNdFpHcWZ4NTlpWklnWXhiWWZiRE1NR3ozUWx3VU1ZeFc2MVlaNTZabWgyT2RWYmZfaUVQMWZQLVM1M3d4a3JTLTk4NkxMQW1SeFQtS1lvZkE1c3RDRTJWMnBPbjR6VHFhNmVESExLTmp2cnNoa0hKc3kwY0xqbFRpUnFycnd3cmhGQ05CdmJwa3o3eE9EendmLWRmWUVDUG0zUUZnNHpkQ19wZDBMOG1KVEQzQQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 05:37:32 GMT"
+      "pubDate": "Tue, 18 Aug 2026 05:39:41 GMT"
     },
     {
       "src": "Google India News",
       "title": "Stock Market News: Sensex, Nifty fall as tension in Iran pushes crude price above USD 91; IT, realty stocks u - India.com",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeUJ6QTNoWFhjNF9uQ0cxS2w2M1R5LXVoRWg4R19fTi1hY0R6MGRRMWQyUDIzdHRxRkdOOXBMb0hXcERjNHFaSFY0eHRsZU9XY3VBZXhWdUhCTGJ2eEctakdERk5pV09uNnhadEUyODg5dDhYMXB5NjZZNENnR1h4NWhUVjlYZUNNMnZBd3pEMXBJRmt5blItYjJvTmtPaTh3ZEQtMk1VZVZHZXI4REEzbDg1cDlCYXlvV1RsTW5KR3JJZ1hiWXdkaWtrR1daRGhWUmfSAdcBQVVfeXFMUG5iSzBxOXk0UFJsZTU5Y3NPUnRDbDE2d2tHVWc2LUQtSU1iZXg2SHpPVkdOaE5SdjRZeUtEU0dWcnZfOWhTV1FlVXM4Skd6RWdXdzFtc1FHazMtUHhDMnktWXZlSTJ4dGZmVEE2V19tMXMtdm1JZS1fNHVGZkxRQlgydmNmaEZXNkV4bXREa2VVOGN4UmtOOTVCcWxjNFV4NnpndEFCWGV2RkRnRVlPdGh2NlZzRGxtem1mUUtzeVJubWZITnFDbEFrZGU3cFRWQVZlbHMySWc?oc=5",
       "pubDate": "Tue, 18 Aug 2026 05:25:09 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Solar Industries India Ltd. Share Price at 52-Week High - Univest",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQd3NlYlg2Umc1MXdBd1JtRVBPdDlHZ2tiWlJiQ1o3Vk04RGxOMy1mbFBxVE5NXzN5dkZmTVY0WEJWdDlWSXJrTDZrSEVtZHg4d1lodFZ5VlBqUC1CeXM3bGpIWmZILTdtOTNZdmhpay1SRDFER1k1TlNjNHBwSkNJS0pTTmVVOW5kNnU4eDVDOGxpNFprT1E?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 05:08:00 GMT"
     }
   ],
-  "fetchedAt": 1787032158
+  "fetchedAt": 1787033922
 }
