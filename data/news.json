@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Anthropic pre-IPO credit facility set to climb past $10 billion",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-pre-ipo-credit-facility-set-to-climb-past-10-billion/articleshow/133329176.cms",
+      "pubDate": "Tue, 18 Aug 2026 23:14:46 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Gaja Alternative Asset Management mobilises Rs 165 crore from anchor investors",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/gaja-alternative-asset-management-mobilises-rs-165-crore-from-anchor-investors/articleshow/133327455.cms",
       "pubDate": "Tue, 18 Aug 2026 22:06:22 +0530"
@@ -25,12 +31,6 @@
       "pubDate": "Tue, 18 Aug 2026 21:37:04 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US single-family housing starts slide in July",
-      "link": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/us-single-family-housing-starts-slide-in-july/articleshow/133326995.cms",
-      "pubDate": "Tue, 18 Aug 2026 21:31:04 +0530"
-    },
-    {
       "src": "Business Standard",
       "title": "Milky Mist shares gain 30%; India Exposition Mart files DRHP with Sebi",
       "link": "https://www.business-standard.com/markets/news/milky-mist-shares-gain-30-india-exposition-mart-files-drhp-with-sebi-126081801560_1.html",
@@ -46,7 +46,7 @@
       "src": "Business Standard",
       "title": "Five-year bond yield hardens as FCNR(B) position unwinding weighs on trade",
       "link": "https://www.business-standard.com/markets/capital-market-news/five-year-bond-yield-hardens-as-fcnr-b-position-unwinding-weighs-on-trade-126081801233_1.html",
-      "pubDate": "Tue, 18 Aug 2026 19:26:00 +0530"
+      "pubDate": "Tue, 18 Aug 2026 19:26:21 +0530"
     },
     {
       "src": "Business Standard",
@@ -92,6 +92,18 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "CCI approves General Atlantic\u2019s acquisition of additional stake in Acko Tech",
+      "link": "https://www.cnbctv18.com/business/cci-approves-general-atlantic-additional-stake-in-acko-tech-19972216.htm",
+      "pubDate": "Tue, 18 Aug 2026 23:50:14 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Authum Investment and Infrastructure to invest \u20b9102 crore in ISARC through rights issue",
+      "link": "https://www.cnbctv18.com/market/stocks/authum-investment-and-infrastructure-share-price-to-invest-rs-102-crore-in-isarc-through-rights-issue-19972200.htm",
+      "pubDate": "Tue, 18 Aug 2026 23:18:08 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Kotak Bank to raise $650 million through dollar denominated bonds",
       "link": "https://www.cnbctv18.com/business/companies/kotak-bank-to-raise-650-million-through-dollar-denominated-bonds-19972154.htm",
       "pubDate": "Tue, 18 Aug 2026 23:01:53 +0530"
@@ -109,36 +121,6 @@
       "pubDate": "Tue, 18 Aug 2026 22:29:55 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the August 19 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-august-19-trading-session-19972113.htm",
-      "pubDate": "Tue, 18 Aug 2026 21:31:52 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Aster DM Quality Care Block Deal: TPG likely to sell 7.2% stake for \u20b94,780 crore",
-      "link": "https://www.cnbctv18.com/market/stocks/aster-dm-quality-care-share-price-block-deal-tpg-likely-to-sell-7-2-stake-for-rs-4780-crore-19972133.htm",
-      "pubDate": "Tue, 18 Aug 2026 22:37:12 +0530"
-    },
-    {
-      "src": "Google India News",
-      "title": "India\u2019s NSE Heads for a $55 Billion Payday - bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZk5GM1lJSGNaU1g2cGFnSklJdnYyMFFhVWpoZld2UFhSUTY4SEZ1YTZjZFRSYnFYNk52bHBDTGhDNE5tY2N1Y3NET0ZZUWNDS2RHdUhlc3hFaXdXT0NPeWVwdmI4RDFrMkdrR1otdXZUUlBUa05tLUc2ZTQ4Z1RPSG15RzBGdE1hVjU0bjl0QjZORzQ2OU14RzRZOU40RWNEM1JrTHFIMXlHOGtxRVpTV1I5UUNmQQ?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 17:07:45 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Milky Mist shares gain 30%; India Exposition Mart files DRHP with Sebi - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSEtmWjY2Q2ZoNURCZE9PdEtXSzVUTllOWU95b0pGaWVtcksyQkVyUThWVm9tVldYSjR5cTU5SmhLVnBCX05RV0RhU1I4M3UxRDVhSEFmYjc5OERQMTIxQ0Qydzl1R0dyQm9aUTNrOHVFN25Va3NTaG9VU3IxUWplY2docDNNY1FFdTY1Ul9XcG96eFZwc05YM1EyX3RFR3YyN25pRXlSdTRPQW9BY0U0ZFFfcDRUZDhLQ21FZkZ2QmhxZHZHVDlZZ0hFVUVnRUVw0gHWAUFVX3lxTE1OcHNUS202b0FLWmJEWVdmVmVZQS1NWV9PT3VUaHgxVDRIbGR0Y1d1UmNqSk1LX1FBVTlJWGl0STVnUExvcGFrNlg2MGstUmpRb1k4NWI5b2dWRURmY2ZjazN3WW1WMnNHSFdaRzY0cGR0UUExUmhZUTgyb1JZOVRUZ1hiYllSMWQ3dVNoX19fdDREYkFTTmFNYm82ckQ2Vkw0ODk0YmVvZkFuVlZPVlEwSkJCU05XSTZoTUpzNlhJSUtRcDd0MUxXdzhMeVMycXB2THFEWlE?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 17:20:13 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India's economic growth to slow to 6.8% FY27 amid West Asia crisis, El Nino impact - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcTFzTkoyVlRTb3NSUzlxNDFndGtrVTdkZWJac2t5bUd3V0Ezc0ZBRjFvT05vUldlNzVpZC1KM2syWHpvM1pTSGdhTmI0Y2l2Wm5ISHlJZmN4c2ZTNkVOcXRCemdMaUxHWXN6dklmaWNOdmdHbENsZXFQQjF5VmdWRmFGejNsMUhEaE16SlJpNGZkMktBWkk2SFdTaExlaloxUVJjRGRQQVlzOFZqUmFnZWYwMDFIWFVvV242ZnppMHpvdV9wbGRQdl9iaW92b1l6elItMHNSMNIB3gFBVV95cUxONW5HblBnRWJ6Vk5OcEJLVkg1cUdCYUZ2ZXc3T0tDenBzaHNPMkNrV0JtUllVdS1lbjItR3hqMXcxZDJ6YzdtZlpUZ1RpSWVMNlRnTllCMER0X2RmX05lZEoxUW1ZdmNCMGlOQ0VnQ1A0RDdwTUZWbGNsMjhFMGdoY2hSWjBtcUQyS2lkb0hGMDlFSU5aWEVXRzdURkpaYVkyOG9nelNyQlNhSE45UXNoV1RSX2VCN291WncxVlhPSG1MWVNOT0lVNmRqRmhKQ04wRjBKTWxOVEJKeFB0c1E?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 17:20:09 GMT"
-    },
-    {
       "src": "Google India News",
       "title": "Authum Investment and Infrastructure to invest \u20b9102 crore in ISARC through rights issue - CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNV2pHR3BSZnFhYTJ0ektKM3NvUXZVbkxGUHV1YTFfVWQwV2xwUVl4Z3h6NjlGYkMxUXh6VXhVXzlYdVBLNUZfbjRzVE9pQ3lyXzJIWHA3aDlfRWl1SThmRUZoQnh1d1lOM2QxalNjZVAxMEJSaGFxX050LWc5ZktNUnQ0YTZvbVE4YWNyVWlIQmI0Y3h5QU5BQU5PUXpLeG55cXRhVjRPUlZKeHkwaUVJbWpYNE4zdjlTYXdXUWppOXJad3JBZWYzcWZ1Q3BCWU9LMFVOX1FVQWpzVUNFSFltUnZCdDVFLTls0gHuAUFVX3lxTE1BRGVKaHF3Q1hWc1k2ZGhhUFlMMTFKVEpxZ2xvTWktRlB0UHBSV0dQbTlCVUNvTkRLQ2FfMFRoOWFQRnBjdjdDQ1pYRUdGMnNVb3YxamhIckVYSnM5UFpvamVodG9WRjdXYVdqSXFPT2ZrQ082c2kzcW53bFRmS2NQcl9BQnZ4YnplUU9BMUJFQWlUcGJuTVRYOHQyejVWRHlSMkRiUFhwNlBwakhhc004NUdRX19yUGhiSUxxVWZxQ1VZaHZpeWlQeTU3VG5LNXlPaFFOZnVLbTFEQ3VmNkNrc1ZGaFdySkhCa0NCNFE?oc=5",
@@ -146,10 +128,28 @@
     },
     {
       "src": "Google India News",
-      "title": "Jubilant Ingrevia shares to be in focus on Wednesday as company to acquire 40% stake in EDMS firm - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZjdvMktZcXZiSFdRZFF0aS1xaVVvYURGcVUtRWgwUmNLcUdfVzVXNWdwMUhNbXNhMVdONGFzckN2VzlycVFtbnVvR3N0Wmo1c2NlLXBWeVYtV2NOMXBJSmtGR2hCc0hMTjUybkNjTUxBeERyb2pQYW5iaHBRMUgxamRCS0NRTVBpSUc1WlpSUmJrUzZEMlFuTzBkUWpzR0RJVndwVkg1Qy1Tb2tGMmd3MzRJckxHdUlLTVFmUE5hVzY4QkRpaG9ONXc0bGJtbzBrY3Z6bGxxd09ncXdzT3lzemFlVkhCcUIwY3hfMlZ5dnhMdTNyWDlGQmF30gH_AUFVX3lxTE5UcXMzZ2EtVzlOTkJaaUp5cFJWZzhzbTJnQnRMNXVNTnEtNjJlWVBRM1ZSOXZhZE00XzNVLXdjUC1LdjRld3YxbmZkZXhzOGd6aUFpdlp4SUFLZ2tyOWppc3pNZ3JMaV96RzdTR3FXbUE0RnIxZEwwRkdnWUluLVFVT0FEQU4tZ2Q5a0xaclpLeVlCdUNBSGxrckcwUk5BcVM0SFktbkg5UDc3d1FDU05JS241RVhOclB3Tm1CbGRCM1VaRVdvcHBlX2lPMkpVczA2eF9JRzBLSy15NU55RjJFMjFuY1Q4SWhNcHZhbHhod0c4OGZKbmNoUnJJX1dfNA?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 17:16:30 GMT"
+      "title": "Japan\u2019s yen lesson for India: Don\u2019t fight the currency market - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQXzdjd0xXTWdkekt0NE9ILS0tVnp6LTJ4M2taQnhKTmtuVFFuYmprUVFIa0pPdWdKVW5Nck9CaUYxWjdRYW1HZWg1d01YVnQya0p3YWR3WFg5U1o3amkyamhFc2V4RUhwRk5sSkpSMnZVSGpKS0g3bmVGUzRCZ0hZdUIxa3FFMGNRMjNYaXRZeE0wcVN4VkJ4b1ZYbGZwN05aYXR5Vkk1elFxVWs5SjdkaGpvOG5LVWZZdmlfa3ZEOUZPOW1ldHVwbG9ESU9CTGPSAdQBQVVfeXFMT1E5bHRjTzNmQzVJTUhyMmJ1dndOLWZzSk5zd29GeGJfX0FOR1I2am1yQjdkRUpxd3pKQXFtVWRuWk1YcTRvQ2JiMGdiaVh6aWJvTzlEdjd2VEIxOHExS2lNMUttUDVGbDdGandOMXJyTnk5OTJYQmNrb1EtU2FmZWVpLTd0WHQxUmFDb1c2S25YMFdnQzRJaU9Yekwzc0lRbFNwU0xDN2Fpdnh5Z3lHQ0NSS2VscnBzOXUySVdxbmxaUEVaUGF0ZG1OOENJUnN4NzU5U1E?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 17:48:00 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Wipro Consumer Care to acquire 60% stake in Dermatouch for Rs 387.5 crore - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxQRDlEbnpSNTdfUGd0VUR5Y09uYjVBMkJQb0RoTzhsa3NRR3NTeVZtX2tld2JnYjlmRXBidVRCaFUyWGE2am40NUtyb29mUC1ZYjgtTDRQdVRUb2tMTlZjVktrNzR1em9QQUZ1eVFHXzlCMWs0WlN2ZVBrQmJwWUM0NnpQWTNscUdBMmdkZnhCcUxhSldyVFAyeDV0UkRHQllzVC1LZXFvNjRtczVGWEMtUmxpTktNVUM5Z1BjVGhjRHZZN3ZKb2tVcEFaY09lR3IyaXFidEtfZHBLeF9JaGd0N2E3YUY4amFjZllXa0JuVUM2M1BxZHlBWUxoVTdNZ1p5UkNKSEd3dk1qeVc5LWgzRktxVWhYRzBqOVgyMmZFT1JBNDcyRzlTZ0NlMWMtb0RQLWJQaXJxM2ljODY1cG1LbXdJYThLTlVMbWk3aGdQR0xBOE5Hcko4S3ktM2JRdV9hM1ZrbG9xY05ueFU0emNYbE4wRG5xVUHSAZMCQVVfeXFMTW80Yzk0TEppa3RTdmdBRTVVLXZlMWZZZGdQNkNCYjZFbmdDMjRIVUJHLV85U3k2bGZKa2E0TGhnS25uNHJ3TzBoZG5leXU5WV9LcEc0SEQ1c0lYVzViRzBrUXI2N0JYeU1aci1BUmJmbkpzcWR0QnEwVXkzaDBGSXdCM3Z0dlkzbUFtOC1wbmtSZ094QmVxQjYzZG00dW5BS0VXcUhUYTJLN3I0QjVCRENLMXJvbVd1OF9IdFA5d0dMXzZfX2VPeUxDQXR5LTZPQTJwSEV3WXB2RGtNcTg0dU5pWWhSeHpSZTBIbzM1eGZGY0lQaHZIT25SY09SNzRTYW1Yang4Q3U1dkd0eGJzc21YUGc?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 18:14:46 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "\u2018If fraud were your concern, show me documents\u2026\u2019: Olszewski vs Trump Official clash over SCORE cuts - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNblFPeE5uRHhYTGtLY0FQUmdIajZ2RHJWTzNOUzIwb1pFQ0o5a0hXQjZxdHZrT3RKNEZHLWhDWHBCeTRMRWU4U2lpQTB1d2pHT2xtYS1YT295THQ4UHpsVjlUeGxaWnlJOXFhMmFVS0t4QlA5UzJMbXdyRkpIekhTWEoxUlZ5X2lZeFBMbG16LU9TY2Faa1lQVXZ0eDlPQk9UT0F0RjlOOF90aEJxaHFOMTBRbk10OGxIZkJZcnlWRUIwN2VZVmxzbk5lRk1zWm1iVGhtQVkxZktoVXZtalhZbDVpMTU4dXV1SEFQZGp6M05wLXItU2tfQlZyS0NEbTlaMzh4cmNCNA?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 18:07:10 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Railway Minister Ashwini Vaishnaw inaugurates 56-km Sabalgarh-Birpur rail section in Madhya Pradesh - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOc0QyeTFVSHJ4LUM0eWdLUUtQS3BTUWlPX05DUFpzemFBbVRSZG9lODhUaXRfa3BEUFJlMGtmNHlieXFGaHN5Q1JQVHBwZng0dGNPYnpLNDc1Q1ppZ1ladC1FUmNfSkxyRWtRM2dzUkJpTGpfdGxsM3BPYWJCWE54Vnd6cVRJWDhEQkRVTTc1OXpxTzk4ZUl6MnI4eU54N1dvckNWOHB0QzFITkF0eVUtZmU0TWNRSGgxSUlPSXNvalhEU1o2cl8xOWNjOE9qcHZmQllNTW9HbUFDaDAyVWN4R1hnNHpwM0JwWDBNV1RFRDd2VGxLOTZZOHlhV29ycEkwWVFEalh0a9IBjAJBVV95cUxQR0FKZUNST1Faa1BIUkxhZGZxQ0xHMC01UUxVdG5oQ1R3ajcxVnVDaU14LU5mZHo2N2xyRF9PcmdVVGNuS2hlUDJuWVo0NjExazNYVEprSTZVeW5pWTRrRWVleVMwYVVDZnZETGYwQ1U5RUUyaHBCY3RXN2xaRExrTS1fcnhxWlQyRE5PRGFnaGZoZFZ1NmpmNUQ4RnVseWZOLUQ2VlFUQ0txTzdmeEpZZUJQNkdDbWluRGFhWUw1TnBsZmFCWTdIV3JyeHVzdkx3TWppQ2dWajRaM1dsN3VQbG1tbXk4LTVqVmxaYUY4TTBzV05hRjJheWZIeXBvRXhVdm00R05MdC1rOGJa?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 17:56:27 GMT"
     }
   ],
-  "fetchedAt": 1787075702
+  "fetchedAt": 1787078100
 }
