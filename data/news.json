@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US yields rise amid Iran worries, broader selloff",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-yields-rise-amid-iran-worries-broader-selloff/articleshow/133325609.cms",
+      "pubDate": "Tue, 18 Aug 2026 20:15:46 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Dodgers owner Mark Walter's insurer to cut $6.5 billion in investments amid probe",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/dodgers-owner-mark-walters-insurer-to-cut-6-5-billion-in-investments-amid-probe/articleshow/133325542.cms",
+      "pubDate": "Tue, 18 Aug 2026 20:13:22 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Stocks: US market opens lower as Iran stalemate lifts oil, yields",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-opens-lower-as-iran-stalemate-lifts-oil-yields/articleshow/133324329.cms",
       "pubDate": "Tue, 18 Aug 2026 19:19:55 +0530"
@@ -19,22 +31,10 @@
       "pubDate": "Tue, 18 Aug 2026 18:35:14 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Klarna trims full-year revenue, volume outlook as German retail weakens",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/klarna-trims-full-year-revenue-volume-outlook-as-german-retail-weakens/articleshow/133323113.cms",
-      "pubDate": "Tue, 18 Aug 2026 18:20:15 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Augmont Enterprises IPO: Rs 825 crore issue price band set at Rs 788",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-rs-825-crore-issue-price-band-set-at-rs-788/articleshow/133322746.cms",
-      "pubDate": "Tue, 18 Aug 2026 18:09:41 +0530"
-    },
-    {
       "src": "Business Standard",
       "title": "Indices fall as elevated crude prices, rising global bond yields weigh",
       "link": "https://www.business-standard.com/markets/news/indices-fall-as-elevated-crude-prices-rising-global-bond-yields-weigh-126081801261_1.html",
-      "pubDate": "Tue, 18 Aug 2026 19:37:17 +0530"
+      "pubDate": "Tue, 18 Aug 2026 19:37:18 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Hindustan Copper shares rebound 20% in 15 sessions. What\u2019s driving the rally?",
+      "link": "https://www.livemint.com/market/stock-market-news/hindustan-copper-shares-rebound-20-in-15-sessions-what-s-driving-the-rally-11787063093871.html",
+      "pubDate": "Tue, 18 Aug 2026 20:05:20 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "US stock market today: S&amp;P 500, Nasdaq futures down up to 1% amid surging oil and bond yields",
       "link": "https://www.livemint.com/market/us-stock-market-today-s-p-500-nasdaq-futures-down-up-to-1-amid-surging-oil-and-bond-yields-11787054644462.html",
       "pubDate": "Tue, 18 Aug 2026 18:36:19 +0530"
@@ -85,10 +91,16 @@
       "pubDate": "Tue, 18 Aug 2026 15:44:08 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Sensex crashes almost 500 points, Nifty 50 extends losses for 6th consecutive session",
-      "link": "https://www.livemint.com/market/stock-market-news/sensex-crashes-almost-500-points-nifty-50-extends-losses-for-6th-consecutive-session-11787037197745.html",
-      "pubDate": "Tue, 18 Aug 2026 15:36:11 +0530"
+      "src": "CNBC TV18",
+      "title": "Nifty Outlook for August 19: 24,000 next level of support as bears take grip",
+      "link": "https://www.cnbctv18.com/market/nifty-outlook-wednesday-august-19-24000-next-level-of-support-as-bears-take-grip-19971952.htm",
+      "pubDate": "Tue, 18 Aug 2026 20:20:16 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "RailTel Corporation of India secures \u20b9167 crore work order from EPFO for IaaS services",
+      "link": "https://www.cnbctv18.com/market/stocks/railtel-corporation-of-india-share-price-secures-rs-167-crore-work-order-from-epfo-for-iaas-services-19972063.htm",
+      "pubDate": "Tue, 18 Aug 2026 20:00:29 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -104,21 +116,9 @@
     },
     {
       "src": "CNBC TV18",
-      "title": "Stocks to Watch for August 19: ONGC, BPCL, Exide Industries, Balkrishna Industries and more",
+      "title": "Stocks to Watch for August 19: ONGC, BPCL, Exide Industries, Hindustan Zinc and more",
       "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-august-19-ongc-bpcl-exide-industries-balkrishna-industries-and-more-19971980.htm",
-      "pubDate": "Tue, 18 Aug 2026 19:18:52 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "FIIs turn buyers again, DIIs join in with \u20b92,579 crore purchases as markets fall",
-      "link": "https://www.cnbctv18.com/market/fiis-turn-buyers-again-diis-join-in-with-rs2579-crore-purchases-as-markets-fall-19972019.htm",
-      "pubDate": "Tue, 18 Aug 2026 19:06:36 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Krystal Integrated Services bags \u20b9134 crore MSRTC work order for 3 years",
-      "link": "https://www.cnbctv18.com/market/stocks/krystal-integrated-services-share-price-bags-rs-134-crore-msrtc-work-order-for-3-years-19972008.htm",
-      "pubDate": "Tue, 18 Aug 2026 18:45:39 +0530"
+      "pubDate": "Tue, 18 Aug 2026 20:16:30 +0530"
     },
     {
       "src": "Google India News",
@@ -128,28 +128,28 @@
     },
     {
       "src": "Google India News",
+      "title": "US stock market today: Wall Street pulls back from record highs as AI-related stocks drop - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPaVIwTjl1TjNmUlJvS3ZEQVZSV3pmVnp5bUVUWmFZVm11QkQzRTV1Y1NQN3BSRHI5cXlqWlJHNkZGRXhjRlpLN1NjTnNTcDJhcHp6Sm1QNmlHYVZlc1JEZThxSnpaaUNyVmY5YXdSVjBmM1Vub0QtMzg4OEVIcG1iTURXU05mVUk1SldrVm8wUThlZDQ2azRqcmVhYlFxN0RWNGdRbDZBOXZoV2lqVUhva1E4QUlydHM0bnJPTFVKRS1ZRnNNaFNDbVJyUi1wWHpwUDlQbThMbnBCWTNEQ3NsaXY1Q3VmMm5Dd0M0c2s0d1EyYjZEVXIzQ2p6TkdScTNHZ2NuVllYNHVZeEZoTmpvUnlzZDlIeF9XSWs5Mzh6S19meDZBQUUxLTVnSXZicGpOWl9ncmJCa0hVWDdwd0p2RmRUbmNUTmpo0gHOAkFVX3lxTE9BSkl0aVZ1a2JNNFZsRW9jc3k4MWNPTHp6Si1rZFFZNEZwMWNua050TlRjZ0JWOEJ2RUo5aEdZOHc0NG5lcTN1VzhqRTVrWk5VRlp0TFNtd25MVW5Gal8zX3NEcXRUMk5EYk9LZG05VHFoTmpzbzVBWURRVk0zSk9JN2YtRG4xRzBDX3pZRUNnWjd0WUJ4ZHAzNUFEcGxIaUl5MzlTaFJKSm91eTBPVjdZRzhKYkw4ODBfSi1OVzRtSDhQdlNwU2RPa05LTmNCeEcyVmdVa29mRkZkeXJWUW52RTZJSE5RWnBVVnVwMEdEakN5WWJ3SE1SMHBOVWxCam9mZUx2VXpESXg5RnB3Wnp4VHktcENxRC1fNk0wWVpmZ21NNlhHNEYwUGw1Y3dQYTBYV1A4MzdqZGRGcV9UcENwS0VpYzNtREtqb3FpX2c?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 14:29:00 GMT"
+    },
+    {
+      "src": "Google India News",
       "title": "Indices fall as elevated crude prices, rising global bond yields weigh - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNXV0MGhpQjFaNFM4N2ctczN0Z000VWNvb3lvUmJONHp3RHEycU1xVWJLZmtNUmFxekRhb0hoNy1xWFpWSy1zTVRXLU44Sk1pblpwUWFkWnloNndlTGEyODhLWTFjOHJLMEVqNmN3YTVlN3dHelZ1VGFQWElOOEl5YzdxNWFIQXUwQ29OdEJRVmM5Z1NuZURJdXhIS0tiOXVUZHFYT2tzSW5EM1NHRmg4b3dTTGFJbWlncUluMm5OSXdXTmdRNHgySWtPYVdBNDctWlHSAdcBQVVfeXFMTkdLYzRtNl9hcl9MRkxDMnhiU3BmMmpLWlN1aWw3UHJSa1gwVHhlbzFyanVVTkZ4V3FBTzIwSW5rQzdkNWRxbUlMamlCaU5xbWk0VC1nSUdfeGNWOXFIRVZiYTJkaWwwbHpqMzV2MkJ3TTJXbXNnUG5jaUpXN0pMMTlpVnF2RmU5cnV5eHBmRWtVSHZiQU05WHNjUDY2X0ZxOWtwMnVaMjU3Q3hHMi1nNDdrM0c5UU9Za3Zvel9SMXM0cHpsZUc2WGxuS1A4X0EyYVNiMXpjdDA?oc=5",
       "pubDate": "Tue, 18 Aug 2026 14:07:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock Markets end in low, Nifty slips below 24,200 mark - The Statesman",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTXhxZ3l5OXp4ekJiZ2hQMXhHTVpfSGNwNXdUWUhMS1A3d3dKNWRlVzRfbkRMdV8wWU9VMDNvTFVGQmY4Ujd3enB4Q0JtVl9fbk1EdGNVUHRmbUxLSVN4bjdTMWxTZUlycDZ0b1hhdFVrcTlVaEFSbGpfYnlTelpRV3A2LW1WeFlGeXQyT1ozZlFIbVdMdzlqN2tnTmxvQTROeFFzNGc0VUtxRUUyblI4TtIBsAFBVV95cUxPTXhxZ3l5OXp4ekJiZ2hQMXhHTVpfSGNwNXdUWUhMS1A3d3dKNWRlVzRfbkRMdV8wWU9VMDNvTFVGQmY4Ujd3enB4Q0JtVl9fbk1EdGNVUHRmbUxLSVN4bjdTMWxTZUlycDZ0b1hhdFVrcTlVaEFSbGpfYnlTelpRV3A2LW1WeFlGeXQyT1ozZlFIbVdMdzlqN2tnTmxvQTROeFFzNGc0VUtxRUUyblI4Tg?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 13:33:14 GMT"
+      "title": "Hindustan Copper shares rebound 20% in 15 sessions. What\u2019s driving the rally? - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdFFnM3NhQ3l6QWVsUk93MENUczVJLXRVc0s2RlF4V3QyaTE1eDh1eHJIOEpIcHRqeFpCOU1ndXZYQUhKOENjYk5IZ2I2MDh4TDdROGk0NWRXaWw3OFN5eUN5QkMwMWlSS004STRaWEd2SVZHdDg1aHJEanF3eDE1Nm1oQTZ0Vnc1cFJCUTRDaEJGMENhc2VrY2MtZldmczhTY2dPTGxzc2JIQjNkSmJZQi1oSzA4WmE5aDZuQ2RXVkQyemJmdjllNzdYa0FybTM5ZmU1R1hnVHdWQmd30gHiAUFVX3lxTE84dFdidEZqSUJxcVBNT1YybHRVNjJHYmhyWVRXYTRVU2pGazZ3T3FGb3ZXbXVzdjVLYjNPS3Jwb25VeUV1N0NSV0w2ejNPUk5UYWhJbUI0YUpOTS1HM21USVJZVUFaZkIwNFpuNzA3RVphN1drWmlZU3BldGsxbzJNcDJ5OW1CUHFLOXE5SlVVSjVScGducDdYbE5lZU9SMk4wR3lEQnBkUElGZ0d1em9FSEpuTU9VNk15VDVxTFRtX0JKRGFobk9IdC03M1E3UzdOVTYwVktBQ3Rfa1AtZkdXeFE?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 14:35:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US Stocks: US market opens lower as Iran stalemate lifts oil, yields - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOQlVOVk1xenUxQVcxcGZjZTNjcXR2eHplX1ZERElaZmdHZ0xheFBETXFIU0xDa0N1RjZ1X3RWTzVTRGdGMjlXaUtLaFdzYlZWWmdtcXhKcEFfbHVOc2VXTkU5ejhZQTRrS1ZXRXNFbmowZkZUSldvd283aVlqZEFvMHJDNTRBamlBVmhCbFZmU1lqLWNienJ5ZjJtV3NaSEZvTXpFcVdGaXM0d180SmRQaW1PaV9QNkdGdXRNd2YxT1JOSFN5Rm9oVGlmZU9RQ1M2R0R2T0pETHZvaXdXRGpoZ1lUemJ3NDYyeEZndWtDc1BGWEVpSl9veU9BakNlRUZtU3Y3bE9SdDVkQXJCdTBXV1F5Um5ndjc0VkItYXktUXNhNUFkbXIycjhUWm0tci1SSTNqYXNZM3ZsZnBpNjV2MzhTXzXSAeABQVVfeXFMTTZlcXkwRklNWVFObFdBMWg2Sl90cHJZUjdGU0Z1Q3RVbjZFSHVITFBnS0xPcmxCa3RnT3pEeE9JV1duVzlEeVhGcjJrTVh4MVhBWmZHRmN3di1relpqdlBaU2J3N2s2WXpmdEtodVk2dlIyd3ZwN011R0pPSkRpeEM1aVptbkpDaFlmRlYyQmE3Rms4Q01qXzlDcDdpZkFrOHgxVlpOQTh2TktPX1liWXhWd1ZFSWVjRzdxcW9LcGczamQtNlBaWnZ2T1dEUG5vQTcyc1N2bzIxMm0ycGVFdGI?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 13:49:55 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Defence Stocks Rally After MoD\u2019s 6th Positive Indigenisation List: Paras Defence, Zen Technologies, GRSE, HAL, Data Patterns in Focus - India Infoline",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWjJOcDFpSGRWTzFhcGpmV2Zya2lRY2xpRmZyd0wzckdMZzBMS2IyVjdlQ0VMNDYxZUdoX1lOdXBLWlUzZEhHLVBJRHBXLV9BMTI5OWRmc2VoV1laQ2JDMXdfQ3ZJaGYwWng1M2ZYY283aFFYaHA0SDdWZEY4THNCZVFIX3ljS05aWmdObDRkMEQ1S0JTM0pyV0dYRkt0bUNtU3FWNnZKQ284MU81anNWcTNyNDh5NEItUkRTdEUwVkltQUY1T1JSWXQ3aG9pVDhUNXJ0VVV2NldZMXM1MVpFY29LYmJUTXB3T3dfLUxzYlNmekd5Z2wtSGM1TU9sTHhnWGc?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 13:37:02 GMT"
+      "title": "Billionaire Howard Marks Just Bought This Beaten-Down Indian Stock. Don\u2019t Miss The Opportunity - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmNSUEhDVzlHTWVzOFFCWVZWS2NtRXRtampjeE5pT0FvdWFkN1pvNEFfcGk3VWNiN3hoQkY1Uk1JOVBpSWc3WmdEVmpfR0libURBeEtuampDWTBFdjlrZVgtSFlMZlloZ0I3eVVfb3NDNnB1bFk3RTZXUkJvUTVKOEpWeUVGclZhU1IwWHR3cnV0ZTg4dUtsMG12OUtvb2l6SzI4?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 14:24:14 GMT"
     }
   ],
-  "fetchedAt": 1787063473
+  "fetchedAt": 1787065480
 }
