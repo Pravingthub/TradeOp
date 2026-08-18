@@ -92,6 +92,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Nasdaq 100 sheds over 500 points as Chip stocks lead Wall Street sell-off on Tuesday",
+      "link": "https://www.cnbctv18.com/market/us-market-tuesday-nasdaq-100-dow-jones-snp-500-chip-stocks-sell-off-oil-yields-fed-minutes-19972225.htm",
+      "pubDate": "Wed, 19 Aug 2026 05:07:09 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "CCI approves General Atlantic\u2019s acquisition of additional stake in Acko Tech",
       "link": "https://www.cnbctv18.com/business/cci-approves-general-atlantic-additional-stake-in-acko-tech-19972216.htm",
       "pubDate": "Tue, 18 Aug 2026 23:50:14 +0530"
@@ -115,22 +121,10 @@
       "pubDate": "Tue, 18 Aug 2026 22:39:59 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "CG Power reports suspected security breach on IT systems; operations unaffected",
-      "link": "https://www.cnbctv18.com/market/stocks/cg-power-and-industrial-solutions-share-price-reports-suspected-security-breach-on-it-systems-operations-unaffected-19972171.htm",
-      "pubDate": "Tue, 18 Aug 2026 22:29:55 +0530"
-    },
-    {
       "src": "Google India News",
-      "title": "India\u2019s NSE Heads for a $55 Billion Payday - bloomberg.com",
+      "title": "India\u2019s NSE Heads for a $55 Billion Payday - Bloomberg",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZk5GM1lJSGNaU1g2cGFnSklJdnYyMFFhVWpoZld2UFhSUTY4SEZ1YTZjZFRSYnFYNk52bHBDTGhDNE5tY2N1Y3NET0ZZUWNDS2RHdUhlc3hFaXdXT0NPeWVwdmI4RDFrMkdrR1otdXZUUlBUa05tLUc2ZTQ4Z1RPSG15RzBGdE1hVjU0bjl0QjZORzQ2OU14RzRZOU40RWNEM1JrTHFIMXlHOGtxRVpTV1I5UUNmQQ?oc=5",
       "pubDate": "Tue, 18 Aug 2026 23:07:58 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India P2P Car-Sharing Leader Delivers Record Contribution Profit - Streetwise Reports",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTmd5Sk1LMmpEVWtDbFktZjBxWUdkSWltTlhBUWMwQTRQVWFFcDVXdGFzVmhXcE50UGdMU0s4cDVYSFlONV9CUnEzN1k1QW1wdjlFb09uZHNkYnM5Z1JtVWtWNHRsN0RfN1ZjS2EtT05aNHVMSnhzS3VaRldFZ3lwZDA1Q3MxWXQwV1RDR1RFeDZOclhGWEplQlhMdkJDVGMwVUVwWmhlcWU2NkVFYktrOWZRTk9qeEhSRGE0SDJUaw?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 22:43:32 GMT"
     },
     {
       "src": "Google India News",
@@ -140,9 +134,15 @@
     },
     {
       "src": "Google India News",
-      "title": "The VIX \u201cGoldilocks Zone\u201d: What Volatility Can Tell Us About Future S&P 500 Returns - stonex.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONHlpdnk1ejAxeXN0TW1ra1h0TlpoWlJiTDR2bG4ydGxUMmlBQ2p2YklBWlNUbUJsUjBLTXctanNlaU1qcWEwV3pwbGJpRVdaMVJKLWRfaW81OXJUVDdpaG9kUWg1Q3N1WGU1bE9OdUNGaHRjVGtrYnFjWm1HUk01aXVRVjBmeEVhRFdUZXE4bnJ1eDRxdzdvR21TYWxxZDVsV2dhcHYxcEFnZm1nX252Q1lUdzd4bGNIMGlLaUl3?oc=5",
-      "pubDate": "Tue, 18 Aug 2026 23:11:46 GMT"
+      "title": "Vita Life Sciences Buys Back 29,591 Shares on 18 August 2026 - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkJheTVDaGNLR2dlNzJWajlnNVFiSGpfSVVjZXRrU0Q1UUo0ZW1mZ1lMaFBjdFJ6OG9sZ0JkM1pRaWtiY0FGUWplaU9kay1acmYxUG5TU1ZqeHhaRURDeEtITFRNUjBjZjE3VzlJNVpOMGRnLXl6cWFsQ0picDV6VC1VS0w3alZLZDY3b2NnaU0tMzNxUU9iWG1TNUxBb191dTRV?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 23:15:02 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Mirvac Group Launches On-Market Buy-Back of Up to A$200 Million in Stapled Securities - Kalkine",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcDVUWUhBUjN6RzVzREZHZmlZdTlDdVoyc05XeHFpQTdyZXl5Mm5CbVlmeWpoM094X2ExbXAtYmRIYm1ZMThIRUhYX0owVU5neUU1bk5oV0wzd1c3dzFGTkZsVE9HM2Y5T01LWExuaWJjZDJ1djE3WTYtQ3dMMllmR2FiRUk2Rk11V21JcE52LUFDQTRUeS11cEtuOE1qM2RidmlYSzBNRHNnRFlqdzg3VXp0RjktMmNsMjdvR1VGelF6UGNV?oc=5",
+      "pubDate": "Tue, 18 Aug 2026 23:15:02 GMT"
     },
     {
       "src": "Google India News",
@@ -151,5 +151,5 @@
       "pubDate": "Tue, 18 Aug 2026 23:15:02 GMT"
     }
   ],
-  "fetchedAt": 1787095307
+  "fetchedAt": 1787096879
 }
