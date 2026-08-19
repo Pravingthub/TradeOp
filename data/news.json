@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market rises as yields ease, Moderna lifts healthcare stocks",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-as-yields-ease-moderna-lifts-healthcare-stocks/articleshow/133358680.cms",
+      "pubDate": "Thu, 20 Aug 2026 01:39:50 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Inflation concerns rose at US Fed's July meeting, minutes show; policymakers insisted on rate hike",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/inflation-concerns-rose-at-us-feds-july-meeting-minutes-show-policymakers-insisted-on-rate-hike/articleshow/133357051.cms",
       "pubDate": "Wed, 19 Aug 2026 23:55:33 +0530"
@@ -23,12 +29,6 @@
       "title": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/estee-lauder-bets-on-fragrances-and-skincare-to-deliver-strong-annual-profit/articleshow/133352675.cms",
       "pubDate": "Wed, 19 Aug 2026 21:14:01 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sebi flags manipulative trades during CAS on Sensex expiry day, fines two entities",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-flags-manipulative-trades-during-cas-on-sensex-expiry-day-fines-two-entities/articleshow/133352303.cms",
-      "pubDate": "Wed, 19 Aug 2026 20:56:52 +0530"
     },
     {
       "src": "Business Standard",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "India replaces Indonesia as Asia's least-preferred stock market: BofA survey - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVE8wMFk4aE9pR0dvZ1pYOHM3TFU1VjBFaVJVbWFpQmtpYXNrdDFlZ1NydS1oVXY0QUxsaWxMNWdCQTRvcXVNTHV4ZXhKY2hLTmllVnVsN1hHQWExZndWbUp2STVkRENCZkdRNjVKOTdjWW9QRjU0MjkweElRbHgzSVdTa0VoWkR5TWpJM3JIVGFQZUlJV01pRFNKLXhZcmN0elBlZy1ZRFY4YkNfa0dXa3R0TXhveFpULUwyZUduWTlFRTR2blhGTXJ30gHXAUFVX3lxTE5HTzFDbzFpaV92dUtRMXA1cDlNbU5CSUtqU3NmTTlVU1VqQW9nNGpiZWhZVDIyR1JQNlhteEdDNkpEZ0ZvcnZCeDhHNGhWZElMVlhtMkZPaFlsVHozbm5mSVFXdmFSR1RSZXBGZlpuUWVReGdSa21KckdMWlR0Z0xWWXpXVFBNSTRjX0lNV05Cek9ZMkdpMnduQW43Y0JZR19YSjU1cUNVNjlHUkhPR3ByeFVNem1HbnFpbzdmU3pFcFRtQmZKMDhpSHZaY2lYM3JTeHhiM2pr?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 19:00:56 GMT"
+      "title": "India tightens sugar stock limits to tame record prices - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSmhETThjMy1jaHhYMU5xQXBDdndsWW5Kam93VlZ3SDNTVkJycUhXZ1VENVRhaDBrWk43a0lMTU4zeHpsYmd5MXZKZXJPdDducWRDQlRFenFEV09TaGtjUEJoei1LWGN2cEFKdnRoeTdiWGdHYi0wRU1FVGFMeVNEM1NONWd0WWNPYVRrbUxlTktGbzJlTlhaZmVyN01hQQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 19:43:34 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ceigall India Stock Rises After Securing Rs 274 Cr Arunachal Pradesh Road Project - businessworld.in",
+      "title": "Ceigall India Stock Rises After Securing Rs 274 Cr Arunachal Pradesh Road Project - BW Businessworld",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeFA0ZFJOa0k3dGx6aERJZHhxcm5jM2d2c09rSEtib3o5VHlrLVdUM0hrbVVHRzg2Mkt4dzVfS3FWZEU2UlZYLWppajJsVnplZ3ZreGhLaEQ1TzdiUHc1WFpsVndRTlZIWURhc2V6dy1LWFFFenN1b3dZZ1Yzc0ZsbWZTMmIwcTlpOTFSLU9jZTJUT05RSDlxWnVKMmVlVU1fbGFwb3UwWncxX3VTMER3ODRpVEtPN2VrN1FTb3VicTJ6RkU?oc=5",
       "pubDate": "Wed, 19 Aug 2026 19:48:15 GMT"
     },
     {
       "src": "Google India News",
       "title": "India may see family wealth worth $1.5 trillion change hands in 10 years - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWHI1elZLOUtuNVJnX1haSEV5MEN6eTJMYWVOMC1qTVoyN2JsVEttWnVHb2Z5Rlc5dXdIZGRQdjV4cFNDa25DLUVOSEN3TVBNeWNGZHRPaWZTdWlDempzWTZ4TDZrajlySW93TFhQbzhZSlJ1Z2JIT2ZTZXhpVWFvOHZKbUlHUXFILTBuM1lzaURNVnhHNGxmb0xCVGowR1FEWUlTak42eVgzX0pnUkV0WWdreDJMN1VjTzBYYWVCekNuc1hJdFBiRlQ5WVNtRlJXT1kzeUxka05IbkJBbENlVi00RTV2SmRDTl8w0gHkAUFVX3lxTFBSZEdDRGpEbkFYaVNMc1lGV25iclZwYVRZY3IxeGZxRGd3TFFOY2ZBQ0NMbjl4dXJ3SGtRMzlZaTEyelo5T0NUc25CV1FKeWVyS3NCS1g2M1FWSUVnOWpiVTE2dkFta3F2TExUMHBWMFgySWdjTERvX0F5M0ZLTUhVcFRZdmg5ZkxXN2pmdFJndUxOcE8yVXpTcVlxVWNVWEZ2X2luS0VKcllZaUN2dVlaeGtfQ2JDU0JVQklYZFd1elBVVUd5MDRpQzdnaW0ydlN3S3ZEd1ltTHhNM18yU3U0alY0VQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPVVRGdVBTQzk5YUt6RWN3aTNpNjhfelAxYlEyRE9USVlHVDc0Y2l1OHU2X21WR0Z4Y3RDZHNWRWVNendtNE1WME1BTFhKX3ZDek1ZWC1Fc29nVFNjZlUwYXFTbEliX2Rmd085aUZzU09GVWJZQ09GaFBuNFJidUVtVUF3OFVQek1UM3NEMV9Wc0Q4NHk4M3hlalZJT2M0VFFlWHZqajNSSkVHN0QzcVVpZUl1Z1ZtZGhwVW1XWC1UNnN5VjVqMTJaai1OcTBLQS1iRk5odFQ0MkthcU1sQ2RndWtPZWFtdjBuWWJ3cUlPcHhpbmR3R2RVR1JiQWFFOVBtdE9YMDZmYUg3SkxMSkQ3Q013bEF5dnFnTFNFdWFUcEJqLTJCbFdELUdRN2VjVmdRemVlOU8tczUteU9kUGd2Sk9RYTh6NzN2?oc=5",
       "pubDate": "Wed, 19 Aug 2026 19:40:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "ET World Leaders Forum: It's time for Indian cos to scale across global markets with Dubai as the base - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQRDZJc0tydEtvY1d5T3doMzZQc0xhdWRDMGs5a29peXYyN1hnMVpxNFRFa3ZZY0xydkxJTHlQZjRySklWRUZ0NGR4b1hYUkxiTm43emxWVVBGQnR0NExsem1TeXBsM0VsWDMyeHhQckJXYWxJcDh1RVpka1hIWXlYeV9FNDZFb3AxTk5HT1FYc0lyUXRtb2xUVVphVlRpNUdvR29LZTJnaDFIWHU5X19KaVAtbHA1NGRkMU5FT0traW9SV1lOeXY3WVZUdF9OTjlrVEdQbXAtZWpjVkZDellNaU1CWF9ldmxvdkhGYUdUWUwwbWVpcGY3THl2aFloc3R4QW0tYllxRVhIYjNaUkRiWkNB0gGXAkFVX3lxTFBfVmFsbWpxT0NzV2hZMXhqekIwRkpfV2lGY3VSSVBwTDFLdUVwd25LelBIWTJneVR1c0ExS1ZMWjVxMURWT293UXZ2NFRhUjBmV2NhMng2NDhDelF5b0UxZW5QQVdobmpQZUFjTERBaVlrYlNzZmh2ajNLS0RXUWMwT2otdzNROGQyQXNleVktc1FIR2sySmswcFlXdU13MGRFVkVnS0RON3BGQ0FvTlk1QTdabi1Jdl91MjdBZzZMT3lqT3poR21Kc3dPZHQ3M1BmVnFwZDRUZF9qTHFnY3FwMlBEa015N0llSThSYVBBSFo0b09KR0NvTC1yVTUzX1hxdm5ZU2hBYm9PMlczNkg5dW9Xb1dFQQ?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 19:12:22 GMT"
+      "title": "Rates Spark: The Treasury\u2019s Plan for the Back End - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUZXUGhPS3VUU09RT1V0SHVFZ1FtN0wxUF9DcjhoQW0tUWdmWkhzdDBlbWo0Ni1pbUhYZ2NpWXpROGU4MmxUQ0JhOG5FR3dCS2ZPd3BLWk5Gdzh0S2NNTjFmU2YwRFF3THhMNGRVNEg2TEppalY2SnRTNm5ITkxBMnV5alRtbG9MQ0M2Y1JDaUVaNldmeUE?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 19:34:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US to halve tariffs on Canada steel, aluminum in trade deal - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcXM3NnRoakhkemh2WHY3UDZaRVhvSGxyd05pdlpjejV5Ty1jTmpBY2U4cVVOQnJ3NHdkZ2stUV9qTHdWa2RudEQ0TmdHT0FIeXBpWU84Z0tuRXRXZC1UaDFnUC1iUkt6RUpubmJ5SlJHd0NNcVQ0UWhGbkRrWjVlTGdiV0JYMDBHNGNDTzNPNzlGZXBBVmFlc1diWkpCSlNUUlN5MUEyM2hOZml2Wkk4czFuU2Uyd0VmMy1B0gG7AUFVX3lxTE1xczc2dGhqSGR6aHZYdjdQNlpFWG9IbHJ3Tml2WmN6NXlPLWNOakFjZThxVU5Ccnc0d2Rnay1RX2pMd1ZrZG50RDROZ0dPQUh5cGlZTzhnS25FdFdkLVRoMWdQLWJSS3pFSm5uYnlKUkd3Q01xVDRRaEZuRGtaNWVMZ2JXQlgwMEc0Y0NPM083OUZlcEFWYWVzV2JaSkJKU1RSU3kxQTIzaE5maXZaSThzMW5TZTJ3RWYzLUE?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 19:19:06 GMT"
+      "title": "Institutionalise NTA & introduce tech changes: Supreme Court - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxPa0ZDVWE0cUk5dnRGUktndFRNUmpHWHFzV21PU2kyUnVkOGhYZlFCT1VaVlhrN2J1SzJPS2hGTGV2R2hVdVhUa1Z2NmtaenlUOFNqNzdiMlJHSHp0QTFhdEZnTE5yajF0d0JVRlRaZlZ4N1g0Q3RSZmlwTUdBMHhrekZid3R5UFBGbDg2Y2JjeUZ5VGJ5U2M2MHhmWmJROVpMdEpNeUotY1RiWkNtYmowWTZUUHdEaHFrYkVKejRTY2hsYmdyb3RMSDdlSU5XaDdzLXA3ZzdIdzk0RHpMcEZrX2RHM05zbE9DZ3c2NmJlVElTaWlyNmtMbWQ2d3JLTWlfd0ZkRFowQjQ2QzBjV091N3dGVzVJQkJPMGF3YUJyREJZMDNldlJoZ9IBxAFBVV95cUxObmxGNmdQdGVnenVVZG9GQ2h0TWZlUEwxWXR0Zm5KMnVHbDRuS0JWeEEzU0V6X3cySU00ZFZVTEpPVjFvVnQ0dEdSMVJDZTR0eGJjQUJJZFZyQVI0bUI5N0xwSVBhc1hBVXNMTTRTU19SNnVEQndMdFZ4X1lmaENJZHpqVVc5NVExZVhoQTZhWF9wOEJFaTFUWV80MWo4VExpYm1VMFZlM0I0NGoybmxselBTMWMzbTJHWm5lNWFlQ3Q0c2NS?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 19:50:34 GMT"
     }
   ],
-  "fetchedAt": 1787169035
+  "fetchedAt": 1787171235
 }
