@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133352726.cms",
+      "pubDate": "Wed, 19 Aug 2026 21:16:05 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Estee Lauder bets on fragrances and skincare to deliver strong annual profit",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/estee-lauder-bets-on-fragrances-and-skincare-to-deliver-strong-annual-profit/articleshow/133352675.cms",
+      "pubDate": "Wed, 19 Aug 2026 21:14:01 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Sebi flags manipulative trades during CAS on Sensex expiry day, fines two entities",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-flags-manipulative-trades-during-cas-on-sensex-expiry-day-fines-two-entities/articleshow/133352303.cms",
       "pubDate": "Wed, 19 Aug 2026 20:56:52 +0530"
@@ -17,18 +29,6 @@
       "title": "BSE looks to launch MSCI-linked futures and options in India",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-looks-to-launch-msci-linked-futures-and-options-in-india/articleshow/133351406.cms",
       "pubDate": "Wed, 19 Aug 2026 20:13:00 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Moderna shares soar 135% in a day after cancer vaccine succeeds in late-stage trial",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/moderna-shares-soar-135-in-a-day-after-cancer-vaccine-succeeds-in-late-stage-trial/articleshow/133351080.cms",
-      "pubDate": "Wed, 19 Aug 2026 19:56:33 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Marvell shares jump 8% after chipmaker hands Google option to buy $12.2 billion stake",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/marvell-shares-jump-8-after-chipmaker-hands-google-option-to-buy-12-2-billion-stake/articleshow/133351073.cms",
-      "pubDate": "Wed, 19 Aug 2026 19:49:49 +0530"
     },
     {
       "src": "Business Standard",
@@ -92,6 +92,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Market Pulse: Key triggers to watch before the August 20 trading session",
+      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-august-20-trading-session-19973112.htm",
+      "pubDate": "Wed, 19 Aug 2026 21:14:36 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "HEG gets NCLT nod for demerger; shareholders to receive 1:1 shares in HEG Graphite",
       "link": "https://www.cnbctv18.com/market/stocks/heg-share-price-gets-nclt-nod-for-demerger-shareholders-to-receive-11-shares-in-heg-graphite-19973074.htm",
       "pubDate": "Wed, 19 Aug 2026 20:35:15 +0530"
@@ -115,22 +121,22 @@
       "pubDate": "Wed, 19 Aug 2026 20:18:52 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "BSE signs agreement with MSCI to explore futures, options contracts linked to indexes",
-      "link": "https://www.cnbctv18.com/market/bse-signs-agreement-with-msci-to-explore-futures-options-contracts-linked-to-indexes-19973040.htm",
-      "pubDate": "Wed, 19 Aug 2026 19:50:35 +0530"
+      "src": "Google India News",
+      "title": "India's regulator bars two securities firms for trade manipulation during closing auction - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOd29jLVo5bUpsLUthQkpkQ1h2YkZuZUNpUjA2aG9GbWhobXlXT0hDWTdzQzZNRzFjUXJXa3NYazhCeVV6MGhFTjQzcGo4YXl4NER0TmhUM1NsQmVlZmFvYVFzWG5lcFZ4c3o2d2ZBVlVFVkJRX2pHbG1GMEhQRmlDS19RRVVMR08zWGhmR0pSQ3Q0TmxXU2NLOXYxX0R5eXJKME1xaGZoYnpFc3pJWjFvRUpsb25vTGNSNHFoN3Zvb3F0OU5TTVF1Sg?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:26:29 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India becomes the least-favoured stock market in Asia. What has investors worried? - ThePrint",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZlRUxpaUUyY0NLeWZIZ29FMzY2YUtNTnRJN0hqZXNnZ3UzSkFJU21vX21qNEpZOGQ3Wk1mVUJiSEhRRW9vX3B5QVFVSWJJZXpvaVZXOUt5UkFWOWdiZ1pMNW1iMEptLWN0V0Q5NWFaZDlUMnNiSzRZTEdRS3BuWFBJazlIeUtHZHB3cmtDMWQ0c0ZHSUhyU9IBngFBVV95cUxOQkVOVW02aHJJcUlzLUxxODZMcHplU1hBYTEyQXhtZGRIZFdhWjZJbjFqeXFPWVlEQ1BkeXhTZHpJVzdSOWF4VW1BWG1yTnFZZmVPWm13MWxEcDdiNllaeWhsLW1Md1NYMHNJQmNfUzdKYjhlUDJxdVNzZWpTOTB4SDZsQm9WTWs4dzdOSXlHUVRDdnNTVi1TcDhLd0FMUQ?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 14:50:09 GMT"
+      "title": "India regulator bans two firms for price manipulation - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMzc0UjVYaGJsc0IzUGpNTzdZcFYyYUhlUHlWNW9kYlM5ejM3dEZnTlVYZEk2dWI0OEhKb2R5ZGtLWkpOcUh6NTZ1TmRFUDFEX085Q3A1cmR4NVA1aHFLdldPQ1AtOXEzTGd4MTdoUkdGNEdQQUloQXhjNUtsdEoxZjhuU1cwYUh4MDNEeC05MldwMzEwQjZmY183UWVhblJrdlNIQVJ3QzNJVVpKaEw1LWtIZm8?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:44:07 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US stock market today: Wall Street snaps 3-day slide as Treasury yields fall - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxOakRlN1J6a29yalBtMFpXUHFHVE1RYzZxNWk3dXdEWU52eUdDVHBmRjJYbl82ODlxVUdUcTJMaUw2WGZJN2VYTzl2elBUX2RHRzFuRXZTalJvWVZWWXV0cmtXdjlmR2JkMEtNZU1HSFJValRhYko4X0JJcXFLYy1UNVh4Yjk5QUQ3MmZ0bjE0dTFsMkN4U2dTNEd0QWo1UzJIT1ZaTUE4TDZNaXFuSl9KNUpDaS1rZDFDSi1wMkc5OTU4Q3BjV1RQdHkwU3BST0xmcnhMSVV2N01tMERvejM4Z3ptT1BiOE1ZVUZHZzc5c3RYeF9XbHQwMy1JLWpuaTJzOGlMMm5Ub2VodUNLUHd1WGZFUlF0bExWNnFlV1NOSnVOYURuZVhCRlY0VThTa05DeDNPMUthRWk3cmxXMjk3c1A1RWdxMkE20gHOAkFVX3lxTE1WLTdadkctRWRhRU1QNkpCYzctUWlwZWhtZ1luZmVlRXd0MDladF9McTNhTkJkU0RRUkRmckxVTkJTbVQyNE9nYTU1Y1M0M0dmSnpwVGk5d2Zkc25NRmhDa0FTN2FnWThseVVzRmFMVnJDcEd2NGVIUm44bVREM3pVQ0oyYzFTT0tFOTZydGsxd2ZObTBhbFJfRnNVcEdkbUhkQk9icERGR0RhQldzZmdILXk0V2hLZjN4dkJULW9qLVZJY2VxVzZoVFRvSmxXYmJTbVVpU2xMRGdWQUhnbnlweUVFYm4ybHo2Qy1GMmY4UFo2R3YyNDlmRGxvU1hWRnhvRzQxcE0tMzJ2VkxYaEpEc19rTmhUN0QzS3VNSjNvemdiaFRRTk85VkxhVFpVd1NGaDBkZnIwaTFFQU9STVpkU3lXUVU2NGdDeVFoQ3c?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 14:52:00 GMT"
+      "title": "Two Trades for Today: A top EMS company for a 8.5% gain, a mid-cap IT stock for an almost 7% rise - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNR3ZpajRRN2ZyTjE1UUlfNS1CVUI5VVpTcXVQOG1TUVFDSmVZU21KOXhkc3pvZW8zOUlaME1GNkNxcUtLcWFOTVpIaVYwUHRLMXFqMHh4S3lySDdseFZuSFI4MHRQcV93R3Q5UUxBY1U1eExxVlFJb2d5SXhhUVNfZDVDWlFRQlgybjB0b1BFdjlObGxJMXZPd2w5Wl9ISXRIMDJmd0NiYjV2ZUZJRGxpTTRpNTlPLXE2R2d6RkVrNEJpLXZCWnlhb0lkUVlCRUttTGZOWmhRTnFkWnN6dHRsQkN6WHNmU1ZaS01QNnUzTkVhYmFUT3lPdXI5TdIBgAJBVV95cUxPMXhBVHp1TzR0V2dEUzhCN05pb0dnM25xWEpqX3I3TlFXVFY5NFRLSWZaUjVDNXhhTGVub1I0ZGh2RWpHUm45MWpibWxpdmx6dk02TW9OOHFXellzbU04MkNwem5uX1RDdTJiY0lFVllHUVpqU2h6bHhqWHY4YTl6RllDeGV0TjEwOXo2RjRXcmllVDdmMW02bUM2cmNVVF9DdDhGb2VCWnpkbEY4WXpNaU1Nd3Nsd0I2V0U5M0FrRUJ5R2ZsRldoR01wOUZRUkdVa3dsdHRDVW5EWnlYNFNacU1qVlczWmFfU0xiTWF4dG1WWTF3MU5YLWRweDVNWGF5?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:33:58 GMT"
     },
     {
       "src": "Google India News",
@@ -140,16 +146,10 @@
     },
     {
       "src": "Google India News",
-      "title": "BSE partners with MSCI to explore launch of index derivatives in India - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSk1fTnlhUkdNaTR5SC1QdV83Qzl3dFFhM0d5Q29QYlpRbVczbE5ndlVZSkNTd2o2RlVZdEhQekV4V2tSYVp5ajhQa2tDRGZIZTNqRnVNVlc5TEhzVEowdXY1ZVlEbko0NWxrd3lQdnA4X2dzVjdwQ3dKdW9lelhpdDB2ZXdlYVlxaVo4VkdpVlBmbHY2REc3Z0VpeUFfb3RDczdGcXJDOXJDTDVOaWFVMFNaZzViMl9OcVhPemg0T1hHekZ1NmNxNnY5Ykh5Qkc2Y2c40gHYAUFVX3lxTFBkMUx1aUpsZnRBVUxkTUVjbi1NcDZnVkFLeE9rdEdGbXJkWGVNSUNPcWZYeU13c0FCZ08zamEzdDM1RnBsTUt6c3V2NWEyUC1zODlyZ0d1azJKOU93Q3NHYVlUWFFDQkpWcmpGVWJTMWM3UjRXZU1ybF96dVFGbzNJSWJvZk01T3ZhM3NKUHMybmVrNTZjSk1lVG1jTG1jSUhyQ1NnSVp0TERVMUMwTVhQUVFOZDVvLTlBbWo2dEJOVDNEMm1MYkFicjZTMHYtampYYml2c1RWNA?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 15:33:11 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India regulator bars two over Dhenu Buildcon fabricated loan scheme, inflated market value - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUldVb1V3bk1KeEFnemhSRzRuME5CNVgxXzNydVdGWm5fb044R2tVSFNXSmMtS2dZNjFPVjhJd2pOU1R0SG9VWGJfM2N5R1RhQUtzWFRxMlpxeEw4TTctN0xxSGJDRmlJTzBzWW5BZGZoMFZZSmZOR3ZoMG0xMkxMYXJIUm4?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 15:30:53 GMT"
+      "title": "Goldman Sachs buys Rs 53 crore stake in Shiprocket; stock soars 48% on debut - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQakc0X0h5WkVNZVZSdWw1ZmJTSV9ZWEpsZHM1VWJOaU9MVXdqdVJ5MzFnWDZvdUVCVmNFM2IyQ0tFVVA3OFJsaUV0VW5BMGpfemFRN28zZzlvMVk4bGtmb1hrZHFTZy1vWmt5NS1hMXQ1WENXcHdtbjZGalE2WlVHM1c0RU9VcUhyYUI4VUJHMVBCdlVFTWVaZldjbmZIbkdtcEhrSllORExEVWM3Y0FOUHVyUEV0MUhmZ0hrQ2paTEdUaDZISUJaVVM1VDE1V2pXSDZHbUdn0gHbAUFVX3lxTFBCOVA3c21hQ0t4MllNSUhaS1pUMnlpQkJFVHgtRjF2QlU1V0RCcUd3QTRvNGxjbFMwNkRka1VmRmtwbVFKVjFpVXg4RVI4UmdBQTJQWUd0Q2JrRTRvcWt4cU0yNlR0cDB3RWNqcDU2bEZjNFVDY1J3a0dnVGNWdV8yUGRJVEZCRjctNUxvMU5BcndEQzh5NkJGREFhcFNzZTFsVlBqTVpmS0NjZmlpUG1QVGVrcWRYSkFEVlNoSEIyR2l2Tk81TFZuTUk0U1NfWGYzc05YV3h5WV9hSQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:57:40 GMT"
     }
   ],
-  "fetchedAt": 1787154214
+  "fetchedAt": 1787155989
 }
