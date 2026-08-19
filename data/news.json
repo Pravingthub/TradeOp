@@ -50,15 +50,27 @@
     },
     {
       "src": "Business Standard",
-      "title": "Sebi bars two entities, impounds \u20b93.67 crore over manipulative CAS trades",
+      "title": "Sebi bars two players from market over CAS 'trade manipulation'",
       "link": "https://www.business-standard.com/markets/news/sebi-bars-two-entities-impounds-3-67-crore-over-manipulative-cas-trades-126081901368_1.html",
-      "pubDate": "Wed, 19 Aug 2026 21:01:40 +0530"
+      "pubDate": "Wed, 19 Aug 2026 21:01:12 +0530"
     },
     {
       "src": "Business Standard",
       "title": "Shiprocket, Behari Lal Engineering shares surge after strong market debut",
       "link": "https://www.business-standard.com/markets/news/shiprocket-behari-lal-engineering-shares-surge-after-strong-market-debut-126081901245_1.html",
       "pubDate": "Wed, 19 Aug 2026 19:49:46 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Target shares jump 6% as retailer raises full-year outlook on strong sales",
+      "link": "https://www.livemint.com/market/stock-market-news/target-shares-jump-6-as-retailer-raises-full-year-outlook-on-strong-sales-11787157995874.html",
+      "pubDate": "Wed, 19 Aug 2026 22:56:47 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Korean investors dump home stocks for US, buying same names at a premium | Is Wall Street headed for KOSPI-style crash?",
+      "link": "https://www.livemint.com/market/stock-market-news/korean-investors-dump-home-stocks-for-us-buying-same-names-at-a-premium-is-wall-street-headed-for-kospi-style-crash-11787150873908.html",
+      "pubDate": "Wed, 19 Aug 2026 22:47:56 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -79,16 +91,10 @@
       "pubDate": "Wed, 19 Aug 2026 21:06:13 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Metal stock to be in focus on Thursday after this Capex expansion update. Details here",
-      "link": "https://www.livemint.com/market/stock-market-news/metal-stock-to-be-in-focus-on-thursday-after-this-capex-expansion-update-details-here-11787146331617.html",
-      "pubDate": "Wed, 19 Aug 2026 19:39:16 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US stocks bounce back as bond yields retreat, Moderna rallies over 150%, Merck jumps 9.6%",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-bounce-back-as-bond-yields-retreat-11787146991392.html",
-      "pubDate": "Wed, 19 Aug 2026 19:27:15 +0530"
+      "src": "CNBC TV18",
+      "title": "Titagarh Rail Systems gets Indian Railways vendor status for 3-phase traction motors",
+      "link": "https://www.cnbctv18.com/market/stocks/titagarh-rail-systems-share-price-gets-indian-railways-vendor-status-for-3-phase-traction-motors-19973141.htm",
+      "pubDate": "Wed, 19 Aug 2026 22:58:58 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -113,13 +119,7 @@
       "title": "HEG gets NCLT nod for demerger; shareholders to receive 1:1 shares in HEG Graphite",
       "link": "https://www.cnbctv18.com/market/stocks/heg-share-price-gets-nclt-nod-for-demerger-shareholders-to-receive-11-shares-in-heg-graphite-19973074.htm",
       "pubDate": "Wed, 19 Aug 2026 20:35:15 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "FIIs, DIIs remain net buyers as market extends losing streak to 7th\u00a0straight day",
-      "link": "https://www.cnbctv18.com/market/fiis-diis-remain-net-buyers-as-market-extends-losing-streak-to-7th-straight-day-19972988.htm",
-      "pubDate": "Wed, 19 Aug 2026 20:33:19 +0530"
     }
   ],
-  "fetchedAt": 1787159693
+  "fetchedAt": 1787161493
 }
