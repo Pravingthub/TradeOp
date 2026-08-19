@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Sebi flags manipulative trades during CAS on Sensex expiry day, fines two entities",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-flags-manipulative-trades-during-cas-on-sensex-expiry-day-fines-two-entities/articleshow/133352303.cms",
+      "pubDate": "Wed, 19 Aug 2026 20:56:52 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Goldman Sachs backs D-street debutante Shiprocket, buys over 40 lakh shares",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-backs-d-street-debutante-shiprocket-buys-over-40-lakh-shares/articleshow/133351802.cms",
+      "pubDate": "Wed, 19 Aug 2026 20:27:56 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "BSE looks to launch MSCI-linked futures and options in India",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-looks-to-launch-msci-linked-futures-and-options-in-india/articleshow/133351406.cms",
       "pubDate": "Wed, 19 Aug 2026 20:13:00 +0530"
@@ -19,16 +31,16 @@
       "pubDate": "Wed, 19 Aug 2026 19:49:49 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Target Corp shares rise 5% as sales rebound and profit doubles in Q2",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/target-corp-shares-rise-5-as-sales-rebound-and-profit-doubles-in-q2/articleshow/133350806.cms",
-      "pubDate": "Wed, 19 Aug 2026 19:34:17 +0530"
+      "src": "Business Standard",
+      "title": "BSE partners with MSCI to explore launch of index derivatives in India",
+      "link": "https://www.business-standard.com/markets/news/bse-partners-with-msci-to-explore-launch-of-index-derivatives-in-india-126081901370_1.html",
+      "pubDate": "Wed, 19 Aug 2026 21:03:11 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Rs 3 crore to Rs 4,925 crore: Sebi order gives details on Dhenu Buildcon market cap surge",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-3-crore-to-rs-4925-crore-sebi-order-gives-details-on-dhenu-buildcon-market-cap-surge/articleshow/133350443.cms",
-      "pubDate": "Wed, 19 Aug 2026 19:18:37 +0530"
+      "src": "Business Standard",
+      "title": "Sebi bars two entities, impounds \u20b93.67 crore over manipulative CAS trades",
+      "link": "https://www.business-standard.com/markets/news/sebi-bars-two-entities-impounds-3-67-crore-over-manipulative-cas-trades-126081901368_1.html",
+      "pubDate": "Wed, 19 Aug 2026 21:01:40 +0530"
     },
     {
       "src": "Business Standard",
@@ -49,16 +61,16 @@
       "pubDate": "Wed, 19 Aug 2026 19:16:56 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Ceigall JV wins road project of Rs 274 cr in State of Arunachal Pradesh",
-      "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-jv-wins-road-project-of-rs-274-cr-in-state-of-arunachal-pradesh-126081901046_1.html",
-      "pubDate": "Wed, 19 Aug 2026 18:04:15 +0530"
+      "src": "LiveMint Markets",
+      "title": "US dollar falls to lowest level since late May after Treasury doubles bond buybacks",
+      "link": "https://www.livemint.com/market/stock-market-news/us-dollar-falls-to-lowest-level-since-late-may-after-treasury-doubles-bond-buybacks-11787151740851.html",
+      "pubDate": "Wed, 19 Aug 2026 21:09:37 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Sharp spike in international energy prices has had limited pass-through to domestic retail prices, says RBI minutes",
-      "link": "https://www.business-standard.com/markets/capital-market-news/sharp-spike-in-international-energy-prices-has-had-limited-pass-through-to-domestic-retail-prices-says-rbi-minutes-126081901020_1.html",
-      "pubDate": "Wed, 19 Aug 2026 17:51:26 +0530"
+      "src": "LiveMint Markets",
+      "title": "Sebi bars two entities from markets over manipulation in CAS, orders  \u20b93.68 crore disgorgement",
+      "link": "https://www.livemint.com/market/stock-market-news/sebi-bars-two-entities-from-markets-over-manipulation-in-cas-orders-3-68-crore-disgorgement-11787151881235.html",
+      "pubDate": "Wed, 19 Aug 2026 21:06:13 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -68,7 +80,7 @@
     },
     {
       "src": "LiveMint Markets",
-      "title": "US stocks bounce back as bond yields retreat",
+      "title": "US stocks bounce back as bond yields retreat, Moderna rallies over 150%, Merck jumps 9.6%",
       "link": "https://www.livemint.com/market/stock-market-news/us-stocks-bounce-back-as-bond-yields-retreat-11787146991392.html",
       "pubDate": "Wed, 19 Aug 2026 19:27:15 +0530"
     },
@@ -79,16 +91,16 @@
       "pubDate": "Wed, 19 Aug 2026 18:35:10 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Moderna shares climb over 110% as mRNA vaccine with Merck succeeds in large trial for skin cancer",
-      "link": "https://www.livemint.com/market/stock-market-news/moderna-shares-climb-nearly-100-as-mrna-vaccine-with-merck-succeeds-in-large-trial-for-skin-cancer-11787143887774.html",
-      "pubDate": "Wed, 19 Aug 2026 18:34:06 +0530"
+      "src": "CNBC TV18",
+      "title": "HEG gets NCLT nod for demerger; shareholders to receive 1:1 shares in HEG Graphite",
+      "link": "https://www.cnbctv18.com/market/stocks/heg-share-price-gets-nclt-nod-for-demerger-shareholders-to-receive-11-shares-in-heg-graphite-19973074.htm",
+      "pubDate": "Wed, 19 Aug 2026 20:35:15 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "SK Hynix ADR jumps 6% in pre-market trade after $29 billion buyback plan",
-      "link": "https://www.livemint.com/market/stock-market-news/sk-hynix-adr-jumps-6-in-pre-market-trade-after-29-billion-buyback-plan-11787138661029.html",
-      "pubDate": "Wed, 19 Aug 2026 17:52:21 +0530"
+      "src": "CNBC TV18",
+      "title": "FIIs, DIIs remain net buyers as market extends losing streak to 7th\u00a0straight day",
+      "link": "https://www.cnbctv18.com/market/fiis-diis-remain-net-buyers-as-market-extends-losing-streak-to-7th-straight-day-19972988.htm",
+      "pubDate": "Wed, 19 Aug 2026 20:33:19 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,22 +121,10 @@
       "pubDate": "Wed, 19 Aug 2026 19:50:35 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "India\u2019s most profitable hospitals: Max, Apollo and others \u2014 who ranks on top?",
-      "link": "https://www.cnbctv18.com/business/companies/india-most-profitable-hospitals-max-apollo-rainbow-others-margin-kotak-kie-report-19972977.htm",
-      "pubDate": "Wed, 19 Aug 2026 20:00:07 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Nifty Outlook for August 20: Index slips below 50-DMA, on the verge of breaking 24,000",
-      "link": "https://www.cnbctv18.com/market/nifty-outlook-for-august-20-index-slips-below-50-dma-on-the-verge-of-breaking-24000-19973034.htm",
-      "pubDate": "Wed, 19 Aug 2026 19:50:01 +0530"
-    },
-    {
       "src": "Google India News",
-      "title": "India replaces Indonesia as Asia's least-preferred stock market: BofA survey - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRW1TbnZmQXRfZHllOFVHcG9nY1dFLW1nVUZhV1dEcGVvTmJQWTE4aDZnZVRTMzVZYXVsWE4yYTlYQVRtRk5QZzdlOGNIN3J3Z0xQVEpzdUdkX0tsTE1MYVFjLThvTGVMQVFDVzFadmo2V2Q2V3dRb2s4SVg0amp0VkFmbGRfb0JrVmw4TURRaURMVkdvQWc1NnVGWUQ0RnhnQ0tnUTRyWGpuSHRET29YRE1OMmNlMDlCcGhNWjZaMnJmMU9wSTNF0gHUAUFVX3lxTE1iVWxNN0k4bnkyQXU1a3J0ZHRoak1vMDVSNWVsZXpoaEZRV2tLYjZ0YU5YQ2NzN05XYTVCc0Z2OXhDOFd6MUY3M1VCOEhDcTZIRnFkU0t2c0ozT290M1dtb0h0SGtObmpjbUtFbkZQRmM0LUItU2M4SnU4UUlveUQzY3pJQ2RfY1RVQVZ5aFh6TzhibjlreENQQzQ5Z01lM3A5VWVxLWVwN1lNdVpPSWJzc2VtcEZaaXluMDVBZUZSaU9aLVJyMVhfdzJzakludERhX0Z0?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 14:18:53 GMT"
+      "title": "India becomes the least-favoured stock market in Asia. What has investors worried? - ThePrint",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTZlRUxpaUUyY0NLeWZIZ29FMzY2YUtNTnRJN0hqZXNnZ3UzSkFJU21vX21qNEpZOGQ3Wk1mVUJiSEhRRW9vX3B5QVFVSWJJZXpvaVZXOUt5UkFWOWdiZ1pMNW1iMEptLWN0V0Q5NWFaZDlUMnNiSzRZTEdRS3BuWFBJazlIeUtHZHB3cmtDMWQ0c0ZHSUhyU9IBngFBVV95cUxOQkVOVW02aHJJcUlzLUxxODZMcHplU1hBYTEyQXhtZGRIZFdhWjZJbjFqeXFPWVlEQ1BkeXhTZHpJVzdSOWF4VW1BWG1yTnFZZmVPWm13MWxEcDdiNllaeWhsLW1Md1NYMHNJQmNfUzdKYjhlUDJxdVNzZWpTOTB4SDZsQm9WTWs4dzdOSXlHUVRDdnNTVi1TcDhLd0FMUQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 14:50:09 GMT"
     },
     {
       "src": "Google India News",
@@ -134,22 +134,22 @@
     },
     {
       "src": "Google India News",
-      "title": "BSE looks to launch MSCI-linked futures and options in India - economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPY2lEbk9Ecnd1NUhKZk1hQndJVTVYZEprOXd4bHdkaHdWeEhXUjJRTEI4LThVQWR3LWgxc09SZjV4VTRSVnBSbVk5LW1wTTZRMFNIQm5lWnBfSENUcHYySUhqUF82X1RYZFFBd0F6aUw3OHFkMkxCVWZTQWEyZnl0cFBMQ1Z0a1MtS08yVVlPaVhqbVoycWJrVUlLajM3eXk5TXhFQjNNallYNnQ2MmJxd3lWODAzVUpUaFVWdXFQX2NReHRwdVM5V3J5b0wxcGVLLUtYNmxwMXF4Rnd0OXVTeHMwdlRnbTY4RDZaLUVETHR5S1ZWWW84LXQxaXdKeGlDT3JUN0pxd2lLYkhJWDl3azZBTmlrTXF3WlV6X1M1NDFUdVhZajBIaGV3R2LSAdQBQVVfeXFMTm55cFU5ei1FcW5iUGM2NnVmNUt2Q1FNYTZsUzExRGowR3ZPR19uZzYyQ0JpTDN0ZTFSSFhkamZHdV9xRUljWEVibVhnSFVrdFpReFlPLXM3RHRCdEtrVG5TYkFPOUFDdERJWXBDUkxKVmVRcTJNRXBVYndWcC1uOUFjd2JjZERVVEI2eWRkdHRuZzRlSXJKTkxqT1hOZ0w1UTZ4ajh2c05QUENURXctS3VpUlprbDZQUXlucHVNYlFtN0tqaGpodjIyUlE2VFA0RzhScHg?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 14:43:00 GMT"
+      "title": "Sebi bars two entities from markets over manipulation in CAS, orders \u20b93.68 crore disgorgement - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZExYZ20xalFvLU82V2R3dWtubkpXeGFSX1FmUFpHaDR1c3NBbjJNZGU2VkJ1MWMtYlZiaEx5cE05cUcxN0FvX18xXzRkY3IwRXUyc3JGSTVyZUxkcXRJZFlZTGl0czFDRkQzcllsTExib1B1blBXX0pkZUwzbS1ieV80M1U0WG15aGN0QXRZRjlHa0RMcExHNUJ0NGtCMGx6VkR3ZmllaS03WjVjdjRLNGNXVHp2SnNYOUVaazV2Y3I1SUluRkYyWXZUYTdjMEJVWGR3a3VxQ0V6bl9hdTI4bjVMSjlYZjVMU0R5eW1ycmJtRkXSAfgBQVVfeXFMT08yalctcm8wM181VTVMUkYzLXl3czdPQndKMWpHYktaRF93dWk2WmF6TEtZNlJvdXlkN3NFeGx1SGpBVDNqcm1rUW9OOW9tZndpQ01DckEzZjRnbnV3WnFIMjhsLUh6UG0xOER5NmFiRG9DbmNvNVlpbU5aQ3FEMVh2OEdnMTNaRk5POS1UTjB3QzNEbmEwMG1YTFlIZEJNNzNOZG1TS2xiTjFJTlVOamJuQ0xLbTVBSGgwZ3hfLWRVbmM5d19CaWd3ZE1ncUdya1pTbGtPVXdLQkFiTTdSSWJvQjQzeGprYXhnajYtN1lVYmYzX3dQdko?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:36:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nippon Life India Asset Management To Hold Analyst And Investor Meetings On August 24-25 - sahi.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGxXN3p6RURKd01VdHh4WW1ZY0RFajZnOGkwU2lOS0o1QjVWUXktaTZfZHhqZXYtbHZRclpudUlUdVM1ZGl3bmpYcjJ6UEFVZXVQMGNlRlBzSHl0MTRCbnhsVVY3N1RJWXA4OHFkZ3hDaWJRaFdVcUVSekMwaWJ2MkhQelNISUNCbWxhV1V1R0Rxb2hyOUlDOVJ0aWt6dTdOM0JLcUdVT0t4OWdQNEMybXdFLTdsRnJNUmFqMU14R1pxX3pWREE?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 14:41:23 GMT"
+      "title": "BSE partners with MSCI to explore launch of index derivatives in India - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSk1fTnlhUkdNaTR5SC1QdV83Qzl3dFFhM0d5Q29QYlpRbVczbE5ndlVZSkNTd2o2RlVZdEhQekV4V2tSYVp5ajhQa2tDRGZIZTNqRnVNVlc5TEhzVEowdXY1ZVlEbko0NWxrd3lQdnA4X2dzVjdwQ3dKdW9lelhpdDB2ZXdlYVlxaVo4VkdpVlBmbHY2REc3Z0VpeUFfb3RDczdGcXJDOXJDTDVOaWFVMFNaZzViMl9OcVhPemg0T1hHekZ1NmNxNnY5Ykh5Qkc2Y2c40gHYAUFVX3lxTFBkMUx1aUpsZnRBVUxkTUVjbi1NcDZnVkFLeE9rdEdGbXJkWGVNSUNPcWZYeU13c0FCZ08zamEzdDM1RnBsTUt6c3V2NWEyUC1zODlyZ0d1azJKOU93Q3NHYVlUWFFDQkpWcmpGVWJTMWM3UjRXZU1ybF96dVFGbzNJSWJvZk01T3ZhM3NKUHMybmVrNTZjSk1lVG1jTG1jSUhyQ1NnSVp0TERVMUMwTVhQUVFOZDVvLTlBbWo2dEJOVDNEMm1MYkFicjZTMHYtampYYml2c1RWNA?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:33:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Shiprocket, Behari Lal Engineering shares surge after strong market debut - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWtLdDhIdU1iRjQyaEt3WE9rZmdwZ3BjTVpaT1FNZlNxZTlTTjd5VXVjV2FXRmJQTnpLTHZySWtlc3BkYnBRdEh6aGRXZVlyYTJGRzg4WjlqcVRWbFh6aWtMejJHNFJwaTdmZUEyV2lDWV9HYmxDZ3I1MDNvOVNZaFFRZ2xXU3pmSzVDZGNXOFowd1cxSVVwZUlVOEVqaXhPRGU4QzRtM3NlUVc1Ulpoc2F6QmdRbTVYcXNkUHB6VEFNMnBYdUFQMFlqUXo2UlA4SUF4VXdn0gHbAUFVX3lxTE1JTF82N3BQRkFwV2M5alYzTTdzTWxtWHEydnBOQ2lzZ19WUTdLMjhwVjQ0ckRBWEhHT3p1M09GcVVhVjhwTkJCX2tHQVZWeEVGX0g5V0I3ZlpQYXNIQ1N6RXVVRmQ4cVhUcFFiMzhaa2xhTTBYbnhPbEY1dGNVdWJnLUdPQ3pUaGJyUDJsVGxMUW1lR3A3NUxlTmQxT01rLVQ4T1paM3lDNkpDbmFkcnUtWHc1d05sTGhZNFBXajAzQVV2d1NLUkVlQS13Um1ZSngwR3kya2lxNV8zOA?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 14:19:46 GMT"
+      "title": "India regulator bars two over Dhenu Buildcon fabricated loan scheme, inflated market value - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUldVb1V3bk1KeEFnemhSRzRuME5CNVgxXzNydVdGWm5fb044R2tVSFNXSmMtS2dZNjFPVjhJd2pOU1R0SG9VWGJfM2N5R1RhQUtzWFRxMlpxeEw4TTctN0xxSGJDRmlJTzBzWW5BZGZoMFZZSmZOR3ZoMG0xMkxMYXJIUm4?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 15:30:53 GMT"
     }
   ],
-  "fetchedAt": 1787151901
+  "fetchedAt": 1787154214
 }
