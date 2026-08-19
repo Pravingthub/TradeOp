@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US Treasury to double long-dated debt buybacks to battle surging yields",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-to-double-long-dated-debt-buybacks-to-battle-surging-yields/articleshow/133356002.cms",
+      "pubDate": "Wed, 19 Aug 2026 23:44:57 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133352726.cms",
       "pubDate": "Wed, 19 Aug 2026 21:16:05 +0530"
@@ -23,12 +29,6 @@
       "title": "Goldman Sachs backs D-street debutante Shiprocket, buys over 40 lakh shares",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-backs-d-street-debutante-shiprocket-buys-over-40-lakh-shares/articleshow/133351802.cms",
       "pubDate": "Wed, 19 Aug 2026 20:27:56 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "BSE looks to launch MSCI-linked futures and options in India",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/bse-looks-to-launch-msci-linked-futures-and-options-in-india/articleshow/133351406.cms",
-      "pubDate": "Wed, 19 Aug 2026 20:13:00 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Gold surges over 3% as US Treasury announcement hurts yields, dollar",
+      "link": "https://www.livemint.com/market/gold-surges-over-3-as-us-treasury-announcement-hurts-yields-dollar-11787164505057.html",
+      "pubDate": "Thu, 20 Aug 2026 00:05:04 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Target shares jump 6% as retailer raises full-year outlook on strong sales",
       "link": "https://www.livemint.com/market/stock-market-news/target-shares-jump-6-as-retailer-raises-full-year-outlook-on-strong-sales-11787157995874.html",
       "pubDate": "Wed, 19 Aug 2026 22:56:47 +0530"
@@ -85,10 +91,16 @@
       "pubDate": "Wed, 19 Aug 2026 21:09:37 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Sebi bars two entities from markets over manipulation in CAS, orders  \u20b93.68 crore disgorgement",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-bars-two-entities-from-markets-over-manipulation-in-cas-orders-3-68-crore-disgorgement-11787151881235.html",
-      "pubDate": "Wed, 19 Aug 2026 21:06:13 +0530"
+      "src": "CNBC TV18",
+      "title": "LIC gets RBI nod to raise HDFC Bank holding to 10% from 4%",
+      "link": "https://www.cnbctv18.com/market/stocks/lic-share-price-gets-rbi-nod-to-raise-hdfc-bank-share-price-holding-to-10-from-4-19973174.htm",
+      "pubDate": "Thu, 20 Aug 2026 00:06:50 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Gravita India to add 59,200 MTPA copper recycling capacity at Mundra with \u20b964 crore capex",
+      "link": "https://www.cnbctv18.com/market/stocks/gravita-india-share-price-to-add-59200-mtpa-copper-recycling-capacity-at-mundra-with-rs-64-crore-capex-19973169.htm",
+      "pubDate": "Wed, 19 Aug 2026 23:47:32 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -100,7 +112,7 @@
       "src": "CNBC TV18",
       "title": "Strides Pharma gets USFDA EIR for Bengaluru facility; inspection closed with VAI classification",
       "link": "https://www.cnbctv18.com/market/stocks/strides-pharma-share-price-gets-usfda-eir-for-bengaluru-facility-inspection-closed-with-vai-classification-19973133.htm",
-      "pubDate": "Wed, 19 Aug 2026 22:31:57 +0530"
+      "pubDate": "Wed, 19 Aug 2026 23:34:03 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Wed, 19 Aug 2026 21:55:15 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the August 20 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-august-20-trading-session-19973112.htm",
-      "pubDate": "Wed, 19 Aug 2026 21:14:36 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "HEG gets NCLT nod for demerger; shareholders to receive 1:1 shares in HEG Graphite",
-      "link": "https://www.cnbctv18.com/market/stocks/heg-share-price-gets-nclt-nod-for-demerger-shareholders-to-receive-11-shares-in-heg-graphite-19973074.htm",
-      "pubDate": "Wed, 19 Aug 2026 20:35:15 +0530"
+      "src": "Google India News",
+      "title": "NSE IPO: Chauhan thanks Sebi chief, says domestic capital can cushion FPI exits - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMnBjYlVMVHZxczlja3ZRTnlleTBHR3lHY283Uk9BTll5cldLZ2QyNzhHYm5VbWlGYl96YTlaWTdLWS1TNXVEc29vcnVjaUJoaFhDa2RtWFotZjBndnRsQjFUbW9BLUx3UUdEd1ZsRlNjalNBQjRzVWdZcThLX3QtaGVoU29qcHdCaC1wS19iZUk5QmJpcHc4V19VRmotd1pyNXhoSkVJRDFyT0RrUVpGOUlvalBKSUh1QkxZLURR0gHLAUFVX3lxTE5yemFQSkc0YmlsTV9VLUNqQTl4S3pnc3plME9VaFkzenQyTjEyUnd3RnpsUzloZ3lWYVhNUk54ZGRVLXd6eU1yZXdiOTc1ckFpaDR2Tm5aUzZJTUo4d18tY05ZZGNDQ2RyVXZSeTlDa0xRRTJGSlh2SXQ4dG5zd0Y4U1c3amJhOTNhY0Rzd01BcUc2UFluR25FV2VGQ09sdW1lR1hXZmUybXN2R18xeGtnZzRfaUgxSDhyQXJqdllXc1FLQW9LNy1PM01n?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:40:05 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Coal India To Allcargo: Market Uncertainty Shifts Focus To High-Yield Dividend Stocks - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDhFQzRFR3dLNXY1emNNUmUzSEE4SS1PaV9ORTlhXzJPTzNwaTR1UmV2WUVkUUw4b1AxV1dOeFV0TEVaZVlYX1VNNUxiR0JrSXVrYjZTY19iRnJrSzF0UTVZeVFvNmRXWVJINF94b0ZUdkhnRC03VXhwOHRWRzVNdkpDMVdSMUdhZ2R2UjZqcjRvaUdSRXBrVEJKdlFwRVZVbm15UmItVmZUNnRic2Z5QVVEd2hmT3ZyYzRIWDFVWjFxUkxweXdN0gHPAUFVX3lxTE80dmplZXIxZEdObXdraDJVYlotdEl1REwwRk11TjU0ZkNUdmwyS3hicjVrZ3RBRlpTaXEwck9zckJvdUdETldCTWlxTFhKemdIQmVqMWxLcnVxMk55LUluenBKZ1pOSVBMS3UtVkpmbVpsdll4U2FOMEs0VHR5c0IyY1o2ajlTM1d3U3NSUDJzT3hzNlNjdTZFZkdqVWcybjdLS1dvRHdKODF2cXh1Smhya0NnaTE5NU9UaG55aEI0eGZ3dldIaTliSmkzRkFFZw?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 17:40:01 GMT"
+      "title": "Stock Market Outlook Today, August 20, 2026: Sensex, Nifty Likely To Stay Under Pressure Amid Global Weakness - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa0phUUFmUG5MM19EbGh6WS1ZVG1zelJUREIxdG10ZnBPcHZ3dTdId3ozdE43dTZBSW9rRmNocmxVRXdJS0QtczI0b21ucUxoa2NHcFljdGNhVmRaQXJoRTBjb0llUWRZMUJoNF9yMkFLeWxvNnB2RER0bUhmZEl4T0pwMjYxRVlmeHlxRVNnRkJWU1lqRHZFMzRJN1hQN0ZEVTFLZkFQVVZMd1dzSWlyVzg0UVNfNjBubEpXVkY2bDZzOW5INkhNbXpPM083MzlIem14MU5JM1Boc3NXcUE?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:32:38 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Datanomics: Diversification helps India's exports thrive despite W Asia war - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYlBIVGpDcWpvZ3VCeFA5V1Bzbi1mMDBTWUFqOFFTRXJadkxsUzJUZlNFYktVUHMwS0JCQjNaNGdxVkY0LXZvY0xWZTcxcU42SloyY05xZHprV2NpQ3pjaEJ6S2UtWDFKOHY0MFoxalFocTM4X3FtSE5HQjc4QUw3MXpGZ3hNb3MtNENYeTZ2elJib0JuYXN2UTNnMXJZQkR4dmxqV2ZBLUNld1dGS1pCNGkzdGM2R2F3R1RZTlpxeU1SMXQtWjBMbTFrWHRJMVRXeW1wUTRlY3nSAd4BQVVfeXFMUEZuS0ZwdWhsQ3VNX19jZFdObndYaUxZX1paaUZBQ0FJRkEtLVl6THBiLXFWVHU5WkJTRVJ0bE9yWkk0MWNwdVNRTmduVlpDRUJjaWtCTHlZamtvVlhPYUFqVlJLYnBocTN6aGxMSURzSk50OFV4bEJJRFc5UEJvakdqWWFoZjJsanhEaW1lWkVzTFY4c05tb2hBeXlrdEw5VVpnQ0FPUHd6X1hfWjhDZGZpX1h3UkJ5VURra0t3M0tXejBzSGNmOEQxdDhhSFVkUUFvY1Bvd3UwTVBTd29n?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 17:31:25 GMT"
+      "title": "Aug 19: Sensex Drops 326 Pts, Nifty Below 24,100; Oil Prices, Geopolitics Rattle Investors - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWxoM3VIeVZzWnpHY1hjMUdmWHZrSWszZWlSQkNrTHhQcE5SYVRRakZsRko2VFctazdNckJGX0pjeWxoTklhbFZZbzdDMUNBcnBRalc5R2lEZ292Rkw5cHFITEFWclhEQ3dmX3RoRFlEcWk2QWFTZmZLalVVUENCX2FtNjI4T2VQVjhlNnBLY1laN3pGUGlCYXRnWVBlU0h3akZ3M0JxUVFUMzhtNW1YZWp0RQ?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:14:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Capital gains tax on FPIs comes in the way of India\u2019s ambition to become a global investment hub - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNVXozYlhvTUpmVUpNcE0xV3l2eTQtbTRsUXp2M0lQX0l6TE9ueURxVlBza1JoVlpSdzlKaW02SFNYRDlsU053VG1uZHlBOE9EOC1ZS2FFa0ItTjlTWHJic3R3OXNPd2VoOElQWVlxMEtBZUZnY2dnelhJT2JsUDk5UndjbVg2UlRXbkR5TmtOMFM0Tnh2QzJYUW5wZHdNbDZQOEVucGFQdE1ZaC1PM2tMbldVa2xyOEttTzhlSmdSWlY0ZlR3QVVvYVlzbmxiTkNaS0tMVnZ0N2kybjFEQ3FseHRhdUw2Y2xLZlhLNWdrNlJDbWxIYU43SUs0TU1yMnct0gGGAkFVX3lxTE9USy1yRFFwY0t4T1M2OW9ORUZBbExMY0RoYUdFTzUxRUVHRzlkZ05BTnY5M3dYUnliSjdsVUo0RVF6Zl95bXhlTmZYRll6NU9CVHZVa2Q3SzlfMHNUNldNTGpSZVlXMkFCdGNzcnB2WTBsR3JWQ0NZeDNoR2dRUjdOcWJNc2NCVXRsR3ptNEQyTko3ZENvT2hCWGFuT3kzNDJwdUpVVjJlVVlSdUtJcE5pX3IxaXN4aVRRLWpkWEpZS3lDUHd6Ti1NX0JmUGdjQ0RYUC1tOFZZRmhFNzNCbmVKOV9PUFBPWlJjLWU3dk1OV21hTHVIVkRvVVpvWEJFSnpjdlZRbUE?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 17:43:00 GMT"
+      "title": "LIC gets RBI nod to raise HDFC Bank holding to 10% from 4% - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTnp1LWQ5WmFKTnVLWUtERDNTaDhfMU53V3BBdk9KUzZkcG13bUZWRmFXMm9oOFFmS1k2WktRYnRhQXYxaWFGWU1TTTctYUdsa0p0MlFoSk1oUTBiNnJya2VVV2pueXM4REZfUmQ1VmhESUVTNjRVNnZ4TkJHczRtWmVjVHdWUHN3VVZBZ0ZrdUdITFRQLXZXeTRzZTREMjl6cnEwUzhueHZ3emthTkZ1TE5nQ3dIakxnbmltejNIeTdZbFUzTEZ6UFlhbDnSAdIBQVVfeXFMTmtZTlF2bVZPemRRQ0lla1FCU3doNHk2Mno3TlN3dUxnUGdMb2RVUkQxQ1djZnQtMm4zdXpOX1A1REdaNUFVU0ZiR0N0S0tUU1VNTG9VdU9GdVliRFdTV0pEOGUxaUxJOVFnOFl2R3NDNXduNFh6UTg3aXN5SUxpX1BXaGszWXVINjhBdGR5dmYyWHItaFRGVUdMYkFZV3pvQWdfQkMtaHQ1eGUyUVp1c2REMzFqYUttVzFIam1zSE5tQzVUQjNXUFotbjltV2NleFVn?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:31:13 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Pact Industries Q1 Results: Unaudited financials filed for quarter ended June 2026 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbHkyckJmY2hmcTF1b19NQkIwV2ZKdmtPZklOMHJBdUFMYnByOWpUTTNUYWlBUVNpbFhFWGkyenUtb3B2a3ZObTR6M1FKR3l1cmtaSzZJZWRxcnp0V1U1eFdmQ1kwNkNlRHFRaU9taExObDF3WjY4SlM4UFo4bkhkdDBITEh5TS1NcTZNOERSSGEyNHh4ZVJ2SGo5MnRsbUdqZVROTll5cks1YWtLYlBOalBxSlhhUlRTcWtpaU5LN2hkQQ?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 17:41:46 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "BSE MD & CEO Sundararaman Ramamurthy Inaugurates PNB\u2019s One-Stop Branch for Stock Brokers - thenewsmanofindia.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3I0ZlQzWjRxTXlrR2pMYjZUSDc4c1ZrYTBxWmpXY29VcjN6UFU5V1dIaHBhT2dpQXdUR1BKbEMzdjNOWnJRdHhoZThvZjZIenp4azZWU3M5TmtVMm1HYUtmeFVMM1RJdnhEMjQzLU9sR2pFWl9IZ0tGc2dCSVRhb0ZOUzdEM0VaRzA1RVVod0NSamlkTlFER05xZmFHZGdFMjFyN2RZT1V6UkVockV3dGUtSlB0OWs?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 17:37:47 GMT"
+      "title": "J&K: US Ambassador to India, Sergio Gor enjoys a Shikara Ride at Dal Lake in Srinagar - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQRkdmeTc5d3ZzMzJLbkFRdVFIZUFOYkRKSWtpQ0hKRndkRWpLWVpkRUZod3hkZ0NsbWdpWDNmbXpZUFdueHUyWENwMTVxbW5zaTJFT3BWVk1YTmpjOEVXOVdSNy1fbm5hMGpfZ3RoRzgwM1F5OUs3MzdNc0l6YWNMYUFsMmNJc3VTNk41aUktc3hxUUNLWDU5NlRXWm5tV25SMWNVQWVQZHJUTFNNUENtTTF6bU1abnQ5Z0x0cDlkQ0p6Z1Q4REdJVFpmMG54d2d0dmF4U2NZVGdqc25MbXUydHJoTzdmWVBLNkhLWEVJaUfSAfYBQVVfeXFMTXdYa3F6VVBXQWVJWHE4aHp0THJMNl9MMVlKemx5bDNZeU1KXy1meGFIT3V4eDVOM3JVc1VTUGpUTDk5LVpCdzlMc3dBZW4zN3U5anpWRVg3QXc4d1gycFRDRkZ1NDhHWV9sLTZIMjFtVEZZcjZZVVNHXzlKT1FHd3lmTmFvV0tuRVV2VDctVmRSWUdiZ0RPdzNSN2FTaGVURFJybElyZFhWQ1A4R3V3MkZhZWhsMC15S0JYV3B5Y18xNUxlX2pXU3J3VnJYaUltSDRsXzNoNThvWUxqRVhDYmhILVpiRUhhVlpRNlZrMEZfNGgySU9B?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 18:16:52 GMT"
     }
   ],
-  "fetchedAt": 1787162616
+  "fetchedAt": 1787165488
 }
