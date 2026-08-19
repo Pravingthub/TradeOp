@@ -32,6 +32,12 @@
     },
     {
       "src": "Business Standard",
+      "title": "Small-ticket SIPs see first decline after years of rapid growth",
+      "link": "https://www.business-standard.com/markets/news/small-ticket-sips-see-first-decline-after-years-of-rapid-growth-126081901181_1.html",
+      "pubDate": "Wed, 19 Aug 2026 19:16:56 +0530"
+    },
+    {
+      "src": "Business Standard",
       "title": "Ceigall JV wins road project of Rs 274 cr in State of Arunachal Pradesh",
       "link": "https://www.business-standard.com/markets/capital-market-news/ceigall-jv-wins-road-project-of-rs-274-cr-in-state-of-arunachal-pradesh-126081901046_1.html",
       "pubDate": "Wed, 19 Aug 2026 18:04:15 +0530"
@@ -55,10 +61,16 @@
       "pubDate": "Wed, 19 Aug 2026 17:51:11 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "INR slips further amid sharp rise in global crude oil prices and negative local equities",
-      "link": "https://www.business-standard.com/markets/capital-market-news/inr-slips-further-amid-sharp-rise-in-global-crude-oil-prices-and-negative-local-equities-126081901016_1.html",
-      "pubDate": "Wed, 19 Aug 2026 17:50:59 +0530"
+      "src": "LiveMint Markets",
+      "title": "Ceigall India secures another road project in Arunachal Pradesh worth  \u20b9274 crore",
+      "link": "https://www.livemint.com/market/stock-market-news/ceigall-india-secures-another-road-project-in-arunachal-pradesh-worth-rs-274-crore-11787142718734.html",
+      "pubDate": "Wed, 19 Aug 2026 18:35:10 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Moderna shares climb nearly 100% as mRNA vaccine with Merck succeeds in large trial for skin cancer",
+      "link": "https://www.livemint.com/market/stock-market-news/moderna-shares-climb-nearly-100-as-mrna-vaccine-with-merck-succeeds-in-large-trial-for-skin-cancer-11787143887774.html",
+      "pubDate": "Wed, 19 Aug 2026 18:34:06 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -79,22 +91,28 @@
       "pubDate": "Wed, 19 Aug 2026 17:22:06 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Mint Explainer | Why Sebi wants to revamp its settlement framework",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-proposal-settlement-framework-markets-regulator-india-11787126318033.html",
-      "pubDate": "Wed, 19 Aug 2026 17:05:48 +0530"
+      "src": "CNBC TV18",
+      "title": "Bessent boosts debt buybacks after yields hit multi-decade highs",
+      "link": "https://www.cnbctv18.com/market/bonds/us-treasury-bond-buybacks-30-year-yields-2007-high-19972997.htm",
+      "pubDate": "Wed, 19 Aug 2026 19:08:02 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Sebi asks brokers to accept orders in first five minutes of closing auction",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-stockbrokers-trade-orders-closing-auction-session-11787134054384.html",
-      "pubDate": "Wed, 19 Aug 2026 16:25:38 +0530"
+      "src": "CNBC TV18",
+      "title": "Moderna shares jump over 90% after cancer vaccine shows positive Phase 3 results",
+      "link": "https://www.cnbctv18.com/market/moderna-shares-jump-over-90-after-cancer-vaccine-shows-positive-phase-3-results-19972993.htm",
+      "pubDate": "Wed, 19 Aug 2026 19:05:22 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Vedanta, NALCO, Hindustan Zinc lead Q1 margin surge: Top metals stocks ranked",
+      "link": "https://www.cnbctv18.com/market/vedanta-nalco-hindustan-zinc-lead-q1-margin-surge-top-metals-stocks-ranked-19972882.htm",
+      "pubDate": "Wed, 19 Aug 2026 18:50:56 +0530"
     },
     {
       "src": "CNBC TV18",
       "title": "Fedbank Financial Services board to consider \u20b92,500 crore fundraise through debt",
       "link": "https://www.cnbctv18.com/market/stocks/fedbank-financial-services-share-price-board-to-consider-rs-2500-crore-fundraise-through-debt-19972966.htm",
-      "pubDate": "Wed, 19 Aug 2026 18:29:19 +0530"
+      "pubDate": "Wed, 19 Aug 2026 18:34:15 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -103,22 +121,10 @@
       "pubDate": "Wed, 19 Aug 2026 18:27:30 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "HDFC Life gets IRDAI approval for reappointment of MD and CEO Vibha Padalkar",
-      "link": "https://www.cnbctv18.com/market/stocks/hdfc-life-insurance-share-price-gets-irdai-approval-for-reappointment-of-md-and-ceo-vibha-padalkar-19972884.htm",
-      "pubDate": "Wed, 19 Aug 2026 18:05:47 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Hexaware Tech says no evidence of systems or customer data breach after leakage claim",
-      "link": "https://www.cnbctv18.com/market/stocks/hexaware-technologies-share-price-says-no-evidence-of-systems-or-customer-data-breach-after-leakage-claim-19972933.htm",
-      "pubDate": "Wed, 19 Aug 2026 17:55:14 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Best-performing IPOs with issue size under \u20b91,000 crore: 5 stocks that delivered up to 149% returns",
-      "link": "https://www.cnbctv18.com/photos/market/best-performing-ipo-issue-size-under-rs-1000-crore-5-stocks-that-delivered-up-to-149-pc-returns-19972865.htm",
-      "pubDate": "Wed, 19 Aug 2026 17:53:09 +0530"
+      "src": "Google India News",
+      "title": "India Replaces Indonesia As Asia's Least-Preferred Stock Market In Survey - NDTV",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY2pzcVlNZGN5Z3I3d0k0ZG15cVBTOG81QS1adjlPelZvd2VMSjdzTXVraUNoUHRWNmtwcEZNd25ETkJKR1c3REJvYVhfS0I5T1l1SHpoNDdyRVkzMEd3NVRQMXFQTTRrZmZKd0pPLXJ6UUtpcXJ1RTZhd1dsa2lWcU9leVhkSUU0RFlMV1FoUW1jYTBmV1J6Unk4dDZhLWwwRF9lNV94aERLSEJWb0dpdmdtWdIBuwFBVV95cUxNdUhXZHh5QzdadXBFbWJDazVkNWZNc3FBTklDMndfVUkzT0N2UmRzWGNrY3VJSHVfY2k3anMyaWZrdkxOX1ZvQ3ZmT3c1ZlRjcHJGUlp6UUlVTmtDSk9lSFZUZzdhTjRMU0FOVmREVHRxSHNaMkxtZzItTU15U29YbVJRMklKajlFWWRVam1jUENMMnpObnlESThlbmlvU0lhNlBLRmdleWd2aWN1VFhqd1ZxQ3Y4d1NqUmpR?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 13:03:09 GMT"
     },
     {
       "src": "Google India News",
@@ -128,28 +134,22 @@
     },
     {
       "src": "Google India News",
-      "title": "Indian stock market least-preferred in Asia, shows Bank of America survey - Scroll.in",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZFMydUxrdWhXaWZZbkNlU2ROVXRJdGI2Yy1IV1M2azd6TlVwOFdGanZFb0hVMkp2MWl5QmZhS3RLMF9ON1RlRHZ0VkV2QkM2ZnpsVHBYWDNlWm9vSDFWS0FLSkNSN1BvbU9DX1FISGF2X0x0OXpzQmZYdE5vclV5NXdudEtUQzVnalZRSk56cVpVZVhIbUdiZUpTbnBTeW00MHRJelRTUjLSAa4BQVVfeXFMTlVLb0pKazNXUzRPbEF2TUpYQmtnS21PRmhaQXVIbVBvR1BZWEExSXRnbFhES08zTmM0RVJwcEhTd0hjcXBwS1V1UFp6b2N3cENyZFlsSmtubnJVc1JUYVJvem5BdFBZNkM4TUd3SDdGa1V5OHVzYUxwZkZ3SHdaMjlRa05ZWGQ2dmw1N1NycE9tcjEzZTk1aGFYSFZFMnZESVAtdzI4UVdrd1dINUVR?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 12:45:00 GMT"
+      "title": "Small-ticket SIPs see first decline after years of rapid growth - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQWlNTlJMTFB5R1lJLTI4anNhNm1IY2lCZzZGX0liWUd6WTJ6UmZXS21uRTF4bXU1cFB4QmdTU3QzY2FnUE9BdktYb01aZFN1Y3djNE1heWFSQ25QYjJNaHR5ZENIb0xlcjNLMGpvVVV2eTZTU3JWV0hXS1lpWUhuUFA2Slp1bVFBeVJMUG5sTlNmRHV4bGFFU19IeFpMamhwRmwyeEVsZGtPc0VoamlTMVY3Y0lpMU9nU1hVNWxJWVh1MUtBbllJZWxn0gHPAUFVX3lxTFA4dTRaN0JlVWJ1N0wyeHN6ZjNCMDdtWnp4SVQ0Y2hRdC1rZlpXU1BmVkdtSDlsbDV3dHBZVE1ESnMwTHpUY09LRnFIcnFzbFNsa0JZbl9acDVsckJnUEI2VHNCaUVKMjl0alBSZHh6UlJTbHJhcXFLeXZWQk9vcDA4WVI3RHBTYXpoOG9XZlh4bTNOQVM3M09oVHM5blNSeTVLZnRJUVAtZFdtLTBEUDV1QVlyUEVlSS1Zb2pDUVlzaVFCQkRiRVpncnRYRFF5OA?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 13:46:56 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Q1 earnings beat expectations, but Indian stock market remains rangebound: What could change the trend? - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOc0JMazI3QUVSY1FHcUhILWJMT2dpWEdXMmNoS2JjeXI2TmZVSDBCY0dqb0JfdFNNTlhiN3JLeVlOODZtbC1TUmRIZ1hSaFRLZ2NBc2hNbURTSG5rNlUyMU5qTEtQdE5TRXNoV0FHVlZQR2pubERzbi05cG15bHQ1TGhTV0JyejJaR2ZaLWo2cGN4U1l5bzdIOWJOSzFERXZEcUlkSGNoTzNYajFHTkQ0TE0xbGZid0w5UUFlS2J3V3JPLW9TUXRNdWNzb256N3dVNkVxM1h0S3Z2UlZnWEExaUY2TkszRWdURTZvN05B?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 12:17:15 GMT"
+      "title": "Rush Hour: India least-preferred Asian stock market, Tejashwi Yadav detained during protest & more - Scroll.in",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWl9Rd0xOMU83Ym5seUMyXzR3WlRHV1ZvSElib3lpYkFrcDVLMzQ0OTZ0WmUyVEhzcHltbE12MUNqc2NYNkZUYWtVZk5SOVQ2Q1J5NkNUcHZfMlk1UU9VTlhjWDdfZE1ndHNWUjVkdXQyQ0JaNFk5Qm8yRDZiRFZtMDZGSHhSbWkzQkw4SnFqZVVMMXNMUzhuSDlsc1NTaFBCNHp6VDZSQ3F5dWFLTUpna2tUaTRQODVMemgwZHI1YlBKdjdkSVE?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 13:11:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India Asia\u2019s least favored stock market, BofA survey shows - PRESS Insider",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOenpyaVA5M0Q5QktGM2I3eGZ4RHhjRXo2enhHYXBOQUlnS3BZQlZ2dkhLc2ZpWDk2WUpwbHkzY19Hdk93bm85V1R4Q3NtX2NzSGhscE9ubnI3dk5hT2hOa2tVUDBHZWIyRVptQXRnUUhkVFJTODFfUjhCVjlUNHgtTVFubk9wc2dPLVl0dEdJcjI?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 12:07:23 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India\u2019s Nifty 50 profit growth faces global headwinds - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdi1iSkFMVTY2U3ZncWdCYTRObGprYnVBUUNiaHJtdWZoV21DM25PenV2UFhvSXhxLWVoRUg5cHh1dXRLWUhqbmE2WDFXbXlORFhxcl9aTmU4VXcwYXZ3aldIZ0hLM3FGbHBSTDF2MVZDRldIRC1wNDZpcXN2emh2V092ek9hLW1yRGNaWFdoQm5JOUxkd3FxUmdjdHZYczZsY295Um05NGRpZmFQOXl5bmNFNA?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 13:02:34 GMT"
+      "title": "India\u2019s Nifty 50 profit growth faces global headwinds - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcjRjcElfYXhDLUpUNTlDcmE2OUR5UTZnZHdrV0xmSW45UG01VWxselZIMG5Ld01jeUxoOHp2TVl0aXhrVTZ2ZkVicllpTWplWXB6bzZ6ZVN5Z3F0alFLVnZNYWlEZ2JSTTZDRGx1SG9Bc3U2R2hTMU40aGpidmZ4MFVfSXR2V1k4Z2dkaE02WjFnU1VDZEtvSTZzek54WDB5T0hIOGIwSWdvNEZfWHhqMTVaUHY?oc=5",
+      "pubDate": "Wed, 19 Aug 2026 13:02:32 GMT"
     }
   ],
-  "fetchedAt": 1787144779
+  "fetchedAt": 1787147717
 }
