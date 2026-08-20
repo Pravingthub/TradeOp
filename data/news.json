@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Shein targets September 1 for Hong Kong IPO: Report",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/shein-targets-september-1-for-hong-kong-ipo-report/articleshow/133384924.cms",
+      "pubDate": "Thu, 20 Aug 2026 23:15:54 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US Treasury's Bessent says upsized bond buybacks could increase further",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasurys-bessent-says-upsized-bond-buybacks-could-increase-further/articleshow/133384876.cms",
+      "pubDate": "Thu, 20 Aug 2026 23:12:00 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "St. Louis Fed's Musalem says on CNBC he won't prejudge rate call view for September FOMC",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/st-louis-feds-musalem-says-on-cnbc-he-wont-prejudge-rate-call-view-for-september-fomc/articleshow/133384089.cms",
+      "pubDate": "Thu, 20 Aug 2026 23:08:45 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Upstox begins talks with investment banks for $350-400 million IPO; crosses 2 crore customers",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/upstox-begins-talks-with-investment-banks-for-350-400-million-ipo-crosses-2-crore-customers/articleshow/133383629.cms",
       "pubDate": "Thu, 20 Aug 2026 22:21:52 +0530"
@@ -13,22 +31,10 @@
       "pubDate": "Thu, 20 Aug 2026 22:09:00 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/133382660.cms",
-      "pubDate": "Thu, 20 Aug 2026 21:34:01 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "General Atlantic Singapore sells Rs 1,400 crore KFin Technologies stake; Invesco, Mirae Asset, HSBC MF among buyers",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/general-atlantic-singapore-sells-rs-1400-crore-kfin-technologies-stake-invesco-mirae-asset-hsbc-mf-among-buyers/articleshow/133382597.cms",
-      "pubDate": "Thu, 20 Aug 2026 21:32:06 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "F&amp;O trading bill: Retail traders pay Rs 25,000 crore transaction costs in FY26 despite big losses",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/fo-trading-bill-retail-traders-pay-rs-25000-crore-transaction-costs-in-fy26-despite-big-losses/articleshow/133382436.cms",
-      "pubDate": "Thu, 20 Aug 2026 21:25:56 +0530"
+      "src": "Business Standard",
+      "title": "Sebi permits digitally signed power of attorney to ease FPI onboarding",
+      "link": "https://www.business-standard.com/markets/news/sebi-permits-digitally-signed-power-of-attorney-to-ease-fpi-onboarding-126082001603_1.html",
+      "pubDate": "Thu, 20 Aug 2026 23:19:14 +0530"
     },
     {
       "src": "Business Standard",
@@ -46,19 +52,13 @@
       "src": "Business Standard",
       "title": "Nifty snaps 7-day losing streak as US Treasury move eases yield pressure",
       "link": "https://www.business-standard.com/markets/news/nifty-snaps-7-day-losing-streak-as-us-treasury-move-eases-yield-pressure-126082001205_1.html",
-      "pubDate": "Thu, 20 Aug 2026 19:18:38 +0530"
+      "pubDate": "Thu, 20 Aug 2026 19:18:26 +0530"
     },
     {
       "src": "Business Standard",
       "title": "INR seen supported by dollar weakness and positive equities",
       "link": "https://www.business-standard.com/markets/capital-market-news/inr-seen-supported-by-dollar-weakness-and-positive-equities-126082001074_1.html",
       "pubDate": "Thu, 20 Aug 2026 18:04:58 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Shankesh Jewellers IPO subscribed 2.80 times",
-      "link": "https://www.business-standard.com/markets/capital-market-news/shankesh-jewellers-ipo-subscribed-2-80-times-126082001073_1.html",
-      "pubDate": "Thu, 20 Aug 2026 18:04:51 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,6 +92,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Welspun Corp bags record \u20b917,200 crore US pipe order; global order book hits \u20b942,100 crore",
+      "link": "https://www.cnbctv18.com/market/stocks/welspun-corp-share-price-bags-record-rs-17200-crore-us-pipe-order-global-order-book-hits-rs-42100-crore-19974059.htm",
+      "pubDate": "Thu, 20 Aug 2026 23:25:17 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Paradeep Phosphates launches crop-specific fertiliser for sugarcane cultivation in Karnataka",
       "link": "https://www.cnbctv18.com/market/stocks/paradeep-phosphates-share-price-launches-crop-specific-fertiliser-for-sugarcane-cultivation-in-karnataka-19974043.htm",
       "pubDate": "Thu, 20 Aug 2026 22:37:05 +0530"
@@ -115,16 +121,22 @@
       "pubDate": "Thu, 20 Aug 2026 21:25:35 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Prop traders lead India\u2019s derivatives market as retail investors lose over \u20b972,000 crore",
-      "link": "https://www.cnbctv18.com/market/prop-traders-lead-india-derivatives-market-retail-investors-lose-rs-72000-crore-sebi-19974009.htm",
-      "pubDate": "Thu, 20 Aug 2026 21:18:07 +0530"
+      "src": "Google India News",
+      "title": "Sebi permits digitally signed power of attorney to ease FPI onboarding - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVWxiUEVUejYyWjEyaFpvZF9OLXAwNUJ4bkJKNWIzNll0bllCbXhZNV91RTV2ZEMyNjVoY2tNcXU4WFhVcjhoNFA2UjBTOWNFa2MweUpQMlJGSWF4OG9HWFdnVlY4VmJ3LTI4UDlkUzB1aERxak83cWlpTk9LZXpKMjZYQTF5M2dUa3dBQXlCVzFwcDlFb0d5QmF3Y0QxcUd1VDFhX0ZROEozLVlPa3N0VS1xbFlwMmNyd1Z1TkQwZDdMTWF4Z0J4Si1fa2ZhV3dLb0Jz0gHYAUFVX3lxTE0zbDJha1daZ0Y1ZXRvR0N1VTFENFVzbi1vRHV2ZzM5Tll4X01TaUl3MGRBc3R0clJ0Q2E5YnpoVlkzZHRwV0x0MjVEbTNJLXVLRnIwN2tkOWZSZFJaTTMzaTdMQmNXNHhMek9Gb2hsWmhrQllOMlpRaUp6cjFaVEpwQThNUjJpT093ZjV4MGEzUldSakQzWWpLbWV2Mll2V3pPS204aklBRjJyZnB0MURTbVU0UzVwdVJ2ZkNrTy1aQk82amNzQUJDQWNlaVQybjMtTDZycEV0cg?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 17:49:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Explainer: Why India's market regulator barred a JPMorgan entity from the country's securities market - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWhlLUo5SzJWeS05N0hTbkcyWDZPanNENUpYMGdGQjlubmg1emk2dVpoV3ZEYUVweU9EMGNlUWY4Ym5CbTVvSV9rcWl4c3pWRHhBVzBUa19RZFVTbEN2WXJMSFBObktFZjlTX1ltVk1oNm5Fa3hINThEcUdZcGxuMXEwVTcyZXdRdHRPWGs1eERxYVdvSHVraHdtNTFqM3h4UGFVb0RPQkRJWjQ3M3pXdmk3NkRWWXRRMXJ2c0dhVTBwLVNheGE3TUdB?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 16:52:38 GMT"
+      "title": "Aditya Birla Capital enters gold loans, to have 1000 dedicated branches in three years - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdVJMRnFneTNpYUZiU0JITGc1Z0hGNnp1ZUdId2ZxWHNMTHZyUkgyOVE1S09RYjNRRXA0LU05MHA4OUVueHpjSTRSR3Q0aDVOQ0FfSURKby10dFdpT3BXeExwczZQZUg0cjJmU0JabnVpaHMxbHZsaWZSeEIySGppbVBpLUIxLXpaY0g2Ry13eEFUcFRQb1lPRFo4WHlUdlI2WWVac1dQY0VkX2xYT1k4b0ZreDJyVWtrNHNReFBUNVFlOFdaUWhyOUZUNmpWTE1KQ0l5ZWNRSkI1VjZjanFBejRlMGN6Qm5IajYydnhCUXN5aDJDclM1T2JTNGEtS0tx0gGGAkFVX3lxTFBfYVRMMWhNekRKNXlwNFJHZGQwQ19mU0I4Rmk5TC03aGhTaHk4M0R4WnRtU1pKSWdYSEwtci00ODN2NlcwV3JKQlJFMFNfYzNiWTZxOWF0R0pvSjFmb3RHMk4wZ2NyQWc2RXh5MFZiMzN3VjdHVnA2bHczemEtNlcxTUFWUVowUWdsRnZlbHFyaU1OcUNiR1ZKMXI0MENiUkJaVS1ERnhiLUtLbE5BNE5OblI0NzVaZGpKSDAxUkRqeUxlckpsMHMzajZlZC1WRmZXV0xLR3ZhTk81TkhjRmZKYk1MOGl6eUVjVFBBTC0tRDFNblQ4MjFEVEdidTJDb0J3YmJZM0E?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 17:53:00 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "India allows duty-free sugar imports as prices surge - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUHNscWZuRko2WWlmZ2otNmJBdzItVkFlUjhQYnh5aGVZQzROaFpfV0QyNlE5MXQwLTZqMlBOam85YVFrcmI5WUNVbUFkSjlKOWR2UXBUbVBYTzB4eTdYMVlwcHpBTkVqRXRIMXJHczdReWJWTjI2R3U3Y3hpS01aTVY3VmZncTUxMW5NOUs0RFo3Zk45UkxmWXM1c1EteWpoVXcwRGhNck_SAa4BQVVfeXFMTlhBVjhHWHdrSXNWWUw4cDlOb042dElGQ0NWR3czMTZGTENvLVJOc0dCZWVKNGRtMTEwa202TlE5V1Y1WV9tQnI4U000U3FuWktKa2pNOEl0UHd2bjROQmlOYlM2N0ZNcUtIdW5ZLXNQR2FhQkV6cHNZR0hRWXlyaFRsM29OeTNwdm9FM3IyWjZveXFlMjdMWVo3dUx3Q0pOMmROWldOWHRid2pkRzFn?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 17:49:23 GMT"
     },
     {
       "src": "Google India News",
@@ -134,22 +146,10 @@
     },
     {
       "src": "Google India News",
-      "title": "Prudential HCL Health commences operation with 12000 hospital network - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUEp2UmdOZ1hRMklwVFlNVW12ZzN3TDkzNXhzV0p3UnRTT2NkZVJpRTliakN3YWF4TkhiWW1pVE56UkhaVVNtY1ZWdEFhSm1VWTkyWUJMamFEU3M2bG8zazVBZjRIeHdPdUVNWW1rUmxQZ04zMXlkaGd0OWhmbmxqM0MxSlpKcTVvQnpuWGhQUldjSTBZOUpLZWRJT2ZCVGVVbzFSYW54cDBPTGdrVnNKTk1IQmdwTmkzaXk1Y3NDVlpCQ2RGa1Z4Q0JwUFowQVhmRmhXcExzbFREM0NDTXNQX2xUT2haRHhVT0VF0gHwAUFVX3lxTFBHSXJieFN0TUxuTXZxbEcyT1pWTmUxTXJ2SDRuV003OVJ3QlpLOXhqeXN2WmUzOWJpSDRvd2NsZmx4SHVSdlhoRUVWdFJJcjNJQkg0SDdieGM2X09GOUtyN0swVHg1czg1enlkRDJ6UlRELXdBUHR2cWhwT09kQ2JEc0M2NjNmT2dFWUpoNzBGbTF5aWZYZHlZYjdpZ0xxZnNmcVE2UnV0R3lDYnYyczU0MWFqRFh0MDg0bzFjX1B4bFZac2JoVmpLckJfUVBOTVQtYXhUVExHV3daZVhaU3VocjNJb2JFaGZrME56ZXoyNA?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 17:18:00 GMT"
-    },
-    {
-      "src": "Google India News",
       "title": "'Anything within 24 hours is a noise\u2026': Treasury Secretary Bessent reacts to shock oil price jump - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQk1VWmNPd1VoakFzS0QtRFV2NmpCa2pSRWExdm9hZGRQYWo4WUdkZzA0MFVVQWNEUnVTOHFfNDFJQ3FMODdQVEtoY19HSWhZdVZEZk9IRGxLTkZROHEtVDBTNjlESU1NMHVTQUtZNzhXYmtabm1na1k2VHd1TWptQmZHTG4wOVUzbF9FbVIzY0tWSXJpQ3I5aDlGeGJsMTVqYzFuYWpNVlpUajl6QnltdzdTbjZCRC1yT09nTzhwbXZSc1JrTXE3S0R4aVl0NGFuM1publVrSTV0d1lBQ3NXdWxGcDFwcTd6aXBSYVg0T0YtNmdOenhYOWVNYVRUMnZUZGZXUXZB0gGLAkFVX3lxTFBmS2dvengzaVh3QVE5Vy1mSnN3amJ3Q3ZBSHBLMTUyWmpka2VpSjg2Q2MtbzhQa3JUUVJYTk5LV1dUMlhFNlFCU09DU0xBZ0o0QVhENlQ4MFo1MkhjYnlqNzllTHRoTlF6Tlo0djdBamtaNXlpTkFUQlFfUFpGWG5pOVZ1ZmNHZU5BdTBMblhmekNQaXdRMVhzNXNXVUNsdkM1QnpUUGtya1NXaWExekMzQTEzUHd4OTRId1FhUUZCUW5ZZkhLTVNGT0dDRDQxX3MtZFhyUVRnaFJPQkNxam5yS1ljVFR2YXc2Wko2V0JyTndKb3hYazdrdU5iZGJuQXFKZjJHUkNvQ3BWYw?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 17:30:44 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India Bulldozes Munir\u2019s Pakistan: High Commission Structures Torn Down in Delhi | Vantage - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaC1tbFEwSTFsc0lIZkhwZF9tU1NrY0REVXpVVVVOTEQyYWN6Nkg2cjJvSUxPZDE5NTlITm90NTJhVF9sMEtyeWdUdEZ3M3ZwdUxFU2RQcUxSQzFpMkkwTi1TSExod3ZkbDg1eVBDTWZzcy11X1Yxbkh6S3FvY0NlQVFtUFpSQmstNy1DNEpFeDI3U0xia1g1ZmNFdW9MTWVOUHVYZ0xTaVdMeXYzdE1xS2hPbzg0M1lmNFI3YWRPdVBZdmNpR3RoZmFmVWdCTnPSAc8BQVVfeXFMTWgtbWxRMEkxbHNJSGZIcGRfbVNTa2NERFV6VVVVTkxEMmFjejZINnIyb0lMT2QxOTU5SE5vdDUyYVRfbDBLcnlnVHRGdzN2cHVMRVNkUHFMUkMxaTJJME4tU0hMaHd2ZGw4NXlQQ01mc3MtdV9WMW5Iektxb2NDZUFRbVBaUkJrLTctQzRKRXgyN1NMYmtYNWZjRXVvTE1lTlB1WGdMU2lXTHl2M3RNcUtoT284NDNZZjRSN2FkT3VQWXZjaUd0aGZhZlVnQk5z?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 17:14:09 GMT"
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPQk1VWmNPd1VoakFzS0QtRFV2NmpCa2pSRWExdm9hZGRQYWo4WUdkZzA0MFVVQWNEUnVTOHFfNDFJQ3FMODdQVEtoY19HSWhZdVZEZk9IRGxLTkZROHEtVDBTNjlESU1NMHVTQUtZNzhXYmtabm1na1k2VHd1TWptQmZHTG4wOVUzbF9FbVIzY0tWSXJpQ3I5aDlGeGJsMTVqYzFuYWpNVlpUajl6QnltdzdTbjZCRC1yT09nTzhwbXZSc1JrTXE3S0R4aVl0NGFuM1publVrSTV0d1lBQ3NXdWxGcDFwcTd6aXBSYVg0T0YtNmdOenhYOWVNYVRUMnZUZGZXUXZB?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 17:44:08 GMT"
     }
   ],
-  "fetchedAt": 1787248178
+  "fetchedAt": 1787249849
 }
