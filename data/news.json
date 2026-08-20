@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Retail F&amp;O boom hits reverse gear as active trader base falls 18% in FY26: Sebi",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/retail-fo-boom-hits-reverse-gear-as-active-trader-base-falls-18-in-fy26-sebi/articleshow/133382023.cms",
+      "pubDate": "Thu, 20 Aug 2026 21:01:27 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Market Trading Guide: GMR Airports among 2 stock recommendations for Friday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-gmr-airports-among-2-stock-recommendations-for-friday/articleshow/133381762.cms",
+      "pubDate": "Thu, 20 Aug 2026 20:50:48 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Rs 91,685 crore gone! 88% retail investors lost money in F&amp;O trading in FY26 even after strict Sebi rules",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rs-91685-crore-gone-88-retail-investors-lost-money-in-fo-trading-in-fy26-even-after-strict-sebi-rules/articleshow/133381520.cms",
+      "pubDate": "Thu, 20 Aug 2026 20:47:22 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "HDFC Bank raises record $1.75 billion in overseas bond sale",
       "link": "https://economictimes.indiatimes.com/markets/bonds/hdfc-bank-raises-record-1-75-billion-in-overseas-bond-sale/articleshow/133381362.cms",
       "pubDate": "Thu, 20 Aug 2026 20:32:43 +0530"
@@ -13,24 +31,6 @@
       "pubDate": "Thu, 20 Aug 2026 20:08:04 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "smallcase Technologies expands under CASE Platforms; Zerodha CASE to be new name for mutual fund business",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/smallcase-technologies-introduces-case-platforms-as-new-corporate-identity/articleshow/133380219.cms",
-      "pubDate": "Thu, 20 Aug 2026 19:40:50 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Walmart shares fall 8% as Q2 results flag risks of rising inventory",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/walmart-shares-fall-8-as-q2-results-flag-risks-of-rising-inventory/articleshow/133380081.cms",
-      "pubDate": "Thu, 20 Aug 2026 19:37:16 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Oil rises to 3-week high as Iran war impasse fuels Middle East supply concerns",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-rises-to-3-week-high-as-iran-war-impasse-fuels-middle-east-supply-concerns/articleshow/133380064.cms",
-      "pubDate": "Thu, 20 Aug 2026 19:34:52 +0530"
-    },
-    {
       "src": "Business Standard",
       "title": "Active derivatives traders fall 18% in FY26 to 8.75 million: Sebi study",
       "link": "https://www.business-standard.com/markets/news/active-derivatives-traders-fall-18-in-fy26-to-8-75-million-sebi-study-126082001378_1.html",
@@ -40,7 +40,7 @@
       "src": "Business Standard",
       "title": "Nifty snaps 7-day losing streak as US Treasury move eases yield pressure",
       "link": "https://www.business-standard.com/markets/news/nifty-snaps-7-day-losing-streak-as-us-treasury-move-eases-yield-pressure-126082001205_1.html",
-      "pubDate": "Thu, 20 Aug 2026 19:18:04 +0530"
+      "pubDate": "Thu, 20 Aug 2026 19:18:45 +0530"
     },
     {
       "src": "Business Standard",
@@ -92,6 +92,12 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Prop traders lead India\u2019s derivatives market as retail investors lose over \u20b972,000 crore",
+      "link": "https://www.cnbctv18.com/market/prop-traders-lead-india-derivatives-market-retail-investors-lose-rs-72000-crore-sebi-19974009.htm",
+      "pubDate": "Thu, 20 Aug 2026 21:18:07 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "FIIs turn sellers, DIIs remain buyers as markets snap 7-day losing streak",
       "link": "https://www.cnbctv18.com/market/foreign-investors-sell-rs583-crore-domestic-institutions-buy-rs3538-crore-in-equities-19973896.htm",
       "pubDate": "Thu, 20 Aug 2026 20:31:09 +0530"
@@ -104,9 +110,9 @@
     },
     {
       "src": "CNBC TV18",
-      "title": "Stocks to Watch for August 21: RailTel, KIMS, Saatvik Green Energy, Manipal Health and more",
+      "title": "Stocks to Watch for August 21: RailTel, KIMS, Saatvik Green Energy, Manipal Health, Kfin Tech and more",
       "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-august-21-railtel-hal-kims-manipal-health-share-price-19973747.htm",
-      "pubDate": "Thu, 20 Aug 2026 20:11:53 +0530"
+      "pubDate": "Thu, 20 Aug 2026 21:02:51 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,16 +121,10 @@
       "pubDate": "Thu, 20 Aug 2026 19:54:03 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Manipal Health Enterprises Q1 profit falls 8% despite higher patient volumes and occupancy",
-      "link": "https://www.cnbctv18.com/market/stocks/manipal-health-enterprises-share-price-q1-net-profit-declines-8-despite-38-revenue-growth-19973915.htm",
-      "pubDate": "Thu, 20 Aug 2026 20:10:07 +0530"
-    },
-    {
       "src": "Google India News",
-      "title": "India\u2019s New Listings Sparkle in a Promising Sign for IPO-Bound NSE - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2p5WTJ1SWVIbk56UmswbXBVdTl0ZS1YakVaNFN0RHpCbmZZdC1JQUc3RlVFbHJNVnA3a0F3cmlsWXdXQk80NlZjTzdCZzVfaTNfd3EtZGJ2SFVTcHE5N3o0M3hrbFRjWDRXT3hLeG9hb0JyR19YdWxJZHNrV1lPRlVteVVfeW1SMFByZG15YzRhZnVJMVpDR2N4a1RvRk84RU5JeFRVNlVXRThDVXU5UWRCSVo1Snh6blR2Qg?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:43:35 GMT"
+      "title": "Aug 20: Markets Rebound Sharply; Nifty Snaps Losing Streak, Sensex Surges Over 600 Points - The Indian Awaaz",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY3VvWXRhcmo4b1lXQzlxTW1xVVU1Vm53SndYb1Q2UFNnSE1MR0U5WjlNeWdPbDMtWXJxcElQR2RqbXJENWxpM3JnLXBBcjZHLUNteWRNRmpXWTRFZVVxRlA2LW9tMTg3ODJ3dlFuVkNoTFI0bkp1dnEtX25HWG9fNlBHUUZob0I1bURZME50UFhFeHc3clRHQ1dJQWdFalJGZVBSamFmYzZTTnE4bmVRLWdtN1E?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 15:54:00 GMT"
     },
     {
       "src": "Google India News",
@@ -134,22 +134,22 @@
     },
     {
       "src": "Google India News",
+      "title": "Transocean stock rises on $300M India drillship contract - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTW5EWi1YSVJYUlFfZ0VuZUF0c3R3R0hqb2xMWGZUWGpvdk1wUGNPcUVldFp0LXA3Sm5nR2NlemZ0cXd2WVNoNVE4RUhZNmRkM29Ca1ptZ3pBYjhoaEY4NFBtS0dDV2tPNUpBUmxvMmxzaFVXZ1p3RGpDcmRHX0NldFlsbTVYTGlnT01vUE1tTC15eW1FZXdRRzhRUnpYVTA2QjZCa1M0aWk4OVJMOV9yRHZfMmZvbFk?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 15:22:43 GMT"
+    },
+    {
+      "src": "Google India News",
       "title": "Active derivatives traders fall 18% in FY26 to 8.75 million: Sebi study - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFpxZzV4ZTdXWEUyWnE1TkNXNXNkejVkMHBENVgtZUtDOF9hUHpKenFuWE9nLVQ0bTBDWm9rZVdIU3FneFNJVjIydjFNVFdYQm1XN0piU2xnUVBPdlpha0xYZjNlYlR3SjRrbkEyUi1aSTJPdXhpMlR4c3lGS2Y2Q3hQV200bWNvb1V2NHlpX2REQ0JrOFVNNXc2dWt2dHJqeVJ5anQ2M0o2WklPelNYSW9FeGVDeTV5ZWJlck42aHZrZHE5UGNaUUR1UWxIc1V6OXfSAdcBQVVfeXFMTTU1bWlEV0FFRlV4Y1FtbjFmY0lGNlpSeG1uSHdyTTFmUUhPTVVFMmZyQ2gwSGN6WENVbTZCQVEyMWktNTlrdlF6a1o0NUtNZDd5ZXQ1NWxwbTVmSnFvZE8waWh0ZzNlRzZpSEJ3a1dGTlA4VjJtWlUzakU5enJDSjN0UzdmTURiRHk4Qm1hMUpVcHEyMndqNXhBVTVuNjN6NXBBT05JbV9fb0JRajZzaEVDMUNqSnB5YUl3ZXVnck5kbHV1dEdYdXcyRnFWbGI0NS1UaWVvN2M?oc=5",
       "pubDate": "Thu, 20 Aug 2026 15:18:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "PTC India Financial Services sets Sep 24 date for 20th AGM - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjI1bGhrc2hRQy1qMkg5QkpNZ2U4UVdVaG9JdlRUcXdRa0RBYVZQRkR4eWhSd2I5dmgzd3FWa1BwREpHb2hwV3p1UGJkX0ZXX0ZvcUhuamx6aXJJeUJremtBYTAyM2dtN2hBRVNtTTUwZ01BRzNWaHdXMjlxVDV1dFVHT3otaVE0NkU1YklRTmpvSkF2aEFJMVRhdGZJZ3hpbFpTSDV0eWd4ZC1yWTE5YQ?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 15:02:25 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India's individual equity derivatives traders fall 18% in fiscal 2026, regulator says - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOanM5Si1xeWpad3VlbHVIeFZZZFhvNWNqNzlEaUdGRFctSlIxcWRmb0hsTHZJMkNnVEJ5OTBNZTBPd3lhaS05bnF4Zkp2SjJJc0VLVXdjRk55REJ2ZGpuYlBiX3RYblB4cEJUdnZJRTFmd3A3dG9OX3NsYTk1T2ptS0JIaGZob2x0a24zWEFMVk9OaXVhejZZQUh5R0tsdFVWdGZvZURtYzZhZmlqUUg1aDZJal95ckxjbzMxWlFTR2ZNeEdhWHdlU1FRd0pxZDg5SVE?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:44:31 GMT"
+      "title": "India's individual equity derivatives traders fall about 20% in fiscal 2026, regulator says - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQX2xLaFhnT2RBTU1kc2tIR3ctX2tfc21ERi10dnhiZzlXYkVpSV9lY3c0UHlFcnBpSDJCM0VWQkttdU93Z2sxYWJsc0hYb05QWUFIRENEdVRENXZhUjBfZ0FYMS1KYzAzZnRYZzU0SkNuNjNMWXNhVjNSdl80STU2NnFmVkRNaVVzX0hza0lydy1DLTZaUi1vYW00QnNaUGZ0SHhFUFZfazRDWm5xTkVGY2ZLbDR0aFpQdUZZbXUtSnYxRzdyYVpJNndsVmpnOVV5c1JmNU0zR3luQQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 15:29:35 GMT"
     }
   ],
-  "fetchedAt": 1787239900
+  "fetchedAt": 1787241772
 }
