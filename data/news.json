@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "HDFC Bank raises record $1.75 billion in overseas bond sale",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/hdfc-bank-raises-record-1-75-billion-in-overseas-bond-sale/articleshow/133381362.cms",
+      "pubDate": "Thu, 20 Aug 2026 20:32:43 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: Crypto shares climb after Trump advocates for Clarity Act",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-crypto-shares-climb-after-trump-advocates-for-clarity-act/articleshow/133380847.cms",
       "pubDate": "Thu, 20 Aug 2026 20:08:04 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Thu, 20 Aug 2026 19:34:52 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Tourism Finance Corporation among 6 financial services stocks to hit 52-week highs &amp; surge up to 60% in a month",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tourism-finance-corporation-among-6-financial-services-stocks-to-hit-52-week-highs-amp-surge-up-to-60-in-a-month/slideshow/133380020.cms",
-      "pubDate": "Thu, 20 Aug 2026 19:29:56 +0530"
+      "src": "Business Standard",
+      "title": "Active derivatives traders fall 18% in FY26 to 8.75 million: Sebi study",
+      "link": "https://www.business-standard.com/markets/news/active-derivatives-traders-fall-18-in-fy26-to-8-75-million-sebi-study-126082001378_1.html",
+      "pubDate": "Thu, 20 Aug 2026 20:48:30 +0530"
     },
     {
       "src": "Business Standard",
@@ -55,10 +61,10 @@
       "pubDate": "Thu, 20 Aug 2026 18:04:43 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Gaja Alternative Asset Management IPO subscribed 2.43 times",
-      "link": "https://www.business-standard.com/markets/capital-market-news/gaja-alternative-asset-management-ipo-subscribed-2-43-times-126082000964_1.html",
-      "pubDate": "Thu, 20 Aug 2026 17:16:10 +0530"
+      "src": "LiveMint Markets",
+      "title": "Walmart shares plunge 10% to 9-month low after slowest US sales growth in six years",
+      "link": "https://www.livemint.com/market/stock-market-news/walmart-shares-plunge-10-to-9-month-low-after-slowest-us-sales-growth-in-six-years-11787235327638.html",
+      "pubDate": "Thu, 20 Aug 2026 20:57:16 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -85,10 +91,16 @@
       "pubDate": "Thu, 20 Aug 2026 17:32:27 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "NTPC to JSW Energy: Axis Direct recommends these three power &amp; utility stocks to buy after Q1",
-      "link": "https://www.livemint.com/market/stock-market-news/ntpc-to-jsw-energy-axis-direct-recommends-these-three-power-utility-stocks-to-buy-after-q1-11787223164774.html",
-      "pubDate": "Thu, 20 Aug 2026 16:45:35 +0530"
+      "src": "CNBC TV18",
+      "title": "FIIs turn sellers, DIIs remain buyers as markets snap 7-day losing streak",
+      "link": "https://www.cnbctv18.com/market/foreign-investors-sell-rs583-crore-domestic-institutions-buy-rs3538-crore-in-equities-19973896.htm",
+      "pubDate": "Thu, 20 Aug 2026 20:31:09 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Amagi Media Labs launches \u20b9600 crore block deal at \u20b9550 floor price",
+      "link": "https://www.cnbctv18.com/market/stocks/amagi-media-labs-share-price-launches-rs-600-crore-block-deal-at-rs-550-floor-price-19973970.htm",
+      "pubDate": "Thu, 20 Aug 2026 20:32:52 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,18 +121,6 @@
       "pubDate": "Thu, 20 Aug 2026 20:10:07 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "US weekly jobless claims fall to 206,000 in August as layoffs remain low",
-      "link": "https://www.cnbctv18.com/market/us-weekly-jobless-claims-fall-to-206000-in-august-as-layoffs-remain-low-19973899.htm",
-      "pubDate": "Thu, 20 Aug 2026 19:02:58 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Why US Treasury yields are rising again after Bessent\u2019s intervention",
-      "link": "https://www.cnbctv18.com/market/why-us-treasury-yields-are-rising-again-after-bessents-intervention-19973881.htm",
-      "pubDate": "Thu, 20 Aug 2026 18:55:36 +0530"
-    },
-    {
       "src": "Google India News",
       "title": "India\u2019s New Listings Sparkle in a Promising Sign for IPO-Bound NSE - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV2p5WTJ1SWVIbk56UmswbXBVdTl0ZS1YakVaNFN0RHpCbmZZdC1JQUc3RlVFbHJNVnA3a0F3cmlsWXdXQk80NlZjTzdCZzVfaTNfd3EtZGJ2SFVTcHE5N3o0M3hrbFRjWDRXT3hLeG9hb0JyR19YdWxJZHNrV1lPRlVteVVfeW1SMFByZG15YzRhZnVJMVpDR2N4a1RvRk84RU5JeFRVNlVXRThDVXU5UWRCSVo1Snh6blR2Qg?oc=5",
@@ -128,28 +128,28 @@
     },
     {
       "src": "Google India News",
-      "title": "IndiGo tightens grip with 67.4% market share as India\u2019s domestic air traffic falls 4.8% in July - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLVNzdS1La0VSSXBFYU4wbVlYZE1ISE5qZTh0RVlOZ0hJbUp4QlI5b251VWxoajNLWTVhV0ZUbWlsLU1xTGstTVhiQ3BOZzk4bkpTZWxLd1hpSTBuellXaFRsRFFxRWhzaDlSRFRoMndqRWVHZWU1ZnhyQUdMaTVKMjRpVXZpTVg1NEt6ZXVINDdjaWZjMHlvczBqZVJTeHdkUWZudjBEWGJESGxjdzFrZlhPbkYxeHlNclM1RTRQZjNOZUxLb3RVSDFoXzJZb0ZtUmJBckhqSU1RVTZYN3UtemdiRnbSAeoBQVVfeXFMUGEtdEREX1FLRW1pcEQtcUNRMnlsTm5fUFBwV0ctUUFPZ0J2R280azRTREs1YlduOFhlcHBUMmRqa0JuT0pEdEYwMG8wMk0tR29FbGhuWU94ZU56b3RKYlk0Z0UtWTNYdkVLMjdZaXJGVkRUSUtFRTQ3MG5tSDhfemhHbmItaElIVkZraXlKVllsWFVMUmhPdGhMXzY3TGVMbjl0emRYVmg4T2htbkFxWFVENnU0SkNBVmdhLTNXTkM0MXJaSDRjRTdNM1NCd1ZMSzNSd1B3d1JvUDVkYlR5VWRIWTNQOTJGVWJ3?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:22:01 GMT"
+      "title": "Market Trading Guide: GMR Airports among 2 stock recommendations for Friday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQc1RpZXotQUZNeFlONlBJRFRqSWQ0NFFvM0N6MzlwdTFvX0VwZkVhUmJNZHRVeGFFY1NnbGlyOHlhQUs4MXllQlFmRV9FQW1PV0wwZnd0a2lzclB3Rk1jQUVhSXM0aUZCWG1yUlpremZDNVBCRVNsS1BoaGh5MFVQSHFnSHNfRTdqbG92ajRINU1hUlQtbnk0aS1WNm1UWnN0NUczYVFFRFFTUXBWdDMwU0tQQmtlajlob3pUaUYtRGxIbUJkajBhS1FUSTBsSkN2VzhEVWJwRFE3VlZ6N0pucTM0ODdBS1ZqaC0zOVF6WHZ6VkxSQ1M2UG9ieEpRaEs4QUkzQm9QbVluNUY3eWVoellmWl85dXE0MTJiVjJaRXphekowUGI2WXRaTjJEa05QdnhPcjAweTVub2I2ald4NmkxTndlZWx2OUdr0gHnAUFVX3lxTFBMamdYNjZWVThTNlcyTG12bjZ3bm8wWnA0VU5PckMxN2dwV0JPUnQ2dlJ6R1l4NjJXeG8teDRiV1EwcG9DU1Nuckt4WnFqc09WMFpLSllGdXRIR0pRUjNjSl9vNW5SZzZFWWFwbzhEelYtNVlZVWRLXzh2QUQ1bm1QaXRpWlVlTjR4NDUxSExDTmo2cEZ2MEZGTWRIc0UyR0Z5NTdiN2FvZlpKQXE5U1lpdTBHSVVlN1NkQ1VLb3RRa05HckhFUTFVb0R6aEdFWGJnTHF1S1RmUDlCU0NMX3k1M1A4b09EZw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 15:20:48 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian Bank holds virtual investor meet with CTBC Bank and Commerzbank - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWW1NUkExdFM2Q18zMEpGU1dvVHBsZmNSaVExR2x1QzJ2TzNwWXNRTTBYSVo4bjRTTGoyQlV6S3VnTTEzNVZVNHdLV1IwelBKN3UyTjM2XzdBUHBRQmhLSDh1RnUwdFo0Mm9TSDZWa2gxdjRDYXE0Y0c3TTRmcTFpaXhMZVplMThUWUtWNjVwSU4wdjBsTmpEWHoteGI2d0stUWJ2SjJ1NXd1dVJtNFVfVXlXOUNxVk1ldEE?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:38:41 GMT"
+      "title": "Active derivatives traders fall 18% in FY26 to 8.75 million: Sebi study - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcFpxZzV4ZTdXWEUyWnE1TkNXNXNkejVkMHBENVgtZUtDOF9hUHpKenFuWE9nLVQ0bTBDWm9rZVdIU3FneFNJVjIydjFNVFdYQm1XN0piU2xnUVBPdlpha0xYZjNlYlR3SjRrbkEyUi1aSTJPdXhpMlR4c3lGS2Y2Q3hQV200bWNvb1V2NHlpX2REQ0JrOFVNNXc2dWt2dHJqeVJ5anQ2M0o2WklPelNYSW9FeGVDeTV5ZWJlck42aHZrZHE5UGNaUUR1UWxIc1V6OXfSAdcBQVVfeXFMTTU1bWlEV0FFRlV4Y1FtbjFmY0lGNlpSeG1uSHdyTTFmUUhPTVVFMmZyQ2gwSGN6WENVbTZCQVEyMWktNTlrdlF6a1o0NUtNZDd5ZXQ1NWxwbTVmSnFvZE8waWh0ZzNlRzZpSEJ3a1dGTlA4VjJtWlUzakU5enJDSjN0UzdmTURiRHk4Qm1hMUpVcHEyMndqNXhBVTVuNjN6NXBBT05JbV9fb0JRajZzaEVDMUNqSnB5YUl3ZXVnck5kbHV1dEdYdXcyRnFWbGI0NS1UaWVvN2M?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 15:18:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Saatvik Green Energy arm bags \u20b9190 crore solar PV module order - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWk1pRXJ6WGRrRlE4SThQMFhJeHFIRmZIeFZyemVkMmVCdERhOWpvd1hncHBzd2xvYkhJMTBQUFZLRGF5TmtiUVh4WlEzV1ZiR2lXMEtXUVhTczE0bWlBZ1hLbEZUNXlscGJxSmZ5WnB5VkY3UHJUVmk0OVlhZDVRUl9sM3JqckVKdzlyOVZhaEFwVFl4QXU0bjJWLUgtWGUyT2FXLWhyUVZ5R0xjVVhPTHVmU3kyaXU3dHMtV1pIdGJkcTAwZHNDZ2xaSmN5NWvSAdQBQVVfeXFMT0FvblFEblVXTFNSRmpvdGIxaVlNdXZxTEVLNHNNOFJfbGpDZlU1cEZvNjNTbmlabE93dFhxTU5RbFZFQW14YXlLVW5TVVFYa3lRVHNqZXB5WDdwQzlFcEZIVWg0LTVQWDBtNS1FdUpyblkydHo0bDBJZ2NwcnRmUXo3bVlwTHdYcllsMnlqWUVkeXhnUXUwYV9fUUQ5M0FXeU9zdUN6aFMyOEoxeUtmUERBWGpDU25rOHM5TDRrNmFMdF91RWtDRDBlemdEb3dnalF5a3Y?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:08:27 GMT"
+      "title": "PTC India Financial Services sets Sep 24 date for 20th AGM - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjI1bGhrc2hRQy1qMkg5QkpNZ2U4UVdVaG9JdlRUcXdRa0RBYVZQRkR4eWhSd2I5dmgzd3FWa1BwREpHb2hwV3p1UGJkX0ZXX0ZvcUhuamx6aXJJeUJremtBYTAyM2dtN2hBRVNtTTUwZ01BRzNWaHdXMjlxVDV1dFVHT3otaVE0NkU1YklRTmpvSkF2aEFJMVRhdGZJZ3hpbFpTSDV0eWd4ZC1yWTE5YQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 15:02:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Bond yields rise as hawkish MPC minutes, firm crude trigger market sell-off - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOLUU5Z2F4M0thcUdwY0dTeC1vOHFaSDJUSmh2UWZJSHZadm9KQko1Z1I4QVJUVDN0d1h0SjhONEU2TlEtSzljZWhFMldaenJBU2doU0NVSmtqSkZtSjRrUXZQOUwwcUExc1hzMU93WnpLLXJmSGhhMGhNTU1iUXUxdzRONVZVS09vbUhsTTdjZFdNbmdYajJHVzZMTVZhMTBYWWxsN19HSEZOOTdxOEY4VDZ2ZGhVUW41NFZiR3FVT2h3ZTFlakRKdjRTMXE1Mml2bmItZldqa0PSAd4BQVVfeXFMTzd4TmhpNzNJU1lWYll1YVhZcmRNMzVuNW42d1lYLVJfS3FGS042XzFybEVKMjVoVnREekJzbGVBanU5NElTRmRrbFF2UG1OV2xMb2tkdnp4V1pPUkctdUlmYjhrMmZObEN4OGpuRjFJY1hta2FMMTkzVFNQODhLNURqZlNLelVyYkg2QUloTnQ2S0hyX1lsUWdGeHFfVmpDdG01dmozc203V2Y0VTk0SUgxaVk0Y05fNm9BZ0VvaTFFVDNadnRYNnFPZ0doQVppUW9tU2xHanhiR3lWeUF3?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 14:05:46 GMT"
+      "title": "India's individual equity derivatives traders fall 18% in fiscal 2026, regulator says - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOanM5Si1xeWpad3VlbHVIeFZZZFhvNWNqNzlEaUdGRFctSlIxcWRmb0hsTHZJMkNnVEJ5OTBNZTBPd3lhaS05bnF4Zkp2SjJJc0VLVXdjRk55REJ2ZGpuYlBiX3RYblB4cEJUdnZJRTFmd3A3dG9OX3NsYTk1T2ptS0JIaGZob2x0a24zWEFMVk9OaXVhejZZQUh5R0tsdFVWdGZvZURtYzZhZmlqUUg1aDZJal95ckxjbzMxWlFTR2ZNeEdhWHdlU1FRd0pxZDg5SVE?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 14:44:31 GMT"
     }
   ],
-  "fetchedAt": 1787237521
+  "fetchedAt": 1787239900
 }
