@@ -32,6 +32,12 @@
     },
     {
       "src": "Business Standard",
+      "title": "Nifty snaps 7-day losing streak as US Treasury move eases yield pressure",
+      "link": "https://www.business-standard.com/markets/news/nifty-snaps-7-day-losing-streak-as-us-treasury-move-eases-yield-pressure-126082001205_1.html",
+      "pubDate": "Thu, 20 Aug 2026 19:18:04 +0530"
+    },
+    {
+      "src": "Business Standard",
       "title": "INR seen supported by dollar weakness and positive equities",
       "link": "https://www.business-standard.com/markets/capital-market-news/inr-seen-supported-by-dollar-weakness-and-positive-equities-126082001074_1.html",
       "pubDate": "Thu, 20 Aug 2026 18:04:58 +0530"
@@ -53,12 +59,6 @@
       "title": "Gaja Alternative Asset Management IPO subscribed 2.43 times",
       "link": "https://www.business-standard.com/markets/capital-market-news/gaja-alternative-asset-management-ipo-subscribed-2-43-times-126082000964_1.html",
       "pubDate": "Thu, 20 Aug 2026 17:16:10 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Tempsens Instruments (India) IPO subscribed 5.93 times",
-      "link": "https://www.business-standard.com/markets/capital-market-news/tempsens-instruments-india-ipo-subscribed-5-93-times-126082000962_1.html",
-      "pubDate": "Thu, 20 Aug 2026 17:16:02 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,33 +92,33 @@
     },
     {
       "src": "CNBC TV18",
-      "title": "SEBI eases FPI onboarding by allowing digitally signed Power of Attorney",
-      "link": "https://www.cnbctv18.com/market/sebi-eases-fpi-onboarding-by-allowing-digitally-signed-power-of-attorney-19973883.htm",
-      "pubDate": "Thu, 20 Aug 2026 18:36:59 +0530"
+      "title": "US weekly jobless claims fall to 206,000 in August as layoffs remain low",
+      "link": "https://www.cnbctv18.com/market/us-weekly-jobless-claims-fall-to-206000-in-august-as-layoffs-remain-low-19973899.htm",
+      "pubDate": "Thu, 20 Aug 2026 19:02:58 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "NCLT Bengaluru dissolves Hindustan Aeronautics, Cyient JV Infotech HAL",
-      "link": "https://www.cnbctv18.com/market/nclt-bengaluru-dissolves-hindustan-aeronautics-cyient-jv-infotech-hal-19973858.htm",
-      "pubDate": "Thu, 20 Aug 2026 18:17:47 +0530"
+      "title": "Why US Treasury yields are rising again after Bessent\u2019s intervention",
+      "link": "https://www.cnbctv18.com/market/why-us-treasury-yields-are-rising-again-after-bessents-intervention-19973881.htm",
+      "pubDate": "Thu, 20 Aug 2026 18:55:36 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "US stock markets today: Dow futures slip after Treasury bond buyback plan; Oil prices rise",
-      "link": "https://www.cnbctv18.com/market/us-stock-market-dow-jones-nasdaq-futures-treasury-bond-oil-prices-19973780.htm",
-      "pubDate": "Thu, 20 Aug 2026 18:16:56 +0530"
+      "title": "RailTel bags nearly \u20b9165 crore order from Western Coalfields for MPLS VPN network",
+      "link": "https://www.cnbctv18.com/market/railtel-corporation-of-india-bags-nearly-rs-165-crore-order-from-western-coalfields-for-mpls-vpn-network-19973834.htm",
+      "pubDate": "Thu, 20 Aug 2026 18:49:01 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "KIMS to operate 250-bed Arete Hospital in Hyderabad under 5-year O&M deal",
-      "link": "https://www.cnbctv18.com/market/stocks/kims-share-price-to-operate-250-bed-arete-hospital-in-hyderabad-under-5-year-om-deal-19973830.htm",
-      "pubDate": "Thu, 20 Aug 2026 18:12:22 +0530"
+      "title": "Walmart shares tumble 8.7% after Q2 results; Flipkart Ads leads 20% international ad growth",
+      "link": "https://www.cnbctv18.com/market/walmart-q2-flipkart-ads-drives-international-ad-growth-big-billion-days-timing-to-weigh-on-q3-sales-fy27-outlook-19973850.htm",
+      "pubDate": "Thu, 20 Aug 2026 19:12:21 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Lemon Tree Hotels opens 12th Gujarat property in Bharuch, 20 more hotels in pipeline",
-      "link": "https://www.cnbctv18.com/business/companies/lemon-tree-hotels-opens-12th-gujarat-property-in-bharuch-20-more-hotels-in-pipeline-19973807.htm",
-      "pubDate": "Thu, 20 Aug 2026 18:02:17 +0530"
+      "title": "Saatvik Green Energy\u2019s arm bags \u20b9190 crore solar module order, execution by March 2027",
+      "link": "https://www.cnbctv18.com/market/stocks/saatvik-green-energy-share-price-arm-bags-rs-190-crore-solar-module-order-execution-by-march-2027-19973877.htm",
+      "pubDate": "Thu, 20 Aug 2026 18:42:06 +0530"
     },
     {
       "src": "Google India News",
@@ -128,28 +128,28 @@
     },
     {
       "src": "Google India News",
-      "title": "NSE weighs trading its own shares - PRESS Insider",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FNFRpVTJOVHFFRjlzTkgtaERoVktudG1LakFTUlBPQlJFRHVHR0lKWE9KN09BMDlSd1djMmdaMmRWTHc0VlFNQnNsaElIYjE0ckt2ZzFfNGtCRWdBa2lod01wSWQzdzhoZThNeVktMU02Zw?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 13:12:31 GMT"
+      "title": "Nifty snaps 7-day losing streak as US Treasury move eases yield pressure - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONExuQkVYd0xndHNmWlRORWlLN0hqV2dKWHJtMERLTnNTOUNWR2J0LTVnWUp1c3R6bDd3b3BCUXh3RlhYMHNDMUZBYW9jQlI4TjJrNkx2TlIwTkI4TUVDb3dJRUR2SzNkdzFhd2tZcmdaYjdxVWZ3VkxwZkxqU3VXOEFUVkIwSlpKa2dTZHZfOTNxV05hT2ZGN0RWLVZmRmt3TXlfQWRIeEwtOTgyM3NSYmMyc2JFYmZNY2Z6VVFNOElvdk5RZlI0ZWZxcHpoYmpFSmNKcXN30gHbAUFVX3lxTE9ndWRETDlqVXIyZWlFNWpRZ3JpQnU2VHc2TTJMd242V1JyQzhVbVJqeTBhSGlUSnVkNmtrbG1oQkdWbjI5eWI2WXFqbWNKaXBISTBFREdHeGNweGVhcjd4WUJiYzV3ZjBnTnp3dkJvZE1lQ0xuSjNoM3hUMUJtT1YwXzc0bjVJNnhaUWNlcFpLZWJadGhaOVhQdkRQZ0Nxd2NmSXFnWEphdHluYVd3OGNqYnQ0ckVCWHVKbzJwVlVCSncyS0ZwQkF1US1vSi04VFhDS1R6NnFGWUdjQQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 13:48:04 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Do Oil Stocks Go Up When Crude Oil Price Rises? - Value Research",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeHpYcFVUZlRVN1VYdFRFQUc0dFhOeVliNU5DMGZKNl9oTHd6ZHVLX3cxR245TllMd3FBMDNCOEE4dmE0WVZzUHhuaW5CZnFUSkViendsazFmN1pxWEVRRWx6THV1eS1oajJKekdDNUpKNzVCU3BTaWVHNTQwU2tRRmJkRnRIY2Q4UkZzY1N3cUxxZw?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 12:25:00 GMT"
+      "title": "Sebi bars JPMorgan unit over suspected Sensex manipulation - PRESS Insider",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZXhyX2NXZjVCVmZReUdyQjZCOF9mbGZXd3BveUtGSmZ1ZXhaTmtzaW9oMFFkSDhwYkRLeWxxSjRtV0ZWdjlrcEhZaVBXYVJscU1jVmhIWHQ3U2puNEYwQzhNVEo4cE1UQ1Y2YTAzd2QzUFV2SF9LUGp0QnlPUW1uNWNoTmd5RVNvdHFVQ2t3OURvRFk?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 13:32:49 GMT"
     },
     {
       "src": "Google India News",
-      "title": "RailTel Corporation bags second order this week worth \u20b9165 crore; shares down 24% so far in 2026 - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSUZvQWZfamlLNHRGTlZzSUtubWxRNUMza0JzRWFZYzVKWjhVd3VCMzBqVFluR0V5SWFMUDk0b3U1M21xaVlwb1ZuZFdRUGU1aEhjREZvVllPaEdaSHg0eW9oRzdZUDV1NGE0UEpHRU9KTklMbDJPclN1aWVuUmxzbmdLcnNMNE9BSnlabzd6d1JIMTZZWmdEcksxQkpYRmZ4NEFaY0RGdGFNTHpzTGtCc055ay1rbjRUcHN4X2FGckxJRGRFaWRQbnBzeEFDQTVCQ0o5MkM5S3F3R3VtWmNyNGktckFVV1o1?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 12:56:10 GMT"
+      "title": "Aditya Birla Capital to enter gold loan market, target 1,000 branches - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQV3pzZW5mMGlETDdIRmxFMHA5ME5PSXNvUWM5TGc1NnpER2R5MUFxMTh1eVZJa0FON0VBd3MzTEdmeTBPempKRmxXY1lxTG16UXliejFHVUc0ZWRaVEVBT3FMWlJHejU4MUh5RUVBbHhVMmN6NERTVk5DN2pZNmV6OHZnQUZxWklvYU1HdXhFZlhrdnFlN0QzVVhxYjJSczlhZzdhLXptWnNqSTVKM2wydElwYndJYmcwbjNxWVp2dWNKVmdIOVdDbnBMc28zUXZEU3RSY2pBaFhWQ3FkQnJrcDBoOHI0NjhtVGpMOXlOVE9PQ3BvN3pMbkU1UVA5a2J4aWtDNlJEcTNyMTN3RTF3UEs3QzJzbm8yckk1VUR6UXV1MVpQLXVGRWRHOFdhRmxwV1p0bmpYZU45UWVaR0FldFdFakg0UF9T0gHkAUFVX3lxTE96b3JBUUYyOEhIQjJCa2tnbUpYYUtLVi1VRktRN19zNEMyMGt4Uk1KcXZGcEhYb3VlQUlRRU5OSHN1aVU4S1c1c3hQWjlKREN6S0pzWEFIQmNwX0VSTmRxVm1pamg5R2FUTHlUM2xyWTdURloxU1dLRkJmX1NWNkxPZ1N5emxyOUpOb0R2RXI2a053MU1RRXZWTHFHRy1LbmRMaFdlLXVlY2xmc0huN3BvdXRKWWdUUDRhanhQSWw1OTZmSk5ZWHdTeVZibmYyNEx1T3dUMEctMjR5N2htZUNSTS1oQQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 13:45:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "How to Buy Unlisted Shares in India: A Guide from Stockify - TheWire.in",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWF2TnpEazFtaEgyaGt5SVItdlQtYnoyVmFDbU9lOG5vTzluZUFuMTEtS1FaZzFQYm4yMnV5Y0pxTkpuaGVKbTlhQXI4Qm1Qdm9Pd0x5bDNIWG1zQXJ2MElkWEVLa2k2NjBNMmw2cWdPanRKSlZZLXozSGVKUUFUM1A3eU5wc3BzWFV5bFRQXzZfaVcxMTJzY0Z3Zzg2VlVmQWc1NWtpdzBmblp3Y05nRnZqZGZteVR6Zi0yctIBvAFBVV95cUxPdWF2TnpEazFtaEgyaGt5SVItdlQtYnoyVmFDbU9lOG5vTzluZUFuMTEtS1FaZzFQYm4yMnV5Y0pxTkpuaGVKbTlhQXI4Qm1Qdm9Pd0x5bDNIWG1zQXJ2MElkWEVLa2k2NjBNMmw2cWdPanRKSlZZLXozSGVKUUFUM1A3eU5wc3BzWFV5bFRQXzZfaVcxMTJzY0Z3Zzg2VlVmQWc1NWtpdzBmblp3Y05nRnZqZGZteVR6Zi0ycg?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 12:23:14 GMT"
+      "title": "India mulls low-cost loans for renewable energy producers - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONmx0OF9GWTJ1WVdGSHZ4d1dIU3lWQmwwTzQwVlBKU1UwdjlTOFBkQ3pCc2tSMnM5bTFDV0NZRm1uWHdETDhJc2dGVGpEMV8zWS1aS1pXRzA5Z3lxUUFiTTR2TUlhbEpkT2lWSlU4TTNYakoycFV6c0lBZjBPTzN5azg1VjZxMUNQWjFDTDZ0TEpzNnpDblByUjNxbjNVWHN4UFgwampMeDIxVlZxQWFsbEdZcGp3anlZTkE?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 13:05:10 GMT"
     }
   ],
-  "fetchedAt": 1787231721
+  "fetchedAt": 1787234580
 }
