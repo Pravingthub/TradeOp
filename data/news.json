@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market sinks as bond yields rise, Walmart results disappoint",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-sinks-as-bond-yields-rise-walmart-results-disappoint/articleshow/133387377.cms",
+      "pubDate": "Fri, 21 Aug 2026 01:41:54 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Shein targets September 1 for Hong Kong IPO: Report",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/shein-targets-september-1-for-hong-kong-ipo-report/articleshow/133384924.cms",
       "pubDate": "Thu, 20 Aug 2026 23:15:54 +0530"
@@ -23,12 +29,6 @@
       "title": "Upstox begins talks with investment banks for $350-400 million IPO; crosses 2 crore customers",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/upstox-begins-talks-with-investment-banks-for-350-400-million-ipo-crosses-2-crore-customers/articleshow/133383629.cms",
       "pubDate": "Thu, 20 Aug 2026 22:21:52 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Augmont Enterprises mops up Rs 246 crore in anchor round ahead of IPO; Nomura, HDFC MF among investors",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-mops-up-rs-246-crore-in-anchor-round-ahead-of-ipo-nomura-hdfc-mf-among-investors/articleshow/133383091.cms",
-      "pubDate": "Thu, 20 Aug 2026 22:09:00 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Dollar rebounds from losses sparked by Treasury buyback plan",
+      "link": "https://www.livemint.com/market/dollar-rebounds-from-losses-sparked-by-treasury-buyback-plan-11787255798556.html",
+      "pubDate": "Fri, 21 Aug 2026 01:26:38 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Canadian dollar hits near 3-month high as oil prices climb",
       "link": "https://www.livemint.com/market/canadian-dollar-hits-near-3-month-high-as-oil-prices-climb-11787252930972.html",
       "pubDate": "Fri, 21 Aug 2026 00:38:50 +0530"
@@ -83,12 +89,6 @@
       "title": "Augmont Enterprises raises  \u20b9246 crore from anchor investors ahead of IPO launch on Friday",
       "link": "https://www.livemint.com/market/stock-market-news/augmont-enterprises-raises-rs-246-crore-from-anchor-investors-ahead-of-ipo-launch-on-friday-11787242962230.html",
       "pubDate": "Thu, 20 Aug 2026 22:08:14 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Retail F&amp;O losses ease, but frequent traders continue to bear the brunt",
-      "link": "https://www.livemint.com/market/stock-market-news/retail-f-o-losses-ease-but-frequent-traders-continue-to-bear-the-brunt-11787239107795.html",
-      "pubDate": "Thu, 20 Aug 2026 21:56:56 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "AI Stocks Investors Are Watching For ChatGPT Infrastructure Demand - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORUJ1THJVb0l6YjREaUk1dHBYTlE0OHVkdkVhLUMxa1JYR2tiVnI1c3Jyb0xFa0d3THVwUURFTWtQSE9sdkRIOVVjenZpUklGRmN4MUt3LUpZcEt1VDF2LXZobFJXazJpRkd3ZnE5Z0o2WWtqQ2dhbW1zQ0JKUHBBN2tMaXRFa2NUdm9PTVVoZ29jbzc3TWRXUzJGWGVWenNwbTVvMmYwMlpfcmFHbm5mbHVLZzlrQ0xXQURyTTcxQ0lhTXJxcDNyVEw3cGlNaGV1NWRWVDR1TmdUSEt6VWfSAeMBQVVfeXFMT1NaN0FsWDYwY2xfV29DZ1lDbDVtRUNPT19RZzhFekkzR1FQZzBZcTBYY0JWMW5BLTdvUTRVTnU0eEZ5M2xmYUtyTVJoYjR4YUhnaWFBbnZNQ3pYbmlKVXJUaXlHU2VmMDJnZjFYbW9hazNQMHptdDF6aW01STlPNFc1S2FEZXA3NGdtZnV5cE02eW42Tjgzd0tWRnBVd1RkQnE3S2hfZnRoUUU2aW90NzA5YVdJTkpiVTlVQUIwRWhIWHd6OWw1Ml9FT3hBSmZHOWNpdmJKaHZlNEVaRy1OYi1IQW8?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 19:36:18 GMT"
-    },
-    {
-      "src": "Google India News",
       "title": "US stocks fall as bond yields rebound, oil rises despite Treasury push to lower rates - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdW9YUTdaQnN4eXJ2R0lFWGJ0dmdLaktEd3pfLVU3Mml0TGdKZ1JGZHNJX0M3Nm1xUmRycU1wckpLRm9vbVpuNXZtNWthMDhDSGF4ZGxhYm9lVHBJZWdDS2pVVlpEbjQ1WXpDRl9tbTkxMEtPaElMN3o5alNIbEUtR0NDeG1BdmFKOENFSDVTVlpxX3NOcHk2a01nb0pqeFRYd0pXQVQ0WnM0OUpjejJjb0lDUTBvWkoydnBtUkVTZDVYS3JUNGhObFg0YklqdUJyRS1janByLURsTWxsVUHSAd4BQVVfeXFMTXVvWFE3WkJzeHlydkdJRVhidHZnS2pLRHd6Xy1VNzJpdExnSmdSRmRzSV9DNzZtcVJkcnFNcHJKS0Zvb21abjV2bTVrYTA4Q0hheGRsYWJvZVRwSWVnQ0tqVVZaRG40NVl6Q0ZfbW05MTBLT2hJTDd6OWpTSGxFLUdDQ3htQXZhSjhDRUg1U1ZacV9zTnB5NmtNZ29KanhUWHdKV0FUNFpzNDlKY3oyY29JQ1Ewb1pKMnZwbVJFU2Q1WEtyVDRoTmxYNGJJanVCckUtY2pwci1EbE1sbFVB?oc=5",
       "pubDate": "Thu, 20 Aug 2026 19:51:56 GMT"
     },
     {
       "src": "Google India News",
-      "title": "ET World Leaders Forum: India set to be a growth market, but companies must up their game - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNkIzOHN2THJaSTNnNVUxeGlSb3Z4bjlmeVZOczY2RWFrdnctcnFvd0pJWTBFUC1WbEFkZUZpdFpvSlJOcm1pSzMwdjN1MDNrZzN3RGJIZ2hiRG1TRVV5VzQ4OWItYXYxeE5zZWtmWlQtaC1HMTRCSFQ0LVRiTExlcklTcExyQW1iUFhfbFdENk5jTXgySklGVzI3RG9Jemh2VnhwbDI0ZDhhNWNZOGlRU1FoVTdyMVVBRjZxdWNvSy1uSEtLNlZTNTRPVVlpNUJncDFlZFNnM0FJRVFSaW1uNHNnLWFHN1ZIREx1NE5QSzQzM0dGTnJLaXFiSFB4bkZQ0gGGAkFVX3lxTE9FVlBQaGR0bGpMRmtocmJ2REMzaUplMkQ1ZEVmN2oyNVJCUlBJTVFsTkdtb2tlX2cxWEJIREoyUVRhZU5hcHZJQVhPVjhuVE9SZmpheHB3R1RzMjAxY0FIUHVMeEExUWhxa29Yc2tPamdMQ19DN2xlSmc1T2JQZzZkNnVFdVNIeXRaTVBEeXZRWDMyRHhSeHFrNjN1cGNwNm5Uc0dKVExDejFmYVdWd1BsY1N4MzNhRXE4UUYwRklncmktOC1PTmlnd2s3Mm9NcjlmdFJMM3BocXdydzdNaktIWWlESWtuNTdyTEJ0X0RWeTVORG1YZm9zeVBPaWoxVnF3azBweUE?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 19:17:13 GMT"
+      "title": "Swiggy Stock Rises 4% As Jefferies Retains \u2018Buy\u2019, Sees 60% Upside On IOCC Shift - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2hWdFlDSWRXeW8wczlWb3RXaDB5U0RuaUdIWlBjNHJCV3RmbWxvUWZ0WHBYdDFCRERnODFFZEhCQm81SHFBMEhnVnZWZ0l4ZTFIUFBGdEpMdXhLamJMRHZNXzE0dWF6clctbmVPdzBLLTR0aWdVaklTbkxMb194SWJhY3RrTm5mVExhUEY5bWpTb3JrTXRTVmZzR3owYVpZN3JHcEVtWnh4SGdHMi10SkluTngwV1ZwSkE?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 20:00:16 GMT"
     },
     {
       "src": "Google India News",
-      "title": "HDFC Bank Gains After RBI Clears LIC\u2019s Stake Increase To 9.99% - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQW05LUNOcHB5NlpPMUVNVm9sQzE4V0EyTEZpRVJ3Zk45Q2k5RHIwR1RiR0FVM29rVmNyQnEzWFZLNmZTdVZvZ25ybU42WkdPQ2hQUEtsc2EtbVotODdoaXVEX2R3UVlXSFdpRlBLSVJkc3Uzai1xVUhRcTQ3MVdDMlhBV0E4ZEtvR0dlbHAwSkhuT1llQ0ZwMTEwaG42ODNOMVBQM2V0eGI?oc=5",
-      "pubDate": "Thu, 20 Aug 2026 19:15:02 GMT"
+      "title": "LIVE | Donald and Melania Trump make major \u2018Fostering the Future\u2019 announcement - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMWc0LTJBckZwVWdhNFQyUHFoRzJJd0JUcDhNTXl2V1dUZlRTZVAtd0N1emd2WmJQQThpanNLdFdTTEljTlNNZXBxWm11SXphdUJFYjg2SGI1SWlIbmFpQ2RpUWJlaE00UGpoMnE5TTFuc09lOW4xVW5lM3pQcDZ3c3RjTml0TGczS0hUcVowdmh3ZHl5cGtWQlVwd1doV2lRZ0dLRkFzWm9GZ2Jpcjg4SE5aWmQ1Tno0Wng2d2dYTkJBQk9SWU9EUE9IWWU1WmxHczZvSnBoRnVfandrZHF5NW90R2VzQUdjMDdWTtIB8gFBVV95cUxQVWlib1I2TlM2N0VtSm1mazVTZm1jSEpjMHBYdkhSdUltNV8wdllxS3dFVDM5d2hLemZFQ2xXbHZTcTJxd0xkRDdJd0FWUnVHYkZ5dUtjR2lyejlQRmc2ZWVaUGxVNzhYUUduVDBKb1hlNFNtUnJLTmdpNTNWdGc0T2dmNUZpRFB2Sk5zbkNDR2pfYW1MRFpXQnlWNm5ZMG84Qk5mZzVfbWRjdjJKM1hBdmkwc2p3bnZxUGgtUzJzR243aGd2VjdQSlFFcGlKSG1jdS1EZzZySW54bjlRdUhySGVhMG5kMUpRVlhFdmRRdm40dw?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 20:09:31 GMT"
     },
     {
       "src": "Google India News",
       "title": "V-Marc India receives Rs 100.74 crore LOI from PuVVNL for HT XLPE cables - scanx.trade",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONmVOZ3VDRHRIOTItVmpQNnNidUZNZDhNMXlIeTFWQnVMLWNpa2Y2bWo2RU5OY2Z1WWRveHQ5VG9yOFlQd1FRMFo2Z0FIRkdLbTk4RTduSU1QWUJjWmhIaGhzZE9GblV3UU9zaWloRFRzVGxSVS1aRnhyODV2M3ZkcXdoeEdWWHVWek80b2k1NnJ3U3RWOHB5SjVPcmxBZlVVbnFkeVYwNkRPLTZLdmNXSUxraHpqRWdSTkp0NQ?oc=5",
       "pubDate": "Thu, 20 Aug 2026 19:42:12 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Prudential stock holds steady as London-listed insurer leans on Asia growth - Ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYVVnc21DOXd0VHhLdzBDaURsRFNkaFBRVlNxRm5seE1yYUNDRGFhSEc1RHVnLVUxYVdvdTI0X2xnNTJvWG9TLXNFenQzR09zWXI4WkJnQjRiMVBNRTREbXpsUUw5aF9mQ1ZwLWNfcXlfazBSQkd4LW1FWFcyS2hBMmJwY3Q0QV9kUmU2NEVTUFdRMElWNWZEY0F5X0pLNWZFUUJfdERkQWRZbTJZZXVBNUR1Z2RMOGJDVkUzUFFFbWg4a1NHYVZ3S0FMUQ?oc=5",
+      "pubDate": "Thu, 20 Aug 2026 20:03:41 GMT"
     }
   ],
-  "fetchedAt": 1787255951
+  "fetchedAt": 1787258154
 }
