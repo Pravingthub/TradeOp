@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Gold could top Goldman\u2019s $4,900 forecast as options demand fuels rally",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-could-top-goldmans-4900-forecast-as-options-demand-fuels-rally/articleshow/133408548.cms",
+      "pubDate": "Fri, 21 Aug 2026 21:23:11 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Symbiotec Pharmalab gets Rs 526 crore anchor backing ahead of IPO; Citi Group, Singularity among investors",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-gets-rs-526-crore-anchor-backing-ahead-of-ipo-citi-group-singularity-among-investors/articleshow/133408476.cms",
+      "pubDate": "Fri, 21 Aug 2026 21:21:06 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "India bond yields hit two-month high as rate hike fears intensify",
       "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-yields-hit-two-month-high-as-rate-hike-fears-intensify/articleshow/133407966.cms",
       "pubDate": "Fri, 21 Aug 2026 20:46:13 +0530"
@@ -19,22 +31,10 @@
       "pubDate": "Fri, 21 Aug 2026 20:36:47 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Accel, 2 others sell nearly 5% stake in Amagi Media Labs for Rs 587 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/accel-2-others-sell-nearly-5-stake-in-amagi-media-labs-for-rs-587-crore/articleshow/133407721.cms",
-      "pubDate": "Fri, 21 Aug 2026 20:34:08 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Online Instruments India gets Sebi approval to float IPO",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/online-instruments-india-gets-sebi-approval-to-float-ipo/articleshow/133407466.cms",
-      "pubDate": "Fri, 21 Aug 2026 20:20:23 +0530"
-    },
-    {
       "src": "Business Standard",
       "title": "Prop traders stay biggest derivatives winners as retail continues to lose",
       "link": "https://www.business-standard.com/markets/capital-market-news/prop-traders-stay-biggest-derivatives-winners-as-retail-continues-to-lose-126082101242_1.html",
-      "pubDate": "Fri, 21 Aug 2026 19:41:38 +0530"
+      "pubDate": "Fri, 21 Aug 2026 19:41:26 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Crude oil prices head for second weekly gain as US steps up economic pressure on Iran",
+      "link": "https://www.livemint.com/market/commodities/crude-oil-prices-head-for-second-weekly-gain-as-us-steps-up-economic-pressure-on-iran-11787327365673.html",
+      "pubDate": "Fri, 21 Aug 2026 21:39:40 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Symbiotec Pharmalab IPO: Price band, lot size, GMP, listing date and other key details",
       "link": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-lot-size-gmp-listing-date-and-other-key-details-11787319352853.html",
       "pubDate": "Fri, 21 Aug 2026 19:46:55 +0530"
@@ -83,12 +89,6 @@
       "title": "Pulse of the Street: Cyclicals buck weak market as FPI inflows hit 23-month high",
       "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-cyclicals-buck-weak-market-as-fpi-inflows-hit-23-month-high-11787315061912.html",
       "pubDate": "Fri, 21 Aug 2026 19:06:48 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Saatvik Green Energy shares post biggest 1-day gain in over a month on  \u20b9190 crore order win",
-      "link": "https://www.livemint.com/market/stock-market-news/saatvik-green-energy-shares-post-biggest-1-day-gain-in-over-a-month-on-rs-190-crore-order-win-11787310393835.html",
-      "pubDate": "Fri, 21 Aug 2026 18:42:15 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Centre rejects ethanol diversion link to sugar price rise, warns mills against profiteering - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQU1pRZDNxSDU5RmtpNXFhdDJwV2tCTE1idFZOUW00bjQxQzd0OTdiNVBEUWd3UE15am9CU3NRMlhjRjVEYy1jV19nZGI3V1NKZUtENUxmdTdTbFNuczVvd01ZNE03YXBfY2hreTc3OTdrVnYtYXAySjVzaVA2N2NGRm1LNVFmOFVQZWZlWTBQTWp1Sms1VzA5VHZyRFVlR3dhWWYxWE5xdGxkVGRTZS14RGUzZDBOSTFYUlo3UGZYQ0pXT2xLbUsxMzRlRy14Q0tPN3dvX1UzSmfSAeYBQVVfeXFMTzBybDZYUDhoV0tVdEdtMzZSaWQ4X2tuQWx5WlAyaHNjZGJYWHl0SW00bTRlTlRjUUpYekNaOE9lR0tIVGczdm1tSDhkV1JjU0EwYjQ4MUNyWlJTNlZNYmc5cnhWWHZTNUZpNHBoRzBleTVYUnRldlRnbndLM1hyQkV1ZnpXWElEOEtYbGd6YjktTlFNQUJ4dngtUUdONDNCeElLcmZZT3NvMkQ1NFVudU5OYWFmZ180Tzl0ZjN4Y0s2al9MQ0cyZEs1d2lqSHJSX1V5MXlGTUkyTFg5akdUeExnTFV2VFE?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 15:18:20 GMT"
+      "title": "Top Indian Banking Pick: State Bank of India Leads on Deposits - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOLWo0aWszYVVUN0c2QXZyekZGWm9kMHdjbnZhQ2NJSnZkdktsSHk5TEpOdTFOZXNRRm1PSE9sM05CcXZEVmp5NVpLYlBzdkRWNy1qUHk1Z1ZHVTZIZGlSd3M4d3FiVTJLZkJCeEdWbXl4el9MMTdOWnRwVG9FQjYwcWJIcF92aDFwODFVZU8tUVBtX2JfU1Vqc0lxa1g4dnFzOFgtZGZJQ3lFYWwyRThGa21aWmhWS2lrZnpZV0lNYlY?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 15:52:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SEBI proposes fixed-income channel partners to widen retail investor reach - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQllmcEpNbEFQeXU5M1QtNldNYlM4dFA0R2tsZXEweEtoS3FtOVJDa01LZ1hfZG02TFdPaEE1MERVV29QQlVSdFM2TVZPZk82bF8wVVVpRHowQ2E4YUZFdjctWFBFMmlmWmRCX2RRNkZEanlqYlJOS0tGUEc4Sm1vdkFmRzNZS3EwVEpHREQxZG5USC1CNWNnVkZrZFhtTFFqcGRtWUw1Z3J1bVpTdUdz?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 15:28:27 GMT"
+      "title": "'You have navigated India through many challenges': Satyan Gajwani welcomes PM Modi at ET WLF 2026 - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd0xVRWtkZjdUbFhzTlJ0bkV0VmVHWnhMX3llVzF2ODNTTWxqZ2JBdFlFZm5yX1ppZlBqa0thRVlCMnhISVVRTTZJU3Z0SDJtUVhQRjg4UkJUZ2cxcW1tb3p3OHNjeVR2V0tnWjd0QVlkU0tDM0JpbVV6WW5VRWhzUnpoMDhaTjlLeDFlODNteEl1UkJra2NWQTBnVEV3bFgxN19uSjgxc2tFLW00TmlXQlhCSVNjNzNEVnplc2RnVkU5SEd0WFlLU1VvOGhOSThMRWJZSmNkRnY2OGpUZW01VGUtaEE5SGtld052YzJFbw?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 16:25:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FIIs near historical lows: Jio BlackRock flags potential contrarian setup for Indian equities - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN2NXSHdTVlhPalVaVkNKOE9McWR4UG9SYU50ajAxWVhEc3VGdXI3Wkw0Ukg1SHAtQWVVaERfSFFadzNVUlA4VG92aERzRTdXbzFOQ1VneGYzR0hwTXNXa1RibzlwMGVqMzlqdHFybU0yNWhmN2piOFdpUW81ekhqSm4zaVpBYTdFNkJoMkVXYzFDVHU3RHU1dmJHaURhdXlYR0lfWW45RU1BWE5RS2RmR3RKWjNQWXJkN3cwazgzNnRSa0FuWHV4TGN1eEFWazJYcnY5WDdkcDI0aE9uUHFiTS1BSjEzdFpRbTZ6czdmcy1zaGlsUS1ja1ZR0gH_AUFVX3lxTE9oT2diUFdKdkRXV3RFTEVvNDdrZ243ajE2Y2dUV0pvSnRHU1V2bG9UZGZwNGFaSzZpNlcwYW9HWU9ocGp3Q3VtME40WGtxd3JfQk9zaDdBaW5KdENNY2g5VS12N1I2S1FhcE1LdFNFbHNzZmRwRTNzWXBMbnAxZU1jdC1HMVBLRDNZR2k0T0NscjlSazkxQk9udGZCeDZjTFZBUThHc3dwZ0JBY1RHb0xpOVNkVjVxVDhjUXlxVFRtbGd6akMyWW9qV1NwRGFqZ0U0UXYyc2FmMEFBaVZSX1NEY3NlUEZ2VlgtMlRSeUhQVThUVER4akNHYkpEaTZxWQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 15:14:12 GMT"
+      "title": "Fractal Analytics grants 1.52 lakh ESOPs to employees at \u20b9855.25 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWkRjdzBRVE9RX3lKWmU4UkI4QXdNWHI1ZG81ZGpZOFV0ZTdXQXJDdzFsdXRiVmFhTnkxX3BzM25sYzhIRW5UWm13WmE3bk1CYTl1UG04Zkk0cThqNm52cERzY1JxMVhIWWdDdjRZZzdIRThfck9qWExHem42NEtaLVFnOHhsY2V1VVBaTnowLXNWMVl1MUNWanYwM0NUTTRqR01vVGlITl9rRUo3RXFMUzQxZXo?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 15:37:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "How Venezuela has emerged as a key oil supplier to India amid Hormuz disruptions - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOQ1NtRUxCZFhndVF6dHYxRUdEVk1VblZfNThURGxJZzZ6ZGxQcHZiWUNacVktQXNPa0o3aWxNLTZBMzBQOEN1OW44aGJPTGpoa2pyc3VvNHozWEZqMldlSGNyaTJTbDhGcV9NWjFLZ1pkaWVWcDM4aVljY3hmTktDMWQ5TlRxb1Rsb3dpREFtQVl5U3RWUFRSQ2Q2SjhWZURoem95XzNSb2lxbDFnenE0Z1hUU2plTnBXSGpRcU1feDRpNDlMdTVMWWdqOWUyNEdHdWtPMW1iTm1HQVFwRnFJTWtoXzdIcjhlem55MUtha0kyYlBEVVJRbVNB0gH_AUFVX3lxTE5WdzZERVd4RlprMThhNVQ0WlNSdzNtQVhUSXJIbUhiVkFBZnYwZW1wR3hOTDd3Um0xV0o1SXdpU19XTno2elZZQndCWHUtaURMeDZRQUZVMWRwUnFUS1p2aWhOVHpBcTdoRW4xcExPak4wUWh6VldOb2R5TWIwblNzcGFYZ3gwSjZQamZXX0NFU0V3eTE0U2s4cXhGNzkyVGNsbkRxbkxtU3N6c3ItcFI3NG9TazBQMV9VYm9WenpaNDR1VWs3dnhXa0JHLWx4TktyRklLNVBlNlhDV0lEaXNwd0V5MUVHOGRrTGdnYWlFUXFWc0lpUGgtWkstb3VSaw?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 15:23:00 GMT"
+      "title": "LG Electronics India shareholders approve FY26 financials at AGM - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUExTcUk0bHo3QWxOMGkyd0ljQi1qZ0ZhTU5KdU55QnpzVHBPOEFjVmhiRjA3TXN1NUs1VlRCTjliMTgxaGpnUXQtX0lfUzAtdkxVcnBCblJVamU4dE1DcE5YbGk5UHU5VVl0aC1PZTVfX1JDNjFnTXM0ZlJ3ZWpsU3FoQ1lXVFdQbndkeGVDWkJhWHZxNGx3b3d1WFI2QUZsNEdtNmFRRnJlUUw4NVlNMHZ3Tm5zQnl0eWc?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 15:49:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US Treasury Yields, SEBI Action, Iran War, IPO Buzz And More \u2014 The Week That Was - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa0xWY2pnbjJNNlg2SFFYc0QweU5PYW1JeWdoMlZWcUFZUFVWV0ZUNEVMclEtNnF5MDB4R2pXMTNYM1BoWWNsMVl2bXFCZW1Da2pQTC1BcXBDaVMwbTYxRnotdzFwUnhnVUZudUNzN2JvYkJOOFl5dm1kbVYxTjVEV0JGTGx0OENZWlhRSC1SeVBGUTFZSWI3REczekE0R3c4TF9DbnNGWm9lLUpNTXQwQ1NMamFwT1Y2eXNN0gHDAUFVX3lxTE5sRVdocDBIc3FJczNwdzlQVXlSOFBRVXJHZ2p1OXlpLU9sLTN3aGM4dUJ3bG91bDZJVDJnRDFzU3R3REZWYk5xTDB5d3RtOXluMndKT0NyQ2t4ZGNTWjk5R1Z1bnlTbEY2dWFxWXZNY3RyYkxlVzNoaTA3bFpJNG8yY1BNOW5rQzhIN3QyUHNCcWwtV1BhM3RJdzNPalhmcnVpRGQ2SWN2dERSZV81M014VkZnMEwwd0VDRVdPTE5TZWI4SQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 15:08:42 GMT"
+      "title": "'Putting nation at risk\u2026': Tim Walz defies Trump over Minnesota mining, GOP sounds China Alarm - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQRndBQ24taXlGM2lSWEVxVzFNX3lXZ1Foc0lyMzZOTU5mUnlrSkRpWUZVR0xOMDZhTW5aYzV2Y2xXVmFHcm1tNDJ0UFVVVmxhUFNvUmU1NXZ6UURnSzBZd0Q4d3BFeTJfRjdmbVlwbTVlUGtFQVJIT1FGRzRlb3I4YWhqeGM0aC1XOFZKOUppWG1lS1ZHbjU2emYzQUpvZm1taFh5VTJ6NExBbjVCNm45MVVfNzlfbFl1UEw0MmVzY2tRU09MNUVOU0RBSVRIYkJXR1lmdHlxRTY2QURzd1VrZ1FoWlBUYVZIb1g0TXgwMDY4TDA2Smt4T24wRFVJeVVF0gGGAkFVX3lxTE1nSnZwSXNHWGR1cUpiUl9jdFFYMHVzYUR6Ujl6TnoybUlNa3U3dzRUR0NPOEdXNzZZekFqZDlaRnd4aVoyZF9sRWNic0piX3JWV3hNODBMbXk5QzdvbnJ4aU9iVUhmdnpuSGlfbTJ6bXhyY2tZQ2pfRGdRdjJLQkxraFB5SDR6aEVPTGZFWlJOR2prSHZubHZ1bWRzck9jbzdNNWlqelRlWXRuTXJ5X2tSSjNLNVZtM3JTcktZTXY4SkxvRXRTMU5ReXM1NXhudUVCSTF5akxJZ0RDeDIwTHV1QTNmQnBzVlRvcEVNMmx1dGRyVkkwbnFMbldTSzBCcER0eEZYSnc?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 15:35:15 GMT"
     }
   ],
-  "fetchedAt": 1787327548
+  "fetchedAt": 1787329934
 }
