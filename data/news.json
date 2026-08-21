@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US equity funds see strong inflows this week amid bond pressure, draw $11.72 billion from investors",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-equity-funds-see-strong-inflows-this-week-amid-bond-pressure-draw-11-72-billion-from-investors/articleshow/133411899.cms",
+      "pubDate": "Sat, 22 Aug 2026 00:09:23 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Gold could top Goldman\u2019s $4,900 forecast as options demand fuels rally",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-could-top-goldmans-4900-forecast-as-options-demand-fuels-rally/articleshow/133408548.cms",
       "pubDate": "Fri, 21 Aug 2026 21:23:11 +0530"
@@ -23,12 +29,6 @@
       "title": "FIIs near historical lows: Jio BlackRock flags potential contrarian setup for Indian equities",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-near-historical-lows-jio-blackrock-flags-potential-contrarian-setup-for-indian-equities/articleshow/133407830.cms",
       "pubDate": "Fri, 21 Aug 2026 20:44:12 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/gold-rallies-to-3-month-high-on-weaker-dollar-bullish-technicals/articleshow/133407758.cms",
-      "pubDate": "Fri, 21 Aug 2026 20:36:47 +0530"
     },
     {
       "src": "Business Standard",
@@ -119,7 +119,37 @@
       "title": "Power Grid wins \u20b9823 crore annual tariff bid for Gujarat transmission project under TBCB",
       "link": "https://www.cnbctv18.com/market/stocks/power-grid-corporation-shar-price-wins-rs-823-crore-annual-tariff-bid-for-gujarat-transmission-project-under-tbcb-19974786.htm",
       "pubDate": "Fri, 21 Aug 2026 22:29:21 +0530"
+    },
+    {
+      "src": "Google India News",
+      "title": "Paytm Stock And 2 Founder Led India Shares Worth A Closer Look - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNlcwRzlJRVI4dDZNR3N4NHFRbGFYalFSQXRVUDBWZEQ3OXJBZU56ZGx0NGlVTjRyOXU5dTh2Z29aemZlN2w4dk5rVmJtVHB4TFFBZDF3RzdiZlhNbDFDTnFZS3lUYzVsb0NiUXlSeUp4QWp6eW01X1M0MEdYSjJfLW1ZbzJuYUVHeFI0TG5mT25sZkgyYjFtdnV5Q3pXd3pfTm91VEYwdXVrQTdOUXRhTGE3S2VTU0FkTTJWRkNzV0huM2ZGYTlma2NNbV9udGVSaXdkZWxVODFEaWZuZDhfSUpidXdxQTJORG5mQjA2Y9IB9AFBVV95cUxQX2FDU0dWODh1MjYxOG9RYXB0TU5fVkFrTXFNZFdkbFVKQUFMM3dYLU1KOTRKS1JGbFpUT3NyUGc5YU1LTVI1VWhIVFh3NlpEd0kyR1RrNnpYQjhLSmp3UlR1bUFPZTJHSGRGS2pNYVZlQWoxNXNLaHdVSVA2WHJvUG1UWWp4LWxkcFpza09jX2RhX09BY2dfUzZZaU5tM2pOQUxaZFB2VFQ2WllWSTBDS3llR2JfMTBFdXF6NFgxdEVjZzFmWmlXNGFNWHR2WTNzTjVQRXFjM0Fxd1RnaGpTYVo1UDg2Qk5pM1JmTDh6M0NRUkhp?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 18:52:03 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Axis Bank gets final nod to list $300 million senior notes on India INX, NSE IX - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUdIODJoQklKWjFUazc0Tm5aR20tZHhsUF9XSGhFQUs0LXlWVGNxcEhLWmtoWXlfR0p4ME9vSVh2dmdMZXQ4UE9lZFRreUNmRUgycXpDOW9GOTIwZmRJZFVpSndvNEd6eHhxUEZ4ZVNMMUhaRmlLOTlMa1c2SE1aR0o3bE1WOVlfaElsZTI3cGZIWmwtUGVNUWQtcWYyRHJtaEJsUmZoWUJ1WmxILWp5LTFtRQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 19:21:17 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "India\u2019s Rs 2 Lakh Cr Private Credit Market Is Hiding In Plain Sight - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTk1ZDRCTXZvbmttOUNEdDRRRVVCZlBTa3NDXzQyZS03U2cxQTE0by1SY3RnbzVoUlJOWHNBNjVyT2tlN3FnNjJZb3NNaHloR2JBeVZhallKekJxY1l2NTlvSC1Xa2FmRnpMNDFHWVVJZHl4RnhZUUVpNmUtMkNEZEFFZlV1X0U2YTlGSDJoejFSYUtNanhDbzJPT0FVNkg3M1pfT0FXZ1lqdkt1Zk0zdg?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 19:12:16 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "SEBI targets misleading bond promotions, unveils new distribution framework for online platforms - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0NzcE43SlFBX3pRNTRieVdzeEVjTjNIdTNzRWxfdlhuUl81MEtjamJHT0l5R2ZMVWVjaWdOQ0lfM25EZk5BSnhCRTVjc2RMVmhVTW1lc2piTWNZWG40aUpQbFFDb0lFZk81NEV2U2c5dXVPbEk0cC1SenVUd0xPc3NhdmNpVDNxWV9neXRva3FkNmN2TlFjVUZsdFVFUEtOdjFDUzg3ekM4VjFTVWh3djdMdEVnRFE2Z0c5Ml9YT2JxaWZfREpfU3ptTQ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 19:21:16 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "'You are white supremacist if\u2026': Vance torches El-Sayed for sharia law remarks |Michigan Senate Race - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbkJJTERTdHdQRUpZcGtfYzlHYW1Sa3lLMm1ITmFHNGVRWTJKSmNmcTJkT0NkeEVHOHRNNTZGX1JfS0lPVDJ3bmJwRTUtb0VUOVNrNkNySFJ2SEZBd0ZrTS1KU3k4NmZpbHctRzZkaDRYT3hORkFkc1pwMnJlV09uYTRfcEJXaHQ2a0hJeGttcmhHTl8tNVR2RzNkX3ZrYm1YX1NmSGFwajZvTk1vSkpZNUtPd3g1QVdZT0s2OV9VenFlNngwS1JZZmtXVVNJVUxsOWx4S01KYXRKaG9GMW1JOHNaRHdYdmtiNm5YMzZ5NUFjaDFnV0dtRElSQmZHc2ZVS1cwdUx2bzDSAY4CQVVfeXFMT0hldmNFSGJQMjBjTnl1M1BYZGRBZ3hfdlhld3dCQVVOM3hIVDhYYU5aYXpFOEhYRk5QYkZMLWxnTTJHelkwZGNialp6RHFtUlJaZjNIdnNaamtNZ2pkUUJ2OU5SVlZiY1owN0VKN1c2bGR4NU9ZWFZmOXVmOUZOaU9LU2otTWxGOGpSYWs1OVlkNVFRNWNWeWs0VmVlaWpoZzN5U19vY0E2bWZYc1NmTUhtRGlkNnhUd3lvNnpmUVJ4UzZaNFNReHpWV0NSalVVNjBLMHBBNFp2SkhwZE1IUzZuZkpOS3haNnZqZVRxQTFvVjMxdWJwSjI5QzNsaWtqdzAxd2I3dGhVUURhZnBR?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 18:40:34 GMT"
     }
   ],
-  "fetchedAt": 1787338394
+  "fetchedAt": 1787340372
 }
