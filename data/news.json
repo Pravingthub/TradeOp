@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market rises on the day but falls for the week; bond yields and Iran in focus",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rises-on-the-day-but-falls-for-the-week-bond-yields-and-iran-in-focus/articleshow/133413493.cms",
+      "pubDate": "Sat, 22 Aug 2026 01:39:51 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Citadel unloads over 80% of bets bought from Leopold Aschenbrenner\u2019s Situational Awareness",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/citadel-unloads-over-80-of-bets-bought-from-leopold-aschenbrenners-situational-awareness/articleshow/133413202.cms",
       "pubDate": "Sat, 22 Aug 2026 01:00:16 +0530"
@@ -23,12 +29,6 @@
       "title": "Symbiotec Pharmalab gets Rs 526 crore anchor backing ahead of IPO; Citi Group, Singularity among investors",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/symbiotec-pharmalab-gets-rs-526-crore-anchor-backing-ahead-of-ipo-citi-group-singularity-among-investors/articleshow/133408476.cms",
       "pubDate": "Fri, 21 Aug 2026 21:21:06 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "India bond yields hit two-month high as rate hike fears intensify",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-yields-hit-two-month-high-as-rate-hike-fears-intensify/articleshow/133407966.cms",
-      "pubDate": "Fri, 21 Aug 2026 20:46:13 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Dollar falls to three-month low on Treasury buyback worries",
+      "link": "https://www.livemint.com/market/dollar-falls-to-three-month-low-on-treasury-buyback-worries-11787341555185.html",
+      "pubDate": "Sat, 22 Aug 2026 01:15:54 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Week of Whiplash in Treasuries Is Closing With Muddied Outlook",
       "link": "https://www.livemint.com/market/week-of-whiplash-in-treasuries-is-closing-with-muddied-outlook-11787340705313.html",
       "pubDate": "Sat, 22 Aug 2026 01:01:44 +0530"
@@ -83,12 +89,6 @@
       "title": "Symbiotec Pharmalab IPO: Price band, lot size, GMP, listing date and other key details",
       "link": "https://www.livemint.com/market/ipo/symbiotec-pharmalab-ipo-price-band-lot-size-gmp-listing-date-and-other-key-details-11787319352853.html",
       "pubDate": "Fri, 21 Aug 2026 19:46:55 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US stocks surge as bond market volatility eases, crypto stocks rally",
-      "link": "https://www.livemint.com/market/stock-market-news/us-stocks-surge-as-bond-market-volatility-eases-11787319906181.html",
-      "pubDate": "Fri, 21 Aug 2026 19:33:55 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Axis Bank gets final nod to list $300 million senior notes on India INX, NSE IX - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUdIODJoQklKWjFUazc0Tm5aR20tZHhsUF9XSGhFQUs0LXlWVGNxcEhLWmtoWXlfR0p4ME9vSVh2dmdMZXQ4UE9lZFRreUNmRUgycXpDOW9GOTIwZmRJZFVpSndvNEd6eHhxUEZ4ZVNMMUhaRmlLOTlMa1c2SE1aR0o3bE1WOVlfaElsZTI3cGZIWmwtUGVNUWQtcWYyRHJtaEJsUmZoWUJ1WmxILWp5LTFtRQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 19:21:17 GMT"
+      "title": "Tariffs are over-emphasised, says BCG chief - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMUhua1N6WnJjdmV4anRlampwYWhpMmkzQ1ZHX2lGUmVkT2s2RklFOHpWWUJZbXpzSml2ZnhxRVF6dGRheHBLMjVUbkRkZFpqeFE1NndmZVBfVjFSSzdFNU42OVZMb2ZrTkRqenM5eTN5NHlfLUFZRTdLb1duSXN4V01BTW5ZbTg1Z0EzTno3a0JHNnpxdlB5UkxNTUd2UTBVSkJFcW1JUU1xTEg1TlBYTk9uOXIwMlgyZkZQWjY2UTVPa1ZtV0x3?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 20:02:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India\u2019s Rs 2 Lakh Cr Private Credit Market Is Hiding In Plain Sight - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZTk1ZDRCTXZvbmttOUNEdDRRRVVCZlBTa3NDXzQyZS03U2cxQTE0by1SY3RnbzVoUlJOWHNBNjVyT2tlN3FnNjJZb3NNaHloR2JBeVZhallKekJxY1l2NTlvSC1Xa2FmRnpMNDFHWVVJZHl4RnhZUUVpNmUtMkNEZEFFZlV1X0U2YTlGSDJoejFSYUtNanhDbzJPT0FVNkg3M1pfT0FXZ1lqdkt1Zk0zdg?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 19:12:16 GMT"
+      "title": "US stocks: US market rises on the day but falls for the week; bond yields and Iran in focus - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOQ01YYzNBX1lwaW5ndGoxOGhLa1pTZkxieXg3ajA0R1BqZXNlYzlCeTMwSXVEcGM3YkN0VXlNenJEeDB1RDl0U1Bqa2dLY09qYkVtdmxYNFJ5S2lWU2JjQy1XWWFvU082QmZpU0Vua2hYUlIwVzBmdmlIMXl6N2RxYm9HaWU5Nkw5ZVhHaXVSWWJNZzdaWlpGMGYxOU1BVC1IYkRYUmx6SnFsdlRTOFNmTktmNEpOUmcyOGRwNGpncFh1SEJycXZrQWJJV1FJM1hGMkV0dHNwRVNCUVhlLVNKWUs0NDVYSFprRUgwQUQ5eHMwR2tYSkxMeXRwNWlJa2PSAf8BQVVfeXFMTkNNWGMzQV9ZcGluZ3RqMThoS2taU2ZMYnl4N2owNEdQamVzZWM5QnkzMEl1RHBjN2JDdFV5TXpyRHgwdUQ5dFNQamtnS2NPamJFbXZsWDRSeUtpVlNiY0MtV1lhb1NPNkJmaVNFbmtoWFJSMFcwZnZpSDF5ejdkcWJvR2llOTZMOWVYR2l1UlliTWc3WlpaRjBmMTlNQVQtSGJEWFJsekpxbHZUUzhTZk5LZjRKTlJnMjhkcDRqZ3BYdUhCcnF2a0FiSVdRSTNYRjJFdHRzcEVTQlFYZS1TSllLNDQ1WEhaa0VIMEFEOXhzMEdrWEpMTHl0cDVpSWtj?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 20:09:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'You helped fraudsters in $9B scam': Senators grill Minnesota AG Keith Ellison at explosive hearing - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPLU5pa2NqZVZ2MU5mbjQ5dkFZNGZWWVJSbG5Xcm9paFFETXhxYzIxVV9oQjVWVXNKTHVSeURhT182aW8xX0tNOEFRTDVmYkVTMFNRODN5c2F1MjY3a1c2ajZLWGJYbGNlUHZXRWc1d2V6eUs2Q0w0dkN0WUlkb3psaWM0ckgzZk5aZGlFUVR2bkZ3WXBtR1pFSy1QbGVBcDc3OEVQZUZPdUdGTFhTazF6UDNZMENWS1NwTVFRTWo2dm16N1AzRHNUQzN2WWd6bm9PZ2tvNW51bTl0N0hyNnJ3V2sybXhwVHh3TU1lYXYxV3hpQUhGaEdPV2dMd0R5VHdadmpSajlLWE_SAY4CQVVfeXFMUE5mOUJwanQ1SkN0Qlh1LXZQaFktck1JZktGM1VhOWhLUnliaUFEeFFqWDMtVWpzcTFqOV9JVkhfZEZkY29UZVZDeFRSRWZTMkRBdlFyT0FHd2xoOFV3dk42YTNGUmFLbnlsSWNNVFBsRHljQWdJQ2p3M2daNXFCeXNIWXRmYkM5MV9HODhXdnQ3MllZdWZMbTc3OVFORHdpVTJMVTNXZW5VVkdRazB4UVFwcVloaEQ4bEJxOGhnWktNZzEzOHpOaXYyY0ltSy15d0x0UWVCcEI5YXBrbmFtZm05NlYtQ29nR0lGeF92TmV6bGxoUDdtbkRxUEljVGUtQVJ2WXZyY01pZk9tMDB3?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 19:01:02 GMT"
+      "title": "Sugar output may dip 11% from initial estimate: Government - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNkxndnBCdXFSZC1Ma0p5c2FSWkNCSjllZ29IWF9HZl8wZ21laHNhTUwxQm9OYUJDdHg5ei16U2MwQUUtQmFKbkVCTVppRUJtcnN0RW00eVd2VVNjQkl0TlpVVnpTYXJ4YUFtQTZlQkV1eDRnTm1MdTRDTnR4Y0dzc2RrbjVzajk5QlVUR0MweDlUc1hUMEhodHdpLWhNczc1X2V1X0xkQ0xzX3BrUDhWZ0c4Wll2UzBwODdoVXFqX1R1MktwU0pEUUhvOVRQYmNKS19xbnhnaHJqUdIB3wFBVV95cUxPVjN3cFpZU3VDdl84X1hlT3BpS2RnLUFoUlUxM0lQZU5MZnJjVkYyRkNzRkJWSW16MTdhWWctNnRQNzY0MkJDTmNiQmdlLUg0MWxKa2pwTUZESUVqYVVFV3hqcy1fT1JjZ05iTzJfRlBSZERwYkM1Z0hOYkFMVkNucmpZNkhfR3Q5amdfV2J6Sm9EN2piUUtMY1hJYm1ZYzdYQ1l5ZHIyYy0yS1RYd2VyWll2RlhwSy1FbDBGbVZ0MFZDWS1DREdGamh2TzRSd3EyWXZyUTVVd1hEUlYwb0dJ?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 20:21:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SEBI targets misleading bond promotions, unveils new distribution framework for online platforms - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPb0NzcE43SlFBX3pRNTRieVdzeEVjTjNIdTNzRWxfdlhuUl81MEtjamJHT0l5R2ZMVWVjaWdOQ0lfM25EZk5BSnhCRTVjc2RMVmhVTW1lc2piTWNZWG40aUpQbFFDb0lFZk81NEV2U2c5dXVPbEk0cC1SenVUd0xPc3NhdmNpVDNxWV9neXRva3FkNmN2TlFjVUZsdFVFUEtOdjFDUzg3ekM4VjFTVWh3djdMdEVnRFE2Z0c5Ml9YT2JxaWZfREpfU3ptTQ?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 19:21:16 GMT"
+      "title": "Tariffs alone don't guide investment calls: Aditya Birla - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTllHOHRNVXhydW1fZk9wS2Z3MDhJbmlnYW96cFpLb0VCLUZKN2p0d1V5Ym9ISGVGbnJNUGh2ZGllZTFTREljUkx5aUdhd1JfZmU1SDZqM3ZScjU2Z1NfTV8xaTI1dVpWZEJMNmdGY193QnB6cmNVTTVtMlFfVjhYc3gxU0pBV1pmNnlmNmxLam9rUVBVd2MtVElla1lxeFd4eWFoTWVWSUJNMVVqREdVUE1ZcDNDWmg0UmJPRzltMGtrUFUyMWZLY1ozVDMxdkVrTVV6amItNNIB3AFBVV95cUxQV19qSWdYaWtaejc2V1B2V2U5VTJaNjVCTVdxRGxGNVpucGRXV2hsUXdjX0h2YXF1RGpBeU40Z2c0bjB1SjRKU0RVcmdrZGlGbV9tbEdDVGVGTHZLVi1aR09YVndHcXJDaVdSQ0xZTVlEeVNRT1l2OTJoUkZsYkVCRU5BNjdpSDcxeTc0Q2tyeXRNOFRnZmlfTjJnNklzbEtPZHJTcDI0cEIwVnZka3BMWnU1Qnl2V2JzazBwUnMxTFQwQ1Q3ZGRlLUJGV1JyVEROR2FJMXZRZ3JIOFF5?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 19:56:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'You narcissist & megalomaniac!': GOP Senators clash with Fauci at fiery 'COVID lies' hearing - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbFEzbG1GLXRiVG1OanlnXzBGUS1UdHBLRnAtbkFwWHdYX3lxS25WX3pVal9BQS1nNEtaOFhhakYzSGtqbnZZVHFYZ3c2WUlCRWtIaDVyNFAyRmh3MkF4MVZkMnpOdEhqNjl5MlNWOVBvXzk1WWtxbEFmV0d5aFdVdmdUMjN5Qy1fUzlIN3dGQzZNaWlRYzlhcDZsY1VFdzE2RmJmMVhYZTFRWjZzZFpwUVlNN2tmeDhDcXJJM3ZkbWRBN0cwaWhYS0ViXzV4MHdMcS1kNlJLbHoycDFZMkJFdkFLNkttZ2J3c3VqaElwRi1uOXl1SUFIYjlmbw?oc=5",
-      "pubDate": "Fri, 21 Aug 2026 19:45:57 GMT"
+      "title": "PM Modi meets CEOs of 20 space startups, ask them for wider applications of space tech to improve people - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxObWQ1VUlyYUd5bzNnWDM4X2tOeUZkUEdJSF9fQ0dmb1ozVzdDWU5BVWR4X1ZBcm5xTHVtSnVIYXlJQ2t2T3M3UzNZZ2FBNkxZT01Icm1Mb0pXeWt3M3hFMVMxX0NrbS1xWWN5OS0yd0hoV1BIdG1JaWFrdUlCY1FQRnlrUG5Qdzhudmp1OHg1cEhiUXA0RFFFaWJlZUdaNjZ1NWoxc0FrX2hGQ0VnTW5uUzdVMk1MTkRWUDR6Y2JTNzhGVHJaZjFMWFlwanRNYk5IR0RnNmZ5OHJRU2VaWnV2enRhRGJaTjAyUUVpNE1Ja2hhYWE3dDY0eWVONnVaYjFPd0ZUR0ZkdkxhdGxNMTEybVVhaWtEdjNIT2h0ODZzTk9qd9IBpwJBVV95cUxPVkEtTGJYenJiN1lxNUd3dE42ZklZSXBlM1ZXc1JoMjBKYl83dXNjcC1XZlRSRHV2ZG5nbklqUnFma3lGTEhQSkVjNWpTb3JCR3NHcFNyLW1HR05pUGNZWHhhSEgzN3REM1VyZzN3ZnFDcE4xemRRRWVYeE1nZVR4VEpBdVhHSUZjOGwxaU1MZWp4YzNFbzNwYmVyelBoNWJmeWdMSjgwczVLV0pLWW1DXzUxLXVWTll2TE4zWk85R0NnMWx1NjQwTlVuQTJ1QU54Vm82MGl1d1RPVlBjT3JMZ1Q3ZDVqM3l6NGxmY29kTEFxTGE5WnN1QlAwdzhVa0lLemluWU1PR1ZKZXdDS0lUbVgtdVF4X2cwdWloZWtDT2h5WVY0a1Zz?oc=5",
+      "pubDate": "Fri, 21 Aug 2026 19:49:00 GMT"
     }
   ],
-  "fetchedAt": 1787341764
+  "fetchedAt": 1787343929
 }
