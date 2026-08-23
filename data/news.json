@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/133437385.cms",
+      "pubDate": "Sun, 23 Aug 2026 14:53:29 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "20 IPOs on investors' radar next week. GMPs indicate up to 90% returns",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/20-ipos-on-investors-radar-next-week-gmps-indicate-up-to-90-returns/slideshow/133436601.cms",
       "pubDate": "Sun, 23 Aug 2026 13:14:41 +0530"
@@ -23,12 +29,6 @@
       "title": "Mcap of four of top-10 most valued firms erodes Rs 87,960 cr; Airtel takes biggest hit",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-four-of-top-10-most-valued-firms-erodes-rs-87960-cr-airtel-takes-biggest-hit/articleshow/133435784.cms",
       "pubDate": "Sun, 23 Aug 2026 12:24:00 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "10 midcap stocks with massive upside potential of up to 55%! Do you own any?",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/10-midcap-stocks-with-massive-upside-potential-of-up-to-55-do-you-own-any/slideshow/133435442.cms",
-      "pubDate": "Sun, 23 Aug 2026 11:32:29 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,18 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Expert View: If earnings are rising, why are markets still nervous?",
+      "link": "https://www.livemint.com/market/stock-market-news/expert-view-if-earnings-are-rising-why-are-markets-still-nervous-11787479316156.html",
+      "pubDate": "Sun, 23 Aug 2026 15:43:15 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Upcoming IPOs: Symbiotec Pharmalab IPO, Skyways Air Services IPO among 10 new issues to open next week; full list here",
+      "link": "https://www.livemint.com/market/ipo/upcoming-ipos-symbiotec-pharmalab-ipo-skyways-air-services-ipo-among-10-new-issues-to-open-next-week-full-list-here-11787471553011.html",
+      "pubDate": "Sun, 23 Aug 2026 15:30:57 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Mcap of four of top-10 most valued firms erodes  \u20b987,960 crore; Airtel takes biggest hit",
       "link": "https://www.livemint.com/market/stock-market-news/mcap-four-top-10-most-valued-firms-erodes-rs-87960-crore-airtel-biggest-hit-indian-markets-crude-oil-tcs-sbi-hul-lic-ril-11787474680284.html",
       "pubDate": "Sun, 23 Aug 2026 14:40:04 +0530"
@@ -79,16 +91,10 @@
       "pubDate": "Sun, 23 Aug 2026 13:05:20 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Stock market holiday: Will the NSE, BSE remain closed on Friday next week for Raksha Bandhan?",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-holiday-will-the-nse-bse-remain-closed-on-friday-next-week-for-raksha-bandhan-11787465524134.html",
-      "pubDate": "Sun, 23 Aug 2026 12:35:16 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US-Iran war: Crude oil price is key | Is Tehran writing the obituary of Turkey-Pakistan-Saudi Arabia's defence pact?",
-      "link": "https://www.livemint.com/market/commodities/us-iran-war-crude-oil-price-is-key-is-tehran-writing-the-obituary-of-turkey-pakistan-saudi-arabias-defence-pact-11787455149964.html",
-      "pubDate": "Sun, 23 Aug 2026 11:34:03 +0530"
+      "src": "CNBC TV18",
+      "title": "Stocks to Watch for August 24: Reliance Industries, NATCO Pharma, Bank of Baroda",
+      "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-august-24-reliance-industries-natco-pharma-bank-of-baroda-federal-bank-jubilant-pharmova-apollo-micro-systems-19974715.htm",
+      "pubDate": "Sun, 23 Aug 2026 15:05:01 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,41 +121,35 @@
       "pubDate": "Sat, 22 Aug 2026 16:21:08 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "NTPC Green Energy arm wins 500 MW capacity in SECI peak power tender at \u20b96/kWh",
-      "link": "https://www.cnbctv18.com/market/stocks/ntpc-green-energy-share-price-arm-wins-500-mw-capacity-in-seci-peak-power-tender-at-%25e2%2582%25b96-kwh-19974954.htm",
-      "pubDate": "Sat, 22 Aug 2026 15:52:58 +0530"
+      "src": "Google India News",
+      "title": "STOCK MARKET: SHARE INDICES STILL AT THE DANGER MARK - First India",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWWJZSFZZOGJlUjJpbUtSdDVkX1p4ZmhuZnBsOUdSSk8tMGloWldhblBpQkRFd3VERExDVDBma1FOb2x4M0c3cUVUdVFVSzFrdEgwWTR5VDFmcTBoaEQtR3dqUzhkZS1MMnhHcHotdmhGT25BS1RnNFhCYTk3anhneFcwWXVicllnRFZzaUZlUGVPQlBpbkhzbmI0bkttYjV2dnNz?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 10:06:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObHk2U1RndWpUdi1mM2M2Q2FsZTJGbG5TcERtT285YXBNVTBneElyZ0NxYTA0MG5qVTljY2tHNkNCdFhBODc2dXhfU0Z4Y3IxUGt1d204YTNLNk52andiZG0tcW9Qek1vNlBmbzJaNzNLOWI2cGRQX0ROc2lJLXVQZXNrR1NWWERPd3V6MkEyZ3pETjc4QTd4S1J5akM0dkxibGJlb1haODEyRnRabHJONzZwb0o0RnVxcEwxWHRnZk9RWjlPelU1RWZYNkZxOFk2QUQ1QTNSVTBCVHdDSkY40gHkAUFVX3lxTFBCU3NaQVpIX1dLT2RoemQ0VkhsbHlKeExSQW9DRENfSVVvRzREOUF1UFhfNlV0SkJVaGhFbXQwWW9GYy12NHlvRklWNnVWcnRPaXo3b0FtZEduT2YxWUcyOWFiYnJBNGg5M25rSk9EWVFvM3gyakhJclAtdWUweVY1TUlwdFhNUlk0dVZodGYyZ0J2ZXVhZ3NOQ0hJMlhJb0N2N0IxeFB5QWZyNHFCY0JBMHNTb04ycDI3MDJGVWdRcmRtZGdKdmw4cjJjNHVYSmJySnJubU5wM3JoTTY3NVplSjN3OA?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 09:23:29 GMT"
+      "title": "Expert View: If earnings are rising, why are markets still nervous? - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSFhBMWlpa3F5WjBFUFNFeXM4TDd2dGNnMVdkaXVrODdFRUphS1lSandGYW5UMGkweVhhdUlLbV9xRllGc2NvMGZCSW1jendoTzhiQWNRaWRfX2FtYjY4aENNU3FVMDdLQWtLYkxTZFdtZ0xBcHBYRTQxZ3E1VDloWS1uUnJOUG9hQkQwNE1HNGxCN29mNGFQZG9JeXFjZllMdmMxeGtfQ0E3TDBfd3ZVUWlyNndIcDZmN0xsNkk5Sk1hZjJEbE52VnlzVEExT0XSAdQBQVVfeXFMTlRuaUN3OUZYVjQ2eFJMUXFyOHhtZ3lucEhRbjNKam1iWlRZQXl5UkZnVHNaWGFZZEh2YXlqRXFES2FnX05neXBkRVlsSUZBMERCcjBfUEloVzczZWJvbWtCNGF5MUJXTUVVTHhVMTVTV1JLVTlNaG54WEpIRURpRzJHWEg1Zy0wUkZrX2NTZ3VMT0JsQnVRb3JsdkdrYjNONjVDLVRGWEt6RDJQVXVEVFBYRG9XVkN1ZzkwUnZXOFluUk5nM0Y5Z0tva1ZNOXp0OEtaSEU?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 10:13:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Mcap of four of top-10 most valued firms erodes \u20b987,960 crore; Airtel takes biggest hit - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOEMwbkVhQnJ5QjVHX0JXdUtrMFBxQ3U4a19Ra0dsN2ExZmx4NF9saTIxYVFPRTdpOVNyUThKSkg0a2ZjNjIybTRqejdWUWJ0WERHQi1TS0ZreUEzb1NBeDM5ZkVPRENobDl6MlVXSzA1aGZRdTFsZXF4Y3FjNHluQ2tralkwUzBVay1ncndVM1ZfOU1zU21yNjBrTHEydnY2OG9LQW95c01Ga1pDZ3VvTWQteUxCSkFXLWoxdWQ5cjJ3dXBqbmNwRGxMUkh3WnUwdVJuVTJWbUhkeFlJMndZT1J3bmN2bnVsQ1U3eHU3YmxBNVZKME5Hb19GdllvRDdHM2tCZWp2VEg0YXJGOFZ5WHBILUkyaW96aHfSAZ8CQVVfeXFMT01vQ2dUMVM5bHoza2M1ak9LVW01OThaVXJ4eFRYSktsUlE5ZkRhOGVPVU85czVpQ0hGT203dzdWOWxsNXN5RHJoQ3hFNTI0Qms4cWl1NlczTzVXYUVtd1RWRTAtZHpoN1NUaG5zcUpCdG84OXFSNTZwSDBDZVpDa0ljVFlFZTJROGpQNlFGNnFhZm5CRGdEMDNHU09KVF94TXUtdnNBamxWdHlsNjJBeG1lZ28tZ2NtOXB2YTMyM1dIdWExenp1V3J6RlFIWndrWThCZkRNclh1WFZITFY3UVB5UTM1ZFd6TEVxWU5CWUtUOUpOZGFQdERHTUVudlZYckFaOVF6MDV4WERzMGlWNC1NSXZseUhHOXRpSzhHWDg?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 09:10:04 GMT"
+      "title": "NTPC Green Energy shares in focus after 500 MW power tender win; here's what investors should know - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOVjQ2eFNlM3FrRHQ5RGd1S0JLaWxqTHBwRDFGRTB3TF9aTmVCRmhzbUlrek9WdHBSMWdia3NYMmJrTGpGX1BMWW5uMXcxN19lOGZrY3B3a0xGN29zdF9GZXFoSWRYSU1JVTJwVFRYQTRPRUk4Qzk1STdlRGE1QnpuSkVyYmplR2lpUlh1Si11OTVfeXhhMUpTZDZfcF90N09kRHFQcV9QZnUtLUhYem96UFRoanoweS1xWXhLdG1fOHVCRGJ4ZnUwRldaUlZjUDQtNVdvbVUtNUxVT1NoRUV4NFJqakpkY1FLRmNrYQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 09:40:19 GMT"
     },
     {
       "src": "Google India News",
-      "title": "ETfs - iFOREX",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YbV9RbGFaMGNSZWZWN0ZtRkxvMkw3Sm05Z09ValIwUmtlQk9VUjhJVjhsc2R4d2MtZkZlWjdMa0lkMXpQWFlVWWE0Yw?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 08:51:24 GMT"
+      "title": "Dalal Street outlook: Markets seek recovery after two-week slide; crude, geopolitical cues in focus - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPQ09jTWc4ZlhMZG9JRzdTc1JjNjlKQlhVb29TQzRtQ2w3YmJ5WWFzRi1WM1BsS0Q3a3A4TnN3cjU1WmZuZUZvTWpTM2RrUXVSQUd5RTlCZV9icjJnSXA2d2lyRmc2NnBVYXM5czh2clBxM1FWZkc3X3VBdjg0T2hEMFZ0QlNOdGlvemI0WC1EME5QWHRreWVhZktBRjcwOWtVdHZ3dWdJS2VxcjZubGl6QjU3RHZZTTVrVWVnZVZTd25QckpIMUN1eVNBczE4YlE1WVpYWWtRUHowMXVqZjBlZlVMZm9yNVlPdTlFQU1KMG9kaUpaek5kdnlzQW1HYnpkSnNzVGhiSUwtZzNHS21F0gGUAkFVX3lxTFAzUV9lUmN1SWpVZGxQMlpnVGZNakM2ZjA2TEljTVVCM0lodVFzTm5pWElDMy1SLVlkQmxrelVYdXZ3cE5fSU53ZGI4R2ZqSkNwb0NEUG41WG9qMHJ0X2w1MnV6ZFc1SzVrektDcXY4c2NEQkdsd3ZkQnBvNFR4S3Fza0w3TTNDenVSUXlMSHliYkZiOTNYelhqZHUxeUhKS0phZFJsMl9KM0xaTjZWX2Y4OWFQaEdCN183TUVTRTRLbHBjenJvTmVLRzZVMzFKY2RmYkZ5eVNPVmRZRUctTS02N0w3ZW1KZHdVTVdSaEdyd1hidXgyMEZYbFBCNnhjOGZzbHlmZ3A4WFpDam4xUmhHd0FMNQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 10:07:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sensex needs to cross 77,720-78,000 for recovery, Nifty eyes 24,400-24,600: Analysts - Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaG1HY1N3NmVfRFhIZzFIbUUtZ2RnYXNQUG5hVmhoRlVMT2dZOVI5eTczaDRUT2lQejhycWJrdkNpTWRvcFZuaC1wVTh0N1ZnaFF1X3hWdUtZMUw5amdjcVNGZVF2S0owYjBIbElEcFBpS3ZvR1hJOURMM0h4VTNMQUEyQ2hIZENTaDFQaDJQVnJsdWhKb2ZDampzTWFVSUdaQTVBVE1udkU3R2xiS2t3YmU4Qkh3bVAzdEphLXdORkJTaW5Gd2NkVjczcw?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 09:24:13 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "North American Punjabi Association seeks stronger action after killing of Sikh man in New York - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQQ0FJNHY2OVUyRDRGTGtaT1V0SjNHM3JvQUhOb0t6MXpQOU03ZFhkVUtTTnR1LUFpeHpSRkxQRGVFeWFaUkN3TnFjRUNxQzIxZVJub2Nmcnd2SW9rQXlWOE9YazhvTUhwNjN4SnpwcGJES2RpTGlaMWwtaXduUUh4MTdvYmZVenAxRlJfMWdBQ3p4ZXBhT19FZUdTaWcwYlo3ZlZ5T0lwaG9MX0poY3JFNUJUUHdQemdzQ1dscFhzUDBoZm9xUTIzQThzV1AxSDFXWmV3b3IzakpVWkp0QlVnQ3Zoa05xT0EySDJwQ2RUbUttOXRodXFFM1N6T01jNTU4bE1jSnFLNjdIajFxWTJBbkZ6aGkzYWsxa1E?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 09:18:23 GMT"
+      "title": "India becomes Sophos' top growth market after 60% jump in FY26 business - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOci1ITmpaVElia0tjdHU5THJfdUpZNHROR2Z6LUYzNXZvU2lEUHJ0bzB3bzVPZHVFNVZUZjJ2V3AyMTJvSEltMVN6dm1PWXdwUWlyTE5UQ3dCY1l2QlcybWIzdllDWFJVaE1RRHlGR29KSXBwVmd4YVlwRzVSLXRvSk9zaUMzblZUQXFkUm9keDd0VkxZUjlvMUJyT0hHc3NOc0gzcXRsR2wtVFBwb1J5VWdKU09MalA3NGN0cGptQ0NYc2xRT2ZZcVRNSURZT29CWnJ5aNIB2gFBVV95cUxQYWI1bXVNYkpNSmYxdlI1MUtOVWJ5UjIzbGhVQzJzTHExR2p0TFczVk5MeHZtOFNmSjNuYXdKbjkwLXFYTU9oOWIzTVB4QnFwOENESVJmV0hNdU1mSVBQWlNMRmRPcnlkZ1hhVHdTZG1tRml6TVh0bDlxTHdzb0lIc3hRMjFRbGpVVnE0QVFidFFDWXg5MUhQM0hJYmdSajE5U29zVU1uNmdLRTUyRG94UGw0SmM5WWprRUJIeTFOeHpWaER6MDFQYTlsNTRveDdoektUUm5wZS01QQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 10:24:03 GMT"
     }
   ],
-  "fetchedAt": 1787477749
+  "fetchedAt": 1787481146
 }
