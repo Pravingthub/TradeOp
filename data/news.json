@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "How will Sensex, Nifty behave on Monday? 4 factors to drive D-Street action this week",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/how-will-sensex-nifty-behave-on-monday-4-factors-to-drive-d-street-action-this-week/articleshow/133433930.cms",
+      "pubDate": "Sun, 23 Aug 2026 09:17:51 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-proposes-tighter-curbs-on-promotional-claims-by-online-bond-platforms/articleshow/133424265.cms",
       "pubDate": "Sat, 22 Aug 2026 17:51:46 +0530"
@@ -23,12 +29,6 @@
       "title": "Zee Entertainment allots 20.94 cr convertible warrants to promoter group entity",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/zee-entertainment-allots-20-94-cr-convertible-warrants-to-promoter-group-entity/articleshow/133421533.cms",
       "pubDate": "Sat, 22 Aug 2026 15:21:31 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "CAS chaos triggers liquidity spiral: Nuvama says higher participation needed to break cycle",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-triggers-liquidity-spiral-nuvama-says-higher-participation-needed-to-break-cycle/articleshow/133421238.cms",
-      "pubDate": "Sat, 22 Aug 2026 14:58:53 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,18 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "US Fed chair Warsh's speech to US-Iran war: Top five triggers that may dictate the Indian stock market this week",
+      "link": "https://www.livemint.com/market/stock-market-news/us-fed-chair-warshs-speech-to-us-iran-war-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11787453214240.html",
+      "pubDate": "Sun, 23 Aug 2026 09:31:53 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Stock Market prediction for tomorrow, 24 August 2026: Sensex, Nifty outlook for Monday \u2014 US, South Korea, Taiwan cues",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-24-august-2026-sensex-nifty-outlook-for-monday-us-south-korea-taiwan-cues-11787450741265.html",
+      "pubDate": "Sun, 23 Aug 2026 08:46:40 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Welspun Corp leads as over 10 Nifty 500 stocks gain 10\u201323% this week despite market volatility",
       "link": "https://www.livemint.com/market/stock-market-news/welspun-corp-leads-as-over-10-nifty-500-stocks-gain-10-23-this-week-despite-market-volatility-11787385989520.html",
       "pubDate": "Sun, 23 Aug 2026 07:00:41 +0530"
@@ -77,18 +89,6 @@
       "title": "Korean Traders Chase 40% Coupons as Risk Appetite Survives Rout",
       "link": "https://www.livemint.com/market/korean-traders-chase-40-coupons-as-risk-appetite-survives-rout-11787444779474.html",
       "pubDate": "Sun, 23 Aug 2026 05:56:19 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "SIPs stay above  \u20b930,000 crore: Equity mutual funds smash record as assets hit  \u20b948.5 lakh crore",
-      "link": "https://www.livemint.com/market/sips-stay-above-rs-30-000-crore-equity-mutual-funds-smash-record-as-assets-hit-rs-48-5-lakh-crore-11787408860279.html",
-      "pubDate": "Sat, 22 Aug 2026 20:06:55 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Gold shines, braving odds, rises 17% from June lows \u2014 What\u2019s behind the jump? Will it impact Fed rate cut decision?",
-      "link": "https://www.livemint.com/market/commodities/gold-shines-braving-odds-rises-17-from-june-lows-what-s-behind-the-jump-will-it-impact-fed-rate-cut-decision-11787391720084.html",
-      "pubDate": "Sat, 22 Aug 2026 16:15:43 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Thomas Cook (India) Limited (NSE:THOMASCOOK) Looks Interesting, And It's About To Pay A Dividend - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX3NwLXpaOTQ0bmM2MUVmYlpjUmlqcHJ1UWJoRllyVzlyMkpoM1Foc25yV18zc3J6cVlwa0ZhenZTZ1pyLU52X2ZlX3JkMlZKS3I0M1F0VlhNVFQtWVJqNFpyRHRKWGVRWElENWo3S0ZtQTdOb3RfOWN0OHFGYWQydHVwam9waGZnWFhCMFFMLVpJR3dPRi1XZXgwNm1TRU42bmhIbVVyWWxYQldpUFEyc1F2TmdSWEVmVDlpdkJ2cFBTaUZmOEdvcXpYc1hHck9peXhoWVkzNHBBa0c1TnNpSTExYkJmLXctZXFaRE530gHzAUFVX3lxTFA0ZWdUQ05EUkxSck1zdGYzbjhVUDJydnNQcGQ0WmtqY3ltdlNYV3FxSFdyVTFwZFlfbkxKcnVFMkVvRERiXzlaOGkycE5jcGxZMDBEeGFDOTRLZWN0RVY3SmNCSG5adjRmRHVvNUlXa3IxY0Q2YW51Zy11T3BJaElqenBLc0htOURrV3NSd2szNzlOWmhnR1VrUnQxWWYtM0Z1ZFJnd1o0Y2RVRlVOZmRBMjBYU29wODdsamg2UDNEb3dJeVZKRWM3MVhBTDVPdEJUWjBoTVNRQWdPQURDT3d3TWpjLXpBM3VvUVRXSFdDSGpQZw?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 02:13:56 GMT"
+      "title": "US Fed chair Warsh's speech to US-Iran war: Top five triggers that may dictate the Indian stock market this week - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNNF82dHkybUJUMjZ6Zi1DZ0h5TzgyM2tQdzhhRTRMNk83VUc0RkNnMmVjZ01Tc2ZVODdBQlA3N1FoZ3FCV0JWU2JZWjd3X2EwVHlSSDB0RXRVdldrb3RfRFZIbEVIWXVLSjd5WkpiT1hBem5BN1hBMWtkY1gxbDNjNlZUOE9neXh1c0lpWGFXb1hDSnBaZzBwZXQzZnZGLTg2OUpqLTRILWNnZWxrZlM3aDdrV0UxYXJZVzJtSzhOWnl2cDZXbDBCSEpYTWdJRzJOMXkxTXJySXU1RHFyZUN2aUc1bkFTTlRaYmQ5aHdUN3Qzdm9HZEtyN0lnTWZkckF4c1dzQllmNFRaMy10NVhMamJR0gGSAkFVX3lxTE00XzZ0eTJtQlQyNnpmLUNnSHlPODIza1B3OGFFNEw2TzdVRzRGQ2cyZWNnTVNzZlU4N0FCUDc3UWhncUJXQlZTYllaN3dfYTBUeVJIMHRFdFV2V2tvdF9EVkhsRUhZdUtKN3laSmJPWEF6bkE3WEExa2RjWDFsM2M2VlQ4T2d5eHVzSWlYYVdvWENKcFpnMHBldDNmdkYtODY5SmotNEgtY2dlbGtmUzdoN2tXRTFhcllXMm1LOE5aeXZwNldsMEJISlhNZ0lHMk4xeTFNcnJJdTVEcXJlQ3ZpRzVuQVNOVFpiZDlod1Q3dDN2b0dkS3I3SWdNZmRyQXhzV3NCWWY0VFozLXQ1WExqYlE?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 04:01:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Transshipment scam or efficient supply chain? How U.S. firms turn it into profit? - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjBRX040cUUxWnVhMENUdy1zQnZKUWlySWZhcmtkMFpmckJpeDJBWlNRNHpUR1g4TUtFNjgzUmZvRGV4TE5FVTRwdHFJajBaUVJDZG1jbHo1Nl9hektOY2dSMEV4NEx1b25GTTlNSVRKeEFUMEl4S0JINmVIVlJ2YjFnZGxBcE9rWUxzQkVLMzRTUzZtNm9JVjdBTXJiT2M5VWpvRHlkM0hoZFJFbWRoNV9iQ3ZKYUZWY2xXcmllcThnSXV0bzN5TFBSTdIB0gFBVV95cUxQY3VLRGxrMjlKTUN4enRsUkpOd3A0UFpUSGZKWXBidDdrSVktVVRGbDF5WFZlWVUxdmJYc2daWmNHS0F0YXo0QXFXUGplVUF6ekZjNHlYWEZINEhIREh1dWZsQmR3WF9CM0FwdzFFYWlnd2s4a0wtRzZRVW4xZnRYMzBwTkozcVdHS21JM01BaGVGVGRFMUh4VXpvYnFDNGdmR0tZZ010V0lrM0JSYW5tZUlTanNSOWhRTUNpSXVKLWFqc0g5NkZObEJ0MnA2a2poYmc?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 02:40:10 GMT"
+      "title": "How will Sensex, Nifty behave on Monday? 4 factors to drive D-Street action this week - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUWFfNFJ3ZG11RUVQdmEtUlBUUDlTQ2ZjaDJiU0N1R01JdlR2b0NWZXhpT3JuTmZMV0RpWnNTVWVxdlhyTWg3Q0hKcmVFaW5iUklQQ1BieXl6bUE3Nk1XOEkxZml6Qk9SQ1U0MVNCdDRZaWh3THBpSzRRTmdLSFhQZjZQRFJUVS0tY0Y1TFdRX19ram9TWDV4MkJ3RHVUakxYX2Foam40MzBmTXVFVnBQOFpwS09sSWRpQ2tfNlVGMnpHOE1iZ2ZldWxXbmdBWEo3ZDQtbndQZEVyMnF1RUdjU0ZLZGNFQ0VkTUxZRFVn0gHzAUFVX3lxTE54YW1lRXZmRWFERTlEb0JvRmF2cUwyWGtDU3ZXVnE3NXVIMVVmd3JwNTFfdFAxREJWOHpvdVFXU3hkUFRlUHVpRDd0UmU2X3NxQURDODBQTkJxUlF2TG0zSWR6d05OVkpaYzlCdGtMZERfUG9BU1hMcDVrMmZpRWNET0VVMFcwMmFvU3huazRBMFdWbUk0SElNMmE5Z0NNSUNqc1JPOFIxVlFqTW43VUlNZDBMUVB2TnVRVjJXaWw2OHdSSmRkMVVEbzN4WU1UZFJqMFBxSTQ2aDN1cHhzOWpoS0ticG1UbFJxSk4wV1pBeTlJVQ?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 03:47:51 GMT"
     },
     {
       "src": "Google India News",
-      "title": "5 Green Energy Stocks with Strong Future Roadmaps - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CYkszTDdGY3lPcGs5aW00bEpINGhvTS1hd0FCcHF6UVBWQ2stVW5sNXFfOG9iaHNrQ3dJUXRyd0djZUtWY3Z3ZlNhOWYwUHMwSTdlX0t5QkNHOE1oS0k3U1hYWENHSHJqR0F6ckRNQQ?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 02:30:00 GMT"
+      "title": "'Foreign investors' buying continues amid strong GDP, earnings growth - Investment Guru India",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2JnSUVyS3cxMDdoZ1JmMERaV19iYUJOQ3ZMdGJfSFdHMTNUM3E0SDc3MVVDMlB6N3J6UzAxYlFVY050YjZxVHg2cE9BMDg4R2RfTDNOSkdiNW40VmJLTzFoNnVWYWJCam05OGF2ek5xMzVxT2pOLVFOV0dUREt1NkRLZ3Q5NkQzT0U2ZFVPckx5Sm8tS0RaZWZ6OWdCUzhkb2h3OXVEQTd0VmNkNU5DRXRodkk4aFk?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 04:39:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Korean traders chase 40% coupons as risk appetite survives rout - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdXJvY0V6MUM4UDIwX05qUEhfN19IODluMGF0OTNFSXg0eGJOVkxQYklRVFdGSmhhRkJBTHJPVXF5dFhTUk5ublF0S3NsdE1MU2xTaVhQNnZVdDlnWXRMWEk3YWEyOXQ0Q0g4VHVldERORTc4cmh1OE5GZ1E1bm9RMTRFTzBCckJrYjVBZVFqQ0U2TnVURXBQRGRScktlQmRlVndTbWJhUE9CaTYtMzFEZkJKUnNpSGtXNmln0gHAAUFVX3lxTE50NHdoa1FHSG1BRUxyM0pNSXVadUxmb0pHVWh6a1hlUjBPb3hlbFV4NzJxbmtlekppTzRWQTVYaGtoZXctMnhwLTh2WFZmcmJBZzZIV1kyMWJLYUdQcVh2SHdRaGZOWnpzbmo0Wk11M2xjWElweW93b0UtdGZqNkN3Uk5vWTRZdnFfNDhQMldtc01BblRudWYyRnR0N2RheW8wOGdHRDl6UG1DLWt0di00NFFBSDk1cWFjWW15ZmtLaA?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 02:23:58 GMT"
+      "title": "National Space Day 2026: From bicycles to global space leadership, ISRO chief recalls India's journey - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPTGlUdVlpb2U4a0M3QVI4a0F1RHBRODVoUzVWVWJqZWdwblJGQmNLdmhIX1ZHVmRwOWJhUHhDQ1hwbG9Da1pUb1JsWW00ekdfM2VCLWx1eHVvRGdHOWczYWtIZmpZTXF1ZUw3SFpMMGdpdlNDVEtJUlROcmRBWTBrWHh3bktRc2xOSWRwTnc0ZEFaY2d2RGMxdWFLZGRDUUNMTkdhQ2VXSWRvdm5DOTVTaVpHdGd6c2dJUkgyZnJ0RXE5UWxTd0Z0X1RQVk50TmFzTmstQlRMTkpnNkN4NEM5Qm1fc2I2NWowTTdPZU9oVS1DOWVhX2UtUlEwa0l0ZlJ0eDZWYS1YZ2pXQlVoRjg3QjBFbkJxQ3NmWkJWMGVIVGY4N0hCbTJHeHliZ3VHYVNISVlfeXY3NU85TzZOTW0yMk4wZDRGeHNMOXBKSl93ajZRTUp6YXlQVU1IdFF2d1pIUlE?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 04:14:48 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Kotak Corporate Bond Fund Direct - IDCW (\u20b9 997.90) - NAV, Reviews & asset allocation - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYlZFUHNkdlVURnJLc1kyN0VVWXd5WnVMOXFITE1kT1BnVDZzSGZpb2FFcDFRVTNON1BnQWhoaGNaeVlTZF9KaVBFbzU3TzU4Mjk2ZlYzRVZkV0YteUtoNlU3bG1FVThOYUFRRi0xODA4TVdSZWk5TTJwTEIwSXhQYnh4cmRpYklRSlBZa0xEdVBUc1d0bExKX1dfekVyOEc1dFFneFNGYjF6Q0E4ZW8w?oc=5",
-      "pubDate": "Sun, 23 Aug 2026 02:14:36 GMT"
+      "title": "LIVE | PM Modi interacts with startup CEOs from Space Sector - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbm1mS2oxQ2VFTFZOdFVyX2FPdWVHeHAyc3dSdzZ1Mm1TMmwwWmlUUk1iYU1lcWRHaFlQcWdoZUJiemI4LTZXdUc0TDN4ekZGZzVfMFRpMldabUhqYXFWeXlGM1NvZkN5bVUyb3dzWDVxdEkzSndRenFNQThfRENBV05hNmZoZ0hHMk05T28tT2d0RW91eko0M1VpcUhMaUNPOWtBaWt4emkyUnFTUHNNS1lQV0lCYTVIcklOQnkzQ2jSAcYBQVVfeXFMUDlwLW8xNVdwcmxfUDhSX3p1UFhuakpZVGptZC1scFJuSGVEaHNlZVJCLWc4aUgxYTU5ZlVzTVg4YkpWSFJ6akJCV2l5QTdVcm1QWk9OZlZjVnR5Tzg2RUUxVWliWkktSVFWeHJWX1gxekxyRkJJRnVHMi1BTElWV3NKNUUzd2w1cE9hSl93bUtScUZCQUpzM0NQM3hfd29wT1NPV18tOXFwTXU3U0VMYWxRRGZ2V2VibkowMlNNZFZmVHBhcVRn?oc=5",
+      "pubDate": "Sun, 23 Aug 2026 04:37:34 GMT"
     }
   ],
-  "fetchedAt": 1787454692
+  "fetchedAt": 1787460365
 }
