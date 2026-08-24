@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "ICICI raises $1 billion, Union Bank $600 million through dollar bonds",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/icici-raises-1-billion-union-bank-600-million-through-dollar-bonds/articleshow/133470684.cms",
+      "pubDate": "Mon, 24 Aug 2026 19:57:07 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Govt to sell up to 6% stake in Hindustan Copper via OFS; floor price at 10% discount",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/govt-to-sell-up-to-6-stake-in-hindustan-copper-via-ofs-floor-price-at-10-discount/articleshow/133469842.cms",
+      "pubDate": "Mon, 24 Aug 2026 19:30:20 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks today:US stocks open lower as high-stakes Iran, inflation tests loom",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-todayus-stocks-open-lower-as-high-stakes-iran-inflation-tests-loom/articleshow/133468732.cms",
       "pubDate": "Mon, 24 Aug 2026 19:10:46 +0530"
@@ -19,16 +31,10 @@
       "pubDate": "Mon, 24 Aug 2026 18:39:55 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Sebi introduces IT Resilience Index for market infrastructure institutions: Here's what you need to know",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-introduces-it-resilience-index-for-market-infrastructure-institutions-heres-what-you-need-to-know/articleshow/133466515.cms",
-      "pubDate": "Mon, 24 Aug 2026 18:18:51 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Global Markets: Fast-fashion giant Shein shrinks value to up to $27 billion in Hong Kong IPO",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-fast-fashion-giant-shein-shrinks-value-to-up-to-27-billion-in-hong-kong-ipo/articleshow/133466240.cms",
-      "pubDate": "Mon, 24 Aug 2026 18:06:02 +0530"
+      "src": "Business Standard",
+      "title": "PFC withdraws three-year bond issue as yields remain elevated in market",
+      "link": "https://www.business-standard.com/markets/news/pfc-withdraws-three-year-bond-issue-as-yields-remain-elevated-in-market-126082401105_1.html",
+      "pubDate": "Mon, 24 Aug 2026 19:20:39 +0530"
     },
     {
       "src": "Business Standard",
@@ -55,10 +61,16 @@
       "pubDate": "Mon, 24 Aug 2026 17:50:26 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Pace Digitek arm secures BESS project of Rs 93 cr",
-      "link": "https://www.business-standard.com/markets/capital-market-news/pace-digitek-arm-secures-bess-project-of-rs-93-cr-126082400954_1.html",
-      "pubDate": "Mon, 24 Aug 2026 17:50:19 +0530"
+      "src": "LiveMint Markets",
+      "title": "Hindustan Copper OFS: Government to sell up to 6% stake at  \u20b9514 per share, 10% below market price",
+      "link": "https://www.livemint.com/market/stock-market-news/hindustan-copper-ofs-government-to-sell-up-to-6-stake-at-rs-514-per-share-10-below-market-price-11787579800581.html",
+      "pubDate": "Mon, 24 Aug 2026 19:39:23 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Wall Street stocks fall as Iran tensions, Nvidia earnings and inflation data in focus; Marvell and Micron drop 6% each",
+      "link": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-fall-as-iran-tensions-nvidia-earnings-and-inflation-data-in-focus-11787579304844.html",
+      "pubDate": "Mon, 24 Aug 2026 19:32:07 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -79,16 +91,22 @@
       "pubDate": "Mon, 24 Aug 2026 18:05:14 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Bajaj Finance, HDFC Life to Nippon Life India AMC: Mirae Asset Sharekhan recommends 11 BFSI stocks to buy for long term",
-      "link": "https://www.livemint.com/market/stock-market-news/bajaj-finance-hdfc-life-to-nippon-life-india-amc-mirae-asset-sharekhan-recommends-11-bfsi-stocks-to-buy-for-long-term-11787568683714.html",
-      "pubDate": "Mon, 24 Aug 2026 17:06:39 +0530"
+      "src": "CNBC TV18",
+      "title": "Stocks to watch for Aug 25: TCS, Suzlon Energy, ICICI Bank, Hindustan Copper and more",
+      "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-aug-25-tcs-suzlon-energy-icici-bank-hindustan-copper-and-more-19975876.htm",
+      "pubDate": "Mon, 24 Aug 2026 19:57:21 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Stock market prediction tomorrow, 25 August: What will happen to Sensex, Nifty Bank, Nifty, KOSPI, Nikkei on Tuesday?",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-tomorrow-25-august-what-will-happen-in-sensex-nifty-bank-nifty-kospi-nikkei-on-tuesday-11787568302143.html",
-      "pubDate": "Mon, 24 Aug 2026 16:51:30 +0530"
+      "src": "CNBC TV18",
+      "title": "Nifty Outlook for August 25: Index trades in 24,000-24,400 range; breakout likely to dictate next move",
+      "link": "https://www.cnbctv18.com/market/nifty-outlook-tuesday-august-25-index-trades-in-24000-24400-range-breakout-likely-to-dictate-next-move-19975965.htm",
+      "pubDate": "Mon, 24 Aug 2026 19:52:18 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Hindustan Copper OFS: Govt eyes nearly \u20b93,000 crore from up to 6% stake sale",
+      "link": "https://www.cnbctv18.com/market/hindustan-copper-ofs-govt-eyes-nearly-rs-3000-crore-from-up-to-6-pc-stake-sale-19975913.htm",
+      "pubDate": "Mon, 24 Aug 2026 19:28:19 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -103,53 +121,35 @@
       "pubDate": "Mon, 24 Aug 2026 19:11:42 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "FIIs reverse selling trend, turn net buyers at \u20b91,182 crore; DIIs add \u20b92,493 crore",
-      "link": "https://www.cnbctv18.com/market/fiis-reverse-selling-trend-turn-net-buyers-at-%25e2%2582%25b91182-crore-diis-add-%25e2%2582%25b92493-crore-19975904.htm",
-      "pubDate": "Mon, 24 Aug 2026 19:10:25 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "UCO Bank board approves plan to raise up to $1 billion through foreign currency debt",
-      "link": "https://www.cnbctv18.com/business/companies/uco-bank-board-approves-raising-up-to-usd1-billion-via-debt-instruments-under-mtn-programme-19975890.htm",
-      "pubDate": "Mon, 24 Aug 2026 19:09:03 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Afcons wins \u20b9335.5 crore arbitration award in dispute with UP expressway authority",
-      "link": "https://www.cnbctv18.com/business/companies/afcons-wins-rs335-5-crore-arbitration-award-in-dispute-with-up-expressway-authority-19975895.htm",
-      "pubDate": "Mon, 24 Aug 2026 19:03:21 +0530"
+      "src": "Google India News",
+      "title": "US stock market today: Wall Street subdued ahead of key earnings; bond market in focus - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNUGtvX2ZXaEJVaDZaT1dZOXJWOVJBcWhjcHl3TVBkR0oyc214M3pYc3poeHJWTWl5dTNmT1MxSnZ3NEdjZTJJUjJ1YkZwSEJlVkpHcDRtLV9POFo1NmFhb2YwU0VmaVdIVTVxYVVUT2pJZFUwWnFnaElUQlR5ekFka0dseE9tRVRlOFdzcUE1cW1IUGJPSUY5d1VlbmtjU1lEU2dwckZEVHBwNVd5aExaVkoxVUZsVlQ0LW1tWHBzUW80ekRMMXE3RnpuTk5MTW9JY2JoOFhsZGtfaFEyUGpLMnRjY2ZLRllDdkNJWk96bVpncVFMZl9jUkptb1pYV2k5VHZmeUdfZFllZjJ0NTk3R3ZYSUxxMmNhLUZkNGdGZWVfbWxGa0Z5ZVRrVFh1bkN6S2E1UVlwVWVJWW5vQ3dkTjh5REY1THQx0gHOAkFVX3lxTE9JRHFUOUhmOHFsVmJ4OXJCcjhCbDZOZWpqSDU5S2x2UVpDQWFqRWFtbWM0RDdSQmNnVTRVaERwb05iaTBGdzBpR1NNdndWa19PM2tmZlpFakR0N0pEQXlsV2JYRWZPQ1RBTmk2aTh6RmlwMmtNandrU2Z3dUFZMmJvamNPYmhBOFZUVTRGel9DNmpwQzhQRDhZNkFKZzNSclJfMGpYdE9tbjBoUzlGT0dmUnJmdlpXTG1SdmVqLTZCSzRwa3YtNk1GVkhEWHRDQVZLbUI4YmtSOUlwVVA0Y1dFeHlwTDZnaFZqVEw3RlVUbHVvLXZyNU9fRjhiaHBhRVpBSUxYRUx4YUpKclhRWE9mRWFYTWtJZzBER1AxOTRIQWJlR3d6N0VuOU05WFNIVGlpV3ZDYTNWZHdWbG9VQU9JeWV6QUNUWjRpTTM0YVE?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:19:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "US stock market today: Tech stocks pull NASDAQ 100 nearly 300 pts lower; Dow Jones trades in green - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcGFtc3ZKRWFGOWZlUU9aYmo2SlJNWlJfUkEtcTZKOWY4emZXUGRIUGY2cGtPc0tZdUNWTzQ1amJSSnlwbjBvS1BFOWtlbER4YmQwRFMtRkxDLTJRT2NoNV9lWDVqRmhhT0NrYlJDZlFFMUo2b25HWWVhYnlIdkp1dW4zdHNtZ2ZzalVhWm1YdlllX2tzbGxSZGNkV3N4THp2TTRSeEZNdG41OXoxUmhTc1NLX0RPWjFOZndCVjJuVk94QXRpRWY5YzNzUnZjcVpHQzhVMjJhRExPdzVHNDh5WUNkOUw2ckItUzVpSUQ2SQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:52:05 GMT"
+      "title": "Sebi seeks inclusion of fractional shares in Companies Amendment Bill - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdTJUNEJ1WnlPdjdRQkl4clJfd3haTnRDc3RPMkttX1k4a1hFUXhWcmlpb1o1VklQaE1oSkFiRVBqeWJHN1ljYVJrYm1LMy1QWThwdjhMLUpkTWd2V0xpaG9lRVdLMGFfOW9KU0dzWDhkQl9kcHExN2dUOWxwUjVtY01IeVRtMzVpT2FoblZZUGZmUF84cUZnb3BQSGZtVGtJWVJOWEhYTkdmS0ZxX3ZhVGNBQ1RUVEtfOGVBSUF3aXdRbHVTSmhvTXJjVdIB0AFBVV95cUxNeUNOWkxHTlBzamFtWXVfdDhZOXRFQm9JWlRTQUs4b01mWmFjaldPSndsVjBkTHFLOFdJNG9kVzF2M254Qk9jSzJuYzlsN244Ry1EakxTRHlxeUJxWm5adkdXX1g3ZzhGMWFPeGwteThiRTVLUTg4RVdzSC0tcUhvOWdYbzFjOEJnQUUtdHZyd0piV0ViSENrSnF4STNEV2JnV1U3VUtoN2ZUMkgzdlA2cktDZFMwZjFFdWlId2RwUFlkdVR5aUxzLUZxdERjaVFK?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:32:41 GMT"
     },
     {
       "src": "Google India News",
-      "title": "PFC withdraws three-year bond issue as yields remain elevated in market - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOHJmd0I2RVVlTFM4cllrNlFTbURwOHFaOU5tbDM1aGZkUDJ4ZWhYMDdQYWxpV1gwWkl6OXd6ZzZXWUlTMmdtY3ZBRjNmbTZOWUV0aDRRaVQ1UFRMNU0xTHlEbmkySVhvSHNlazZUSjlWS0pSMXRaY2NmcGNSbVJ1MDBHWWZlcHhHZGRLNDRRTnJDcFVUQ3dJaVNBc051TFgwZnZTN0c3dTY3RTAxOTYxeHhXeEpSa25nczlqSDdicUkxaEJKX2oyMnhvbVJCRW5sSW4zNtIB2gFBVV95cUxNRWhrVnVLbmYyemJBTTZONkFpeFc1UEFFdzRwZ05PMG1pdW9fWGZEc0MwVXRQcWVoYWxNdmxnNnQ2NlRNQ0dLVk1hSjJhMWRUWFlQdkpKQkJVTk10dm44QTg5VWFYR2ExaFZYTkJaTHowWTBIMzhEaGJUdFFIT2JPUGozUGc1RE1nOGdPbFN2cENHMVdwbng4S0xUcXpBckowdjR1V21tMVZ3VVllRmlMN3AwVGo0NThyT3VyaHl1NlpHRVJjTl9NQ1V3UE14Z2ZmbDJjNWJJcEROdw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:50:39 GMT"
+      "title": "Coal India shares in focus after company incorporates Singapore-based wholly owned subsidiary - Upstox",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxONWNZSk9XRGJNek1JQ3U3Wk10UlU0ajNGR2VUZjNZSkVEOU1XaE1Od0dUcW42SEctZVFNZU5uYjYxeFJsOWRoNXByVk5SSzgya1Y5ZlV5Tm9PSkFtZk9CRWhGZ01GNjJzVGhZWGZEeW1jUWRiMDdzZm5EcE02V3poUks0bS1Mb0RYaU1vWGhLMThkeFRhR1VyXzFYdXJEd01UTWNyM1ktX3VOVDZLTXRubXhMWElyOENiRW43SjhyaVFOOFNkNkFPTExrQm9ZWUotSmJJdTlUTGk5VXZscDF4T2h1cTgtc2c?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 13:57:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ceigall India bags \u20b9705 crore Frontier Highway project in Arunachal Pradesh - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNMFVPUUo3eFYxRWVLQmRvel80anVsaDBuU3MwXzk3R01QMzRvY1pKR1ktSWdNVF9hNWlwQU1pdllpZmVJc09OY25UV0NpZHFra3ZNRTg5SWx0bF82R0FOR29qSUZkQ3ljTmxWYUtIbEdtSi04aUdiamwxQWpqWTFLR3doSVBiWDlYY2lZM1pLS19OX3lmOGxfLW02a0ZtRGdCcy1nTHZKak9NR2ota0dNVVowYk16djdEVzRuTUJuNWVXY29oWkl6U1F6YWtfcVZvamI2TERic1h3X3NXaG8tQtIB5gFBVV95cUxNek50RVVlMWU3eVZUQ3BnODV2VEl4dFNJejRIc2JSTy05MlB0R3RrWTNIX2VOT0hSdDVkUDdIWmdWQ2I2NjZkWkU0NVNVSVMtWGtxTFN3SHVYUEJzZmhmN1FIN3NnQVdFdWNpT1BhN0REV04zTXlISjRqTmVILTFIS3R3Y2l4WjB2THFLcWk2ZmtXYTJwcnhPOVdTWG12MzhJSExGbjZmeVlzY3lEdURuZEY4cnhMMUFXQVhldUNzOXo5RDVlZGVmdkE3OW1wRU9VZEUtcFZOS3RhamQ0cHpQY2Q1Uk5vUQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:52:48 GMT"
+      "title": "Hindustan Copper OFS: Government to sell up to 6% stake at \u20b9514 per share, 10% below market price - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaWp6dG01Y2Raa1ctWjg0dGpodXBFd2dZTmRuRzJIcjNsck1NUndud0FwSlkyY29LN01kZkpMWDNmNmN4ZU85b0EzdDV0SjB2a2xYWXhNVFE4Smxtb2pFUkMzMFZkUlI2SW1pU0hlRTV3aGNvZTlaNXB3eXlRM3hyU3A1VUk2Unp2TThocFJLLWpZQ2RfbjVOWnVBUWpEM0c0cjV3dGUxd0JqWUJKTXVLenE2NU1uS0c4akNzdFhWWV9LSFJWOE9ZWWdIWDJmZEwwUWlxRVBLNUVLbDhJaF9iYkNDQ2FaOVJ0R2RDandEdHlwODBoR2tSZtIB_gFBVV95cUxPUWlNMi1oZWN1aDVaWHd1YXVDRFVsME5jN3phYUhXQ0hDOUdkMUdKUGRmbkh5Y0RLaXVIMjlzODlKOXI4c0kwelJRLVliRk5uN2x1clRoNTlnR0xTYmh0MEFtTUg3NHBEUVZxczcyamZYSmZ4WEtkSzN4OHBVeWRfNlQtY01udF9TdS11TEV4N1FycFNUNVFvRzZhWXN1eDRqeldpeVpwNGxSM1lXbzhMXzBOdWVXX2JBSWVFelVIYS13Tm84UmJibS1OVEN5cFNFSHJiVGtFc094WWJqQ1JfT0JzWDVaRlRkWnhQM1g1VHJNUTFOWFRhVTJLMGFvQQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:09:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "JPMorgan unit to argue India regulatory breach was technical - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjQtWFV1cEdmbHJ6SDYxNWlvVEpoMVBQMmxpSlp4d3V2TFJMcmlhcmxOVy1fZUt3NjZOQ2RMM29pU0NnYWRzWS0taDUwS0twXzNHbjZlMHpqTFVfczBvcUk1dl95RzdOb0ZEdTZ1SVc3RDc0OWJlY09wSFhVaUZzWldnVVNaUUtGN21XY1lDVnlmX216VV9pMDMyMXplajNpNzNTaWdQUUfSAa4BQVVfeXFMT2doMUl1QmpRWlZ5VVd2MGJ6RjhIZDhjQmt3TFRLR0lCRFBQQUlVUU5iWm9xckdNN2Y0QUdGbmFuMnpVUFRQMGgxMFJRT1FEVjFxTWtUSlBrMExycWxiVWh0Q3VBMjhfS282WXJtYVBReHJ5V0tWbHZudlEzZzlOcEo1aXFsUnVfM2tkV1lNallxLS1LSkhqa0lyZWF3TUJYVlNCdVp1ZUVubFFfcU5n?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:29:18 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Indian MFs register fastest growth globally in last 5 years - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRU5Bang5c2NOV0JzVlRzdHlxbHk4SUpQQ0p5djFwXzhXSlJhTEhkemdyMXdRb1ktNllrTWJ0VHd0WUk4YTB3YndsQjU5Si04YmVETnRMTGRRdVVjVWZJeTlHMEFUZTNjWnF3RWNtLUthMGNmaGR3NHRPWmVHU3I2THlxQ0ZidlNsR1ViQTBpcG1LeDV0SEpDUG5veDhXb0FJY3g2c1hoNTVsZHp1dXVIUUZDN2FpNXJqd21PdjNKTXDSAccBQVVfeXFMUDdrRHF1bGNiTDhhQlcxbWx2b2gxOV9YVzV1bm13S3JaNWhQckwtNm1ZTUFXNERKSERSaDAwczdaY1dONGV4bjRtQUVUaXpVWGhRWF83bWNRX3lEVml3UUpGbldZSDlqbmtKc3EwcEdkcDAwVjYta21HbC15aWxxU0ItaE4wQmlsMGE3cEtvc3ZBai1vOVdYLVlsTEpmN0JhdEkwVWlZQU9iampDRG5wMTh3dzZ1YmIycmZja29kM2Z2QUNFR2gxbw?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 13:49:11 GMT"
+      "title": "Govt to sell up to 6% stake in Hindustan Copper via OFS; floor price at 10% discount - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQd3BRM3hpTlVPYkh5V08tb0hRZERQWkRRdVBqZ0ZTX3I5OUNFYmhteXhhV1NDWnM1UFRBcEJsRk11Qi1ldVVlUE5LODJnVm5lNDVUTFRJTDRsOGhvUGM5WFRrcUxscWtlZm9RR2cya2R1ZGw1elREMGVPS040dER2blN3UGs1eFVGdWJFYVJoenUzLS14TnZFVGFHVmIzLTlvUUdhSDZwcWIwQk9WWjRfaWZvRGs1RUFsRWhmLTZpSDVCaXZGMTNxM1hEV1poVVV6dU9HaVYzekx6b3FiMWhNY2NoRnNCT1V1bGVZ0gHwAUFVX3lxTFBFOG0yVi1YTzNOWXQ0M2xSazBHaW5kVnVkZGJFSURPbTFMTDc4YnFTcWRlWGtFek9TQXo5eHpPR1VEbXprWXB1QlhIdnZkdW9rZVRJNUNlTHFodElpQmo2SzJ4TGswMTdBbjd6cmZqbmhmZlNNVnd5QkE1RGxUZUtYWmRlNEZzNHVEdEUzWEVYTFMtRmEzZ1kyQXRBbkI5LXlMSWtaaTI5cW1FZnVWRFlnZ0hrRDNfNEx5Z1FqNl9Cci13UzJaZmE3QjNIVzExZDZ4eEg4bDNOazMyNjBTSUVTNldyalBhTVdEMTZCVEJRUQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 14:00:20 GMT"
     }
   ],
-  "fetchedAt": 1787580156
+  "fetchedAt": 1787583404
 }
