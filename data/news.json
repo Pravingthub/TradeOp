@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Donald Trump bought up to $50,000 worth SpaceX shares in June, financial disclosure shows",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/donald-trump-bought-up-to-50000-worth-spacex-shares-in-june-financial-disclosure-shows/articleshow/133476208.cms",
+      "pubDate": "Mon, 24 Aug 2026 23:57:35 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Gold rallies past three-month high as Treasury buyback and weak dollar boost demand",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-rallies-past-three-month-high-as-treasury-buyback-and-weak-dollar-boost-demand/articleshow/133473806.cms",
       "pubDate": "Mon, 24 Aug 2026 22:31:48 +0530"
@@ -23,12 +29,6 @@
       "title": "SoftBank pares nearly 2.6% stake in Lenskart for Rs 2,888 crore",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/softbank-pares-nearly-2-6-stake-in-lenskart-for-rs-2888-crore/articleshow/133472713.cms",
       "pubDate": "Mon, 24 Aug 2026 21:23:30 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/133472692.cms",
-      "pubDate": "Mon, 24 Aug 2026 21:21:36 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Sebi drops fraud, disclosure charges in Max-Axis Bank case",
+      "link": "https://www.livemint.com/market/sebi-drops-fraud-disclosure-charges-in-max-axis-bank-case-11787591557710.html",
+      "pubDate": "Mon, 24 Aug 2026 23:30:25 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Shein IPO: Fast fashion retailer eyes $27 billion price tag in long-awaited Hong Kong listing \u2014 What we know",
       "link": "https://www.livemint.com/market/ipo/shein-ipo-fast-fashion-retailer-27-billion-price-tag-valuation-long-wait-hong-kong-public-listing-stock-markets-investor-11787578639325.html",
       "pubDate": "Mon, 24 Aug 2026 21:53:33 +0530"
@@ -85,10 +91,22 @@
       "pubDate": "Mon, 24 Aug 2026 19:39:23 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall Street stocks mostly fall as Iran tensions, Nvidia earnings in focus; Marvell and Micron drop 6% each",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-stocks-fall-as-iran-tensions-nvidia-earnings-and-inflation-data-in-focus-11787579304844.html",
-      "pubDate": "Mon, 24 Aug 2026 19:32:07 +0530"
+      "src": "CNBC TV18",
+      "title": "IDFC FIRST Bank taps overseas bond market again, raises $350 million at 5.8%",
+      "link": "https://www.cnbctv18.com/market/stocks/idfc-first-bank-prices-usd-350-million-senior-notes-takes-august-bond-issuances-to-usd-950-million-19976113.htm",
+      "pubDate": "Tue, 25 Aug 2026 00:01:11 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Trump invested up to $50,000 in Elon Musk\u2019s SpaceX in June, disclosure shows",
+      "link": "https://www.cnbctv18.com/world/donald-trump-invested-up-to-50000-in-spacex-financial-disclosure-19976120.htm",
+      "pubDate": "Mon, 24 Aug 2026 23:50:05 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Inside the IHCL-Oriental Hotels merger deal: What investors need to know",
+      "link": "https://www.cnbctv18.com/photos/market/indian-hotel-ihcl-oriental-hotels-merger-deal-share-swap-ratio-what-investors-should-know-19976095.htm",
+      "pubDate": "Mon, 24 Aug 2026 23:27:08 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -103,53 +121,35 @@
       "pubDate": "Mon, 24 Aug 2026 22:06:47 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Piramal Finance board approves \u20b92,100 crore fundraise via QIP",
-      "link": "https://www.cnbctv18.com/business/companies/piramal-finance-board-approves-fundraise-via-qip-check-detail-19976051.htm",
-      "pubDate": "Mon, 24 Aug 2026 22:16:58 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Y Combinator sells \u20b9970 crore worth of Meesho shares; here\u2019s who bought them",
-      "link": "https://www.cnbctv18.com/market/stocks/meesho-block-deal-y-combinator-sells-1-05-pc-stake-for-rs-970-crore-19976026.htm",
-      "pubDate": "Mon, 24 Aug 2026 21:24:12 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the August 25 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-august-25-trading-session-19975957.htm",
-      "pubDate": "Mon, 24 Aug 2026 20:43:36 +0530"
+      "src": "Google India News",
+      "title": "India Prices Nearly $10 Billion of Equity Deals in August, Setting Monthly Record - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzbDVWa00xcThxQ09tb0VlMTNNY2lHbmltWVhQRVZSTFVrX0pGMU5fNFlXeVExWXdSYVpUQVZaQ3JDZmQ3cW8zY0ZaN3RZWlc0S2w3UTM5ZXVwcTU3MjVDWFliaE1VZUVJTTc2R1JKVlNERlVqTVE?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 18:06:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "JPMorgan India unit to argue that any regulatory breach was technical - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYnRVTUd4QU9DQnI1c0RMY1VqSDdWUjNXVzNKUmNhdGttUkRHNnZGbXpKRE1UTDctMHpocE5TOTZNcjh5VE14VnpGVUdkZzFSYzQwT3lDUVdySGtPU1BWX2l0V1IwMV9aMnE1YlhNR3F5X1pwRjZGaU5iRTh1TE80MzZYTTFiUVNnVU5uZmdKRVBwVGVzNzZEdTRxNWh2cFdfUFdLRUpqa0tYSXFBWTk5NFVzTmtmOHAtOXo4d3k5YVNlUXpWaC1mQ1NBWHRaeXY4RVHSAdcBQVVfeXFMUDRDcXlMZ3ZLdzdwWkZGTUM0V2hiWEgzdUlEYUJTRm5ESW94MDBoREtQSXJSNzZoWldfVlY0TkdEVEtXazVmcHpodU9IQjMzN1dubTVfXzYtbjFDMUhQYm9rdWZBakU4MG1kSlF4eGVqUUdjS2o2UVhLOGZlWXBkNlB5ckFvWWwybnhzTWdaQTNsUS1zNHpLLXhBRVZZNXctdkIyWEtQWmt2ZW9EUjNxRGdMN1JZTDFNNDM3bHNVTEJBOHZzWHFMc0N0Ti1XUWhSZ2dqVnU5MGs?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:12:01 GMT"
+      "title": "'Op Economic outcast\u2019: Bessent reveals Trump\u2019s \u2018Economic D-Day\u2019 against Iran, 'entering endgame' - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMk1sMUNPbFlUYTJ0QXF4SmFhaHJjWTdSSUpKSUo3eWlveTRRZWtJZHQxX2p3Ynp6Z2ZJQnZWejk5aW90U1dSc21rM0lWVVBvNmtxcG1SdnNhMTh4TzNFOUJ3cDIwWjFXRjJVeHRLdU1wamx6c0dlTkRsS3FIanpQaVBzbkpHN2kyaVFQWHB1MTBzYkJFb3U4aWRjTEVsWmtrNzRTbmJCQno0VTU1MThRcmlyaHNIWDJyM0x4eVVnVlNTdEkyQU53cmxPUGpzdE0zbnZfTUNTYUt5d29DMUQxVWhzY3NweEM4R1pNZTMwcDFKc3VYdlI5N0JZRTAtd9IBgwJBVV95cUxQZ0FYakxfeDBxS1FnYWg5TGxNWHc4V3ZqcjJabmtsSEllUXcyNTRjY2pLMU40OW9ETHhMRlR0aTZPTmdzSFlVczgwWUhjRTdqVEV3eWhCc0s4ZVNiblNBWXg3OE9uNGsyTF83NE9uSkJJaWlHZnkxVHJlT284SDJGbkFmSVBBeDk2QVUzMHFTZFdDVml3WjRwWFhrdklQRE5ybzEwc3lkbU54TnFBMW50U1RMRjZFc24wM1RTQjFoS21WazYxLXdkQWJRVFBOYkMtQXV2S3ZSWXpDVHZSamotNURReV8xU1hpUkRwYWpaOS1fTFdDRWYyYkUxZUJoZ3R5c09R?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 18:27:33 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ethanol is not the whole story behind India\u2019s sugar price surge - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdzlpalU4aWxUdTdMLVQtNFc2bkxyQnBCUlJfNW9CTWU0VEp0ZnZkb1pTR3lyMUc3N2Q0LVByaFdScFhmY184MTczcHBhMjh0TWVDcld3ZHlWQzBqc3g0NlktcjE2Z2syRnJGdURlMWZZWjFONUFDRHFIMUh4SmtXTGgwYzZCWEN4dmUxa1dkdTc1NWZqRVB1R0p3M1lPdVE0VDlnWnIwQlNTbG5mMlhoWDY0bUwxUk5NUEtPd1pPWU4weW1vZXNJRVRHSEdULWtJR0FETNIB2gFBVV95cUxNVVhfUlZlMW1TUEZxUFhZX3o0aEdSMmZfUnlNUk11ZzZ6RUhVeDVWeG45c2JCenhfakhYSFoxc3huTGdNNzlwVHZGVXhpeDkzRlN3NXpiUkZESUJlNHN4bjQtcE9nNjlLbEY0UG5lMzdTQllmR19nblZjcXBic0E2cExQVUt0TkhzYWtNT1IwbTd5clE3LW8zbC0zYmdKdk1keWpDUFNiTzhZc3ZIVksxbFlkQ0VpZnVHWERaMTRaMWZTLV8xTkk0MjAtY0NwUzJhc1hNRFRZeDVSUQ?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:30:00 GMT"
+      "title": "Sebi drops fraud, disclosure charges in Max-Axis Bank case - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQ3QwUmxlQUJ1eWhETWE1U2pURFJ4R1AtYm9GU2J3dXFVa1JkR1N5ZmtmQWV0RkM5V3NaOWRrQnpydWlkZWlYRk1telB6UURyVEpPX0pTM1NWRm9qLXhGNjR4bDMzck0wWHg3cVl4V2c0VWVPSUtwcE1qNW5oTHkwNzVoVmdfaGhzYndHYWlnemNOZ0FwaVdpemJmUkU3VUZCWlFnMHdFR1lSdWRsWlHSAbMBQVVfeXFMTXM3akxwYldnSFFCZTNzX1RtMnhzWTJYUkVFOGRLc0dUd3plUmIzNXR5WUZwSEYxQVJTdS1JMjNrc0lVZVhGbjFzSUl0Y0RUMm1vb0hMWTR2TGhheUVhTVNLbTA5M2ZkTEFuVDJybU05aGhYR2d4ZXZEbG5RcDQtU01IdUhjMW5yNGhkXzFsMEVvMjladXFlLVhGZGVQYXdtVWJ5WVZZLTlvRUZyc1NIWC1tRkk?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 18:00:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Devson Catalyst Ltd Share Price - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IeDdvc2l5S2N3aDJEdEJMd3MxSUIwWklBVzRGZEJDVXlVaDRCSHA3RWVocHhwSTVVMVAwRlktSjVucS1xMzhRSXdmLUlINmg0Q3lIdENjNEgtcXRXdENXdl9pZlZjYk1ET0t1eFdENERxdVI5d0FPUU8tOUpJLXc?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:00:40 GMT"
+      "title": "Coal India sets up Singapore arm to pursue overseas critical mineral assets - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUDJhTUdEVmZUb1ZZUHcyeFpkUmh6dy1JeFI0aDdHSHYzcWM1ajJvSGVZMGtDQ3pSbURkWXZxRnc0eFFEMnNuMVpNY3Zwb01qZkhOcWhRWVo2VEJwcjlXbnZzRXR5SEtnWDcwU3hjbmJtZ2VEYWJvbEZtd21lVTFxNlJTcVkxalZGY2d4QnNZZ2ZzYTAtWXh1dUVGTnNFbGZpYTdRRGJMOFVjSkphVFNQdTBHcVAxaEdZY0ZVTWhVMVA5ZnA1dnkwZjMzWXhHTGVpaWhRZjdhVXRuUXVh0gHiAUFVX3lxTE80WGFiTUYtcml5NnlRcU5YY1VrMkE1Q0dOOEYwem93TzM2aTQ0b3F6b1VwZ3NTOHRDTkZCdTFYSDFqM1ZRUW9nYnZodXF4VTJvSkxPUW1CcWljdzVoWk81Rk9jMFIxZHBfTHF5MkUwMkJqM3lUTXh0TTUzNFA4SXRWaVdUWlRlY1ZvS3Y0emRVWG9PT3d1MWYxZ2NIZ2ZVUFRsZE1NT1llSmJnN0tpUkF6UGFvajR1eWl1V3NzS080d09UV1Rwa3VzMmhualZfV0JDdGtKOV85THpQY2RWMHRsTGc?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 17:55:35 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Polycab India passes resolutions to revise Joint Managing Directors' remuneration - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdkNyM0laWk9yUjZtRVJwUGY5RW44cHlKbHhIOTQ0dnh2d3ctMEppNVlGcUluWXVma3BzTzBIWkcwUXEwYUxwRWNWT3BkdlBiSnZhRGRaZWxtcHdiQWhaSDZ3SU9qVGdxVzRXOUZfUk5xR0NWVTVqdG1TRjZ5dm53NFRrTW9KR3JyVkg5aHRYZUFfaTVWUzRxZlowMnhhWUZpNWQxSndYTWZnc1lqb2xTajVIMExTWG5NX1RLdG13?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:23:34 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "No shortage of sugar in India, retail prices to come down soon: ISMA - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGZiMlVCRTlvTkhTanJQa25qV1lsSUZNT1dRM05SWFRBRzY2ekRWRERXeFlvUTJRZFBGUUtFN3Y5OW9RelFIVHU5enNLMnRUQVVvUEVEZEdsczJGQllWVkxvc2w5SG9naG43OFZyTnNZVm0wVk9hVjBUcjRPU0hfc0dMQkROWDR1UndYSU8tNzJsNFdCb0ZZcXlJSFhsNFlwZDIyUkhDTk95MkdhVWg1b2t1V3A2WXZ4Zm51TDNvdnh0SjdmMjdKVDFLUzFYQdIB0wFBVV95cUxOTWpldVdmQlQ1ckFieHdGa2NlUHRRdWpNelByejJQZkVQNlVucDFFelA0bVFFQ2RBc1QzaVF1M0R0bVlXUkNCd3pYSENuY1FlU1ZhYXRtT1lDaENKMTZYZFMzNmE3b2FEVmxWdVRTZG5GcHM4ZWZTMFU1X2tienZDUXBRcE1OdjhNVU1aUVlYajNwVTVoZVpYWWZZZzRHUFRFNU82Q0MwN1J6MnVOMkI1clRLMEItNFdhb2luSklQYnFWb2NhVi1jRGJkSGo2S296cnJ3?oc=5",
-      "pubDate": "Mon, 24 Aug 2026 17:30:57 GMT"
+      "title": "'Canada is a state\u2026': Vance makes shocking Ottawa 'gaffe', calls it 'Freudian slip' - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPNG4taXlNdm42QU1UX2xoZ2trVG00RWZwNFV3VnF0d1dXem5SbWs3ZkZGak43LVNOSDAzeUNlTHVYRWw5Sjh3RlZJZjFTSTloTkRkamxtNEQzemtBNERsTmFrUHV3MGtLaDlPWE8xYnRKdy1MWTE5ZVowX25sLWJJRDFjdGp6SXJaeTJpVm5VcUNNTjVLeTBvd045RUFNUWllcEFteGFMc1VidEoxcGs0M3NVbkR0SlZZbTZRbG9taXdPYjBPVU5jbTFIby1EbUlEdzlHdkJyckdIc0FiZnU5RXR1ZEV6U2c5U0t6TdIB8gFBVV95cUxQY01sLWoyQXBpVW8wdVlGSTFJZ3h0SHdQbkI0WG9mVGRWallvRHpvaWRKN1VIa1Aza3JOYTJ3Z09MSm5NMS1NZWtCRGhFVDNFTGtsUWZyc192cVFWYzRpTGZDQUVmRmttaUZXdlZZZG90aXNibDlENkZ3c0tZR0M1ekVNNmFLdFdlUDVKUmJ1dEJONHltelg5Z2dvMkUtNzJWMkVQLXZuTk1SWW15U3Y1ZGdWTDJVaFl0eE5nbThYOGU2RGMyd2JTN1BZN0lpS1B6N0pmZGhMcHlnOTRQRklUYXZINEwzemRiVXZibDBOUHJTQQ?oc=5",
+      "pubDate": "Mon, 24 Aug 2026 18:23:01 GMT"
     }
   ],
-  "fetchedAt": 1787594432
+  "fetchedAt": 1787597551
 }
