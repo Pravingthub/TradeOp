@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: US stocks close higher on tech rebound as Nvidia earnings gain focus",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-close-higher-as-tech-rebound-puts-nvidia-in-focus/articleshow/133524166.cms",
+      "pubDate": "Wed, 26 Aug 2026 01:38:36 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Crude oil prices slide 4% as markets look past Iran sanctions",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-oil-prices-slide-4-as-markets-look-past-iran-sanctions/articleshow/133521800.cms",
       "pubDate": "Tue, 25 Aug 2026 23:35:05 +0530"
@@ -23,12 +29,6 @@
       "title": "Lumino Industries raises Rs 207 crore from anchor investors; IPO opens on August 27",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/lumino-industries-raises-rs-207-crore-from-anchor-investors-ipo-opens-on-august-27/articleshow/133518684.cms",
       "pubDate": "Tue, 25 Aug 2026 22:04:29 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/133518214.cms",
-      "pubDate": "Tue, 25 Aug 2026 21:38:38 +0530"
     },
     {
       "src": "Business Standard",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Settlement Holiday on 26 Aug 2026: What Changes for You - Sahi",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PcTRyZXVSQUdTUDBZQUZmbnQ3RXNPU2x1bG5KSVBHMm9vMmdPT1pjVW5FeE1ORFFpMFYyOGhKNkZCam1weWF1OVRiUkJRT1JraGp6SXZHTk5wNG9Yck5pRjdMcFZDdjVPU1hxVw?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 19:18:34 GMT"
+      "title": "A Special Bank Offer Pulled $73 Billion Into India in 11 Weeks - Briefs Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFVIRXNRNzhQQi1FS01TbklEV0R5VVU0R0pBUHNJSXo4elZWNlF5TmlpZU5ILU43TDhzUVZCLWpncDlySHFJWUlIbUdyaTBqNUIxZl9ZQUhKRV9TZEhBVDNBWjd5UXlyeGl6QktVYkI5Rzd5ZjVHN1B3UUpCckhqM3RXQUFvSzlXY29EWV9XZ3Y1dw?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 19:39:52 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock market open or closed tomorrow on Eid Milad-un-Nabi 2026? Check NSE, BSE trading offs calendar - India IPO",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQemFYdzhjWmlqbnNIZjdLbFR2M01oVHdBamd1dTdhYUpUMFZGaGpzUTdkb1NOUWRiRVFsTUhtYzFRZXVVZUhwQ0V0UlhoT25CX3VRMkJDMWZaM3FtOFNNTkhaSS1yZ19TQ1dqTHBvYU1ybTFwdm91bmhqSGo5aU1MQXpiamFHX21HSUVqVEY4TkY3dEg2NTY5NnpVaDRvSlZhM0o1OTgwVTJyczY4YVhEUTdoLXo1bW12QVpjU211Z3RSblhPZ1RfVUdpY2w1SWM?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 18:45:03 GMT"
+      "title": "Krishna\u2019s consciousness: Prasidh\u2019s three wickets offer India a bright spot on a day when Sri Lanka made th - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNOENzWjd5RkJJX2hfTkl2eThGR25sbE9CRWJ2VTFvX1ZOV1hoaURuTWJ3SDVTY1loRE9TYWlQRzR1VGNGbTluN05UUUZ4eUhtMTEycHVYQWlMYmJhcmlvclNXV25ZdWRQMHEwa05LeDlJV0JEOUVjZ2hvWHhaRmFlYzNpZFMyT3UtYkJSbGVZN3JiaGY3MjBhWFhxTDl5YUE0cVFIdTlNY0J3ZExXa0twM3lPOTRkSnFYNnFiU0w0cnhPTW9SR1BnT3dZUC1XcUtMd05mTGltZE5zTW9RSnZkQWt5R1k4allNbWdHQWlpb1dUY3MtelQ4RE9rSndTTGxfWGtqdVdtVUx2aE45TmdNTDl6eC1XQldTclVqMXd3NE1WWU5ZMENFVXEyNzNqcWZJNUg5TmhsdGlGeE1kcDcySFUzX1Y0dFQ5SjVMemdLYm16MGFKY3Y0VUFWM1FhYll1cDgtM0F4dHhoYUZCZGZTWWtGcmJfOHAtcWhWX19NWmFaUdIBngJBVV95cUxOTUV5emdzTGx4ektScTVDLUFaUWVZTXNxdnZXTWVXWTMxLU9mNTI0SlZsT2szSHI0S21pYTQzSHl1MlN4d3pMdm5rMGh1UXpHQXhnNDNRVmZpbi1PSUhHTzBCWFROWGZGNHRmcHBFQ0lnT3V4LVlQa0c1cFQyb1Y2ZnhUb2lfSHBRa2pkOFN4NElsR2s1WUVyNFpaMzVXUVE0WHcwOXYxbG9RZWRDQnNsSW05S2JhTU0xdFljQ1dlWnhSTmdHQ2JTY2tVSWhVazNJb1NXN2N6XzNaUWRKOVg5dFlNeENuSTcyZkJMTzYzbEI3MkJIZGpxeGR3MGdtdkxxWFJmMGp2MVFGVjVzNlplaktXcWRzYmJUWGpEeWtB?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 19:29:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's Two-Year Time Correction: Why the Next Leg of the Market Could Be Different - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSHZMWGJ6VnJLY0xlTnZMRkx6UEpJNmtad3VnclBIZUpfQjlCOElLSmRJX0pJaUhoYXhNc3RGRW9RdTF0VkhLa0dMN3NtTUhGWUNHWDFmZTF5enhodTRvT05jUE1paEs2TG1aamR3WFlLSU1nWFB2aTF6ZzZRQ0JYY1BkQW9SN1A0VzV3QjRPQ0l2XzlPaGZxR0RsSlQ4emtmVVY5UzZrLVdIcmhZLTdTMTBsd3lZRW5KdkFDRmVjd1duQnBxWXhnYVlXc2wycVE1T1NUcG1PNjcxLUVYTnEtdFhEVmtyMGdveGI2UjdyMUZveHZIcWfSAfsBQVVfeXFMUC14MENjU0ZYT2VZS0xFT01Xdzlnek9iMzItWlg3LWM0T3VPZXprSTFVTURyTFFqdmVIeVRQcnZBcC1iOGRGaUtOQUVBVjBFdnA1T1hrS0tXSGFPSl9RSUZ6ZWhidXl1Y3BNVDJQbTNSdms3OG81by1vVkpMNUttdGdYX1dabnpGT2FPT3NGckxkcXBSTXJWbEtnWERGeE1YaUMzOXdFN0FjU09KekpWb1ljbTVrSmstaW5zN1Q1NVBBVGw5ZHVUaTFWTk12Z0JSUkFyV0dKWU9TSkJITnc1WUtXbUpwODVITHlwLXVPTlJXc2xoODB0ZXlMU2c?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 18:55:33 GMT"
+      "title": "Taking Stock: Window to process and sell imported sugar extended - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdDdLOWxKNHVWdXZJQTVubjYxNndkLUhMVmdWQkZueEZnYjBEeVR4alZHNEZyM0tIZE03SmtqME9zQm5WUG5Tek1lZGdvRzJNck5hVHE0R2VwN0Zzb3RrY2FCbjh6aW5pNU1PTzd4QmltUTRSYXlVT3JkNDRvQ3VxVUl6VjhsUVRXMU0tWFB6WmRUTThWZjBvMW5VczNtTzVma3Y3bkNXT3RhQzhKb2c5cFZQVTYyUVJmTGxIUjF6ZnR0Vzh6YTMwVkNnZk1yc0JFMExRamJaNThOSTBULUHSAeMBQVVfeXFMT2hFSW5GdUtnYW5DQV9PQm1ERjFlLXBEcU1GV0FNVUNCYi02Z25FRWZnWml4OVlWblhiVkgwYlVYX1kyOUl3MXh3T0trOXZ3R1NYT3ZvTkRaeTV0bS1jTktPS0RFUVppNjQza1lSeEtQdmlZeWpZc2FpQzF5VU9FMF9ucUtxbE1WNjhKQzZFZGs0S0JEc1gwN1d4VmJsN2trY0U4TlRBVlZxbndNbWg3eml6SlhvUF9faENRYjVaNW96VVd3QnJBRVRwQ2pDc2VzUi0zUmZWUFc0b2ZhSDZqdmdSUjQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 19:50:42 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Tipco Engineering India Limited announced that it expects to receive INR 577.152 million in funding - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQVRtcE9oRmRReGwxOHRqNzZMNWFvN29QQnhLQk5VMGlxUlRZejl0alp6cDdqX2J1ek5kQWdYQUt1VkFBR1ZRRjR6MFlmZExwWWpXd3NjYkI2aXI0VC1VaHBBSGphcFNrbzJFOWlxYk0xTV9QeW5UUXZPOEYzaVRtandBYlNEMkxBRTJVZEpMeXRJUm9DMVFXTGNac0JiSW5yd0x0ay05MTVDYkN1ZWFSMUpYWS1PcTdMS2FYNFpUS20tdF82cWxydUw2WklMdG5tNTkxbnV5TmhKRXc2Yk9GdkRQU2hkMFE?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 19:23:59 GMT"
+      "title": "HC protects Abhishek Banerjee from coercive action in three FIRs - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNNDFKRXgwUHVCQ2hpTnZ5clVId3Y4QVN4UTZBZEFnYUtFU1NicnBtaEhWQjlUYjVCcW01N0hrUlljalNjamZpSFN0aVVDUEpQNkxrTnhWYTBlZTlLNDFVTVZvQXpreUs1XzUtYXZSWDdPMWxEMm9uY1F1SmtPSjdwcEpNWmFLWnY0b1liSG0zbEFvaVBpcXp5S21wTzlsMUFKLTNCYnJLRXdpcGJlVzBwT29kT0E4MGgycE4walowUkY1eFN1V1FLTTVhaWZOV0t5YUw3a3BSWEQzNHJkSHV0UkZPS1V4RUlMYW1ZdkhzR254MFRmWFJ6UjNyYXpkSm9TclhoTDlvZW50SjdFVGtzZU9jdWxQd3BDUUlGU3MzbzM3VTg3SWZHNVU4ZnBmZGdVS3fSAc4BQVVfeXFMUGpuaC1DbEpUNmxUS2dpTVJ2RllJU0taSzBxM2YxOGVHT05PVjFwU2FXWkt3clRxNDNnVHlUOXA3dEQ2a2hyTzFJVE9sTWVGYmEzQ0xsNHB3MTR4bjN3VjR3aXBHdjVoYTlxZndReUptcHBwVWF5SVNyNGFMMmpKMzVBcGNpZ2JiQm94bDhnWHppRzR2WWtGcUhkMzAtUFJuaXJJV3lYVW5zOFczOXFWQW10TXp2aGJIM01SVlphNXpSY3ZYNl94c3ZBU3pCdGc?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 19:40:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "QUANT_AMC - SILVER001 ETF - Live QUANT_AMC - SILVER001 ETF Share Price, Returns & More - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CZGRRU0ppUFU0aUxMaElCOVF2ZE13akhvR3hWMDd1RmlvenhTZzBlLWk1eERRV01RVVdhT2hERVV5emlLRkU0eFBvNTRXUkl2STNRdUdFcHM5b09VU3FTd2hFVEhCQldwcXBNNUI3OEV3NlJYU19FeA?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 18:52:58 GMT"
+      "title": "\u2018Demonstrably meritless\u2019: Obama-appointed judge rejects Maxwell\u2019s bid to escape 20-year sentence - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVGRuT1ZQenR5U2JNcEhXRFc5VmZzRUJ1cW1qTjBhUXNRT1BsTXgyZElGSXdIUHFfc3k0YjNEMVgwZ1hVWVpWdlFyWGRDNFRrLVRmdF9ybEpZTWlCZlJJX2ZUbzJDZENvWjl2ZnhRVmFOTGJ0QjN4cG9yeG9ZbnFOZ0E2bEV2bFdLdEVuazRVZ2JyV0d6bTZUZUNnMGN0Sjdma3pwY0ZVTUxoZFVSeVBYdlNRbURWZXFNMnZyNHdNbm9hSnB0eW9sdUprUTFuQ1M4VVFfNjM5bEg2aE9malhEZEdDMGdLVUJNcTRRcVVkNURQOVZGMU1SRm1FaUFndUZLdnM3V9IBigJBVV95cUxOVlNJakZCYWdFYmxDYURWMldFbzNOM0VSeGV5Nk1jRGhRUFpJN1VXRUgwWDhTdk5rZWw0X04tX2hBMUFObWs1aXhNZWYzLTZoWmhpMmNpNl9wRGNYVUlJQTJUdHpaTy0wNGNvUUdxaEpqNmc3YVNDNzQ4c0NEeWhWVEgtWEVIUVgwdExXeUZJQms3ZElYUmN5ZWVIX3Jxa2FvQmdmb1BTYTNRV1VYNUVFR2xNdnpuSnp3ZWtMRTl3dURLd3RQN084YnBSN1d0NGlUX0EwU1VMWFg3WjlOV0h3aFdQV21PcjhTRGk3V3pSSzFQUlZ0RmdMdkJEcy00djlIa0JWM2VDQ1VPQQ?oc=5",
+      "pubDate": "Tue, 25 Aug 2026 20:27:16 GMT"
     }
   ],
-  "fetchedAt": 1787686337
+  "fetchedAt": 1787689733
 }
