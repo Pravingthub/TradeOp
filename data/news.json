@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "ICICI Prudential AMC shares: Prudential Corporation to divest up to 2% equity, stock up 49% from IPO price",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-shares-prudential-corporation-to-divest-up-to-2-equity-stock-up-49-from-ipo-price/articleshow/133539621.cms",
+      "pubDate": "Wed, 26 Aug 2026 17:10:47 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "TVS Motor among 6 stocks hitting 52-week highs; surge up to 35% in a month",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/tvs-motor-among-6-stocks-hitting-52-week-highs-surge-up-to-35-in-a-month/slideshow/133539423.cms",
+      "pubDate": "Wed, 26 Aug 2026 16:57:19 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ventura initiates coverage on Meesho and LG India, sees up to 35% upside",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ventura-initiates-coverage-on-meesho-and-lg-india-sees-up-to-35-upside/articleshow/133539294.cms",
       "pubDate": "Wed, 26 Aug 2026 16:56:14 +0530"
@@ -19,16 +31,22 @@
       "pubDate": "Wed, 26 Aug 2026 16:33:19 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Market wrap: Kotak Bank, Power Grid among top gainers and losers on Nifty and Sensex on Wednesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-kotak-bank-power-grid-among-top-gainers-and-losers-on-nifty-and-sensex-on-wednesday/articleshow/133538423.cms",
-      "pubDate": "Wed, 26 Aug 2026 16:31:36 +0530"
+      "src": "Business Standard",
+      "title": "Annu Projects IPO subscribed 47%",
+      "link": "https://www.business-standard.com/markets/capital-market-news/annu-projects-ipo-subscribed-47-126082600888_1.html",
+      "pubDate": "Wed, 26 Aug 2026 17:16:18 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "M&amp;A deals double, but execution holds the key for investors: Crisil Ratings",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ma-deals-double-but-execution-holds-the-key-for-investors-crisil-ratings/articleshow/133538096.cms",
-      "pubDate": "Wed, 26 Aug 2026 16:09:19 +0530"
+      "src": "Business Standard",
+      "title": "Skyways Air Services IPO subscribed 5.08 times",
+      "link": "https://www.business-standard.com/markets/capital-market-news/skyways-air-services-ipo-subscribed-5-08-times-126082600887_1.html",
+      "pubDate": "Wed, 26 Aug 2026 17:16:10 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "Hy-Tech Engineers IPO subscribed 50.76 times",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hy-tech-engineers-ipo-subscribed-50-76-times-126082600886_1.html",
+      "pubDate": "Wed, 26 Aug 2026 17:16:01 +0530"
     },
     {
       "src": "Business Standard",
@@ -41,24 +59,6 @@
       "title": "Quick Wrap: Nifty IT Index registers a drop of 1.47%",
       "link": "https://www.business-standard.com/markets/capital-market-news/quick-wrap-nifty-it-index-registers-a-drop-of-1-47-126082600861_1.html",
       "pubDate": "Wed, 26 Aug 2026 17:04:41 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Nifty September futures trade at premium",
-      "link": "https://www.business-standard.com/markets/capital-market-news/nifty-september-futures-trade-at-premium-126082600835_1.html",
-      "pubDate": "Wed, 26 Aug 2026 16:51:06 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Board of Mold-Tek Packaging appoints directors",
-      "link": "https://www.business-standard.com/markets/capital-market-news/board-of-mold-tek-packaging-appoints-directors-126082600831_1.html",
-      "pubDate": "Wed, 26 Aug 2026 16:50:45 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Hindustan Copper OFS sees strong retail demand; govt sells 6% stake",
-      "link": "https://www.business-standard.com/markets/capital-market-news/hindustan-copper-ofs-sees-strong-retail-demand-govt-sells-6-stake-126082600829_1.html",
-      "pubDate": "Wed, 26 Aug 2026 16:50:02 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -92,6 +92,18 @@
     },
     {
       "src": "CNBC TV18",
+      "title": "Mahindra Holidays gets \u20b911.34 crore GST show-cause notice over alleged tax shortfall",
+      "link": "https://www.cnbctv18.com/business/companies/mahindra-holidays-gets-rs11-34-crore-gst-show-cause-notice-over-alleged-tax-shortfall-19977621.htm",
+      "pubDate": "Wed, 26 Aug 2026 17:09:10 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "India\u2019s block deal frenzy defies market slump, nears \u20b94 lakh crore in 2026",
+      "link": "https://www.cnbctv18.com/market/india-block-deal-frenzy-defies-market-slump-nears-rs-4-lakh-crore-in-2026-19977648.htm",
+      "pubDate": "Wed, 26 Aug 2026 17:08:39 +0530"
+    },
+    {
+      "src": "CNBC TV18",
       "title": "Rupee rises 26 paise to close at 95.44 against US dollar",
       "link": "https://www.cnbctv18.com/market/rupee-rises-26-paise-to-close-at-95-44-against-us-dollar-19977628.htm",
       "pubDate": "Wed, 26 Aug 2026 16:43:40 +0530"
@@ -109,28 +121,10 @@
       "pubDate": "Wed, 26 Aug 2026 16:20:13 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Sensex, Nifty finish lower despite gains in financials and metal stocks",
-      "link": "https://www.cnbctv18.com/market/sensex-nifty-finish-lower-despite-gains-in-financials-and-metal-stocks-19977590.htm",
-      "pubDate": "Wed, 26 Aug 2026 16:15:16 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Prudential to sell 2% stake in ICICI Prudential AMC to increase public shareholding",
-      "link": "https://www.cnbctv18.com/business/companies/prudential-to-sell-up-to-2-pc-stake-in-icici-prudential-amc-on-august-27-19977565.htm",
-      "pubDate": "Wed, 26 Aug 2026 16:10:58 +0530"
-    },
-    {
       "src": "Google India News",
-      "title": "Nifty 50 stuck below 25,000: Is the IPO boom this year a reason behind the poor show of the Indian stock market? - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYWJxaE9wdFdKeUNnMy1TTmFqNVRrNVJnV2gxUGVCbU1JMFN0MnVCMDVack90ZnJVQlY5WFRua3ZfVkhlcDZHSXNsRUlYM21VZzl1S1BHNHA5ZlA0NFV5eG9JMU5uMjJULV85ZTZKZ0hnUGowWVpCVWFnbl83RjFnWW54MmFXSkhTdk5QeFpJcEtDd3BhRzIxaFA1dWQ2STBvdlRFME12dTl5Mi1TSW1Uamd0ZzRybkdjSlFHbFZMOGs0b3R1ZzZpTTluSWdmWnZSMEgxdlhZaGNUSzlxXzdTRnc0em03LTc0SFl3NlNIUXU2T3FYbEl3a2VKaw?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:48:24 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Sensex Today Ends 183 Points Lower | Nifty Below 24,250 | Infosys & Bharti Airtel Top Losers - Equitymaster",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdFpqUF8wSTNPeXNwU0ZFaTd5dFZIZlZHcGFoSWZGS0ppNHJub1VBbzFwT0dfLTI1YzZvTDRyUmhXa2NOUUl5OFJsUzlKLTZEUkY3X1BFUWdPMi01Z1d6QWNZUXpsTjUwWWo0U29rVm1YV2l3VXRZTlZzZkRQMF9oNjcydE0xWlhpczNjRDM1bDlMT0ZNWFduN0c5cjJWTEM2OVVBSG9RdTdqUFZPLTJ6QUJBVm81NmI5cEVGY2RaMVdCVzFreFBuTzZ4SWJvM3BicFNtREM3bndQa0w0OTFEOW5R?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:44:49 GMT"
+      "title": "Sensex, Nifty end lower as Reliance, IT stocks drag markets - Telangana Today",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlVSTzZ2azNPYlFYeFotVXFqZmZJckU5ZUpIQlNZa2tSRVZwR1pha054TUJRWDRLLXZxT2o1TWx0S2J4WTI3ZUsyb0tWNjdCXzhnb19lWnVTQ1ZhdWFrZ05Oalp1eVN0VGl1OGtvLVBEaXJPUWQydnQyM0JzaWxNMnNPTDdDVWUxeUV3LQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 11:38:41 GMT"
     },
     {
       "src": "Google India News",
@@ -140,16 +134,22 @@
     },
     {
       "src": "Google India News",
-      "title": "Sensex falls 183 points; Nifty drops to 24,207.75 - Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdnVMU3Etbk14TVNUV3cxS0xWdG15dUIwQXV2dTQ2dlRrNVZrXzFBZk1ZMEU1XzhUNEhfRW0xZFlMZ3FVamRtaXhzQUdKcEZlZEExVjN3cHFZWnZCelQwWmdMdzR5LTFxQ0phZTM3bVk2VjdHU3ZBUDBWdHBrdXRqR3lLZWRzMHNGbEYteGhSanVIbEFfU20tMXhQYzl5ZnRrRHfSAacBQVVfeXFMUHlkazZWS0lla3RIUmZXdmd1YUswV2dMcVY2eEQ3NzBiRzlKRGx6RHFmbUNWbUtWVE5TZmVBcmpwRHFZc0tXakx0N29haFkzVmZzYkxXcU80TFVBODBCWl80UkVCak1tUHQ4a0Rid2F5RHlpTkNxRVVwN0ZaVFVLcEtZbTUxZF9sWmpYS0x4eVdrb1lSazJRUVJ0bDUwbTlpQXh0TVV2bUE?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 10:52:21 GMT"
-    },
-    {
-      "src": "Google India News",
       "title": "Sensex falls 183 points, Nifty closes below 24,250 as market erases all morning gains. What lies ahead? - India IPO",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNER4WjBwa0xvdjdUa1YxUlV6dlBOUzBnbEVoRUhac09KVTM2bXJYMlZrY3ctUHdRZG1hUWRkcGtIcndSd3E3OFc2MkZZbkhhZUJnM1g5cTdzRXAzLThaOFdMMWRybW5PNEpOWlItallzblFYNnJBUWNXbG85S0o1RWttVVFTR0lmVjhzaG1oYWVtMm1oek1kMzNvRnhKdUNIcHYxUDdEeVZFR0VVR1RjWVBlZHZvRnRreXhzQVp1R01CcmpRNTdUQ04wWUthLW03?oc=5",
       "pubDate": "Wed, 26 Aug 2026 11:16:28 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "From ITC, Coal India to Vedanta: 5 dividend stocks investors may want to add to their portfolios; do you own any? - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOM2FHMVUwWDBuT1QyMWtvM3BFQVk0RS10LWsyRjVRVHFFTXNMeVptb1RIZlA2WWhJeXJrX0c2MS01aDA0cTRNa1VnT0lQbm5RUWRYYXZrQkZWZmVQVkpVTnlfXzhtM3ZHVENpRDd3eTJwOVNJNmNtbEJYTWlRcy05dTRkUUZfNWJrRFFkUkJaS19sdGZTRjlJNldNWHJMLVVzZjJ2WVdLLXZrLXd5a2lrV1hkck1pRFZ0WFNidkxwdGtLbWcxYld3blhuQnAxajdfU3czZ0R5SXlVQVJFV2hxdU5RbW9mOGF3LTdsWGNSWHJZWjA2NFA4NmQzTGZUbnZkbDBxeTVaRE9vVGfSAZACQVVfeXFMUG1YX2dUVk5Da2xQVWFSMHYxeVZlZUhtc2RmME9rNmc2N2RLM1RTMXhmbHRLMmZHMkM4Rkw1NldQZXJESEk4NWhoeE50M0lUaU1uNzRvWGlJYnBmYWdxc3NpaGdjdDM5b3JvUGZ4RVhfT29DUDJtd3VBdjJsaTNGR2ljUXN4aEJBMUdtTVpwbGdBcnNvZ3dVcERkbTZaVmdRMUlZOXZ1cEJxbWE2cGJOMnp0RUY0UWd1ZHgyRmtxNnhWaGcyUUNwVEV5R1RvNXhxRkdiSjNmc1VnZkp5eG1HWHZTQmUzWTVMV0ktZHBzRW85WlBRRWUxa0s4bFJIRjcyUkoyYXhHbVAxbzJfOWE5VU0?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 11:34:44 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "ICICI Prudential AMC shares: Prudential Corporation to divest up to 2% equity, stock up 49% from IPO price - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOM1EtSGc3VXQyT3ptRjhvTmpva09fSGF3aWR0bzFDTFkxVlpWZ2llYURoN19BQ0xLaUFaS3BsSklTWERDdTBkdmhWQ3hGQWlGMDdfaWtLVVR6UEQ3aDJHS1NzdldZcTg5ZTFyaGFtNVhVQnM4NS1ka3hGaHVFX05fNVYyNlB5UEhocFlJTXJMRHBhdm4yb05aVFc2RVJjX0ZFbHh3TWxycmh5Sl9MbHN0dkJXdTZwRDUxTS1nSWJIT0J4ZlFvdVJyVjhzdERJYlRqRlJHeG94RnBIRXlwNWVsSG9MSXN1ZFpFRlV5SjFuR0d3RmdDMjJXZ3E5TFM2TW9wSHBDVGdNWTZxRDV4RTdHYjN3RdIBjAJBVV95cUxPdDFjMlZ1WEd4N3hoWGhoam1ieEZ2d1ZpQzFZUFZJZ285ZG13MDF6NzlPMEIxTEVsNktEV1NDTkpDdTZfdUoyal91R2tsaTlFS2ZpU1Z4NElOcXpvOUZGQXRfdkhMYU1Sc2huOUtpVWFLdmtQVUs1OVc0ZExLSGFTZDFKRmZaTk5IRmtDTnhINDQtODg3N21lVHNZNzgybWtfQnJkdFZRR09aU0VUbnZzaXRpSkVDZVdXeGhYZVlNRkVEOFdFSVlhODlyX1JQNlJQVkYtWHZDZzF2SWl6eDZVenlPWlRyU3dHeHBpeGFXbk1TLUM0eFcxa1lWdzBxeUpoSGJtY3FrTnFFMU54?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 11:40:47 GMT"
     }
   ],
-  "fetchedAt": 1787744471
+  "fetchedAt": 1787745815
 }
