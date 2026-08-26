@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US corporate profit margins widen to highest on record",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-corporate-profit-margins-widen-to-highest-on-record/articleshow/133548769.cms",
+      "pubDate": "Wed, 26 Aug 2026 23:48:45 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Next market winners: Jefferies sees potential in data centers as hyperscalers race for AI capacity",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/next-market-winners-jefferies-sees-potential-in-hyperscalers-race-for-ai-capacity-via-data-centers/articleshow/133545549.cms",
       "pubDate": "Wed, 26 Aug 2026 21:28:02 +0530"
@@ -23,12 +29,6 @@
       "title": "Anthropic gears up for Wall Street debut: Five things investors need to know",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropics-gears-up-for-wall-street-debut-five-things-investors-need-to-know/slideshow/133545308.cms",
       "pubDate": "Wed, 26 Aug 2026 21:00:49 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Meta shares hit 5% intraday high after $16.68 billion settlement over alleged harm to young users",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-shares-hit-5-intraday-high-after-16-68-billion-settlement-over-alleged-harm-to-young-users/articleshow/133544340.cms",
-      "pubDate": "Wed, 26 Aug 2026 20:17:47 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,33 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Indexes end close to flat after hot inflation data ahead of Nvidia earnings",
+      "link": "https://www.livemint.com/market/indexes-end-close-to-flat-after-hot-inflation-data-ahead-of-nvidia-earnings-11787774565346.html",
+      "pubDate": "Thu, 27 Aug 2026 01:32:44 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Wheat soars to daily limit on Black Sea export worries, corn at lifetime highs",
+      "link": "https://www.livemint.com/market/wheat-soars-to-daily-limit-on-black-sea-export-worries-corn-at-lifetime-highs-11787773711563.html",
+      "pubDate": "Thu, 27 Aug 2026 01:18:31 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Why Oura and Whoop Are Bound for IPO Glory",
+      "link": "https://www.livemint.com/market/why-oura-and-whoop-are-bound-for-ipo-glory-11787772060529.html",
+      "pubDate": "Thu, 27 Aug 2026 00:51:00 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "US data buoys dollar as Fed hike expectations nudged higher",
+      "link": "https://www.livemint.com/market/us-data-buoys-dollar-as-fed-hike-expectations-nudged-higher-11787770825665.html",
+      "pubDate": "Thu, 27 Aug 2026 00:30:25 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Stock market prediction tomorrow, 27 August: What will happen to Sensex, Nifty, Hang Seng, KOSPI, Nikkei on Thursday",
       "link": "https://www.livemint.com/market/stock-market-prediction-tomorrow-27-august-what-will-happen-to-sensex-nifty-hang-seng-kospi-nikkei-on-thursday-11787743788377.html",
       "pubDate": "Wed, 26 Aug 2026 22:30:56 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Textile stock under  \u20b9100 hits 10% upper circuit after declaration of final dividend move | Details here",
-      "link": "https://www.livemint.com/market/stock-market-news/textile-stock-under-rs-100-hits-10-upper-circuit-after-declaration-of-final-dividend-move-details-here-11787759576516.html",
-      "pubDate": "Wed, 26 Aug 2026 21:49:48 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Meta shares jump 4% as Facebook parent settles major teen addiction lawsuit",
-      "link": "https://www.livemint.com/market/meta-shares-jump-4-as-facebook-parent-settles-major-teen-addiction-lawsuit-11787754449421.html",
-      "pubDate": "Wed, 26 Aug 2026 20:59:54 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Bharat Electronics shares to be in focus on Thursday as company secures  \u20b9730 crore order",
-      "link": "https://www.livemint.com/market/stock-market-news/bharat-electronics-shares-to-be-in-focus-on-thursday-as-company-secures-rs-730-crore-order-11787752515101.html",
-      "pubDate": "Wed, 26 Aug 2026 19:48:14 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "NVIDIA Q2 earnings preview: Key expectations | How is the stock expected to move after results?",
-      "link": "https://www.livemint.com/market/nvidia-q2-earnings-preview-key-expectations-and-how-the-stock-could-move-after-results-11787746929922.html",
-      "pubDate": "Wed, 26 Aug 2026 19:13:52 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "India equity outlook cut again as foreign funds seek value elsewhere in Asia: Reuters poll - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUVB0V2pYZWd6Mk9wM1lEZzNlcm52RjE5QXRCaFhBcmdQeFNEbVBQOFRaeHV2MWl3MkhzUERDLXZaeWtBVHV2OW8wVzlGRzNXRjFza0I3Z3FxemZ2eHpkQklpYTQ2aHFFRUtsOGhDNHhKOVdlYlVDcDdQQnVZTERNM1pGMm5zZw?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:31:28 GMT"
+      "title": "Sembcorp Green Infra files for $393 million India IPO By Investing.com - Investing.com Nigeria",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdU1jRzh6Vlh3RFdfWHQ4Vm1QUmZoaWUtbENIMkplcXp6NFYtSUtZb2kxR1VKOGg2UW5oWnFQNUdoNUpnOFVBWVliUXA0ZWh6aXV1TF8tQUtOTDBjZnctTG5oR2NVTkRBX0I4QnZZbXAzam93WEhKaFRLb2h4OVZMZTFqVTkwLVdrNWFTUzZGOTdVaFVEX3N3MkhRZ0tlaXE0SklQaDhVN1htUGJqVjhWNGtJQQ?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 19:59:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Promoter borrowing against shares crosses \u20b97 trillion amid expansion push - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPa2U2LTQ3TFNUWkxIQ3B1Y0ZfczdNUGM4MzVvSTZmendXU2RiMV9RUkhubl9zVF9EdmpQTXA0cGJlaGVxVVVWamtWcUhpekZneFlObXE5YW9Hbm9LMkV2SDl2azdaejlnZUNRZE9IczE0S3VFYjJQTzFpZ2JidExfWDZRMHd3cnEta0FRdWpQTXhFbFpNc3l6UmYza2s5TXowdzhaWnhyRGMxZndPc1FabGZQNm9iVUFVOTZ2OUJJYUU1SVlSNVhqVzZtanN2dGV1VTVPUlZR0gHbAUFVX3lxTFBaZjg2NER1MUVFVEdqYkRqa3diSDZXOWdRTUl1YWpZNjR5U1hnTTZ5YVIxWEJWLU93R3JvdHlkQ0JRQ0NfdG5oMmxTTGdxd2VYUFIxSmp0dml5WTBLYkl6cUt2bEtlX082M3VzQzktWW5FR2tCckJWN1Q1T2NyU3ZaWHVtS19uMW5RWDFzYVNDc1dQZkJSYlZ5Rlo0VEk3MWozSC1JZkZIdlA2ZE5RWS1ERUhsUUd4bm5obElsc0VBQkQ4WUdlYjA2cHEwWm1tWl8wdGNEZ3VVYzdHNA?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:32:06 GMT"
+      "title": "Promoter Carlyle Group sells nearly 11% stake in Viyash Scientific; Invesco MF buys additional over 6%... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWGo0MFRXQ0R0Z08ycGxSQUh0d1haUUN5QWZKR3ptNjVJUHo2Z201Uy04MTdKZnI1S3U4UHVwd2lXTWVXaEVBVkRzaG51SWRxb25MMVJpQVVYLUgycElTV0taelVvY0tBMmFnOGgyN0E2WUpsNEltN083WmNNQl9LWGpZMFdQcVFLMXlENmNhMUh1TUF3UzRNdmo4Uk9Ga1hQQ2ZZZUtKanczY3hTNDBQbDZaQ3JBV3dsUGxsSUFCY3NCbmMtM1NfdzZ5R2lBWjdDYnk2R2Y0NTg4SzVoZ3hsVEpFaWtqeUJqQTlnMHczazZHRU5vMGMtOHBlNE85X0NSTFN1SHFmOWJLWlk5aUZoY2VaSmM0ODgxMEFJ0gGbAkFVX3lxTE5YajQwVFdDRHRnTzJwbFJBSHR3WFpRQ3lBZkpHem02NUlQejZnbTVTLTgxN0pmcjVLdThQdXB3aVdNZVdoRUFWRHNobnVJZHFvbkwxUmlBVVgtSDJwSVNXS1p6VW9jS0EyYWc4aDI3QTZZSmw0SW03TzdaY01CX0tYalkwV1BxUUsxeUQ2Y2ExSHVNQXdTNE12ajhST0ZrWFBDZlllS0pqdzNjeFM0MFBsNlpDckFXd2xQbGxJQUJjc0JuYy0zU193NnlHaUFaN0NieTZHZjQ1ODhLNWhneGxUSkVpa2p5QmpBOWcwdzNrNkdFTm8wYy04cGU0TzlfQ1JMU3VIcWY5YktaWTlpRmhjZVpKYzQ4ODEwQUk?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 19:38:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Lightspeed exits PhysicsWallah in Rs 550 cr share sale - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONUlTNEw0THA4QW1iMjdic1E4YmYxTy04bXVwbVI0UHAzYVRhZTBNeGh0RDhjS2lVMHBlenpxZHoxREJ0NG81dlU3b3NBTVZDT2xINXZUdTZvbmhKWGx5eDNnUmtDdE85MHhpNlByYWtFWTE2VFlUS0tGTnFEbFFZaVRHbzlhY3hvTXQtSWZ4TmVwdGJCaUVMVWhpRElQS3BxTjZSNnZubmhhUVZTc01uWC1OdjNWZlFGUHhHR0tUcEM3Yk41Zjd6QmZuR1RKcGRXRHBMSEQxZ9IB3AFBVV95cUxQZFE4amN5eW1ZWHJ1M19TdGY0b3I1OFE2cFJCazdtN281OHBjaGxUaG95R0ZKNERXR25LVjczLUJYM0JnT1NHTXdVMDVlcF9rOXRZa1F6c24zTHVZMGlWUlc2Yml4OUlGNFlyUHp0WlF4MWJjWkxzbV8yWnNfbG9JSXBCNGd5cW5ZZGZyUlV6UDJ3dk1PcHFjd3ktRkFCazhMNGZfOHYzR25lWWo3a3NUR0MzVTJGUlRRQVhpMk0xTjREZmN6VXVFbGFwZkZZajA0cHVDRmljX3JPQ1ha?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:55:00 GMT"
+      "title": "Indian Stock Market Outlook Today, August 27, 2026: Sensex, Nifty Likely To Trade In Consolidation Range - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeDgtYkxOcTVfa0c2cXRRZXAySEwtb0dSZmtKVGJoVVNCN3NJaFVfUWl3b0ctWDFvc0xHWGdiUU5iUXlXWC1GREJmWDdLT29RUmxBcXZRRFFyX0pka3J2SnVqbFUzSFJyNHBROHlRS2pZZGRldVk2UEV4TjJ4QXc2eUlEc0VuYkpRY0UwZ2NMSDZYUnFGcExWRndDZElON2Vaazlfb2hDdm9WeXlKckNFMllZOWItMVp4ZkFMUWY5UXZCTXdkU0N4NV9vUHNiRUdYOUVKV1NXUlRvbGVKWFE?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 19:17:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Khadim India receives \u20b931.97 Cr from Punjab govt after HC order - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX2t1N2hOd2ZxYkdWbjc3T1o5TXR5UkNyLWRvakZsSnF5MUNqNjlCQ3Bza3h1WFJSVm1fQVpqNG1ibHhzZm5kQ2tSVjJxeWVsVFRHaGZKSkFKNlJqRlZfU3hfNENMU05ING5aekZTOFdseTJtWl9KbFFwSzhFV001M0dNRjFlMVZSOUtUODdwbGZHcXJibmdXNVRlRzF4aEwweUQ3NnFja2U0Z3Vq?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 18:11:41 GMT"
+      "title": "3i Infotech files follow-on SEBI complaint on share acquisition matters - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPT3hVR2xhMXJ0Z1VBaTdKaTJ5aXRCd25EczJiS1puemZGSFVWVFpNNlhOSGxLRHItNC1hLVJlNFpqaVFkaVV6aFFwTHM2M3lBYTJMSnBVeGFHSkdiZ2ZsUnlXT21oeDRZTWNibkZNdlVXd1JYb2pmTFBsMnREY1VkMVNpQXRBdUx1a0l2MzZDbnFGYV9XZHpxUkprZnkxLUJ4N0dRc0oyWVVfQVlDa0o3c3FjdjZibjRvWjNZLXZDMA?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 19:26:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "We are all migrants - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajFLWEMya053TmRIeVktRDZQdWlIN2JHU3k4M3V1VzB2bThIOWZyOWN4ZXNNSjQ1UDd6Mm1FVktaVHlRLWFSSGxleF9xX0taMFhkb2tON3pvVk5CSC02bGZhYllZTHA2YUIxUmk1Q2lEaTFFVTNSRWpwZDBqM0J5dGtLZ2haY1RISUFOMTVWLWc5d1owb1RvdlZjWdIBoAFBVV95cUxQT3BReTAxVkhKNkNBTkdMTkk5Um5INUw4cTROODVsb1F5aUNsQnZKQnQxMzd3Z19naVBpTzM2bjBYRG1VRVZHenA2RWpIc204YnF1RmVoNWc5VFhVM3NpbVl0NHJFYnFFSzhObXhSRTNaTXc3cXFJZUdpdzhyV2RhbjhmTTh2VmlGN21KT1JsS3ExaDlUS2hNYUcxU0puN0VX?oc=5",
-      "pubDate": "Wed, 26 Aug 2026 17:53:00 GMT"
+      "title": "The smartest team in the room needs a tougher classroom - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdU00QlFyZlFYeGZCZE1aZ05mMUlITEJYc2VGRFFDZVctTmRKWEVxd3V5Q2N6MWF2bmtDS1ZmRjN0Ri1UeUpFVy1SZmgwZUxXTDBaTmp0VHNZRGU5M0lGaFFJbFhNODNCdERxWlpnbUowb0xkX0hJYk9JVGFheXVISEV6RWhGeldwRFFoTFJLZlI4MlJWeXBpVEVxbWxNY0piaTRqMnl1Yjk1VUxUQ3BHYlJUb0dZUXRtQm1PX29CZS1Ebm9lSXRuMDdkS2MwY1ZjbTlTQVg5ZUUxV3F6Wl9JaG05MU9pZVZmQ24weGJXTnE1eFhQZVdTLUZpOGFPTjhJaVMySkRfRDlHNXU4Um9SQjJtc3NuNDNOQjBtTU5JV3g2V1NoZWpyTm9KMDA3WHNHNkHSAc4BQVVfeXFMTk01YjNTUzRnRXZFa0dnVVQ4RHl3ZERlandMd3lLWFJEdVh1V25pdGZURjhLSHVTSkFDSlRySFBoLWZ4alhxNTFXUC1qMzFKWHgwZWNua0RhZEtmdlhlRm5DdVZmb0RVRVBSNjZvRy1xcFh1S3drS0MtUm9CZVdRTHBWMThfMDUxc1BoYmxHSUd6dEhucTJzR0lVUjRDOVFla3M5M0RCU253STNtSlg1c0UzNWF0Z1JTbnI1RGlZM2ZGVW1QOEI4NEVIdUN1MlE?oc=5",
+      "pubDate": "Wed, 26 Aug 2026 19:28:40 GMT"
     }
   ],
-  "fetchedAt": 1787768057
+  "fetchedAt": 1787774915
 }
