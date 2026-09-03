@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: Dow soars 600 pts, S&amp;P, Nasdaq over 1% as Fed governor Waller's remarks ease rate hike fears",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-jump-as-waller-comments-ease-rate-hike-fears/articleshow/133745833.cms",
+      "pubDate": "Fri, 04 Sep 2026 01:43:46 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Gold jumps 2% as Fed Governor Waller's comments temper rate hike bets",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/gold-jumps-2-as-fed-governor-wallers-comments-temper-rate-hike-bets/articleshow/133744754.cms",
       "pubDate": "Fri, 04 Sep 2026 00:12:01 +0530"
@@ -23,12 +29,6 @@
       "title": "Calcutta exchange\u2019s unlisted shares double on revival hopes",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/calcutta-exchanges-unlisted-shares-double-on-revival-hopes/articleshow/133740959.cms",
       "pubDate": "Thu, 03 Sep 2026 21:39:45 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/133740635.cms",
-      "pubDate": "Thu, 03 Sep 2026 21:21:42 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,18 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Canadas TSX rises, markets assess rate-hike bets",
+      "link": "https://www.livemint.com/market/canadas-tsx-rises-markets-assess-rate-hike-bets-11788468361918.html",
+      "pubDate": "Fri, 04 Sep 2026 02:16:01 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Wall Street ends sharply higher as Waller remarks ease rate hike fears",
+      "link": "https://www.livemint.com/market/wall-street-ends-sharply-higher-as-waller-remarks-ease-rate-hike-fears-11788465720251.html",
+      "pubDate": "Fri, 04 Sep 2026 01:31:59 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "US yields decline as Waller comments dent rate hike expectations",
       "link": "https://www.livemint.com/market/us-yields-decline-as-waller-comments-dent-rate-hike-expectations-11788461571526.html",
       "pubDate": "Fri, 04 Sep 2026 00:22:51 +0530"
@@ -77,18 +89,6 @@
       "title": "NSE pre-open session rules to change from September 7: Here's how the new system will work",
       "link": "https://www.livemint.com/market/stock-market-news/nse-pre-open-session-rules-to-change-from-september-7-heres-how-the-new-system-will-work-11788450302197.html",
       "pubDate": "Thu, 03 Sep 2026 22:29:15 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Stock market holiday tomorrow on Janmashtami or not? NSE, BSE open or closed for trading on Friday?",
-      "link": "https://www.livemint.com/market/stock-market-holiday-tomorrow-on-janmashtami-or-not-nse-bse-open-or-closed-for-trading-on-friday-11788452245762.html",
-      "pubDate": "Thu, 03 Sep 2026 22:07:00 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Sebi to propose changes in derivatives settlement prices after closing auction runs into hurdles",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-derivatives-settlement-prices-closing-auction-cas-india-markets-11788449233035.html",
-      "pubDate": "Thu, 03 Sep 2026 21:31:01 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "India regulator to review derivatives settlement pricing method - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYzhjZmdxbFZ4T3lmVERvT3VZTUNBN2ZncU8tcTBQNHU0ZnBnVm5WeTVpM2VmRk8zNWJpZlpZOFhUNG9LU1NNQm9wTkFKZnlSNTNrWmFBdkJuaVVxMG0wUEszVy00WlVYTUtFQnNkdzl0WXQtemVUSER5aGd3U0doWmlxak81WFdZVjVjcUZrNzhjbzdIUDduOHlUREhNTEU3dDdmUUhqZnZWMTNYWDlxZjBIRlo3TmsyY1A0MkROUjhkdw?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 18:47:29 GMT"
+      "title": "Top stocks to watch tomorrow, Sept 4 and reasons why they are in focus for Friday's trading session - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU0RqTGtpS1ZDajBXODR5Q3d1RlB0WHhEbmZhempnTVJJQ3I3akhTVjgtclduUmRfbk5OYnMxY29pOEptUlZ3dmFDS1k5dW5XWkh6U0dYXzlhZHEyd0plcXFWX1BZNmc3MHpQWEdBeHAxNS1ad3JpSU5OVFUzdHFLY2hUQ2ViNllFQnl6TFVOY21VRjZXTUtQMU01MElxbzF5dDduZlQtMFcxOVkyZTZSd1ptTHNzWk1xVVRHS0NwZV8wZXU5RVNfSGRUZXdteHpJeUt0SlNwcDVsa0k0UUo1VnByU0dNTGYzUndr?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 21:03:04 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Exporter loses \u20b924L in stock market investment scam - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUzl3MExpU3l3TzVIMkZtd1lGdk83NnJqbGRFQmI2RWdpMW1FWWttRDBhTnRlaDZHMThQc0xKSEpxVlJYdTRfNXhrSHhJeGYyVlY0ZEdQSTM1ZWw2bGVhT2pGUTRFUlhIWlVod2U4eVBwZEtTR21mVVIwaGl0M182Rkc3TjdqcFh1cXNRSzNCNlNXNTVNcnlUcGNnWk9YQ2FaT2lSWHp5eWRQVVQyTmRSZ0Rqb0NRTUpUMERjNTlENWJIQdIBxwFBVV95cUxNSTVsMllCRFVzM0NkSkVfZ1VfMFYxZ2ZOa0JNQUxEYXd1WGJDdUpiQlNmakh3RVUyLVBSaS1Sc1ZzS2ZadWR5M3VkUkV0VUdDQ3FrQTI4SnE4WldhUVhOemlUc21jekcwNW1QTVdTNmtQX0RxWTBOazdQalRBdlZCQ3ZuMzdueFBFS3VJVUxmLV83RkYyYW9aajZ4akZweERXbm0wN0pFY1k5MnZfSzZ6MEtpYVMxNnE4bHRLNlREXzVHMmpoV2Q4?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 18:50:00 GMT"
+      "title": "Invesco India Large Cap Fund Regular-IDCW (\u20b9 26.94) - NAV, Reviews & asset allocation - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdWhFRHgyR0x3b1M5WHdIRjlRTXZtUndPclpnOENiMktDdDFRcVA2RVNidHNDZXFEeDJQcEhlT3JpTmZQZ3pBenJFTmNKY1pkVWtUVlFIX01Nbk1SLXZHWUkwSWJ4NG1Xal9oazJncHJxYkE1cko4SGRxN1dIelpSSzFNZjBtdnc5dGExanU5eFgyVWUwV2dQU1hoMkN4OXBHTGc?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 20:36:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Supreme Court disposes of SEBI pleas against NSE after \u20b91,491 crore settlement in co-location, dark fibre cases - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHFLb2VEVzZNNXkyMUhXNDFGc25lbERRVzd2V3JCZ2ktRFlMcDVNOFBLY2RjdnNadVk4aWxNMlF4QnJpN05OZXFnOVYwZ1NwTXpFZlE3V20wQUp5QjRkZlNPaUxoZGZpemtjRWZYSmZHTkFhc0liOUMzQWlURTIzN0VaZFU1eHV3aXA2TlN3ZFJZdHRheGhHUHYyVEZFaW43M0J1bi0wOTJDQXpwcmkwR0FmNXVoQ09pcEJET29R0gHLAUFVX3lxTFBMbzFaMF96TFBVcjdaSGU2dF9LQlNVZXhidHgzZmpEOFEybXRuTmNVR1pweXRSWWUzTGxRN2xEakFYNkF5Z0lWSm9xTHR3NmowN3k5LUJjU2poWnRXVmNlWWlQV0d4SC1rTUxxVUdBaEFUUDItc21rcEt5amRkS01tS3d4WUR4SGFBd1lCZmVDSlJONmdKa243cTFpM3oxaUN3WVlXcDFxMWVoOGdZYzVrWnNhSmVNMUlxVnMtenJXd3dGZWZGWks3QzZR?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 18:32:33 GMT"
+      "title": "VT Markets Further Expands US Product Suite with 61 New Stock and ETF CFDs Spanning Quantum, Semiconductors, and NextGen Power - Ahmedabad Mirror",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQalpUbVVuVTdWZkEtRWtVYllTSDQwZEplSlpRWHVTX0R6Q3ByaG5BdzFFZF9xTkRPVUk1aUNaTlVRS2F2U3F4WUUxWDhqQ3BlR1p5SFg0STFEQk1kRzBoQ2NNNHR2T09FYzdQMkh3dnBVbXhnbFg1dU5aTUc1N3E0a2xEdXAtaElsenFSQ2dReUpCVEt4TUhkdnRLWHo1dGxTRndoOWN2U0pZbGpZSHhSTWpaMEtqRzg4aDQwN084ZXF0LVN2YzBSaWN5ME1ETmN2cXh2S0FYa2VkdDUyUW10WnZjOEk2WnJnMXF4WnlZajBzY1ZfNVJHQktHMS1DdUk?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 20:37:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Top of the Morning\u2615 - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmEtSDdTX0diWFpLY1dJTDdiY2xhZ1BrUUJYYktMVWUwTGo4a1RuVWp5SUNWRnEwM3dYQmJ1ekdKbzRrVVZnRjBFMWo2WGIwY1hDRkhQVHVYUzNBY1pHZjZyNkxIMnpJOFZ3Z3Fkb3YtZk04ZWd3azdSek5KQnBXSllWdw?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 19:25:06 GMT"
+      "title": "UTI Short Term Discontinued Regular Plan-Growth (\u20b9 47.42) - NAV, Reviews & asset allocation - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbTFmWlcwWldHemg0OTl6YnFiVGp0TTdQcVlBTkVTM3NpNlQtaGc0dXAwNGJzVjVOR29SeUxHZ292ekltNzBiTnVqM2pqb3ptSzZJTUxzajF0X2lPMHNYNzRIUU9mcHJHNlhpdmJOT3ZoOFBMM3VXMk9ybVRLWWxZaXAtMDZKN1IyWDI4UXJRY1JoNE92RUR2dlJRNEZzOGpyNDlad1B3?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 20:45:26 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Business Nextgen Finance Raises Rs 215 Crore in Equity to Accelerate MSME Lending - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcnl6RHV4TnFHMVB6d2RVcVlBeWRDbk9IaDV1a1kxNkVHWTVGTmQ2a0RuMHl0V3NGd0NkckV6WHdacWJtTDEwZG5LeXhzZEpyNDlKNW5vZEtXdDNBR00xME5ZaUtuY0NIU253bHlwTm9vQU5wU2REaXVpNk1RVWQ4dWdqUXQ0eUdFajBXQURyNk1pajdRTmFSNWlrQWVVOEtxd1c2ZTNTZG8xaTdEcE9uNThFekxHamJSU0ZDZWtobnpjOFJvZGQxQjllSzlqVVE5VEFyRzNiVV8tSkdOVjhzWHFNbVFMblJpZzBEbTBzMnV4MS1h0gH6AUFVX3lxTE03RHFCTERpR1lld3dkSHNiT1V6aWtPV0oxSDNxal9nOWp1WXZRd2NEWGNySkl3UmdmNTFfbkc3cVdTcWg2Y1ExRXJOdGotc2w5aU9nZ0xrVnd4RFA3QmZQajFXRGRSLVhoQUg3TTlwUE9PSU9YbXF4bUREdWt2UXdoSlJoNEdORFhtU3VQd29lNVNYZmhZVm9kQVhYWF8xX3RkaFl0WkdGUC1ERXhSS3VYVkpPbVNtVXJ6WEhJNzJGSHV3c0wyTXZfMUxCa2ZoN256MVNRYjZkYmxFdkhoc0tCRVE4TzFua0Y0V0QtOWx3bEVrZmVmN0dOckE?oc=5",
-      "pubDate": "Thu, 03 Sep 2026 18:55:07 GMT"
+      "title": "PC Jeweller Moves Closer to Debt-Free Status as Repayment Drive Continues - Ahmedabad Mirror",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZEN3ZHgzMXdVaEdKMGZNUGRFbU9XRUs4LXY5N1FXbk9jY0dYRHNPN0g5QW84dkZLcmkwUXE1d1pfRmN1NVdKWEpyMEM1R2ZtOVRkSFZ3ZnBTOHpKXzJod2QtMm85VHlvZ3MyYlZST1lUb09MaExtY2VkZ1AxWkZSeDM4R2RRbmdmMlpzcFpwYWJ6UmQwNjFET051a2YxdkptS29sYUxrbVgxZExRbzBlcDB0YmRoRTZNYjJB?oc=5",
+      "pubDate": "Thu, 03 Sep 2026 20:37:30 GMT"
     }
   ],
-  "fetchedAt": 1788463573
+  "fetchedAt": 1788471335
 }
