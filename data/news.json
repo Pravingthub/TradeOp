@@ -2,13 +2,19 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Strong jobs report fuels Fed rate hike prospects as Trump escalates rate cut pressure",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/strong-jobs-report-puts-fed-rate-hike-back-in-focus-as-trump-escalates-pressure/articleshow/133772770.cms",
+      "pubDate": "Fri, 04 Sep 2026 23:01:48 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Gland Pharma block deal: Fosun Pharma divests 99 lakh shares worth Rs 2,800 crore",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/gland-pharma-block-deal-fosun-pharma-divests-99-lakh-shares-worth-rs-2800-crore/articleshow/133768263.cms",
       "pubDate": "Fri, 04 Sep 2026 20:40:47 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Lululemon\u2019s turnaround gets tougher as new CEO inherits a battered brand",
+      "title": "Lululemon\u2019s turnaround gets tougher as new CEO inherits a battered brand; shares fall 20%",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/lululemon-shares-dive-on-risks-of-prolonged-overhaul-under-new-ceo/articleshow/133767300.cms",
       "pubDate": "Fri, 04 Sep 2026 20:11:53 +0530"
     },
@@ -25,10 +31,16 @@
       "pubDate": "Fri, 04 Sep 2026 18:46:08 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "SPML Infra's proprietary 104.4 kWh BESS battery pack clears key global certification tests",
-      "link": "https://economictimes.indiatimes.com/markets/companies/spml-infras-proprietary-104-4-kwh-bess-battery-pack-clears-key-global-certification-tests/articleshow/133764506.cms",
-      "pubDate": "Fri, 04 Sep 2026 18:43:34 +0530"
+      "src": "Business Standard",
+      "title": "Mkts regulator presses ahead against Hindenburg, others in Adani case",
+      "link": "https://www.business-standard.com/markets/news/mkts-regulator-presses-ahead-against-hindenburg-others-in-adani-case-126090401466_1.html",
+      "pubDate": "Fri, 04 Sep 2026 23:31:01 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "Rentomojo, Manipal Payment, Karamtara, and LCC Projects price IPOs",
+      "link": "https://www.business-standard.com/markets/stock-market-news/rentomojo-manipal-payment-karamtara-and-lcc-projects-price-ipos-126090401450_1.html",
+      "pubDate": "Fri, 04 Sep 2026 23:02:46 +0530"
     },
     {
       "src": "Business Standard",
@@ -49,16 +61,16 @@
       "pubDate": "Fri, 04 Sep 2026 19:16:01 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Lemon Tree Hotels adds two properties in Bodhgaya, Bihar",
-      "link": "https://www.business-standard.com/markets/capital-market-news/lemon-tree-hotels-adds-two-properties-in-bodhgaya-bihar-126090401155_1.html",
-      "pubDate": "Fri, 04 Sep 2026 19:04:19 +0530"
+      "src": "LiveMint Markets",
+      "title": "Railway stock: RVNL shares to be in focus on Monday after  \u20b9903 crore order from SJVN",
+      "link": "https://www.livemint.com/market/stock-market-news/railway-stock-rvnl-shares-to-be-in-focus-on-monday-after-rs-903-crore-order-from-sjvn-11788544483468.html",
+      "pubDate": "Fri, 04 Sep 2026 23:34:55 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Stanley Lifestyles unveils 72,000 sq.ft. flagship store in Hyderabad",
-      "link": "https://www.business-standard.com/markets/capital-market-news/stanley-lifestyles-unveils-72-000-sq-ft-flagship-store-in-hyderabad-126090401154_1.html",
-      "pubDate": "Fri, 04 Sep 2026 19:04:12 +0530"
+      "src": "LiveMint Markets",
+      "title": "SpaceX briefly reclaims $2 trillion market cap: Inside the massive stock rally fuelling Elon Musk\u2019s company",
+      "link": "https://www.livemint.com/market/stock-market-news/spacex-briefly-reclaims-2-trillion-market-cap-inside-the-massive-stock-rally-fuelling-elon-musk-s-company-11788536407672.html",
+      "pubDate": "Fri, 04 Sep 2026 22:50:46 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -79,16 +91,22 @@
       "pubDate": "Fri, 04 Sep 2026 20:03:01 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall Street retreats as strong jobs data raises rate hike bets, credit reporting stocks slump",
-      "link": "https://www.livemint.com/market/wall-street-mixed-after-stronger-than-expected-jobs-data-11788529451652.html",
-      "pubDate": "Fri, 04 Sep 2026 19:25:25 +0530"
+      "src": "CNBC TV18",
+      "title": "Bitcoin drops below $80,000 as hot jobs data spurs Fed-hike bets",
+      "link": "https://www.cnbctv18.com/market/cryptocurrency/bitcoin-drops-below-80000-as-hot-jobs-data-spurs-fed-hike-bets-19984687.htm",
+      "pubDate": "Fri, 4 Sep 2026 23:46:01 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "NSE clears final Sebi hurdle for long-awaited IPO",
-      "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-gets-sebi-approval-11788524204569.html",
-      "pubDate": "Fri, 04 Sep 2026 19:23:59 +0530"
+      "src": "CNBC TV18",
+      "title": "Fed rate decision still hangs on inflation after jobs report",
+      "link": "https://www.cnbctv18.com/market/fed-rate-decision-still-hangs-on-inflation-after-jobs-report-19984681.htm",
+      "pubDate": "Fri, 4 Sep 2026 23:12:25 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "NLC India subsidiary wins bid for 275 MW/550 MWh battery storage system in Gujarat",
+      "link": "https://www.cnbctv18.com/market/stocks/nlc-india-share-price-subsidiary-wins-bid-for-275-mw-550-mwh-battery-storage-system-in-gujarat-19984676.htm",
+      "pubDate": "Fri, 4 Sep 2026 22:41:45 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -103,53 +121,35 @@
       "pubDate": "Fri, 4 Sep 2026 20:43:56 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Monomark Engineering, RKB Global get Sebi nod for IPOs",
-      "link": "https://www.cnbctv18.com/market/monomark-engineering-rkb-global-get-sebi-nod-for-ipos-19984626.htm",
-      "pubDate": "Fri, 4 Sep 2026 20:21:55 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "RVNL wins \u20b9903 crore order from SJVN Thermal for Buxar thermal power project",
-      "link": "https://www.cnbctv18.com/market/stocks/rvnl-share-price-wins-rs-903-crore-order-from-sjvn-thermal-for-buxar-thermal-power-project-19984614.htm",
-      "pubDate": "Fri, 4 Sep 2026 20:16:03 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Mazagon Dock Shipbuilders gets \u20b9118 crore order from MSETCL for AI-based project",
-      "link": "https://www.cnbctv18.com/market/stocks/mazagon-dock-shipbuilders-share-price-gets-rs-118-crore-order-from-msetcl-for-ai-based-project-19984594.htm",
-      "pubDate": "Fri, 4 Sep 2026 20:02:25 +0530"
+      "src": "Google India News",
+      "title": "NSE IPO: Explained | What is an 'observation letter' issued by Sebi as regulator okays \u20b930,000 cr much-awaited issue - indiaipo.in",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMkNLZlpBT196bFA0dllJYkh4VUVyZkpCcU9HVlc5TUFIekVjSXBLQkJ6ZnZSeExGN2wzMHZMX2JudmFkMnQ1MWdGcV92ejNOaTdKNnJUUTBaTEdxWG1MaUxXVGthZzRqaU5Uc0tsX3Vvb3pmYjZ1aWdLcVE4bnE5WmFIOXVRWExtcEJBNk84UFNJRlUtSVhoS2Y2bHNlZS1wbmRmZUlUdlhmdDJiNHg2RlBUMmo5SVM2eVVuNHJrUjFodE9qWld3dW5RVUpSUmdhVUhyUHg3ZURDM3pKMVE?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 18:47:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\ud83d\udea8 BREAKING \ud83c\udfa5 | A decade-long wait may finally be nearing its end. SEBI has cleared the way for India\u2019s largest stock exchange, NSE, to move towards its long-awaited public listing, a major breakthrough after years of regulatory hurdles stalled its IPO plans. T - linkedin.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWdzVTU4cDk1WmJsNDY1WnF3enJJTDAtdHlXMjVpUzFWXzF1dHpvY2RpdVQ2dXU0UU1fMllEUUZJSXVRb1NaQ19UMlV2YkVVN2MtYmxSMVY0ZDRZWVR3cmw4d3hlR1Atd0RzYkpHbUxaZW1aZGFUcllLeVB3NDAwMmhreUNFYURiZTk1NnpOVmhzcnR3eFdIUg?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 15:48:43 GMT"
+      "title": "Jefferies\u2019 Chris Wood sees a structural bear market in US bonds. What it means for stocks and gold - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcU1sdWRfSzgtN0V4Mk9UdTBlQ3lRVmNIaThGcW85cTdReVFIMW5rc180cUdqSGQ1YWJIT1Z4eURLSHZUZVVzdF90dmJWWlQ2ekEzMEoyRG5ma0ZFQ2d0U3N4bmJESU9OSU45bFYyZDVfNmduM2llQXlBUkF5dVhHeTVlWUpvN3RQVWN2OXFQNHl1amZVR2ZCZFpVSGUzaFpUWGJ1ZTZ6QWwxVTFEMXlKZUNoNXpEOF9yQ1hpeGJiQXJfQlhYQXlGTUpCN2V3dXZrM09Kek0tTlRaZ0FBc0VNLUhDc1JMdFFnRUY3bC1ZNFFKaEFCY05J0gH8AUFVX3lxTE1VNjV6WmZfZjRuSWZNbERkRHpGamhjS2JlYVM1VllPWm5pdEgzRFh6SFBmdVZBUDl3NzBPVmlOd25TV2Y4aUtHcUpvd3h0T3psX196eEZHcHBuaEpHYmVsQnZjOFNvMDR1WHllRWctNkNiSmRBazJjT2MtQXBFX21LT3ZFQU03TVNJN29vbHhPMFFsaHZmbm9ST1VFSERzelg4VEk2bl9uZE5nMkY3T0JWaTkxZ2NXeTdtRlNMd0JncnlZa3ZDanFRY0FtQUJ0WVdacDZuVng3YTZrdjVydUpUSnpaX1NZOWZJeWlZNi1EVDBuMGdnR3lQU09hWA?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 18:20:29 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Goldman Sachs sees India facing major liquidity challenge - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORzVIRENWNUVIaWRQWVVpOVF1YTBaSWQxNGJnQmNzbE85UkptOGQ0WHplZ1RSQk5pVjUwTmpwM05Ba2RXcW00cEZfQWpMWXZac2VoOFQwQi1Ed0lsN3l6QTYxaVZONngzejdiWi15MkxfTjVzQjBxLUo4NW9TYW9TV3c0Vl9KbllndXhZMzdGTnlzTl9GeUgtWW0yQzc2Z0ExWmNHMlNvNEo5SG1NRHVJcGFxNktkX0RHVmc?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 16:21:15 GMT"
+      "title": "Share Price Today - Lumino Industries Ltd. Stock Price Live NSE/BSE - HDFC Sky",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZRVlyU250VzdwVU5ZeDRwMExuUldhRjVNWUl4T1ViZUJJWEtuYThDSWh0S3FTaUVNUXhsYldsc1F5Y3JwU3VvSW9ZYVZwenp4M2RselVCam9ieUJr?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 19:03:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE receives approval from SEBI to launch IPO - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdHdPZmxhZmdJMEVzcGY5V2VkWkxmcWlELTI0aVRmQi1uYTk3Mlpxc0I2aTQ2c1N0ZWJFbjQ3b1VKVlhOc0ZZbF93VmNYUDZURHNQS25lNzNQTGIwUXR6VEVRb3VHMWZkcmRSRGV2RHVQWUpabmwtcjdIdEszcWFQelNLSWdvdzVOVl9KcHdxNkx2b3d2d0NaYVV5emVTMU5o0gGuAUFVX3lxTE4wMmpQUHgyZlBrRldKMXdzLVJpaGtYOFlKRVVzQjJTa2VNTjItSk1mTFFNV1ozTDV0S3lNajV1RnRQMjFzU0tPaEg1cG1WWDYwYWpXQlAxRHdwNXhLVk9qU2xEQlFPZE5VSlpiTFl0cnN0ZS0tZ2FseFBJaXZuQWQ3MW5FdjgxMV80UWxwM1RsMzdaaWotMFV2aURySVBnLW5lVGszRUF3c3BUUTlJdw?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 15:40:20 GMT"
+      "title": "SIS Ltd buys back 33,027 shares at average price of \u20b9431 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMEZfWDNYTXdScmliYklKeGVQZFN3UVdMWGl4eU1KbzI4RzltY2Njal9DOWZaS0JFeV80Nm5OaDdnbVNMZG1HOXJ3d0h1alE1YzdDWEdiVF9UVlpVanhmT25rcF9rVmZpREQ2TVp2c3NoUXlxbk5uajUwRTBTVmpNUmktLTRycmtuUkJuU0hxNkV0TnpKS203NGRJTkc2ZEViekVUNW41cVUzQQ?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 18:33:54 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Complete Sports and Management India Ltd. - Value Research",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPenAxMjZvVnVuMjlPOTZrR3VTQllBVl94TzBJdTZFR1RGMmxhR2RrQlhFRlJZWWFJZjA5RkxUVFlob3hGMFUxWmpXRDFWTDh2ZGxVRkdFVGVkMXVYOFpzS1N6OGZCQkhmYkppZ2dTcVlrdXR0ZGhxcHBWZVMyVW1tbkI2cll3S09fVUNXZFg2eEF5Wlp2NlE?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 15:42:11 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Blue Chip India schedules 41st AGM for September 28, 2026 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORU95ckozdDFUM1hTdFFqNm9iWFR4VTh3LUNSc2ZPbkFtVHlhRDFDVE9HRFhLQjBnMWtySzFDRlBETUJicEhfTnVRUE1KSW82STI0RWVERWRMWURnMEVZYWh5Q0Q0UEhwV0ZleXViS3VMcUJKQXM5b0NlRWItTHFOT2pFeHVIZWg2MmNxQTJMbG9ZWGN4VVRHYUVlMzR6bEpwLW1RbE4tQTlLX1VjZmc?oc=5",
-      "pubDate": "Fri, 04 Sep 2026 16:21:19 GMT"
+      "title": "Rentomojo eyes Rs 1,256 cr IPO - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYXo1b1I0cDNkM01hd0RFVzR3ZXBoYzh6amFDclZJbDctS1N4TWtmdUxNMS1weGN0MlRmN01iOEt0cFIwN19Mdy1HRjMzRmIyM1h4REFNMHZiVHJaUS10MXkwMGUtMlY5cGxzM0hWcDhNdEMzM2kyVjFaUHU3ell5OWZMQWZrUk5TOFN2UWpnNWNpNzdXaVFQYlY5cDVwRmZsMnVONGY3by1qYzdkOVhIQmUtQVYtZ9IBuwFBVV95cUxPU0J1c0hoTkhQbVRwQThpOFpiV3ZUdS1nNlYxbExOc09xQ1BZYTB4YzBzS1FYQ3BMRUpZdWdDdm1LRWhieGZWMmloZGtIdHp1TVgtOXJDSVFod2tiTlpsZ0tZMnZUTVB4Z2Iwckl4a0VtcGtEVmlNVEFjZ1g4YUoyWTFXLXRsSEhta2tzZ2YwczJPRlNPVFpXR3FacDZWOUxtUk8yNUlWT0FDVENqemVPcmV0NjQyamdUTS00?oc=5",
+      "pubDate": "Fri, 04 Sep 2026 18:24:00 GMT"
     }
   ],
-  "fetchedAt": 1788539333
+  "fetchedAt": 1788548679
 }
