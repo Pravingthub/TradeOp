@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Jio IPO: Ambani\u2019s tech titan listing story isn\u2019t yet credible",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-ambanis-tech-titan-ipo-story-isnt-yet-credible/articleshow/133785076.cms",
+      "pubDate": "Sat, 05 Sep 2026 08:16:17 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks today: US stocks end lower as solid jobs data fuels hawkish Fed bets",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-solid-jobs-data-fuels-hawkish-fed-bets/articleshow/133777456.cms",
       "pubDate": "Sat, 05 Sep 2026 01:34:15 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Fri, 04 Sep 2026 20:11:53 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US stocks today: S&amp;P 500, Dow  stocks slip as stronger jobs report lifts rate-hike bets",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-subdued-after-jobs-report-fuels-rate-hike-bets/articleshow/133765227.cms",
-      "pubDate": "Fri, 04 Sep 2026 19:09:04 +0530"
+      "src": "Business Standard",
+      "title": "Mazagon Dock Shipbuilders bags Rs 118-cr order from MSETCL",
+      "link": "https://www.business-standard.com/markets/capital-market-news/mazagon-dock-shipbuilders-bags-rs-118-cr-order-from-msetcl-126090500106_1.html",
+      "pubDate": "Sat, 05 Sep 2026 09:31:21 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "Eyantra Ventures reports consolidated net loss of Rs 1.90 crore in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/eyantra-ventures-reports-consolidated-net-loss-of-rs-1-90-crore-in-the-june-2026-quarter-126090500087_1.html",
+      "pubDate": "Sat, 05 Sep 2026 09:04:47 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "Dhoot Transmission consolidated net profit rises 37.79% in the June 2026 quarter",
+      "link": "https://www.business-standard.com/markets/capital-market-news/dhoot-transmission-consolidated-net-profit-rises-37-79-in-the-june-2026-quarter-126090500086_1.html",
+      "pubDate": "Sat, 05 Sep 2026 09:04:01 +0530"
     },
     {
       "src": "Business Standard",
@@ -43,22 +61,10 @@
       "pubDate": "Fri, 04 Sep 2026 23:02:46 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Devson receives orders for newly developed product Ammonia Decomposition Catalyst from NMDC and Tata Steel",
-      "link": "https://www.business-standard.com/markets/capital-market-news/devson-receives-orders-for-newly-developed-product-ammonia-decomposition-catalyst-from-nmdc-and-tata-steel-126090401182_1.html",
-      "pubDate": "Fri, 04 Sep 2026 19:16:17 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Brigade Group launches luxury housing project Brigade Barcelona in Neopolis, Hyderabad",
-      "link": "https://www.business-standard.com/markets/capital-market-news/brigade-group-launches-luxury-housing-project-brigade-barcelona-in-neopolis-hyderabad-126090401181_1.html",
-      "pubDate": "Fri, 04 Sep 2026 19:16:09 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Lupin receives USFDA approval for Modafinil Tablets USP",
-      "link": "https://www.business-standard.com/markets/capital-market-news/lupin-receives-usfda-approval-for-modafinil-tablets-usp-126090401180_1.html",
-      "pubDate": "Fri, 04 Sep 2026 19:16:01 +0530"
+      "src": "LiveMint Markets",
+      "title": "Dollar deluge from FCNR push to test RBI's liquidity drain toolkit",
+      "link": "https://www.livemint.com/market/dollar-deluge-fcnr-liquidity-rbi-mesures-foreign-reserves-market-rupee-11788517231526.html",
+      "pubDate": "Sat, 05 Sep 2026 07:00:57 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -85,10 +91,22 @@
       "pubDate": "Sat, 05 Sep 2026 01:02:24 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "US yields rise, but inflation data next week seen key to Fed outlook",
-      "link": "https://www.livemint.com/market/us-yields-rise-but-inflation-data-next-week-seen-key-to-fed-outlook-11788550095128.html",
-      "pubDate": "Sat, 05 Sep 2026 00:58:14 +0530"
+      "src": "CNBC TV18",
+      "title": "Market recap: Yields, dollar rise, stocks ease after solid US jobs report",
+      "link": "https://www.cnbctv18.com/market/market-recap-yields-dollar-rise-stocks-ease-after-solid-us-jobs-report-19984713.htm",
+      "pubDate": "Sat, 5 Sep 2026 08:49:18 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Anthropic IPO launch shifts toward mid-October",
+      "link": "https://www.cnbctv18.com/market/anthropic-ipo-launch-shifts-toward-mid-october-19984707.htm",
+      "pubDate": "Sat, 5 Sep 2026 08:15:20 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Tesla shares are falling after Cybercab event. What analysts are saying",
+      "link": "https://www.cnbctv18.com/access/tesla-shares-are-falling-after-cybercab-event-what-analysts-are-saying-19984710.htm",
+      "pubDate": "Sat, 5 Sep 2026 07:58:20 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -103,53 +121,35 @@
       "pubDate": "Fri, 4 Sep 2026 23:12:25 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "NLC India subsidiary wins bid for 275 MW/550 MWh battery storage system in Gujarat",
-      "link": "https://www.cnbctv18.com/market/stocks/nlc-india-share-price-subsidiary-wins-bid-for-275-mw-550-mwh-battery-storage-system-in-gujarat-19984676.htm",
-      "pubDate": "Fri, 4 Sep 2026 22:41:45 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Lemon Tree Hotels adds 145 rooms in Bodhgaya with two new properties",
-      "link": "https://www.cnbctv18.com/business/companies/lemon-tree-hotels-adds-145-rooms-in-bodhgaya-with-two-new-properties-19984635.htm",
-      "pubDate": "Fri, 4 Sep 2026 20:58:30 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Prime Focus board approves \u20b93,000 crore fundraise through QIP, rights issue, other routes",
-      "link": "https://www.cnbctv18.com/market/stocks/prime-focus-share-price-board-approves-rs-3000-crore-fundraise-through-qip-rights-issue-other-routes-19984639.htm",
-      "pubDate": "Fri, 4 Sep 2026 20:43:56 +0530"
+      "src": "Google India News",
+      "title": "Market ends lower for fourth straight week amid volatility; rupee extends gain - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPU1N1WFVxNDg5TGxQLU85XzlRbm5uNHBwWURya3ZaLTRSbGFscE56TUpZLWFKeWFCd2pUWTJjejN6bmVFZW04UFJ1VTYxaEVicWlHOW4zMUJud2FUaFZ3N2JqUnplQ0xBRGVqRjF4dkhGci1YelNMYkVKY0xQVHYzcjhqQTlXSWFaSTNfc1ByQW1WS09hckhKanJONWo4ZUxNdFp0U2Q2d3FWSFRfUWRDZTZpREpfMkFLZDRwdHF0Tk1wOUpjT1lISWJndndwVl9CNEdCR3FoQUNnbjJFLVgxVlpGMNIB6AFBVV95cUxQc0ZiUjdXX29ZeFVfOUdvQkNHYkNsckxZTkNmYVptbUM1bGtoNkpHWEhaOHFuWjNmV1JIaG5GNTYwa2cxeVdtYmtQbF9rcHhiTGhCaGVRb1hhbTl5YWVoT0FuS3pVMnBsUElxdHdHUklzM3VGQmRhSndDeDJWMG16elRELTRxcV81QlpmNG1hWUlwcnh6Vy1WbVpzY0VtczNyNWhtMWNWRklYcEhNZ2NzRFgzYjFEQ2Y5aUpwN0dYV0d4S2M1U2RqNjdsSGZQZHhnV2d2WVlfdWFZVWNxcUFIZWFqTXlUWGJ3?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 03:29:06 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Top 3 Indian Dividend Stocks To Watch In September 2026 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONEluX1kxQkp4dEpDQTBBTmFEcnkyeWhDaDhFVkprOVJuQXB2dGRtMC1iU3o3Tm12TFBpMWVTQS1vYlU3QXNVZjN2VExwYlkzY0djNmpLYWlQS0ZmY2l3WXpZa1ZPTXVjRVg1VFhrRHJpT2hPWEwxZWM1SXVXSGs3VmduLXpOd3FKZXFPdmVxSEhQUTlqbWNlNk5VTGZ0ZElGUVcwYkthZDVMYll2ZlZJVlhhQndQUWN1Wll0aEt2X0F6WVRR0gHKAUFVX3lxTE5URzlzcDh1S2JSZnNTQlp6ei1tWkh6NUQ0MnlqR0Q0MFc5QW56QjNnVlVnYXcxTDg1VWxDWDJSNmotUklOa3BidVE1dTF3bUFSUG03VjZzM2hkZ3ZlNXpWLUFFbmdnUnYzSG95SWNSMWtwYklkVkNvRFNoTjJUb2UxcUo5bjR1ZE9fOHpyZHVoU1Y0VG9lQWdsNlRWeG93aVc1OFoxLXlvQ0hrVzZsNjVhMWJyMmFydGNjQ2J3UE01Z2Z4LVJWRjZwWkE?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 00:45:45 GMT"
+      "title": "Bull Run Coming? Morgan Stanley Sees Sensex At 89,000, 16% Upside By June 2027 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNjc3UVRpc1lmcEJ0OG9qUWsxWnkwZFowU0tiakNybXItTFJocDFTOVczV1N5M09wUTF1R1JfYVpUbkN3OWJoMWVpSm9yMWF0VUFaOTI1cWllUEttSlVlWFpGM1VVTFRKZUtkLVE3VE83T0Zheld0VWdjRGdZcGZtOUtNZC1DcnZMTHhkNTV1OHQtVFNlaXNNYTN1Z3ZpQzZZRkFGYkhiVjREUdIBsgFBVV95cUxQajlnTG0tb3FqTUVVQXNkRXZGMnhvYlhFa0s2T0lSaG5lM2VvUHpVWUpJNFM4aFVaSEJsb19OUFVRYXI3ZHNsTVoxZWZjMGxjOHNSNXA0V3QwQ0RzNjVjYzRjcDdGZzVLZTEzbjVDLUN1bWQ0S2pzN21OUDJVTFE0c0JRRzVMYnlITzFfX19XelNKTEtwZk9GcEtCVm5qa1ZjTXpZY0hKUDlZZUlIMENSZ1l3?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 03:29:51 GMT"
     },
     {
       "src": "Google India News",
-      "title": "RBI curbs push prop traders to tap clients\u2019 shares for derivatives - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMlI5ZGFlMlBHVTJjNzEyZG5ZYk9NejZHV1pxaW5sWHZFc1VkSk9pc3RxdlhDblBFdHVUdUhNSVhMdVU3NjhSWmNrTVE1Nm03NDRnblZvSGJxVUtsTUR2MjMwRFZQTGVVRjRyMEpFT2ZkS0VtWGhwVzF0ekM1TFdSYlJJT01jWFhNLXNsdDV2b1NRNm51aURtbDlwS2xDYVIxZDgwTGxYOGFpbHFFazRYRWlGby10RnFvS2FJYUxsUENfb3NQYjYzdDE4LXR4akFnWFNPenVEUW90Smo2RFgxNUpOMNIB6AFBVV95cUxQQkNRdktZWmV1b1lBYjJ4U1pWWHdlOV9TRWxvN19Sd29pMFZDVHhVZVBXN0E0QTREN29NdE5QR3diTWZ3bGtaakpZV1k3eG9CVmNfTlRRNXpqY0Q3TDZuRFMzNGttWWJRbzZ0NzZoQXlPX2lBUHFpSHhRQV83ZnRxT3Z1M3E2YUtERXVQQ2dTNEd0T0lHaGNLbDMta0pJeENMUlVoVGxON2d0UVRHVkNwcjZoR1pmQ0NESjhYem9Cb2ljZXFTa1kwRG1ocDVUcmJmOGh3SVRQRF9memF4dHdDcUdnUmpWRWlz?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 00:50:57 GMT"
+      "title": "(NSE: KOTAKBANK) Kotak Mahindra Bank share price \u2013 Sep 4, 2026 - easternherald.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNTRkTTZVSG1adUhyRm8td1RmcENyc0N5VjdIdnhXLUwyeTlXZ1J5cHhjMnBBakNMejJ0dkE1c0VoVlluOEZnUlIwMlhobHUyd243WW1wVjJRd2d6ZDJJcHhJaXhuSUhEaVZ6d1NoUUlvc3hQb2VMdE5adTYwWkJZTkpVR2NqeUk?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 03:48:56 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Steamhouse India to open Rs 414-crore IPO on September 9 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMW8xd2lVOWpNWW9uWEx6VTE4WGlxWjhNWjhud256d2lBNDlZRThuc2EwRXFsTFZIODlXNG83SnFReVNkQk16OTZKNEE1WlNNT3AyUEdlNkhjQWNsRXBwY2RpSWI4c3N6V2x3NEhsZGFMc2duTkFyeDM2TUV0cWpRSXdSaVNNTTFDU2lGck5sT3hxLTM1NmVOM2dVeHZqakFJTEYxY1ZTT0RCN0ZtNGRRVk5WNTdldFNiS09IWUlB0gG-AUFVX3lxTE8xbzF3aVU5ak1Zb25YTHpVMThYaXFaOE1aOG53bnp3aUE0OVlFOG5zYTBFcWxMVkg4OVc0bzdKcVF5U2RCTXo5Nko0QTVaU01PcDJQR2U2SGNBY2xFcHBjZGlJYjhzc3pXbHc0SGxkYUxzZ25OQXJ4MzZNRXRxalFJd1JpU01NMUNTaUZyTmxPeHEtMzU2ZU4zZ1V4dmpqQUlMRjFjVlNPREI3Rm00ZFFWTlY1N2V0U2JLT0hZSUE?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 01:11:43 GMT"
+      "title": "Gold slides after robust US payrolls boosts rate hike bets - economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxQb1ZBZHFMZGNrdWZqWno3ZjFQTkFWckp4cFFXZDZVTURZdDF6NV9ZS3VEV2UtMVVHZWFTQ3dhT1RIZXhnbm5NNmRHTEpVTm14TlRIVURVM0NQU2JRR0RZQXhKbDB5LUFXQ3prd0pfRE9XNU9PX2hXRDVsVEtLY2FaQjByQ2xzb1BKR0Uzbmk3RFNkUWNBM3ZJenlMUjY5b1ZZS0Jib0laZW5FOF82eU5FclN6NlI0YV84c1dMa1R3S1gzTXZFTXVZemtYbERwUzlGeEgxZnZkSEdKMnZxRUhrMHVyWl9IYk40czFCZmczOUxEeV9kclZOX1JYczFQQjh5dWFxVlVZUTZNbVhNS2VZQjh5Qkc2bW1jbmpKeW1IRm9aVUEyTHV5SU14M3JmbHdjclkzaWwtb3J1eHhh0gHYAUFVX3lxTE8wcHo4aE9hOEFrREhOOUpacTFNTzFpN1JiNU9BS3FTdGVCZU41THgxUW1FZUJmTlZnS0t1T1ZrNFc1d0t1NmhPcFMtNllsMEZGNXBnTEp1Z1pvcndzZ2lVWXVMRVpHNUYxNFpFM2hiN0Y5VDYzM3E1M1RFUzNvazZzbzJxdkJoUERyd3R4TWNZd3BEaWRiSkQzVV93aUtPU3JzVjhzeUFib3ZRRDByMkp6MG9FeTBHdkdIQVJjck83aG54eHlQcmo1Wm8ySHMtRzh5REZNaEIzSg?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 04:00:52 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ksolves India sets 12th AGM for Sep 26, proposes director reappointments - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb1pQcVFYOXIyLV9rVmFlNl9MRlNGOTRZcDdXcHB2bEFMSGVmVVpTZF84Ulp6QXd3RG1wYU9oQktlSUpkQXdjeUJkWTZvanFrVHdEN0F4dmtpRTQ1V0V4Nm42SlE5RzlFczlKNmJkUzdEWDYyTnNwNHRaano4RjlKOUYzOTd5SC1qR2wybTBHc3FObGRUemg0d3U3aEU5MUd0Z0RVbWd2Q3VzRWp4b3h5cDlCRjBqVzN1b1Q5VkNn?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 00:33:45 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Best of BS Opinion: India's tightrope walk on the dollar, BRICS finance - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTTE0SU5OcmNJYUptTU9FdnBZZmwxbzRoVGhpaTIxRDFZSWdrZ2dKYmwyWi10TXl4c3NEWGJ2czNocGltYXNxaGNVNnpLdm9iTlFOWXpZUDBuTVJPUHVldURueWYtQTFDeEpXczBfdjVqZmpZc3lPVHhhUzZEUXJrV1Y4RHMxVmZXWmdOLWZpQ2FKeXdVZ0dJTlYwX0xETHUtNEY3LXJKeERfZFpYUlV6X281dXRoVl9J0gG-AUFVX3lxTE45cEpGMzdtdVhtSGxBVkdtMllDZjJieVljVEcweVlkRUZLdDl6WGtPQ1JJNUxPUGdJak9mWUFhYjk5b3FDTF9yLWhxcTdFZk1aX3NWOWUxeFk4VmJFQnpYTlJLSjN6LWdMTlRSbmhqd0RZUW5hWmxBalIzRWQ2U2ZQbkpjdWhvZ0sySTA0UG85YnpkYlFMQ1ZRc3JoU1dWMVhUQ29aekFRU2JVMnRqa19Mb3I4dkZvNlVxQTNqcVE?oc=5",
-      "pubDate": "Sat, 05 Sep 2026 00:45:19 GMT"
+      "title": "SEBI issues observation letter for Rs 30,000 crore NSE IPO - Investment Guru",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdnIzR05BaTlyaG1UOExnNzJKYkcwNVpNVkNlbzVaY3lPdEo2aDcwTmlWT3FCN0t4TTdsNEJleHRJdUxJcDE1QkdyZHFmUXEtanJRQUJfR3YxRGE3V3dKelNfYzFvYkpsTkY1NWVrekF1R3FqNDNvN19wUDdLeHpFZGpYc2VpTXVKUUlPYWZsaUdXRV9qLXdJMWlUMVR5WXdadnFwQ1NIR2kycmc?oc=5",
+      "pubDate": "Sat, 05 Sep 2026 03:37:03 GMT"
     }
   ],
-  "fetchedAt": 1788570982
+  "fetchedAt": 1788581389
 }
