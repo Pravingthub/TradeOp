@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: US stocks slip as AI fears weigh on software, while oil and rate bets add pressure",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-slip-as-ai-fears-weigh-on-software-while-oil-and-rate-bets-add-pressure/articleshow/133940798.cms",
+      "pubDate": "Wed, 09 Sep 2026 01:44:05 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Rentomojo IPO: BlackRock among investors in Rs 376 crore anchor round",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/rentomojo-ipo-blackrock-among-investors-in-rs-376-crore-anchor-round/articleshow/133937015.cms",
       "pubDate": "Tue, 08 Sep 2026 23:34:10 +0530"
@@ -23,12 +29,6 @@
       "title": "Karamtara Engineering raises Rs 262 crore from anchor investors ahead of IPO. HDFC MF among top buyers",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/karamtara-engineering-raises-rs-262-crore-from-anchor-investors-ahead-of-ipo-hdfc-mf-among-top-buyers/articleshow/133934542.cms",
       "pubDate": "Tue, 08 Sep 2026 22:33:06 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Jio IPO: Co set to begin investor outreach later this week, say sources",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jio-ipo-co-set-to-begin-investor-outreach-later-this-week-say-sources/articleshow/133934116.cms",
-      "pubDate": "Tue, 08 Sep 2026 22:24:52 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Yen holds near seven-month high as US dollar steadies",
+      "link": "https://www.livemint.com/market/yen-holds-near-seven-month-high-as-us-dollar-steadies-11788897469720.html",
+      "pubDate": "Wed, 09 Sep 2026 01:27:49 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Bessent\u2019s \u2018Fever\u2019-Quelling Debt Buybacks Put Wall Street on Edge",
       "link": "https://www.livemint.com/market/bessents-fever-quelling-debt-buybacks-put-wall-street-on-edge-11788896431944.html",
       "pubDate": "Wed, 09 Sep 2026 01:10:31 +0530"
@@ -83,12 +89,6 @@
       "title": "Top stocks in focus today: Investors must watch Innovision, TCS, Bank of Baroda shares on Wed, 9 Sept | Triggers",
       "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-today-investors-must-watch-innovision-tcs-bank-of-baroda-shares-on-wed-9-sept-triggers-11788875139167.html",
       "pubDate": "Wed, 09 Sep 2026 00:00:19 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "How Apple shares will fare amid iPhone 18 launch event \u2014 all eyes on stock and foldable Ultra",
-      "link": "https://www.livemint.com/market/how-apple-shares-will-fare-amid-iphone-18-launch-event-all-eyes-on-stock-and-foldable-ultra-11788884417681.html",
-      "pubDate": "Tue, 08 Sep 2026 23:02:03 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "India's Torrent Gas files updated IPO papers - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa3pGUGdBdVFpeWZlV1MtQTlubWpOYlR4d0hkYzRBaXVadWNYdDlDVVl2R0gzRlVZbng4VFlGNDBXQzRXZVg0TFZEdUJOLW1WMGJDS1UxTFZNdzRQaG5zVXAyTlFWOE5KSkgwZld0TzVRN2ZHMDZad3pOT3JJd3F5TElabGk3OUdCVGVuYWJWQjlOc0I5RzVXMzBGYw?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 19:29:42 GMT"
+      "title": "JioBlackRock Sector Rotation Fund Regular-Growth (\u20b9 9.87) - NAV, Reviews & asset allocation - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0RnbWxwTWFzWk9wVHNURHhWc3ZuY2p2Q2JiYl8yU2ttd0xGSDZMcVFRZ3REeVROWkFiZlBKVU5KSVlJRENqQ3dkNy10cGxzU3pNeHFWZklpQnZQNGpZN19rSjNVeXZMU2M3bTFPS2NiR2N2TjhhWGVXbUhsUUtFR3daVl9DeWw3ejZBdEdPX2VnRHNkS21MZDdJNlYxWllVM2MzMGVwaTc?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 20:40:55 GMT"
     },
     {
       "src": "Google India News",
-      "title": "13 arrested for running online stock market fraud syndicate - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcTl0MW5ZOEVOSHduaXNnVUZUNWw2cEFoOFNPMXl1S0dRTWF5R2dkNGhNaURZdDhEUTI3WnZWdExLN1FqUUxEaHJKZjktSGdsS091Nk9Bck43dmliMmpsLVpMcDdJU1YzZWdUWEZWN3pKYURNcVZrLTBzNkdPSGJBM2lKbkZsR2paMWc0SEhPZFMxQXh1TXllOWtvMHBoeEN0TXJnWkFYSndYM3BBUW1GZ29hSkFtYTBjek1pRXI2dHdrUDhWQUFtdk5sQXUtQdIB0wFBVV95cUxQbHdNcExWbzcxVkU1NHVmdVFPNU5jSDkwSXJ1RlZUcXV5V2N3cDVIdFFvdFFYT3hDYWRNUFg3Yi1VYzZyQTh6OER6b1hkMFNjcFh1ZzdVYl9pRkNFaFFfN21LRkpQdjJrVmZuZUV4eVVVSmdhN1U0SGlwMUVGZDhKTkNmbGRCZzQzemNPQVlhZGMtOTBtR1JtWWMxR1RBOWttUDlUYUtpNXh0TENFVlZoc09hVmo0ckhzdzJYTGNkTHp4Y2pFRkQ3Ty1qZWRybkRObnVN?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 19:31:00 GMT"
+      "title": "Piramal Finance clears $210M debt raise to fuel retail lending push - Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORVNmTzVCYnZVV0k3Tm5vTHhLMWNpQU9QWnp6MmpJcms4RjN2WVhlS2RDUHo4TlExTFNON2Z2Vmg5NzNtWjlZRzhQeVdLTi0wLVRCXzJoc25UcC1VdUxabjRhWFlFd0Nrakx0eDRtb0ptVk9pemh0Ny1JcWVSUGZpRWQ0Qm5RMDhNQ3NRSmI5MC11SUNqdlBnTkhaVnlsZFFOWkE?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 20:58:37 GMT"
     },
     {
       "src": "Google India News",
-      "title": "What tokenised bonds mean for India\u2019s debt market - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSFprRTZUVUU5Wlc3UkREbGxHVUJkVnJNdV8yM0lFMHpweW4xeGlfMGpVT1YzOHlEczBjYmY5NjlqR3BqOWE5Ty1rMllWQ0Q2NjU2c0NFbDBuVHluUTdrOFFjRGNQNmZUNmZRRFlhTW9JenJodXRlbEtQOUo4U19oWDZiN1ZMSWZWRmJhNw?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 19:07:49 GMT"
+      "title": "THE RISE OF COMMODITY SATTA - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBlejNILVp2NnVtcEpxRHlVVWduUmptTEk2ZDR2Z1RRMGdKMVBfdzRZZVFGSzhoZTBKREYtU1FfNjlKSUtRUEJZTGdWYUxQc0FoejVlbnRDRkxnRkV3azNmY2dLaVlSaF93SUtUdHJPUnBiUWRNVGh0S3RXQQ?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 20:41:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Copper prices hit a record high: 5 ways Indian investors can gain exposure to the red metal \u2014 experts weigh in - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPbHVLcHExLU5jdF92TUFTNTRtWnBiQUpyaFVkWmVybkdZNTRWLXMyQUIzZ0RhVVFMYkgwVHN0NGFuNzFueWVyNTlTWXZLbkh3SkxXV0xmdUZYZzQ3cXVCVUVqMHJ0azk1ZDdRb2taUTF2b3c0eUJiaUJCT2hOeUp4TnplazNWVzJlQ1VneGxNeVl0c0o2YzF3X3ZvMWRIVF92dWNNYTdrMzFQSDctRFVQVVdTUThtVTFSQ1dkVm82djBmanJPbThXUllXRjY1bVA5VXBOWFJmUEw3OXRLd2pmX28zZU85eFZOZVdacjFKWkUtQ1c5RWJoSi1DRm9ESXlVVjIydVRR0gGLAkFVX3lxTE02ZVNZWExwX0RqT2k3YmgzQkxtN0xEWFdzZlE5WGZfSVllbWtYQU1rOVU0MXlpWmo5eXM1cnFOdVdKS2FnSUxfal9wMXM4STkxVlVnbDFUMWNiYWtiQ1huZVkycFlVbS1nVnM0YmpsQ01OUGFnQ1lWRnZVajhObWJUQlJxZmtvZmg2dXotWjgtRVF0X3doMVhMV3lST3lKbzkwMFdJOXBUaVl1X1E2cEJCRFdfS29jWDdWaVlkSFhtX1VwV3RlZlg1VGNlVklaZEFIY2pnRk5qSnZPLVY3bE42b3dadlk1NGNiQXdMRFh3NVlmQ0doc1ppRTdXZUtLa3VxRFZKRlV3cG1BOA?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 18:54:08 GMT"
+      "title": "3 Clean Energy Stocks Facing The Grid Buildout Boom - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbmVyYzdaVjNBRTlqUnlGTDF0M0g1c3ROSFhtSGt5N2tCUHU0X2lENUg5RXM1aGxhb0lwNER3dVBONzU5ZEg5dHNrVlJfT1dqcnlpMHFEUHNrTGEwdEhRNGI1WFZTTzYzUHZ6SmpSNjgwYi1NMWd1c1liNDhnelRwMEtjc0pqZmlhWElwNG1ZUHlIdEVyWFhrSmlZaEFUZXdEZDNPTTdSSXhiWFE2dFBOaWRGN1R5RnkwY0VyQ1NISm5tNXh6REhZeVA1RnBRbl82VW1lMnFUcWl4Wjhvc2szZkxBME5KaGPSAewBQVVfeXFMTzhicE9xMW5MYkNxcjE3RDFybVI3dlItSHViTk5TTzBISW9zb3UyN2p5a3NVM1BpT0drMDV0d2ZoQmY4OEFmcTBWdHE1VmdGa2VGUUZadDZDaFFIRk9uSUF1bF9GVTR3TFk3dWNBNHFjVXo2RHBDUjlrQXJzODVxUHRKdGhIU1BTUnBZRmQ2bEZSWElqYnYxVVFDcDZ0eGJ1MFQta2NPS2hZYlhxLUtJT01LbFJUTkRoXzFtbS1CSXNZbnVzaU1tRG9oYmhLejJZcFgtdzQ5Mk5rMVNYOENzTzh6THRKSVhia05mc2c?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 21:06:11 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Mishra Dhatu Nigam schedules 52nd AGM for September 30, 2026 - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdWFFOEJHdmxyLVR0VFp1M3VXcmlNS21NNFFmX0RkQktGSndZSkdVTk5fZ3N1S0VlYjJNQjhCcDZNU1pSaEFudXBXSzh6Wmcxd2Z4MWZtUEFDRWRkblRpM3JOSEE3UXpMbVZIUlJkQkRyXzQ0RmxoaXEzR0o0VGwxcS10dHR1clNzZmpEYklzOTA3UGczY3pFT21nRlFUX3pTaGwwV1FJYmNLWTA1UjJPQVVR?oc=5",
-      "pubDate": "Tue, 08 Sep 2026 19:11:59 GMT"
+      "title": "Trump moves to remove Canadian products from US government procurement - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0p6aWF2bGJIdDBUMnVwemhnWGszQ29vZ25HbzY1NmVHTU1LdVZGcTdQc3d6X2VZMGc4bDlZNzVyQnNXTzNPRkZPbGVtT09IZ1BRTDZOaU4tQXhobVQzMjlydXBaTDdBRnZ4b09ZRXlFejMtYS1zMFF6VE1PdFNaZ3dYcjJmdzFJOW9tMTctN012Njl5ZXZRbGhCbVdSblV5U2VCM0R5a0dOcWU1UVM1am9xdklVOENBODFNNkt4b2tIRzBDNHZSZE9sY9IBywFBVV95cUxQb0p6aWF2bGJIdDBUMnVwemhnWGszQ29vZ25HbzY1NmVHTU1LdVZGcTdQc3d6X2VZMGc4bDlZNzVyQnNXTzNPRkZPbGVtT09IZ1BRTDZOaU4tQXhobVQzMjlydXBaTDdBRnZ4b09ZRXlFejMtYS1zMFF6VE1PdFNaZ3dYcjJmdzFJOW9tMTctN012Njl5ZXZRbGhCbVdSblV5U2VCM0R5a0dOcWU1UVM1am9xdklVOENBODFNNkt4b2tIRzBDNHZSZE9sYw?oc=5",
+      "pubDate": "Tue, 08 Sep 2026 21:13:32 GMT"
     }
   ],
-  "fetchedAt": 1788896708
+  "fetchedAt": 1788903417
 }
