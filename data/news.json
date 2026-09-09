@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: US stocks retreat as oil crosses $100, yields rise ahead of inflation data",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-retreat-as-oil-crosses-100-yields-rise-ahead-of-inflation-data/articleshow/133983348.cms",
+      "pubDate": "Thu, 10 Sep 2026 01:44:36 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Barclays raises S&amp;P 500 year-end target to 7,950 on strong earnings",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/barclays-raises-sp-500-year-end-target-to-7950-on-strong-earnings/articleshow/133979410.cms",
       "pubDate": "Wed, 09 Sep 2026 23:41:04 +0530"
@@ -23,12 +29,6 @@
       "title": "RBL Bank raises $350 million in debut international bond sale",
       "link": "https://economictimes.indiatimes.com/markets/bonds/rbl-bank-raises-350-million-in-debut-international-bond-sale/articleshow/133975367.cms",
       "pubDate": "Wed, 09 Sep 2026 21:23:17 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133974711.cms",
-      "pubDate": "Wed, 09 Sep 2026 20:58:53 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,24 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Copper Hits Fresh All-Time Highs in New York and London",
+      "link": "https://www.livemint.com/market/copper-hits-fresh-all-time-highs-in-new-york-and-london-11788988488948.html",
+      "pubDate": "Thu, 10 Sep 2026 02:44:48 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Wall Street dips as $100 oil, inflation worries weigh on investors",
+      "link": "https://www.livemint.com/market/wall-street-dips-as-100-oil-inflation-worries-weigh-on-investors-11788986594338.html",
+      "pubDate": "Thu, 10 Sep 2026 02:13:13 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Dollar trades near 7-month low against yen as oil settles above $100",
+      "link": "https://www.livemint.com/market/dollar-trades-near-7-month-low-against-yen-as-oil-settles-above-100-11788985799649.html",
+      "pubDate": "Thu, 10 Sep 2026 01:59:59 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Wheat falls amid profit-taking, Black Sea war headlines",
       "link": "https://www.livemint.com/market/wheat-falls-amid-profit-taking-black-sea-war-headlines-11788979794916.html",
       "pubDate": "Thu, 10 Sep 2026 00:19:54 +0530"
@@ -71,24 +89,6 @@
       "title": "Japan\u2019s Biggest Pension Fund Needs a CalPERS Lesson",
       "link": "https://www.livemint.com/market/japans-biggest-pension-fund-needs-a-calpers-lesson-11788979239530.html",
       "pubDate": "Thu, 10 Sep 2026 00:10:39 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "NSE IPO: Exchange to freeze ISIN from September 11; no offline share transfers allowed until listing",
-      "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-exchange-to-freeze-isin-from-september-11-no-offline-share-transfers-allowed-until-listing-11788971269619.html",
-      "pubDate": "Wed, 09 Sep 2026 22:59:16 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "US Treasury triples bond buyback to $6 billion: Why markets saw the move as a disappointment",
-      "link": "https://www.livemint.com/market/stock-market-news/us-treasury-triples-bond-buyback-to-6-billion-why-markets-saw-the-move-as-a-disappointment-11788973032057.html",
-      "pubDate": "Wed, 09 Sep 2026 22:46:27 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Apple stock movement: How iPhone 18, foldable phone expectations are impacting Apple shares? All eyes on Ultra \u2018duo\u2019",
-      "link": "https://www.livemint.com/market/stock-market-news/apple-stock-movement-how-iphone-18-foldable-phone-expectations-are-impacting-apple-shares-all-eyes-on-ultra-duo-11788969165541.html",
-      "pubDate": "Wed, 09 Sep 2026 21:55:04 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "NSE IPO - What is NSE IPO and Why NSE is Listing? - ICICI Direct",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalUxbHJQVE1iQzlDUGhvLW9ZMHBLTlBISk5kODhEUnJ2STRGTjNEWjlZendfWS1WTUN3aDYxRUJSLUtIZzFjR0lsdjFWNU56SXl2U1pwTG1KSG1EUFpCb0kyaHZ4VDg3LXY1UWQ2d3M5Y3E0TlJGeU94V2t4ck9iZWVDakMxaWVOd2p3?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 19:32:46 GMT"
+      "title": "NSE cuts IPO size, may raise 23.5k crore - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU1hRb3NRWTVDNmFqN0MtY2NzbG5xbE13V2FGME1LWHZfSHlOZE1Xb0pjNTNjZjAyakZiZ0tkU1BmRFBhcnlfejd0RlhQQ0NNdVNNcmZkM1JPSWZXWGlzX3dwY3NPVVVyWmZKbmhENGZ4ZnNyWlJsb2NfNmtTZDZ3eXRRUHdIbHRMelM0NXNxdjlsREkzcUZPUGdpczVGalR4UDdwNU85NmRyWWVFMkxzN0JKMXRkM3B3OUF6eEMydXlkOEnSAcgBQVVfeXFMTjlTN1pleHduWnE2S0xnUjFzOTZuQURXUkNNUWJGT1dlZlhhZy1HTEdBdlc1ZFRGSlBVZXpZbEFORFdpVUpwNGtzR1ZDNFdmdHlZVzVXMDFlTWJFRExZNkVxMElhUHIxUHR0YXhtcXZKbG5CZDhwcEo2aVg4NDBfZVlTYVN4LTFqWDEydExtZVU5N2hZdnlyc29waFB3Z1pqRTJzdHBxUDlVY2I2YzVWb3BFdkZsY2k0WHZwSzEwSDZPT3V4SUQtcFg?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 21:08:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India markets regulator proposes easing board rules for stock exchanges, other market institutions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlJoY0E4VzBONU51M0V6WnlCRndJWHR1VWw2c2N6SnBHRnJjMU5yRGl4cjVXakIwSy1EMHZ3ZWNwclJ1Ums1WmFNaTZtaEdfRko2ZjJoNU5mMV9JQmJNWk1XM2xpeVE5S3BqS3hQZTNmUkF4VlhZQWQ4T0QyeDRQc29zNTlGaGVoRTZJV3ctVjlZWU9aZXc3SDBoY2UydlFPTUV5UUhpY3VMZFgyLVpwMU85THlUSldtUVFrM2ZabnA5cGYxdHNsbkc2R3FBZw?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 19:15:01 GMT"
+      "title": "NSE IPO: Exchange to freeze ISIN from September 11; no offline share transfers allowed until listing - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPbElsMlFvOXpncF8tZFJEWjFycjZmbngzeTBraENlbm5oUUYydzVxWjZZcFVqaEFlTUV3b1hpdmRabDNwUDVvYnVJTUVxdWFBYmx3OEZfa0RnUllBVnNWVnhvVFM4TnpmaU5LT0lBaDdpQnpwVkdiSVdyN2hYc2ZtVkdYRmcyQlJVTjVWcF9ldkYwbGpHTUQtdGt1bnVYbHFYd2xzTURsU1VSQkJOaGVaOTRMQTlBNXRqWnZFQ01mTVpVbVp0RElHVC1Ud3FzY1ZYWlRSZm9fTURiS0JYWC1UVFMyUXQyQjRWbVhv?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 20:33:24 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3 Insurance Stocks Built For Rising Shipping Risk - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGJiNkJyMVl6TkRYMGdvVVpHUlhoa2pkVTRPOXpZdm5nWlZURVNSZHhodkxWM0NVLTA0bWpHOEZPQXJqSkZjdHpFMDg1RTM4dzBZZHpZWlc1b1ZKR1ZJd29tUkQ1WG5odndkS21Ra3h6ak9TSWlCMlVQR01mUmoyZ0Naa1BGcV9ZMUNBSV9mcHY3cDZKNVR0SnBvaUdYcWRabW5wTDgzUVZvaTByaDV0bHAwM1UxYThHLTgyZFNROHhZczIwZjNGM25Ma3VMd9IB0wFBVV95cUxOekVxN2dPeG52UjVZenhqclVlWU5IeEhwc29JckE0UUpYNExNNGk2N0tBTjZOeFpfUDFiSDV0RU5LYktUZGtnWXFzc1U0OUkzd3kweEhuM2pkcGluZ2c1RXUwR19fSkF4TmpMQU1qS0RIOVo4M29CNjA3VEpwNUd6aDRJTW9ycW44VjRzZWNweFN3SDk3YmRlcDZrXzlLQmYyS3NQcVhQYlNTYjg5bWpVd0d3eVpUN1ZkTFd4VkVTaFFwZ3RQQ0hkbFJJMUpOZEEzWmR3?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 19:31:33 GMT"
+      "title": "JM Medium to Long Term Fund-Bonus - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZDdYaExJREdzX3BXTXpPaHhJNXptMnBxQm9pS1B3RVhRTkZZMUVxMnpLZlBMbk1DVnZBSnd2Z2lRMm9PaU1OTDZOWjU2WkNBa2IzQ0E2eERZb2hralBPYVROMzZ5VEVmVGxoNkxoblFaTENXQjVwZDkzbHRFTUZKS0xWTWhoMDJFRlFDSld3WmVFUQ?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 20:36:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Barclays raises S&P 500 year-end target to 7,950 on strong earnings - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOVRBSXE0aHQtRGZ3bzdKSkFoLWRSbDJnQmtadEYwTUZwZkhZUUlrUE9Gd0tKNzBPSzByN1FTelNfcGp5c1BRT2xEZHl2M3ljX1Y2eHVrMENGem8yOXBoNlg3OVpUa2hrRUJIRnVSQWlSTWh1MjExcGNRaTdKTHVRbTVZbkhEeDZ4NjkzcWhOQnR2VmxKQXZhak82OUpnVm9sRnp1SXE2Ym95Y0U2U0x1a3h6dFNmUm9NaS1tODc4M3NJdl9VT0hCYXJwb1liM1NBQTFCS1p2eDI5d1Fjd2U0V29wRzRWSVVWYVMw0gHwAUFVX3lxTFBlNE9hNFF5Y2ltRHRMdkJZV09CdnpRNEFpcWtEZUd2VWlZT2F5QU1lZWtsZlpwcm1mVmNEVDE0NEVJZk5MMFA5LTQ2YWhpd2owX0g1TWN2YnRrcDJlTzFRZGxPWGRpZThnbzRUS1NGTkItMVRMNGFScjVTRUJqZHk1aXd1QkF5U0MyV1Bad1dINHZjZWJadDFlRTY2TXl0V1J3c2t3WnRvRVVTYUlMTm96bGl6SW5iR1NGVUJUSHZaZDcyLXZuQlp0SFJqaTNjVmRQRWFKRk9iQzhESTZSTFRvS3A1NXQ1VVNITkoxaGJtZw?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 19:21:17 GMT"
+      "title": "Uproar Over Eiffel Tower Incident: Paris Mayor Condemns Hindu Group, Orders Investigation | Watch - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNemVkNkhPQmZxNzRjVHpwRnJCTDJPZnhQTTc3MkZST01JUFBGVGxGUmlwY3NMekxUWHB3SFJ5TnhrWmtrX2VXVUZIaW9FS1hCbGpHQTdiRDZ1MVplWkNyVFpYQ1MwaHpxbU5pbER2Qkk2VFpHbGd6RW41QUR3Y2E2YWthNi03T2Y2VGZBX2V6MjN0ZVM4LVpUM2ZtcS13Mm1PdDhzcjBQU2swZ1htbzVWTmhvWm16YTV4cmpLalZISy1Ud0FudkJ2UXRFcmpEODE0NDJZclBuTXNxSllOeVHSAeMBQVVfeXFMUDJZNjBaN3RoTUZxREtGVmhvX2NnZlZUVDlybXdleUxpRk54YmxJeGg3Q0J5ZUQ1UkowazJhcDhkMzNSalRDOU81UUpfZXNkTnpBMjhiSzdFRThFMzByZS1mWXlmcUJqU1RmeDNTMlNSOC1vZlJ2WEFXTzZjTGpoVTdYRkhyMU4zR3pieVIxSVM2ZzVoTkdoZnhRT2dxTkJVdXNfOHdRWm1OeU9FRWJtaTBZNXhRNWNrTV8xWGpNOWZvamR5c2xSaTIwV1B6ZUtBdVBHSUFkUWFpWUJNZWpPdDA2Uzg?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 21:17:26 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Global Fintech Fest 2026: Agentic AI, tokenisation and quantum\u2014how these 3 technologies could change how you invest - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcXd4azhGbk1xak1FMC1mcnVnSGdGYWR2bHZOOHhHYlJaUjJ1UGNZY0QyOEt0a1JHQU41MW9WbEJqLVpiZE81a2lBcE1vY2p2aHZXbVd5VnVpVjF0TVZjS3RUaU1hdGk2bnd2NzFmLVBlMUpYQkF5UDdZdlMxYkJFUVhCQUxZZEFHYldxdFc1SjNlQ2hVbElyQU56LUhZbHZ6cmFhQ3pma3Z0SjhjVjNveTdjc3RpdWRiazlCdUxCVlIzSDRCY1d0eDVYMlFmZUEwb2dWbml5cnhlaDkwdUNHNVRmck1pS2pCekdieHU5N0xBOWNqN2ZFcFZKb2Nab3pyVnl3bFdnNW9tbWx0X2fSAZMCQVVfeXFMTWVTTXRURmdCamtPVDFjTEZJSkV3TUtkSGh1OGVwUmlGMWNrMFBzMFdGcW5IakV4N0JLTkk5Sy1kWnRaODZtMmNXQS00TkxLNjJMcEZKNE9wV3lEeFJMWXM3cTFxdzkwYnBUTmtGTDhjQ2lOdFlQLWZVVmMwTkZwM2ppM3dnWUVSMG8tQ1pvZ0hhWDN2WVItaEpUMmZXSW1Qd1VjV2hnck10ZjFXT3VSVEh0a2hkWjVFanA1ZzZzZzE2ZGZIMVRuZ3pZNm02c3NHMlA3VkRIX1gxZUtlTDV3ZDJfa2xGTUtfUV9oaW1va3dtTG9MRGtkRzRIa1FNc3lXcnBoQk1TcTNNbFRXbkVRTjQ1MGM?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 19:15:25 GMT"
+      "title": "Invesco India Medium Term Fund Regular-Discretionary IDCW - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTDUzQ0lRZTZTVUFjcTdNS2hORkVDMXZsRHFBeHdObmR0WkpCcS1XaFhmNXdRbTNkeUNuWGxVUkNyUWR3TkhlS1FVTVNxTTJwMS1ybFpiRlg5UE5nZ1VQNUZmQjBwNTRPU01JbzE3dFRONEJLX3h5OFlpa010Mkd4eUdPSUVCZmtUanUtZFBYZnBZV0NmS2JRZmNqZ0pfbGFkRnc?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 20:31:47 GMT"
     }
   ],
-  "fetchedAt": 1788983124
+  "fetchedAt": 1788989494
 }
