@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Barclays raises S&amp;P 500 year-end target to 7,950 on strong earnings",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/barclays-raises-sp-500-year-end-target-to-7950-on-strong-earnings/articleshow/133979410.cms",
+      "pubDate": "Wed, 09 Sep 2026 23:41:04 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "ICICI Prudential AMC gets RBI approval to buy up to 9.95% stake in Kotak and 3 other banks",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/icici-prudential-amc-gets-rbi-approval-to-buy-up-to-9-95-stake-in-kotak-and-3-other-banks/articleshow/133979457.cms",
+      "pubDate": "Wed, 09 Sep 2026 23:29:53 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US stocks calm ahead of midterm polls, but markets may be underpricing the risk",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-calm-ahead-of-midterm-elections-but-markets-may-be-underpricing-the-risk/articleshow/133977073.cms",
+      "pubDate": "Wed, 09 Sep 2026 22:24:31 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "RBL Bank raises $350 million in debut international bond sale",
       "link": "https://economictimes.indiatimes.com/markets/bonds/rbl-bank-raises-350-million-in-debut-international-bond-sale/articleshow/133975367.cms",
       "pubDate": "Wed, 09 Sep 2026 21:23:17 +0530"
@@ -13,28 +31,10 @@
       "pubDate": "Wed, 09 Sep 2026 20:58:53 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "US stocks today: US stocks slide as oil tops $100, stoking fresh inflation fears",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-falls-300-points-as-oil-price-crosess-100/articleshow/133971560.cms",
-      "pubDate": "Wed, 09 Sep 2026 19:14:21 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Rupee falls to 95.11 vs US dollar as West Asia tensions drive oil fears",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-to-95-11-vs-us-dollar-as-west-asia-tensions-drive-oil-fears/articleshow/133971268.cms",
-      "pubDate": "Wed, 09 Sep 2026 19:01:54 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sebi revises rules for open interest violations in commodity derivatives",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revises-rules-for-open-interest-violations-in-commodity-derivatives/articleshow/133970428.cms",
-      "pubDate": "Wed, 09 Sep 2026 18:34:45 +0530"
-    },
-    {
       "src": "Business Standard",
       "title": "L&T, IIFL Finance follow REC into India's emerging tokenised bond market",
       "link": "https://www.business-standard.com/markets/news/l-t-iifl-finance-follow-rec-into-india-s-emerging-tokenised-bond-market-126090901624_1.html",
-      "pubDate": "Wed, 09 Sep 2026 21:28:53 +0530"
+      "pubDate": "Wed, 09 Sep 2026 21:28:19 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,45 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Wheat falls amid profit-taking, Black Sea war headlines",
+      "link": "https://www.livemint.com/market/wheat-falls-amid-profit-taking-black-sea-war-headlines-11788979794916.html",
+      "pubDate": "Thu, 10 Sep 2026 00:19:54 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Japan\u2019s Biggest Pension Fund Needs a CalPERS Lesson",
+      "link": "https://www.livemint.com/market/japans-biggest-pension-fund-needs-a-calpers-lesson-11788979239530.html",
+      "pubDate": "Thu, 10 Sep 2026 00:10:39 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "NSE IPO: Exchange to freeze ISIN from September 11; no offline share transfers allowed until listing",
+      "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-exchange-to-freeze-isin-from-september-11-no-offline-share-transfers-allowed-until-listing-11788971269619.html",
+      "pubDate": "Wed, 09 Sep 2026 22:59:16 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "US Treasury triples bond buyback to $6 billion: Why markets saw the move as a disappointment",
+      "link": "https://www.livemint.com/market/stock-market-news/us-treasury-triples-bond-buyback-to-6-billion-why-markets-saw-the-move-as-a-disappointment-11788973032057.html",
+      "pubDate": "Wed, 09 Sep 2026 22:46:27 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Apple stock movement: How iPhone 18, foldable phone expectations are impacting Apple shares? All eyes on Ultra \u2018duo\u2019",
       "link": "https://www.livemint.com/market/stock-market-news/apple-stock-movement-how-iphone-18-foldable-phone-expectations-are-impacting-apple-shares-all-eyes-on-ultra-duo-11788969165541.html",
       "pubDate": "Wed, 09 Sep 2026 21:55:04 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Sebi eases commodity position limits, caps penalties for breaches",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-eases-commodity-position-limits-caps-penalties-for-breaches-11788965610013.html",
-      "pubDate": "Wed, 09 Sep 2026 21:29:47 +0530"
+      "src": "CNBC TV18",
+      "title": "Dell stock hits record high as AI infrastructure demand drives rally",
+      "link": "https://www.cnbctv18.com/market/dell-stock-hits-record-high-as-ai-infrastructure-demand-drives-rally-19987977.htm",
+      "pubDate": "Wed, 9 Sep 2026 23:36:06 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "NSE IPO: Indian Bank to divest up to 17.91% of its holding in National Stock Exchange via Offer for Sale",
-      "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-indian-bank-to-divest-up-to-17-91-of-its-holding-in-national-stock-exchange-via-offer-for-sale-11788967087644.html",
-      "pubDate": "Wed, 09 Sep 2026 20:53:52 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Top stocks in focus tomorrow: Investors must watch Coal India, Shakti Pumps, Wipro shares on Thu, 10 Sept | Triggers",
-      "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-coal-india-shakti-pumps-wipro-shares-on-thu-10-sept-triggers-11788964212253.html",
-      "pubDate": "Wed, 09 Sep 2026 20:46:33 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Vodafone Idea share price: Jefferies sees 132% upside to  \u20b936 on tariff hikes; initiates coverage with 'Buy' rating",
-      "link": "https://www.livemint.com/market/vodafone-idea-share-price-jefferies-sees-132-upside-to-rs-36-on-tariff-hikes-initiates-coverage-with-buy-rating-11788961070519.html",
-      "pubDate": "Wed, 09 Sep 2026 19:29:05 +0530"
+      "src": "CNBC TV18",
+      "title": "Aditya Infotech reports fire at Andhra Pradesh plant; \u20b928 crore loss estimated",
+      "link": "https://www.cnbctv18.com/market/stocks/aditya-infotech-reports-fire-at-andhra-pradesh-plant-%25e2%2582%25b928-crore-loss-estimated-19987956.htm",
+      "pubDate": "Wed, 9 Sep 2026 23:08:56 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Wed, 9 Sep 2026 22:28:19 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Wall Street's official 2026 stock market outlook: The latest CNBC Market Strategist Survey",
-      "link": "https://www.cnbctv18.com/market/stocks/wall-streets-official-2026-stock-market-outlook-the-latest-cnbc-market-strategist-survey-19987918.htm",
-      "pubDate": "Wed, 9 Sep 2026 21:18:37 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Indian Bank to sell 15 lakh NSE shares via offer for sale in proposed IPO",
-      "link": "https://www.cnbctv18.com/business/companies/indian-bank-to-sell-15-lakh-nse-shares-via-offer-for-sale-in-proposed-ipo-19987878.htm",
-      "pubDate": "Wed, 9 Sep 2026 20:53:16 +0530"
+      "src": "Google India News",
+      "title": "NSE IPO - What is NSE IPO and Why NSE is Listing? - ICICI Direct",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPalUxbHJQVE1iQzlDUGhvLW9ZMHBLTlBISk5kODhEUnJ2STRGTjNEWjlZendfWS1WTUN3aDYxRUJSLUtIZzFjR0lsdjFWNU56SXl2U1pwTG1KSG1EUFpCb0kyaHZ4VDg3LXY1UWQ2d3M5Y3E0TlJGeU94V2t4ck9iZWVDakMxaWVOd2p3?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 19:32:46 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SEBI proposes wider pool of directors, norms for key officials - The Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY3JXRVAzYWJYbGhiXzlJTERsV205YVUzeFppWTRyQXAxbHpONjAyWjZRY2pFUk0wVTY1YVBhczJxZzgybTc1UktRNnk0ZlRfeDQ5ZF9tQVNwVkNuMWNRU1Y5REFpMVZhSm1mSk1YaGxBUXBjWkM1bWxLb3BGd0lIbnV0S1dTc3FJbjFyNS1MdXlWV0JWQ2ZoQjRwdVQ4dThqVl9ycUQwNXFwaU9VMjUwRGNQcU1UVHRZdUhaQmF1cmpoR0tVM3RnMWZIVVBSckRPZ0HSAdgBQVVfeXFMTkx2ZmVqaVdVMjNRd2lkc21CVk9wb2hiVUF5aG13eDc3Z2o4Mk43d18wYVFzSE5OTkdBcXpzdDVyVUt6NUxIMjBMV2IySzY4V3Bzcmc1NXZQQkFwMFVuTVJJdm5keDhsOExPMm1MMDNVQ0ZxOFR5aDVrTGdPcTdEeGRPVTFsemFaSmU3ZGhfM0NSdHd4Y2p1WmxjYy1leVhnNFZQRnl6QnREUWt3bURBeS16WkdzMzV5UGw3b3p0Z3lnZm1NdXJJV0x6M2dDRzczRlhGektDdXla?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 16:25:56 GMT"
+      "title": "India markets regulator proposes easing board rules for stock exchanges, other market institutions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdlJoY0E4VzBONU51M0V6WnlCRndJWHR1VWw2c2N6SnBHRnJjMU5yRGl4cjVXakIwSy1EMHZ3ZWNwclJ1Ums1WmFNaTZtaEdfRko2ZjJoNU5mMV9JQmJNWk1XM2xpeVE5S3BqS3hQZTNmUkF4VlhZQWQ4T0QyeDRQc29zNTlGaGVoRTZJV3ctVjlZWU9aZXc3SDBoY2UydlFPTUV5UUhpY3VMZFgyLVpwMU85THlUSldtUVFrM2ZabnA5cGYxdHNsbkc2R3FBZw?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 19:15:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FIIs turn net sellers of Indian equities worth Rs 583 crore while DIIs net buy Rs 1509 crore on Sep 9 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOT0RJelJiMTAyR045NWhTYTMyMFZHbXpCTGhWT3EwYWJEaUo1LTRsNExWYURYbEszTnVUX3p3RTdIV0RFbUFEYWJ5UXRmSWUxOExHYkZ5dWYzcEVqaEZUR25lbmJWaXJYMXdCSm44Z1BsVmV4cEJkemxCUjNvbDU2Z2JSV0RhWU5jdi16Z2E5b0YwLWdWaGlMN09haEd3ZTdQdGRXMzZFUGFyMXMyelFsLXR6Ynh3a2NkUWJya0tINHcteUktVXZUWTBRdXctZ0l1ZnYxT0NzeGJ5LUJzeGpqMEVPZW1sTDdDVEtkSG5oc1hsdlNQUFNMd2E5SEp0bFnSAf8BQVVfeXFMTk9ESXpSYjEwMkdOOTVoU2EzMjBWR216QkxoVk9xMGFiRGlKNS00bDRMVmFEWGxLM051VF96d0U3SFdERW1BRGFieVF0ZkllMThMR2JGeXVmM3BFamhGVEduZW5iVmlyWDF3QkpuOGdQbFZleHBCZHpsQlIzb2w1NmdiUldEYVlOY3YtemdhOW9GMC1nVmhpTDdPYWhHd2U3UHRkVzM2RVBhcjFzMnpRbC10emJ4d2tjZFFicmtLSDR3LXlJLVV2VFkwUXV3LWdJdWZ2MU9Dc3hieS1Cc3hqajBFT2VtbEw3Q1RLZEhuaHNYbHZTUFBTTHdhOUhKdGxZ?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 16:35:20 GMT"
+      "title": "3 Insurance Stocks Built For Rising Shipping Risk - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbGJiNkJyMVl6TkRYMGdvVVpHUlhoa2pkVTRPOXpZdm5nWlZURVNSZHhodkxWM0NVLTA0bWpHOEZPQXJqSkZjdHpFMDg1RTM4dzBZZHpZWlc1b1ZKR1ZJd29tUkQ1WG5odndkS21Ra3h6ak9TSWlCMlVQR01mUmoyZ0Naa1BGcV9ZMUNBSV9mcHY3cDZKNVR0SnBvaUdYcWRabW5wTDgzUVZvaTByaDV0bHAwM1UxYThHLTgyZFNROHhZczIwZjNGM25Ma3VMd9IB0wFBVV95cUxOekVxN2dPeG52UjVZenhqclVlWU5IeEhwc29JckE0UUpYNExNNGk2N0tBTjZOeFpfUDFiSDV0RU5LYktUZGtnWXFzc1U0OUkzd3kweEhuM2pkcGluZ2c1RXUwR19fSkF4TmpMQU1qS0RIOVo4M29CNjA3VEpwNUd6aDRJTW9ycW44VjRzZWNweFN3SDk3YmRlcDZrXzlLQmYyS3NQcVhQYlNTYjg5bWpVd0d3eVpUN1ZkTFd4VkVTaFFwZ3RQQ0hkbFJJMUpOZEEzWmR3?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 19:31:33 GMT"
     },
     {
       "src": "Google India News",
-      "title": "ICICI Prudential Medium Term Bond Fund-IDCW Half Yearly - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXRKTTRscl9pVkNFQjVjbUZuWGtpRTRfNEVMUTYzbjdMV0NMUkwxUmNEUFExbGpkaGVJLWFaWVdNMk9Wa3BxRmhkS2xhSjNCeUxjZXNlSVBuc0o5UTgwQkFJX1B6LXV2d2l0M0ZTLXpIcnA2aEgyYmV4QU82aEdVd0RTVlZoTW56TW9YbEFaU3JlWGpBTmVURw?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 16:21:32 GMT"
+      "title": "Barclays raises S&P 500 year-end target to 7,950 on strong earnings - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOOVRBSXE0aHQtRGZ3bzdKSkFoLWRSbDJnQmtadEYwTUZwZkhZUUlrUE9Gd0tKNzBPSzByN1FTelNfcGp5c1BRT2xEZHl2M3ljX1Y2eHVrMENGem8yOXBoNlg3OVpUa2hrRUJIRnVSQWlSTWh1MjExcGNRaTdKTHVRbTVZbkhEeDZ4NjkzcWhOQnR2VmxKQXZhak82OUpnVm9sRnp1SXE2Ym95Y0U2U0x1a3h6dFNmUm9NaS1tODc4M3NJdl9VT0hCYXJwb1liM1NBQTFCS1p2eDI5d1Fjd2U0V29wRzRWSVVWYVMw0gHwAUFVX3lxTFBlNE9hNFF5Y2ltRHRMdkJZV09CdnpRNEFpcWtEZUd2VWlZT2F5QU1lZWtsZlpwcm1mVmNEVDE0NEVJZk5MMFA5LTQ2YWhpd2owX0g1TWN2YnRrcDJlTzFRZGxPWGRpZThnbzRUS1NGTkItMVRMNGFScjVTRUJqZHk1aXd1QkF5U0MyV1Bad1dINHZjZWJadDFlRTY2TXl0V1J3c2t3WnRvRVVTYUlMTm96bGl6SW5iR1NGVUJUSHZaZDcyLXZuQlp0SFJqaTNjVmRQRWFKRk9iQzhESTZSTFRvS3A1NXQ1VVNITkoxaGJtZw?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 19:21:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India-Thailand trade talks focus on market access, Asean trade agreement review - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnhMdDVxUTNqOWpLTGUtdXpKSUdQM19PZjhOZHp2eTBmdlZHVHc3ai1uWi16MFBIZkwzY2J3MG5zTzZCYl9CQ011SXJzMEZCWVFaeXk5RGxGQVEtOVhxcERUc0lZZjFWYjhXLUdQMWRidlNaa0ZjVnpUMmN2enZJSjcxY01SenJGQ1A2WjF6Ym1BcWpSLWU5OHkwZjBkTDNJb0lrSWJwVklBdm1DS2N1dVRydzBZck9pRENaLWNRSmtLMnZtcHg3bXVB0gHPAUFVX3lxTFBwVjM5bGt3NUF2VXd5YWw3MnVodE1yLTdGVUlXczRrWnRFVmJEbFo1SUU2M1hBd1o3aVlkYkhySTNuVHRTVHhqWGhIZkZvMzB3Y1NXMlBNRE9FQnZrc3M4cXhmRjFZbEZ3OFY1X3pXNG1zbkhwWVBCVmZMYmFsdjlrSmNHX1NaVEJGRy1ET25tVlluX0FxcElyRUp1OEFDQ29wdk5iVjluVldfVEh5Rm1oRmRaMkFYUFI2T1FjSll0MU4wdTN3YjFsbEIzWHp6VQ?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 16:11:16 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Sonaselection India IPO Date, Review, Price, Allotment Details - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9zOTVsWkNJaXJ3NndPMEdKSW1HWWQtUVFlWGF4c3AtanRsRGhodkJwanhiNGYxVXdjdm82amVLdDhlYk9HRlpVcHUwYzkzVzFycEpYNzdOQQ?oc=5",
-      "pubDate": "Wed, 09 Sep 2026 16:36:18 GMT"
+      "title": "Global Fintech Fest 2026: Agentic AI, tokenisation and quantum\u2014how these 3 technologies could change how you invest - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPcXd4azhGbk1xak1FMC1mcnVnSGdGYWR2bHZOOHhHYlJaUjJ1UGNZY0QyOEt0a1JHQU41MW9WbEJqLVpiZE81a2lBcE1vY2p2aHZXbVd5VnVpVjF0TVZjS3RUaU1hdGk2bnd2NzFmLVBlMUpYQkF5UDdZdlMxYkJFUVhCQUxZZEFHYldxdFc1SjNlQ2hVbElyQU56LUhZbHZ6cmFhQ3pma3Z0SjhjVjNveTdjc3RpdWRiazlCdUxCVlIzSDRCY1d0eDVYMlFmZUEwb2dWbml5cnhlaDkwdUNHNVRmck1pS2pCekdieHU5N0xBOWNqN2ZFcFZKb2Nab3pyVnl3bFdnNW9tbWx0X2fSAZMCQVVfeXFMTWVTTXRURmdCamtPVDFjTEZJSkV3TUtkSGh1OGVwUmlGMWNrMFBzMFdGcW5IakV4N0JLTkk5Sy1kWnRaODZtMmNXQS00TkxLNjJMcEZKNE9wV3lEeFJMWXM3cTFxdzkwYnBUTmtGTDhjQ2lOdFlQLWZVVmMwTkZwM2ppM3dnWUVSMG8tQ1pvZ0hhWDN2WVItaEpUMmZXSW1Qd1VjV2hnck10ZjFXT3VSVEh0a2hkWjVFanA1ZzZzZzE2ZGZIMVRuZ3pZNm02c3NHMlA3VkRIX1gxZUtlTDV3ZDJfa2xGTUtfUV9oaW1va3dtTG9MRGtkRzRIa1FNc3lXcnBoQk1TcTNNbFRXbkVRTjQ1MGM?oc=5",
+      "pubDate": "Wed, 09 Sep 2026 19:15:25 GMT"
     }
   ],
-  "fetchedAt": 1788973422
+  "fetchedAt": 1788983124
 }
