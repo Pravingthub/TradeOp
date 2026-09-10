@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US bond yields climb to multi-year highs as oil surge revives bets on higher Fed rates",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bond-yields-climb-as-oil-surge-revives-bets-on-higher-fed-rates/articleshow/134023668.cms",
+      "pubDate": "Thu, 10 Sep 2026 23:27:37 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Oil surges 5%, Brent and US crude both over $100 on more tanker attacks",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/oil-surges-5-brent-and-us-crude-both-over-100-on-more-tanker-attacks/articleshow/134023313.cms",
+      "pubDate": "Thu, 10 Sep 2026 23:17:03 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Hotter producer prices strengthen bets on a Fed rate hike",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/hotter-producer-prices-strengthen-bets-on-a-fed-rate-hike/articleshow/134020373.cms",
       "pubDate": "Thu, 10 Sep 2026 22:20:23 +0530"
@@ -17,18 +29,6 @@
       "title": "Will Bitcoin touch $400,000 by 2030? Coinbase CEO Brian Armstrong answers",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/will-bitcoin-touch-400000-by-2030-coinbase-ceo-brian-armstrong-answers/articleshow/134018361.cms",
       "pubDate": "Thu, 10 Sep 2026 21:22:29 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Copper falls after report of White House hesitancy over tariff plan",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/copper-falls-after-report-of-white-house-hesitancy-over-tariff-plan/articleshow/134017948.cms",
-      "pubDate": "Thu, 10 Sep 2026 21:12:04 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "ECB raises interest rates as Iran war fans inflation fears",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ecb-raises-interest-rates-as-iran-war-fans-inflation-fears/articleshow/134017879.cms",
-      "pubDate": "Thu, 10 Sep 2026 21:10:03 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,18 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Is copper a new gold? Experts unveil this strategy to make money",
+      "link": "https://www.livemint.com/market/stock-market-news/is-copper-a-new-gold-experts-unveil-this-strategy-to-make-money-11789059703371.html",
+      "pubDate": "Thu, 10 Sep 2026 23:33:59 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "SEBI says closing auction session is here to stay: What it means for stock market investors",
+      "link": "https://www.livemint.com/market/stock-market-news/sebi-says-closing-auction-session-is-here-to-stay-what-it-means-for-stock-market-investors-11789056505925.html",
+      "pubDate": "Thu, 10 Sep 2026 22:52:18 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Oracle shares fall over 3% ahead of earnings as AI spending in focus",
       "link": "https://www.livemint.com/market/stock-market-news/oracle-shares-fall-over-3-ahead-of-earnings-as-ai-spending-in-focus-11789055560625.html",
       "pubDate": "Thu, 10 Sep 2026 22:20:15 +0530"
@@ -79,16 +91,16 @@
       "pubDate": "Thu, 10 Sep 2026 20:09:48 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Top stocks in focus tomorrow: Investors must watch Fino Payments, KIMS, Texmaco Rail shares on Fri, 11 Sept | Triggers",
-      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-fino-payments-kims-texmaco-rail-shares-on-fri-11-sept-triggers-11789037727262.html",
-      "pubDate": "Thu, 10 Sep 2026 19:42:33 +0530"
+      "src": "CNBC TV18",
+      "title": "Exclusive | NSE files IPO papers with RoC; price band likely on Sept 11, issue opens Sept 17, say sources",
+      "link": "https://www.cnbctv18.com/market/exclusive-nse-files-ipo-papers-with-roc-price-band-likely-on-sept-11-issue-opens-sept-17-say-sources-19988891.htm",
+      "pubDate": "Thu, 10 Sep 2026 23:09:02 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Brent crude tops $105 a barrel as tanker attacks intensify in Middle East; Saudi output cut fuels concerns",
-      "link": "https://www.livemint.com/market/stock-market-news/brent-crude-tops-105-a-barrel-as-tanker-attacks-intensify-in-middle-east-saudi-output-cut-fuels-concerns-11789044497665.html",
-      "pubDate": "Thu, 10 Sep 2026 19:32:05 +0530"
+      "src": "CNBC TV18",
+      "title": "Premier Energies expands beyond solar with 12 GWh battery storage plant in Telangana",
+      "link": "https://www.cnbctv18.com/business/companies/premier-energies-expands-beyond-solar-with-12-gwh-battery-storage-plant-in-telangana-19988822.htm",
+      "pubDate": "Thu, 10 Sep 2026 22:22:54 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Thu, 10 Sep 2026 22:00:07 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the September 11 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-september-11-trading-session-19988792.htm",
-      "pubDate": "Thu, 10 Sep 2026 21:11:08 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "GFF 2026 | AI has put Indian IT under pressure. Why Vetri Subramaniam sees deep value in the sector",
-      "link": "https://www.cnbctv18.com/market/indian-it-ai-headwinds-deep-value-vetri-subramaniam-uti-amc-gff-2026-19988798.htm",
-      "pubDate": "Thu, 10 Sep 2026 20:50:12 +0530"
+      "src": "Google India News",
+      "title": "NSE likely to slash IPO size to Rs 23,000 crore - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaExVb05VZTdKWW1PMzhqT1M1cXA1M0EzelJGQldpV19Dam9tLVVQQ1FTQ0M2V1IxaWhnSE11MEVfVEVuTlNDdzZsVkQxakhQZjlaYkI2eFRBZ01SRFFWNUc1NmdrckNQRUl5WGR0dncyWlBBZGpXME1fazIybF9SSWNPbTBkaUY4VFg4RVRlbGczb0p1emViV2hYeWVXWEQxcEHSAa8BQVVfeXFMTzF2WEZOeXA2XzJPTllaVkFkZWVkMVVIcEtkZk9YSEZwLVhaZzNrWWJfVkFYc1Nfak1RRmk1bmhscTY5U2drTkVtRUozcjEyTW92dGZZX3pzV1Y1ZEx3LUpKU2ZXWVBoYUNHbElSNkkzcmkxZ1BpUmRGQW43MDVsVW90TkEwcWZBb050RWMxN2ZYd1o3cEZ4dmE5TDJCX3M0cVNQSk9xYTdydWNyWDN6Yw?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 18:31:56 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Dabur India Share Price Today (DABUR) | Live Chart, News & Stock Market - TechGraph",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ucHpEc1BjZjVtb0tscTJkVy1RQjZaRTBaV1dYS2pWT2FXVkNlaVFQaHhsWUlQMzFrOUhrQzMtNFpMdVdpc0RqaWZXMnIyeXFaVlIwS1Ewcy1qSWNLMWc?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 16:21:00 GMT"
+      "title": "Exclusive | NSE files IPO papers with RoC; price band likely on Sept 11, issue opens Sept 17, say sources - indiaipo.in",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdXNzdZTXM4elhsX0NDRDRkb2hHSG1CS3gxdUk3eGwxZ0NQdlVnX2c3Qkh5WGY2UGFKVG40N2NSVG5GOWliMDRsTWtPVGszMHJOTzdrM1pfcXBmMnFVRURQNWpzSmZVQUNia28wWERXdTNhTTJzYkEyNjl6ZDNSeVVlVU95SjNlS0tFcDdkNjAwLXR6dHhNX1hjWnBEZ3RxRWN3NHIzWmJ2c3Z3SXhxcVpUSGxVQ1JLdFZoQk1fd042NE9FV3VTSGNkODdITXVnZ1E?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 18:43:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "CCI invites public comments on PVR INOX proposal to discontinue VPF charges - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNczl5WVZwZVV5cXpfM0VyVTlycTJKeHp3M1NqOW4ySHlET1ZkWFhraFpfaWVBcFdoclN3NXBXSDk1dEpMLTZjTXF6c2REYzVqMUN5QjlZTTNlSHQ4VGJfOThUR0ItM0xUdE9WbUlYRkNjRWVVM1RSdG84eFF3UzM0SkdyNHlBT0NndE0tdnpmTmdsb183TjJPaE5hUGVUdWZTUy03V3ptbDNOeTc4alpIcnVQajdQSEludEVTWmUwekw5RTBjaUh1QlgxcFpwR0xsbkl0VkFHVnloN3BR0gHiAUFVX3lxTE9XZEdGeENIS1dxNWFIXzFxTm1vZ253VnFKaG9iLWdWUWpsMEkzbXUweTY5OEdmM2hWLU1DZWlDaXdVSmtDUWFpRjM1NE9haVhPWk8xRVAwMWdmU0QwZWpaMXo2TEw5eDNCOGo2eWphVVBxNjFCQVVrUUFzODJTWlgtWXFEUWlKb3dNOWpoZm9Zb1J6RktMSmJQVUlydVNUdHJyTldBVHh1a3RoR29ua05na3BaMktNNFhXTlY3LWd4Qi1pY2ZXMlloWHFGVFVfRXdIOHREN1ZTTUtZNTRHVmJ0MHc?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 16:47:54 GMT"
+      "title": "NSE Downsizes India IPO, Showing Mounting Valuation Concern - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3I2cWFXZkFFbjN1V2JaWTZqYWlUdmF6bUtTZjZkUHZXaXpvelpnbUJXWTVnaWdWaGkwTnQ4MEl4M0t2WS1BajMtbGhZdTRkaERUaGl6VlVyeW1pd1F6RERTWlE0WXRWN2VsNFF6cUlRUFZqa25MM2FoWm1XSkZ5eVVrejR3S1B1QlN0b0xsZjlTREFoSmd2RmhodFZyRkowVFVWam8ybjdlcE5ybFc5UjBONG9hcHFW0gG4AUFVX3lxTE53cjZxYVdmQUVuM3VXYlpZNmphaVR2YXptS1NmNmRQdldpem96WmdtQldZNWdpZ1ZoaTBOdDgwSXgzS3ZZLUFqMy1saFl1NGRoRFRoaXpWVXJ5bWl3UXpERFNaUTRZdFY3ZWw0UXpxSVFQVmprbkwzYWhabVdKRnl5VWt6NHdLUHVCU3RvTGxmOVNEQWhKZ3ZGaGh0VnJGSjBUVVZqbzJuN2VwTnJsVzlSME40b2FwcVY?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 18:30:21 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Ultraviolette eyes 6-8 month start for Rs 779cr TN plant - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOG1ueGZlQUZkWDVWSlg1TlNiX0FpVkM4VXdPV1JSWUtJTXpWa0hUTzhqMXFtZEh6SUpRUDZLOUZUbVI4S3ZsaDIxUEZyaUxqQ0JzMzJ3TWVRbGpJTmk3WnRoaklGM3NIaGFYajlQWldSNVltOWM5blVMQ2NreEF1MEVMQ3pXanV3MFBtcFZxZnNaRWNNbEJyX05vS0dHMUl2dmhURjJMeGJXVmdFNHFidEMyamk2SHpvR29naHVkZ3lyczBQU0p6bnBQU0cxMXFzQTlHMGxrSFBJQdIB3wFBVV95cUxNdlp6WGpZcG55NnFwNzF1MjI3czlWRzlVdFllV1RlOUlvNWtHeUFreWE0YWltRGpsd09IZEtQdXpZT01TQm01U3NwbXl2elFSaWo0MnRSMklsNVVpSGV3bG91d05MeUFtMWNyRnNjUlQ0MF9jQXJBT3NmN3BUd0tVUVktSGFlRFFvd3ktQkxlcHZheHc3b1VsSC0tT3VvaXU3SThpUmhaek85Zk1CUG9fV2ctYVNxZ1VXVVZYRGcxYzlJdmR1SU45aV9fODRZWEtKekJmWWhiQWg4dE95REFZ?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 16:06:00 GMT"
+      "title": "Sundaram Ultra Short Term Fund(Ex) - Direct Plan Returns - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY01TZGhldjVJeFV1SXM5LWxXUVF2TzZXRklLc2ZhVlRfMUNNZ1liNHg5RWk4Q2NqaENBOG1kNUctYjh1T2cxZVlOSVB1TVM4aHAtU0E1dU9oZ2pvV1BwY08zYWFVcC10YWc5NHRremtnLUFPNGJBYUpxdmVyN0M4d1V4cUlvQkxwOW9oYUJpVE93Z1pMMWRXdGUyUGNFS0FRWFR3?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 18:33:12 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Torrent Pharma hosts investor meets with Jefferies, Kotak, JP Morgan - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1ZhTUNfNTdCd3JHRkt0MVJOZ2M2UUNfYUxva1AxbmtLZ0hqdUpOZmgxdlpOUHNfajQ2ZXRvRjJPa0tsYXRaNVdwZTdkaGF4cDNrVTNfTjhfT3ltSDBuODM3V2I2YlZ2WGlZYzJYWDZvbG5mdGpZTEtyM0dabU1qTTl5anBLa0F2d3M1MndNQVYwNTlCM1RqaUpMMmxhN0Vmc0tOQXhTUHNMREdsOWNIbG9OQWtmay1MaXc?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 16:32:01 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQU0EwVFJoUkFwS3lpeE10U0FFTDl5WUR1YXk4bEowRnhRR25ESnhxWHhiYnVKd3J4TFc3YUJDZWlrVGhRQ1UyU3p6cGxNLWFyb2hMRkQzYVVzUko4SDYzaHB6ME90XzkwMTZZRHpYUVFFeEhXOUotZHczTGktSGFRdXgzSThJNXNsRWtzTHNiMGlFM241WHpfV0lqVktxV1pwQjZQSTZwSDExbVhuZXlZTUVXX3RRU1R3OVNVYUJLOWNJVXBJYnU1OG55T1lDb1p1UTFZcDhsZ0l2bXdScjVZ0gHkAUFVX3lxTE1rNDRnNzlsTG1KejIwd0EyaVhETHd6ak54UldRb0hWWjFJOWVLUHpwOWhSWVZiRHJoanpEeHN2RzFWVXkxMGFjdkdJMmE4MGljY0RET2NzcWNxRWhBMGFrXzB3eG1LTDJaVWlQcTBzZzlSbndBaTdOQkVGNXN3SnhSQXdJUmRpVTNVSTlxZXlsMnlNTkg1WEZ6cnlRWE9wcTkxQTAtbEIybUhncEVrWTRnQURsZFotSllWVkIzcl9XTEhaaGlhUjFseVZ4bnpRU280LVc5WmlsVEZSZGhTc0ZxMkxkWg?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 15:56:10 GMT"
+      "title": "Xiaomi's SkyNomad Lands 100,000 Orders While India Probe and Profit Slump Test Investors - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2F3V0dna1djM1M4eW1lV0pHWGlkb2gxUDFSbDdZQVJWS1ZHVUxNYmNlalZvRldqTW9UMnRxWVhSMnljcmduSy1QbFBEcFoweUtrQ2tqUFJDWkU0MzVUWEQ1RGxaS0EtLXlLeXlCZ0VTUVdmVldTNVoxamRHaWhPckhCSEI5ZHZZNVZuT2YwV1c5RFBtSThyUGNJOXVrQm5jWVVST2c3ZmtqaVdQTzNOT1JuZlc0dEw3NWh1T1JLWXQxaGROalhfWFBoLVc4TFdhWkZzX25WQ0FuLVl2Znc?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 19:11:05 GMT"
     }
   ],
-  "fetchedAt": 1789059280
+  "fetchedAt": 1789068497
 }
