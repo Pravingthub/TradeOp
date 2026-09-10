@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: US stocks end lower as rising oil, Treasury yields lift Fed hike bets",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-rising-oil-treasury-yields-lift-fed-hike-bets/articleshow/134028937.cms",
+      "pubDate": "Fri, 11 Sep 2026 01:48:47 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US bond yields climb to multi-year highs as oil surge revives bets on higher Fed rates",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bond-yields-climb-as-oil-surge-revives-bets-on-higher-fed-rates/articleshow/134023668.cms",
       "pubDate": "Thu, 10 Sep 2026 23:27:37 +0530"
@@ -23,12 +29,6 @@
       "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134018556.cms",
       "pubDate": "Thu, 10 Sep 2026 21:26:10 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Will Bitcoin touch $400,000 by 2030? Coinbase CEO Brian Armstrong answers",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/will-bitcoin-touch-400000-by-2030-coinbase-ceo-brian-armstrong-answers/articleshow/134018361.cms",
-      "pubDate": "Thu, 10 Sep 2026 21:22:29 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,18 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Dollar rises, euro slips after ECB rate increase",
+      "link": "https://www.livemint.com/market/dollar-rises-euro-slips-after-ecb-rate-increase-11789073684557.html",
+      "pubDate": "Fri, 11 Sep 2026 02:24:44 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "German Yield Hits 17-Year High as Traders Up ECB Hike Bets",
+      "link": "https://www.livemint.com/market/german-yield-hits-17-year-high-as-traders-up-ecb-hike-bets-11789072150224.html",
+      "pubDate": "Fri, 11 Sep 2026 01:59:09 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Is copper a new gold? Experts unveil this strategy to make money",
       "link": "https://www.livemint.com/market/stock-market-news/is-copper-a-new-gold-experts-unveil-this-strategy-to-make-money-11789059703371.html",
       "pubDate": "Thu, 10 Sep 2026 23:33:59 +0530"
@@ -77,18 +89,6 @@
       "title": "Oracle shares fall over 3% ahead of earnings as AI spending in focus",
       "link": "https://www.livemint.com/market/stock-market-news/oracle-shares-fall-over-3-ahead-of-earnings-as-ai-spending-in-focus-11789055560625.html",
       "pubDate": "Thu, 10 Sep 2026 22:20:15 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Why are big chip stocks under pressure? SK Hynix, AMD, Intel, Nvidia fall up to 6.5%; is the AI rally losing steam?",
-      "link": "https://www.livemint.com/market/stock-market-news/why-are-big-chip-stocks-under-pressure-sk-hynix-amd-intel-nvidia-fall-up-to-6-5-is-the-ai-rally-losing-steam-11789050327575.html",
-      "pubDate": "Thu, 10 Sep 2026 20:55:28 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "India\u2019s CAS liquidity concerns not unique, says Sebi chief",
-      "link": "https://www.livemint.com/market/stock-market-news/indias-cas-liquidity-concerns-not-unique-says-sebi-chief-11789044778671.html",
-      "pubDate": "Thu, 10 Sep 2026 20:09:48 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "NSE likely to slash IPO size to Rs 23,000 crore - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaExVb05VZTdKWW1PMzhqT1M1cXA1M0EzelJGQldpV19Dam9tLVVQQ1FTQ0M2V1IxaWhnSE11MEVfVEVuTlNDdzZsVkQxakhQZjlaYkI2eFRBZ01SRFFWNUc1NmdrckNQRUl5WGR0dncyWlBBZGpXME1fazIybF9SSWNPbTBkaUY4VFg4RVRlbGczb0p1emViV2hYeWVXWEQxcEHSAa8BQVVfeXFMTzF2WEZOeXA2XzJPTllaVkFkZWVkMVVIcEtkZk9YSEZwLVhaZzNrWWJfVkFYc1Nfak1RRmk1bmhscTY5U2drTkVtRUozcjEyTW92dGZZX3pzV1Y1ZEx3LUpKU2ZXWVBoYUNHbElSNkkzcmkxZ1BpUmRGQW43MDVsVW90TkEwcWZBb050RWMxN2ZYd1o3cEZ4dmE5TDJCX3M0cVNQSk9xYTdydWNyWDN6Yw?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 18:31:56 GMT"
+      "title": "NSE seeks clarification on unusual price and volume activity in several stocks - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb0g1MU5KMmtHOGJXNE9qSFA3MTVyUEZrbEFNQnJSTDByNVhGUEhNM0VYTXdjczhXY0NwRTJqMmVUNE9OUThDQzV1ZDQ5NUdPYlNhVDFsS2dZYWpjWUY1VzRYSVMteWdQUGcyZ0ZtUjd6cXdKSTBoQ3M5eDVBSmUwTkswUEx0QkhrcmJUR3pMVW5fWXh1ZXU0aHJuYW5lNUlUellmdg?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 20:27:43 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Exclusive | NSE files IPO papers with RoC; price band likely on Sept 11, issue opens Sept 17, say sources - indiaipo.in",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQLXdXNzdZTXM4elhsX0NDRDRkb2hHSG1CS3gxdUk3eGwxZ0NQdlVnX2c3Qkh5WGY2UGFKVG40N2NSVG5GOWliMDRsTWtPVGszMHJOTzdrM1pfcXBmMnFVRURQNWpzSmZVQUNia28wWERXdTNhTTJzYkEyNjl6ZDNSeVVlVU95SjNlS0tFcDdkNjAwLXR6dHhNX1hjWnBEZ3RxRWN3NHIzWmJ2c3Z3SXhxcVpUSGxVQ1JLdFZoQk1fd042NE9FV3VTSGNkODdITXVnZ1E?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 18:43:47 GMT"
+      "title": "NSE IPO Opens Sep 17; OFS Reduced Ahead of Listing - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUlpFTjg0YTB0dzdmRUpmcTB3MnMwTFlnUTdZZVlqaF9ya0JUcVRoVnptQTdEeDRUTW9RTWVNZ2JkUHdnTDBodEszWGF2TWJ2UVNDYzZNMXp4NUdvVjdwQmZqTFhhbTFPSllSUFB2TERxbW1SSDQ1STZHOHg1bVM0U3ZfcnNnLUZMQWhlZVBmXzIzX3ZfNURKMHZVcDFIVVpaTldF0gGoAUFVX3lxTE1XMFFRYWhlaTE1a1B6Nm13THpsZUdFSmExOFB6a2ktbVBMQmVuaFRlRWxtTmJIdkFTRkE1NS1vYTNIeFBYUXFyRXNiZTJlSjgwZmRtVzBOYWd1a2U3aTExS0VLV1J5TTBabmQ4Qll3MEx5ejd2ckJiMnE3R01MbFFCUERhc3NGZUtnbWNxd0RINWdLR3I3NkFFYXhQamhRczNUMUJ5d2RTbg?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 20:36:34 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE Downsizes India IPO, Showing Mounting Valuation Concern - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd3I2cWFXZkFFbjN1V2JaWTZqYWlUdmF6bUtTZjZkUHZXaXpvelpnbUJXWTVnaWdWaGkwTnQ4MEl4M0t2WS1BajMtbGhZdTRkaERUaGl6VlVyeW1pd1F6RERTWlE0WXRWN2VsNFF6cUlRUFZqa25MM2FoWm1XSkZ5eVVrejR3S1B1QlN0b0xsZjlTREFoSmd2RmhodFZyRkowVFVWam8ybjdlcE5ybFc5UjBONG9hcHFW0gG4AUFVX3lxTE53cjZxYVdmQUVuM3VXYlpZNmphaVR2YXptS1NmNmRQdldpem96WmdtQldZNWdpZ1ZoaTBOdDgwSXgzS3ZZLUFqMy1saFl1NGRoRFRoaXpWVXJ5bWl3UXpERFNaUTRZdFY3ZWw0UXpxSVFQVmprbkwzYWhabVdKRnl5VWt6NHdLUHVCU3RvTGxmOVNEQWhKZ3ZGaGh0VnJGSjBUVVZqbzJuN2VwTnJsVzlSME40b2FwcVY?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 18:30:21 GMT"
+      "title": "Shopping online? From January, you'll see the discount margin - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRTlUd1BBVkZRekNiby0yRkctS3k3ZlpBTUxYMWZUZEd4c2ZaMUUtQWJ5SjhaMl90NGFaX1d0VGc5elI2NTZuUWFtRUwxZDluUFpjemZPMmVjeExUZ3lnVG9iankyOTRBbjZ6S0xTLV9lVWsxTUlrNjlBUnNaQVVUcVVWZXc3TVNKT1p4OE1yaDZJZXJMMnZwNzFnYl90aWZ3UTZ5Y0d4dWw2cktuVldSbDc4R1AyLXZ6OWlWOHpYa0xrLW9xcWRTWmI1T09TREg0MUZfeTJuaTRzX2R4?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 20:41:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sundaram Ultra Short Term Fund(Ex) - Direct Plan Returns - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPY01TZGhldjVJeFV1SXM5LWxXUVF2TzZXRklLc2ZhVlRfMUNNZ1liNHg5RWk4Q2NqaENBOG1kNUctYjh1T2cxZVlOSVB1TVM4aHAtU0E1dU9oZ2pvV1BwY08zYWFVcC10YWc5NHRremtnLUFPNGJBYUpxdmVyN0M4d1V4cUlvQkxwOW9oYUJpVE93Z1pMMWRXdGUyUGNFS0FRWFR3?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 18:33:12 GMT"
+      "title": "Jindal Supreme IPO Date, Review, Price, Allotment Details - IPO Watch",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB2bkl5ck9HSFQ2ZXVIeGVXSVplQ1B5NmlHcWNPTjdZUWxkd3FuOXBnZnRUZjY5V1huYnhmYnQyV3hqck9jS1lOR05YTjhRaXV2?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 20:45:02 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Xiaomi's SkyNomad Lands 100,000 Orders While India Probe and Profit Slump Test Investors - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQ2F3V0dna1djM1M4eW1lV0pHWGlkb2gxUDFSbDdZQVJWS1ZHVUxNYmNlalZvRldqTW9UMnRxWVhSMnljcmduSy1QbFBEcFoweUtrQ2tqUFJDWkU0MzVUWEQ1RGxaS0EtLXlLeXlCZ0VTUVdmVldTNVoxamRHaWhPckhCSEI5ZHZZNVZuT2YwV1c5RFBtSThyUGNJOXVrQm5jWVVST2c3ZmtqaVdQTzNOT1JuZlc0dEw3NWh1T1JLWXQxaGROalhfWFBoLVc4TFdhWkZzX25WQ0FuLVl2Znc?oc=5",
-      "pubDate": "Thu, 10 Sep 2026 19:11:05 GMT"
+      "title": "Brazil Supreme Court crisis jolts October election season - India Today",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZklOQzVtMm8yLUlFN1ZSV3NRdWxHQjZOS0hBWURwUEljUlRlRnNQZjIzRG84am52eVRJa0d1eTZyYmQxUGk2N1FKc2E1UEd6UFhHaTl2SV8xRFV2dzdDUnZhX0FsVEdVWWFnNVpfMU1fbFYzZjJhcURQejY3Ny1obVhhTDR4SjVmZktES2ZqZkU0NWpmenBBUjNBOXhfZTc2NmFEOFBTYk92QllzNDE5OWhrMWs3RFNhRnNPUU1SZFJENkhOVDZ0X0RuZ0fSAdIBQVVfeXFMUGVzMENNamhOc0toRHUtOUhSb3dRYjVRNXllcjd4NmoxNDVXWVpyQVRScFFUZnN5R19ELVVlUkVLcjJ1dHRxUkNOQWVVTGtoUnJqR3djaFJkelRJNllSczZjZ3Y0OWNTY09rMlJkNXNuQllMSHk3eFA3cVJjekpxWUlwRFg4ZFhfa1FuT3lWYkZlM2cxNUZ4TUZBT2xXdzZpZnlqZTZRd1ZSX1F1eUNLM2FtUnBwaFlvYkhBNFJncFhjc0dWN3gxU0ZOSDVUYWNhM3dB?oc=5",
+      "pubDate": "Thu, 10 Sep 2026 21:04:27 GMT"
     }
   ],
-  "fetchedAt": 1789068497
+  "fetchedAt": 1789075615
 }
