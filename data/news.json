@@ -2,7 +2,25 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "US Treasury yields climb as oil, Fed hike bets push 10-year note to 19-year high",
+      "title": "US stocks today: US stocks end lower as oil, yields crank up pressure ahead of Fed rate move",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-oil-yields-crank-up-pressure-ahead-of-fed-rate-move/articleshow/134272937.cms",
+      "pubDate": "Wed, 16 Sep 2026 01:47:51 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Oil jumps over $3 as Saudi export halt, Libya outages stoke supply fears",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/oil-jumps-over-3-as-saudi-export-halt-libya-outages-stoke-supply-fears/articleshow/134271731.cms",
+      "pubDate": "Wed, 16 Sep 2026 00:05:00 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "ICICI Prudential MF, Kotak MF top buyers in SS Retail's Rs 146 crore anchor round before IPO",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/icici-prudential-mf-kotak-mf-top-buyers-in-ss-retails-rs-146-crore-anchor-round-before-ipo/articleshow/134270713.cms",
+      "pubDate": "Tue, 15 Sep 2026 23:29:14 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US 10-year Treasury yields hit 19-year high ahead of Fed rate decision",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-10-year-treasury-bonds-hit-19-year-high-ahead-of-fed-rate-decision/articleshow/134268867.cms",
       "pubDate": "Tue, 15 Sep 2026 22:06:04 +0530"
     },
@@ -11,24 +29,6 @@
       "title": "Prashant Jain\u2019s 3P India among anchors as Hero Motors raises Rs 300 crore ahead of IPO",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/prashant-jains-3p-india-among-anchors-as-hero-motors-raises-rs-300-crore-ahead-of-ipo/articleshow/134268748.cms",
       "pubDate": "Tue, 15 Sep 2026 21:55:55 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134268234.cms",
-      "pubDate": "Tue, 15 Sep 2026 21:25:12 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Market Trading Guide: Acme Solar,  Bharat Dynamics among 5 stock recommendations for Wednesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-acme-solar-bharat-dynamics-among-5-stock-recommendations-for-wednesday/slideshow/134267881.cms",
-      "pubDate": "Tue, 15 Sep 2026 20:52:52 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US Treasury secretary Scott Bessent says rising bond yields due to 'global issues'",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-treasury-secretary-scott-bessent-says-rising-bond-yields-due-to-global-issues/articleshow/134267418.cms",
-      "pubDate": "Tue, 15 Sep 2026 20:32:27 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,39 @@
     },
     {
       "src": "LiveMint Markets",
-      "title": "Brent crude tops $109 as latest drone attacks, Iran tensions threaten key Saudi oil shipping routes",
-      "link": "https://www.livemint.com/market/stock-market-news/brent-crude-tops-109-as-latest-drone-attacks-iran-tensions-threaten-key-saudi-oil-shipping-routes-11789492468986.html",
-      "pubDate": "Tue, 15 Sept 2026 23:25:42 +0530"
+      "title": "It Costs a Record $44.8 Million to Ship US Crude Oil to Asia",
+      "link": "https://www.livemint.com/market/it-costs-a-record-44-8-million-to-ship-us-crude-oil-to-asia-11789507070739.html",
+      "pubDate": "Wed, 16 Sep 2026 02:47:50 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Oracle shares fall for sixth day in a row, drop another 3%; key factors behind slump explained",
-      "link": "https://www.livemint.com/market/stock-market-news/oracle-shares-fall-for-sixth-day-in-a-row-drop-another-3-key-factors-behind-slump-explained-11789490078751.html",
-      "pubDate": "Tue, 15 Sept 2026 22:47:19 +0530"
+      "title": "History Shows Fed Will Deliver Rate Hike Markets Locked In",
+      "link": "https://www.livemint.com/market/history-shows-fed-will-deliver-rate-hike-markets-locked-in-11789504628721.html",
+      "pubDate": "Wed, 16 Sep 2026 02:07:08 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "US 10-year Treasury yield rises to highest since 2007 as Fed rate hike bets strengthen",
-      "link": "https://www.livemint.com/market/stock-market-news/us-10-year-treasury-yield-rises-to-highest-since-2007-as-fed-rate-hike-bets-strengthen-11789480161708.html",
-      "pubDate": "Tue, 15 Sept 2026 20:32:33 +0530"
+      "title": "Cryptocurrencies Extend Slide With Clarity Act on Track to Fail",
+      "link": "https://www.livemint.com/market/cryptocurrencies-extend-slide-with-clarity-act-on-track-to-fail-11789500966056.html",
+      "pubDate": "Wed, 16 Sep 2026 01:06:05 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Wall Street drops as oil prices, Treasury yields rise",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-drops-as-oil-prices-treasury-yields-rise-11789479701198.html",
-      "pubDate": "Tue, 15 Sept 2026 19:25:23 +0530"
+      "title": "Dollar higher as oil lifts yields and Fed hike looms",
+      "link": "https://www.livemint.com/market/dollar-higher-as-oil-lifts-yields-and-fed-hike-looms-11789500230618.html",
+      "pubDate": "Wed, 16 Sep 2026 00:53:50 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Top stocks in focus tomorrow: Investors must watch NBCC, BHEL, Bharat Forge shares on Wed, 16 Sept | Triggers",
-      "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-nbcc-bhel-bharat-forge-shares-on-wed-16-sept-triggers-11789478026874.html",
-      "pubDate": "Tue, 15 Sept 2026 19:17:58 +0530"
+      "title": "TREASURIES-10-year note climbs to 19-year high with Fed decision on deck",
+      "link": "https://www.livemint.com/market/treasuries10year-note-climbs-to-19-year-high-with-fed-decision-on-deck-11789498155754.html",
+      "pubDate": "Wed, 16 Sep 2026 00:19:15 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Hero Motors garners \u20b9300 crore from anchor investors ahead of IPO",
+      "link": "https://www.cnbctv18.com/market/hero-motors-garners-rs-300-crore-from-anchor-investors-ahead-of-ipo-19991370.htm",
+      "pubDate": "Tue, 15 Sep 2026 23:46:19 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,41 +121,35 @@
       "pubDate": "Tue, 15 Sep 2026 21:54:49 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Digital lending platform Fibe gets SEBI nod to launch IPO",
-      "link": "https://www.cnbctv18.com/market/digital-lending-platform-fibe-gets-sebi-nod-to-launch-ipo-19991326.htm",
-      "pubDate": "Tue, 15 Sep 2026 21:43:18 +0530"
+      "src": "Google India News",
+      "title": "Stocks to Watch Today: Kanohar Electricals, Prasol Chemicals, Groww, Saatvik Green Energy, Sonata... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQN3NsbXpKckpHTnFPLWp6MkppNWVlaWp5TmZOOEw1emU4ZENFN0JLdkVSTHpaR1BuRXBCLWJiRVhaXzJqTExCc29USTAzYTJHSnhEV3V6cDhJYmtmX0ZMeHFYM3RadHozRU1HbjIzcWJudVRSUDRfVktZTjZKbGdHekVTSi15dnRENS1CUm5GYlJMN3JPRURSWjdwOTZ4Tks1bjI5d1BSNml3WVNKVkFzNG5XSVhSNGoyQUdXbG9pZUpZbDB6b1Rra055azJzZVlyM1M0eGVmR2hBLU10NEpUQU90Z0JibzVtSnRORExPTzczazN3STRIVm5pR3JTWXdrcm03U2M0MHZYS1ktb2N6RFBvbS00UWdsNWtFem9EQXZ4T2JTYTVKaldNS2xCSzZXSFd3ZGJUOEVUNkxzeVHSAb4CQVVfeXFMUDdzbG16SnJKR05xTy1qejJKaTVlZWlqeU5mTjhMNXplOGRDRTdCS3ZFUkx6WkdQbkVwQi1iYkVYWl8yakxMQnNvVEkwM2EyR0p4RFd1enA4SWJrZl9GTHhxWDN0WnR6M0VNR24yM3FibnVUUlA0X1ZLWU42SmxnR3pFU0oteXZ0RDUtQlJuRmJSTDdyT0VEUlo3cDk2eE5LNW4yOXdQUjZpd1lTSlZBczRuV0lYUjRqMkFHV2xvaWVKWWwwem9Ua2tOeWsyc2VZcjNTNHhlZkdoQS1NdDRKVEFPdGdCYm81bUp0TkRMT083M2szd0k0SFZuaUdyU1l3a3JtN1NjNDB2WEtZLW9jekRQb20tNFFnbDVrRXpvREF2eE9iU2E1SmpXTUtsQks2V0hXd2RiVDhFVDZMc3lR?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 21:17:20 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Crude oil spike drags rupee to nearly 96 per dollar; Nifty dips 1.2% - business-standard.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSlVuY2ozcGJJVlIzYkNtUmFhZk5pRHdxRG5HZnN6RnlyemxFRFBhRENCWm01Nl9sZkoxVDVFdGVuWVMyRmNtdzRqME82d2tpSTgySHUwRllfb3V2WHcxb05SbFNLeFc1Q3drQzhndHMwLVZubHdaVldwWi1Ld3VOVENMb3FWUkVxX3RBX2wyeFQzdUZiY0QzZWxoZjFVTlVyTm53b2tYNmFNVkh3dWVpRW5NQ21kZHNXc3FSR2M4Tjd2NlItUk5qTUJqMmZEUdIB0wFBVV95cUxOSjdpcy05QWtyVmJLWTVEcjluTXJBb2xqVDBBSFhOR3d0bTl3MnJqRktIOVNjQ2VVdlNOQmFhQWZwZ1Utek14Y1JOb2ZWdmVyZXhKbExPSHZxcXM5ODA2MXVxUWJVbGZIbVpIYmNVTWd2RmRvYjdKSFNvOUY1RHJ4V2w5YmtLMmE5dGNIejJfZnI2VWw0Sm9HUF9DQzlMLW5HaE41dXFwTEtVUVJGYUx6WmFmTTRWSXg1RF9aSjJ1YUdRWGVSUk5kMFVwS2JTQ3k5WDNz?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 18:02:58 GMT"
+      "title": "33% of India\u2019s land is degraded: Why the soil crisis threatens farming and food security - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMXVJZ0VCbUNKdXAta2ZRUmJ0d0hjUHVkWnhkM3V0UWViaXcycHVvRmdDaWlPR2hBdXNaSDctUnlnZURZd1BiNGpseEtkRjg1eUs5d1F0S2xfbHpuUHAzUk94YTZ6TkxRT1loaV8xbHZvM245REFZVHRhOGNCQndwaHg3ZTk4OUZrb3YtS2tqNi1CRmFQX2hDRjlSNGI2UWt2WGJzUlBZeU01eGIweDY3cnNhendibFhCX3JiZXFrTjhFdnd2akxzNk5HcFJPejQyUGZkejVINmwxQVVN0gHiAUFVX3lxTE5TV3pQdnhSTDRESXRiN1lKR1I0NkEtT0NLa2VUMEltQnFTZ0xieHFyNzA0SXplel9rOE9SM0xrM1g2MjRuNHlzc1hlX1ZDUUVBUzljWDEtSVBVZzk4ckI1aFg2SDhnUWlQekFUaXR1VkRHaGtpM2tvN3otbU5MVTZtNFJQcHpzMnJLOHh2SGhRQTJMMzhKU24tU3VNMUszSlVrM2JkbW03d0VkZDdZSXhXMzFJekNBYTFEY3Y5SzR5ME5aa1NtUHpDdzR2ZUNKdVNjUWtZMGtGbXgxQzRSYngxd2c?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 20:35:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "These 6 banking stocks have an upside potential of up to 26% in 1 year, according to analysts - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNX2lWVFVqSE9CYWZTTHFpc1FpaEYyV1JyNVcyYy1TLUN5UVQtazdlWllZT0plcG15WXpObWtYRE85T2hOMmVaMXBDR3duTnlBWmZvbkVEUTFxVHU4WTd6Z19qU1BpcWRUNXFDZFNyQVFZMVVaRC1hY1VjUjM0ajdxVGdtZ0NIR0lxNGRBQW0yVm8xYTY3ZkI4ZHdOLWE3MlRtTXFaWG9UY01sZUNQYTRaZUNiNE9nVWFjdkRPVXdmZjRfSF85cmFRY3ZlTUt1V1AzMHR0eXdzZkduV1hQdm9XUk91c2FGejUySTdnbHBrMHp4eXBqX0xaNNIB_gFBVV95cUxNWnhCUFFjMjBlYl9ObExDVlVCX2Z0WDA2dG9rR1RpZ3h0STd5UWN3U19DRWV6cFRrc2tMTUIzUUNrV29JQ29QdFRsbGlXakRHUHQydFNWZ0FWM1pXQURMY3pSak9yMDY0Wmd6UVFWbGwyNTdwLVdodTFzQUxsNjdRYk1wZ2RDR0xPcmQ0S2J0SGFsU1R4V1cwUXRpOVRHMS0ySVBuXzNVeFN3Njl3UWpMYlNBQjljR0hYdXJZQ0UtakRNTVhyUERmaER5SFBHWklzZVlpWlZIMTl0VVNDMFEyeXlwX1JQTUJkMDlfa1VTU01rcVNkT056ZGk1ZFpPZw?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 17:48:30 GMT"
+      "title": "SMC Global Securities files draft prospectus for \u20b9750 crore NCD public issue - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMGZRTjdiajZVSUdJU0tEZEVIVm9tV3UzVkk3ejdnN1JkdGotV05CNTBjQzcwdm42NTR2dmJVTzZjMnJ3V1FpZlpfWTNHa1ZEZ3o2bkEwLWN4RENaU21IR3RMU0lZNkNaSkhPMlR0cjlkV2wtc3hNdFk0VFo5VUZBUEFyb200UEJCa1Rtbmh4TGY1b1NRZzV1Vkl6V21xZzl5cy1XaXYtNFBjS2x4cGNIUEFMZWpTSHRqQXNEdXliSm9tVFU?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 20:30:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FIIs net sell Rs 2,978 crore-worth Indian equities, DIIs net buy Rs 2,686 crore - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFIybWtJYTFGSHlJMDl2VThCbXJoUzQxcUhsbWFoYmtMa1dKc2d6c3ZUTndhazVLOTZYMFRxTGp4Vk1IMzRpSGJyZmJVa3U3NDhWdkx6Y2s1bEJXQWVqVnAwd00wV2xDdC1qaEo5a0JwWGdnTWl4UFVfYjJmOWZxZk1EWHBQTW0xWlozdEhicGNDVlhtcVpHVFZRRlBpYnpsYkdKWjAyYWtHY2ZwMDlsYl9zcnVNM2JBVG05MmlJMDltU0dtTVozSlNxeTBZLV93b2dNNEFIRzV4VmPSAeABQVVfeXFMTk5XeEhuRWVFQWhHX1VCUVBZRjJaSzE3cGNHRHZaaDJEeERzYVVTeEE1NUpzY2JORHdNYTVDb1RXeHN3eVJINGNaSGgzMTd1QmxldEJDTmtzUkxpbW1ENGdfbzVaRGRjVEN4dzN0aExOWFpBWXBZS0lWblFoMmQyZnZRa0d3cGdGdjZ4WU82Q3ZIcl9jVjRpYkxxandyUzF1V0I0MUhmLW5YYUJjLVAwanlsUmVoX2U3UUJJMUFxVGlFSWRVY1YyUXhJWGwwdXVGeldMeWcyeC1LLVVaRXpmSGw?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 18:00:11 GMT"
+      "title": "Rays of Belief and Deepa Jewellers listed on the NSE, drawing investor attention amid a volatile market - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR3otcFNRTlBEWUVNV2FTSzQ3bDdHcVQ1dS1WNTItZ3ltSVlHdDV3NHVRM1pTb2JKdGhBRmxOYnhXMjk4RWswdEhUSTVwam9lNVRfYkhudTktY20taGFOR3hELUxvUFFteFJhQlpjV3JMT1NpUzh6ajlBa01jVFNVWEVxSnVRN0FpcW5VYVBfZ3oxZ0hXbVlRY3dseDFVcXltX2Fv?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 20:28:34 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Fed Bears Loom: Why First US Rate Hike In Three Years Can Worsen D-Street's Selloff - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdUxvRng2RHRRTUgyLVNkeC04X2E0eEstQUJqWTZGb1UwcGh3N3M5ejJiM290SjJQbjFmQmlkODlHQWdSOWJDV3lxd3Y3dVJVTTJoWDh5cUdoSXJwTUVkMnhkRXZfa1JyeHVoOXo0eVlqVFR4WUVxWHhjSGNpcVFvSVNkN1dFdzFBd1dwbDVtSWl3VnF5X3RhczJmZkNJVzE0RWlPQTA4ZmswYllHd2NFMzU5MDd2M1ZoTG9GUk1aOEl6alXSAcsBQVVfeXFMUEFQZ3BtUnRWQ0xYbEllYnBJbHRfQkZMd2d3T19RaUduSXR3bDE5bTNnR0dZM1ZyMWVGOFBtNlFWWDJ4aHRvSmw2MmVyU3ZqNHRzeFcxcFlJR3VFY1p0N3drd2dPbEQzdFdDYThWbWctT1I3bkloV21LWVo4VHZVUzBhcTJETXNLVWxRYnF1UVVmU21aaEVVMm50T3lfQzVaRkh3RHBvYllWVl9fWEJ3Zmk0T0s0UkJZR1FsdVNZVE9MOVMwWEk1ems0VFE?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 17:21:29 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "'Important step': RBI backs new UPI charges, says all transactions remain free for users - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMFRBR2U4eXVGekxqSklVWXJGU0V0Y2lHNlFFTUJkdjBKbnpja1R6WmprcWRrb1RsZVdLZkJQQ0RqZUZTUDZOMlJIWTgzN29WMXpqNmFpYWVlZTdaOG1hQUhaSjA3X056Y2hNOTZLQ094SzNIbnFnT1hqSDFvaWVNcHNtdDR0Nlh6RHJjUjl0QWlrSzEtS0VPSEliVTR2cF9YTGs4NGdvZTNLdXl2R3pTakV6WnNYc0JYWTRfYzFBaXd1c01kUy1lbDlIejVzekJ6aUFWc3dBQnZ5bTdpXzVvTFBFdUFhZFnSAewBQVVfeXFMTkNrUGVFT0xJUGJtcVZESlJnRHNKNmRsOEZ3eGZZaDI5MGlsOC1MV1ZhLUZ1XzM5TXA5ZHlfbDZzcHh0NW9Panc3dUlzdTQ5RFRUY0VGMHQ4cy1KLU1yUXhqZFJnUjY5LUM1ZDVtNEZ4dWJmZTd5VWFkUFJlQmcwVHpIeUk1ZkFiV2UxVDNLRVRhb21GeG9zTDd4WlhvZzc3ckQ0bnE5MzJJSHJ4VzlEbm16MTZycXAyZXl4MFVHUzdJVEdzLXhlcVA5ZVMyXzAwZVYyTlRMRXZKYnIyb29EcXhsVXhWcGx5VmhqdDk?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 17:41:57 GMT"
+      "title": "Mother's remarriage cannot take away daughter's inheritance rights, rules Madras HC - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbVZMRGtVakoxcWI0bllCdm1RVDgtR0ZvRk5KQTIwQmM2NllwSFpJZy0yMldLb1BzWTJtQmZfVTBWbmFLdVRsc3BMUkxIbmtDMGZHejdqcG9MOU5ETzlWdldscWFHYUpZNURhSlZrYzFXYXJTbkJQY210ZjNiSFFkUm5tOEdOWFd4OHhfcGdqZDhudUpWR284aUlFVDJ0R0VVTW9ROUp2VlRnZEM0UVQtRnMzU2UyYjVMQlY3M1AybS1kdm1ZWFE0ZEZhNUFTZ1ROYlpXRjd30gHbAUFVX3lxTE5RTlFSY3VSMGFWQ1FDVWVjRng4TnpoelVZM3QyUkFKeXN3ck1FazlRejFQemRTRjk2NjRPSndZWmJJb1NaT0ltdWN4X0FnUG9Ha1I3SGl4eTBKRmZBejA1VVZzOGRFS1BLb0c4NUVabktLeVFjd0RiUG5Ec2MyaktydTg3OHhtU0ZkXy0yUTF2N0d3bk9VMVVneUEzUDRZbENZX1RWRExNM0RwNkttTXVONUVOX1ZrQUtsaS1jUjNCc1VTMnJlcTFwaGhDNzFjUnBaME1JYWZvRmE5QQ?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 20:30:05 GMT"
     }
   ],
-  "fetchedAt": 1789495903
+  "fetchedAt": 1789507670
 }
