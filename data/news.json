@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks today: US stocks rebound as tech rally gains momentum on easing oil, yields",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-rebound-as-tech-rally-gains-momentum-on-easing-oil-yields/articleshow/134320980.cms",
+      "pubDate": "Fri, 18 Sep 2026 01:45:35 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Treasuries rally as oil cools and confidence in Fed\u2019s Warsh grows",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasuries-rally-as-oil-cools-and-confidence-in-feds-warsh-grows/articleshow/134320229.cms",
       "pubDate": "Fri, 18 Sep 2026 00:22:53 +0530"
@@ -23,12 +29,6 @@
       "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134316208.cms",
       "pubDate": "Thu, 17 Sep 2026 21:09:44 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sebi bars Kore Digital promoters over alleged Rs 541 crore revenue misstatement",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-bars-kore-digital-promoters-over-alleged-rs-541-crore-revenue-misstatement/articleshow/134316145.cms",
-      "pubDate": "Thu, 17 Sep 2026 21:03:04 +0530"
     },
     {
       "src": "Business Standard",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Tatas, a house bitterly divided: Trust orders gag, but Venu breaks ranks on Tata Sons' listing - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQnZGcHk2ejREaGhZSzJ1eGwwazhCaW9PNnF1MnRURE1hbjVaaGduS3RjRnRoWW5TY0VmbWxKYzRrR0ptdmZQeHRKX21WVEYyQ1FpeHJrT18wQkxpMVpwbV9CMVg2MjBEanY1VEFYM2lkWEVlT0hTT1JnUU4xWVB2bkxQVGlJdU5QU3ZXamItaUZzWWNnVHh4YzRtSUw1SnlaM21aX3RwWUpjMDlTcnRGbms4aXVDYjBLaThoQVNZUkc1MGRhZjVaWmV6NG43YmVDbmxaeng2eTRJLVZhWFp5REY0cHpOVDg5VHBYbXV4dFhnRGNHc25WNUNGazVmbER2SW9QQlVoNNIBjAJBVV95cUxNM05qRVdoRjNjcFZ1TnZEYzBtTXFWR1VHdF9mVjQ3S1pPaFFTUE42bk5nUFVlQTNIY1FuREtzaVJGblRQS1VPaWFONlhadldXU3ZBWUI4QTZsT3R4T2dGQXFOZW85YXhMSVh6TlZaNW1xZ2luQTAydFlWM0x2SEVzSDcyQlpBdmRiQzFHejFjc01Gd193bmdrNm9GVF9OVkZlN1BxMmEtaE5qODRmdkxGcGlBNjN1N1c0NnVPaUpSOEJpM1l6ZE5ZVUQ4bTlYMHZYY0dXQUp3X3U1UjhyS0VmZXNoZ1djNGF1UWxLRF9oWFFLTjlrNTFNRmVoLVdndWp1REhiR0cxeF82MGdz?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 20:08:00 GMT"
+      "title": "Stocks to Watch Today: NLC India, Bharat Forge, Skyways Air Services, BEL, Veegaland, GPT Infra, Wipro, PB... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxON05SOFgzSDZudl9SREdYRFFTSDdaLXJ0Qmc5NXZIVmRDZEtFQTBucUprOGxJNjFIb2pjdFFFY3BkQzBmU1hDeEQtTHk0c1NQRG50NXpHakRqNUNFMTJ3RGNaTTNmUkxaSmVXbnYzTHFwYVVIb0xzdWRTMnRCS2RYLUZQVk9JeE93UlZRREY1T2JKQWRiX3Z6Nmd5SEJRNkoxVy0xR3A5RktBeDQ5cFZrbUQtbFBKcWF3OVpENkU2dTY3NTJYd3hXWUNDVU9feTU4dlZiR2xiN081dGd6WXJDWklPWHF2cy1MR0dwZG1DRnE3T2tqc1NZZ2R2NER6ckJHcDBPNHBqa3E4UURHcFNTMXl4WU9wd2xLN1RhWGxUem1CMXotU2E0TEpTZ1ROYS1HUkE3ekxvczFtMVNz0gHCAkFVX3lxTE0tMHU3UmdmTDJPcEwzaE80ZkNjN3dTTWNCZjlQX05sY3RsMmRKejlXd01BU2wwRHlDM1FSX203blNkLWFOTzNmWWFla2VUNjlySDByZUw3SzRLQ1E3bHlIb1NQQWxjQWo5clVTS2swb3FfMFRsSkRqVnlXN3paaVdZY2RtWVJ1NjNDeW8tWWQybnNJYVlXYzNWQ05HSThyblg2TDhzeXJBT1FfX3dYeDVjaDJsUURVSGFSS2NkdU42OXJvZElBeWJ2a1Q1Qll5RlNwbk9fOENSQWFZNGlHdzRqWk1CNVJHYjBHaDdPLURvTFh0RGJzRjI1MWlCZlpydFU5N1ltZTNKYUllRzYwandyX3p4U0VNLW5BMTVxTjJrOVZDUnk1RkNHejVEYkh3ckJMd1MtT2hzcmJoWkUxdlhzT0E?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 20:59:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Mutual funds with the highest BSE exposure: Could we see a major reshuffle after NSE's listing? Experts weigh in - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNU2REM0pUZ0tyOTRKa2l6cVJPdE5yWTZVS0lTTk9raHlMM1dZa0hHdmNvQUY0ZVdrTUpZZnE1cjNGYklaZzVxbndOcUlOT2pWejhxbFBpMDFGYXkxN1NIZ2ZCSmtTLWFjbFp2V2xTNTFDc1RaWkNEREljaWg5ekdOV2hjZFNmTmZyY25yUlhZSC1aWXRMck1PTFhRVGFRVTYyWHdYSVF3N2FjeFEtVk1QZnlaTmJiZXgwai1KNkFOMkZ4X3NMdDFnZHF4N0NFN3IzUVowbC0wTGhkRll1YW94RS1iSEVBWUI1aXI2cVhBZnNsSzM2QlMxWGxubzNUdXVDUkZSYVNYdXTSAY4CQVVfeXFMTUdwbkNMWUppUVlGM1Npc2hHZVpGRW5KMVFjU2hFdDhyUW0tTzl3MTQ4WDFmQjdwT28tZjlFVlVzX1A4ZURQaEpYdVFzelV2VTVSV28zVWhFSDZsMjhwTlR2UVRlcTlLMXVoVTBpYlZ4WWZjcEpsZHp4TzEyRENlNDFHOHVzVUdfcjk5WlkxcjBTUlNxTk1Lc0x5Z3k0Ri1yY1JWNzA4OVN0aXdkN0FBbXBLeGJXeWJSb2VsTW9vVVJYTGlpU25JR3BCd3lxWDhRQmFwbURDdnZpbGw1T3pWS3lPb1pwQ0RhQTR0U2ZBaEFZdFpMZnQ1aDE5S05kLXpKcmdVb282S2piQWl2YzhB?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 19:42:10 GMT"
+      "title": "'Will have implications for bilateral ties': Govt after US Congress passes Russia sanctions bill - timesofindia.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUmxHbzdRT3BSNWJXblQyeXZuTlRMdXoyalJ1QVdHeGVPSHVCTEpWQlo5TnNZYThJTGx4bmR2ZTJvcDFBMV9KMTByUHZHaHVzNWpVLVd3V0NvQXNXOUZ1ZFc0dWJ1RGFUMkh2LVllVjNfaFlpUGJmNlJoYTVEclhleW4yOVJlMHZQNWZCZXlGWUNZTldoYXFhNDBoei1lWWh1Rm9keS1aVGt2SVVJSTBrMW9aN2QweWFWcndMd1l1UGJGaHNIekF1cElSbTVERm1uNEdNcHFXbjllOFFOendESnVUbVdBQWYwRG1jVTB2WThUNmRpbEpZbkd4ZWNSbjVTTmh0aFRUNEluX03SAZACQVVfeXFMTzliVWNUd2tFQmozY1FOSnJRMTZEa1JkelRkV0pKeE5UbS1iUDVZaEJzSFlSdEp6bFpKSmlxRjVZc2lhS29fNEZCOG5QaExPeG9NQnZLNUhvVlRtRmVQRUlPYkxLTElRM2N6WWxNS3Z0ZlkxRXNfbDYyY0tla0pyVGFrUmU4REJOUUhrUVItRm91MXNVWDZUTjFFSlFiOUwxT25ZVTFaaDc1V2xvOHRuZk5yaXViUm1IcW5SaVBCcU5sNGJaVG9xcnJHYWIyQzhlQUNDM1BhNWlOb25ZM19mQU4xVFJ3YzFOcWkwSFpqY2lQOUNZWU1fVWNEQUhZd2hXa3E4c3o4VXdEN0lYQmFEUlM?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 21:18:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE Rs 22.5K-cr mega IPO subscribed 43% on Day 1 - The Tribune",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkIwaWFMV25fbmgxNU45QS1TSjZ3ejhkMUpwMmJOY1pqelFycFlNNmVJanI0emFzMEp4SmFNRGtxLU93WkVldnRpZzlzZ0ptaVJFZGZ1ZWNRWFpQQmItMzFEZE83dDF3VkdkRDVseXpQcl80VzIyRFdaZEVFcmZYS0NhMWoyNXhSR2swaGg1UlQ4Z9IBlgFBVV95cUxObHhDVTg1QjVGdmRaZ21wV3pBVG5RQmlnTDNLNk42U003UmZYZkhNUWJCQ0xMdEx2OGZ5bEhOTnBaa2xpLV91Q1Qtc3BzcGo0NURVRngxRmZDblh4eUZPc3pmaDV3RmpEb0VYbmd1Y2phVl9nT3lIQnVuVERqZ3lTMFJDRDZGSTNpMkl2bXF2WV96bUxmbGc?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 20:06:36 GMT"
+      "title": "India Recruits Its Diaspora Into the Campaign for the Rupee - bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOX0VxcWR1Zm9ZSXVWcXdvQnp0eEVyYXBuNVZrTXlaWjVaV18tNVJlVUh0VU1wYWtIYThaTUdrb01mWWdINGdUeXFnUnJrZ3BUSFR0LVh6WC1adW1wMUJhM0VlSnk4U2pkbm12RE0yV2tfOFk5cGNQV2syZUxLZFRBMlBYUkZTalVVWkpiTllsTlFTOGQ5VG5SS0praTI1TUJYRHROSnFRVk5iV1lRblFn?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 21:00:24 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Bangladesh PM Tarique Rahman greets Modi on his birthday; PM responds - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU05aTVRYV3d1WDlsMkFMenhRd1pYcm0yQWNmQ3MwQndIMkJnS2xOQ3ViNzFXem5yR0JlLXNleUx3ZEZqZWFDTDVSOWtkb1NhOENfVmpyTmJHOUdvdEtoYnpXelFBV01JUmhLdERGb3pxQWVQUVhkeWlPWW83ZXIyckhsbzR4VFk1elZWbk1hRGtfcTFMNS0xWnJvbzNaeGVjR0dMVDA0NF9GNkE2TUHSAa4BQVVfeXFMTlNOWk1UWFd3dVg5bDJBTHp4UXdaWHJtMkFjZkNzMEJ3SDJCZ0tsTkN1YjcxV3puckdCZS1zZXlMd2RGamVhQ0w1UjlrZG9TYThDX1Zqck5iRzlHb3RLaGJ6V3pRQVdNSVJoS3RERm96cUFlUFFYZHlpT1lvN2VyMnJIbG80eFRZNXpWVm5NYURrX3ExTDUtMVpyb28zWnhlY0dHTFQwNDRfRjZBNk1B?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 20:01:30 GMT"
+      "title": "Sebi proposes four-hour disaster recovery drills for market infrastructure institutions - Prop News Time",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOakpqRVl4ODZqblNiYnJtNVktbjZTbDNUaE1BZm1BVlVVRUNHRklIc05PRGN4UmFPVllJUWRrb1FZcFRZNmJtVEUtNzY4V2VxcTlReng5bm1HS0JBZ2ZBODlDbEk1R1Zrek5MUGNnd19BdjQ1Tm5QQjhmakI4NzNnQjVwTEpXT1NYTm1hc243Y1otSThHd3NwQ0lYc0RpUGdHQjhHUGg3TE1IMXpESVpGbnctbmgyYjFrdjFRekRkMXczVGYzeEdCNWMtOERhV2tjN19relBn?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 21:04:18 GMT"
     },
     {
       "src": "Google India News",
-      "title": "This wind-turbine nacelle once sat atop a giant machine in the Dutch city of Eindhoven; designers turned t - economictimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNZHZuWTZWY0puZ2ZibGFUbVBKY0p0LTdqc3VZdUdzUndXeUU4Wl9iOEJvalNaQVctU1RYR3BzUHFFSEtubFh2OGxsVDlhMW5NTEctaDJSVXlOOUEwR05DaXBiTER3MVFESWZMR1duSmVNZUdvOEMteG5DWTZmdFhJZXFBSGM4a2xoRjlCNkxHcThSTXZnZ0FXcEJPdmFXcEFUZjBJOFBkYVpiX0JiZGdBOWVSdXZlNDI5YkswRHVjZVhsUTZ1dS1QWWxhZ19tRlQyWUJwNlh2MXZvMWZ0OUxFZG1oc1ZaSTAwcjJPYklPT2RtVVk4MjZqVTVHZ3I2c2xSUXg3cGtqYjBMNkh3OU5MUlA4TkE5VEtsQjVSR0N2NDVXVzJuRXdvRE5Xc1VRSHBNQ3VyaGdmN0hWMkQ5eEtJOFFwTWY5S2VmSHhJcXdPQkhTYVU2UXJXRDJzRUdxTHFRX3dYONIB5AJBVV95cUxNZHZuWTZWY0puZ2ZibGFUbVBKY0p0LTdqc3VZdUdzUndXeUU4Wl9iOEJvalNaQVctU1RYR3BzUHFFSEtubFh2OGxsVDlhMW5NTEctaDJSVXlOOUEwR05DaXBiTER3MVFESWZMR1duSmVNZUdvOEMteG5DWTZmdFhJZXFBSGM4a2xoRjlCNkxHcThSTXZnZ0FXcEJPdmFXcEFUZjBJOFBkYVpiX0JiZGdBOWVSdXZlNDI5YkswRHVjZVhsUTZ1dS1QWWxhZ19tRlQyWUJwNlh2MXZvMWZ0OUxFZG1oc1ZaSTAwcjJPYklPT2RtVVk4MjZqVTVHZ3I2c2xSUXg3cGtqYjBMNkh3OU5MUlA4TkE5VEtsQjVSR0N2NDVXVzJuRXdvRE5Xc1VRSHBNQ3VyaGdmN0hWMkQ5eEtJOFFwTWY5S2VmSHhJcXdPQkhTYVU2UXJXRDJzRUdxTHFRX3dYOA?oc=5",
-      "pubDate": "Thu, 17 Sep 2026 20:01:00 GMT"
+      "title": "Loop Industries to Evaluate Alternatives, India Joint Venture Financing - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNS0tveWFvX2ZST3laRC1xdkt1ME5fZklPeU81dnl0YzR4cmRrRjc3WTExZmtGcFJad09ORENuaVVnV244U2R5eDFNUU8zSDNFTDRJWnhiTWVGRnoySnE3MThhVWhKMkRnN01GcG9XZEtpR2hidGpLVC1odmFid21uYl9LdlZla1lVNWtUZndPVHJGVDRVS2wxU3Y4bndlQjhodl8zSkJmcHNycEtHMWFISnhWZ2JmRElQUUdUaW9wRnY?oc=5",
+      "pubDate": "Thu, 17 Sep 2026 21:29:13 GMT"
     }
   ],
-  "fetchedAt": 1789677387
+  "fetchedAt": 1789682208
 }
