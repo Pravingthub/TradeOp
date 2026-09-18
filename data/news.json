@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Investor sentiment plunges to 16-month low, AAII survey shows",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/investor-sentiment-plunges-to-16-month-low-aaii-survey-shows/articleshow/134342784.cms",
+      "pubDate": "Sat, 19 Sep 2026 00:18:28 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Howard Buffett to take charge as Berkshire Hathaway chairman: Who is he?",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/howard-buffett-to-take-charge-as-berkshire-hathaway-chairman-who-is-he/articleshow/134340490.cms",
+      "pubDate": "Fri, 18 Sep 2026 22:51:55 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Global Markets: French bond spread at highest since 2012 as default insurance spikes",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-french-bond-spread-at-highest-since-2012-as-default-insurance-spikes/articleshow/134338977.cms",
       "pubDate": "Fri, 18 Sep 2026 21:23:10 +0530"
@@ -19,28 +31,16 @@
       "pubDate": "Fri, 18 Sep 2026 20:45:11 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Lenskart block deal: Rs 2,047 crore stake sale likely; Platinum Jasmine may offload 1.7% holding",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/lenskart-block-deal-rs-2047-crore-stake-sale-likely-platinum-jasmine-may-offload-1-7-holding/articleshow/134338290.cms",
-      "pubDate": "Fri, 18 Sep 2026 20:23:33 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US Federal Reserve's Michelle Bowman says changes to bank stress test coming soon",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserves-michelle-bowman-says-changes-to-bank-stress-test-coming-soon/articleshow/134337833.cms",
-      "pubDate": "Fri, 18 Sep 2026 19:52:11 +0530"
+      "src": "Business Standard",
+      "title": "Four MF categories account for nearly half of SIP inflows in August",
+      "link": "https://www.business-standard.com/markets/mutual-fund/four-mf-categories-account-for-nearly-half-of-sip-inflows-in-august-126091801200_1.html",
+      "pubDate": "Sat, 19 Sep 2026 00:01:08 +0530"
     },
     {
       "src": "Business Standard",
-      "title": "Screaming buys: Largecap cos trading closer to their 52-week lows",
-      "link": "https://www.business-standard.com/markets/news/screaming-buys-largecap-cos-trading-closer-to-their-52-week-lows-126091801111_1.html",
-      "pubDate": "Fri, 18 Sep 2026 21:58:42 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Tata Group market capitalisation tumbles amid Noel Tata comments",
+      "title": "Tata group market capitalisation tumbles \u20b939,000 crore amid turmoil",
       "link": "https://www.business-standard.com/markets/news/tata-group-market-capitalisation-stumbles-amid-noel-tata-comments-126091801263_1.html",
-      "pubDate": "Fri, 18 Sep 2026 20:28:27 +0530"
+      "pubDate": "Fri, 18 Sep 2026 20:28:40 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,51 @@
     },
     {
       "src": "LiveMint Markets",
-      "title": "Nifty posts sixth straight weekly loss: Why is Indian stock market under pressure? Explained",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-posts-sixth-straight-weekly-loss-why-is-indian-stock-market-under-pressure-explained-11789746305019.html",
-      "pubDate": "Fri, 18 Sep 2026 22:22:07 +0530"
+      "title": "Dollar advances vs yen as BOJ dissent clouds rate-hike outlook",
+      "link": "https://www.livemint.com/market/dollar-advances-vs-yen-as-boj-dissent-clouds-rate-hike-outlook-11789758851837.html",
+      "pubDate": "Sat, 19 Sep 2026 00:44:11 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Netflix sell-off deepens as stock drops another 7% to hit two-month low. What is spooking investors?",
-      "link": "https://www.livemint.com/market/stock-market-news/netflix-sell-off-deepens-as-stock-drops-another-7-to-hit-two-month-low-what-is-spooking-investors-11789741143715.html",
-      "pubDate": "Fri, 18 Sep 2026 20:53:39 +0530"
+      "title": "North Sea Oil Premiums Soar to Records After Saudis Cut Sales",
+      "link": "https://www.livemint.com/market/north-sea-oil-premiums-soar-to-records-after-saudis-cut-sales-11789758731398.html",
+      "pubDate": "Sat, 19 Sep 2026 00:42:10 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Tata feud wipes  \u20b952,154 crore off listed companies\u2019 market value",
-      "link": "https://www.livemint.com/market/stock-market-news/tata-feud-wipes-52-154-crore-off-listed-companies-market-value-11789737927529.html",
-      "pubDate": "Fri, 18 Sep 2026 20:30:15 +0530"
+      "title": "Investors Pull $1.8 Billion From Muni Market as Return Slump Extends",
+      "link": "https://www.livemint.com/market/investors-pull-1-8-billion-from-muni-market-as-return-slump-extends-11789756712011.html",
+      "pubDate": "Sat, 19 Sep 2026 00:08:31 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Pulse of the Street: Crude retreats, but markets extend losing streak",
-      "link": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-crude-retreats-but-markets-fail-to-break-losing-streak-11789739627282.html",
-      "pubDate": "Fri, 18 Sep 2026 20:25:45 +0530"
+      "title": "Gold rises to one-week high, heads for weekly gain on easing oil prices",
+      "link": "https://www.livemint.com/market/gold-rises-to-one-week-high-heads-for-weekly-gain-on-easing-oil-prices-11789756221619.html",
+      "pubDate": "Sat, 19 Sep 2026 00:00:21 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Wall Street falls amid volatile oil prices and higher Treasury yields, Nucor slips 4.1%, Xenon tanks 27%",
-      "link": "https://www.livemint.com/market/stock-market-news/wall-street-mixed-amid-lower-oil-prices-and-higher-treasury-yields-11789740109962.html",
-      "pubDate": "Fri, 18 Sep 2026 19:45:02 +0530"
+      "title": "IPO Tracker: 19 stocks debut this week, raise  \u20b97,550 crore despite market volatility",
+      "link": "https://www.livemint.com/market/stock-market-news/ipo-tracker-19-stocks-debut-this-week-raise-rs-7-550-crore-despite-market-volatility-11789751470266.html",
+      "pubDate": "Fri, 18 Sep 2026 23:08:10 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "FPIs snap 8-day selling streak with biggest Indian bond purchase since June 15",
+      "link": "https://www.cnbctv18.com/market/fpi-indian-bonds-biggest-purchase-since-june-15-19993936.htm",
+      "pubDate": "Sat, 19 Sep 2026 00:14:23 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Apollo Pipes enters tiles business, buys 76% stake in Mazzini Tiles for \u20b940 crore",
+      "link": "https://www.cnbctv18.com/market/stocks/apollo-pipes-share-price-enters-tiles-business-buys-76-stake-in-mazzini-tiles-for-rs-40-crore-19993923.htm",
+      "pubDate": "Fri, 18 Sep 2026 23:25:47 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Tata Steel gets court protection for \u20b92,970 crore SDF payment till appeal disposal",
+      "link": "https://www.cnbctv18.com/market/stocks/tata-steel-share-price-gets-court-protection-for-rs-2970-crore-sdf-payment-till-appeal-disposal-19993910.htm",
+      "pubDate": "Fri, 18 Sep 2026 22:41:44 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -103,53 +121,35 @@
       "pubDate": "Fri, 18 Sep 2026 22:02:28 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "NSE IPO: Nilesh Shah explains why the exchange is a proxy for India\u2019s financialisation wave",
-      "link": "https://www.cnbctv18.com/videos/market/nse-ipo-financialisation-india-nilesh-shah-sanjay-parekh-19993875.htm",
-      "pubDate": "Fri, 18 Sep 2026 21:37:20 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Manipal Hospitals redeems \u20b95,310 crore debt using IPO proceeds",
-      "link": "https://www.cnbctv18.com/market/manipal-hospitals-redeems-rs-5310-crore-debt-using-ipo-proceeds-19993859.htm",
-      "pubDate": "Fri, 18 Sep 2026 21:07:33 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Shilpa Medicare says US FDA inspection at Hyderabad unit ends with one observation",
-      "link": "https://www.cnbctv18.com/market/stocks/shilpa-medicare-share-price-says-us-fda-inspection-at-hyderabad-unit-ends-with-one-observation-19993845.htm",
-      "pubDate": "Fri, 18 Sep 2026 19:44:19 +0530"
+      "src": "Google India News",
+      "title": "IPO Tracker: 19 stocks debut this week, raise \u20b97,550 crore despite market volatility - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFNDcXpYelRkeS15eDhFbGE3M3ZvWDNZOUpselB1OU1wSENvaDVVd3hxZkplSElNQklmSno3ZGwyUnRBY2EwaXlraXVsVFpzdnFtQ043X3d0R3pTMjZKVmdtUWp0VC1QZkRfWlNFdTZsdlZIMFZNSzdxa3Y0Uzg5b1JHU0JWYlJILU5ZTW5idnVPdHRuWnlrV2luOFdZa1hZVXhUMmhZZFoyVFR0aHUzSWxoMzZpMVk?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 18:59:08 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nifty posts sixth straight weekly loss: Why is Indian stock market under pressure? Explained - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPM01PZEFMcm9lVDMzVlRfS3NJNFNnUGlpdWlneEVVZmdlOGhNdVBkeGlRLW9OQ2dCVWVMLWZhdHRlQlJPVjgyWTBOWFVVS1R0Ql9LYWg1ZWYybk1BODFKQnRuSXBNWkp3YkNTbnpXZnk3bnduSmJQakN6U05VSHJzV19icVUzYUpqdWR5ZUQ4SER5eTRwZzFHcFdUd1FNVXVVWjU4V2dIR1d3Tkx6MW52MldzMkU1bW9rVmU0MGEzZTJBM1l4TTFxTW91OVhPVXp3MGlLbmlGS2E0d0d3dzBxM2dlTDhvYXVCb3JzbVI5alg3d9IB9wFBVV95cUxOai1pbnhCNVI5WEhXeENqVWl3VFhseVBOV1Q1aVdDOG40SVZFQk9mbkFFNFVsQ1diQzdrazRKWEhQWWpfbjU5dlRFTXVCOXV3d252bzhYZThXY25qMVFORVhGVXFSWEE1eG1qVElyb0JMQXZFNl9rNWpZSV9mejBSenRmYXZYNTBWOHJFNlktdWRtN3dVY2xWbXQyazJTZFNUQV9Jelc5cVMtVElacTIwZ203RExnc3lhV2ZsZnUzS0FpMTJwa1hCOGstQlo2SzBFRUpfTmxCV0ktTXhscng5blZDdmZpYklqaUlSdmphdDJtUE02eXM4?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 16:52:07 GMT"
+      "title": "NSE's Rs 22,568 IPO fully subscribed on second day - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT0FIRGtsaWlQTU9vQnVFTnBjRTlyQ0ZmT1dvQlNZTWdSNzRZT2YtWHJ3RkZIRXFaZEZ5OFBKR1dhYmhaam5qTmdVbDVmSVNuNk5YR2Rib29PS0c0R2tTeVU1VVhlVzl1YmJPOFVYMTZDX0gySjZpS2Q2X0pfUnBLaDNmR1hTdllEV1QzZXR6OVJRNVRBYXpiRU9kYXJORFB0WEpwRtIBsgFBVV95cUxQcFVQbjUyZkVWdGJOYXpWYTlFeDJ5RS15Q1VkdHRnOEQyanY4dGk2UG5Kd1B0Mmc2Vkc4cmRVSVVGQzBWWnNqWVNUSUFfMjV5UExERDVab3NaVzNCdk1TZ3MzTE5NdFFjbnFlUXA5eEo4aTFsRWFLWFVHaUNsbEd4Z2FCQXNGWi1kLUtDTVYxWm1IWDZiZmdZRWhFYlg3UzZmbVF6cWRWY1FCVlVteVQ5Yi1n?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 18:52:38 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE\u2019s \u20b922,569-crore IPO fully subscribed on Day 2 - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMS1NNFI2aXV1Tnd4VkVSVHJCSDhwalF0eGlaUWVza21aYUJjWnhlTVJwY1RVR3QtbFo1REx1RENmZm55NVVJell6eEwwSTJkVVVXM2sycndlUnF1MUlGUzBBNVdScW9kdUhXUk00eGI5eEFfampES3BGZmVLdDY5NFNqYTQxdHk4bV9LQ2VFbi1ISnUtNGViMWkxcHVjYmhzN01Obkk0N0w2cE3SAbIBQVVfeXFMUDJaYkppamRKSW42SEZFa0JBaXVWSFZ3WFVYZ3NRaEY4S3FsQ0lRTDVZcEI5Zm5KYkh3a3lGVG5sSnh5cVNOVklJZm11R1hUQlNhN3FOTjRFR1JzelRrRHctQ0pIOGxBTGNLOU1iQlQ4X1owM2NNT2FkZHMxOEJ2RUZSMHpkOGNiU1JBalF2bTA1aXJBSVpkMG1RWGVrWjFOTHQwSUhMMHI4aUQtWmJSM1hjUQ?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 16:24:35 GMT"
+      "title": "Karnataka HC dismisses Genpact's plea against ED seizure of Gurugram office - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPUnE2c016THRxbEx6TEtKdUN1b3NPSm16S19qRkFWeFg5QVA0ZUdRNzNoSkNGMTBoNGtURGVRQTc2QnB0VHFUczNUbTA3VXVVR3cxT2pPWWRGaXhRTHhYU1pkdG01bllCYVBYUHJkaUZ6UjdYZUxJakxEQ2xzTGhkc29tUzNxeVVfaVlvd1B4cmk4dUtMWHhpdXJ1NlhhZGFFSVNtanB3bGt6VDFhS29zOHZxeXBaNjJzTUJwWGs4S1VCNmxMVl9DNlo0OS1oNVVLRkVZd3lqM1dyTk9taUpmck1VX1ZSMGxBMURCc3V1VDF1dTF2eFB3VXNscFdhc3l3dWtBOHVMdTNvVG8tWVZCX0NYZWxMRjlXZVhPR0E3cUpLeUdUR251NnhOUXJqLVAwb1kzTUdKcUFkQzU3RTNZ0gHbAUFVX3lxTE1nMW9xM2ZWZEZxU3U4am83OGdkbWdtSUxfb3hFQ3AyNzR1ZGpqckNHYWdoNG1FaVVUVllFNkJTc1FrOUhoWW81bzlvNnlrX0o1VGlRUHBTbmFuRGE0cVdaOWstVm90NWFYTzB4cUJieHJIRzhDajFsLXR2YWVpTHNfS3hTVnpzdWpMbUpFckNRc3NIZS1zN3dFdVVJcVlsZlpINVdYV055WXlCWlN1X0JJbnN0UjhMOV9VbWw4OFlkUndvUWFTQU1vTm1kYVlrOC14d0JTNTBXZEswZw?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 19:22:37 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Screaming buys: Largecap cos trading closer to their 52-week lows - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3R1Q1NwSkMzekpwWldaZ216ZllkVXR4cjNveUllQkk5WmpfRHlXaklOZVdoeGZqdXM4ZTduUmlqSzBuckVCOGlBeDBHdnJOVjMzMnpxZGk2ZGNkbG41aXQxQzdwZ1ZKcU9GaTJ4bUIxdUdOLVZTYkJNd1FrZV9JM0szMFlWRXJwN0FYRXlDNVFwWGZlMTBhUk4zN1NYSkgtbjNpMmlOckxVbjEwZWNqZDJTS1Zjem53VnJGNEZlQUNLcE8xSy1uR1RQSdIB0AFBVV95cUxPZDdKbzl6MF9OVy1nWm8tVHQ2MUd2Nzk0MXhsUzVfOVlvM2FTZWdCXzRZclowUmNhVVhKZWN3WVBMQTNwc3Z3cldVbmdKVDhQS1RldXBMN1FhMjg1VDZncFMtak95UUJFSjRjd21oRE5iYWhEcE9uVTVYcEZFYThacklVa2dCRk9iRU00cDJrR0QyX05GT3AyOGFHRFliaU11ZllwNHZLaVJ0ajhuUUN1b0tZSzM1anpmWUdtb055NHhnRzBUam9MeE8zeWliRjIy?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 16:28:42 GMT"
+      "title": "NSE IPO Day 2: Issue fully booked at 1.16x; analysts see modest listing gains - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQnROUFhjU2pFRjdSN0xfbXJ3U3kydXRibDh3UnUtXzRLNTQxMXlaTzVrTzJyaERGUVBKRW5fNF9vTVJaU3d0TlJxYXU3a3BDV0dRTEtTamdiRFAzckdKamc1YTQ5ZkZVY01UU3Iybng5d3NmMVdmcjR4MUJsOXhIMmc4akhXeWlOSlBBcFFheUV4YS1WTTczYkZrcC1aM0tQN2NJWUxSUU5oSHVxZnVB?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 18:59:08 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Palestinian Envoy Abu Shawesh hails India BRICS summit, says 'Adoption of an important declaration\u2026' - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdEZBNzlGSm5LR2hKYjBYa0piejhaVEt1LXgtNERuT1U5eXI4QWV1V0RTNXRJaUlMNFlteWJzQXhiM0FsZGt2VnR2dFRIcXZNUEFhNHJCblZFUTBXX0F5d0RDZHpRRXFQOWFia3JNYnhzODF0RlFDSGYwVjlZOWlGN05DYktoVVRxSUF3bk1aNmFiTDFybzF4azkya3R5WVljeVE3RnVSc1JXcmFnTXNLQ19KYm04bGVVN0ptd21RUDJ0cFFpaVI4TkFTRUEwUC1velJ5OF9LSGIwZy1aM2ZIR2Q4czhMOTI5N04tLVF3YjViUjg1WEJ2Nkl5TGNyTUFmbUVv0gGIAkFVX3lxTE5SNHFMaUlHdXBUcUhmSkRHel9JZmc2NXVKT01XWG9NRGlsVEtucklteWNYQXp1VUhVcnlYZkNPVFhhQnl5SW9yMTc1anM4SENQWGhMQm5WUDczdUZfQTk2U3ZGdUlPMDQ4cmlsNDJUSXpoSk5DM2JwQThZUGJxc0VJTUwtSm5nTjlEU0s5al93WUFXeko5RXBzcloyOFRRVUU1MmlvdFFtV3dzMWhiTVUzSy1aOXE1a1dsdWNlZjNGMGJGUnFnNkJDLVkzdVE1Ulhybms0N1B4WFZnS284aXZab056MVVnMTgxRU4zUGtJNUE4Vk1FcVBDd0RpVVAwZ3FtWUcxaUtvZg?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 16:48:45 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Engineers India eyes $1 billion opportunity in Gulf to rebuild damaged oil infrastructure - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObGJqUnJrcW1BTnBZR3FkUkhtal9YVnhZU0Z3S1dtWERkSjJxdmlxZ1pBRVFmTU52eHZ0RGxUaXVZN3d6Wmpwd2FCbHowZkRkUE43Z3BJLUtmWkdkZU5MaUhEbS11NWRpQ0tReTJLNmJoSmlOMzlpYTFCMzN1YkhTbjhOS2dOVXg1R25nd0JHQnBSdzhJTVd1aUNjc2J5b0piODJ2VTB3NkRQZ3JiOUt5SHA3THlUQktUbFpIYklLTXJ6US0yUXVraWFfVDdZckU5SFZQOVRjN1dZVWQxX3N0RUtBc9IB4wFBVV95cUxObGJqUnJrcW1BTnBZR3FkUkhtal9YVnhZU0Z3S1dtWERkSjJxdmlxZ1pBRVFmTU52eHZ0RGxUaXVZN3d6Wmpwd2FCbHowZkRkUE43Z3BJLUtmWkdkZU5MaUhEbS11NWRpQ0tReTJLNmJoSmlOMzlpYTFCMzN1YkhTbjhOS2dOVXg1R25nd0JHQnBSdzhJTVd1aUNjc2J5b0piODJ2VTB3NkRQZ3JiOUt5SHA3THlUQktUbFpIYklLTXJ6US0yUXVraWFfVDdZckU5SFZQOVRjN1dZVWQxX3N0RUtBcw?oc=5",
-      "pubDate": "Fri, 18 Sep 2026 16:17:32 GMT"
+      "title": "FPIs snap 8-day selling streak with biggest Indian bond purchase since June 15 - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQanZxT1lkQzhKb1hRVXJDWk5LMEpJaDVfT21nUnBIR2R0RzlDb1Bsd28zajZJS2hRQV95cnh6bzNhV1BWYXk0akp5d3EyY2ZNMEdGLWVRcTQtM1N0ZkxlQnJQbVFyOGk0TTdneW04T2ZXNEVFaUViTmdnNUFmU0U0Ul9ucmwyY19Bczc4TVNCWUJRektMVDU2eTFuOGjSAZwBQVVfeXFMUGp2cU9ZZEM4Sm9YUVVyQ1pOSzBKSWg1X09tZ1JwSEdkdEc5Q29QbHdvM2o2SUtoUUFfeXJ4em8zYVdQVmF5NGpKeXdxMmNmTTBHRi1lUXE0LTNTdGZMZUJyUG1RcjhpNE03Z3ltOE9mVzRFRWlFYk5nZzVBZlNFNFJfbnJsMmNfQXM3OE1TQllCUXpLTFQ1Nnkxbjho?oc=5",
+      "pubDate": "Fri, 18 Sep 2026 18:44:23 GMT"
     }
   ],
-  "fetchedAt": 1789751030
+  "fetchedAt": 1789760092
 }
