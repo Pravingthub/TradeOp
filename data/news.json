@@ -2,33 +2,51 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone?",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-can-nifty-defend-the-23000-support-zone/articleshow/134351910.cms",
+      "pubDate": "Sat, 19 Sep 2026 16:03:18 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Bank of India MF CIO Alok Singh sees banks poised for a re-rating. Here\u2019s what could trigger it",
+      "link": "https://economictimes.indiatimes.com/markets/expert-view/bank-of-india-mf-cio-alok-singh-sees-banks-poised-for-a-re-rating-heres-what-could-trigger-it/articleshow/134351586.cms",
+      "pubDate": "Sat, 19 Sep 2026 15:22:27 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Bitcoin reclaims $80,000, Ethereum nears $2,620 despite hawkish Fed, CLARITY Act setback",
+      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/bitcoin-reclaims-80000-ethereum-nears-2620-despite-hawkish-fed-clarity-act-setback/articleshow/134351470.cms",
+      "pubDate": "Sat, 19 Sep 2026 15:09:17 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Warren Buffett sounds alarm as stock market warning returns for only second time in 155 years",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/warren-buffett-sounds-alarm-as-stock-market-warning-returns-for-only-second-time-in-155-years/articleshow/134351304.cms",
+      "pubDate": "Sat, 19 Sep 2026 15:04:25 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "HFCL, Polycab India among 7 companies that are Goldman Sachs\u2019 AI enablers. See full list",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-polycab-india-among-7-companies-that-are-goldman-sachs-ai-enablers-see-full-list/slideshow/134349968.cms",
       "pubDate": "Sat, 19 Sep 2026 12:48:24 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "F&amp;O Talk: 23,050 key Nifty support; Sudeep Shah outlines Tata stocks strategy, names 5 picks",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-23050-key-nifty-support-sudeep-shah-outlines-tata-stocks-strategy-names-5-picks/articleshow/134349624.cms",
-      "pubDate": "Sat, 19 Sep 2026 12:39:02 +0530"
+      "src": "Business Standard",
+      "title": "India's exports of software services up by 8.2% in FY26 to US$ 221.4 billion",
+      "link": "https://www.business-standard.com/markets/capital-market-news/india-s-exports-of-software-services-up-by-8-2-in-fy26-to-us-221-4-billion-126091900653_1.html",
+      "pubDate": "Sat, 19 Sep 2026 17:50:01 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Crude Oil Above $100: Can Saudi Arabia\u2019s export disruption trigger a new global energy shock?",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-above-100-can-saudi-arabias-export-disruption-trigger-a-new-global-energy-shock/articleshow/134349488.cms",
-      "pubDate": "Sat, 19 Sep 2026 12:28:34 +0530"
+      "src": "Business Standard",
+      "title": "Hy-Tech Engineers posts PAT of Rs 4.6 crore for Q1; board OKs business expansion plans",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hy-tech-engineers-posts-pat-of-rs-4-6-crore-for-q1-board-oks-business-expansion-plans-126091900497_1.html",
+      "pubDate": "Sat, 19 Sep 2026 15:31:01 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Even as trading and markets moved faster, Warren Buffett made patience profitable and cool",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/even-as-trading-and-markets-moved-faster-warren-buffett-made-patience-profitable-and-cool/articleshow/134349434.cms",
-      "pubDate": "Sat, 19 Sep 2026 12:17:06 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ashish Kacholia's Portfolio: 10 stocks rally up to 180% in CY26, 4 turn multibaggers; 1 new Q1 bet",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholias-portfolio-10-stocks-rally-up-to-180-in-cy26-4-turn-multibaggers-1-new-q1-bet/slideshow/134349307.cms",
-      "pubDate": "Sat, 19 Sep 2026 11:54:42 +0530"
+      "src": "Business Standard",
+      "title": "Hazoor Multi Projects bags work contract worth Rs 207 crore",
+      "link": "https://www.business-standard.com/markets/capital-market-news/hazoor-multi-projects-bags-work-contract-worth-rs-207-crore-126091900466_1.html",
+      "pubDate": "Sat, 19 Sep 2026 15:04:02 +0530"
     },
     {
       "src": "Business Standard",
@@ -43,22 +61,22 @@
       "pubDate": "Sat, 19 Sep 2026 13:50:23 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Apollo Pipes forays into ceramic tiles segment",
-      "link": "https://www.business-standard.com/markets/capital-market-news/apollo-pipes-forays-into-ceramic-tiles-segment-126091900399_1.html",
-      "pubDate": "Sat, 19 Sep 2026 13:50:15 +0530"
+      "src": "LiveMint Markets",
+      "title": "ITC stock: 360 ONE maintains BUY, sees 68% upside; here\u2019s why brokerage is bullish",
+      "link": "https://www.livemint.com/market/stock-market-news/itc-stock-360-one-maintains-buy-sees-65-upside-here-s-why-brokerage-is-bullish-11789814022662.html",
+      "pubDate": "Sat, 19 Sep 2026 17:27:07 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Godrej Properties constructs 24-mtr wide government road near Godrej Aristocrat",
-      "link": "https://www.business-standard.com/markets/capital-market-news/godrej-properties-constructs-24-mtr-wide-government-road-near-godrej-aristocrat-126091900398_1.html",
-      "pubDate": "Sat, 19 Sep 2026 13:50:07 +0530"
+      "src": "LiveMint Markets",
+      "title": "IPO GMP compared: SS Retail, Hero Motors, Jindal Supreme - allotment soon, how to check status online, subscription",
+      "link": "https://www.livemint.com/market/ipo/ipo-gmp-compared-ss-retail-hero-motors-jindal-supreme-allotment-soon-how-to-check-status-online-subscription-11789811154721.html",
+      "pubDate": "Sat, 19 Sep 2026 16:24:05 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Cryogenic OGS secures first export order under its piping spools segment",
-      "link": "https://www.business-standard.com/markets/capital-market-news/cryogenic-ogs-secures-first-export-order-under-its-piping-spools-segment-126091900380_1.html",
-      "pubDate": "Sat, 19 Sep 2026 13:31:11 +0530"
+      "src": "LiveMint Markets",
+      "title": "Top stocks to buy under  \u20b9200: Castrol, NHPC, Vikram Solar - 3 shares by Anand Rathi\u2018s Mehul Kothari; target, stop-loss",
+      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-under-rs-200-castrol-nhpc-vikram-solar-3-shares-by-anand-rathi-s-mehul-kothari-target-stoploss-11789809341916.html",
+      "pubDate": "Sat, 19 Sep 2026 15:14:11 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -73,22 +91,28 @@
       "pubDate": "Sat, 19 Sep 2026 12:30:48 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Small-cap stock under  \u20b950: Kellton Tech in focus next week due to fundraise meeting - Check date",
-      "link": "https://www.livemint.com/market/stock-market-news/smallcap-stock-under-rs-50-kellton-tech-in-focus-next-week-due-to-fundraise-meeting-check-date-11789792491796.html",
-      "pubDate": "Sat, 19 Sep 2026 10:42:29 +0530"
+      "src": "CNBC TV18",
+      "title": "Embassy Developments approves \u20b9160 crore fundraise through non-convertible debentures",
+      "link": "https://www.cnbctv18.com/market/stocks/embassy-developments-share-price-approves-rs-160-crore-fundraise-through-non-convertible-debentures-19994130.htm",
+      "pubDate": "Sat, 19 Sep 2026 18:53:08 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Top stocks to buy on Monday: Sumeet Bagadia recommends 3 stocks | HDFC Bank, Adani Ports, JSW Steel - targets, stop-loss",
-      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-on-monday-sumeet-bagadia-recommends-3-stocks-hdfc-bank-adani-ports-jsw-steel-targets-stoploss-11789790586065.html",
-      "pubDate": "Sat, 19 Sep 2026 09:50:14 +0530"
+      "src": "CNBC TV18",
+      "title": "Refex Industries bags \u20b9160 crore contract to lift 10 MT of pond ash, fly ash",
+      "link": "https://www.cnbctv18.com/market/stocks/refex-industries-share-price-bags-rs-160-crore-contract-to-lift-10-mt-of-pond-ash-fly-ash-19994087.htm",
+      "pubDate": "Sat, 19 Sep 2026 16:09:16 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Four aerospace stocks to watch as India builds its MRO industry",
-      "link": "https://www.livemint.com/market/stock-market-news/four-aerospace-stocks-to-watch-as-india-builds-its-mro-industry-11789731532873.html",
-      "pubDate": "Sat, 19 Sep 2026 07:00:13 +0530"
+      "src": "CNBC TV18",
+      "title": "JSW Energy arm JSW Hydro Energy wins appeal against CERC order on interest claim",
+      "link": "https://www.cnbctv18.com/market/stocks/jsw-energy-share-price-arm-jsw-hydro-energy-wins-appeal-against-cerc-order-on-interest-claim-19994078.htm",
+      "pubDate": "Sat, 19 Sep 2026 15:34:49 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Kalyan Jewellers invests \u20b9350 crore in subsidiary Candere via rights issue",
+      "link": "https://www.cnbctv18.com/market/stocks/kalyan-jewellers-share-price-invests-rs-350-crore-in-subsidiary-candere-via-rights-issue-19994069.htm",
+      "pubDate": "Sat, 19 Sep 2026 15:13:25 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -97,59 +121,35 @@
       "pubDate": "Sat, 19 Sep 2026 14:05:14 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Puravankara to launch Phase 6 of Provident Equinox in Bengaluru on September 20",
-      "link": "https://www.cnbctv18.com/market/stocks/puravankara-share-price-to-launch-phase-6-of-provident-equinox-in-bengaluru-on-september-20-19994044.htm",
-      "pubDate": "Sat, 19 Sep 2026 13:41:21 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Warren Buffett's legacy: Investing lessons that defined the \u2018Oracle of Omaha\u2019",
-      "link": "https://www.cnbctv18.com/business/warren-buffetts-legacy-investing-lessons-that-defined-the-oracle-of-omaha-19994019.htm",
-      "pubDate": "Sat, 19 Sep 2026 12:38:37 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Markets Espresso: Can Tatas say Tata to Drama; What all can you do in \u20b94.5 lakh?",
-      "link": "https://www.cnbctv18.com/market/markets-espresso-can-tatas-say-tata-to-drama-what-all-can-you-do-in-rs-4-5-lakh-19993985.htm",
-      "pubDate": "Sat, 19 Sep 2026 11:00:25 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Oil prices are high but could be much worse, Trump has China's Xi to thank for that",
-      "link": "https://www.cnbctv18.com/market/oil-prices-are-high-but-could-be-much-worse-trump-has-chinas-xi-to-thank-for-that-19993981.htm",
-      "pubDate": "Sat, 19 Sep 2026 10:29:03 +0530"
+      "src": "Google India News",
+      "title": "BCPL Railway board meets Sep 23 to approve real estate subsidiary - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb1JyVXM1d1JhdEw2TWNSTERMcEt1bnl2TklUcUo1TUZscXRTMjV1X2dSN0hSMGRPS2JFVWpYZ09QeWJCZUp5ellLbkhkTk9acTZBWFk1NWtsX1dhZ2RtTjQwUGp3dlZhOEd6Z25CQ1N2OEZJV1RtOW5pYjhGQUxmYnU5QTBYSmZDOURybDlwNVJLUXlNY2U5bDB5LVo4MEpqVi1GaEs0UGtoZk0yc0VGRlAxQXBpS05QcnI0?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 13:40:30 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE Anchor Book Signals a New Balance in India's Capital Markets - business-standard.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTGc3SkxJY0hzc1VhbXB0TE13ZFFubGJlNWtsc050bzNwSnpaOEd5T0VCQjdDaG4zUEkzbzNIbW1keHRjLW5Uc0ZOWXFnckxaLVY0U1VaYUs1dUg1T19wcFJfX21XVUxOMFdsWFBVVnZ1UmVTS0ZSNEFHY0tmWHVqOGV6R1NndjZLNHpTYVdyVFN2bEhPMXRXYWR2NThzRTl0eUJ2RHYwenRxX0FEenhUNXh6d0VzMGZod1Z2MVBLdnZ1Z3Y1Q0JpSGxoa084bzhiZ1YyYXRlc0JsNGZRdlHSAeMBQVVfeXFMUHRtSWJSV0RHNXBjM1Btdi1kWElNRmZGYXZubGFHbE1tRzN5bmxhOWxER09Cc0ZBNzVVVXJDWGY1MlF4LWFXdm12dFFDY1dwTGxZZDBKR3NqVUZSM1l5SmJKUmtMTl9BeGs3QlFfYWhwcGFRMVM4T3Q3Njk2Z3ZjWkRXRWpaYmxhT25xNGhpWTYxa3pIQ0pCMWVYLTMzbVlDbHIwamZ1UXFRR2RrbXVoSmRESkRvemN4VlFyUGtPRUtqSlhYWi0zNWZTQWRiOHFYdmtVMXEwTFVNTmRIUVNiX1FYalE?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 09:05:19 GMT"
+      "title": "How Vande Bharat Express marked a tech leap for railways after Rajdhani & Shatabdi. Next stop: Bullet tra - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPTS1HeGo2WTdxLW1IM201eFB5NzVhQWQ3dTBhRjdGSFNpTGRGaWgwY0JaNTJ6UWg2N2hpaE82a25tSENqdmdaMHhKWTJDdjIxcmRRTXVpLThWbHZRTjhMcVhKN0hTNDZ2Snl5YlRmQ2VaMEl1eTZCcjJ6bU1GOU12VG1iUk9mTVlrcXhYbXpVdk5GclFOUjdHY1RVZUNfOUVTMGVQY18tODJ2NXVSS0g4Qllfc0NvbE1TbXdtQ0RNbFNUVU1vc1FpOTlmV3ZncHFJUG1KNy00WkVYVGlJTmxfd2JjQ3VlY3NkbnN2TXZwVk1nRU1OMXdIS0FuTHF3b1l6RkdQcl9JNENEMkxDRW94R2FYVHhyX254dmfSAZ8CQVVfeXFMUC11MGxxX3BNTXNIcDJGcVBzZFJkQ1kwandrekRxMlBJVTJleTRCNS1xNzlmTVFtT2FBMUNNZE9nSWJiTFpJc2pIa2dINjdlUGM3Y0gwUGhHZkRaU1lVMk1rRXRHd1V3dWxhOXBBUUNWODltVDhqZ1hHQ2tBVmRzbkFYM2ZhanBzSFcxdHhuYkNiOUowWGFjNUhHa1k5R3d6ZEJUbi1PUV9lSWpRZ3RRdjRPckZBXzZlN3BTcmM0SFkydlUwOHQ1Z1R3SE1LTGFuZ1Q5aGx0UU41UXRjdWc0cjdiNDFlX0dhYU9kWE9RaXNjQVZsY2ljb0hlQnE3cFl5LXFFc05FcDRpRHFTSUJkV0l6NnE1N19RdnpQQm5YaWM?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 13:34:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "From \u2018doing basically nothing\u2019 to Blackstone\u2019s best returns: Why Jon Gray is betting on India - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY2JvaUVTTWNoTU5JWVNRaFZaM0p2czdQS2F5STZDMTQ0V1Y5cndwdW9uYkY1VDB5MEd2akZTYVM0UkdlM2FWaVdkN25SZW5lMkh3a2h1WHlMV0NKdjJnWU9KM0RzTjlxUTd1MDlKQWxTZVRVZWtkZzNaRUJ6NlpqNEl1enVSTXBVaGRmRS1SSmwzTzFPR3FzMnp2MnJwVXE5cmVKOWlvcXdjbFhkS1lTMmNOaC01WHVBcGRJX2tEckVibWhaYkhtemVhdVFndVlKcE1JdVE0akZscEF5TkV5UGpQUW5IQdIB5gFBVV95cUxNY2JvaUVTTWNoTU5JWVNRaFZaM0p2czdQS2F5STZDMTQ0V1Y5cndwdW9uYkY1VDB5MEd2akZTYVM0UkdlM2FWaVdkN25SZW5lMkh3a2h1WHlMV0NKdjJnWU9KM0RzTjlxUTd1MDlKQWxTZVRVZWtkZzNaRUJ6NlpqNEl1enVSTXBVaGRmRS1SSmwzTzFPR3FzMnp2MnJwVXE5cmVKOWlvcXdjbFhkS1lTMmNOaC01WHVBcGRJX2tEckVibWhaYkhtemVhdVFndVlKcE1JdVE0akZscEF5TkV5UGpQUW5IQQ?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 08:27:27 GMT"
+      "title": "DUSU poll results: ABVP wins 3 posts; independent candidate Deepanshu gets vice-president's position - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPMnNjU1pqV0JPcjZqd2J0eEo3dnRkOHllUWJsTklEM3ctTEFwY3RraUJaYUhsd0xoMGFEa21zVmoyNzdhSGpoaXE3bFBRbFFKTTBEZVl5S1JfUW1JS2pvSlcwdWU4Skg3Z3lxT1FmenZnY19GSG5KZnd2VUZUb2NLeW8tU0s5dWQ1RWFvc3dFT1lRbDNWQllld0g2RnNXakpBYWxGOGhSemhvZnVfUFFaTnEtWWtHSDV3aHlFN19KSGNDZk45dE9xbkUyTng3cEVUZVZlNlVMS0piT2s4Q3pKZnE3UXNndmpkbEJIbEJuVGRqVTJxbDA2YmtvV1lESlllVWVBRdIBigJBVV95cUxNbktobk9KVVFZTFR4WEYwcmt2dXVzZlFpVk5ZczJ3XzRBZkFMUDZUeHR6djg4QlVKVjdTR0tFYnpSdzlZUVZWbFppTVVzRF9wVjJkNlhybm0wTUF5VjFKOGFRSXkwTjNucVdURnpRSks0TWE1Nmh0QksycHZ2QTk0Z2djSXp5ZkhHSGw3Rko0ODJ6ZTRIUUQ3WEtZZm8wUlR3YXNra1AtSjBvaVlLVVIxWTR2ZzZaclo0cVdSSHY5eXpWbko2WkVnSmU2d2tvVDYyRkdQLS1JS0cwQ29QaVc5VlpHYWZZRmk3QVFsc0tidDZrMmhTNXB3NjFTSF82a18tM055a2FDSGRVQQ?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 13:41:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Emami EMAMILTD Buyback Rs 282 Crore Open Market 2026 - Kalkine India",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOERMQVI3S19jbjZIdGxDcVhNdGhtQ2RidlhpNVZhX1F3bmx0RWxCUVlqbGlULTJ5NVNyQUpZRlpxVHVkYnMxR09hcF9JbDRWSllaeVFCNUNwSEhvckU0aXQyblZsSXI1dndWQnpaNjVyUE5PM0dWNDBrUDNGZElLYkRpS0lCbFlkalk4bzRNdmtsZkRvYm50NndmMXV5eFJkVkRwUFpORWpJU3laaDgtdEhjMA?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 09:06:00 GMT"
+      "title": "Amit Shah, Rajnath Singh, Nitin Nabin lead BJP brass in rolling out red carpet for ABVP after DUSU victory - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNcXVUWnBCSGFGdFFBTm9SamhyMXhJTDZGOUtZSWt2LUtaQ3UxQ3E0N19TSDZTTmx5WGdTQ2hFZGpsZFB0YV95b0pNWHF5MVNzSGpPZHRsV2IyczRBX08zSUl1eUhGN3BfSkVqdDJ0TmwtOWc3eTBKaEZVbGtidkpoYzdhWFNyMW5uQXFvV2JkWXBTVEthR191ZFlEalRYMGdpNUFKN3RVaFlUOVJFYXh5N3lQZ1lFUkpWUDRaeURRN0VCN0VfVmg4em5yX0NJSGxrQ3Qzd25OUW5Na2R2dW9nYnYyb1ZYTDUzelFnbkxIVWdrNzNu0gH0AUFVX3lxTE1xdVRacEJIYUZ0UUFOb1JqaHIxeElMNkY5S1lJa3YtS1pDdTFDcTQ3X1NINlNObHlYZ1NDaEVkamxkUHRhX3lvSk1YcXkxU3NIak9kdGxXYjJzNEFfTzNJSXV5SEY3cF9KRWp0MnRObC05Zzd5MEpoRlVsa2J2SmhjN2FYU3Ixbm5BcW9XYmRZcFNUS2FHX3VkWURqVFgwZ2k1QUo3dFVoWVQ5UkVheHk3eVBnWUVSSlZQNFp5RFE3RUI3RV9WaDh6bnJfQ0lIbGtDdDN3bk5Rbk1rZHZ1b2didjJvVlhMNTN6UWduTEhVZ2s3M24?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 13:20:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Glass Wall Systems (India) Ltd. IPO: price band, issue structure, financials, subscription, GMP and listing - Multibagg AI",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYU5KMlFaWjd6Q1NCXzA3ZDNodGFWcmRFcC1xN1BheThNZUtsdWdhUWM1SHBFTHRycHFlQkh2NnVYbk5ETEk1Uy1wUFFIWnFzbklySEFQaWFLaGZQRDk3Q1llRWQwbjI3RUhzemRva2pGNXZ6MWpCdWNvQnhCVDZaVmdwX0FfSmFSUmxOcEotMDVzQlV0SWRxdWpQdEtLcHprWWFGRzFQY3BxLWZIUE5OYU5teHRYTVdLdm9XbDJ0MjU3TlpWemlPOE9hN25mc1BlSVhrT0hSRkRuTE9NdkE0TDJ1TW9HYm9nQjRXd2x2amtqRkR6cnlJ?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 09:02:56 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "US President Trump signs Russia sanctions bill, clears way for 100% tariffs on India, China - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTlVpUm9BX0xPN0QtX0t3Z0c3dDZxT3hHNVNTcGJFaXZUTGp3U1hCVElXOEpaZ1hvSnpwRFMzZFRUc0lQUElkRFE1RlN0ajBZcC1XYUxqM1k1MEtSbXpNUDR2dTRIRXVpQWdpVDBYckpnUEVwQi1ycElHcEVmRlAwaDYzR0I0c3VvZGoySWg5NFhUZDZuWWNwc3d0NHVHcWNoQXVVT01wc01sc2lYSkVWQmZvUVlLc0xydjVmZnNrNVF0OXN6STViQnJkY1pXUUtlLXB1dWpGVk41bEZ0X0kzRWllM0Fnd9IB6wFBVV95cUxPVF85MVdnTkZ5UnhMazJ4eDNYUjFRNktUcVVNb21CVVR2MEtVbmZXQ2UtdVJRdllpdzFnaUhJdGplcDAxbHJXSzZXWDFSaEpjSGR3VTdsN3NXOG9tYl9QUzVkSEhLdVp3anlvbFgwMHBRblRfNW91LWtOM19IYmpCT01WVk44elMyM2pFZC1reWstNnJUMUt0VElMYlFXTjZxcjN6Vkd0cFB0eG9MVkJWeXZNYkVmN0d0SlpIVkRtTmN5aUdNM1RBWHQybm9zUzFNTVlLejFTMkRVSmZ6aTRPbGRtbDhIYkkyZ2xr?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 09:00:00 GMT"
+      "title": "Trump-Xi state dinner: JPMorgan\u2019s Jamie Dimon, Citi\u2019s Jane Fraser join elite guest list \u2014 who else is attending? - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVms3TUI3Sk9DMkNaRF9Eb3lzdm9sVkxMMHhVeURJeGNpalpKdXZXTTY3TnNQQkZmTEttdlBrQkRZTzNNRndxNUtjNzZTMmE1QlU4N2xNNW5GQ3VXZllGQllzbFdnTmVPZlF3NlZEU3JIUHo2ZXN0R1RwVUM0SU5paVItQS1YWUR5YXhOUVdIVmRWV3k4WGJ3QXJtVWdzaTZIaTdQRzlsQXliWi16a1R0Y3FQVTNTbjlRZ3Z1N1Q3aDd6aGZDRGxocXQ0STRrY01hSEFrMkh1YXFHOVdkdEZiQWRDZ0JxN2RTeHdhYUtaRWZjdEJOaVBz?oc=5",
+      "pubDate": "Sat, 19 Sep 2026 13:34:28 GMT"
     }
   ],
-  "fetchedAt": 1789809734
+  "fetchedAt": 1789825909
 }
