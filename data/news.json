@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US economy firming as inflation risks persist, says Richmond Fed\u2019s Tom Barkin",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-economy-firming-as-inflation-risks-persist-says-richmond-feds-tom-barkin/articleshow/134418821.cms",
+      "pubDate": "Tue, 22 Sep 2026 23:51:41 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Ahead of Market: 10 things that will decide stock market action on Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-wednesday/articleshow/134415960.cms",
       "pubDate": "Tue, 22 Sep 2026 21:26:34 +0530"
@@ -23,12 +29,6 @@
       "title": "Market Trading Guide: Finolex Cables among 3 stock recommendations for Wednesday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-finolex-cables-among-3-stock-recommendations-for-wednesday/slideshow/134415805.cms",
       "pubDate": "Tue, 22 Sep 2026 21:11:16 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "RHI Magnesita block deal: Dalmia Bharat refractories divests 11.11% stake for Rs 826 crore; SBI MF, Bandhan MF among buyers",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rhi-magnesita-block-deal-dalmia-bharat-refractories-divests-11-11-stake-for-rs-826-crore-sbi-mf-bandhan-mf-among-buyers/articleshow/134415677.cms",
-      "pubDate": "Tue, 22 Sep 2026 21:04:01 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Nasdaq reaches record high close, AI stocks rally",
+      "link": "https://www.livemint.com/market/nasdaq-reaches-record-high-close-ai-stocks-rally-11790107377665.html",
+      "pubDate": "Wed, 23 Sep 2026 01:32:57 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Nifty 50 deep-dive guide for investors: Bearish engulfing candlestick; check resistance, support levels | Wed 23 Sept",
       "link": "https://www.livemint.com/market/stock-market-news/nifty-50-deep-dive-guide-for-investors-bearish-engulfing-candlestick-check-resistance-support-levels-wed-23-sept-11790096646921.html",
       "pubDate": "Tue, 22 Sep 2026 22:52:35 +0530"
@@ -80,15 +86,9 @@
     },
     {
       "src": "LiveMint Markets",
-      "title": "Top breakout stocks to buy tomorrow: Swiggy, Welspun, Finolex, Vishal Mega Mart, Carborundum by Sumeet Bagadia | Targets",
+      "title": "Top breakout stocks to buy today: Swiggy, Welspun, Finolex, Vishal Mega Mart, Carborundum by Sumeet Bagadia | Targets",
       "link": "https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-swiggy-welspun-finolex-vishal-mega-mart-carborundum-by-sumeet-bagadia-targets-11790089705944.html",
       "pubDate": "Tue, 22 Sep 2026 21:20:18 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Binance invests $100 million in Circle, signs five-year USDC deal",
-      "link": "https://www.livemint.com/market/stock-market-news/binance-invests-100-million-in-circle-signs-five-year-usdc-deal-11790087542601.html",
-      "pubDate": "Tue, 22 Sep 2026 20:32:43 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Why are foreign investors leaving Indian stocks? Bernstein flags \u2018bygone\u2019 large-cap businesses, low AI exposure - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPSWxrNWg4ZkZ1T2xsck1KLWtGU1M4cDM2dGlKS0V2MUpYOHJKYUZxdHN3VW9CMUxMOU9FNDJJWExaOE85Z2JaaTNCdnpnVlJsVkp1MzdBODYwVzA3M3pmNm5RelFDWGtOck1QTDQ2aHRfckR0bnVfT2owZlZGWFRlTk5rVXJQTVNHZDN3UGlKbzhjUGlKRmZtaExqelFvLWF0OEx5YWVHU3NmOWhERHA2LXVuZTJ2a282NU5fdHlkTkUtamUtOGZ2cC1QZWNaRmJUX3hMQ1FQS04yNHBKS3hTa0E4eVVzaHVnRXBZV3RSS2dYN3dXNGRKX1EyNC1NUU1ydWFOTXlKaG_SAY4CQVVfeXFMT1AwV1Q5Z2M5ai1TQllhd19tVXVZbURZc0pBS0ozSjM1SmRsQWVzemV2d1gzZG9kVzZUWkxVZnA5RDZnYlFmZXJxT2d5bEx2V0szY29xTldjOEcwR2d1MGQxbEM3YzJ6bjRWaUNzaGlENS05UkZITjRxV2ZIS3hTdmZ4cGF5cE1xVmVRX0ljbFItUjE2algxYlBwNE43ZmFrVFJldWRQRTByRVk5b0I3eG1KcElmZ0l6cDEtRjNCWTh2TXVBNkNiZW1ndms5R2dOMUc3U0p6OVBtX3NTbkRJMkFqMGY1d0JLaGlCVGdJZWN6cUFXVEl5SWx0Z2l2TXJsWDlFMlRuRDFQdlhXQzl3?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 17:05:12 GMT"
+      "title": "Form 4 Archer Daniels Midland For: 22 September By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLWtzemo1Y1BYeVFCa0xEZVpXM0ktLThkcnJNMXl5N2RYdjJFUHB1RFlMVGo3YmRUODA1WGtDcWYwOTZqMU9ld1lDTGVaWVF4OTJudElYTndIa2owdXJYSG5XdVE3anZad3JBQ3A4UGU1ZkxYSmZOTEluSXFpVTNGQXRsZVZCR21VRWJTdERybldiRVliUDY2UlFSODlMSUp4a2IyWlhPWGJ4QWs?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 20:20:02 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India\u2019s Stock Market Is Getting Faster: Why Are Retail Traders Falling Behind? - CryptoRank",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRVViM0JBbWl3ZzFOZjktMklEMW50MjNHNFNhMnlLZ24wRDg4OS14dGVyNGFVMS1VQW1mVnJPV1NnOFEybGxaOFlBNGMyeHNFa19qeWdFdlJaSzR4bWl4aFdNYU5PQVNuc2JKNkdsOVZNaXNhV183a3Y5eW9pWTZoVUp0TFd2aDZQdFRZVG9UUFJ3QzBmTXhXREZpR2thbV9xRWpSUmlYMlN4LVpiVTVDclo1WQ?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 16:49:26 GMT"
+      "title": "Thinking about your next money move? Here's how crypto is gaining traction among Gen Z investors - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPN1VFVFlsa3BkdFpPQzN3Z2F0RXdDTkNCT2NqRDBrTVZqSlVuSnRwQUlqUTlqNVhuY2dfRi01Zm9SSXJaRDF3XzF0Q3o5WDJKaEd2ZFBZM0Q4eWt0VXpldnhLendfMXNRYnFZSXRwV3l0R2xJNzdEMjhwTkJmT1c2blQwT01aT1kwcDlZXzQzazBTQVpkZE81d21MTjdZcWpwV2xIcFNSeUhTaHRpMXY2TGc5QmRJd2pzSUV3VnAtWkZYUXhtWk1nWGRWR2JRVWRzUmpjOEF5bHI4NmhxUjQ2TXlqX2J3OEZSbWhpNXM5YjlrUURESGt3dW9R0gH6AUFVX3lxTE83VUVUWWxrcGR0Wk9DM3dnYXRFd0NOQ0JPY2pEMGtNVmpKVW5KdHBBSWpROWo1WG5jZ19GLTVmb1JJclpEMXdfMXRDejlYMkpoR3ZkUFkzRDh5a3RVemV2eEt6d18xc1FicVlJdHBXeXRHbEk3N0QyOHBOQmZPVzZuVDBPTVpPWTBwOVlfNDNrMFNBWmRkTzV3bUxON1lxanBXbEhwU1J5SFNodGkxdjZMZzlCZEl3anNJRXdWcC1aRlhReG1aTWdYZFZHYlFVZHNSamM4QXlscjg2aHFSNDZNeWpfYnc4RlJtaGk1czliOWtRRERIa3d1b1E?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 19:47:42 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Axis Bank allots 79,227 shares under employee stock schemes By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3p2eDNSejJnXy1zVWhNeEdNWkx0dUtER0d6NmhEaG5YM2JLYzVSRjBjY2UtNWNkcDlxcFpCN21BbUhhaExkS1BVeEJTbGNMZUtKRnpibVpCRHVKMmQtUVoxeFdTZjZodmJ3c0ZvMkMyYllTOUNYTHk0cE5COE5DWk5icktZREFmb1c1cGxRczdjQWNYamw0bWhKbVp4STFCRFB2Y3RUeTVTLW5YMVVhd2t0SUpRS2dFaXNR?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 17:19:55 GMT"
+      "title": "Dow Jones closes 0.31% lower at 51,886.10 amid mixed trading - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWlRWZDJMVlNza0g0bm95S0FSbDFyZXQtSDVEWmltWXNIclNWRk9OUVgtYkU3ZFpCQXl0TXE0cW44dEs2a011Wi1XWWwtVUVGZWRTSjEzeWxSWXM1YWhNSGdaamIzZnp6d0czbndkanN3Z0ZMSDc4czhlelRMOHhSSnZJZm1DN3VSTFczeXlKMjVNVFVaX2tFbkVxTC05UENDQ2RVTlgyUmx0dEE?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 20:27:27 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3 Great Indian Dividend Stocks To Own In September 2026 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ2w2ZE9odFBGbmE1SWUxU2NiZkJESGV4N0VtZWtTUEwzeUs5X3FEdGlVZEI2UVJmelZHY1ZDVWFpSFBYOTNfYzRtOV8zeHo3VTAyMEpocGlFZ0l6b1JrV19VMmNDTDRGZzF2RllFd0Y3QWJTOGhqblRiTl9vRDBnc2V4c1lQeVFOLXhIaXhmamxza3RRZUFzVjg0MDRPa1hMTnA1V3UxVUxQRzMyYWNmanFncGM2ZDdJRDN1WDFBZmtGZ1h6Zkh30gHMAUFVX3lxTE93Ti1LX0VBaTlBYXRnbVVBSHlZcllYSE5FbkhIeW9ESjZXUkxlZVY3QkloUFhfbzBnUEN5alhyNXpEd21HWm1IY0QtUER1R25JMnVFZHBZbmIyTjAtWDJnR1UzWmczSDlyTThac1JtekJEcmdCYkpNT3E5UEtjZzhMWVM1Q2RKODRnUVV4N3ZqbHhZVXB6UTR0M0d3dDVhcm5ualNVbzVaWGRoYUQ4WnRpWU4tYUVuX01MNlhjT2dLbjM5RFUwTVlrMjRNRQ?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 17:01:16 GMT"
+      "title": "Dalmia Bharat Refractories sells 11.1% stake in RHI Magnesita to Clarus Capital, Bandhan MF, SBI MF,... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPYkxCal9VRXpmbGFxOVZSaDlGaUd6SzlfczVaNm1FaVlHWFBLMG5LRjFTRjcxek5RWGFVaEd1MW5tVmVvenZsUWN6Mmc2enNXRXFMcmdlQkM4Z2Qwb3M0MGNwM1pQMlpEWmFGZlZkb2dqR3NjYUxCNTh3UHpQa0tXWjN6alg1NVpUcHk3VF9oMkloYlhlV3JTSl9iYi1pNGN2MFFWVUt3aHhSX2kyU1ZoWDZWYXVxOTNIOWwxUDZoVTRrckJyMU8yR0JULTJMSnpxRlAxTTM1SnFRV3hUVjVNY1MwSHkyN1hUcnNEak9XeXRLWFlJRkxKbjlNV3FwekpiWXEzYdIBigJBVV95cUxOTXJzU3F5N2h2N3EtWFFhdkhIek9aZkNfblRZOWtvVFNPN0V1ZGVMclNSaVgzUHpGWlI2clAwR2tTSXcySmpUTzQtNFloVXNwcVpMUjVNcFpXd3Zrd2o1UGwwUHdQNk1QcktiZGYtSWJUU3dDVkF4TVhtb3lRUS1ob01UWnNWZkN2cEt6SHM5SVpFQXdkMzd4bnF0M2FaUElGR0Y5SlhNdmlZUWM1anZhdHlNeHBNQlRzQWdmTlhBd2xEQUN0WUVWcHpjNXdfdExfLVFTUFVVRDRiSkZWbnJ5WXRiYVNRUGt3WlA3cWhBQVNaY2d6ZW92RzFibXlsQkdCOXNSYmdEVUpjUQ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 19:50:02 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Who is Dinesh Thakkar? Angel One boss who bought a Mumbai tower for Rs 711 crore? - timesofindia.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQODk1YXJQZDRvb1ppeHhvNTJCMURfZFRzWmxfd3dSel9GMGRQZ2VoS181eHBybzEwYlRJMjZZUUd3d3ZTeGlLQ2xrNUlDRGN1MG5KS0VPd3haVFFrVndwQXF6cXpMVkk5QnJMaHVMZWRaaE1pTHJOVWoya1R1d0xmbzd5VFBtaWVTTTgxWTN4d2tzYjF2NElWV3h3X3NvbUZ1T0p0VzNKcmNTNU1vT3lVaTNwMnl3WHhOMnpEYWVUZGtfQ1dmOTZQT2ZpZzhWUzlHVjdwTnhFdExuai1tTXcwMUVnYzdLWG5NYzY0Q2tQSnNPX2VWcG5xONIB_gFBVV95cUxQbUNUUlNHVWkzZ3RNWlVrMzBpOUJFLWRiNlJLMGYyOGRlMTRkZXJVYUtlOENIMWRfSnZweTR6MndwVG01ZnZiZTgwRHFvbXJhU1ZDQVFTRVczVzBDbk42QWZsV1dwNlhNZWVpb1l0M0F0NlRCZEttUUVld2ludEZXaEZxUS1FdUpGM0NwblllcF9PNmpTS2RRVWlTeVpqWHdRZHU4cF9udkFtN3cxVmNNTkp1dW1CbjN2N0EyS1Q3VUlEaWJxcEpzQW01UmJ0aHA5emEyR0xQc1lvNVBMT2pVSlZVMGd5d3d1dVNXMzhDNzlTd3JzMTR3YkJuUWtQUQ?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 17:26:00 GMT"
+      "title": "Stock market moves can be extreme across sectors, Steve Burns notes - Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZ2lWQUpMUUtwWXJ3SFlIeUJoNlNBNmpSaWFTTmhkVGRtQVlkbERLeHV6X2lrLWlQc0xtdVhJV1BNczBJc2ZWWDRMcV83Y2VyNjRLRjR0a2ViM09LVTdOcHJ5aWpSV28wMW9NMTcwTHVET0ZPdTU0WDFyVFg5UEFkaVhiNUdYMjVSSlRJ?oc=5",
+      "pubDate": "Tue, 22 Sep 2026 20:10:50 GMT"
     }
   ],
-  "fetchedAt": 1790099207
+  "fetchedAt": 1790109066
 }
