@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market ends down as oil prices, Treasury yields rise",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-as-oil-prices-treasury-yields-rise/articleshow/134445625.cms",
+      "pubDate": "Thu, 24 Sep 2026 01:49:17 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US diesel futures fall on report of export ban plan; White House calls it fake news",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-diesel-futures-fall-on-report-of-export-ban-plan-white-house-calls-it-fake-news/articleshow/134444376.cms",
+      "pubDate": "Thu, 24 Sep 2026 00:08:14 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Melania Trump rings New York Stock Exchange opening bell to launch new women's initiative Imperia",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/melania-trump-rings-new-york-stock-exchange-opening-bell-to-launch-new-womens-initiative-imperia/articleshow/134443367.cms",
       "pubDate": "Wed, 23 Sep 2026 22:57:05 +0530"
@@ -17,18 +29,6 @@
       "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/134442041.cms",
       "pubDate": "Wed, 23 Sep 2026 21:31:34 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Market Trading Guide: Vijaya Diagnostic among 3 stock recommendations for Thursday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-vijaya-diagnostic-among-3-stock-recommendations-for-thursday/slideshow/134442027.cms",
-      "pubDate": "Wed, 23 Sep 2026 21:25:54 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "10-year US Treasury yields surges over 5.05% to 19-year high",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/10-year-us-treasury-yields-surges-over-5-05-to-19-year-high/articleshow/134441042.cms",
-      "pubDate": "Wed, 23 Sep 2026 20:22:02 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,33 @@
     },
     {
       "src": "LiveMint Markets",
-      "title": "Nifty outlook, guide tomorrow: Why 23,600 matters; bullish candle formed, check resistance, support levels | Thu 24 Sep",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-outlook-guide-tomorrow-why-23-600-matters-bullish-candle-formed-check-resistance-support-levels-thu-24-sep-11790181438414.html",
-      "pubDate": "Wed, 23 Sep 2026 22:54:27 +0530"
+      "title": "US stocks fall as 10-year Treasury yield hits highest since 2007",
+      "link": "https://www.livemint.com/market/us-stocks-fall-as-10-year-treasury-yield-hits-highest-since-2007-11790195978698.html",
+      "pubDate": "Thu, 24 Sep 2026 02:09:38 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Top breakout stocks to buy tomorrow: Aptus, KRBL, Tata Steel, Radico, GNFC by Sumeet Bagadia | Targets",
-      "link": "https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-aptus-krbl-tata-steel-radico-gnfc-by-sumeet-bagadia-targets-11790178360010.html",
-      "pubDate": "Wed, 23 Sep 2026 22:18:31 +0530"
+      "title": "Gold Falls as Traders Weigh US-Iran Talk Progress, Fedspeak",
+      "link": "https://www.livemint.com/market/gold-falls-as-traders-weigh-us-iran-talk-progress-fedspeak-11790193438638.html",
+      "pubDate": "Thu, 24 Sep 2026 01:27:18 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "NSE IPO may see modest debut despite strong institutional demand",
-      "link": "https://www.livemint.com/market/stock-market-news/nse-ipo-share-price-market-cap-gmp-11790167142139.html",
-      "pubDate": "Wed, 23 Sep 2026 21:33:40 +0530"
+      "title": "Dollar jumps to near two-month high on Fed outlook, inflation concern",
+      "link": "https://www.livemint.com/market/dollar-jumps-to-near-two-month-high-on-fed-outlook-inflation-concern-11790193013788.html",
+      "pubDate": "Thu, 24 Sep 2026 01:20:13 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Top stocks in focus tomorrow: Investors must watch GHCL, Max Estates, Bharat Dynamics shares on Thu, 24 Sept | Triggers",
-      "link": "https://www.livemint.com/market/top-stocks-in-focus-tomorrow-investors-must-watch-ghcl-max-estates-bharat-dynamics-shares-on-thu-24-sept-triggers-11790174249617.html",
-      "pubDate": "Wed, 23 Sep 2026 21:09:00 +0530"
+      "title": "Top 3 IPOs Performance Report Card: Ahead of NSE, know how Hyundai, LIC, Paytm fared on exchange debut day; data details",
+      "link": "https://www.livemint.com/market/stock-market-news/top-3-ipos-performance-report-card-ahead-of-nse-know-how-hyundai-lic-paytm-fared-on-exchange-debut-day-data-details-11790181298264.html",
+      "pubDate": "Thu, 24 Sep 2026 00:12:48 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Sedemac Mechatronics block deal: A91, Xponentia, HDFC Life likely to offload 10% stake: Report",
-      "link": "https://www.livemint.com/market/stock-market-news/sedemac-mechatronics-block-deal-a91-xponentia-hdfc-life-likely-to-offload-10-stake-report-11790175988672.html",
-      "pubDate": "Wed, 23 Sep 2026 20:46:11 +0530"
+      "title": "Wall Street falls as oil prices, Treasury yields rise",
+      "link": "https://www.livemint.com/market/wall-street-falls-as-oil-prices-treasury-yields-rise-11790188753276.html",
+      "pubDate": "Thu, 24 Sep 2026 00:09:12 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "In addition to BSE, NSE shares to also trade on Metropolitan Stock Exchange - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVWhoUlkyb2lFWWpEbUNtS1RMbDJrZ3lmcFJvd18yeTJaa1pxQXRnblJoZmkzSHBVRG5PeTJ1UU9aUzAzSUNJYm5VdTdzMHlIQy1vd2luME5feUZmdzZhSl8xSkwwTGw4d082cXY3UFM2NVRxME9JMnhKZEUwV1dHSTJXVUVxbDkxSGZrWm9zVGlJSUpXTWE0WUxpODE4SE9jQWVGdHQtcUlVOXNMWEgtYUdWM3VMdW1hbENaS1JsLVRIbjkxSDdoLVBqdGJGT19yS1HSAdcBQVVfeXFMUDR0NU9mcGQ1aWxjbHhwLWt6VHJYNkl3Z2hUTHZfcWlhLUw4WkI5QllUc3kzbk0xSThkOW5wX3VSTjFmTENJTmZqOThxS3JjTXFNLU9Jcm02aEJVVTJhUE1CX2NkN2huTXMxNUVsQXdnMUV4bVRCaS1PQngxN2xHLUZlRlI3YmlJdnZvQUVzSTVraHAtMkU5ckJ1aTRfYUwxbkIxbXlKSTFNWGxRbVpaT0RqdmcwMmlQRDJMODFEWDhUVktLbFlZNG03UG4wc3o2SEUyd3NreE0?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 17:21:26 GMT"
+      "title": "LG, Samsung face India tariff evasion investigation over OLED TV parts - The Hindu",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZlhtWTkzYlFGdHNXWEpueFhqYWxBNS1YQzN3Sm85dllfY0poV1drZ3FpMzVaOFg5eWVUS0ZnUS11MWFvLTZ3TDRSYUhzaDBBa0pIcW5kY2hadG02UVlPcnd6bU5FcVNwaWFKSmNOZ01LSVdNTlZBUDk3OXdjQzJpUDJlWFVVeENsR2JlbF9SWUJkRjNtelNzZFZ2eUZqQ0JSUXdzZEcybmtkOUhneHdrM0tjT1JTQ3A2S245cjdIc2I2bmNfQkp0UFNORGLSAdMBQVVfeXFMTXo3WFNjSzVYSlpJazFyNWlqUk1oYnVtanQtaVpTY21wdjFCWlhjdmNTZ1RrSkFhMEh3LTNjWlFCY2ZHcWVoOE9hUTlCV3YzQ2RKUFdqYjhzbWFMblNPOGs1aUZsNGRaMVgzWDFRa0IzeDRrRkloVjllSDdpbVczc2lQaUJfMWtzY0tDWGk0akppTHVMR3JWUmJuQW9TQXNsMHVHZVJDOWpYSG5xT2pVWXc1cGtRT29RQ1JRRXBwOTBSQVpoa0FQRDV0R0YxcjJaTFE4bw?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 21:28:22 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Top 3 Indian Dividend Stocks To Watch In September 2026 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSDBLVkhUcTM3VzRvc2d5MThGMkhldzJ0Zzh0ZklJeXFJNWpZR3gyWlk5MGc3eGhUN09oSHNLT3FCZUR6OTdHaGNURDNycVJWcmV4LVZXWWdWemJBVThCMUE3bnM4anRtb215aFRFQVBkUjh5dmdJc25ibzllQ0lRTmd6cVRPemE0REhpczNaWTItZldKME1YM1NHX0RjSEwyX0hUUEtXeFFrSUFOR3FfWE44Uko0ZzY1MEx4dmd0V2NCbVdkWWhn0gHMAUFVX3lxTFA1TUdkd0NyUHlMdG1NUGc0R0k0dmZENjRsQ1JKZmNoXzhRYWJScXJfaEFqVjNCaS1LYmpmYXJtalVVOTRBYkpJMEJTOW1mcnAyREVyeHVsbHdhbXFJWUN1c1BJd1FDZnFUVGdhb3JGWTk5cFZzbHQtMVMwbEFUc01TR1AyWXhGd2xMMW85OWRSTWJFdUQwRUpGeXNwSTR1VE1BOWdBY2MtT3VUMlAwSURNUUI1VGNiZTJPTDZYbF9JZDRNRGdvMFBUQ3ZiZA?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 17:38:07 GMT"
+      "title": "Tata Motors Stock And 2 India Manufacturers Tied To Nearshoring Demand - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZWVOVTBEaEd6WWNBOFlsbmFiRGlnY0lhWmlieDZ1bWJOYVV0a1VDZnN4SmcydWlGNVQ4WlVHRm9DS2Jhbkp1QS1vVzBkSjBtVzQxSVBfZE1JSHgydkhlM3pZejVvemllQlhEanZadmdYaHJVSlppalpkRlk5ZnBSdEd6TDVUMlhTT2FkUC1SbVFQOHZkMnA2VnFYcGFKa0ZDZ0RHYU5GTk9ycFhsbjBpRjV2WEVETmFHWjJYVkd2S3NXbENFTFAyVWlPenBvTTBidUlENHlSTmdOYmpmbE4zcWNoVm5iRGfSAewBQVVfeXFMT3FDeGNLM25ORGNWck9lYThlUXd2clUxbUdQb3pXbDcteG1yUmFDVFVLd1UtUjJjY3lUcS1jN3BESGJscHpkNVFGM29BUUhzQjVaM0JrWU12dUdyWVNRY1IzU0h3ZTBuYjFtZ3FUVGJHc0Z6TkM0NlNDbGZlWm96eWlaZlFfSHNVV2g3VDJSTG16MVZsQVA1NGFjVXVsR1NZdVlqQ01VNEtJV054RGFQMW9uU2doNzZsUzdHY2N0VDdmTnFKUTFkWTNCcXVnYXFQckl3QUpyTUtPOEVUQXVZVEZaTHhqRlQwQ184ZGM?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 20:35:12 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nifty outlook, guide tomorrow: Why 23,600 matters; bullish candle formed, check resistance, support levels | Thu 24 Sep - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYlJodUFhNUl5VjNNanBRS0V3MDJqQ3RwaVhnZjMxRmNkdUpYbHpOZDVWeDdCZ1JjSUNmdTRRQVc5U1lRaXJ0RDVoV2hWbzRsZk5laXFndV94V3dVSlBSbVhhaWJKU19GalJkd3RYaXF0Qm1sb0ZHTFJ0WFBaRFB2eTQtdU5sOW8yNGl2bVVkTGNMMkVwclVZeFhuV1JCcWRGd0NqT0lLcFFGazVseV9iVjY3OWlIWTVwdDc0NGVwT0hhZzBCLU9JNS1GS3F3LWdrWmlXcXRhM2tpbWZnOG84Z042U1dyN1FkN2xFWnN4UURhU3ZmRFhsc19yMXZ3U01oYmpOTEFJSS1WSjNOUURZ0gGUAkFVX3lxTE83YVJNYUd0d1R2T0Vnakw1RG9XblJTSl9na3cyRGQzbnk1Z2tBcVZlNkNHODhqcDIzWFB5cHNVWkdHSGpSbGdMb3lKZmlUMWlyTDNudTJpcGp5T1JmdUFFT3E1UDBFYzBMUkt5dDdUOVZNZHNpcmlMeUwzNTQyZ2g3cENKUUhiMXdmTVUzdTdzb0NXWEZIMWJ6SVZVeTBXM2VHcXEtMlY3dGs0eVpzcnhNMTdZTmxIdkdpXzZuSEJuckxnWWN4OUp0ZlIwOExxZ1ZHcjVXWl9MaFFleVNmdmhOa2tQUEFuSzFWRGo1V0tDWmFTNzE1TklaZ2piNWctNmRBc1V5a0dDOWNfQXlnVHFIVVJ2bw?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 17:24:27 GMT"
+      "title": "Stock Market Outlook Today, September 24: Sensex, Nifty Likely To Trade Higher Amid Falling Brent Crude - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOT2ZyZ3pzdHdMSEU1ZDBHRHJPNjVHZTZvRnl5TVdaa09ENzRaa2E2OFBuMng4dElPRkx0SHBINWZwZjBFbGk0cGd5WWUySTVqT2pXSzNWcEtudlFrdW5sbjNSTjRIcDBlb0dWUmlpc2lKblhnaFFiWWR0UXFwTFVlVkFUcFJkYnprQlR2T0JnTE01Y21aNkZNU1BDV3ZubHFzUW05ekU3aW16WnFWQW01enpubXQxeDJPUVRGbFJNS1JrM0k5Ny1mbEpBLWVQQWZwZ1FIZUxhWUNPQW5oTmc?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 21:06:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Fairfax India Holdings Stock Slides as Market Volatility Weighs on Sentiment: Is TSX:FIH.U Facing Further Downside Pressure? - kalkine.ca",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZVdndDFuVmhZZEdjVjJIY3k3WlY5ODctVXRmYU1CYXVidndRSEJYRHl0T3dYaW5ZY1NJQTZfak92ZTVMWUhUVUprR2FWNFY0eFI4Y2VIUFNTU1plMUhLVUVLRXJtZjRJYnBKMEdoaVRSZWJDbGVVY2lGcGZtOEZMRlpiU3hfU2V5TUxKdnZaR3FSVzZGM3p0X2RucFN4ZW9KV2JBYkZ4Q2VYRGV0UEF2Vno1bnFlTHhGT2NBdjF5cUF3QjRISDFlS2tOTnlxR2VKUUhrOXZrNEFRaVA5V0pTRHlTTEVERDlNZGc?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 18:01:00 GMT"
+      "title": "Commissions capped as fees soar 4x faster than premium; regulator seeks to limit distribution costs and m - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNU0dlWWFfUXFDUDZUS2dUd0hUVUN5TFFGdXRhMllGdkxyTXdXMmxBQ3JqalY1RVZ1NXJxbTJvNl9ZWE9XSVJzdkRhbFBSaDJZekhVeVNHZE1ETFlBZl9oQkJlb2NnUGNvM0doTFRuVndZR2NVY29YY0xqQXV2OWpXR1FJV25RQ25NSU1HbTdsQzltT2VNaDgxN3JjU1ZJUW96bVR4TFJRbDVHRFJudnpIRS1BSFNpN1F3TTJ6c2ZPTE8yaVZGMktWNGVVWTYzYWdfZ0lGZVY1cmVkTERFUTJKUUYyczJnYlpreWhFZEpLWVNTZDQ5VkZnUnpITFF5WGlReXE2MUhKejhaRWRqelpZRmQ0Y25yR0xQYXdlMkNQRFZldFlsUHfSAasCQVVfeXFMTWhUQ1lKd2JXUlhxVWpHVGtqTUtpWDd4VVd2VmtMMDZwbHBsZDNCQUR4bmFhdTJLUGZOVHJCU1ZibWRMMVRSRHc4MHZIWlA0c2paaG9Jd0R1V3l4VlNxQlRzZEhxUnJ4ZWtlM3c2UWZ3QkFDaWRSX1RwQU5oTmk2UFJoQkIxR1dqcElLcWR1ZmVnRFAtcWFvQklRUDlJOVBGNUsyMVJVck1HT3RzSUFUQ3RCek1aWURvZUFhd1VKQlI2UEFSdzFPMzE1Nmd4cWVORjZ2MXRuMlN4Q2dSXzZWZzlMQlRQZzFWYnA3dEJENWx3a21TdlAtTjBQVmJIaWJNOVRRN05ocFdXdk9wcXJrU1Q2VnkxMmdfR0tmX1lZLTRGUzN6N3pncnFQbms?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 20:47:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Brahma AI raises $150 million led by Multiples, valued at $2 billion - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ1QzS25lakRFUk5Wek43bkdOckstVG1FZ2NyT0tNLVBvcmhCeTVKSWZUV1RjRHBTUzJJYWlZSW1janZXWGZIUV93bVRXSUFxRklXeE1fTUtZRk5ueGtpMWF1LTVuNjlKYV9FaU5GYVpuQklIVWVHeHRJTUZtSXowa3gtUnY3Nlo5YXJKdWJJbXRGR2VmSXJYZmtQaFcxNXdUcmdVeFcxNGFFNHJYRXZEaVM2TXBoTmg4VXlJZEstcFZERWVxMHZ5VkJxMlJGT0thV3h6RV9rUVVrNktrZWF1NU9QMU1Ld9IB6wFBVV95cUxQVVpJY240cWVWYzVEOTNHelgxTTN6YTBOUHFDOURNUHpEWFBCOWs5TVBGa2pHYUFLWTdWejc1WEpmVmpYQXV5Yjh0TUdSd0lnMFV6eGU5RnJwWFJtckY0QlRsekloTEppeFFLSkxhMWlFYnIyQXF3YzduWEc2SEVTNkVOb0hMNmNfYlEwSlVjblRlMGcycko5Y3hkSFdWRk9SamxLQUs3eEx0Z29fdnQ1TUN0V3NySS1aM3kycWtMNDE4RW5SeTU2SDVsR3BWSTl3Nl9uMTRrdlZVQlFqb3FyWU5TM2hQc3htY0VB?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 17:32:00 GMT"
+      "title": "Sebi Sees Rs 2 Lakh Cr IPO Fundraising Potential Ahead - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOE1BckZPS1NUTzZLd0x2Y0ROTFBXcWJ1TWVnOWVwUjhLcnBCZUdKN25TbzVmQ2UtVFcxRkZycWlFcW1LN3lKWUU3anRxXzFYaW9oOEZmTS1fV1ZLNmV6c0oxTnNFNU9xR3Z4NlR4RzB6SWo0TUZobTk0eWRlSVB4UGVzbDFLZ0dad2xMNFBManpiVFM2OTJjQjdidzV1N3M?oc=5",
+      "pubDate": "Wed, 23 Sep 2026 20:50:07 GMT"
     }
   ],
-  "fetchedAt": 1790187372
+  "fetchedAt": 1790199308
 }
