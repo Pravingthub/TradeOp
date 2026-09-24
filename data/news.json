@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: S&amp;P 500 ends nearly flat as US-Iran talks help stocks pare losses",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-500-ends-nearly-flat-as-us-iran-talks-help-stocks-pare-losses/articleshow/134469382.cms",
+      "pubDate": "Fri, 25 Sep 2026 01:41:13 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US Federal Reserve\u2019s Anna Paulson sees scope for more interest rate hikes amid inflation risks",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-federal-reserves-anna-paulson-sees-scope-for-more-interest-rate-hikes-amid-inflation-risks/articleshow/134468950.cms",
+      "pubDate": "Fri, 25 Sep 2026 00:31:01 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Snapdeal parent AceVector raises Rs 189 crore from anchors; Negen, Singularity among top investors",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/snapdeal-parent-acevector-raises-rs-189-crore-from-anchors-negen-singularity-among-top-investors/articleshow/134467815.cms",
+      "pubDate": "Thu, 24 Sep 2026 23:14:58 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Sebi revamps accredited investors framework; approves common ad code for mkt intermediaries",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-revamps-accredited-investors-framework-approves-common-ad-code-for-mkt-intermediaries/articleshow/134466743.cms",
       "pubDate": "Thu, 24 Sep 2026 22:11:10 +0530"
@@ -13,28 +31,10 @@
       "pubDate": "Thu, 24 Sep 2026 21:34:31 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "HDFC MF bets on PB Fintech, buys stake worth Rs 321 crore as IRDAI reforms trigger 36% stock rout",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-mf-bets-on-pb-fintech-buys-stake-worth-rs-321-crore-as-irdai-reforms-trigger-36-stock-rout/articleshow/134466281.cms",
-      "pubDate": "Thu, 24 Sep 2026 21:30:46 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Friday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-friday/articleshow/134466210.cms",
-      "pubDate": "Thu, 24 Sep 2026 21:23:54 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sebi expands bullion vaulting framework to ETFs, derivatives; vault manager net worth raised",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-expands-bullion-vaulting-framework-to-etfs-derivatives-vault-manager-net-worth-raised/articleshow/134466018.cms",
-      "pubDate": "Thu, 24 Sep 2026 21:11:25 +0530"
-    },
-    {
       "src": "Business Standard",
-      "title": "Nifty hits over five-month low as banks, NBFCs slide amid high oil prices",
+      "title": "Nifty plunges 1.6% to five-month low; Sensex ends 1,248 points lower",
       "link": "https://www.business-standard.com/markets/news/nifty-hits-over-five-month-low-as-banks-nbfcs-slide-amid-high-oil-prices-126092401078_1.html",
-      "pubDate": "Thu, 24 Sep 2026 19:21:19 +0530"
+      "pubDate": "Thu, 24 Sep 2026 19:21:50 +0530"
     },
     {
       "src": "Business Standard",
@@ -52,7 +52,7 @@
       "src": "Business Standard",
       "title": "NSE makes debut on BSE at \u20b91,800 per share, mcap hits \u20b94.5 trillion",
       "link": "https://www.business-standard.com/markets/news/nse-debuts-at-1-800-md-ceo-says-india-s-growth-will-drive-exchange-126092400968_1.html",
-      "pubDate": "Thu, 24 Sep 2026 17:28:52 +0530"
+      "pubDate": "Thu, 24 Sep 2026 17:28:23 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,45 @@
     },
     {
       "src": "LiveMint Markets",
-      "title": "IRDAI commission proposals: Why does Nithin Kamath see regulatory risk as key?",
-      "link": "https://www.livemint.com/market/stock-market-news/irdai-commission-proposals-why-does-nithin-kamath-see-regulatory-risk-as-key-11790271257779.html",
-      "pubDate": "Thu, 24 Sep 2026 23:18:55 +0530"
+      "title": "Hedge Fund With 235% Return Says Gold Price Decline Is Temporary",
+      "link": "https://www.livemint.com/market/hedge-fund-with-235-return-says-gold-price-decline-is-temporary-11790284928876.html",
+      "pubDate": "Fri, 25 Sep 2026 02:52:08 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Top stocks to buy tomorrow: Vaishali Parekh picks three stocks - GAIL, Texmaco Rail, HBL Engineering; market outlook",
-      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-buy-tomorrow-vaishali-parekh-picks-three-stocks-gail-texmaco-rail-hbl-engineering-market-outlook-11790267216221.html",
-      "pubDate": "Thu, 24 Sep 2026 22:32:09 +0530"
+      "title": "Oil jump sends 30-year yields to two-decade high",
+      "link": "https://www.livemint.com/market/oil-jump-sends-30-year-yields-to-two-decade-high-11790284055527.html",
+      "pubDate": "Fri, 25 Sep 2026 02:37:35 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Stockbrokers approach Union government over proposed UPI charges",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-uip-mdr-upi-merchant-discount-rate-11790261342038.html",
-      "pubDate": "Thu, 24 Sep 2026 21:36:21 +0530"
+      "title": "Treasury Rout Threatens Popular EM Carry Trade as Citi Pulls Back",
+      "link": "https://www.livemint.com/market/treasury-rout-threatens-popular-em-carry-trade-as-citi-pulls-back-11790277763484.html",
+      "pubDate": "Fri, 25 Sep 2026 00:52:43 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Top breakout stocks to buy tomorrow: ITC Hotels, RR Kabel, MCX, Texrail, UBL by Sumeet Bagadia | Targets",
-      "link": "https://www.livemint.com/market/stock-market-news/top-breakout-stocks-to-buy-tomorrow-itc-hotels-rr-kabel-mcx-texrail-ubl-by-sumeet-bagadia-targets-11790262992516.html",
-      "pubDate": "Thu, 24 Sep 2026 21:34:03 +0530"
+      "title": "Dollar ascends to fresh 2-month high on inflation worry, Fed hike expectations",
+      "link": "https://www.livemint.com/market/dollar-ascends-to-fresh-2-month-high-on-inflation-worry-fed-hike-expectations-11790277078633.html",
+      "pubDate": "Fri, 25 Sep 2026 00:41:18 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Top stocks in focus tomorrow: Investors must watch Sterlite Tech, Nykaa, JSW Cement shares on Fri, 25 Sept | Triggers",
-      "link": "https://www.livemint.com/market/stock-market-news/top-stocks-in-focus-tomorrow-investors-must-watch-sterlite-tech-nykaa-jsw-cement-shares-on-fri-25-sept-triggers-11790254286938.html",
-      "pubDate": "Thu, 24 Sep 2026 20:32:27 +0530"
+      "title": "Nifty outlook for tomorrow: Why 23,000 matters after breaking below 4-month support? Resistance, support levels | Friday",
+      "link": "https://www.livemint.com/market/stock-market-news/nifty-outlook-for-tomorrow-why-23-000-matters-after-breaking-below-4-month-support-resistance-support-levels-friday-11790272671999.html",
+      "pubDate": "Fri, 25 Sep 2026 00:01:26 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "JSW One files papers for over \u20b93,000 crore IPO",
+      "link": "https://www.cnbctv18.com/market/jsw-one-files-papers-for-over-rs3000-crore-ipo-19998136.htm",
+      "pubDate": "Fri, 25 Sep 2026 00:21:58 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Godrej Industries sells 0.50% stake in Godrej Consumer Products for \u20b9450 crore",
+      "link": "https://www.cnbctv18.com/market/stocks/godrej-industries-share-price-sells-0-50-stake-in-godrej-consumer-products-share-price-for-rs-450-crore-19998126.htm",
+      "pubDate": "Thu, 24 Sep 2026 23:43:11 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Thu, 24 Sep 2026 22:25:22 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Mahindra Finance approves \u20b92,000 crore non-convertible debenture issue at 7.95% coupon",
-      "link": "https://www.cnbctv18.com/market/stocks/mahindra-finance-share-price-approves-rs-2000-crore-non-convertible-debenture-issue-at-7-95-coupon-19998105.htm",
-      "pubDate": "Thu, 24 Sep 2026 22:19:11 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the September 25 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-september-25-trading-session-19998062.htm",
-      "pubDate": "Thu, 24 Sep 2026 21:33:59 +0530"
+      "src": "Google India News",
+      "title": "Why New Delhi is a battleground in the fight over Tata - Financial Times",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVjhxcHNBWFFKSTlDR212MTZpTVN1aE5Vb1VzTVh4cmVzbnlHeGI1UEltd0llSUQ0WEJpWVZabTh2TFdRWEZrQ3RwNDItUWRSWjl6MXFZX0hlQmZtR2RYazNvMkxpcWpQOU1YX1VSSEpid21lR2hSbTB2TFg4X3RPTTFZRkU?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 21:00:05 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nifty plunges 1.6% to five-month low; Sensex ends 1,248 points lower - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEtyZld6dU1SZ1JaVjBURl9iYTVSdHRJcEk4VC1zMFM2WjhnQ2hIdVJOMVo3a045ejBtTVBfX2NjODlsbGQ1SncxdU1vek9EME10SlBnbTdQa2lmQnpGeEY5OUEyVHhxVi1ldUJPR3FJSVA4Qko4ODdHbjhsNXJ6eFNoTmhzOTY2c1FuLUdNc3E5aXdKMUFuelJERmRHcUxvRHd3YVRpSTBObTNFMzlwbEtCUENDeXZqazRjbEVweVA4dWxYNlRpMUdzUWhzX3lPZm80UGtR0gHbAUFVX3lxTE1VbWpFcXoxUXFONHFjZlctU1lXbFRCeWhLSUttd2tMY0ZvMGFmNGxRak9GLWM4bTk0VDRUZFlpTks1SnZmaXJTS1cyazNUa2tXVE5XLXVVVDVScmg5ejNtQ1ltc1h0bVdGRHB2WHNZQVdXTjNjQ0I1RzRsS0pHWjhZc2ZCaTJmRjkzdV83MnY0Q2l2aDR0aGVCcDF6MDR6c2hSUE0tQXd2ZjhHei01V1ZiN3ZqRG84OUp4UEJzUVR4aFpGWWdKRkRIdVZ2NWNHSUYwcDBkRG0tNXNodw?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 17:41:50 GMT"
+      "title": "Stocks to Watch Today: ESDS Software, Purple Style Labs, Axiom Gas, Dr Lal PathLabs, LCC Projects, Waaree... - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxNdlFSN1BQS2VqMVZlNlRFRHAzcy1rb1Q3T1M1R1F0TXViYnFMRzlnZWJlZERwMWdsM2Izd1NIT3VHaHQ5aWRydzczR0pqclQ5VTFhdkg4OEdtdV9oVF91aDZBazFISjNQQUszR2NWQ3VoalRuX3UtS1BPdm1sYk5FZWNEMmNnZ01RN1c5QnhiYWhQLVRCV3Q0TF9pQzU4ZDF2N25yaGlzNEE5RG5Tc0l2VGNWbmt0Wm9YWTVsUDJ2V2ZQOGJ5b1FpMHJZYy1LMnRMRXBQZDM0OURoM2VvdU9KcktfMFJ6Um9MQnVvUXVfZ2Y2Z0hIX3c2MjEyUVVXT04yOE9pU1ByTTdGU3pKRmRRX1FhNFpES28xVjRKdlc3YzgydWhsSFF1d3VBUXJBYXBnWndkQUduUjI4VTR10gHCAkFVX3lxTE5FSWdINE5TWjhFSUx2ekxWYjcwWHh0Y09TTzUtSUUzWEdhemxiUEp2d1NFNG1oT0NVQ0xsR2RDeTdxSU1rRFdUSmt3czlwRmVWTjVVMDgwSDRvUDFzbU11QXoyckwxN1BCbFdMN2ZGQ3l6WXc5RDkwWVJBcVpaMEVwQ21XTjZJamZXajY2Z0RZcmRrUUFlOTBTNl96bHZoaW9TLWFpZFF4VFZPTERUTUQtM3NPb0NwekpNQXZwblphODFOOTlUdDFHbWhPRFFkTlVEYThRRzUwbVd1dDBXaTBncDY4VzlXOTRMYjNCbTZfODM5WUFGQ1ZJNjZfUHJ6cm1rMWpyTGxLVWFFQndmZjVncFdhSGpkRWhtUk9Ja2dsVko3MDFkV1dXYS03V0FWNmFQb0NJMEZDVHpWN3Exb3N2cnc?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 21:05:08 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Trade Setup for September 25: Top 15 things to know before the opening bell - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTm5ubmN1cnRZdTJITGlSUG5pM3hMcUtDYkFVWTNMZllzT21LVzhIY3lrMGd4cjlBNkNCZVZqaDNPel9KMXlUTWxfdVdZLU5pM2piNk83ZjFoanR5OVVQZm50VXBudmVUbDFERVJ0cjFTaGYtbldyRmI0aTM0aTRnamxuT2dyeDR2US1lZXVhRnNaS2JIWmhMaEVqXzltV3dyN2dhWnAxREZHdnpvZnN5R2t1UzJIbWFyTXV6RUtHU1ptenpDRHJpRkFyOHlpUHhHZ29sdUhR0gHbAUFVX3lxTE9QRkdmRFdMR28tcXo3YjB3Zkx1dTBIMHkwT2lKeWkxR2dGVk5rY2JCaFVSSU5VT1d1NFZwZEt1cTdJNVJkNTdMSC1BeWRDX09jSk96cFB1STJzdHVCTlRlV0RBQy1admtnUzBpMzRZRkFONWZOUmVuYlN3M1J2MUVPT3dZMm5CQ0FFNmJxZ0Y0VUhvNzJkeGJWQ3ZxY01CWk5VamQwSWRMOG1ZOWh1dTdyVWljVmtkZzhPMldMaDNkVFlwZ0FRLVk0UzExRUw2RktpUkNsQV9GWmJiTQ?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 17:45:33 GMT"
+      "title": "3 Indian Dividend Stocks With Yield Up To 4% - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaE9KVHRQd0FLdi15bURNVnZNanFxMlloOUhWenE3RUhHdE8wSWQwbF9wd1FCQ1pyOWZseWxrdi1Fb0Ewc1JuRHhhYWNBaC1VNXNhZ1N4cW92c21nNnk4OURZUGRUX2p0OUFOSEJOM0NXN2lPWFVnZjhJR2luMXZLaXNRb1B0ZWRDVElnOFQwWDZoWGZnUVAzVmwzMEpXOHhBOVNFN1FjaEZyOUkxb054cHB5QVfSAboBQVVfeXFMT2hPMDVmOFhvMmNjajBaZjRJb3BmTlZPbmU5R2lZT0xVZENIenRPSmtac0hhT3JrZk16TGZGWG1RQ01pcnQ1OUpJVlNWZ1RqWTIxRmdESDhKSkF2QXdzdUh2SmszR2ROeGpKdThwN01KVlgzaE1NT1p6ZC13Uk1URVYtVnp0XzdMcGdDeVAyVFUteHRTSW1BRVNVbXU4RUMyYUNEQlhkcEZfdEN6dzF5M3FNakhKUk9VMzZR?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 20:58:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India\u2019s biggest stock exchange sees quiet debut after mega IPO - New Age BD",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU3JxY0hHSDlSLW5DNnJhc3VYYU5ZOWVVUVQyQ3ZaR0U1NjRKems1S2Z2X0VzUUl0bE02Xzc5eUUzMHdMVXZzLU9DdXBhbHo0VWljTERaSDZ4eTl6bndRT01TQzBBS3dVaDFxdnhSZXc4QTZSOGZaLW9od2w0Q2JqdlB1UThTbUhUclVfcnZOVUNrdWFkSWJuejQwMmI0TjV3UzBSTUtaYUo?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 17:04:09 GMT"
+      "title": "Lear stock edges up after boosting buyback to $1.5 billion - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnJwbklfd1o5ODkyWHZMcG11WEtrcHk1RWRIQ2Y5eFlWZGJzbXRaaWxkTUFPckluTjF6WjlUY2FhUnhfbVo3YjA1X2dGc2ZiU1dkb0dvdlRMZTFmMjZ5c1BveHp1WU5BZU84TGhpM0l6VHFGbzRXZi1GMHZMNzFCSlRYdFltcVQ5bWpqa0dMbThtbG1SYXFXQnFtOGlnWUVKdGZqMHZqdzFDcDBwdGpPVE1B?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 21:11:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India's JSW One files papers for $300 million IPO - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbk9jRWMzM2kxcXNUQnIyVEZjSDZSODQwdUN2VHZCQ19QNVltOU9oVXQtZm1CYzJPLVZUOVVkRGc0amRTNVV6RTh4bW9qSkYzNzVmX0xLV09mdlgySXhyTDBQRUJFQzVKMGl6cGQ5VEU3LS1tb2UtMW5QbGhpZ0s2RTBpMnVyNmFDSTVBcXFLUXJRcHpfLVE?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 17:46:11 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "IRDAI commission proposals: Why does Nithin Kamath see regulatory risk as key? - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS0VJMl9Sb1ZPODRKcXpSb21sWElVeU1XVG1HQkxvTFdhMGxOSldielRNN29PRlhhT3BxMl9TbERXVURRZFUxVDkxcW9XbUVCNzVfVW5DUTNoUzJHYU1LU1lESTRXRWhlcWpiS2FKTW9WR2Zhc0JFOHhJSmR2VTFMOEJna2FXVUJvNDNQUWIwTWtjZmJfTmhXYjVZUmVzYzg3d3p5UGh3MlVaZkd3Z3hGUmw4RW14U2tIb3dnV3QtcTlXRlpiMjFWLVdTRzR3bzdNSUF4eVhJS1M2N1p1VjZR0gHkAUFVX3lxTE5oM2xCcFpwTnBjMktpNUM3YTd4UmMtWW9USC1EYzQ2WWJKbHBYUFN4RHRXSmNTWlNUUnBEV1g1X2hfUVdNeVprTWpZVklQTHBoMnBONmtOR0toTkN0Qlh3dEVmTTVaMWF1MURGM0lESmVCRWpMclRCYkFZNzhuRXVQNEFqN2phcWxkR1E0bTBkVEFDSVlGTFRwLTFpZmprRFh1dG5CQ0kxbjVZeTVRYzVSR2o3ZVlubmpWUVpqcUNiZm1GQklGOWpfTjEtTll2X0txTkJFdmtkVmZlOVF1LWoyNWxmNQ?oc=5",
-      "pubDate": "Thu, 24 Sep 2026 17:48:55 GMT"
+      "title": "SRIT India IPO GMP, Grey Market Premium Today - IPO Watch",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hYklWeGgteUkyZEx3cXpCSHNSRi1LdTFxeEhSQ2NuVWo1MUxMRTBmOFZVV0RLTU0wT0NyN2w0YWdzRGhfTE5acFBRbXBBclpBbW45M011VExfOVdIYUNyeGktNlpJOXZZd3hJ?oc=5",
+      "pubDate": "Thu, 24 Sep 2026 20:26:47 GMT"
     }
   ],
-  "fetchedAt": 1790272806
+  "fetchedAt": 1790285164
 }
