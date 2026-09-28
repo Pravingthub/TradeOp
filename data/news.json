@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market falls as higher oil prices, Treasury yields weigh",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-falls-as-higher-oil-prices-treasury-yields-weigh/articleshow/134550029.cms",
+      "pubDate": "Tue, 29 Sep 2026 01:41:53 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Gold tumbles 4% to seven-week low as oil, dollar and yields climb",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-tumbles-4-to-seven-week-low-as-oil-dollar-and-yields-climb/articleshow/134549139.cms",
+      "pubDate": "Tue, 29 Sep 2026 00:12:24 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "4 Adani group companies settle public shareholding violations case with Sebi. Check details",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/4-adani-group-companies-settle-public-shareholding-violations-case-with-sebi-check-details/articleshow/134547647.cms",
       "pubDate": "Mon, 28 Sep 2026 22:32:44 +0530"
@@ -17,18 +29,6 @@
       "title": "Sebi drops minimum public shareholding norms violation case against Vinod Adani and 4 Adani group companies",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-drops-minimum-public-shareholding-norms-violation-case-against-vinod-adani-and-4-adani-group-companies/articleshow/134546792.cms",
       "pubDate": "Mon, 28 Sep 2026 21:37:59 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Tuesday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-tuesday/articleshow/134546556.cms",
-      "pubDate": "Mon, 28 Sep 2026 21:19:46 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Clean Max Enviro bulk deal: Augment India divests stakes worth Rs 1,096 crore; Goldman Sachs, HSBC India among buyers",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/clean-max-enviro-bulk-deal-augment-india-divests-stakes-worth-rs-1096-crore-goldman-sachs-hsbc-india-among-buyers/articleshow/134546538.cms",
-      "pubDate": "Mon, 28 Sep 2026 21:17:40 +0530"
     },
     {
       "src": "Business Standard",
@@ -58,37 +58,43 @@
       "src": "Business Standard",
       "title": "Crude oil worries drag rupee, push bond yields to fresh 2.5-year peak",
       "link": "https://www.business-standard.com/markets/capital-market-news/g-sec-yields-surge-to-2-5-year-high-on-crude-spike-rupee-nears-96-126092801195_1.html",
-      "pubDate": "Mon, 28 Sep 2026 19:45:18 +0530"
+      "pubDate": "Mon, 28 Sep 2026 19:45:58 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Moneyview IPO: 98x subscription, 3rd biggest  \u20b91,000 cr issue; GMP signals 41% premium - allotment, listing date",
-      "link": "https://www.livemint.com/market/stock-market-news/moneyview-ipo-98x-subscription-3rd-biggest-rs-1-000-cr-issue-gmp-signals-41-premium-allotment-listing-date-11790614713333.html",
-      "pubDate": "Mon, 28 Sep 2026 23:31:24 +0530"
+      "title": "European Gas Rises as Traders Watch for Further Talks on Hormuz",
+      "link": "https://www.livemint.com/market/european-gas-rises-as-traders-watch-for-further-talks-on-hormuz-11790630750562.html",
+      "pubDate": "Tue, 29 Sep 2026 02:55:50 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Top 3 stocks to buy: Apollo Micro Systems, Netweb Technologies, Blue Dart by Vaishali Parekh| Target, stop-loss",
-      "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-apollo-micro-systems-netweb-technologies-blue-dart-by-vaishali-parekh-target-stoploss-11790612687438.html",
-      "pubDate": "Mon, 28 Sep 2026 23:18:34 +0530"
+      "title": "Soaring Yields Lead Traders to Snap Up Options on BlackRock ETFs",
+      "link": "https://www.livemint.com/market/soaring-yields-lead-traders-to-snap-up-options-on-blackrock-etfs-11790628378886.html",
+      "pubDate": "Tue, 29 Sep 2026 02:16:18 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Top 5 Breakout stocks to buy: KPI Green, Crisil, Manyavar, Prudent, Go Digit by Sumeet Bagadia | Target, stop-loss",
-      "link": "https://www.livemint.com/market/stock-market-news/top-5-breakout-stocks-to-buy-kpi-green-crisil-manyavar-prudent-go-digit-by-sumeet-bagadia-target-stoploss-11790605918011.html",
-      "pubDate": "Mon, 28 Sep 2026 21:53:31 +0530"
+      "title": "Goldman Says High-Yield Debt Deluge Overwhelming Investors",
+      "link": "https://www.livemint.com/market/goldman-says-high-yield-debt-deluge-overwhelming-investors-11790627459317.html",
+      "pubDate": "Tue, 29 Sep 2026 02:00:58 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Nifty 50 breaks below 23K! Monthly expiry may keep volatility elevated | Support, resistance, outlook for Sep 29",
-      "link": "https://www.livemint.com/market/stock-market-news/nifty-50-breaks-below-23k-monthly-expiry-may-keep-volatility-elevated-support-resistance-outlook-for-sep-29-11790611758900.html",
-      "pubDate": "Mon, 28 Sep 2026 21:49:21 +0530"
+      "title": "A Tropical Island Drought May\u00a0Make Your Sneakers Pricier",
+      "link": "https://www.livemint.com/market/a-tropical-island-drought-may-make-your-sneakers-pricier-11790623637487.html",
+      "pubDate": "Tue, 29 Sep 2026 00:57:17 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Nifty slides to six-month low as US-Iran deal hopes fade, oil tops $100 a barrel",
-      "link": "https://www.livemint.com/market/stock-market-news/crude-oil-impact-india-stock-market-nifty-today-11790598428016.html",
-      "pubDate": "Mon, 28 Sep 2026 21:34:01 +0530"
+      "title": "US Treasury yields rise with Middle East, rate hike bets in focus",
+      "link": "https://www.livemint.com/market/us-treasury-yields-rise-with-middle-east-rate-hike-bets-in-focus-11790623392198.html",
+      "pubDate": "Tue, 29 Sep 2026 00:53:11 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Coforge appoints Akhil Gupta as Chairperson for five-year term",
+      "link": "https://www.cnbctv18.com/market/stocks/coforge-share-price-appoints-akhil-gupta-as-chairperson-for-five-year-term-20000410.htm",
+      "pubDate": "Mon, 28 Sep 2026 23:46:42 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,41 +121,35 @@
       "pubDate": "Mon, 28 Sep 2026 21:59:01 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Ola Electric seeks up to \u20b91,000 crore from shareholders through rights issue",
-      "link": "https://www.cnbctv18.com/market/ola-electric-seeks-up-to-rs1000-crore-from-shareholders-through-rights-issue-20000354.htm",
-      "pubDate": "Mon, 28 Sep 2026 21:41:58 +0530"
+      "src": "Google India News",
+      "title": "Wall Street falls, oil prices rise; markets brace for prolonged war - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeURibUEyV2hsTnBGRXMxdW5PT2RLcUN6QjJ2Mjk2aFl6QXdmU3A2ZVNrV0VYYVZTM0IyU1ZLam9vQUgxLTExcUJGTGlsdUJWREUteXhENEpDN2ticDkwTGxYNUNINGpZRkJuYWxDTU1mM1BndHp0blczZzViczNlM0ppMUNTbVVmZEFDUlFUQXJTdUJ3OUZJcFJ4aWRzMWlSNlBFZUthQWxGMC1PY0RhZGhsUlFYNXRZbWlCOHJ4a1VxbnNKQUVFLXE5ZHpGQ1XSAc8BQVVfeXFMTXlEYm1BMldobE5wRkVzMXVuT09kS3FDekIydjI5NmhZekF3ZlNwNmVTa1dFWGFWUzNCMlNWS2pvb0FIMS0xMXFCRkxpbHVCVkRFLXl4RDRKQzdrYnA5MExsWDVDSDRqWUZCbmFsQ01NZjNQZ3R6dG5XM2c1YnMzZTNKaTFDU21VZmRBQ1JRVEFyU3VCdzlGSXBSeGlkczFpUjZQRWVLYUFsRjAtT2NEYWRobFJRWDV0WW1pQjhyeGtVcW5zSkFFRS1xOWR6RkNV?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 22:56:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "\u20b98 Lakh Crore Wiped Out: Why India\u2019s Stock Market Crashed | U.S. Bond Shock Decoded | Vantage - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ3VicDd2YWJyamZ3Q0hWX1I0R1lGOHE5WFFyczdJMk1NNUN1OXBMZ3VDMWdmZnYxbTdiY0szdTQ4TzNsalJFTnJkbTExeFlUV05iYnV3blVaN203dWxMM1RFTHZGSklNY29TQ1BCeDVzSk5YS1Z5c0xGSFMyWWhsWlF6dFNzUWNhQmNrYkdFRzJTdDB6d3ZFSGlVTjkyUmFqRkdmUTdyRHlTeUgxN2pmZmdxRzVYeUhxQ2g3aC1WMUZIa0ExdnpmTdIBzgFBVV95cUxOWFFMVXVkcWUxTHVTQV9xS0c1WnpEd0F5dE5aTEFfMFl3dUlIS0tnMlBGcDRrQ3RPWnZUalFxVy1hUXJXT19qblhWOVFBa05LODRGTjB6Q2hLOHpxY1hJRDUtWVhLRHg5TUxtTWtpR0tEd2RaNDZlX19pVEtUMHNfRlNzRFdXYUN5TmlRbFhvY2Y0X3FLcExQUHZOYlpINENmUk1QRFdFYm1xUHVPYzAzclFBN1AtVjVpZjgzOG5PTFpNeWwwUTZVX3E0QXpPUQ?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 17:22:53 GMT"
+      "title": "India\u2019s mid- and small-cap stocks among world\u2019s most expensive, says Ruchir Sharma - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQLVNVVGlnZXF1MU9wR09EdkFkVGFtTFNwVlhPbFNhQ1FhRXR1aUVCSFo1YWNvQXdLbkdCcEJHancxZjRvWVRHYUZSV0lETFJBOW9MUTlmQ1BwMlU0RTJrQVJxdzJWTy1uMHZRWjFKczVGOFZTOHBGYjU3UDNsSWFBOHFTeHo1dFVmTFdjalBVZGJkM1gxTTkwUDZoQnNLOWhQa3V4QjhpS01Xb2lKekxabi1fSTE4VmM1R2xrZDRpRWtyYW9ITDVQVmhHM09RbWxyU1FZS3JES2tIQnNR?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 23:05:03 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Nifty falls 1.56% as Brent futures near $108, riskoff mood deepens - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkFyUEVEYlc5ejlyTldhYVVvYml2c3N0YTlnSm9yZHEyMDNHUnNKVnRNeGl5NTZ0NkRpZFJJWURHUjdEczROQVpseThQbmlJdGRLa0R2X0Vid1VKM3FncW43TkVIU0hpVE5QY29VMklwNDRQa0FXNHpoRXhWSC1kaFQyVUtzc2RZYk9BMWhpTU5XTHZ4RHRMMU81azFLVFF4THZkTjJ6ZUl5NDNLcWFibmtqOUhjeEJYQW0zY24zT0lhZnMwZElXQXpB0gHPAUFVX3lxTE9jTkdQUlc5aXV2N0dtX0UzYWlfV2ZUSEhCUGp2OHFENzhsWnJQODNmemptdW9oQ2s3Si01ZnV0N3RlazVRS3YxZWJsNDZWZEx1MXdMcFFzZy11MnItN1pWQTdYS284QWJwd2hQZXdxdDc2VkR6emZGZFdsX1pDM1d2Rk1Ka25SVTRXcnAzT3dqekpRQnBKUXBwMGpHZjlQMXBtUi1pUEJac0RYSW9LcnBTUFkwbXoyQ2tDUkN4bEs5UGpoR3NBaldjekJVMFJ4MA?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 17:36:53 GMT"
+      "title": "Ciena director Bruce Claflin contributes $1.02m in stock to fund - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUU96NVFlb1A2ZFpleFFYSndIbjFGblBsbkR4TzYzUWQtTXdZMnJfZHQ1ZHpqWHI0em5Tdkg4SkpnNl9VX1BEYXhDbS10emZoRGxaSWozNmptSnBmR3Y1MXZXS3hLZmhwclFKM0tEcXhNRjFvYXdBdEJ2RjNXRllKYUhYd19xNEtpcE5zWnZIMHN2eVcwQmNuYVRONXRiazk2V0Nid05KNFdWOE01TkNzVUJBZEo4TEtuajFSZzZKTFU?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 23:09:12 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Top stocks in focus tomorrow: Investors must watch HCL Tech, NCC, IRFC, Power Mech shares on Tue, 29 Sept | Triggers - tradingview.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSkJYSDI3RllKUmFsNHVJSUV0cUlQOU1sQnZMMV9hX1FNcTJwdnpIUmJLNkIyUkpocFRCUmU1b0ZNOThEdzV0WVRfRTEzU2d2Nk1ZOVV1dF9OT3dkdk1rS18zY3NHd2I5RDFyQmVqZXNzS0E1Q2QzSk5oZmktVGtaTW1SM3BDbnpfQU10ajJIaWxUdndsbzdtZEYtNTRmd0thbkJCd29QSmdoUVB6NG1vUnpTWkhuaXJIWEUwTkpoZmsyeWZPUDkzRUhXZ2E3bTlTLU55X2xPQ2JlREM4T1JXbE54c0RLajRxal9sZV9xcjBKQVJjNjk5M0N3?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 17:40:56 GMT"
+      "title": "Herbalife (HLF) Joins India Olympic Push, Is The Stock Still A Bargain? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYXpNckIxSlF2X21yTWF3UEkwYnNVUV9uRjJVd0tRa1N6cC1UdlEyMTlWcG13MTF5NnZ6SUpOdW9CdWJpam8xTmlEeUM3VHVOdU9FNmZwSnpHcFh1NDhoUWVJZzdfQnVDc2lwUEgtYVRFTk5WZHE2bDUyUGo2dHc3T3ItZVFyLWZHMFp6Smxid3ZwOF9LSENkbFNrQWhLajFYM2JPX2RwV2x2dVNGd1lvMjJCUTltc0ZRckRmYVVkV2RQMUnSAcgBQVVfeXFMUG84VnduajBzWHpyaV9JV3ZLZmxjTWdScFFMWXoyVXhabERMa2ZybVZwVnZGMVo5LTFubTBjZEdZcVk2SDhCQU9tQjROejlJVmt0cHdQakhvMHIyWlVuczNRRTZfY1V3SjZhaEQ4RzFvVmpJQ1lWMmp5cUNKQWFFZlYyOTMtRTZmTWQxdWEwYl9hUEZ5VzZkcEZUMFhoUHVnWmtwVFlhWkVsZzRVZ1NVVlZuNmpsUVRBZW1jcnFnOHpMRTFxS01xQ08?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 22:19:50 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India regulator allows Adani, four group firms to settle public-float violations case - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONmNvZ1pibmxJbnlXOHdqQ19RaFdXRVlsOEd3S3pMek1vUnlSS0FteTNYeGlLSkdkRUJuaWJiclg2M1pOTW9wZEpKeEs3TTM0Qjdnc2toNWUxUmtCdmdmU0ZDR191VV9lbWRqbDhtLUNOS0pkaDF2MmZXZk9XZW5xdGVELVpCWHhIcTctdVFPMFpJbnRDMjZOSE1QOFVIVlRuNERBYzBJbnRaOGVRZTlTcHNEdjJRbjN2aW0xWndkT2s1b3lVTEJj?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 17:40:26 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Top 3 stocks to buy: Apollo Micro Systems, Netweb Technologies, Blue Dart by Vaishali Parekh| Target, stop-loss - livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNSUtRaXh3dXJOWU9tblhoa1haTURMbFpsWnJkdHpZSHRMYUxKWEMwczdtNDZocjVaVUJ1cTRMbkdNNlp3dTh2VXFNbVpRaEpxMERWa3ZnYXE1ajd3V19xVWtic2k4U1FHMWZfbDBzb3hyVWdNelhTQVRjaEpVa1lpRTNveEg4bUNDUTF1emtOZHh0elJwS0VkOV85Z2VvMWNRVkljUjZNdFBIcVRJX2xObTNmajNvS0RJNEVEbEFGeHhPbkxlUlJ1MTRoVGNMaXp5TnNJSjhnOWF4M1VhMDgwMzQ2LUhsY0Y5M3o3RFJ0YTc0VERfNUM3UFU5czYzcndhbzl3Y0V30gGLAkFVX3lxTE5MX0RaWXV4Qm9TU2tMTXkyZUJpcHROcmF6VzA2ZGQ1ajZwZDdTNnNWNW1JTlFHb1dISks4Y3NYRWEzdEphZlp4SjBuUHRBM2JEcERCTWRsUkJKeENtUFpGSDFpanhHaUl5QWZsUG1TQXF0a3Q2RTRqd1ItcFdyXzZtUWg4LVNEMmZnSy1Tcjd1XzdBeGE2MWoyNkRmX1FBdzJFcWJ3NkRzNVdmZE55TkRDclBsbUJIMVhIUHpBRVQ5d0F1VjFfMktjemdxa0NHN2lUU3lNTHZHZ0Rha3NVT2ZJNjdEMFBzWUtFTjN6THhYaHl0clJjM3BJNXk3dVl2Y3N2eVVPZFdmRjNDdw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 17:48:34 GMT"
+      "title": "Piyush Goyal to hold talks for trade deal with US - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMWN0T3JBcl8yM2V3Q080dEpZeDQwdjM5cDVVSlhaSTY1a0Jka0oxTjVJdHVhSzJXanZDYkliMnBRdTJkbUlZMUxYYXBoczV4YjdSR2FtVHNQR1dIQWtxb0VjR2xOODB3LThxbERpTS1JRTJ0NmxpNERMdnktck9iVVpNNUN5eHhKR1NQYy1EOW1FUDQ3T1hUMl9PdVpZa0d3TlBkcjd1aFo2emw2M05YVEoxbkFtZl9DNUhDb3M2R0lCOW1hazNmcHJ1bl9uQWNa0gHWAUFVX3lxTE1oWVpFd1BUMTRHTGFfV0daaGR1ZElwa0lHOGFyV1NtTkgtZ2hWZVE0VnRJODRBUElZVnNEY1d5Q3ppX0pEeWxYcVlPOVlYSnRTbXRaRmJySWtmelNsZ1dxUjVTSjc1akppMlZRaFZkdktHbFpUSHBtVXVLYnREeGR6cVBpUFBjZ3h2cTF0a1Bzc202U0otdWJ3Y25WckRXVXdlbGwwUkNJT2VLVHJCYVMxTVlIYUEybEZhQmxwdlF0UTJKVHE5SXl6cGdXV25ZSlVkOGV4V3c?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 22:17:00 GMT"
     }
   ],
-  "fetchedAt": 1790619039
+  "fetchedAt": 1790637340
 }
