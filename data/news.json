@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Two years on, Indian equities remain stuck in a grind",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/two-years-on-indian-equities-remain-stuck-in-a-grind/articleshow/134528952.cms",
+      "pubDate": "Mon, 28 Sep 2026 05:36:10 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Rupee's likely to slip despite RBI push for stability",
+      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-likely-to-slip-despite-rbi-push-for-stability/articleshow/134528883.cms",
+      "pubDate": "Mon, 28 Sep 2026 05:34:09 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Insurance mis-selling is arising because upfront commissions are too high: Ajay Seth, Chairman, IRDAI",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/insurance-mis-selling-is-arising-because-upfront-commissions-are-too-high-ajay-seth-chairman-irdai/articleshow/134529031.cms",
+      "pubDate": "Mon, 28 Sep 2026 00:49:53 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Father time always wins! What Warren Buffett\u2019s 4-word farewell message means",
       "link": "https://economictimes.indiatimes.com/markets/stocks/news/father-time-always-wins-what-warren-buffetts-4-word-farewell-message-means/articleshow/134519388.cms",
       "pubDate": "Sun, 27 Sep 2026 17:08:51 +0530"
@@ -11,24 +29,6 @@
       "title": "Trans ACNR Solutions, 8 others file IPO papers with Sebi",
       "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/trans-acnr-solutions-8-others-file-ipo-papers-with-sebi/articleshow/134519356.cms",
       "pubDate": "Sun, 27 Sep 2026 17:07:20 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Ahead of Market: 10 things that will decide stock market action on Monday",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/134518822.cms",
-      "pubDate": "Sun, 27 Sep 2026 16:33:03 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Beyond listed stocks: MSEI rallies 125%, Zepto retreats 48%; here\u2019s how other pre-IPO names fared",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/beyond-listed-stocks-msei-rallies-125-zepto-retreats-48-heres-how-other-pre-ipo-names-fared/articleshow/134518428.cms",
-      "pubDate": "Sun, 27 Sep 2026 15:58:36 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "ETMarkets Smart Talk | 2-3 crore wealth creators could enter PMS: Sandeep Jethwani on PRIM and India\u2019s wealth boom",
-      "link": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-2-3-crore-wealth-creators-could-enter-pms-sandeep-jethwani-on-prim-and-indias-wealth-boom/articleshow/134517986.cms",
-      "pubDate": "Sun, 27 Sep 2026 15:17:36 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,51 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Fed tightening bets weigh on gold prices",
+      "link": "https://www.livemint.com/market/fed-tightening-bets-weigh-on-gold-prices-11790555073972.html",
+      "pubDate": "Mon, 28 Sep 2026 05:54:33 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Dubai is an important market for us, says SBI Funds\u2019 MD &amp; CEO Debasish Mishra",
+      "link": "https://www.livemint.com/market/stock-market-news/sbi-funds-management-ipo-debasish-mishra-b100-dubai-expansion-11790438563413.html",
+      "pubDate": "Mon, 28 Sep 2026 05:45:17 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold Tilts Lower as Iran Impasse Continues to Fan Rate-Hike Bets",
+      "link": "https://www.livemint.com/market/gold-tilts-lower-as-iran-impasse-continues-to-fan-rate-hike-bets-11790553903937.html",
+      "pubDate": "Mon, 28 Sep 2026 05:35:03 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Oil Rises as Iran Says It Won\u2019t Soften Strait of Hormuz Demands",
+      "link": "https://www.livemint.com/market/oil-rises-as-iran-says-it-won-t-soften-strait-of-hormuz-demands-11790547990705.html",
+      "pubDate": "Mon, 28 Sep 2026 03:56:30 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "IPO rush: 9 companies, including Trans ACNR Solutions, submit draft IPO papers to SEBI | Check list",
       "link": "https://www.livemint.com/market/ipo/ipo-rush-trans-acnr-solutions-among-9-companies-to-file-preliminary-papers-with-sebi-check-list-11790521805527.html",
       "pubDate": "Sun, 27 Sep 2026 20:55:57 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "India investment future: FIIs remain net sellers in Sept 2026 but these 5 factors can bring them back - Experts decode",
-      "link": "https://www.livemint.com/market/stock-market-news/india-investment-future-fiis-remain-net-sellers-in-sept-2026-but-these-5-factors-can-bring-them-back-experts-decode-11790500863005.html",
-      "pubDate": "Sun, 27 Sep 2026 17:26:58 +0530"
+      "src": "CNBC TV18",
+      "title": "Six companies set to see record dates for corporate actions this week; Details here",
+      "link": "https://www.cnbctv18.com/market/record-dates-this-week-natco-pharma-aastha-igl-sail-natco-saraswati-r-systems-share-price-dividend-bonus-rights-issue-19999541.htm",
+      "pubDate": "Mon, 28 Sep 2026 05:14:14 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Fortis says it is \u2018complete stranger\u2019 to Daiichi-Singh Brothers dispute after SC allows forensic audit | Shares in focus",
-      "link": "https://www.livemint.com/market/stock-market-news/fortis-says-it-is-complete-stranger-to-daiichi-singh-brothers-dispute-after-sc-allows-forensic-audit-shares-in-focus-11790503647988.html",
-      "pubDate": "Sun, 27 Sep 2026 17:24:12 +0530"
+      "src": "CNBC TV18",
+      "title": "Dow futures fall close to 200 points, oil prices rise as Trump rejects Iran proposal",
+      "link": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-important-week-ahead-for-wall-street-crude-oil-prices-iran-war-trump-yields-jobs-report-19999539.htm",
+      "pubDate": "Mon, 28 Sep 2026 04:44:51 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Wall St Week Ahead-Jobs report, inflation data to test US rate path, economic strength",
-      "link": "https://www.livemint.com/market/wall-st-week-ahead-jobs-report-inflation-data-to-test-us-rate-path-economic-strength-11790503314965.html",
-      "pubDate": "Sun, 27 Sep 2026 15:31:54 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Stock market prediction: Experts see more pain ahead but see bottom in Oct 2026 amid Nifty, Sensex poor show \u2014 3 reasons",
-      "link": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-experts-see-more-pain-ahead-but-see-bottom-in-oct-2026-amid-nifty-sensex-poor-show-3-reasons-11790495351548.html",
-      "pubDate": "Sun, 27 Sep 2026 15:18:57 +0530"
+      "src": "CNBC TV18",
+      "title": "Explained - The good, bad and ugly about the decline in Gold imports by Kotak Institutional Equities",
+      "link": "https://www.cnbctv18.com/market/commodities/gold-monthly-imports-declining-good-bad-ugly-kotak-explains-prices-spot-global-mcx-festive-demand-19998538.htm",
+      "pubDate": "Mon, 28 Sep 2026 04:28:16 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -103,53 +121,35 @@
       "pubDate": "Sun, 27 Sep 2026 21:27:43 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "PVR INOX opens five-screen multiplex in Kochi, expands network to 1,797 screens",
-      "link": "https://www.cnbctv18.com/market/pvr-inox-opens-five-screen-multiplex-in-kochi-expands-network-to-1797-screens-19999249.htm",
-      "pubDate": "Sat, 26 Sep 2026 18:22:51 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Suraj Estate subsidiary completes over \u20b982 crore Mahim development rights acquisition",
-      "link": "https://www.cnbctv18.com/market/suraj-estate-subsidiary-completes-rs-82-crore-mahim-development-rights-acquisition-19999229.htm",
-      "pubDate": "Sat, 26 Sep 2026 17:42:42 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Prestige Estates issues corporate guarantee of up to \u20b9750 crore for subsidiary loan",
-      "link": "https://www.cnbctv18.com/market/prestige-estates-issues-corporate-guarantee-rs-750-crore-for-subsidiary-loan-19999218.htm",
-      "pubDate": "Sat, 26 Sep 2026 17:34:02 +0530"
+      "src": "Google India News",
+      "title": "Two years on, Indian equities remain stuck in a grind - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQktoelo1RWFLVUoyRkNKRVhPSE41QkxCSlVxcjV2MVZoNlU5REpOdThSeVJfajg1ak43c0VUQlgwMjl1bl9MNEIwX1FYSWZsYzBGYmhNaUcyN193bnR4ZG93d3dyTTBuUmdSS3BRZ2FxNTNPVHpPMlVIZ0VrclBrTmNLUm05bUdxUlp1WnFORDhjNU1BX1NxdFg3YW8yQmdpYjMyanFlY1liZ2RiZS1JLTgwcTN4aGJnVWxaT1ByVXdiaXUz0gHKAUFVX3lxTE9WcDNhRGRyNzJzWDgtaUlvUUlnbGppVDNlVHlpSDdmdmxZZUwwaHpXY0dtQzNVMkFxNWhmNGZwWkNGQXE2YTZBUGc5dThmOElKbVZGaDROS0xlZlViLXhha1Q1NDVQRC1ZOFVFbjBmV2ozbUEwc1NucFBJRmV4XzJmUEFCUGZxalBBY2hROGtRSjhXTXBNOVFBNFRac0Fub09lal9tRThmaVNVcHFJVlZvM0tmcWlOSUU1cHI4dXd4SFB2MC1KNS1DSlE?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 00:06:10 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Form 4 Redwood Trust Inc For: 27 September By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbmJhaVpFaTA1UXZra2U3Q2JweEtMblRqMjl4RXIyUkw3T1hwNk4zWTdidHI1MDlhTjNhUkM2enZIZ1Y3SG42cnZTeEU0aGczZ283MFpRMUlMcFJRVmVTY2dKQmk4MWJQS2FIbVVyQUsyQkFOTkt4THhCYTNiRXlaRS1OODczNnJaTFl2eTJxRkw2ajA5ZHRRZTBKbzNGN3J3M0xQRQ?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 21:11:05 GMT"
+      "title": "Indian equities may consolidate this week - Deccan Herald",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUEFVbk42eHItYkRGejFOT3ZHY2lWSEZuN1RrWi1YR0xzNXdnelU2S0tyWjN2ZF9ZaE00M2RKSzFCQVdlTDhqdkU5UXRJUDFKYVZScXBwbF9WUWh0aFpVRDlacW42c3dveng1TjFTa1kxUjBGMDJISjk4SFdWMEstM1NyUGVoR09FVW55bXQ2cDc?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 23:44:05 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3 Indian Value Stocks To Watch In September 2026 - simplywall.st",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZXR6QTdxRFBNU253Qzd6U0V5Q2VjSk80Nng3dVlObHpXUEdwdEZJbHlxa1cxbDVTSDVBenV2aE5FN1hfMXc3Ym5pTjhRRWxTQlJzNXJTVzhTSWdwaFVWY2JVRzcyVGdxLWNTUV8wQm1uVk1xY0VoMml4Ny1tYU0xU1RTbjh5SGNRUlJ4SGJNMXRMTXUxa083dzl6ZGFmS1JtMERyaTkwOTlwbnNJam9wUUd4QzhFMTZWdnRzRDVwMNIBxAFBVV95cUxNeGpIeEpPRklfLTBmbjdTMVR5UG1yUE5vYTNrQWtsUmJjVFlGaDY2WGJGODcxanhqV3FPWDBTRU9mVVBSUUw2TFVrd0V2bG5EUUh4SGljZEU0MV9fOGFCcGNoak1LM1JYUElYeEVtd2lZNjFoeXIwaExCdmxjZnIxQmk1NjdvQ3A0bjBTV21CS1Naa3FqZVE2a29qY2ZocnZxS0h0ZjRVVjJyMmFxQmhhTG9IVTRsejJsVEVXdk9lTjZ6TTd0?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 20:31:29 GMT"
+      "title": "Dubai is an important market for us, says SBI Funds\u2019 MD & CEO Debasish Mishra - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPLVpFb0NjSjcwczFUM1ljZU5fM0dDeHBwRGVydkNqdUZlSGZLUExxWkd4MS1DdzVsZFdlbUh1NHFvS2xjZzlEOU10MHdYMmRBUjlCUVZUelJhQ1phV1ptNGVmcnZUYlF4RWJ2cWIyS3VNQkFzZDFjcWI5TmFacTlYRGYtNW9RMHVBUGtqSG9lYV9iRENEUkpLd21GZ2FlcnpFNVBPak9kRF9ra1MyU2liR0JIY1h4U0pPVVFyT05qVzRuT3U2VTRDVXVna9IB0AFBVV95cUxQS0tqWU1udzhEQWFJMFBDSlJLX0Jzdm54WFlGd0lrYVg3ZGhKSVJRV212aVVkSG5MVXU5eHk0bG9FZktjU2gwN18ycDJyY0o2N2VrS0ZuckFyTlN0cDZ4SGFlYmEwYlhzVTFJSUhsZHNoMVVYYVZqV3hKYWpyLWE1bWFvd3FMbFV3UGVreS1aYUUxTUJLcGc5VmRMUlpuX3UzSmFaVkNjaGxzN2M2MTVHUTlnVFFsbVcxcGxPcFo4eVBrUWIzZkRlQXkwV1lGUWgt?oc=5",
+      "pubDate": "Mon, 28 Sep 2026 00:15:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Redwood Trust CHRO Macomber buys $19,967 in common stock By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQm5BZURYTzlCOVJHOFZfdkstbG5pa0NMRXl3SmxNbmh4dC1kQ3hsYllPMDdGYU1uVnFEdVlwWDBQdDVrbDZpVUlWa01FUXVwdDVzUjFBTTlFbmFacXNwaEhseVR1eVVhSEVtQjMwdlJWcy0ycEhpdmpXeXNZUFFLSUNrTXYwUkZfcDJRMXc0YTB3dXRmOTZlVFpnNzJKMklnUExkZ2xTYWtKVjVCS055X2p0OTFDUQ?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 21:05:27 GMT"
+      "title": "Black Opal Consultants Ltd IPO Date: Check Issue Date, Price, Lot size, Subscription, News and Details - Moneycontrol - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMcWtCTmlMcndvc0xKV2dELU9PMXZjRDF5RUtmVVIyUl9HcW5ValY3V0VEbGYtMFVFd2hIVDluQnhhb3AySWItcXRBX2plQnRJNnN1U1RpR2lCN3dzTy1TUWJ2RzZmUU55WmlqN1M1eENZWnhpT3YzRmhGckNfMzA?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 23:52:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Taurus Moon has a reward waiting for 3 zodiac signs on Monday, their hard work finally gets noticed - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRzVFVDZUVkdZMGZQRmwwTnFGeC1vS0o4RVl0ZFMwQ1BWX3huZzRSQUpjcUx5bVJBTUNZVEJLZjIxYmJxSVcyOENnQ1NoWHFIZFVRZzBST196eFh5WW5fd0ZuSVowYnd1QzZHdGtJa254bmpHQnBocVZXX2hVVUQ4NHFXTGROU21YVUg3Q0xZX1BNbU5abXZQc0N2dG02WFpyb19kTmZMUnQ3NDVoX2V6TWVYV3hvTkNQRU5tZVV4d3JuQ3ZhN0VsWWpwUVgtRE1wNEk3MmVlTFlBX3ZPT0R6MllqU0xuNXNBZWp5VUJFNTZDbTNPMDk1T1VyVVNfbm1UWktfM3AwTTNvX0h6Slk1ZNIBigJBVV95cUxPM0hjNmhnT2d4XzJvS29HWG1XWmRjVjg5V0FnNWliSGxEUFNfR0tRSUZoWEtYS0tSWk5TY3Z4WGEteW9HQjZWY3JtUkNKcERCWGVMMGtvQXpIeHk3ZHJBRE51YjVCLXFlV0RJVWl4emd3WVRfMVpLREMzcWZmWmx6cGh4YlVKM3ByUjZ2X3RZUjBQTmg5WDlzeTZQQ2lYcWNoYll3UHFFTWVybnV3WlI3eWItQS04WUNJMGtDYlRxVGptekJnVjhxT3dGUndpa3gzMkxDSzh1dFhyQlFvSUZfLXlka3RXVkJsRUdBS1hJNldTdnJRV0xVYzZZSFZCTmtiXzZBMnc1WVlaQQ?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 20:20:00 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Shah Investor\u2019s Home IPO GMP, Grey Market Premium Today - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42QWRBNExaQUcyYl92elJySGtUZzlRRTlBUlZZU2J1R1M0MmZtcG5rSlg0OEdmZFg1SG13VkJlTVVXdUEweGVRUzhZU3dwTHdsaEthdXR0cEhPLTd3M2VDVFBiSDRpZlZPNWxfMmhrbFduSmN1cklN?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 20:15:43 GMT"
+      "title": "Rural penetration drives growth for feminine hygiene products - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUdhS0lQQ0hjWUo0WW16NU40VkJpQnAwcUNmc0NLS3lzVUcwRThIXzhYRUhPbS1FWWp5alF2eENIT0lfanA2d3BSWnE4SkNhaXllYjd5ODluSGctSzNOQU1HMWJvWG9Dbkg0V3N0RVN0c2pScE9vSVZYVzJwR3B0UnhPUFV5VEJfbXVvRmpXaG5nZ2lvQ1Z1LVNlWTBUWURqNENJa2NLTm5wb0ZMOGZuQWFjQXJHN2xZcjRmR0s2QmdsOWlwaDBpVEVRdWllUGZlVGdsNE9YTUpabFVFVDNDN9IB5gFBVV95cUxPUWE3ZFZRdkVVSFQyWVNrNWtEdkdjMEV0WVB2eVJKZW5wWlJXTmlZektVVXVVdW92N3JUWEc4UWtZUTMwdW42Y2NHaXR3NHQwUlRQRzV0emxNY0ljR3BlTjNPVDZuOExNOEYzUkJ2ZThSNFJWcnpHMW1hVGhkdlZQM19Wb1NOSkpScnFvcGVNRzVJeGRaaFAyQ3RnX1FKWTFQbWI3LWVrc0dWUG5iU0JlZEpMVEVRVFhadTdFZ2pfWXVOVmlYNWhxUE5NazhlYmxyZTRQQlU3X0lwUnJ5Zmc0YUZJaUdDUQ?oc=5",
+      "pubDate": "Sun, 27 Sep 2026 23:34:00 GMT"
     }
   ],
-  "fetchedAt": 1790543717
+  "fetchedAt": 1790555414
 }
