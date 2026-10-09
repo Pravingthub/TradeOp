@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks:  US market posts weekly gains with earnings, inflation data on tap",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-posts-weekly-gains-with-earnings-inflation-data-on-tap/articleshow/134842368.cms",
+      "pubDate": "Sat, 10 Oct 2026 01:39:34 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
+      "pubDate": "Sat, 10 Oct 2026 00:18:08 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US bull market nears fourth anniversary, but narrow rally raises risks",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-bull-market-nears-fourth-anniversary-but-narrow-rally-raises-risks/articleshow/134839055.cms",
       "pubDate": "Fri, 09 Oct 2026 22:23:51 +0530"
@@ -19,16 +31,10 @@
       "pubDate": "Fri, 09 Oct 2026 21:45:36 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Rupee recovers to 96.73 vs US dollar after RBI intervention, but dollar demand persists",
-      "link": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-recovers-to-96-73-vs-us-dollar-after-rbi-intervention-but-dollar-demand-persists/articleshow/134838115.cms",
-      "pubDate": "Fri, 09 Oct 2026 21:42:35 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US stocks: US market rises as oil retreats; SpaceX spectrum deal hammers telecoms",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-oil-slips-telecoms-hit-by-spacex-spectrum-deal/articleshow/134836014.cms",
-      "pubDate": "Fri, 09 Oct 2026 19:26:51 +0530"
+      "src": "Business Standard",
+      "title": "Nvidia-backed Firmus scraps $5 bn Australia IPO amid growing AI scrutiny",
+      "link": "https://www.business-standard.com/markets/news/nvidia-backed-firmus-scraps-5-bn-australia-ipo-amid-growing-ai-scrutiny-126100901490_1.html",
+      "pubDate": "Fri, 09 Oct 2026 22:56:35 +0530"
     },
     {
       "src": "Business Standard",
@@ -40,13 +46,13 @@
       "src": "Business Standard",
       "title": "IT stocks lead Nifty rebound as benchmark snaps eight-week losing streak",
       "link": "https://www.business-standard.com/markets/news/it-stocks-lead-nifty-rebound-as-benchmark-snaps-eight-week-losing-streak-126100901255_1.html",
-      "pubDate": "Fri, 09 Oct 2026 21:33:21 +0530"
+      "pubDate": "Fri, 09 Oct 2026 21:33:59 +0530"
     },
     {
       "src": "Business Standard",
       "title": "TCS earnings lift IT stocks as demand recovery hopes boost market mood",
       "link": "https://www.business-standard.com/companies/news/tcs-earnings-lift-it-stocks-as-demand-recovery-hopes-boost-market-mood-126100901293_1.html",
-      "pubDate": "Fri, 09 Oct 2026 20:27:34 +0530"
+      "pubDate": "Fri, 09 Oct 2026 20:27:40 +0530"
     },
     {
       "src": "Business Standard",
@@ -55,40 +61,46 @@
       "pubDate": "Fri, 09 Oct 2026 15:16:08 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Colgate Palmolive shares surge 7.6% as GST relief boosts FMCG optimism",
-      "link": "https://www.business-standard.com/markets/news/colgate-palmolive-shares-surge-7-6-as-gst-relief-boosts-fmcg-optimism-126100900667_1.html",
-      "pubDate": "Fri, 09 Oct 2026 15:03:45 +0530"
+      "src": "LiveMint Markets",
+      "title": "CME feeder cattle hit 3-month peak after corn price plunge",
+      "link": "https://www.livemint.com/market/cme-feeder-cattle-hit-3-month-peak-after-corn-price-plunge-11791582473869.html",
+      "pubDate": "Sat, 10 Oct 2026 03:17:53 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "AT&amp;T, T-Mobile and Verizon shares tumble up to 11% as Musk\u2019s SpaceX makes Starlink mobile push",
-      "link": "https://www.livemint.com/market/stock-market-news/att-t-mobile-and-verizon-shares-tumble-up-to-11-as-musk-s-spacex-makes-starlink-mobile-push-11791560971489.html",
-      "pubDate": "Fri, 09 Oct 2026 22:45:00 +0530"
+      "title": "TSX posts biggest gain in five weeks as rate hike bets recede",
+      "link": "https://www.livemint.com/market/tsx-posts-biggest-gain-in-five-weeks-as-rate-hike-bets-recede-11791578853104.html",
+      "pubDate": "Sat, 10 Oct 2026 02:17:32 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Share price down 29% in 2026, retail investors\u2019 favourite wind energy stock under pressure - Where is the bottom?",
-      "link": "https://www.livemint.com/market/stock-market-news/share-price-down-29-in-2026-retail-investors-favourite-wind-energy-stock-under-pressure-where-is-the-bottom-11791556837036.html",
-      "pubDate": "Fri, 09 Oct 2026 21:44:34 +0530"
+      "title": "Treasuries Slip on Inflation Worry as Energy Costs Stay High",
+      "link": "https://www.livemint.com/market/treasuries-slip-on-inflation-worry-as-energy-costs-stay-high-11791575735690.html",
+      "pubDate": "Sat, 10 Oct 2026 01:25:35 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "$2.6+ bn Anand Group's Gabriel India stock up 50% in 6 months; now enters JV with France-based Forvia - Deal details",
-      "link": "https://www.livemint.com/market/stock-market-news/26-bn-anand-groups-gabriel-india-stock-up-50-in-6-months-now-enters-jv-with-france-based-forvia-deal-details-11791558480339.html",
-      "pubDate": "Fri, 09 Oct 2026 21:09:47 +0530"
+      "title": "Hurricane Isaias Shuts Almost Three-Quarters of Gulf Oil Output",
+      "link": "https://www.livemint.com/market/hurricane-isaias-shuts-almost-three-quarters-of-gulf-oil-output-11791575609353.html",
+      "pubDate": "Sat, 10 Oct 2026 01:23:29 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Bonus share: 105% returns in 6 months, record date 12 Oct 2026 - Do you own? Check ratio",
-      "link": "https://www.livemint.com/market/stock-market-news/bonus-share-105-returns-in-6-months-record-date-12-oct-2026-do-you-own-check-ratio-11791558999962.html",
-      "pubDate": "Fri, 09 Oct 2026 20:50:51 +0530"
+      "title": "Gold hits one-week high, heads for weekly gain on bargain-hunting",
+      "link": "https://www.livemint.com/market/gold-hits-one-week-high-heads-for-weekly-gain-on-bargainhunting-11791575483915.html",
+      "pubDate": "Sat, 10 Oct 2026 01:21:23 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Reliance Jio IPO price band alert: Mukesh Ambani's telecom giant likely to set band at  \u20b91,065\u2013  \u20b91,119, says report",
-      "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-price-band-revealed-price-band-fixed-at-rs-1-065-rs-1-119-report-11791554628948.html",
-      "pubDate": "Fri, 09 Oct 2026 19:36:50 +0530"
+      "src": "CNBC TV18",
+      "title": "Tata Motors raises Iveco takeover offer to \u20ac14.40 per share, rules out further increase",
+      "link": "https://www.cnbctv18.com/business/companies/tata-motors-raises-iveco-takeover-offer-to-e14-40-per-share-rules-out-further-increase-20008842.htm",
+      "pubDate": "Fri, 9 Oct 2026 23:35:59 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Premier Energies Q2 Update: Bags \u20b94,001 crore orders for 2,308 MW solar cell, module supplies",
+      "link": "https://www.cnbctv18.com/market/stocks/premier-energies-share-price-q2-update-bags-rs-4001-crore-orders-for-2308-mw-solar-cell-module-supplies-20008827.htm",
+      "pubDate": "Fri, 9 Oct 2026 23:11:25 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Fri, 9 Oct 2026 22:18:20 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Persistent Systems bags additional 10.79% stake in Nagarro SE in extended offer period",
-      "link": "https://www.cnbctv18.com/business/companies/persistent-systems-bags-additional-stake-in-nagarro-se-in-extended-offer-period-20008717.htm",
-      "pubDate": "Fri, 9 Oct 2026 20:04:35 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Ashoka Buildcon wins \u20b9290 crore North Eastern Railway contract to upgrade traction power systems",
-      "link": "https://www.cnbctv18.com/market/ashoka-buildcon-wins-rs-290-crore-north-eastern-railway-contract-to-upgrade-traction-power-systems-20008700.htm",
-      "pubDate": "Fri, 9 Oct 2026 20:02:11 +0530"
+      "src": "Google India News",
+      "title": "SIS Ltd buys back 50,000 shares at avg \u20b9416.83 on Oct 9 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOFNsVDRhY0pMU2staG9GMmNVd0tKeGtOQ1Bkajg2a3lLSHh2SERaeUtnZTVjVXRDM0dCX3lMa3ZENW9qOFJReUllcHVyWEYtVGNoNXBRYjRGZjgyMDhRNHVaTFlfU1JXOXVWNWg5UDVDUmQ2ZXhNdXdkTjB3V0FUNDExMFdiTE9LbnFVdTI5MmlPV2hfQmNzQ25pMlJpSTR6amtmUmNzT2c?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 21:15:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Our Pick Of The Best Indian Founder Led Stocks In October 2026 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQUWpaMllqREU0TEkzekVycG5JY3JzemdZSjV5X1RoMkNXT285Zlg4V2pYajVHNXd5bVZXV2pjQ19XUW0zalZRbUt1c045a3IxdV9EaklEaGNVZVlhOVotUGFzcEg5bFNlNEtNZk41SDJHSFk3dW1LbTNHUUtnNk9uVnlhMXJHT3ZmSGJoRGRNNUVvdHRPM3NIQnhKbUNOMmFlSzI5djNRUFpLcTJ0SGlWenY5a3Rkd3k4THJhcmtUbXN5eU1IUUJzclA2MkEzRnRXaHNQaTZuNFc3eU9KZ1RZWHlOYmstR1pKTWZVazI2bjlpUdIB9wFBVV95cUxQX2RBZ2tyTGFuOFlEYnczaE1QRkJuUllhUFBZaGNHQVZLR1ZpWHhGZmEtWDVWbWdnSXpLTVdRVWxXUGhkTFJVV2UwSEtfZ0FLbGtwaEhFYjFkT1AwUzd0M1lwcEZOejZKOGFuYW5IU2ZSN284TmVBRHNYdjNtS0VEWlV6bHN1WlU4aHpVMWI5ZkpfMjcwYm1hRWwyR3JtMENMT3pfeEduc3l3bG8xTzJ6X0xOZ2FJUnN5TFdjTmlrWTlhZU9nSllaTnQ0Y3hsbWhfc280UkVQQjloRm40cWR5c1ZJaklBQnhiYzZ4cUN3ZDlNYi1zeEFZ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 17:25:36 GMT"
+      "title": "States to assess GDP through spending method - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV3FVNFp4SVIyOGwwaWxNWGlHakhkdmcwTGVyVWNtT3g0SlpQcF80SjBvXzE1ZGlEMTBWcjdXNko4OHNqLWRJMzFZZmpsY05pN1Vtc09meHlNR1FLTmhtZGh3OTdKTDJ4NENNbkdVWDVtM0toNjJNeHNZalRMcEFfTnZoamFOZzYzNmJVa0J1QlZUYWc2Nkk0Y3JkLThGZUdpZ1E3LWZZOHNyS3FabWFGc0VJaHIxS2NjYlZrWjJTYlNsSE1HNzJvZUZ30gHPAUFVX3lxTE5BRElPaFlJT3pGRHhHNVc3THE3TFVpWTYzeUNwQ1JFNFRHU2lqc1JvY2o2aEc3QzBreWgwbVVwVWNKa3ZYZm9seE5PTXpzeXhwc1l6YWR6ZGNudGpWQ3JSYVFEZVA0di1CZFAxLWdPZTFLMjVQRENwVEZEVmItWG55MVVwN05QY0hwUFh1SENEcmJSdXUweTdnS2daOGlUdWJvZ2lxSjBSU29CTGpzTUZMZ3Y0alNlLVdUNUh3Q21kbWJZM0ltN3pObW13dVhLaw?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 21:06:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Belagavi man loses \u20b921.9L in online investment scam - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQlMxU3hXRmZrQTJ3aUVYM2loeGwxVXFIdWdEdVY0aEV5UXRFNnZWbzBZbXZHSklhU3BqZ3B1TWxmaVlkVmRhOERQdE9zYlZwcVlkVDFnQm50ZVU2Wm5OMkk2Vjg4anpKX1NRbWVpTEozSENUQktlTTBZUDBJazBtWEh2TzFCd1pzOS1rUE90Z1JMaUY5Y2JuVVI1c09BaHhUV0VORUg1YVVFZndMM3hCWHEwMXM2aUVDWnpBNjcyRG9aTENz0gHKAUFVX3lxTE1mZGdzQ2kzaVk4cUNENGtBUjVoOU05R1FlRmVONVp3RTlMZ1d3TmcyNzNKMDRSaThOVms4aktsLXQ3QUtzNDFYenJ3enpPcEs2dHBNSTNNX1piOFp5ZDl6bDVCdGRmdlc3SVl6bDZuWFhqcG1JcnpVYkJMNHVneU1tclB3VlhLeUFfR1dvQXdVLWlMX1pfWEtjc1U3dGN1WVZZb29ieTBqRTJtSUJsSDZfaW10NDZjaldlekJISUQzcERTZzZBTFRYUXc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 17:21:00 GMT"
+      "title": "US trade talks steady, visa curbs may help India: Piyush Goyal - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbUhlRTdQZ1loSzMxV08yV18tcGdCNHpXaF9ZNG5kRVlBV3dWNlRvaUF4NllWb1BEUnZxc05yWFBMeWRqb1FtcEF2TWhDMW5pQVdQUkNPTWpBUVh6ZktpNUVtT0Rvd2lFcVlFUzB5Ynh1LXNuOE1Ba3IzT19HY3lsQWo2YW13X1FXdDBRamQwQ2RZNWRjeEcyTGxhbTZYVU5yWEV2d3Y3Z2VhcWJKRXpIMFFBM0ZJN1RjTFZTMU9KVlNqSmNJXzh2WE0zZ2hrOWlncm4xdGI4OGpRVjdDN3h30gHkAUFVX3lxTE9na1hmeTZ2OXBpSVBZS0RITE1wUk81SE5hQnJRR3YtSUgwclZMQ3MtRUExVHF4dmJWMERlTmY0NWhQY0NKd01URFJQejBPdmVGbjVVRTBjNnROdkFfa1B3S3MzQXBSOE9Yd3lsdExnZGw2dnNvLXdrNWV2dWlDR2ZHQ3RZVlRHVTdMZFNqTG9NVnFaWWdlekdJYzJ2UDNacHk0d2x0RlYyaTB0OERERm9ZRnNJVERIOHJXU216bE9WcW1CMC1vNG52eG5HUE9MMEE4QW1USy1ZNHUza25LWi1RVFREcQ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 21:02:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Q2 results, October 10: Avenue Supermarts, Premier Polyfilm, Karnika Industries, LCC Infotech to post earnings - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT2lvN1p6TVhLN0MxZkx3ckozeEdjcGctajgwZGFLMjFCYXpFeHZ2d3dXUWJvam5aY2VCaGdOOGxUbC1KZ1BYeVJZREFRaF9zMHA3TGJrWlRJdzBrbkh6QVg5VlotSFBlbDRiYm1BVmk5Um1BWndjOTNnZ24wY2VXOV9rLVF6X1dia3c4TUQyTTdvNXBaMnFPVDNKR0RxUVJUcEh4S2UzTHRsU3VaMmliSjcwc1hiR0cwcDNHR2Rsd2FQSmx5NFFvSjdyS2FWQ2U5YlFuNnFqSkJrRVpTZXpGcUc2UkRRX3BIM0NnRkxGWjQ0enVfanI0REFUbTZGNXIy?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 16:33:19 GMT"
+      "title": "Loop Industries to report Q2FY27 results on October 15 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZjNCX2hDY21YTjUwQ2g5SWV1ZEJLUXBucWNYZUplZDV6TW9iRW9ORFNyY2ZkUG9hcmJKakFGVjJEamdtMWZuNWxQZUR5ZHNmY1VYejZndk1zdjI3VEZ0aFlMeVdYb0tTeW5PZHZZQzFPY0VZZWhnYjRTX0dpWlZTLXJPT0s0dThWdWZreTlxekhDU0U2d0xpZFNrVjZqRU05ZE5pNE5LRks?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 21:18:09 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Motorola Signature 27 India Launch Confirmed: 200MP Camera, Snapdragon Chipset And Other Key Features - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdUpZMlpubTdGY0o3MkF4NDRlQzBKSVRwdmVDdFpqeHBRQ1lsazRiZUZOR2tiMWlvcWJJWUxLQWlldkpRc3V3VGJCWV93UXB6VU5RSGg5cENtS21qbHVUQjl5aXBPaWp6cFpTM1RFTVFPcDEwWU1aN215YlNVOTFxWVB0NUphQ0pMQ3J3UndESV8yaXAzVDUwemU2U21FdC1XczFEcVg4SDdVT2JNcnBOYnRjRmVobEE4b0ZpSG04b2JJUjZsaE1RVjJOQV94TlBBVFdnZVV2YjVoQnJTSlln0gHnAUFVX3lxTE5VcGQzeVNfbjZVaVVnSGtTVVVZUnRJWFNTdFRpb3FDa1pWZzIwakZyVHZPYjkySFJkLVk3RGp2bzA0OWEtYVZZZV81YkNzSE9tU01TNjNvX0JzVTc0RDllTmM0YzB1WERza2R3U0c4b2ppdkxRYTBVM181b29MV2c2Tm5kU29zTkNfbTAxVXFrb0NTWEd4aUJHY2ZHMlg1RDhRUno1U29jUFNmOFNJZ1piZ3JVZWt1anpKYjV1bnNGeXZ5SW44MVJRaXJueXlUT094MFJKYWdlSU5JTFRrRzlKWFBDSFBHVQ?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 17:14:14 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Bombardier Inc. (BBD-B.TO) Stock Price, News, Quote & History - Yahoo! Finance Canada",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qOHRMeG5hbWlmSGpPemM2N2t1MzV3TXUxQWJzLWFFLXpZenZETUdsTkh2T3lES1hGa3NXbUlCWHdDNmhEZDg1RUJhV1BnM3ZtT3NNWHhSaw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 16:45:51 GMT"
+      "title": "Bitcoin\u2019s four-month higher-low pattern explained: Will BTC USD price fall below $75,000 or rebound toward - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNM0pQcEtRSENGV1U0SHo3ODdMVGtGd1JzNG8xTEl6aEU3czFGbE9MTEtHbkE2VndOMTZ4aks2X2VHX2lxSDB6NnpzeS1zQXZxNHRfUVVfendIM0I0U3JTODI4S21lN0tKbl9xRVpfTE1vb2d6S0JEcUhmZUhtS29wUUhQVDRnZU1HVmlRNm43ZF9FeWJCQWhHcEo5SUNwaXhDNktfMjJQYXdBOVBSXzJsVVd0bFYwOEEwRHFTd1E3MXAzanZwSGJadUxBcmR0RmJCMHhJMWxEOUk1bV8zT3JvZ1g5eEh4NmF5SWdZcS1vS084M1VWcjl1QlVxSGdQNnFqcnJjQ05uX09XbExKZUZDTjNJVGNVa1nSAZcCQVVfeXFMTTNKUHBLUUhDRldVNEh6Nzg3TFRrRndSczRvMUxJemhFN3MxRmxPTExLR25BNlZ3TjE2eGpLNl9lR19pcUgwejZ6c3ktc0F2cTR0X1FVX3p3SDNCNFNyUzgyOEttZTdLSm5fcUVaX0xNb29nektCRHFIZmVIbUtvcFFIUFQ0Z2VNR1ZpUTZuN2RfRXliQkFoR3BKOUlDcGl4QzZLXzIyUGF3QTlQUl8ybFVXdGxWMDhBMERxU3dRNzFwM2p2cEhiWnVMQXJkdEZiQjB4STFsRDlJNW1fM09yb2dYOXhIeDZheUlnWXEtb0tPODNVVnI5dUJVcUhnUDZxanJyY0NObl9PV2xMSmVGQ04zSVRjVWtZ?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 20:54:00 GMT"
     }
   ],
-  "fetchedAt": 1791567173
+  "fetchedAt": 1791582834
 }
