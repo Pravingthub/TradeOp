@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Nasdaq ends down as chipmakers fall and bank earnings roll in",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-ends-down-as-chipmakers-fall-and-bank-earnings-roll-in/articleshow/134926328.cms",
+      "pubDate": "Wed, 14 Oct 2026 01:43:21 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "NY Fed President Williams sees no need for a rate hike in 2027",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/ny-fed-president-williams-sees-no-need-for-a-rate-hike-in-2027/articleshow/134925718.cms",
       "pubDate": "Wed, 14 Oct 2026 00:28:02 +0530"
@@ -25,10 +31,22 @@
       "pubDate": "Tue, 13 Oct 2026 22:30:07 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "$845 billion windfall in 2026: AI boom drives unprecedented wealth creation for tech billionaires",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/845-billion-windfall-in-2026-ai-boom-drives-unprecedented-wealth-creation-for-tech-billionaires/articleshow/134922384.cms",
-      "pubDate": "Tue, 13 Oct 2026 22:06:44 +0530"
+      "src": "LiveMint Markets",
+      "title": "Oil Rally Peters Out With Mideast, Russia Tensions in Focus",
+      "link": "https://www.livemint.com/market/oil-rally-peters-out-with-mideast-russia-tensions-in-focus-11791922935224.html",
+      "pubDate": "Wed, 14 Oct 2026 01:52:14 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Oil Eases From Three-Day Gain With Focus on Middle East, Russia",
+      "link": "https://www.livemint.com/market/oil-eases-from-three-day-gain-with-focus-on-middle-east-russia-11791921916389.html",
+      "pubDate": "Wed, 14 Oct 2026 01:35:15 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Copper Slips as AI Selloff Saps Appetite for Risk Across Markets",
+      "link": "https://www.livemint.com/market/copper-slips-as-ai-selloff-saps-appetite-for-risk-across-markets-11791920971468.html",
+      "pubDate": "Wed, 14 Oct 2026 01:19:31 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -41,24 +59,6 @@
       "title": "Dividend, rights issue record date: Last chance to buy today - Shivam Autotech, Shraddha Prime, Anand Rathi Wealth",
       "link": "https://www.livemint.com/market/stock-market-news/dividend-rights-issue-record-date-last-chance-to-buy-today-shivam-autotech-shraddha-prime-anand-rathi-wealth-11791910945306.html",
       "pubDate": "Wed, 14 Oct 2026 00:01:53 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Gold subdued ahead of US inflation data, Warsh remarks",
-      "link": "https://www.livemint.com/market/gold-subdued-ahead-of-us-inflation-data-warsh-remarks-11791916268630.html",
-      "pubDate": "Wed, 14 Oct 2026 00:01:08 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Capital goods stocks fall after multibagger rally. Is this a buying opportunity for long-term investors?",
-      "link": "https://www.livemint.com/market/stock-market-news/capital-goods-stocks-fall-after-multibagger-rally-is-this-a-buying-opportunity-for-long-term-investors-11791899883610.html",
-      "pubDate": "Tue, 13 Oct 2026 23:24:32 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "AI stocks under pressure: Why are Micron and SK Hynix plunging while other chipmakers gain?",
-      "link": "https://www.livemint.com/market/stock-market-news/ai-stocks-under-pressure-why-are-micron-and-sk-hynix-plunging-while-other-chipmakers-gain-11791905753193.html",
-      "pubDate": "Tue, 13 Oct 2026 22:17:32 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -92,34 +92,34 @@
     },
     {
       "src": "Google India News",
-      "title": "India regulator proposes tighter rules for equity fundraising - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGswU09aLXF2azBlUVltWF9CenNvd2lpOWtSM2tTbm01Wkg5WGxYUUFpSUd2SnpNZzFqYXBRQ1NzSk54cmNLOWRtZXJZajJSbTdpaktIb2VHRi1iaDloX0U2RzRuc2dLOEpaSUt4T3EtTm9XZHFGQkJzU0c1OWdtLUhSX2RJeVV1bXJwMFJ4WHhiLUVDOTQzVDBJNE1falliUE5tNUpRWE1tRFBFZTZoNGhEaGtvVEk4RUUxT01QZVU?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:53:27 GMT"
+      "title": "Stocks jump as Sitharaman says government will hear investors on LTCG tax - IndiaIPO",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaDIzQ2Z1S09RdXZ2ek1Ia3J5b3V6YzRXUjc2NkF4aV91dkhWclB0MzBTWTJnbldXY2lxQkoxSElDVlR4eE40blcteTJXM3B6VXdNSXUzaE1JeTF6Zjc3OWNQZUptSjNvMkxSejZlRFk4TEV5OU1obWc5RjhEZzBiSzlrbUlNeGNNbVpueEVlTFJTQUV5LUlpQ29WSHlOSkJTcVprM25yT0JXVlJ6elE?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 23:03:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stocks jump as Sitharaman says government will hear investors on LTCG tax - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZ2ZpV000VWNrLWY5NjE0a2M4VTMyT2JqWnJSTTJtVkh3bEhxbkY5T3dIYlhiZmU3WFNTVXZfVXJ6Q0xzZmZoYzFPX2dPci11X204cnNlT1psUFIxWHJ4NVh4RldzQm5ZRFJkZlhRSkwzLVpIU19yaVFFbk8zZGZ1TnFaWkJYbEp0Y0FRUDB0bzV1OTlrTXN1aFI0VU43dmFHbHhoZ2dEak1WaTNhUVJUYXhCSXhqTnJieUZaSWE5UWRLZ3NMZ2EzQjBn?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:50:44 GMT"
+      "title": "One97 Communications And 2 Other Indian Founder Led Stocks To Own - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOd0dmN3ROZC14TTJsMlVVdnpfMWlWOXFWaWpMRWViMEpRT3VNdldSRHRNTEFidXctT3RBa2xKNXhyV0h6a0oxVWlRdWxucmtXMlhmZEJHSi02RDZNU2l2M1h6ZlhpVWZHUW5YLU5GQzRVYjJYWlM4YnBpc0NGdXVVVVpNU09NdmtONHlydUJDWlBjUl94TFg4RTdubU5OeUhfVDctNzUzektMLVFwQXdOVVFEQmUxZUhpbkdpYjRRN0hlc0FqeHNLUlFuRDBzZzVtT0dqdl9BVG5UR0pnZXRMSUE1UDF3WnUyNjdMRmdBTdIB9AFBVV95cUxPZGdfdDEtanN3LTVGVF9FUUxyTUlDYWZEa1lBSDVRUEE1YmhYYVZDTzBDWG4tQWpxYU9oaVVDTVpyeTN2OUZzaHZEYjBWRjdWZWM4QUEwZFdVUlpKaldYZjFJMHhFcWpNQjRDblJVX3FUbktWZjVXMWtpNGxHcklZdlZvdFRTSE9idUZITEU2NzFhMmk5RzRtLWQ1b0ljeDEwXzRhbjA4UlpNWTJfTVJCU042cXUyUnNFa3FVSlpaVmZNcnBINE52NXRLQzc3ZDJUY2tKWlRld2Q0b2h6RTVqVllYeW1BRmE0dGFnX01aYkZBUm5y?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 22:27:05 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Go On, Show Us the Money! Rs 3 lakh cr foreign outflows spark concerns about India's investment landscape - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcWJuMllXUDhoczNtS05YYmNyVm5ndy01Q3hFTWhhN2k0LUhJTWw1Zk9GZTBCSkVXMk4zOTBYc0JBZEN5MU1xbHlIUXU2a0xhaUdFaHFnSzhfbnFGWWd0WXJlSFpWNEVzU3VoRllFSDFTbHR3c3l4UURjYVJLbGdJVlhZNkp6Q0pBSURFQ1EzSlR0c0VPYlZTQWd4RTNubTB1cnFPbXRCZHJfdHZNcTR2UFlrTVJ6eGhHQ2ZOV0VGR010QzRuMVFaelBtQktxV1c2dTMyaDM5M0ZKSVZ0VWxyNkR1QTh1b1hEaEV4YlhsZHdCbnFDTkkxZnY0VktKYXZSbGJvZFVkTHl2UdIBjwJBVV95cUxQQVBhYWVxa0ZocUZkdTVuck5XTXJFcGhCeU55bkJwamtGRG9ZZzNMd29JRm93Yjhwd2d5OXl5aWMxRWdTcTBxZTZLQV8yb21yRThuWGFtMnFFRW9NeWlIek1sZGwzdHhmRFlMWllIVGhqR091R1BpVDBhSTBvMk9FalJvcTh0ZldwblAxdG9iTE00VXhPWkpPVFh0WFFiM2JNdXhRam9vWlREUUd4Q2RFYkU5Wnc2TzMzTTVFcjlURmw4MjktbVpBMmFuVnEwdTdUejdDcGFTbmNVTFVKYWZkQlVaeDYwWllzVm92WG5OT3Y5Q0ZGUVJrcVR1NGtBNkMxZ0VyNkE3NTJueFE4R25r?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:50:27 GMT"
+      "title": "Why is GameStop stock climbing today? By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSURHMXg4LUo0TlRWX1RjVU9laDRPblNIcDhKWm9yTXhjSFBGaEV1YUNEN3BMb0FIdXlQWXVlUkJQcndlMGppcGExYjNreU93SUtqMU5vb0JuNVgwQzhMOGRWVmRkaGlQd0JzdXhNRk9SZUtQbFlsWEJSU05qOWUwVTVEMzlHODg4WTM4RVVGcHdyWnNWTHVTMWJwV3RYQQ?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 22:13:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Aegis Logistics to acquire majority stake in Dubai's Tristar for $809 mn - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMWtXSXJtVHBNYnVVQ2w1ZHZ1bVpHREstaDFOVVhUc01ObzJsX2dvY0E5VDVyZFBmd1R0OU5xbURQVkk4LVF5Y0kxeENPNS02ZDBxSTVrOWxZalhBbGFueEg5ai1HVXd2OGFLX1ZJNm1ydDI5YXdwVnNyTlpoTkNVTTRVa1ZWcE5tS1NMSFdpTW1fTWc1OHJPWk5OYTlQZjg5VDg1b2dKV3hibS1NMmQ1cTJpNVotZkI5RnluWTY2WDRvcTJEOWpfcmJvQkV4NVJfVFHSAdcBQVVfeXFMTUJ0X3RIeWRxbjV1Q2hMMi05T3B3THFaeVlVM21qbUQxSzRwQXNlbWc1OUNMSjhDdTB4Mkx6eW9rOVFtMEEwb1VvMURKMnlPMVJuOFVVN2p4emM3Ym0xdWROMFRhdXc0eGxmZ0JyMTVkemxjWm9YT3JYRzdMWGlhc0Q5ZjNRY0ZJcWMtSEFQWlZBdTNISnVrUnBvbXAzWWp3M3RsM0NybWYwOFJvX0FscUNZYWwySUc5a0xQWU5RekJKV0tvcW5CdXIteHNET2ZwVFZDZ2k0RjQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 18:52:01 GMT"
+      "title": "Abbott India changed secretary: what it means for Abbott India stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdHpTT1h4U0J4SllJd2RJa1hmUkVPenlUMjNBZlhWMUJETFExT1RvdnB2TVlRbHFMTi1MMlRST3JwbjdHQmxNNWRpazdLNThiMWpVUFNRbTZoeGYtQV9CRi0yOGlsT1NtTW9QNUpWdHZxSDBaYWNiaFh5NXgxUU5NWHNZQjFiYkxtZlktT1hQMzhWVms0Ml9DcmhDVnVtbXc3MTcybmNhV0ZiQ1h2aU83SWtRcmR2Z1lXanRTUm50WUZ1eXB3?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 22:16:10 GMT"
     },
     {
       "src": "Google India News",
-      "title": "JIO CASH MACHINE: INDIA\u2019S FIRST \u20b910-LAKH-CRORE IPO LANDS NET-DEBT-FREE - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHBJUUpXeEJkTFNrelMtWW1BdVJlcVZRZHhDbEYzRzhFR3N4TmZ5eHp3My01Sm9PdjAxdndpZDJ6ejRNQ3cwc09xak1XWkszUVY5TFdPd2ZzVERiXzFiY3FlS1czdmNEZ2o1ajJHczV4b3FkSW4zVmtUY2hmcEFxc2hibkI0RGxTZXdMZWFlU0NjU2tJTnJVYURRcUUyMFRMNmhxcmNPMXRZZUFROHpGVXRB?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 19:30:04 GMT"
+      "title": "Teradyne Inc Q3FY26 Results: Earnings release scheduled for Oct 27 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR1dVUkJIQ19mMm1sU1M0MDVjQmtTVnRGNkVaT3NpMmN0ek81bGhLeVhhT1hwanFwYWNsZ0VGaDlqWGFEM3NwaEs1eXB1d240VVhBcWVEY0xJZDlESE8zeV9vQklrTG5UWm83M0RVV2o5aDNjRTVrTzlQNTA0S05IUlA1U1hZVkNBRU1qRE9oT1hWeUdGNlZ0Y2haSHRnMnFobnFqRVZqelAxcUpYckhSaTNIbVo2MFBWSGc?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 22:52:48 GMT"
     }
   ],
-  "fetchedAt": 1791920724
+  "fetchedAt": 1791933175
 }
