@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: Dow, S&amp;P 500 end higher as traders shift from AI to healthcare",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-traders-shift-from-ai-to-healthcare/articleshow/134976395.cms",
+      "pubDate": "Fri, 16 Oct 2026 01:40:37 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "AI stock selloff eases as investors buy on dips amid falling bond yields",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/ai-stock-selloff-eases-as-investors-buy-on-dips-amid-falling-bond-yields/articleshow/134976163.cms",
+      "pubDate": "Fri, 16 Oct 2026 01:29:42 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: Nasdaq reports network disruption, US equities data feeds impacted",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-nasdaq-reports-network-disruption-us-equities-data-feeds-impacted/articleshow/134973019.cms",
       "pubDate": "Thu, 15 Oct 2026 22:49:32 +0530"
@@ -19,16 +31,10 @@
       "pubDate": "Thu, 15 Oct 2026 22:21:47 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "IIFL Finance Q2 profit nearly doubles to Rs 805 crore; AUM rises 38%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/iifl-finance-q2-profit-nearly-doubles-to-rs-805-crore-aum-rises-38/articleshow/134972001.cms",
-      "pubDate": "Thu, 15 Oct 2026 22:06:48 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "L&amp;T Finance Q2 net profit rises 33% to Rs 975 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/lt-finance-q2-net-profit-rises-33-to-rs-975-crore/articleshow/134971866.cms",
-      "pubDate": "Thu, 15 Oct 2026 21:53:23 +0530"
+      "src": "Business Standard",
+      "title": "Pernod Ricard India sales grow 19% in Sep quarter; IPO plan awaits approval",
+      "link": "https://www.business-standard.com/companies/news/pernod-ricard-india-sales-grow-19-in-sep-quarter-ipo-plan-awaits-approval-126101501204_1.html",
+      "pubDate": "Thu, 15 Oct 2026 23:42:36 +0530"
     },
     {
       "src": "Business Standard",
@@ -46,49 +52,43 @@
       "src": "Business Standard",
       "title": "CAS review: Sebi announces last 30-minute VWAP method for settlement",
       "link": "https://www.business-standard.com/markets/news/cas-review-sebi-announces-last-30-minute-vwap-method-for-settlement-126101501571_1.html",
-      "pubDate": "Thu, 15 Oct 2026 21:48:37 +0530"
+      "pubDate": "Thu, 15 Oct 2026 21:48:53 +0530"
     },
     {
       "src": "Business Standard",
       "title": "IPO proceeds will make us net-debt-free company: Jio Platforms MD",
       "link": "https://www.business-standard.com/markets/news/jio-s-30-213-cr-ipo-priced-at-34x-earnings-below-bharti-airtel-s-39x-126101501478_1.html",
-      "pubDate": "Thu, 15 Oct 2026 20:54:58 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "South Indian Bank Q2 profit rises 21% to \u20b9426 cr on higher interest income",
-      "link": "https://www.business-standard.com/markets/news/south-indian-bank-q2-profit-rises-21-to-426-cr-on-higher-interest-income-126101501433_1.html",
-      "pubDate": "Thu, 15 Oct 2026 20:23:15 +0530"
+      "pubDate": "Thu, 15 Oct 2026 20:54:46 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Sebi reintroduces VWAP for derivatives expiry after CAS turns markets volatile",
-      "link": "https://www.livemint.com/market/sebi-reintroduces-vwap-for-derivatives-expiry-after-cas-turns-markets-volatile-11792079015676.html",
-      "pubDate": "Thu, 15 Oct 2026 22:15:20 +0530"
+      "title": "Dollar Wraps Its Worst Day in Over a Month on AI Risk Concerns",
+      "link": "https://www.livemint.com/market/dollar-wraps-its-worst-day-in-over-a-month-on-ai-risk-concerns-11792096933892.html",
+      "pubDate": "Fri, 16 Oct 2026 02:12:13 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "SEBI CAS: Framework revised; auction window set, reference price calculation for eligible securities changed - Details",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-cas-framework-revised-auction-window-set-reference-price-calculation-for-eligible-securities-changed-details-11792080892635.html",
-      "pubDate": "Thu, 15 Oct 2026 21:50:41 +0530"
+      "title": "Global stocks flat as AI and rate fears hit tech",
+      "link": "https://www.livemint.com/market/global-stocks-flat-as-ai-and-rate-fears-hit-tech-11792094723624.html",
+      "pubDate": "Fri, 16 Oct 2026 01:35:23 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Nifty bucks global AI selloff as heavyweights flex muscle",
-      "link": "https://www.livemint.com/market/nifty-market-equity-ai-selloff-11792068678919.html",
-      "pubDate": "Thu, 15 Oct 2026 21:47:58 +0530"
+      "title": "Brent steady as US weighs easing sanctions on global shadow fleet",
+      "link": "https://www.livemint.com/market/brent-steady-as-us-weighs-easing-sanctions-on-global-shadow-fleet-11792091117388.html",
+      "pubDate": "Fri, 16 Oct 2026 00:35:17 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Reliance Jio IPO to be listed soon: Why a 12% tariff hike may be coming in 3-4 months? Experts explain reasons",
-      "link": "https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-to-be-listed-soon-why-a-12-tariff-hike-may-be-coming-in-3-4-months-experts-explain-reasons-11792080397811.html",
-      "pubDate": "Thu, 15 Oct 2026 21:41:03 +0530"
+      "title": "Indian mutual funds stop bulk subscriptions to gold ETFs ahead of festive season",
+      "link": "https://www.livemint.com/market/indian-mutual-funds-stop-bulk-subscriptions-to-gold-etfs-ahead-of-festive-season-11792090568726.html",
+      "pubDate": "Fri, 16 Oct 2026 00:26:08 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Wipro ADRs surge 5% to two-month high despite Q2 profit dip: Is anti-AI trade driving gains?",
-      "link": "https://www.livemint.com/market/stock-market-news/wipro-adrs-surge-5-to-two-month-high-despite-q2-profit-dip-is-anti-ai-trade-driving-gains-11792075444652.html",
-      "pubDate": "Thu, 15 Oct 2026 21:27:53 +0530"
+      "title": "Stock split record date: Last day to buy today to qualify; This stock has surged 5,123% in three years - Do you own it?",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-split-record-date-last-day-to-buy-today-to-qualify-this-stock-has-surged-5-123-in-three-years-do-you-own-it-11792081531830.html",
+      "pubDate": "Fri, 16 Oct 2026 00:12:10 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Reliance Industries, BSE lead mutual fund buys in September, shows data - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNjNRdmpDNDQzRV9jSTZaQ0M5RmlSeFlXWF9WRnI0bWZKWTBZdGNHVDdULUt2VGE2UXROZVFoZkQtRXg0U04tcFlsSW45eFJRTzB5Z2VyblJtM1NIT0NhMTJUZzBNZkcwVWhFVWVzZmw3TzZTWjhyQWVRYUs1b1Mwel9GazYwazVYVWRhN3hPTlBJbzBydzk2WTFQWGVfYnEycUI1aUdqTlhWYTJkZUFHeEhjUnZnTXlGZnN3amJ1eExHbW0ydDhyeFFiWF93MTYtQnfSAdcBQVVfeXFMUEdST1RyQkd1b1lsQ2JGbmNkTThtY0JMYU91dUtHMy1SNjhoOENGX19Wd2EwZjdyNDlGNTdSd0lmbGlVaWphY0dab1QtUldsdGlXMTc0OHpBZ0lRZnpGU3o2U3A4RzBmaklFOU1SRG4wWUpQZF8zOFNMV18tTHhFbUd6UWhmNHlRTDFFTk01eGtqUWtWdmd1V3FNZEtBVkpsYzF6RGtJVkVOcTJRSU44Z2VwLVdUMm9FclVELTgtVGVISTZ2dTNmaTY5UHlsNEw0MkF3Rkl5Mzg?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 17:15:46 GMT"
+      "title": "PepsiCo (PEP) Warns India Energy Drink Stocks Could Run Out Within Two Months - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRlBudXBQSUtvcnFvX1doQTFuUklnQWpJMG5YNTV0M19xZ2dZQkx1b1pMUFVoV1p1YXFpdzlTZGtUMW1HMVhCRm1vSFUyRmx4VWhZMG8wM1pmeTd4YU94MnFzNWtTdjd5ejFsa3Z4bmxLMW1ucllxRHpUaEcyQWdBWThPV21xUFNRNFBucFdzaVIyWmVjbUZfMXRYRQ?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 20:16:07 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India\u2019s current account deficit narrows to $5.2 billion in August, RBI data shows - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbFUxcmNXTXMtbmlmdmp4eTFST0xZZzNIbURVNEVGbkVaSGg0eFBrM2lGYUZpVXdxc3cwSFowektLNVd2R21YUWllX0RpU2h2b1UzUTFKNm9uZDJzeS1QX2pLR1RQdGh1YVA0bmNBUTdZRlB4WlVwamJjTHNMOUVHS1k1N0dOQ280Y3VJSDh0SU1yaURtclh5OVhSaHR1R3dCLXhSSlhySW4wYVhhRlhTZ2hqMmp0Z2VKNzNWR2poenMwZF9SQ3B3YjQtY2NYQjVGeUVCNkJpa2hsYTZqM2VXQkZ2aVhSVUdaZklCQVd4TFphZktPSUhr0gH8AUFVX3lxTFB6VEdrVXpiT0ctY2hYWkZDTjFlcDhYWG5WRzgybVVxUElJQzhQZDJraVl2U2pLOE0wMGFZNkt5dFVNR2Y2SUlUd0FrczFFNEJ4eFVkRlo2SFJyT0VsNU5scjA3eTlqRktsOHgxMkQta2wzSVZ2LW9hanJKRFpWaEJhWmlZem52YVoxdENmbW1idGlEYlBKcUQ1OWRUUXZoellKZjQyUWx5bTlkQ1Y1ZEd1cFd3a014UXRTZXVyMDZIWk11NjZ1VmpER21HUHVxejdTWTN0UTF0UWdPUE9WQlptS3ZwcUtYSmdIRjZQTl9LZndSRTJPb2h4a1V5Rw?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 17:39:00 GMT"
+      "title": "Loop Industries scales back India facility to 45 kilotonnes - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQzR0WGNEQm02WGphUmpiUHBVYWJsLWp2SGpYZXpvQTItc2Jnd3RhcExjeGw5SXh2S3U4Mk9oYXRhTE0waVVfUGtWLVIyLW42U1M5TFF4QUs5eUlVNF9OSzBJVWVtck9TZU9GMElyTzExOC1tbXBhZm8zaGpiV0pmemFvNXZ6UHZvUXE3QjNoYkM5T1ZUZFFOQkR4MnZSUkRiNkFiRTd1UFktRm9Sd25meFVvdDdwT0tOMFM4NA?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 20:39:52 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Sebi seeks IRDAI nod to include insurance details in CAS, eyes unified financial ledger for investors - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMDZ0Rjg5bFVzdUhUTjFqcm8tZE0xNVlhVVI2ZGZpS0RQSmdhOEJZR3J4Y09CNk1PV21EVEE1Z0cxY092Y3BjV3dlZXExOGhBMjVkV2N3c3k4Ym5zVlpLOEFQUkpvUHlsT0p5SHNDWkxHbWxjNXJwenFnQm9YMXluTG85TDdnTlNWZlFaZ1FJUTBDbWtqYkx3ZGxmY1pRLThLMzhXUUgwQUJNZnRyMGU0Y0h6UTRHaHo2VFRlUjUyUHhMd21KYjNXX0xoS1daMDZ6WjBwdE1nT2lVelRGbENrcGJnSzBORFF3bkHSAe8BQVVfeXFMT0xzQ0NOUlBGS3Q4enpOSERjdjNrX3RpbE02Tndmc3VBUjJEWDV3ejVlLUVmdUVqZ3c4UUNBekFCUWhtbzdXYXg2TWdTYTlRdXJUMXdYWkdWeXBMSTNoRnZyMDg4UFFfVGZ2NEJKLVpDRGRYMTI2N0JlU0NKcDNHMkM3RHU5UmFBMC1zZV9xVjZUVE5EaEpFdmMxSDlobEhxZnNFal9yaEswVVppRXVnYXNiQWhjdDJaVnBhVm1Bd3NSMmZZVFVCSHBIckFsaEN0d25zUWlYeFM0SmhsUVlWYUZlclZZdjF6ZFZlWllLZFU?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 17:45:03 GMT"
+      "title": "Symrise AG Expands Global Production Platform for Globalide in India - www.marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTRMN3FJb0xGaHRFZVl1MW1JYlRGSDNaQzJVVzZSRzFzNUJpcTdTSk5qTHZVaVpNdE5XaU1rRmJpVktPY0ZoVkNlUUNoTGZ4a0FMdmRaNVBfLVU4NWhMcTFBNTh0YlFBVzIyZVdpNFQ1eXpoUDJnRjRsVUZYTU5KcU1vWDdaY1dZSnVFZzhyWU5LM2tMVGhSNlVYS2RGcUxIWHNCbVVoS0luUjdVZmsxcTJEX2lBUWFhS3BUNTNn?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 20:51:35 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stocks to watch for Oct 16: Reliance Industries, Wipro, Jio Financial, Yes Bank, TechM and more - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGlGX0FOYVFVa05BSTRwc0R6SWxJNElRYTZvdm1NUnpsenZWcGcyeEY0cEZkRmdWRGxCakRjUGZHLWh5NFVLeGNGWXRpQXl0aFRjZUpXOEJ0bG9EaktQZzJMVDJiRUFlQjU5djZEWVhHelRpZl9LVFNnWjBNNlozdjQ3LXo3TzFCVmdNUkY5MFNSTjdabWdrNHYyVVk4bUV1ME9mQnBZSW45U1JqZFVYU09FWU1YcFVFeWRURlMzQTdMTWxORDZxUlRTNXNPRTJoWHRsc3VJcnJpZ9IB3wFBVV95cUxQMGtoaUQ5M0FtWTQ1UEhOVDhsc0QySFdOdC00ZUk1TGUxVzhpOVRUb0hTdGc1OERrd1NDQ0RiT1ktRUtrb2ZSV0RGeFdpNVZmYUtxMDRrb1V4alVpLUxneXNJZ29KQ2t6VDY4ajMxcllrN202Q3RxZHI4ZWxJbEhTZEpxYzZZZENoWUE4YmtPbWNiYWZBQmxUbXR4UTdvSFJQWUwyZmVYcUZuZlpfejBVNGlSRnBxX05wZF9IRE1YaHhCbXlJTmQ1YXhNNUpqYUg0Z0dveGlXSW9nUGhnVHNZ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 17:17:39 GMT"
+      "title": "Money is going into data centres and AI in US... now India will be on everyone\u2019s list: Prem Watsa - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNeHU1ZlRpeEVyanVaUlBhY3N3Zzd4WjZlV1pyMFdYT01mc0lKeXh4SzVHSzNTczAyRm1Vbjg3SzdHTDk3dVJvcU1Wd1gwcDdJWEFKTjZhSlpGTlFuZGJXVWR4OUdocGlWUUsySV82N1gwU1lobXhCVHZxRkVXalhMYzJYRERDR1BfS0VSb29GemVDOWNSTGJZb0gyLXYxSXdvWXpGRkIwN1IzR2JMcDZvc2RSS3BvOHlUcG1OUEhaUzFldE8yampGcEN3bTRSWElsVm5NbEhsUG9CYXJHZndoZFo1UmMyUy16azI1NllvRlJDUzdwOHZBRDNESjV6bjJh?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 20:32:47 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSE warns investors against \u2018King of Nifty\u2019 over guaranteed stock market returns - FM Bharat",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR2ROMEV4cDRwQS1CeTY4d1hTU2lYdGtJdnN3WlNGUmdPb04wT1pxRFJKR1RiOU1mTkwxTkZnNC1OQzl3OXBrV1BwWEJLN2JZLUFZTEdCb3V3WHgwS1h0Mm1KcnNQdkIzc1E1MlpvUFktc054MnpUZFVaVmxaSFppTnhxSUl2bmxvNEVmcW9XcXllOUUwcnVvZkVxWGFuOFlHY1ZSZHZwdEUwSFpFclRucGlnUU5EUQ?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 17:05:11 GMT"
+      "title": "'They don\u2019t want women to...': AOC blasts Trump while campaigning for Abdul | Michigan Senate race - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUy02RldsbFBrbmp3Z3hNMHVGV2lpYS1rem8wM2ZzWGtDRUZqeGlPb1NuN29hVi1jU3pKbHp2aU11bVVWZjZsMmxDZWJMcGItbEYxbC0wNlRMUXVveVRIS1Uwb1VQdXg1dENHZFUzVl9NVmZZVTV6ZXhsNzZOM21xN2ZBWnEzMEFwTHA4bnc4eUtoRnZhMU45cElIVGk4RG1Lak9HZkdZMVFmak5qUDMxSS0yWVFsQ0VsMjZkdlFxaVBuNkNhTXJ5ekswVWhRWWFIZ21FSVhtaXlPTG5xSlZ3OFdVdE9ROS13QlA2OUYxalVSeEMwS1N5Z1J2b0loX19S0gGGAkFVX3lxTE1mYkZyc1pOb2tnbTA5ZERvc0RSbGFzOHhWQzU4Vzg3dVhydko0T05uVzRGSWwxSUFnREFWa0QwRnd2ZkdGaVpuNTBTWDRHS0w1YWZxUEdPNXpsd2V4MmIySGxEMVp0a0xLX2d0UGlMT20tVXRxRzB2LU1IdkNwVW9yQXNtZzBWdjdic21KYXZsdmhFczNETjNTUkIwOFpKelIyS0pQMTZ0TXlqaWtQUG5BZ28zd2lJVTlQUnU3S2hUU1R4ZDlIajBKSE50SnlyUWE1eUc0X1JDbHJoem1PZF91UDA3VEx4eExETGZ6OFRKeWtTcWdXenZGOWNaOXU1SXBGUEs2Umc?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 20:53:42 GMT"
     }
   ],
-  "fetchedAt": 1792086809
+  "fetchedAt": 1792097786
 }
