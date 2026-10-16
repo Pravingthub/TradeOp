@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms",
+      "pubDate": "Sat, 17 Oct 2026 01:38:41 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Big US bank stocks head for longest weekly losing streak since 2008",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/big-us-bank-stocks-head-for-longest-weekly-losing-streak-since-2008/articleshow/135002546.cms",
       "pubDate": "Sat, 17 Oct 2026 00:24:46 +0530"
@@ -23,12 +29,6 @@
       "title": "Crompton Greaves Consumer Electricals Ltd Q2 Results: Profit surges 65% to Rs 124 crore",
       "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q2-results-profit-surges-65-to-rs-124-crore/articleshow/134998426.cms",
       "pubDate": "Fri, 16 Oct 2026 21:03:01 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Cult.fit receives Sebi approval for proposed IPO",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/cult-fit-receives-sebi-approval-for-proposed-ipo/articleshow/134997161.cms",
-      "pubDate": "Fri, 16 Oct 2026 19:32:27 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,18 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Foreign Holdings of US Treasuries Rise From Almost One-Year Low",
+      "link": "https://www.livemint.com/market/foreign-holdings-of-us-treasuries-rise-from-almost-one-year-low-11792184534641.html",
+      "pubDate": "Sat, 17 Oct 2026 02:32:14 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "ITC sets board meeting date to declare Q2 results 2026; net profit may decline due to cigarette taxation \u2014 share outlook",
+      "link": "https://www.livemint.com/market/stock-market-news/itc-sets-board-meeting-date-to-declare-q2-results-2026-net-profit-may-decline-due-to-cigarette-taxation-share-outlook-11792178741965.html",
+      "pubDate": "Sat, 17 Oct 2026 01:59:50 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Funding Markets Diverge as T-Bills Cheapen, Overnight Repo Calm",
       "link": "https://www.livemint.com/market/funding-markets-diverge-as-t-bills-cheapen-overnight-repo-calm-11792179755736.html",
       "pubDate": "Sat, 17 Oct 2026 01:12:35 +0530"
@@ -77,18 +89,6 @@
       "title": "Arabica coffee touches one-month high as stocks remain critically low",
       "link": "https://www.livemint.com/market/arabica-coffee-touches-one-month-high-as-stocks-remain-critically-low-11792178652490.html",
       "pubDate": "Sat, 17 Oct 2026 00:54:12 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Yes Bank flags 250-bps impact on core capital ratio after Supreme Court upholds AT-1 bond write-off ruling",
-      "link": "https://www.livemint.com/market/stock-market-news/yes-bank-flags-250-bps-impact-in-core-capital-ratio-after-supreme-court-upholds-at-1-bond-write-off-ruling-11792175520924.html",
-      "pubDate": "Sat, 17 Oct 2026 00:21:54 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Top 3 stocks to buy: Bajaj Finance, Dr Reddy's Lab, Grasim Industries by Sumeet Bagadia | Target price, stop-loss",
-      "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-bajaj-finance-dr-reddys-lab-grasim-industries-by-sumeet-bagadia-target-price-stoploss-11792172794591.html",
-      "pubDate": "Sat, 17 Oct 2026 00:15:17 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "What South Indian Bank Buyers Were Betting On - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbUpKTzFlVVluZjNCV1lkNUVXYncyMjdzdmsxUlhZWEozMXU0WkFCcEtBNWhsa3paeHJmMkFnWVFOQWdOZkxQbXdFU1l1Tll1VHdjRUh3cjNtR1NyVzJrSmJKTnc1QUd2OXV1dU5tRUo0OVoxbUN4QnBKdnZXLXJzTWxLdVkzMHFyRFdONlJQODdBMG04ekdYaDFGXzlRUE02dFRwTGFyaEF2eUw5TVVSWDIzTWthaXVhRUZ2alZEUGlTZVlWTUHSAcsBQVVfeXFMTU54UFk2QnY0LV83LWFIMVlwWjN5VUdnNmhRclY5UFB2YWNMRFdqZmNqNVNUUTc2Z2tIZGlVMEpBd0I4Z0otV1prRUNQbmZuNS1zTkxtYnlJVTN2UFdITVh4VTBPUmpxSXE2dFJyaWpXYlhnNUt0V1ozQ05PVC1GYXZnOG9SVWFtS3RDV0V5UUN6dHNkMTNuMXhqSWJCMjVXbWhvTFZXRGFxdFBOVzg3Y19nWHRsRWdvX0IteWd6VjB3U1FNTHZDNVluWW8?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 20:01:12 GMT"
+      "title": "Top 10 Best-Performing Major Indian Stocks Today - CEOWORLD magazine",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSTAwYnR5UkVUVWswaGhuTkpQYzZvQm1lVVNhQjFvUDdoX0ZNTGxHcW9BZG82ZVJiejVmc21Td1hfaS1vc1p1TjhMTHgwYllwb05MLWdselhyeXEyNm9VTXNvRUxoS2tON3o4UWNCZWxLZHl1MDhTeHBBaU1nZWE2eTlKZVRkcnNI?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 21:25:45 GMT"
     },
     {
       "src": "Google India News",
-      "title": "American Financial Group stock hits 52-week high at 148.73 USD - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY3MwMkJzWGRMRm02MTBuT0RFeV9FbDc5MzVtM1lTUENOakRfQndMaVZScGRpRXJ1WklCdDhnRkNOaG5NalVMSnNRaUNLMVFfTUFKay0zbDBwOGhZQ0p0aFdrSG9VTFdMdHZqSzZlaHJ3TVRxN2lsZkhBRnVFNHg5ZDZuOTRaX2RGSi00UDI0a3VXcHlLQkZWR2JqaHNETzdzNnJTblpUdW9UenA0TEE3d1Byb0lIN1NTMVNCNGpB?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 19:54:27 GMT"
+      "title": "HEG ADVANCED MATERIALS LTD Stock/Share price , NSE/BSE Forecast News and Live Quotes - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1RDaDJNT3M1WGVzNE82RTZlRGVXR21BN24yNkFEREhVc1RFaU13dkl5dFpuRE4tUTE3bTlvR0c1eXlSRUZGZ2lzQWFINEprTTBCNmRqVko4a21NN0F5NW1GVE9HTUF5QUVCYjQ4ekUxYm9RTkRBWjcxN3hMRlptZ2hVUlZsWVo3cFVjYXFXUEZMWUEwRzhSNEl6aw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 21:32:36 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Continental Securities distributes dividend on Oct 14 for Sept 21 record date - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWUhFV3o3RFRLODEwMGlheEZINWtxMHhSaWk5cnJ1NlZGa2Vta2ZvMU96VVlGZHRDOGc1OXJ3b1VrREFwcWxTM2VNSXlDMmkxTXU0LTFidkF6TzZkOHU1NHJBODlXMWxvZzl0UTdPRHQzU2QxQm1yUVNaMnRXcms5b2hNT1NJN0paU0IyUHdBTVdySmtkS1M5WW5JNzRFc2wyaE5BZERzc3FYWUJ5eTczck1sajA3bW56TmNhdzNPVlRoM2ZSMnc?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 19:19:53 GMT"
+      "title": "Global Equity Inflows Rebound To $65 Bn; India Outflows Persist - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmZ3eFlsRy10MlRKNmRodkx3ckNVb3NnUnB0Qnh4LWJPRVdVd2UwWUVKTDc2Ti0tR1hDTHlqaHJpYzY3T1VPb2pMV2ZTQUVIQTc1enFaeUVOMk9pU3hsaTR6MHVwVjlfWlg5VGYyVE8yaXVrWUh4SVotYm81SzkwYmlFdW1POS0zZDRsV3pkZXRRaDAzT3FCdEhjMXZlWFdnRFhYb2FzSGQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 21:05:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Arabica coffee touches one-month high as stocks remain critically low - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU1dnMTljNnFQT2N2TnNScy1DWEhOdlZQVGFZTFhicmpWZG0xOFAwN0ZmbS1mbEh6akRfMXNJc0d5Q0lNU0xlUU9tTVBxbTlSdVg0aU5Bc1lCeHU2UU9scUo1VkFmb1hJVUU2X21iRUtma1NQR3h2THNRaWViaUl5YjNwWkNxRk5UMGtFU3A5RnJoSzljbzQ4VU90MGxNa3BfZktqaDZDa3NOSHM2TUNPZWw1UXpLd0hYY05sM3l30gHDAUFVX3lxTE9JX2FQZ19SX2l6WllCSWtnM01wWkhianNFMDlBZ0JlY3FfaktDZ01xNGtlNklzS28tc3hzV2VYRDNvWW1maUlBTTZzNG5nVWFudnphMFVQS0hhMHFGNUh2UHlzeTQ1Q3lFNXBkbnE2MGpqNWtReDVoZ1RpVEtqVnhRZ1U5LVVEVXhoRktNSXgzeFRETkhZcWktZE1wNFY2TVIwdHJjTjV2U0VlQmVkZEZZUVRUaEdzUGx2X3Nkd2RMc2dPYw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 19:24:12 GMT"
+      "title": "Fusion CX IPO GMP Today with Listing Gain Expectation - IPO Watch",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mOEt4WmduUHJzX3dQUWViTzYwclF1M3FudE9uNkZqbTdUMFdRZi1zMGVYYmZJY0pab3hpbTI5N3g2a1FidXNNVXBjWHNqSDNoekxRbUp6Q2d1LWJRaGhFMC00Nzl3S0FYa2c?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 21:07:17 GMT"
     },
     {
       "src": "Google India News",
-      "title": "New airfare rules: Govt won\u2019t cap charges but ensure no sudden spike in \u2018exceptional\u2019 situations - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPUElXaTlPbFlhZTh3VGFTdDVrTmRTdjNIckRmVTZWS1VHVG9Md0xwRlVVZUliMU5aRTY3MlE4bk9fZ3ZPX0lfTlpJRkFfMVFzQlZ3UkRWRGZsa21EMjllWDI4WFhGTkZ5eDVVS0J2dGVNTGRhdVVrSFlLRG5RQ3oxdm5BQTNGa21hNkdWYzVFOWZKdldvQWFLOEZyTWZMT1A5Z0QzdXZISGZ2R0pqQ0IwOUxJQndyYkhiMkxPdzlmUzJBVWNPRWJnMjVWVkdxZkdNOUNkaWVfaHNrVWlncm9FVlRNd2Vla1dzTm9Qa01WNUkzRjRPd0JWTkV2a0FVZ21TRXBHTlRWWmVkQdIBjwJBVV95cUxNNFJSdHozQkwzQ01xN3FSTDdRUmVWOWxuMHRYdUxHLXAyaG02bFF4UjdXWVdDQWVhMkNMOVRyZUM1MW5kWGNzZUt0b3RRT0NSbnBpVlNrN044bW95bjMxQXN2YVBmYjE3S19tUlhjMWJ1aF9XYjA0N3l2QWtYY3I2ZEdUN3dzajdvTHhkbWk0dzFsOHJMbGotM0tpQ05xMlVwaTBlQVpqc1RhYUpZR04tNV9pdnpOZTNSX3BLRnhSZVFSMC1xMnVsQTN4TFY3ZWt6QzRReVQxbzRhSWwxbDM5VUVhMGxxQ3k4ejVnVmY0OHMwSnRpSDN3SnAyTjlYQTBBbkF1S3NXcDdXSkttZm1v?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 19:23:00 GMT"
+      "title": "Can Electronic Gold Receipts overcome GST and liquidity hurdles to unlock India's gold market? - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTHEza216NlN4TWE4bU9xcGh6RUNzYzNjV2JCbXhCbENYNUxtX25GSTNISHdDZnR6d1FKRHppYzY1bjItRGNNNHRXcW8yYU9aeFIxdUNBak9SdzdQS0tiV0N4TnJndTVXZHBCZVlHdnZENFkxTkk2bTEyZU0ycFlhNGFwSGxOOXpGWldtYzhsVTN2TFFtN3p2dWdERVFLQXZOUnRNRHhGNFE3eFM3clhkRXdENFk0SE1reUlQTEFES2k0OUU5VjNpOHZmdkxfeHBrY282ZllTUjN6cmh4RVJsMV9nY3ZVOXh6SlN5U3FfMHFCSkJf0gH6AUFVX3lxTE5JTzlzUkIyQ01ZY1lYQTk3WTB1cGhlR2M0Mzl0N3pPSXl3bGpsRW01VUJDMFFIOXdzT0ZOY1pUdk9iMnpmc3FiTktaWWF4b1VWNmtNSGYwZUxqSXNnb01LdEZ3OFBfOEJVSjFyS1NFRkRSXzVsdVpoVlY2dDBTTVpFbTdrcHJ0MW1jMWdnNC1lUlZEM2xxNkNwSWY0dTMzaFktaDk0TVBpaGMwUXRVOHFHLTA4UWttdGV3c2dXRlBZMnhFaDdidlZEMXdTbVZLTFpfTUlzcWxsbURpODg0cVFYM1IyZ3h0d3UzS3VPekVUeHRFNmMxRjk0S3c?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 21:00:05 GMT"
     }
   ],
-  "fetchedAt": 1792180990
+  "fetchedAt": 1792187811
 }
