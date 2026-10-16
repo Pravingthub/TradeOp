@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Supreme Court rules against Yes Bank's write-off of Rs 8,415 crore AT1 bonds",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/supreme-court-rules-against-yes-banks-write-off-of-rs-8415-crore-at1-bonds/articleshow/134979517.cms",
+      "pubDate": "Fri, 16 Oct 2026 05:00:00 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: Dow, S&amp;P 500 end higher as traders shift from AI to healthcare",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-ends-higher-as-traders-shift-from-ai-to-healthcare/articleshow/134976395.cms",
       "pubDate": "Fri, 16 Oct 2026 01:40:37 +0530"
@@ -23,12 +29,6 @@
       "title": "S&amp;P 500\u2019s road to 8,000 grows tougher as yields rise, AI doubts mount; all eyes on quarterly earnings",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/sp-500s-road-to-8000-grows-tougher-as-yields-rise-ai-doubts-mount-all-eyes-on-quarterly-earnings/articleshow/134972502.cms",
       "pubDate": "Thu, 15 Oct 2026 22:36:16 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Sebi writes to IRDAI to include investors' insurance policy details in consolidated account statement",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/sebi-writes-to-irdai-to-include-investors-insurance-policy-details-in-consolidated-account-statement/articleshow/134972194.cms",
-      "pubDate": "Thu, 15 Oct 2026 22:21:47 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,24 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Aussie Dollar Falls to Lowest Since July as RBA Hike Bets Fade",
+      "link": "https://www.livemint.com/market/aussie-dollar-falls-to-lowest-since-july-as-rba-hike-bets-fade-11792107702466.html",
+      "pubDate": "Fri, 16 Oct 2026 05:11:42 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Fund Managers Quit to Trade Their Own Money in Taiwan Stock Boom",
+      "link": "https://www.livemint.com/market/fund-managers-quit-to-trade-their-own-money-in-taiwan-stock-boom-11792106480212.html",
+      "pubDate": "Fri, 16 Oct 2026 04:51:19 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "MSCI Weighs Downgrade of Indonesia to Remove From Global Indexes",
+      "link": "https://www.livemint.com/market/msci-weighs-downgrade-of-indonesia-to-remove-from-global-indexes-11792104710949.html",
+      "pubDate": "Fri, 16 Oct 2026 04:21:50 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Gold Rallies With Treasuries as AI Selloff Boosts Haven Assets",
       "link": "https://www.livemint.com/market/gold-rallies-with-treasuries-as-ai-selloff-boosts-haven-assets-11792099256123.html",
       "pubDate": "Fri, 16 Oct 2026 02:50:55 +0530"
@@ -73,22 +91,16 @@
       "pubDate": "Fri, 16 Oct 2026 02:12:13 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Global stocks flat as AI and rate fears hit tech",
-      "link": "https://www.livemint.com/market/global-stocks-flat-as-ai-and-rate-fears-hit-tech-11792094723624.html",
-      "pubDate": "Fri, 16 Oct 2026 01:35:23 +0530"
+      "src": "CNBC TV18",
+      "title": "Yes Bank shares in focus after biggest drop in six years; MF, retail sold shares in Q2",
+      "link": "https://www.cnbctv18.com/market/yes-bank-share-price-sc-ruling-at1-bonds-clarification-mf-retail-trim-stake-q2-results-date-20013106.htm",
+      "pubDate": "Fri, 16 Oct 2026 05:27:28 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Brent steady as US weighs easing sanctions on global shadow fleet",
-      "link": "https://www.livemint.com/market/brent-steady-as-us-weighs-easing-sanctions-on-global-shadow-fleet-11792091117388.html",
-      "pubDate": "Fri, 16 Oct 2026 00:35:17 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Indian mutual funds stop bulk subscriptions to gold ETFs ahead of festive season",
-      "link": "https://www.livemint.com/market/indian-mutual-funds-stop-bulk-subscriptions-to-gold-etfs-ahead-of-festive-season-11792090568726.html",
-      "pubDate": "Fri, 16 Oct 2026 00:26:08 +0530"
+      "src": "CNBC TV18",
+      "title": "Dow Jones jumps 550 points, Nasdaq recovers as AI sell-off halts despite high inflation",
+      "link": "https://www.cnbctv18.com/market/us-market-thursday-dow-jones-snp-500-nasdaq-ai-sell-off-eases-coreweave-nvidia-bond-yields-inflation-warsh-20013104.htm",
+      "pubDate": "Fri, 16 Oct 2026 05:03:28 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Thu, 15 Oct 2026 21:51:47 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "CCL Products Q2 results: Net profit jumps 29% to \u20b9130 crore as revenue rises 7.5%",
-      "link": "https://www.cnbctv18.com/market/earnings/ccl-products-q2-results-net-profit-jumps-29-to-rs130-crore-as-revenue-rises-7-5-20012983.htm",
-      "pubDate": "Thu, 15 Oct 2026 21:24:14 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Market Pulse: Key triggers to watch before the October 16 trading session",
-      "link": "https://www.cnbctv18.com/photos/market/market-pulse-key-triggers-to-watch-before-the-october-16-trading-session-20012980.htm",
-      "pubDate": "Thu, 15 Oct 2026 21:16:33 +0530"
+      "src": "Google India News",
+      "title": "IT stocks power Dalal Street rally as global AI trade loses steam - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcV9uSE9ILWlNSDZWbHFybkVyQmFzcXNzd1ZSdzF3UVdtOFJDdW12elZVZm9memo1T19OUHU5eTlnejRUOE5uMHlOLUM0SWJYVHpFSndzaUZKTXBGOTEwaGdZaHBRZ2NFS0pxWFVaeVZGN0NydFlTUC1QR1ZWNFlJVEM2NVVkYng1b3I2WFNGUTZqU09MRzRqM3hxMVNWOVZ2Vk9nS00xbmpOdnJVdi13bW5oSnJRdVhaUU1NYVQ5Zy1udVFtZ0N0RWdnMnFFbTVtdkFIUTFR0gHbAUFVX3lxTE90R0F0VmZzV2F4VHdFZ1hVZEp6VDNTWnR0Wk51MTJaTlBsRjFydG1UejdESFpJQmY1U3haS2I0Y3BzMTFQLXNzUDR5RHVRd1FqWFRIb3FpcTY3UGtOSjZQb2JPSDl2aHRCa1JFaW9rLVYxazV6XzFBS1ItSVBTU0tzUEhubUo1UmF6MnE2ellKTnpBUVhMX1RraWkzQm5pbU9MZS1QSDhJN2FnTWJDSTJZTV8xTi1wLWdZd0hyZ3dmeVBGUURIMFlQYWloaXhoUG5UTnBkNFoweGxkZw?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 23:59:44 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian Oil Stock And 2 Refiners Facing A Venezuela Crude Reset - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOckJiX2xaYUZxdS1FdDkwNFg3QzgtYmJONmZMRHhPcE54MVhEQWZVT3pFNEJkaVZMUk55WVIzRU1GVjdybHhCYktTQjNzd0g4aXRremhWY2tMczJUZk9DZTZSX0x5bTd6MUJ1UEJsTndocWFoTW11Yi1Jd1lGZnhIbmFvSEh4SGxBSjZlc3FMZ1FITkJ0d2VNXzdnSFptd3g1QzNhRU5fYi1NTHo5LTVOaHE1d0tmTk1TTU44UV9XQ0hnN043RVdzaW1zWGpUWXdYVHdUT2NVY1B5dzhCRmfSAeMBQVVfeXFMTW9zZVNxMVVONXZoZEJRZDFRTWNJR3hTNnhpRm1lazJTcFJmLXZuN19WUXRvZ2hZb2doSHhDZzE2b1NleVFkM1RCU3M4Q2t3OFlwcW9tRnROSWRvMTR3NXM0OGVjZDJwMzlLQUJZLU50Q0dLT0dfY21vS3ZMYU9UY0NQR1RIcW0yVENLS3BXTjFEUEE3bjFNQ0FsRnowM2JocmpqN0JoVy05R05zRVM5c0V2WG9pMjJqamRJVGYyUzRMczJwdURwOVpjQXVTcXp2M21tQV8yQUhyTUo3Y3Fxb2FSN3c?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 21:24:06 GMT"
+      "title": "Exports up 23%, trade deficit at $30 billion in September - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMlpCYVd5Q2VsU2FpamJRYl8wOFUtZGxVTkdSZjdYQ1NBMXNhTW9MTXU3Xzd2aU9wQkwwOVdvNThzRHB6cDd3eElMc1YtckdDcW1Xa0JMSGZ4dVNEVDJnaUxreDNJQnNPVWM3Q2EyNGMtVEFrZDUwZE95UDFHU3RqcmtQcWpvaGJhcXRHU0N5YzhBMTc0NnR3cWJBY1VjRkNTRkhoWWlnZ09fQlByZkVsQnc2dXFrRkhyeURkOU9OMzJWZTFqajg2TzB6Uk15aXlSZEhNZFZNc9IB3AFBVV95cUxPQ3JCSHVGYTdSbEwwQmxxbXRrcUF3OTFuNWg5cUpKMWd4NVdEMnFQaTRWSXN0eDNzWVF3b2ZKS3hpZ25ybEFhMDVOZ1pBNnpHd1piemN0UlJ0cU5kcWtCck5GNHBTUFFWWXBnQ2xVWTUxQWt6eUV5NDBJNExsTURpSGtKcmQ1NXBpR1V1Mmd5VFVzU0k0dGRQR0hsRE9ZbVNHR1N1Sks3Nkc2VXA4WHU0cTdSdE00YS1aWTN0dXh1U0hpM3VYN0N1YnpLVU9OSzU1T2V2dFo0UzJ3cGYz?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 23:17:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "After Jio's listing, Reliance Industries could topple Tata as India's most valuable group - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQ21aXzlTU19NSXRYMlNvTHN1M2VJeUQtTFcxOC1RbGNoN2dlUmR1ZWJ0U01KNWgtOEgtVmwzZWw1QmZPMUxMWkY1dEFXT2d5OFJHNUFsZmdqSU01MnEzaE8wTGNabzNDSnpPMlhLTl8yZTJwd0FCOWF2SVZpbGdpQV9KbGxZaVlWM0NHcG9FOGNvZXY1SFlfOWxQYUY1aHZmODJsYWtFWEsxM3JNb2tVdDFxSnRLYmN3cmJqbnRFb1FHVTZPRDZybVNrWUdaYmFuT3NrTmx0RkNNQjFPeGJ5WXcwQ0YzN0ljRWfSAe8BQVVfeXFMT2VCQTI4Ukg4Zmx1TW1SV2twck51VkVQUU84Q0p4ZGwyaU82Mi13cWxlQjZMdkZoUXB3Nk5mcmlYZFZ0bVdVcHZWRm44Y3ZOejg5VGhIc1FsMzRRZEQzY1l2NDd2ZDQzY2RMNW82TkVweEVsdVdSV1dESW9OR2k5U0RRVzJFSkFCNEFOVlhIV1I4UFNLc0tfUmZIby1YSzc5MENiODJHM3JLMDJtMTl0T3FiRExEdWM3d1VXMVVUXzJOb2JOME9MaHI1T2xOcWdnYU5rbkJnTG1ncHJfQnllUzAzVndZUWRkYlpxcmQ4STg?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 21:48:00 GMT"
+      "title": "Anthropic\u2019s $2 trillion IPO price too high? Investors weigh lower valuation: Report - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTUJGcmVSeHNDRXFNYjdHVmNWZ3lIanBTWWFuUDI3X1JaR2ZOaHFSa01SNGo5anRKY3p0aFVFNEtNNzFpNkdHcEZuMFdoWUNCUXM1NkdTeU5aWmxRQjhienRnMVpVeUFwR0RLdlp6clE1SVozOE1vVnJiWkZRTV9jTElNQUROT2ViWWJWMGhvUE9xRVgtVHdiellyQjhGTERyVzg5ZFVmWUhNQdIBrwFBVV95cUxNaGJ3SXpKVEFOdWNlN094YU1lS01IX3JnU214amxDNmRKM0t2RnViWk1ueEMyWDVEbGlkQW5oRzJLSTRtcFV1RTczektESTAtRzBCR19OOUIyNEtjTXhPeFZ5RUcyTi1mcEpONUpjSnJpdTJ6a0p4ZGNEQ0ZwNm10OHk1aERQaDBuZkZPSkEzVC1XSEVDVXI3LVQ2aVdIOUVjOGhmUGFfd3Ezc1pXaGlB?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 23:58:25 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Loop Industries scales back India facility to 45 kilotonnes - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQzR0WGNEQm02WGphUmpiUHBVYWJsLWp2SGpYZXpvQTItc2Jnd3RhcExjeGw5SXh2S3U4Mk9oYXRhTE0waVVfUGtWLVIyLW42U1M5TFF4QUs5eUlVNF9OSzBJVWVtck9TZU9GMElyTzExOC1tbXBhZm8zaGpiV0pmemFvNXZ6UHZvUXE3QjNoYkM5T1ZUZFFOQkR4MnZSUkRiNkFiRTd1UFktRm9Sd25meFVvdDdwT0tOMFM4NA?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 21:00:28 GMT"
+      "title": "Guardant Health director Alex M. Azar II sells $11,032 in stock - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTzFoc1gxZDI4SG1Pcm5oSVFVd0VzMklfcjNLOUF6TS1KWUVaa2Eya2Nod0ZvVUprYzN1U05nV2hURnRvTmJYMGJEMk0tQ3p4alVKMVhfOENwamxISHQzeVVRa0dxb242R3U3eGFQVXFzV3BYdXZONHYydDJpdGJKVFo4Mnk1TTNrUmh5bDZSX1FQUE1NWERiZ2pVUWhpWWlwZzAzYkNVTlRSVnNESEJRNExQb295bWU1YmZYcW53?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 23:15:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "India\u2019s Small Home Appliances Market To Reach Rs 2 Lakh Cr By FY30: Redseer - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFlWR3hrbmZPeVhtWHFDcV9VNWJ3bFpHSWxKdEljV2dSUTI1Wi1fOV95S2hsZV8wYWRoY2NlcERZcW5UZDVUd19uc0RvelNMMFpWa2VyQlFIWkZab3RFcW5UTGpEcXVUeEZoRnc5dDdoeFNSS1l0ZjVzSXdXYmM0SURfSFlsVzVRZHYzbGNaRy1rbzBPcEgtYnJycmd4NTMxNXNHbUxwTURhVVNMeXg3emhUajh5QzFDb0E?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 21:49:32 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "India US Trade Shift Puts Ciena Stock And Peers In Focus - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVGpVbFpaQm44Q2pXWXl6UnVSbmNZV3dBTGh4ZlhYSGxtbEs5WWpvQ0h2R3NUZmJIQ1dPakdaVHZIamt4eThPS0gyU0swZjBwRnk4OFllOWVja3UtNmJ3UG1fVjhmUXIzN21nbjIyb1cxZ0NfQUZWZ1k2U3hNY0VuYkdvazgtdld6eVA0Ymtta0JnejJMV0wwekE1T290czBlRkhLU3I2Ulh1NEphN1VuSHIwVWtGOWs0aWlZeE9jR1jSAcYBQVVfeXFMTnFHVzNQRmQxbEUwZ3I3dXl6SldBY2s2dk81dGt1bTVZZnRUSzBVdEU5OVBiQzZuQnVtLVRkS3ZVS1JqZnNDMHZEZkJwVDYzT0puYnA4blFqaHBnc3FENi1Id192ZlUxYVU5UkoyZ2hNZkpBc3BLdGx1X1AwSFdocW1aY2ZsMUZhSnVrSXZ6MUVodndjRHRkMFJWeXJadTU3OEQyTk9aNU10bGxoYW5lTDFxX1l4bWFRWFNDU0xpTS1EU1R1djFB?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 21:24:06 GMT"
+      "title": "AGI Q3FY26 Results: Conference call set for November 12, 2026 - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSTloUmxxdVFBT2V6dlM4SmVkNkFMcURDZWFhMmw5U0Fqa2dmUFlwQ2xsSWRzU2VOTlBQSmN3RGRKN2wtZHl3Q2VkOTdVWFp6eDN5SE5qZ2UyNFlFLXVTNHNZY09PT3lrbXNBWE9TTlhlRDJBYW5RdldOX3dPUXNkdXk1WW4wZlo0cV96Um1BcGQ0Qy1EWWo4RlBheTZzTHBPNjY1ZU1JcU4yb1U0RGxLQ1NB?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 23:46:10 GMT"
     }
   ],
-  "fetchedAt": 1792101513
+  "fetchedAt": 1792109443
 }
