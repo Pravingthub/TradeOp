@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Jio\u2019s $3.2 billion IPO tests Ambani appeal with young Indians",
+      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/jios-3-2-billion-ipo-tests-ambani-appeal-with-young-indians/articleshow/135006812.cms",
+      "pubDate": "Sat, 17 Oct 2026 09:18:41 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms",
       "pubDate": "Sat, 17 Oct 2026 01:38:41 +0530"
@@ -23,12 +29,6 @@
       "title": "CoreWeave stock wipeout exposes divide between AI fear and greed",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/coreweave-stock-wipeout-exposes-divide-between-ai-fear-and-greed/articleshow/134998742.cms",
       "pubDate": "Fri, 16 Oct 2026 21:33:56 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Crompton Greaves Consumer Electricals Ltd Q2 Results: Profit surges 65% to Rs 124 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/crompton-greaves-q2-results-profit-surges-65-to-rs-124-crore/articleshow/134998426.cms",
-      "pubDate": "Fri, 16 Oct 2026 21:03:01 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,6 +62,12 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "Sunil Singhania makes a fresh entry in this defence stock",
+      "link": "https://www.livemint.com/market/stock-market-news/sunil-singhania-sunil-singhania-portfolio-guru-stock-super-investors-11792153559805.html",
+      "pubDate": "Sat, 17 Oct 2026 07:00:24 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Foreign Holdings of US Treasuries Rise From Almost One-Year Low",
       "link": "https://www.livemint.com/market/foreign-holdings-of-us-treasuries-rise-from-almost-one-year-low-11792184534641.html",
       "pubDate": "Sat, 17 Oct 2026 02:32:14 +0530"
@@ -85,10 +91,28 @@
       "pubDate": "Sat, 17 Oct 2026 01:08:31 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Arabica coffee touches one-month high as stocks remain critically low",
-      "link": "https://www.livemint.com/market/arabica-coffee-touches-one-month-high-as-stocks-remain-critically-low-11792178652490.html",
-      "pubDate": "Sat, 17 Oct 2026 00:54:12 +0530"
+      "src": "CNBC TV18",
+      "title": "IDBI Bank Stake Sale: Government cites 2018 court ruling to defend disinvestment",
+      "link": "https://www.cnbctv18.com/market/idbi-bank-stake-sale-share-price-government-cites-2018-court-ruling-to-defend-disinvestment-20014017.htm",
+      "pubDate": "Sat, 17 Oct 2026 09:33:04 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Q2 Results LIVE Updates: HDFC Bank NII may grow 10%; ICICI Bank core income seen 15% higher",
+      "link": "https://www.cnbctv18.com/market/q2-results-live-updates-hdfc-icici-axis-yes-bank-central-bank-idbi-india-cements-bajaj-health-share-price-liveblog-20014006.htm",
+      "pubDate": "Sat, 17 Oct 2026 09:26:13 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "AI Trade Crash: Not US, not India, but this stock market has become collateral damage",
+      "link": "https://www.cnbctv18.com/market/ai-trade-crash-this-stock-market-emerges-as-biggest-loser-and-it-is-not-india-or-us-20013999.htm",
+      "pubDate": "Sat, 17 Oct 2026 08:08:53 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Nasdaq sell-off extends; Semiconductor ETF posts worst week in 18 months while Cboe VIX jumps",
+      "link": "https://www.cnbctv18.com/market/nasdaq-snp-500-dow-jones-wall-street-fall-friday-ai-stocks-debt-oil-prices-semiconductor-etf-cboe-vix-weekly-loss-20013994.htm",
+      "pubDate": "Sat, 17 Oct 2026 07:16:29 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -97,59 +121,35 @@
       "pubDate": "Fri, 16 Oct 2026 21:17:56 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Tesla shares rise 4% after Elon Musk unveils redesigned Roadster with SpaceX thrusters",
-      "link": "https://www.cnbctv18.com/market/tesla-shares-rise-4pc-after-elon-musk-unveils-redesigned-roadster-with-spacex-thrusters-20013859.htm",
-      "pubDate": "Fri, 16 Oct 2026 20:36:10 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "SEBI clears Indian fitness firm Cult.fit\u2019s \u20b9950 crore fresh issue and three other IPOs",
-      "link": "https://www.cnbctv18.com/market/sebi-clears-indian-fitness-firm-cult-fits-rs-950-crore-fresh-issue-three-other-ipos-20013892.htm",
-      "pubDate": "Fri, 16 Oct 2026 20:24:04 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Power Grid declared successful bidder for Pune West transmission project on BOOT basis",
-      "link": "https://www.cnbctv18.com/business/companies/power-grid-declared-successful-bidder-for-pune-west-transmission-project-on-boot-basis-20013838.htm",
-      "pubDate": "Fri, 16 Oct 2026 20:12:26 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "FIIs return to buying Indian stocks with \u20b91,166 crore net inflows; DIIs sell \u20b93,661 crore",
-      "link": "https://www.cnbctv18.com/market/fiis-return-to-buying-indian-stocks-with-rs1166-crore-net-inflows-diis-sell-rs3661-crore-20013872.htm",
-      "pubDate": "Fri, 16 Oct 2026 20:07:10 +0530"
+      "src": "Google India News",
+      "title": "Here's Why We Think Rappid Valves (India) (NSE:RAPPID) Is Well Worth Watching - Simply Wall Street",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQelJETDNLc2kxR2ZmTC1DR3VwSEtlNWoyRWJVam5KMVMxakNRdGN6WDlxLUlOcC1fblJGdlFpbGJVMGYtMlFIZGJkS2ZObExub1ZMQ1c3aXdMdVdNMHZpQjhGMm1nTHhnanBLUnBqT0xKS2dzVVp6aGVpdlpvdXlxTy10NlZzUDJQeXlWRlJ2Q0lXeUZ1NG1kRnNUYVNhWl9XM3dZV1drLWdCdVpONEhwSmVWbU5pTzJaX0YwbVE5Ym5YUlRNTE04S1ZlM1dDSnJIV092QVJybWdYSE15enMzdl80VdIB6AFBVV95cUxNTzJ1YjNRRG9DMmM0THRlb29wejZoM3kzc2tfSTlyVVhTTW5SWUdhZm1HbHA4U2VqMFdtWlhVUFlKN1NxcldzbXV4MzlQUDVpMWdkZzRXY0g4TWVKb25EQVVidFpvcUFHaDNTbUxZUjQ5aF85SDRkdEFGdWh4bG5oZWJpTXA3R2Q0UnAxN2M1RTFYQTBmRjNFbnpFSVVzUWJ2Sm9oaVlEU2lYUEdtTXBaUXh2aFZlbS1rZjRBcXc2a0l3c1dMVC1Db0ZaUkVka0FHRkpiWUdGQk51OWNKQ25sX19zTDdxSHFk?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 03:11:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "The Bet Gabriel India Holders Made - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSkNGQ3h6Zjh1QVlLWkFITXFKV1NmOUs0YzI0NG9DbkZkRGtSNWVicTdiY3RWRWlLRGI1R1dlQW9DN2EzRnRwUEw0clBYY1BWU21ickh0V2xFN1R2OHJjdDRMbnZmQ3hic3Y2Q2drNWFqYUFGamlRU09RdVNzTWRSVGk0TkRnNlRob1ZpQ01CRmtvanh2QXNnbF9NQTlFSFZPdXRYZjh0SlR2T191Z016RlBoZGdwd9IBuwFBVV95cUxQQ0xybC02OW1jNmViTE0tbFdKVWJJYjJtWHlTbjNTUHNSbURpRFhvTV9aSWpTMm1hZHZ2ak5sV19GcE02MVVja3VWSTdQaDBlSm1XZlJyeXhlSzB6M3VYSHB2Ym1GT3JFX25kbEZIclhQUGRjSEc3R3hmYXF4WnNsRzdwaWM4RFc4YU1rZ0JKaTQ0TzNPd3N2SXgzeTlVdnhwMUZUdEpWdm53NXdoYkFzTnp6c05tbWozSTFN?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 23:55:06 GMT"
+      "title": "Market posts strongest weekly rally since April as IT stocks lead - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZll0RHE2dG5qX2NnMENWeHpJMERBcmVBVXJuY3Voc0JQdVJFWkU2Zm1YYm1NSDVjeUYwOWVBNlQxS2pGeVhwcEdhaDFnR2NkSDZHS0toN0QzUlZQN1RaYzB0ZG9qRjlBdG9GbHI3dDRGZmNwV09sc1RhcklnRjg2dlRQcUJjeXYtNU9ZT1lFMU5NbjdQTXhKc3JPREV3ZENTeGIwa0VHaENPMHNCcVlEUmtpUkY1cC1aRU44QkpqbDItMTM3a2dXS3pCRXVQcXVDMkNTbmd2bDHSAdgBQVVfeXFMT2ZZdERxNnRual9jZzBDVnh6STBEQXJlQVVybmN1aHNCUHVSRVpFNmZtWGJtTUg1Y3lGMDllQTZUMUtqRnlYcHBHYWgxZ0djZEg2R0tLaDdEM1JWUDdUWmMwdGRvakY5QXRvRmxyN3Q0RmZjcFdPbHNUYXJJZ0Y4NnZUUHFCY3l2LTVPWU9ZRTFOTW43UE14SnNyT0RFd2RDU3hiMGtFR2hDTzBzQnFZRFJraVJGNXAtWkVOOEJKamwyLTEzN2tnV0t6QkV1UHF1QzJDU25ndmwx?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 03:14:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "TransUnion president Steven Chaouki sells $70,000 of common stock By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa0dYN2RCbVR3NFV1VkhHSU1rTFlEQmRCM2N2UXUta2k2N19ITHE4bDZFeUV4RHRkT2wwWXprVEJ3T0xRMFZvOWtfUUtkcXNBT1FKSHUxZGFnSmtnc3kyOFdpXzVXWWNrSUtvYW1NWkdCY0gwS2hDYk04dXg5RTZqbk4yMmNmLU1BSGhqbTVheG5LSGFtMUlNaUNDdDVHa2VYMEl6NDB4SEtwZXNLSkxaQThkdXQ3MmxWSjRXN1FUZDJQdw?oc=5",
-      "pubDate": "Sat, 17 Oct 2026 00:04:37 GMT"
+      "title": "Jio\u2019s $3.2 billion IPO tests Ambani appeal with young Indians - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNW9ORU1tdUUzRm1PSW5MMU5DYmJOaGpDbEE3TzVTbDJPamhBWFRjUkg1cDJKTWhudDVmanp6V0s0MmVJaEdaLVdmZ2pBR0tfdUE1a3lPY0tYTHpDVDhRajZmeTNOUzRFTXhnQXh4MTNENE9FOERsaDVXUjFwOGVxeUlMdFNrQlA5NGhyUnJMaWplalVyQmJMT19ZdmJuTnM0aHVEdE5NNWpTb2dDS2xiaGRybkU2anBBR2lTRU4zamJXbEtzbzJvUl9HSdIB0AFBVV95cUxOek9Sa3hxVFJ5UWRzZ0ZBamdLNEdTaDFPenJac1NibWxmaW1YZ2wxUGtwWm00MU1qcktWaVBfUlR1V05CbWdBRndsOEg4MDN2Vmd6ajBfNXplTnprSXJld1hvaUpZenh4Q3N5eTBCQXh5X1pOeEdYcm9fM0JCMTVzR21XNVh0aEVWbzlycHNwVXJJNnRfWmhGekphZmNxalA0RFBKUUVoWG1hU2luSVFaQUJFOVNtcVhWcWp2UG83Qk02Q2pmRkNaa0l3aG5tdXc4?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 03:48:41 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Reliance Industries to Elon Musk: Competition welcome, but follow rules - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeUkwOGQyZ3hubk5vbU45STNGajJNeHFXc1FMc2hIREpuMGJDSnA0ZzVObUgtWG9OQkxXekV4N1R0MlU0WDlKTDVkY0FEbnF3OWstMzU5M1d3d1dBVWg0Qm1XOWtQRlpVVEFKUEJVRDZzamdVT1Y2Z2RRT2piYmhndWlJVU5zRk1BbC1FMUFsSHBScko0U0ZBVndYXzhQcFpENHhyN1Mtemo5Wk9EWTk1ZjZ4bFJ3SGNLVWJ2QWNMNDYtZ2ItLVI2Qk9FdmZmQ1Q3VWRSVEM5SmM2eXZRcGZkNkJxS2MyR0FybjY40gHwAUFVX3lxTE9LdlQxdUMtNlpzSmpaM19zRklPdFFWY2k5VS1kcEJNSTRJQzJkU2ZhYjl3UE5fN3ZKWjRlNTBGVEdnNnJjeWhXUlRIcjJWdVczam1sUmpZblJyd1hDZ3cxMlpTQjdDc3U0cmctcGVwYVphaFZ2NzNvTjJ2Y2w2ZVZKOFJwSDlMb21lU2c0TTR4SWk2d0JjN212Q2pxT01WQ3hiTkVUczhJMXJJbzFwU0o5akd1ZzE0SlFOMlBIdDlKU1NwVnFIeFRtQi10am1lZTRSTk16QS1MTjFSTFlMUUtaLW1vX1cwZFdyVXl0TUZSUA?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 23:21:00 GMT"
+      "title": "Closing Bell: Sensex Falls 1,045 Points, Nifty Hits 52-Week Low; Why Did Stock Market Crash Today? - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYUZVWUNxTHdxajZsZHFoRGpxM2VVdFFoaWs2MnBCODhVaUVHU3BVSW9NaW8ySVphM1VHUS05c3hCcXdrb2pLQVl6QUFzS21mTkVGQWFPYlQ4TmxDaWM2WGhJdFY2cHN6SzF1VWxhaWV4NUk2ZThuNWZySWFPaF9oYk5MeFZWdG5kT25reGFpY1RDVkxfMllaQjdCY1paT3FyR1h0ZlJjSk9NTlRTUTk0UHNrMzlNbllRdXRseHNjcTlnUk1vTHhtaC1ELUtNV0s5VFBCSVhSUW1pUQ?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 03:12:27 GMT"
     },
     {
       "src": "Google India News",
-      "title": "E2E Networks pays \u20b910,000 fine to exchanges for compliance delay - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmtYR3dlcWdXU1lkZlc2XzJzQUU2N3IwWEZEejd1c3c2Y1dEU2M5Y3hOZWh3aHF0ZUpGY2tvU1lYVEZXbFNRUkl6ampycXh3Y1JZRmh3eDkzTUtqTnhWRnF4VlhZU1FycDdXaVNvWGMxT3ppM2lmVUZiSnYzSGk3QWRLZUdLcnlPYXdZTDZPSVkxOHZLLTFvbXZMR0lsQmNTcXpSWVFmWHc3eTVSNXVsM1ZQbw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 23:16:42 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "\u2018For global trade\u2019s sake, hope our US deal is inked soon\u2019: FM Nirmala Sitharaman - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWkFuU2VONjlmYlF3RGYxNGgzOFRiSE9NV1pQWFU3OG1QVHo2eUY2d3NMNWF4bEtJQ3Eyai1lOUM1bUFoUmRVT1pKcmNiNUlrZDlYV0FxR0tUZU0xbXdXMHprdXJaWlJCRmg5X3FKWXVoeWhWcWV0R1BNVF83RFFpTk9MR1JVSGp6V3ZIQjV5VUlkd2xhNmE0Y2tIcDRKay1kMHJFRlZmQnd4MVo2VUJOZHpRRnY2dUk0YTZXWHhjczhFbUJfRXFwTXlUV0VRSkt0azRmazRMdjRESUtZM1NscE9ESnpzODZGUnp5WtIB8gFBVV95cUxObmpHUnRxZEFXdnp6NzVaTTlHTkF4LUNCZEZGQjdBTm82ejN1STJSZHdRWUI3S0VTTWhpcHRyamNnbDJWWFgtZlRic2tjVjdadU5JNUFmM2tPLVAzeXBoQ3VIOHl2NnV6bmRkek9BaWxjajRZSjFLYThRMXp0eXF3UElPc2J6bUhFc0ZuRF9TVW9TX2x2YThHYnhkY2tENTVpWWlFMHVWOG0yX0tWUXJUVXdPV25pek5MTkJJYTBhd0wtekNVX1B5SGZwWXhNUFBHcDV6ZWJCUkdIQVFzTUxPTUl1bkxtdTNyZGFra05uRnhodw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 23:30:00 GMT"
+      "title": "IIFL Capital hits $52.6M first close on maiden late-stage PE fund - Dealroom",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXhDS08tU2JRbmNhVkE3TXdtTTY1SXdjYlpDQWFwbFd3dFJBTjFXUUUwT1dsZmZMUXNIREhIb0loQUJRTVBDUG1JaW9uWFVvc0E0OEdBaWw2b3J2RV9fQVMwQWEwcVFxU0lvVEMwaUJ2b1BHMW16TGdNS1loUnJtYXQ4OWFxWTJVUm1JUUZVMFRaZHhPLXNBVkJ2QUQwVG8?oc=5",
+      "pubDate": "Sat, 17 Oct 2026 03:15:54 GMT"
     }
   ],
-  "fetchedAt": 1792195888
+  "fetchedAt": 1792209977
 }
