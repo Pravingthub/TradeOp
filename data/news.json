@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "Bond yield rises to 7.44% on higher oil prices, global cues",
+      "link": "https://economictimes.indiatimes.com/markets/bonds/bond-yield-rises-to-7-44-on-higher-oil-prices-global-cues/articleshow/135103005.cms",
+      "pubDate": "Thu, 22 Oct 2026 05:45:37 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Jefferies sees valuation upside in select IT stocks despite muted growth forecast",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-sees-valuation-upside-in-select-it-stocks-despite-muted-growth-forecast/articleshow/135103176.cms",
+      "pubDate": "Thu, 22 Oct 2026 05:44:24 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Rupee soars to 6-week high on Jio IPO flows, weaker dollar",
+      "link": "https://economictimes.indiatimes.com/markets/forex/rupee-soars-to-6-week-high-on-jio-ipo-flows-weaker-dollar/articleshow/135103368.cms",
+      "pubDate": "Thu, 22 Oct 2026 05:42:27 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US stocks today: Nasdaq leads Wall Street higher as SpaceX, Super Micro lift AI sentiment",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-leads-wall-street-higher-as-spacex-super-micro-lift-ai-sentiment/articleshow/135100483.cms",
       "pubDate": "Thu, 22 Oct 2026 01:45:59 +0530"
@@ -11,24 +29,6 @@
       "title": "Meta raises AI spending forecast to $145 billion, plans new share issue; Q3 revenue beats estimates",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/meta-raises-ai-spending-forecast-to-145-billion-plans-new-share-issue-q3-revenue-beats-estimates/articleshow/135100437.cms",
       "pubDate": "Thu, 22 Oct 2026 01:42:20 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "BlackRock expands AI push with new robotics ETF as investor enthusiasm cools",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/blackrock-expands-ai-push-with-new-robotics-etf-as-investor-enthusiasm-cools/articleshow/135099678.cms",
-      "pubDate": "Thu, 22 Oct 2026 00:56:44 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "US Treasury yields slip as AI concerns boost safe haven demand ahead of 20 year auction",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-slip-as-ai-concern-boost-safe-haven-demand-ahead-of-20-year-auction/articleshow/135097932.cms",
-      "pubDate": "Wed, 21 Oct 2026 23:19:52 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Persistent Systems launches Rs 4,265-cr QIP; floor price set at Rs 5,550/share",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/persistent-systems-launches-rs-4265-cr-qip-floor-price-set-at-rs-5550/share/articleshow/135097602.cms",
-      "pubDate": "Wed, 21 Oct 2026 23:01:22 +0530"
     },
     {
       "src": "Business Standard",
@@ -62,33 +62,51 @@
     },
     {
       "src": "LiveMint Markets",
+      "title": "China Stock Rescue May Need More State Buying to Work, Bloomberg Intelligence Says",
+      "link": "https://www.livemint.com/market/china-stock-rescue-may-need-more-state-buying-to-work-bloomberg-intelligence-says-11792629550065.html",
+      "pubDate": "Thu, 22 Oct 2026 06:09:09 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Stock recommendations for 22 October from MarketSmith India",
+      "link": "https://www.livemint.com/market/stock-market-news/stock-recommendations-for-22-october-from-marketsmith-india-11792584307573.html",
+      "pubDate": "Thu, 22 Oct 2026 06:00:53 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Tech Mahindra bonus issue: A sweet deal or market trap",
+      "link": "https://www.livemint.com/market/stock-market-news/tech-mahindra-bonus-issue-a-sweet-deal-or-market-trap-11792582032984.html",
+      "pubDate": "Thu, 22 Oct 2026 06:00:50 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Gold Edges Lower as Traders Weigh Middle East Signals, Fed Rate Path",
+      "link": "https://www.livemint.com/market/gold-edges-lower-as-traders-weigh-middle-east-signals-fed-rate-path-11792628633738.html",
+      "pubDate": "Thu, 22 Oct 2026 05:53:53 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
       "title": "Gold Swings as Traders Assess Fed Rate Path Amid Mideast Worries",
       "link": "https://www.livemint.com/market/gold-swings-as-traders-assess-fed-rate-path-amid-mideast-worries-11792615559253.html",
       "pubDate": "Thu, 22 Oct 2026 02:15:58 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains",
-      "link": "https://www.livemint.com/market/treasuries-slide-after-middle-east-strife-report-spurs-oil-gains-11792613769755.html",
-      "pubDate": "Thu, 22 Oct 2026 01:46:09 +0530"
+      "src": "CNBC TV18",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty aims to protect 22,800 on Sensex expiry; Oil remains at $110",
+      "link": "https://www.cnbctv18.com/market/stock-market-live-updates-nifty-50-sensex-expiry-today-jio-oil-eternal-q2-emudhra-ril-yields-psu-banks-midcaps-share-price-liveblog-20016505.htm",
+      "pubDate": "Thu, 22 Oct 2026 06:05:07 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Dollar dips as traders wait on Fed; Aussie gains",
-      "link": "https://www.livemint.com/market/dollar-dips-as-traders-wait-on-fed-aussie-gains-11792610330595.html",
-      "pubDate": "Thu, 22 Oct 2026 00:48:50 +0530"
+      "src": "CNBC TV18",
+      "title": "Tesla shares fall after Q3 results, Musk calls SpaceX merger 'quite a high hurdle'",
+      "link": "https://www.cnbctv18.com/market/tesla-q3-results-auto-revenue-guidance-spacex-merger-elon-musk-shareholder-approval-capex-cut-share-price-20016503.htm",
+      "pubDate": "Thu, 22 Oct 2026 05:24:41 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "US yields dip as AI risk weighed, but move off lows after auction",
-      "link": "https://www.livemint.com/market/us-yields-dip-as-ai-risk-weighed-but-move-off-lows-after-auction-11792609214457.html",
-      "pubDate": "Thu, 22 Oct 2026 00:30:14 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Tesla-SpaceX merger: Only a matter of when, not if \u2014 but how much should Tesla shareholders be paid?",
-      "link": "https://www.livemint.com/market/stock-market-news/teslaspacex-merger-only-a-matter-of-when-not-if-but-how-much-should-tesla-shareholders-be-paid-11792605042152.html",
-      "pubDate": "Thu, 22 Oct 2026 00:20:27 +0530"
+      "src": "CNBC TV18",
+      "title": "Dow Jones rallies another 360 points but futures under pressure after Tesla, Meta results",
+      "link": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-rally-futures-fall-tesla-meta-ibm-share-price-oil-earnings-wall-street-20016501.htm",
+      "pubDate": "Thu, 22 Oct 2026 05:01:52 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -103,53 +121,35 @@
       "pubDate": "Wed, 21 Oct 2026 23:34:29 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "SEAMEC bags $55 million vessel charter contract from promoter HAL Offshore",
-      "link": "https://www.cnbctv18.com/business/companies/seamec-signs-rs-519-4-crore-contract-with-hal-offshore-for-vessel-charter-20016451.htm",
-      "pubDate": "Wed, 21 Oct 2026 23:15:37 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Earnings Central: Growth meets margin pressure as Eternal, SRF, Indian Hotels report Q2 numbers",
-      "link": "https://www.cnbctv18.com/market/earnings-central-growth-meets-margin-pressure-as-eternal-srf-indian-hotels-report-q2-numbers-20016358.htm",
-      "pubDate": "Wed, 21 Oct 2026 20:19:48 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Persistent Systems launches \u20b94,265-crore QIP; sets floor price at \u20b95,550 per share",
-      "link": "https://www.cnbctv18.com/market/persistent-systems-launches-%25e2%2582%25b94265-crore-qip-sets-floor-price-at-%25e2%2582%25b95550-per-share-20016364.htm",
-      "pubDate": "Wed, 21 Oct 2026 20:15:36 +0530"
+      "src": "Google India News",
+      "title": "Stock Market Today: All You Need To Know Going Into Trade On Oct 22 - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTDFCbU5ZUVo0M1llU09OcDlqcENjR2lnSTJNSXd2MVFDcXNZWU92THV1WXA3eGtaMF9NdWE2aFBTUkoxYndiTTZjRmNsVTNpQTR4Z1owZXNOM3ZYdm55cGdJcGlENnVmUUNlNkNtY2pNQXNWMTN4dndwdTNjNmxmdGZfWkdxOFdsRVF6Sjl0NWNDQVVQcEF2QlcxUVVMUzJNQU9Rbi10VDkwMVd4WERZ0gG3AUFVX3lxTE5SaXg1WFRjTFAxWGFTSllLUFA2bG1KNW9ZcXlNQ0RBTVNFZHQxNTV1cWQ0TFFPbjB2MEczUWZnbEtYbGp2bWkwZHhxN1BKSkM4eER4RGFvMm5oSU1WeHQ4bTVOR2NyTUYwa0ZVd21ueldWaW1NS0hOTzZWOEN3TXJ0UWdLVVp3RHRvUmpZLXM0VGRMelpYb0ZrZXZOc2hhaWRWR29xOW0zSXZxbjZDdnlOYVhxREhqOA?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 00:30:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Goldman Sachs raises Meta stock price target to $860 on AI momentum - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVk1BU2JzZ0hOa2puSGZnNEctNjZRMnBFczZMYU9Id2ZxajBmaHh3M1Z6MThsbjlVb3EyaUxZQm9NVGdiMnFUUGpraUR6a18xV0dTOW5Bb1ZVbWZRRzFxU1B5bTQxemp1TFoxWkdaR2g1UWx0ZjB1VTBkZ3dtT3lTYmhqNkZuRkdHRUdSakZWVklrUUk3Ujg3V0pfUFhYX1pEVEJsWktPN09TNTEwaEstNjhNejFkdnZpNElPZW80QkVhTVJqMFE?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 21:34:58 GMT"
+      "title": "Bajaj Finance Q2 FY27 Results | UltraTech Cement Q2 FY27 Results | Top Buzzing Stocks Today - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQOHFZbk5BS3RZXzg3dzA3OXk3WEZQU3lxMldlQXNfcVpPSGFnTXVaaHdBZmVMYjdsVWRXOUY4YVZ4SEwzbXp2WFpqcXliaWdEYnpHV0RHNjR5YTIzS1A2alFhY0dOY0x1Z0M0bVRON1c0RElVZUtta0JNT0pXM0o1MS1wWFFnRGFsajRxVEdqSlN2RUk5a3ZKM3U3TGdxcG1rVGxUdlRyb0doMks3QzQ2c1hVMHNsV3lpZmtQM2VoZ2h1WlZuaUlXY1RvdWhUcnJZNG9SazFHeTkyaWpXVEw0aG5DVGFjY01vc3JnblIxb21hbmVyU3BoaFdyMXRnemRWZnRob3p2UkdETEljVU9HR3ZvQ3hGa0IyczhnMmswRFI3amVhWElGRDFjSzRHTVBMZU9STFN2VlNINnNJY00yT0dLQUE1ZkJr?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 00:30:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Tesla\u2019s third-quarter earnings beat Wall Street estimates - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPS0k5OWZucldwV1JPXzhjcTdfWlR5YkFpa0hiX2xnTWpsa3ZmTjdnNEFFTTRyWlRxRkJleFJvQjkzdV9YeUVLaTZEb0RYaHdtbFFLeUNiYTE0Y2tBaU5WRkVuank0VzRRTUxBc216dU1KN3FtLXMwOEhELV9XQUpaMllRWVNQRzlRV3hBdlBMYktRcVlvQjNucEpYdEE0cDJpNEllUk9UVlJqNUVsVmViQmpqaU9YemxQaDJTclZGNW5WeTQ1UHA40gHHAUFVX3lxTE9LSTk5Zm5yV3BXUk9fOGNxN19aVHliQWlrSGJfbGdNamxrdmZON2c0QUVNNHJaVHFGQmV4Um9COTN1X1h5RUtpNkRvRFhod21sUUt5Q2JhMTRja0FpTlZGRW5qeTRXNFFNTEFzbXp1TUo3cW0tczA4SEQtX1dBSloyWVFZU1BHOVFXeEF2UExiS1FxWW9CM25wSlh0QTRwMmk0SWVST1RWUmo1RWxWZWJCamppT1h6bFBoMlNyVkY1blZ5NDVQcDg?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 21:14:36 GMT"
+      "title": "Stock recommendations for 22 October from MarketSmith India - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkpHemhLTmoyYnhMMmlKRC0ta3EzdkUwR3Y5Y1Q0dy1vN2c1SVhUM1dCT1FzcTAteVZocmd2UUFvOF8wMHJXOHR1Q3lvUGhid05yRFRZZUxOb1JfXzBqR2dFb1BlRGhMOTNYUU9Ma1ZYVjJKak1SZXQwRjhXOUMwSk9PeEpnZTFGN3o0aFoyT0xSTXZYajF3ZGRxU19MVUNfb1ZLeXpHX3dMcnNDMlJDb0VyMGM0RjNDb1BNSFhGWXhIM1A0bkVvaNIBzgFBVV95cUxPYUFHRHhFbVFsYjJWWTRyZndLZ0h5RTEyMEpBcGMtaFplLVRUWXQwY0pCeDEwbDFMcmZXQmZITEE2eXVPZnhXb0QweW95SkFjT0oxR0RCMGQwTnkwZkdZWDROXzFoOEFZYnI5cFZJVi1jdER4NDFjRXJIYldKUDdRZW1wSV96TE9EakFHcDU1LV9UM0c2ZXVFQVV5OW4zZHp3bFNUcHZ3NEJCS3ZKek0xam9zM3l2ZDlTWC1RMmRQcGRkd1B5Qk1PYV9aOTE2UQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 00:30:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SWEET DEAL: FAIRFAX BUYS IDBI CHEAP, DUMPS ITS OWN FIRMS IN AT FULL PRICE - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRl9falJjdE5KSHJESmEwM1RIQS1PSVY3UjFQRFExUVV6dUxSNGp5Uk5PZV9UQ0tiM1FaT181Q3BzTGVGZHg4YkZobVFOYjlDREdjZG03VHVFcWhadUhNSUpFRE10bHJKcGxLMjhWY0FWMzJRWUQ3RWFtVzBKcDhLa0Y4NlFnbzJZN0N3Sk0zUk8zZzhLcDd5Zm9zYTQtQ2xGZmh0bWNtaXMtdlRoV01iRy1BSU9CZw?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 21:42:08 GMT"
+      "title": "18,896,867 Equity Shares of National Stock Exchange of India Limited are subject to a Lock-Up Agreement Ending on 22-OCT-2026. - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPRXIwR1lORWhtc195dUNIazY1WjA0S1c4dEc3bnNfTEY1VlZGVmM5Vm1JVkVOLVNkVXFnNWtqT292bXNCeWFFSjNybl9mbkxoWi01QzJwZGdxTlhZUl8wMUU4djNSd3I3eVdaYVAtRHpnYXBDYlBuSEpadS1HQVRmUDZQdGp6T2dRY3d5VTM4ei1tR2wyNnBwTWZZT2pTbVh2aWxZb3pmMWhCYVNLSjA1RnpQbVZZaHF3V0tFaWJNaVZMX0VZeGU2TUYzYlp1b1lEeFM0bEhETGt4M25FbmJNV29vbUZ1TmE4?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 00:22:23 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Stock Market Today, Oct. 21: Netflix Cuts Ad Revenue Guidance, Stock Slides 5% - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPOG1pbHMyY01zbmFSSjdDOU1wRGt3LVE4Y3dwaVJfTl9JUkNDZ0dXaHJRSEJNTFl0RTBvMVVJNUNHTWlod05LWm40NHVvR3VEdWR2MXNRdE1NMUdkOFVHWFdXc0pvVzV5ZkNlWDVXOEk0ZS1SVTUtRDFITXltR3lpbEprNXlHa3pUR1ktODlxYkdCZEgwakxQeldNcXdfMVVrYldFemE5Rkt5UjVKd3pLUlhTekFJSDRFWElKMlFPUm9jNHZwUXhrRFpnNDBtbGlsOUpLYW4wUlVkUWtwNUpKVTF4SmJNNUhua3BETWtaRQ?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 21:16:31 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Shellz India IPO GMP Today with Listing Gain Expectation - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mSXJtSTF2N1JlNl9lZ3FxaGNCbDliZ2dDZjRBa0FLcjl2RWl6THQyNTlCX0hEWmFSdG9vMVhQRi1rMTBlODczd1EyWi1mTUU0X2pFR3VDZWd5c2dFa3JaX19LM1lkVXpIak1HTTBR?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 21:15:35 GMT"
+      "title": "Jefferies sees valuation upside in select IT stocks despite muted growth forecast - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPTzlGcXk3dTFXWTRSb3BtT21EY0g4SnR4V3NrNGxnM1lRdHRyOHphVXVWUW5ONUNGU0pCYnlRN24zcVItX1k1UUt3QlhkbWJZYmQ3cWdVU0YydjVJeWdUaXVOSk9IUGwwRkRUOGc1YXRXU0RJcEMtLU1UdEt1cUtvclBLNlUzYWs5aXc0TGplNU1XTVViRkZYQnA1YlN5SmctUmRtUnZpNGFfekpMZjd6N1dzWk1rOV8xTnN6c3Nnbjc5anRiRW5jbHp5akNDMXNhTmRXWFJoOXNQTHExcUdHRm92YTdUZXhkbHlN0gHwAUFVX3lxTE1RY2x0cXowRnNfMUd3dFdESXVCZER2RGlxSDNjQUliN0dST3lSdFJfd09uVWJqUFJrZGY4TjJzaWV3SWFFREZaOUFQaUJ6dDIzaC1WbWlHcFp1amtQQ01NMWxFbTRWb3VzbllYQV81LXdMVTFGbG9abG4zYWpWajFmRUNFWmRyNGppRDBhWWpPeFhUbV9WTFBHejl5dWlFZjVOdHI1ZDlXOF9VSG8yOTU2N1JNbXZkR0plSUcxWUVjRjNKUk9vQV83QW83eUd3U1RKSFYxRVlKTGpqNlhxdG9xU09oM19uaDRlaEJHRllYTQ?oc=5",
+      "pubDate": "Thu, 22 Oct 2026 00:14:24 GMT"
     }
   ],
-  "fetchedAt": 1792620539
+  "fetchedAt": 1792630170
 }
