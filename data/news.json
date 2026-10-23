@@ -2,6 +2,24 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
+      "pubDate": "Sat, 24 Oct 2026 01:53:03 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Tata Motors CV posts Rs 2,138 crore Q2 profit",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/tata-motors-cv-posts-rs-2138-crore-q2-profit/articleshow/135154453.cms",
+      "pubDate": "Sat, 24 Oct 2026 00:38:33 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "US data centre spending seen more than doubling to $2.1 trillion by 2028, estimates BoFA",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/data-centre-spending-seen-more-than-doubling-to-2-1-trillion-by-2028/articleshow/135153616.cms",
+      "pubDate": "Sat, 24 Oct 2026 00:00:36 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Treasury yields rise but 10-year stays below 5% as AI jitters persist",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-treasury-yields-rise-but-10-year-stays-below-5-as-ai-jitters-persist/articleshow/135151795.cms",
       "pubDate": "Fri, 23 Oct 2026 22:54:04 +0530"
@@ -13,22 +31,22 @@
       "pubDate": "Fri, 23 Oct 2026 22:20:32 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Shriram Finance Q2 profit jumps 59% YoY to Rs 3,677 crore on  strong interest income, lower funding costs",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shriram-finance-q2-profit-jumps-59-yoy-to-rs-3677-crore-on-strong-interest-income-lower-funding-costs/articleshow/135150195.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:35:28 +0530"
+      "src": "Business Standard",
+      "title": "Sebi mulls automatic approval for investments, activities by exchanges",
+      "link": "https://www.business-standard.com/markets/news/sebi-mulls-automatic-approval-for-investments-activities-by-exchanges-126102301079_1.html",
+      "pubDate": "Fri, 23 Oct 2026 23:45:57 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Shree Cement profit falls 15% YoY to Rs 263 crore on higher fuel costs",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/shree-cement-profit-falls-15-yoy-to-rs-263-crore-on-higher-fuel-costs/articleshow/135150160.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:33:04 +0530"
+      "src": "Business Standard",
+      "title": "Sebi orders Avadhut Sathe Trading Academy and its founder to refund \u20b9546 cr",
+      "link": "https://www.business-standard.com/markets/news/sebi-orders-avadhut-sathe-trading-academy-and-its-founder-to-refund-546-cr-126102301645_1.html",
+      "pubDate": "Fri, 23 Oct 2026 23:36:25 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Jana Small Finance Bank Q2 profit jumps 127%, raises FY27 growth outlook",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/jana-small-finance-bank-q2-profit-jumps-127-raises-fy27-growth-outlook/articleshow/135150094.cms",
-      "pubDate": "Fri, 23 Oct 2026 21:30:28 +0530"
+      "src": "Business Standard",
+      "title": "Sebi eases call-recording mandate for research analysts dealing with funds",
+      "link": "https://www.business-standard.com/markets/news/sebi-eases-call-recording-mandate-for-research-analysts-dealing-with-funds-126102301112_1.html",
+      "pubDate": "Fri, 23 Oct 2026 23:26:16 +0530"
     },
     {
       "src": "Business Standard",
@@ -43,22 +61,10 @@
       "pubDate": "Fri, 23 Oct 2026 22:49:00 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Stalled housing project, running EMIs: What are homebuyers' legal options?",
-      "link": "https://www.business-standard.com/markets/news/stalled-housing-project-running-emis-what-are-homebuyers-legal-options-126102301659_1.html",
-      "pubDate": "Fri, 23 Oct 2026 22:37:19 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Govt bonds log worst losing streak in 30 years as crude, US yields rise",
-      "link": "https://www.business-standard.com/economy/news/govt-bonds-log-worst-losing-streak-in-30-years-as-crude-us-yields-rise-126102301399_1.html",
-      "pubDate": "Fri, 23 Oct 2026 19:45:10 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "BlueStone Jewellery stock plunges 13% as firm swings back to losses in Q2",
-      "link": "https://www.business-standard.com/markets/news/bluestone-jewellery-stock-plunges-13-as-firm-swings-back-to-losses-in-q2-126102300774_1.html",
-      "pubDate": "Fri, 23 Oct 2026 15:04:47 +0530"
+      "src": "LiveMint Markets",
+      "title": "Mother of all IPOs! Jio Platforms shatters many existing records - Full list here",
+      "link": "https://www.livemint.com/market/stock-market-news/mother-of-all-ipos-jio-platforms-shatters-many-existing-records-full-list-here-11792775064634.html",
+      "pubDate": "Fri, 23 Oct 2026 23:48:05 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -83,12 +89,6 @@
       "title": "Jio Platforms IPO draws record 10 million applications amid strong investor demand",
       "link": "https://www.livemint.com/market/jio-platforms-ipo-draws-record-10-million-applications-amid-strong-investor-demand-11792763307947.html",
       "pubDate": "Fri, 23 Oct 2026 21:54:17 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Chennai Petroleum vs MRPL: Which PSU refinery stock wins on Q2 profit, revenue, dividends? Experts weigh in on outlook",
-      "link": "https://www.livemint.com/market/stock-market-news/chennai-petroleum-vs-mrpl-which-psu-refinery-stock-wins-on-q2-profit-revenue-dividends-experts-weigh-in-on-outlook-11792771887198.html",
-      "pubDate": "Fri, 23 Oct 2026 21:47:28 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Tumultuous week: Midcaps and smallcaps suffer worst losses in 20 months - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPUVQ0WlFMS2ZYSlNNZ0E5QXJDcTZXb2tXem50Ukhlc1RNZ2c2VldkZUJIZk9GRldFbHVrcWxYS0w5NUw3Y25pTXVnTnBtVDRZdG1mTkRSVVpDVmFzS0I1SGFqNFZibUtCci1UMUVqUDFveEY4SVdzdmh2blhHZy1wS0lfWDVPcU9rNVo4TUtGOHpwRGRpTW54QVFNN2JHTXlscGdGaEdKbHVheHZYa1kwUjZGcnhfWU5MU0NuTkpyMnByaUpvSncxTWpnY2JTcUs4LWpz0gHYAUFVX3lxTE9ReWNUVHJOZm1tX3ozWjRzZVdJV2VyWDZiNzFUUk9zSENvTS1LT2MzVF9MWFVXTHgwQ3I0d3J4Y3FhQm9uWnVTUk0tWHdvQ1dVQzJVU25Ud3pLZ3o5RDdrWTZ1YmJ2ZzVRNXZtQ3ZEMlNsczVhS01ockRJY09tRTd4dDNGSFNYeGI0ejZHT3VfanN0bWI1NlNXNDRoVnJGOF9lV0pfbGtqOHd0b3FMVGZtLVpLbGtVQTJHVWZzVW03cGFBbk5GZnJsSVlHaHRfckY3dWtXSlY0Nw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:19:00 GMT"
+      "title": "Amid volatile trades, sensex falls for 4th day - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2U4d080MEQyaGFMQWxrRkVGdm0zSUYyY3JPd210WmpQOHdCVEVpazRKTXE0cU1TTTlpcThyenFIM01TVHpyZ3VtSldBR3R2RlNzcFBQV04xWktQa3E5MnZ1RXhBbGI0UURjczZIN1FQem9meEN4eDFYZEpZZ0ZhblU1ZE5qMHMtM01QeXBLTVFvRmJWeDBDelI2a1c4Z1NZM3ZJaHc4TE9rY1lLMlQ2cEhUdjJGX1VIZldWc05oQUNudXJiZ1lWWWstVdIB0AFBVV95cUxNZG9SYWxnRE5MV2VuTDRFOUxJN3llbTVlTDlodldPRVotNWJ3cGxOcW8yT0p6YmxoeVlHU2NEeWpzN2NGVkpfbzI5NGdfVVRKdWN6Z0ZOZ0ZNbVZKN3F0NEVjT1FWR1pGR3loZnBwVWhseF9zZGtVYmZsSm9ybmo1OEhTb1J3Y2ozNW9CQUFpcGZWVFM4WGhHOVJxZk1mS2R6SWVNdWR2WlpYMGN5MlZYUURwek5OMUNVZXBBa3B1b01hbnRXbGcwOEpHQThiYThq?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 20:54:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Co-op society staffer duped of Rs 52.6L in share market scam - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPR0xTU1I3MS1kdlIwQnNJN0FTQ2hldHEwckY3cGZfeUJaU2hteko0TEFySlJOYm51QXppaTJNNTdraUpoLUpkY1ZLWldOaVZiWjdfdG5vbVBWVUJ2akZoVHBhOTZ6LWpXS1QxNy1zUjVRNzRHVUd3SkVfdkFEQy1RXzY0clhONjBJS19zelBUNFNrUjhodW1aMHp4alFtUVpFSXAtMlROYUh2VW5FQWlyazF3UkZjOTRUNGNkbGlCVy1sd0ZkbXMyeDRRT3Y4a0RoM1HSAdcBQVVfeXFMTV9JQWRBODFhck9EY1IzNzl4VVROMUFKZXYycEpTcjBrdWFZeXFIdXd6bmJwSm84Y1VFM3hZQm0zbFpMaHE2dE5aLW51dS03eFpZYzV5OXlqSDU1Z2tqSnJOWjd5M0NBaU4zanlfR1pwaFhMTVdMOE9BNEwwVkw3NDFQellBMVk4dEZmMUJWYzhiQVRwLUZ4UXpyaTdiVGkzMDNud1JBRVlydld0Wl8wNWFWWUtPZ1NxdTZJM0NNNWEtREtQMlJDdlJTN3lGU1Z0Y0JOVE1Qc1U?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:18:00 GMT"
+      "title": "UBS raises Lockheed Martin stock price target on growth outlook By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVzBHYWs1a2ZLX0N4Zjk2TDMxWmhXUzR1SmtQQmlraF9VV01VR2ZGNWVOZHZNa3p3bTdRa1V2SmJUektDQjJFVExkMGlTb2xraW1ZZVdDX1ZoRzNJQUxIQXNwb1V1OFNENzZmWDJlNXFJZ05UV3hnZWh3aDE2eW5FNEFnVHRWNTR3VDM4bmZQVzR4U0dqVjliS2tHQUthdkhBQThkYnAxcG5LTDdFUExfZzVuR0xhRF95RFZsbGVMT2Q1UQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 20:49:57 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Jio IPO: Firm set to join India\u2019s top 3 listed companies, Reliance Group to lead by market cap - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRklyeTIzMS1Sb2JvQzBveU14Sk5sWDlfTldiTGpmVXNvU0tEVjVXZmpueFJXM3A2VHMzbkZtMUhlcEZGNXBKM05Xb2lkdlI3VHE2eWZjaGpyTnY5cFRyQnhGUHNrempEZW9ZeWlnM3J3NDBDRnoxaE5tNU9VaXN3RThfOTM5TGVfeDd0YjJQTXRqYWUySHA1amVNTWl1MzFwaXlpZVcxQkZIOW1uMVYyLThLVGszYTVlUjQwLUlYbWw0NDJ6a2pBTVlCTDFaNmV5dG1yekRCZ2JVSDJNMmV0VE94Y1FlQ1hDcHV1dGpzeWrSAfYBQVVfeXFMTUdlVUlfQmVoNk9ra3Nmck9JaXlYVGdzOUx4cGQ1Q1lDTERWb01EN3Y5XzFMVHd2QmRZY1VfUndYUkt4dDU0UGlGUmd5UWc2bzhXWlpvQXR1ZWY2dkFZbDU2MmFoTG5lXzBCTjJTNjBKaWN1ajZBSEkxNU1FMmh0YmphSnkxZms3WjBGMFhwWGFEdFU4RGVZVlNZd240S1ZTRThxYVZJbDZvelRGcFJOLUhLSXJOb3VMS2Y2WGVmb2VFOUVnczF2OGdac1pyNTd3LVJac2k3V1BLQWhTaWJZVjJKeWdLMkRzaXEyemxTeDJuM0hRalR3?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:23:58 GMT"
+      "title": "What is changing behind dry bulk and tanker freight markets? - Hellenic Shipping News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjFzNkpNeXdmbVl2Vk9XTzNFbzRMelc3NU5BbVRIblFGekpIR3dyUGthbjJ2cE01TUZwa1RvbmF5SlFvWXV6R210bG9SUllCTDlLSzB1V3JmcUk5RjRYZUd6T3JYd2ZESEZJV0sxeEdITG5RQ0VhQXM1TG4zdVoxS3I2d3VBWDBaWWdldFBuc2hnMjB0OXF5MVRnU29Gdw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 21:02:31 GMT"
     },
     {
       "src": "Google India News",
-      "title": "IPO Subscription status comparison: Reliance Jio IPO vs Hyundai IPO vs NSE IPO - Who won the race? - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQVjc2RWdyUTRnR0xZQ003MVNmMHBxMlZ4NjFDSU1ycDFoaUtjbE5VcnFXemN1VHkzNnRrY09teG42U3FiUUdland3ZTR0dURxUHNXb213R3pNNkZsRWxHTUdSQU5NU3lOc3RCRERSSDRrTmhIQkREcjBjRXVfdVBhUDFveGNfVzRQVEtNN2RNWGFFYkVYOGV0QXFPTUoyeTFwejFGNElLTHBoTUdQeEx2NEZOT0xyRlUtdDIyNVU0X3d5Z3J2UWVKaFgwc2piVmdPSy1adFdtaEdreWhNVHp3MC1HM2otRjdQbmdKNkg4YzNELTRMZGtn0gH8AUFVX3lxTE5xeHJmemp5cjlQcWhaWENjcjR6T1Z6MlRfZ0tsZ2tPcDZxX0FuZEM1dW9Rc3VqMkpFQmFnTnlydDRjUGRSRDBGZ0ZQN2pEa05WQXZPUlA4OW04OFRjS2Nzb0JFVlBPZW05SHo1Yk9sN2tXV010NlZSMTJtcDFBcTVhZExxUHg3V183UF96VFFJeTk5U1VjbjFSeFVrYUtzV25ZUnlxcWdOUUFCeHJTcG11OWczWk1hVGoxdTNGdkdFMmMwRE5hVWlJcE5SS2ViTzAyTzBkSWNTbzlHOHNyMko1VGJEdGxLMHZ1U0dBMlZrSXJDUV9qWWxHeWJFZA?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:19:23 GMT"
+      "title": "Record haul: Jio IPO collects Rs 7.5 lakh crore; nearly 1.3 crore investors make bids - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQXzFQNmRFUmZ2NzZsM1lGYjRwOU5aeXVxMWVWTVB1NFhLSkJyMHFJakpxR1VIQTVqT0VJN0diaXhMcmYteXdtS0dreVFhUzVCNGpPOWxjbGhCRVZFT3lWcXplZ1FyRWdaS1NKOE1TV2NETkdlRXVmclQ5c0xCc0g0NlNiWENmanNMZ2tFcUVCbURRa2tLTWtvN2VxeFl4YTFlUGFJaGxXUmU0NnhqNi1GQ01uWVVhTTljVG1KeVQ0bUhURkp0dkdUZzd4ZDcwcHhNMTludllfVmVLOS1IRTB2MWJYVEpnM1ZFWDV6V3NuTmZuX21PRVhLX2ROUmVfd9IBgwJBVV95cUxNZkVmRDJmbklnenRWM2F3MVZ2Y0Uybk9FWDRRR1NCTko1a3hpd2FtYjVaTWR4Q1JESUxaSHFseGFzODlJQmYwdTViVVUwODB2S0R5QXBhWlhlcE50V0VqQUFQc05sMVdoNlkyenlkT0VEclk1cTJMMGRCOFVjMXkxZUZ3QjFSM2xyYzc4cUZKWjU0MHByVVBCQm54UFBvaUo5c0d3ZjZZRUcwRzdudzFUNnJDcUlnVUNqWG5xNEtNSmdRbXY1RDh2bDBlM2JCMjFCWWtvbE5GTmd3WVdNQTQ1TUhLQ2xGd0FjMjNNNHlLbEhHVVducW1vV2g2amdSR0lBQ0Y0?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 20:52:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Jio\u2019s $3.2Bn IPO closes with over $77Bn in bids, making it India\u2019s most subscribed IPO ever - The Tech Portal",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQd3RoS25kYWlZc0JIcGpiN1hjWmplNmlEVUloY3k4ZllwS3RGanBzWm50SWZYTWZSN3AwTURsOU9JbGZld3hpUHhnOFlJYXRISi1melJqSXFtWTVPbmtmRFNicFRqSHAyRGF6MUtIbGlsX3lRN1RvS0tILTNhNzc5TkZTUWtUZWtoNlp3QVlXRkZFVlZ6djhZRWRYTHlicGFBVUk1NUMxNHZmdW9WMkQ3dTVieDlXdlEwT0RuenBTSGNpZw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 17:14:55 GMT"
+      "title": "Buy financials, avoid healthcare stocks, says portfolio manager - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDOVVud295WlBnSm5QM3dvWVhsS1NhVnJObHg4a3M0VWtsWkFmM0N6ZUN5czFJTXd0Um1ZY0pxZUhHLTV1ZnlwbGVFbmw5MUZleEZLU1hhQk1UVThtbTBpU1d1MVpaRkNtWThHUndKLTAtSlZoUU5FdWxZQm1DZw?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 21:02:54 GMT"
     }
   ],
-  "fetchedAt": 1792778777
+  "fetchedAt": 1792790492
 }
