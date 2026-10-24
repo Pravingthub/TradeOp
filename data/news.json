@@ -2,6 +2,12 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "iPhone Duo internal display break: Are iPhone Duo displays too fragile? Users report alarming cracks near hinge",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/iphone-duo-internal-display-break-are-iphone-duo-displays-too-fragile-users-report-alarming-cracks-near-hinge/articleshow/135155585.cms",
+      "pubDate": "Sat, 24 Oct 2026 03:13:04 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "US Markets Today: Dow ends 600 pts lower as AI doubts persist ahead of Fed meet",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-markets-today-dow-ends-600-pts-lower-as-ai-doubts-persist-ahead-of-fed-meet/articleshow/135155408.cms",
       "pubDate": "Sat, 24 Oct 2026 01:53:03 +0530"
@@ -25,10 +31,10 @@
       "pubDate": "Fri, 23 Oct 2026 22:54:04 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "EAAA India Alternatives mops up Rs 360 crore from anchor investors; IPO opens on Oct 26",
-      "link": "https://economictimes.indiatimes.com/markets/ipos/fpos/eaaa-india-alternatives-mops-up-rs-360-crore-from-anchor-investors-ipo-opens-on-oct-26/articleshow/135150980.cms",
-      "pubDate": "Fri, 23 Oct 2026 22:20:32 +0530"
+      "src": "Business Standard",
+      "title": "WazirX shifts focus to recovery, AI after year of rebuilding: Shetty",
+      "link": "https://www.business-standard.com/companies/people/wazirx-shifts-focus-to-recovery-ai-after-year-of-rebuilding-shetty-126102301053_1.html",
+      "pubDate": "Fri, 23 Oct 2026 23:46:55 +0530"
     },
     {
       "src": "Business Standard",
@@ -53,12 +59,6 @@
       "title": "Jio Platforms IPO rides institutional demand to 22.19 times subscription",
       "link": "https://www.business-standard.com/markets/news/jio-platforms-ipo-rides-institutional-demand-to-22-19-times-subscription-126102301595_1.html",
       "pubDate": "Fri, 23 Oct 2026 22:55:57 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Tumultuous week: Midcaps and smallcaps suffer worst losses in 20 months",
-      "link": "https://www.business-standard.com/markets/news/tumultuous-week-midcaps-and-smallcaps-suffer-worst-losses-in-20-months-126102301443_1.html",
-      "pubDate": "Fri, 23 Oct 2026 22:49:00 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -122,34 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Amid volatile trades, sensex falls for 4th day - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2U4d080MEQyaGFMQWxrRkVGdm0zSUYyY3JPd210WmpQOHdCVEVpazRKTXE0cU1TTTlpcThyenFIM01TVHpyZ3VtSldBR3R2RlNzcFBQV04xWktQa3E5MnZ1RXhBbGI0UURjczZIN1FQem9meEN4eDFYZEpZZ0ZhblU1ZE5qMHMtM01QeXBLTVFvRmJWeDBDelI2a1c4Z1NZM3ZJaHc4TE9rY1lLMlQ2cEhUdjJGX1VIZldWc05oQUNudXJiZ1lWWWstVdIB0AFBVV95cUxNZG9SYWxnRE5MV2VuTDRFOUxJN3llbTVlTDlodldPRVotNWJ3cGxOcW8yT0p6YmxoeVlHU2NEeWpzN2NGVkpfbzI5NGdfVVRKdWN6Z0ZOZ0ZNbVZKN3F0NEVjT1FWR1pGR3loZnBwVWhseF9zZGtVYmZsSm9ybmo1OEhTb1J3Y2ozNW9CQUFpcGZWVFM4WGhHOVJxZk1mS2R6SWVNdWR2WlpYMGN5MlZYUURwek5OMUNVZXBBa3B1b01hbnRXbGcwOEpHQThiYThq?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 20:54:00 GMT"
+      "title": "Cathie Wood\u2019s ARK sells Alphabet stock, buys Freenome shares By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnZxSHNDRDhCa0IyakRHbHZLZUlaOV90eTNHQ0IwaXptY1ctSnFERkFBbnJRaVpoeWlBYVdEQ2JOV1NXXzg0ZXZKdGZGd2J3Zlk1NjZiODNRdTdUbHdJVzNsTjEyNzFCeVJqRDJ5a3RJOGJrM1pSazRkRjFwQy1HX1NUalg2SERIUHRjZDlxSUxSc0ZtNnMzaU1CQ2NvLWgtS3pSellKMkhuUGtDVWZXRXNPNDZaaksydnI4?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:10:12 GMT"
     },
     {
       "src": "Google India News",
-      "title": "What is changing behind dry bulk and tanker freight markets? - Hellenic Shipping News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjFzNkpNeXdmbVl2Vk9XTzNFbzRMelc3NU5BbVRIblFGekpIR3dyUGthbjJ2cE01TUZwa1RvbmF5SlFvWXV6R210bG9SUllCTDlLSzB1V3JmcUk5RjRYZUd6T3JYd2ZESEZJV0sxeEdITG5RQ0VhQXM1TG4zdVoxS3I2d3VBWDBaWWdldFBuc2hnMjB0OXF5MVRnU29Gdw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 21:02:31 GMT"
+      "title": "Paras Healthcare IPO Day 2: Subscribed 0.23x; Retail eases to 0.81x, QIB at 0.06x - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdE9FNEdmZnk0OFVrb1dmQTRWYnhtQWdCZzQ1VVhCbkItc2hhcnloRVlaTjJuaG1HMWVQX2U2bW1oNHAyWVRoU3FENXpTWkxrcFEta0tfOGQtNGhaOHlwSkdwSDJlMVp3bWxhay1aekM0RmxIMEFsTHQ3Z1RhN0JYbU1OazZRUE5ydUl0RzIxbUxQNDFjZk5sa2dHd0JOMEYyMXVvYjlLX1FOeVh6YTFkeVV6Nzl1dDAxOHBPMHJQb3VxLXF4SlZST2labTJKTXhCWVc2YQ?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 23:59:28 GMT"
     },
     {
       "src": "Google India News",
-      "title": "3 Indian Growth Stocks To Own In October 2026 - Simply Wall Street",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeGFhamptNFV3RzVvWFNuMHRrVXdWV09yTVA3RmJDanJRTWJaMWJZUlIyZERCQ2hkWmdtemtpZ1oyY2k0S0xURnVTeEN2Q2JjSmtnOUtseTVfRDRJM091WWJkRnhxcnNicmRGZVFXY2w2d29tU0NqYXMwWEdtUXBsbDd4c19wdkNQcWZTM1VGNlBnZFA0RHgxN0w5V29GSmxnaVh6b3h5WElVNENXM3hDTjhSWktWWVMxcWZoWVZ4Q25nOHVpVDZsWDRQMGN2Nmh6X3BsMUJjcmZnZ9IB2gFBVV95cUxNeGFhamptNFV3RzVvWFNuMHRrVXdWV09yTVA3RmJDanJRTWJaMWJZUlIyZERCQ2hkWmdtemtpZ1oyY2k0S0xURnVTeEN2Q2JjSmtnOUtseTVfRDRJM091WWJkRnhxcnNicmRGZVFXY2w2d29tU0NqYXMwWEdtUXBsbDd4c19wdkNQcWZTM1VGNlBnZFA0RHgxN0w5V29GSmxnaVh6b3h5WElVNENXM3hDTjhSWktWWVMxcWZoWVZ4Q25nOHVpVDZsWDRQMGN2Nmh6X3BsMUJjcmZnZw?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 20:54:17 GMT"
+      "title": "Stocks fall across the board but AI stocks stabilize - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85ejRMS2l2V1FFV215N2R2alNtNHhWc0MwZG5BTUJFTDVXOWU2TmZPamJrRjlaYl9hYjZ2ZXpVbXVEM3E4MkRUejNOdGtWOGlqeS1GSFRHM0pFTHZWS3Y1Y0JBY3VQWnM?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 23:33:39 GMT"
     },
     {
       "src": "Google India News",
-      "title": "'Ilhan Nur Said Elmi\u2026': Trump calls for Omar\u2019s resignation, revives controversial name allegation - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMThBckpySnVyazFsT1VKMHV4dl94TXJmUXdsQmNhYmQ5ZHNEOGVmVzF0SWxqcFhnMEYyem9NLW84Q3FiNlBMUERZLThUYVEydHJNRDJRRlNGUEZLTExuY0RIVEtMTk85ZXRiNjJwOVNnbWxVVjl1Nk5ISWdoRWtGaHJhWklEa0pyUzhkWVV3TlA0V2wyb0NGR0tuN3dlQ29qZjNQSmc3akNjYkNXSDAwUlBvNTROLTRud0VDOWtESE1Scl83YmUteUVVNUhlY3NRTWh4OHR4b18zT3cycUVXTlhUVmR4UGg2S2dj?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 21:45:01 GMT"
+      "title": "How should investors think about GTA VI pre-order performance? By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWctQnFVa3Q5NlZTUWNYNElWUVFuV04xbFJZVUpyai1oX0JXdzZ6RE5iQVhOc01RQzJPM1NBMF9jenpvbWFLWXBRRFNsRk9XMlBHUm82RVZyTFJxeFMtVzZqNVZ5SkhIb01OQnM3NGhSWWs4YWRRZ3BtdWtjVGZ5VWdSSWJLLS0tdjJXSFNBWGVuUGRFZ2IzRUEwc3pWRkwzSHFMVmUyNU01cHR2YWZydg?oc=5",
+      "pubDate": "Fri, 23 Oct 2026 23:37:59 GMT"
     },
     {
       "src": "Google India News",
-      "title": "German companies looking for business opportunities: Piyush Goyal - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMFQ0VW8ya1FKVzNXSlBoZGRJd3ZDNFAwd1hGcnJpNUMtb3RSV0FEUEpoUXBqTlRJblJFcnBPY0xiS0RRbVlaTWxNSlVpdDdSYlVmcEo4NkZKVC1lOVQ3c1hjTF8zanBEVVp5ZlJHeUNESk9QR0lRWFlKYWFXTzlMelNZLU9KMWFUaTVEV0xQbU9hcEtSMWg2aV9oNlMzOVpfT2s0azVOQ2hnV2tNdlJwbHFKWmJ0MVYtaEVRVXFOc2wzQy12Wk1pcWw1QzhJQ2drQlN2VUxBajV4aGZwRnVSMGhnVEXSAeoBQVVfeXFMTjAtRmZlLUlJcFhwMHJmRVUzMmdVNktGMnhIX2dyMjdMU3Q3cUF2N1gzQnRDZVdhdHVnM05yOGotbVFSYndudm5pZEs2RDA0emEwQ3puR0xDdGNoM29WOC12MnE0US1qUDN4ODhlN3pOWEdRY0FFS1ZybnVJSmtRWVkzZkgzZmN6TWZMYjlLSHhPeVdCeWQ4ZHMydFV5X19UYWNZZmNzMkRxSUpLT0NpTlZKbExGcjhnd0RTNlB6NXEzUGFPZ21ldm53TzZDTUNxMDdRaU9SYnJteUkydEZ1NHdIWFA2V3pTQTRR?oc=5",
-      "pubDate": "Fri, 23 Oct 2026 21:20:00 GMT"
+      "title": "L&T Tech stock: L&T Tech declares INR 20 dividend for L&T Tech stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPblhuVzR1bEwwRHVqd21ZX2ZyWVc0WGtTeWFTc0Vic3FZRWNUQ2VmNWNxUWIxbHF0ZEVXNDNQVWU2dm5neGk1X2VxQ1hNclctS0Y1cTRGcmltU1dBZHJpMWxoVVFZNFhPbkQwMDBSNUxPdHU4QnBxb2JlR3M0aE9fdVFyMTQwNTRHUGRBMGdwaVNUV2F0V0lmaGZKNHlzZzBJQklCZ21FLUVFcGZVTGNoWVhVbkdTVWYtUTFNYVQ5dmowLUZ5QUhQaVBZRjdTbjJWNnYzRQ?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 00:07:00 GMT"
     }
   ],
-  "fetchedAt": 1792792355
+  "fetchedAt": 1792801100
 }
