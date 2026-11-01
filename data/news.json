@@ -32,6 +32,12 @@
     },
     {
       "src": "Business Standard",
+      "title": "Gold, silver may extend losses as US vote, jobs data test sentiment",
+      "link": "https://www.business-standard.com/markets/news/gold-silver-may-extend-losses-as-us-vote-jobs-data-test-sentiment-126110100670_1.html",
+      "pubDate": "Sun, 01 Nov 2026 20:24:49 +0530"
+    },
+    {
+      "src": "Business Standard",
       "title": "India's 10-year bond yield may ease to 6.75-7% by March: SBI Research",
       "link": "https://www.business-standard.com/markets/news/india-s-10-year-bond-yield-may-ease-to-6-75-7-by-march-sbi-research-126110100657_1.html",
       "pubDate": "Sun, 01 Nov 2026 18:59:52 +0530"
@@ -46,7 +52,7 @@
       "src": "Business Standard",
       "title": "Geopolitical risks, crude oil and earnings to steer markets this week",
       "link": "https://www.business-standard.com/markets/news/geopolitical-risks-crude-oil-and-earnings-to-steer-markets-this-week-126110100474_1.html",
-      "pubDate": "Sun, 01 Nov 2026 16:56:15 +0530"
+      "pubDate": "Sun, 01 Nov 2026 16:56:12 +0530"
     },
     {
       "src": "Business Standard",
@@ -55,10 +61,16 @@
       "pubDate": "Sun, 01 Nov 2026 14:54:43 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Sebi working to delist companies with no economic activity: Chairman",
-      "link": "https://www.business-standard.com/markets/news/sebi-working-to-delist-companies-with-no-economic-activity-chairman-126110100260_1.html",
-      "pubDate": "Sun, 01 Nov 2026 13:22:17 +0530"
+      "src": "LiveMint Markets",
+      "title": "Crash! Gold price suffers worst October in years: Did silver and platinum suffer too? Check monthly performance",
+      "link": "https://www.livemint.com/market/commodities/crash-gold-price-suffers-worst-october-in-years-did-silver-and-platinum-suffer-too-check-monthly-performance-11793549898014.html",
+      "pubDate": "Sun, 01 Nov 2026 21:54:04 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "Emami vs Dabur FMCG shares Q2 results preview: Profit, revenue expectations; Dividend announcements in focus",
+      "link": "https://www.livemint.com/market/stock-market-news/emami-vs-dabur-fmcg-shares-q2-results-preview-profit-revenue-expectations-dividend-announcements-in-focus-11793546880029.html",
+      "pubDate": "Sun, 01 Nov 2026 21:00:41 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -79,16 +91,16 @@
       "pubDate": "Sun, 01 Nov 2026 17:41:57 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel",
-      "link": "https://www.livemint.com/market/stock-market-news/tax-twist-for-omc-stocks-indian-oil-bpcl-hpcl-shares-in-2-nov-focus-after-this-decision-by-govt-on-petrol-diesel-11793531837968.html",
-      "pubDate": "Sun, 01 Nov 2026 17:41:32 +0530"
+      "src": "CNBC TV18",
+      "title": "Power Grid Corporation of India Q2 Results: Net profit up 8%; approves \u20b93 interim dividend",
+      "link": "https://www.cnbctv18.com/market/stocks/power-grid-corporation-of-india-share-price-q2-results-net-profit-up-8-approves-rs-3-interim-dividend-20024384.htm",
+      "pubDate": "Sun, 1 Nov 2026 21:06:06 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "From Wall Street to D-Street: What history suggests for S&amp;P 500 returns, impact on India stock market, Sensex, Nifty",
-      "link": "https://www.livemint.com/market/stock-market-news/from-wall-street-to-d-street-what-history-suggests-for-s-p-500-returns-impact-on-india-stock-market-sensex-nifty-11793526487765.html",
-      "pubDate": "Sun, 01 Nov 2026 16:54:55 +0530"
+      "src": "CNBC TV18",
+      "title": "Hero MotoCorp October Sales: Dispatches up 16% to 7.34 lakh units; VIDA retail jumps 80%",
+      "link": "https://www.cnbctv18.com/market/stocks/hero-motocorp-share-price-october-sales-dispatches-up-16-to-7-34-lakh-units-vida-retail-jumps-80-20024368.htm",
+      "pubDate": "Sun, 1 Nov 2026 20:36:47 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Sun, 1 Nov 2026 18:26:51 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "Affle 3i to acquire Israel's Perion Network for $420 million in all-cash deal",
-      "link": "https://www.cnbctv18.com/market/stocks/affle-3i-share-price-to-acquire-israels-perion-network-for-420-million-in-all-cash-deal-20024339.htm",
-      "pubDate": "Sun, 1 Nov 2026 18:14:27 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Maruti Suzuki reports record monthly sales of 2.76 lakh units in October",
-      "link": "https://www.cnbctv18.com/auto/maruti-suzuki-share-price-october-auto-sales-domestic-exports-total-20024304.htm",
-      "pubDate": "Sun, 1 Nov 2026 16:16:05 +0530"
+      "src": "Google India News",
+      "title": "Jio Platforms Soar After India\u2019s Largest-Ever Initial Public Offering - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVZvSjFSblExVkxhUmRybmR6N19xb3BuWlRtRF9ISXBXT3ZMd2tQY2V0SUFiQnRXdURIcEJsVlZiNGszc01GRHVvaTZHTkZURE1lZEJ0cEE4SldwNlpnTzg5QldCQWlqYjlyRDNKalF4VV83dTZ1VkEwR3h4Y09nR1E5a2J6b2JPY1lTamRuZzl5OXdSdk1JUXVSblRWMlEtYlpaZGhBcVc1Q3RHOUZhbDliWFg?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 18:59:34 GMT"
     },
     {
       "src": "Google India News",
-      "title": "IPO Buzz: BLS Polymers, Four Other Companies To Get Listed On BSE. NSE This Week - Check Dates - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRm5aWXJiQjh6VFg2Wi00enhJQVBEMDRqSFlJRjNmU0FlWk1zZkcyOG5uZDdSNjZsdzhBajA3U2RnWnloZ2pGYXBqcEVIU3ZVdkxBMjM1R2E3bFA1Mks3dWZ1YTRRalR1RHNDckpjczgwMjFzdnFIWHo2QklaWTdvUnRxV3hteXlaMXpOZ0cxVWtOTGRkMk13OVNlQXBZam5oUTBqYUU1TTNIT3NfRXA5ci10d0lDLXRHSEJWTzlsRXVpYURUZi1pNHBDTGR3d9IB1gFBVV95cUxPZkdxZ0lodi05ZUZrd1g5ejBMNjFoN2VCYkpNRURfNWZSWFRGVU5jeHhDOWhHalFUUm5SR0pwM3daenhQRWVlMTE2SnQ5elRGaGNxQUptWTZGTVBzSXlHOHMtb1kxMW4yN3lBYjlYM3ZDTWhfT3p0RjhKLXM0OGhjWlhiaE1nVDFvWHh5REtKVDVubWZDMnEtTjFIS2FCLURnay1hZFFSLVR0LWdCNFBKSDF3c2J6WFE4TVU4WDV3aXJGMTZMM2U3SUQ1c1VCMEdsZzVQWGdn?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 14:03:09 GMT"
+      "title": "EPFO pumps 17,000 crore into equities in Q1, exposure at 11.2% in June-end - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZGREa1pKanl6aURYNGR3aE83SEdkMllyY0p4elNCSHBGVHU0N1hZN1djTEc3ME1QYl8tQ205VHBaM09sWnlrQ0R2bm92VHJkNVZJdU44eUdBUEIyTGZwOGpCYXNwOGVRZWlVRlA2ZnFvRG1tUzI0Z0JJdE81TmhsYzZtSElwWFpLTG81eXlSaFZjcTYtVjlJMVVXS0tFNWpsdDBiZDN4X2ZhcDBBTWpJTWlmYnhZWW9HMVRFOEI4MlNJZXNmSU1DWHRaQ1NNaklDX1A5ZXZNOVZndlliaEZWcmFTcFhieFBjelJuSGtB0gHzAUFVX3lxTFB2dnlmaWM4UTh3ZjU0dnJwZWlTZEQwM0k0Qlc5b2dCWjV0ZDRuc1ZrY1BuNkkzOG9GblpmNFJYdl9rLTJzOGUtb1d5cDdRc2xqY05lX1VJcW1GeXBkdlEweDNial9KVzcyTFA4cm5iNGxKRW8zWUpzeFlPdEtTaGhvYndJRGhDbndlVDJIT1lEZFBraE40SkdLckktU2ZpUjlLSm9xV216ZzJNZFZsMk5YUDV1WFNLZjU2b2VKcVhLdlJSM1RqRUdFWkZxWlBTc054SWxTNW4wMEc0U3FVZU9fV29wZThHYnpqTkRkanNWa0hPcw?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 19:09:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "FPIs pull out \u20b934,843 crore from Indian equities in October, but turn net buyers end of the month - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON2ExNXNsTzhaalQ5S1lJVy1qQVN2RS1SSDA0Z2hrV2ctZDlqVENlNEtQZUhRT1JxaEtycUE5WUhRRXV4MU9kaHhKUUJQVkx6UUYzOVN5MUJTOC10U1NNVmNER1JQdmNGSHh3d2o2enc5XzdxSXpURlhpemNUV0VwZ0N0M2EyMXJIR1AwckNWVXZ6VkVxVFlmTEtuNjBUai1ERjU2Y21HVVQzS19mT0FfUjY3a2VMVThucUNUcTNWc1ZRcGprRlJqM3U4dy1zS2ZndFVva2dMYWFYSWtncGxMblpJWFRxNlUyMnV3TNIB8wFBVV95cUxNUVVpaEFNbEFyM0dpa2Ztb3A2OWZMU1hObE1wY3VZVzF4QTczeEE4c1l4QkFXc3B4UUE1MExPbG00NkJid2haaUVDOEg4QWdXVTZnYlBIMGFtbXFRcVViR3pYNWlIVV9YdUFaUFljWHlPM1JGREpoNkJrX1BDd0l6TXpWRnVhdGNSTGJoUzN3YlhnYkJxNUxkOGJlMHhTRDRZTEo0LXRXNXVpd3NmSlNQNlpQTXIyV1dlaFdEVjhlR05IQmF0eGxRMzF6UEpJeTk2MXRoSVlqVWJxLXRNZ210VUlwVURhWk1pYWlidWdWbmFFSU0?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 14:17:58 GMT"
+      "title": "Banks are safe; AI bubble is the risk for global markets: Julius Baer CEO Stefan Bollinger - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTTBRbm1TZkphdTRhbWgxQnA1SFdxdVUtRkdSeFRUbU00c09UblJfVThFUTc0cFFjZE91ZkhEVWo1Vzl6WkhUb1FlNkluUDJSc1VYTWdDeFFPOFMxQnVYQlVubnlNTWVEdUltRFhudmp6eC16MWkyUDNDMHYyTW01YTBQc3d2RkRVWmp6cHZndHl2SUFkX0Y4OUVUaXdnVXlWQlRWcEUxenRsb2szTTVuU2FyTWRLNUd4aHVrOE9ZVnhDLXMweHFZVVNjZXNzZzA1alZWTXpKb2dERnJ1alNQUHhPeEszNl9YbFlyYdIB8gFBVV95cUxOQUhoZjY3RjVYTTJhaE1leDU4T2MxTGJBcHNFX00tckJQdlB5UTk1Rmgwak9Ya2NnQTVPSXI3SkxpcVJOM2QwMTV6dkxqUDJtMTd5Q3dmdml0QnpxczZWc2dTNThKZ29jREQwRDdvUmVaSThEY0JodVVLancyRDNNTEJEZUxQVW1DSmpwaXAzcUJkTTdIbnZuaGdJMlRLVmU1WjBrYkQwTVowRlZicUVybEJTRFRVdUltS0ZkTW9ZNExoUklTdWhMRXdHVXA0MFdFYWFKMXh2c2RKNUpLMGI2VVFoZ2MySW5BRHo5bnd1WTFsdw?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 18:32:01 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVc1Wm5pRHZKQ2RzSTRkMnZoSmMzQ3BBQlBubHRuOFJ0ekxENlVlZFoyMGEzNGZRMjEyMDdQYTI1bTFrTTBCNm1POEd3dXVMdDM3RTh3MnhfbmQ5bTlQeTVHajlLTElzcl9XTjdaYlVlSjdlQm1yQ2QwSzVyQ3Qyc09qR21jQWZpc3J0N2xsbExoaUEzVkJza0lR?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 14:15:00 GMT"
+      "title": "LICHF bets on diversification to drive growth - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaVJOSWVLWlZUWExEWENjdkRmRE1ma0JhTjlqWk5EaHdKaFlzdUVfeWxrZmNIUUtwRUNBTFUwOVNzZFJqdkhra0NQR1d1UnNtb1EyLVYxYTNfczhXRFl4ekJFMm9IT3h5Q2VlMENLYlhxNm1HRmVuVnhkem9JMlZBUTN2NkhHOEhiTGxGdTZPZ2ZJeG54OEZqSENKS0FfajROSy1GZXp3eXFQRUNoNWtpMVBCMnZ4WkRYOUcweTlhU2VweUZLd1dRWktlc9IB0AFBVV95cUxNYTZmTHdFRUlOdEtCemZyaXVJejJERkxWekllZWtaVFRMajEwQ1FVQjdiV0VIY3d4WU5nb3hrTEJWWk9SdTlsS0FhWmlibmQ3UmxxM3VuUWtlZ3lIYUM3ODZzLTJtaUV4TmIxLUhnMWNRQzFUVmZxTmhMY0J4NUV1NXZ6RHE3Wm8tZk5Ec0Z5cUtjbF9odUtubF9BcXo5ZGhEWGlpMjBoYzg5N0tjSG1wVjlEbVlCQ3hNUTNGMFZORzR5dzBaNkpvMGROTnp6WXVl?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 19:05:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Tax twist for OMC stocks: Indian Oil, BPCL, HPCL shares in 2 Nov focus after this decision by Govt on petrol, diesel - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNXhMMTRWZ1FnRlB5Xy04SUcwRnhoM1V3QjRHZ2gtMTdTdkc5UWtjS1VkeGp2STNVRkRCN1dhM19yTjFIZ3NlV0pVQVJXTjhhV3FGTWg4YUk5SFJLNlI5cEdyTEpZNFdYU0JpY0xpWm5QSGRXSS02R1labnUyWHFzbWRqZjFCYU9PaE9PVy1WYzlab2tUU3g0cGVERFdvRGdIVTdsQ3R3ei1xSWNLc3NlNzFLcUtqNXdNOENEVjQzdDY5ckFobzlWc2Mtb2g3ZUxPeE05X3FVZDR1T1JYXzV2Ulhn?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 14:38:32 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Nifty Outlook for November 2: Can the 23,200 hurdle give way to a rally towards 23,500 this week? - CNBC TV18",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbktiNWhVVXpaNERYOG9IZWxHMU54M2NUeFpad3A1WEdFUndSYXZ4R0Y0RXNSLU1GX256UjVpbnFZdTkxSDluUmpDSFNXbzNKZVNSOVFsOTVFY0pIWU1jMHVOVElMZndkcG1wZnRWaEtnTVFEUmhtZ3FwYU9jbno3OThNYjlFVk5lbVMzS1NLMHE0MDc4MTFRZU9hVTBadHQzeG54VzZKNkZyaU9GWEhrZzc2WEZ5Y1JGWDVibERUWEhIMTJKTy1nSFBRVUVreWdZQXpnUtIB2gFBVV95cUxPQzh0bUdXZWdXdXo2WGstcW1GVng4dThOWTlBbGZBWVVBbU1ObHZJdnZ5MUp0aWUxcjE3TXZrYjZvcFhSaHNYWTJXek1fM1pza2dzb1I4SUJ3ZXJKSWRMMl9sakY4OU1HWnVKMW1FOGRhTmRCSHBHTmhBU0xYWmVCNmRsSW5oT3JDald5UWZXTFZKbjVqWFJaNy1rZzF4NjBmeVIteFBRdVVaMnRGN2ROcnhxWG1qQWRKdlZYUWxnaERlX1RRVHBkVjBNNUtWQ21Xd190QVFNeDZpdw?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 14:15:03 GMT"
+      "title": "Gulf investors eye India\u2019s AI infrastructure and space tech even as broader interest stays subdued - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQZHJIa0RMemNpcmV6NTZIYlZ3UGdHZlpIVTlYaWxsRzZSRGZEMHZPN0htVHpjVGpweG1qb19hc25hT1owS2F3UTVyM3k5am45OVhLMDFqcVFVZGs5Z3RSSmNRZERjSmdpS3RNTXpORDhwbl9jS0c1TXhYVUpfdTVQaTdDOWtzUi1xRGdKODJsSmpoOFZZX0FGUTRsTmVHYWd2T3Bva2NkSEtXZWRNX05hOVdPZ0xtWVpsdC1kV2Zac0hqWUhFMlVYUFlhQ3pjbndtYVVZXy16dnItRVR1TGxvNndpSk1FMXF4bDJWUkpUcjlBS3dZQnBNX2J4d2xWVkxjeFpMandBN1FCaWduZFHSAZMCQVVfeXFMTS1Za3V2SC1FdEg2amdiUi02TGw0LVk4bFUzYnBYRDFpR185VHJjVlYwclZzR2dwVFpvS21zSV9LV2ZRWWlwYTFSam5wMHg2aVp6Y19yN25sRlBnelVIR0VlYUtoRUJqYlMtTE54dlJ6UVFERVhsejlXN3pRR2tiZnZMTTR5cTFsWThXVGdHc3pDc0RpTGRvZFpWR05YbnVtVDNaNG1yZE1lbXVEa3BiY1VzYndSck9QVHkyUXBZbzZ2ZzR1cmpWRThTY0Y5c0wzeUVvWW1JRkJ2bjhlX2dYSjNsUUFGTjRUMjNXRVd3Y1pFamlObl9kUEcxVHNfeXVoTnI3T0dKN1pGTXQtMVZrNzBfS28?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 18:35:01 GMT"
     }
   ],
-  "fetchedAt": 1793545018
+  "fetchedAt": 1793561452
 }
