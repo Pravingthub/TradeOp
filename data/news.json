@@ -32,6 +32,12 @@
     },
     {
       "src": "Business Standard",
+      "title": "US probing possible North Korean link to $6.3 bn Binance hack: Trump",
+      "link": "https://www.business-standard.com/world-news/us-probing-possible-north-korean-link-to-6-3-bn-binance-hack-trump-126103100220_1.html",
+      "pubDate": "Sat, 31 Oct 2026 09:17:56 +0530"
+    },
+    {
+      "src": "Business Standard",
       "title": "Sebi bars EKI Energy, MD Dabkara, others from market; imposes penalty",
       "link": "https://www.business-standard.com/markets/news/sebi-bars-eki-energy-md-dabkara-others-from-market-imposes-penalty-126103101347_1.html",
       "pubDate": "Sat, 31 Oct 2026 22:17:36 +0530"
@@ -53,12 +59,6 @@
       "title": "Binance's $6.3 bn hack signals the start of a risky era for crypto security",
       "link": "https://www.business-standard.com/markets/cryptocurrency/binance-s-6-3-bn-hack-signals-the-start-of-a-risky-era-for-crypto-security-126103100424_1.html",
       "pubDate": "Sat, 31 Oct 2026 11:09:12 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Binance crypto exchange's $6.3 bn heist rattles crypto, draws scrutiny",
-      "link": "https://www.business-standard.com/markets/cryptocurrency/fbi-secret-service-join-probe-as-6-bn-binance-hack-rattles-crypto-markets-126103100226_1.html",
-      "pubDate": "Sat, 31 Oct 2026 09:27:59 +0530"
     },
     {
       "src": "LiveMint Markets",
@@ -122,28 +122,34 @@
     },
     {
       "src": "Google India News",
-      "title": "Finolex Industries Publishes Q2 FY 2026-27 Investor Presentation - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaVFYcGw2c1lvUmtncG9PMWp6Wi1VQmpMZm05Zm1NODBDcUtuV2lhX05vOXdyUFdBT0NwU1dFdnk4UUlmMmxNV1duZExQdE5PcFE2RGRTVFlNODRfMEU1RXNZTVhYdVk1cU5Cd0JvYTZQb1NKRmYzWTZWLVI5LVZEemZCLW1Id3hhelAzWnNVekdaY0czd1VLSVVrYjJaTzF3R0szdlVUclQ0WUhQRFlZQ0pIaF9obG9LQldTVV84NDlENnFSWGIwY2FOc1BfRUNRMXJkN3JWVU5sZURXR3c?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 21:01:44 GMT"
+      "title": "SEBI Chief Prioritises Capital Formation and Investor Protection - The Shillong Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQTFVeEc2M2R3N2JlbVgxUWVzbmdVR0ZGc05YVWlFd2pLLTR6Y0RHQTM0bF94UTRtVlNFNjVvZm80dWpjTm0xTFZ0TUFUMkUzNWFPMkYxYkx1T2tNVEg3MlZJd0FFTHdHYTdTQjgwMzg2YzRZNkhGY1dBWENPVkotbHNEeld5aE1tcG9qMC02UXVnOWd4OEtGTkJFZmpOQWU3NlI0TEoxQVE?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 00:34:14 GMT"
     },
     {
       "src": "Google India News",
-      "title": "EAAA India Alternatives IPO GMP Today with Listing Gain Expectation - IPO Watch",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04LXdkNzVJNW51M0p2YkFTTHlBcWtvdGE0Q0M0QnY4OUU0ZGRWM185S0RnVVhuT3AtTXRKV1NzMGdkWXVzdUpBTmZVTE5rZXd3dEIzMjdvRnhNVTNHcFJtZEVsWW9vN3dIckE?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 20:57:17 GMT"
+      "title": "HPCL stock in focus after Q2 profit returns at INR 3,625 crore - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZ2ZqcTQ5cUJvOE1NLVNnTmJzUGtkUURMMFF2TUJKdlhYUExSemJ2UllzV1FoLUl2ek5OQUJZWFBKSHFFZEk3WU9ORDhsS2VOYzNjOVVpVmJ2a1BReFI3dERyUzlVczVMZzBwWDdvT2hzR3lNMXJPQjZnWDQ4eTlWc2FVRzV4eWpMTnYtRVl5ZDdaVGtLWlE0SUNnT1hNMWMwdkVHNlR0RFVzOTd1U04xZllNQm1QeVFRR1hRcmRR?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 00:13:42 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Gabriel India Files Investor Presentation for September 2026 Results - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQzZmN0QtZnBTa2JFMEtRQ3pQOG5yQmpEcF9Gc1ZXaWt1ZG1EcHhabENUQmJiME9DdkZobUFxV3V6SHV0U3NKLXJGZHJwM2JOOS1QQkd3Vms1Y2o5Q2NIbXhmeGxFbUgyNzRsZkZFTUxHNnQ2TVNFeGxiYjJkaWlPWkQ5UE15b19yV2dwbTVtSjE0bzIxOVA3blZHeVFTbGp2clA2OHdTTW9kVDU2bU1oNGlDcEpNMWRxX0lnWQ?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 20:53:40 GMT"
+      "title": "Colgate-Palmolive India stock faces pressure as ad costs rise - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZUxrR21FZFZOZkNQSFJmLUd1Y0pPQ0RTNVo3TzNNQjJTZjRPY0cybjROT3p1XzZGWHNCTXhmcFd1eTNYcWpGX2NNM1hveWpYSWhEejlqWDQ1TmlDT1hpOVdNeENGUHZfbC1hYzk3ZUV1Nnk0Vm5FWEJkdDVIVHpEbEtVRGo3UlJVaEkxWG55ZkU4U0VDNjZvLVpMS3V0dmthRGZvZzlMX08tTnhibUNfdXhfYzFZYjBiYUlQMQ?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 00:29:56 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SPR Auto Technologies Publishes Unaudited H1 FY2027 Financial Results in Line with SEBI Norms - TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbXB5cEVGaGREVy1fcEMtTXZWZENhaFlFZmZpS2lIbDZmLVNaTWNKdWM5QXJpS2tURWVudFZTNUFraEVSSU9QZFdLVHJmU1lPTVQ1S0lLWXhvdWNQRGhyc1doMTl5LUFLcFR5R0gwcWo3aXNwZS1SOWd6Y1A3TzBmLVk0bWd5SHVtSWZzeUJuWWRSTUdycDBUZUtOY1JnejBRTjFkbVZfckNXZlhlRkRVcVdlY1lESUoxZHFSVGRtR3h6ZEVDN3BlWHlBOVhzYS1ScHR4YVhIQXh1QkpYWVE?oc=5",
-      "pubDate": "Sat, 31 Oct 2026 20:53:48 GMT"
+      "title": "Dr Reddy's stock faces US pressure as India growth cushions Q2 - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR0dGcEVwSlNUY2gzTWxQWXVMXzBlLWhNYl9CYkdtN1Z6ZElvT0Fzajc3Ni1uTmtwZk1odnNvaXFuOFZtWjkwU3VDOGllZHJqQWFHdnZVOTFKcnNITF9EdGp3dXZYa0E5NDFxY1pqYnE3dUdZcUZ6a091M1VCUkRwQk1KOXBvSGJDMC1PZmE1NG4wT2RaQ1ltZXJEVlJGLXB4YlBtNTUyMWdFeG5WQk95X2I1aVFDTjZabVM3cy1B?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 00:27:50 GMT"
+    },
+    {
+      "src": "Google India News",
+      "title": "Markets Next Week: Will the earnings-driven recovery continue amid elevated crude prices? - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOSHpacl9qNEZlWXQzd0dacGNnQ1BCcHZxWkJQZUlDb0g0aG1jbmdwT19BTGNKRUJKRWk5aEItWVBjWXB1SXBKVzBlYTZTZ1dHdUpRMWlFdFJheVFxQ2pIcC15Y0VCUjV3RlRZaGx5Yk1POWRoczZldjhmaFllS3l6SC1ScnZaSmNpSEhpeXEwNGNpcHJwQkNXcDNWZENLYWs5ZE9zNWVXUDhwMFM3bFNSVGMydmNOWVhKc0NfcWUyRWg3MG55V3NQU1JqMlJpbi1Wc2R6ZHhzZ0VNMjZ3amdXQ3ZGSm9LX05NTlNB0gHwAUFVX3lxTE1kVy1kWThiRk5zcW83enVxTG5pSGNPc1dXRkxncUtpcnlhSnp4aU1yTkVxYmgtUlpLOHRQUTRkSTFLOVNpbGMxUzhGbGkycXRYc2haZEJoZy1OYTVFX05UZ0JjdDNxejNWR1piNjNoV3dHOF81MWFwQmZkMi0xbk5YSXJBa2YtclhfVlo5alpGTHlNaFA0bFpOeXhUbld1S2hfLWhzWTBWMENnX2xJZnd5YS0wX1pmT2lWM3RhN2tiT09ZOEM1aDBKalFGNzc5dUhVY1NPUXpzN05Wd0hNLXRhSTNZVS1UUEwwbzQ1QmhKMg?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 00:30:33 GMT"
     }
   ],
-  "fetchedAt": 1793481718
+  "fetchedAt": 1793494544
 }
