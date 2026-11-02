@@ -2,33 +2,57 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "Diwali cheer! Mukesh Ambani gets $8.5 billion richer in a day as RIL shares soar",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-cheer-mukesh-ambani-gets-8-5-billion-richer-in-a-day-as-ril-shares-soar/articleshow/135460617.cms",
-      "pubDate": "Mon, 02 Nov 2026 17:24:11 +0530"
+      "title": "US stocks today: Nasdaq ends over 1% lower as AI worries persist",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-ends-over-1-lower-as-ai-worries-persist/articleshow/135474287.cms",
+      "pubDate": "Tue, 03 Nov 2026 02:50:46 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Marico Q2 Results: Net profit jumps 31% YoY to Rs 550 crore, revenue rises 12%",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/marico-q2-results-net-profit-jumps-31-yoy-to-rs-550-crore-revenue-rises-12/articleshow/135460226.cms",
-      "pubDate": "Mon, 02 Nov 2026 17:02:38 +0530"
+      "title": "El Nino could add to US inflation pressures in 2027, San Francisco Fed paper warns",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/el-nino-could-add-to-us-inflation-pressures-in-2027-san-francisco-fed-paper-warns/articleshow/135473482.cms",
+      "pubDate": "Tue, 03 Nov 2026 01:31:04 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Bitcoin holds steady near $78,000 as investors assess Binance security breach. Here is what experts say",
-      "link": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-holds-steady-near-78000-as-investors-assess-binance-security-breach-here-is-what-experts-say/articleshow/135459441.cms",
-      "pubDate": "Mon, 02 Nov 2026 16:56:43 +0530"
+      "title": "US manufacturing strengthens in October, input prices stay high",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-manufacturing-strengthens-in-october-input-prices-stay-high/articleshow/135472594.cms",
+      "pubDate": "Tue, 03 Nov 2026 00:47:36 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "SBI Q2 Results Preview: PATmay rise up to 25% YoY; NII, margins, deposit growth in focus",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q2-results-preview-patmay-rise-up-to-25-yoy-nii-margins-deposit-growth-in-focus/articleshow/135458856.cms",
-      "pubDate": "Mon, 02 Nov 2026 16:52:41 +0530"
+      "title": "Meta eyes at least $20 billion from potential bond offerings, Bloomberg News reports",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/meta-eyes-at-least-20-billion-from-potential-bond-offerings-bloomberg-news-reports/articleshow/135472448.cms",
+      "pubDate": "Tue, 03 Nov 2026 00:28:02 +0530"
     },
     {
       "src": "ET Markets",
-      "title": "Ashish Kacholia-owned Knowledge Marine shares jump 4% on Rs 303 crore order win; stock up 67% in 2026",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/news/ashish-kacholia-owned-knowledge-marine-shares-jump-4-on-rs-303-crore-order-win-stock-up-67-in-2026/articleshow/135456344.cms",
-      "pubDate": "Mon, 02 Nov 2026 16:39:56 +0530"
+      "title": "Anthropic revenue jumps 1,100% ahead of IPO as AI spending commitments near $900 billion",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/anthropic-revenue-jumps-1100-ahead-of-ipo-as-ai-spending-commitments-near-900-billion/articleshow/135472235.cms",
+      "pubDate": "Tue, 03 Nov 2026 00:21:10 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "IPO fundraising rises 30% to record \u20b984,400 crore in H1FY27: Report",
+      "link": "https://www.business-standard.com/markets/news/ipo-fundraising-rises-30-to-record-84-400-crore-in-h1fy27-report-126110201078_1.html",
+      "pubDate": "Mon, 02 Nov 2026 23:19:35 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "Reliance Industries takes the wheel, surges 12% to steer benchmarks higher",
+      "link": "https://www.business-standard.com/markets/news/reliance-industries-takes-the-wheel-surges-12-to-steer-benchmarks-higher-126110201415_1.html",
+      "pubDate": "Mon, 02 Nov 2026 23:03:44 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "Sebi cuts cool-off period for OFS by off-market illiquid Invits to 8 weeks",
+      "link": "https://www.business-standard.com/markets/news/sebi-cuts-ofs-cooling-off-for-privately-listed-illiquid-invits-to-8-weeks-126110201342_1.html",
+      "pubDate": "Mon, 02 Nov 2026 19:33:52 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "Coal India files DRHP to sell 10% stake in subsidiary SECL through IPO",
+      "link": "https://www.business-standard.com/companies/news/coal-india-files-drhp-to-sell-10-stake-in-subsidiary-secl-through-ipo-126110201248_1.html",
+      "pubDate": "Mon, 02 Nov 2026 18:47:21 +0530"
     },
     {
       "src": "Business Standard",
@@ -37,119 +61,95 @@
       "pubDate": "Mon, 02 Nov 2026 17:08:39 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Ratnaveer Precision surges 8% on healthy Q2; zooms 200% from March low",
-      "link": "https://www.business-standard.com/markets/news/ratnaveer-precision-surges-8-on-healthy-q2-zooms-200-from-march-low-126110200724_1.html",
-      "pubDate": "Mon, 02 Nov 2026 14:58:18 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "SBI Q2 preview: NII to rise 11-13%; margin to hold on lower FCNR(B) flows",
-      "link": "https://www.business-standard.com/markets/news/sbi-q2-results-preview-nii-to-rise-11-13-margin-to-hold-on-lower-fcnr-b-flows-126110200730_1.html",
-      "pubDate": "Mon, 02 Nov 2026 14:54:28 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Crude, not rupee, holds key to FII flows; JM Fin flags $105 threshold",
-      "link": "https://www.business-standard.com/markets/news/crude-not-rupee-holds-key-to-fii-flows-jm-fin-flags-105-threshold-126110200671_1.html",
-      "pubDate": "Mon, 02 Nov 2026 14:32:55 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Sebi proposes LTCG tax relief for FPIs: What it means for Indian markets",
-      "link": "https://www.business-standard.com/markets/news/sebi-long-term-capital-gains-tax-indian-markets-impact-foreign-investment-126110200664_1.html",
-      "pubDate": "Mon, 02 Nov 2026 14:16:04 +0530"
+      "src": "LiveMint Markets",
+      "title": "TSX rebounds as oil pullback boosts industrials, mining shares",
+      "link": "https://www.livemint.com/market/tsx-rebounds-as-oil-pullback-boosts-industrials-mining-shares-11793655587408.html",
+      "pubDate": "Tue, 03 Nov 2026 03:09:46 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "RIL's best day since 2020, Sebi\u2019s LTCG rollback proposal lift Dalal Street",
-      "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-ril-share-price-jump-nifty-sensex-rally-ltcg-tax-11793618242840.html",
-      "pubDate": "Mon, 02 Nov 2026 17:48:35 +0530"
+      "title": "LIVESTOCK-CME hogs set contract lows on big supply, weak demand",
+      "link": "https://www.livemint.com/market/livestockcme-hogs-set-contract-lows-on-big-supply-weak-demand-11793655036311.html",
+      "pubDate": "Tue, 03 Nov 2026 03:00:35 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Rates crash: Gold price slips 7%, silver tanks 20% in Oct: Is Dhanteras 2026 right time to buy? What should investors do",
-      "link": "https://www.livemint.com/market/commodities/rates-crash-gold-price-slips-7-silver-tanks-20-in-oct-is-dhanteras-2026-right-time-to-buy-what-should-investors-do-11793618175891.html",
-      "pubDate": "Mon, 02 Nov 2026 17:48:25 +0530"
+      "title": "US midterm elections: How a Democratic victory could impact defence, healthcare, crypto and AI stocks",
+      "link": "https://www.livemint.com/market/stock-market-news/us-midterm-elections-how-a-democratic-victory-could-impact-defence-healthcare-crypto-and-ai-stocks-11793640093379.html",
+      "pubDate": "Tue, 03 Nov 2026 00:27:07 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Massive surge! Reliance Industries shares up 12% after Q2; add  \u20b92 lakh cr in mcap \u2014 when did RIL last rally this much?",
-      "link": "https://www.livemint.com/market/stock-market-news/massive-surge-reliance-industries-shares-up-12-after-q2-add-rs-2-lakh-cr-in-mcap-when-did-ril-last-rally-this-much-11793618055937.html",
-      "pubDate": "Mon, 02 Nov 2026 17:24:13 +0530"
+      "title": "Dividend, bonus issue: Last chance to buy today \u2014 Godrej Consumer, Coal India, Asian Paints and others",
+      "link": "https://www.livemint.com/market/stock-market-news/dividend-bonus-issue-last-chance-to-buy-today-godrej-consumer-coal-india-asian-paints-and-others-11793640245000.html",
+      "pubDate": "Mon, 02 Nov 2026 23:40:42 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Diwali 2026 Samvat 2083 stock picks: Airtel, ICICI Bank, L&amp;T among 15 shares by Mirae Asset Sharekhan - Full list",
-      "link": "https://www.livemint.com/market/stock-market-news/diwali-2026-samvat-2083-stock-picks-airtel-icici-bank-l-t-among-15-shares-by-mirae-asset-sharekhan-full-list-11793614146806.html",
-      "pubDate": "Mon, 02 Nov 2026 16:35:04 +0530"
-    },
-    {
-      "src": "LiveMint Markets",
-      "title": "Best EV stock to buy: Ather Energy vs Ola Electric Mobility; which is better profit-making deal? Investors guide, target",
-      "link": "https://www.livemint.com/market/stock-market-news/best-ev-stock-to-buy-ather-energy-vs-ola-electric-mobility-which-is-better-profit-making-deal-investors-guide-target-11793608999266.html",
-      "pubDate": "Mon, 02 Nov 2026 16:31:05 +0530"
+      "title": "Upcoming IPO: Coal India unit South Eastern Coalfields files papers \u2013 How much funds to be raised and other key facts",
+      "link": "https://www.livemint.com/market/ipo/upcoming-ipo-coal-india-unit-south-eastern-coalfields-files-papers-how-much-funds-to-be-raised-and-other-key-facts-11793636533876.html",
+      "pubDate": "Mon, 02 Nov 2026 22:50:10 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "PTC India Q2 profit falls 25% as EBITDA nearly halves despite higher revenue",
-      "link": "https://www.cnbctv18.com/market/earnings/ptc-india-q2-profit-falls-25pc-as-ebitda-nearly-halves-despite-higher-revenue-20025131.htm",
-      "pubDate": "Mon, 2 Nov 2026 18:05:57 +0530"
+      "title": "US midterms: What control of Congress could mean for India's trade and markets",
+      "link": "https://www.cnbctv18.com/market/us-midterms-what-control-of-congress-could-mean-for-indias-trade-and-markets-20024564.htm",
+      "pubDate": "Tue, 3 Nov 2026 01:00:47 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Trident approves \u20b94,650 crore expansion plan with new yarn plant and capacity addition",
-      "link": "https://www.cnbctv18.com/market/stocks/trident-share-price-approves-rs-4650-crore-expansion-plan-with-new-yarn-plant-and-capacity-addition-20025129.htm",
-      "pubDate": "Mon, 2 Nov 2026 17:57:25 +0530"
+      "title": "US midterms 2026: How Trump's Congress battle could affect Wall Street, oil prices and the dollar",
+      "link": "https://www.cnbctv18.com/market/us-midterms-2026-how-trump-congress-battle-could-affect-wall-street-oil-prices-and-the-dollar-20025152.htm",
+      "pubDate": "Tue, 3 Nov 2026 00:30:07 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "CONCOR Q2 Results: Profit declines 7%, revenue remains flat; dividend declared",
-      "link": "https://www.cnbctv18.com/market/earnings/concor-q2-results-profit-declines-7-pc-revenue-remains-flat-dividend-declared-20025116.htm",
-      "pubDate": "Mon, 2 Nov 2026 17:39:27 +0530"
+      "title": "Dr Reddy's Laboratories gets USFDA tentative nod for twice-yearly HIV prevention injection",
+      "link": "https://www.cnbctv18.com/market/stocks/dr-reddys-laboratories-share-price-gets-usfda-tentative-nod-for-twice-yearly-hiv-prevention-injection-20025362.htm",
+      "pubDate": "Mon, 2 Nov 2026 23:48:37 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Granules India Q2 Results: Net profit jumps 39% on higher revenue, EBITDA margin improves",
-      "link": "https://www.cnbctv18.com/market/stocks/granules-india-share-price-q2-results-net-profit-jumps-39-on-higher-revenue-ebitda-margin-improves-20025085.htm",
-      "pubDate": "Mon, 2 Nov 2026 17:21:25 +0530"
+      "title": "Prasol Chemicals Q2 results: Net profit more than doubles to \u20b938 crore, revenue rises 39%",
+      "link": "https://www.cnbctv18.com/market/earnings/prasol-chemicals-q2-results-net-profit-more-than-doubles-to-rs-38-crore-revenue-rises-39-per-cent-20025353.htm",
+      "pubDate": "Mon, 2 Nov 2026 23:25:50 +0530"
     },
     {
       "src": "CNBC TV18",
-      "title": "Auto ancillaries to AI: Where Rajesh Kothari sees investment opportunities after market correction",
-      "link": "https://www.cnbctv18.com/market/raj-kothari-auto-ancillaries-ai-healthcare-investment-opportunities-20025069.htm",
-      "pubDate": "Mon, 2 Nov 2026 17:00:47 +0530"
+      "title": "DOMS Industries Q2 Results: Flood damage, exceptional expense drag profit down to 36%",
+      "link": "https://www.cnbctv18.com/market/stocks/doms-industries-share-price-q2-results-flood-damage-exceptional-expense-drag-profit-down-to-36-20025346.htm",
+      "pubDate": "Mon, 2 Nov 2026 23:41:12 +0530"
     },
     {
       "src": "Google India News",
-      "title": "National Stock Exchange of Ind Share Price - Live NSE Stock Price & Chart - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YampiQS1ZVEFBaF9PbU1mcGROYjRFQzBtVXY2M1FYY3U0Vm0xSmhrbjFfT1g0NXVuVC1FbDhZUVRNbWdiRUFqaHhOVm16dmxibHBINA?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 12:01:06 GMT"
+      "title": "Microtiter Plates Market in India: Size, Trends and Forecast to 2035 - IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPamJCSEFSWl9DQkh0OGlKcFJBWHpZZWlNMzdoaGZPTHlaUGhJZXdsRi1BVjFPajVtSG1BSmlqa3pZM0wyX2hZRGptYTZRYkpMU0pIdHAxNEdKMmxqWHV6LVRnVVBEbTNXbHBaUjU4eDZnbDJpdFJzWENRVWVlbEVJR0tFVEJhbEE5UnpZUnpBclJCMXM2ZFdFZ3VOZDVTOFNFdm9wcXRKaw?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 21:50:48 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian markets surge over 1.6% as Reliance rally lifts sentiment amid mixed Asian trends - The New Indian Express",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUXIzakprc2FCNnRyQWN5MzYzTUZxa0ZaUUdHZExmLVRYNElfRVY2VFhDekJyNExTV0k0cnNnQVZqb2ZSN0ppQnpiNGlrWEMxNU4yb25aRzZLU3ZESTRvd0hGakVOSVZlRlF2QjlOcEJXc2N4bEVSX2MzamtOak1UVXFaYTVEYXVLZ2FVWVA1NnAySE01ZVJJZ1FwMFpHeDJDclFNdjV2RkFxMnFiVHJ1RkFOX3VXazRaNnJiN0RyaW4yV2lSdXhWT1hRV0plcVZuQXU4Tm5hQdIB5AFBVV95cUxOMUN0Vmo2OTdWOVNPQ1Q2a0o2ZkFVUE9wZVRYTndxRjRLT3ptSG8tbEV0RFJWSGNyTXhKS1EtMkI1T3BBZW51WENieEVBYUttSkRoZGVVUjZVbjZWZWVpYnY0OXZqbGw2TkxmQzFtOHVnWFNYb2toM3UyRUlaX2RhRGpvMmg5UWpaeThoc3VXdWxCYUpNUVprRTFrSjA0RzZmUEhmcXYtY1NQOF9HcjBDWUV1Sk9EWVpzTGN3dXdTelpaOFBJaGFqdzdkenpld01aZ1V2dWNnZU1DME9hamcyZG1rSVc?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 12:26:02 GMT"
+      "title": "FM Nirmala Sitharaman weighs in on Tata row: 'Should be resolved amicably, internally' - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSzE4d3d1REhJQ3JfaUVJaXFfVmpya3RwWmxfMnBFVjNkZ0IyQUhaTmpva2V0N0R1WlI4M2wycWtSd0NlaDZZNWNfNWs2b01aWWpIYUdsNjVxRGNsdFJFNDFtS1hLN2RYV2w2ZzByRjMxeHQwT0RnV2U1Yk1LZU9ndjNvMzVOUzdJbDJvUHNKYm9EbC1GanlURllJZENsUW5ISHFLS3l5TkdNcWJrNk9tTFVTZmFrbGdwLU9jNUlNTWhuLVkyUVBYQlM2NVUzU0lTRW9GVTZPZE5ISjdSWWM5TVdRRE94QnROZURscjd5dE91RkxOUHlmTmY4V0fSAYICQVVfeXFMT1RWR0tvMEJBclJ4OFNHb08wUTVQenhkMU5CRlFVSXBsdnkxZnA2VE1udjNveGFVbmUyMEtUNGotVXduT1MxSHNkd1lrN2syZ2pmMV9KMWhXbTJpTE15RHdHNy1BWGtSOERmMFY0LWhyVEZ4dGExUjN4amZqeG80alduSmc2TjNmWVlWbE9BWkhzdnU2TjVFamtRTlg3SnRqQzNWSW9Ldi1ZbVZURGY2UUdHQ1RPTnhtdTg0VkJvSmZTQlRwUkJSSlM4WWtRaDJibVNIUkdleFJWdVI5S0RPVUM3UldFbmEwZnNxcG1OdEtVYWlvNHE2SUtQQ3VPNU9oWWJB?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 21:13:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Indian Green Energy Stocks Rally As Sensex Surges 1.7% On November 2 - SolarQuarter",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTF3TnFGN2ZqS1FHOTFud1lyRURxeW9VSmd2NDlnMS1yVDhIeDFVRVJ4bnhQdjdFVlNUMEFHNDFzSGdXc2VTcVRuQlZTaEtRSUdTM1lYSDFPREZmcnVpWlRmRF81UFFWbkhYaXJ4NXRqTjRCc21rQ3dudkxTT1BIV1hRZ0RGaHByQ1dZRW84SXNNTndWNUloVXVSWWVPeFB1c2tMalBwOA?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 12:29:20 GMT"
+      "title": "Granules India Q2 profit rises 39% as revenue reaches Rs 1,560 crore - Multibagg AI",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMHRVUHdRd1lEaTEzMmtZdWpHRHRhSUNKeEtVakkzdlcwUTNpWXRNS0R4QnY3aHV3UTB6cDVOMW1KR2RHc2xYeEdOelZNTmJkV2dOX3o1cXJZT3E2VjZxVG1RcUpzQjIwYnJyaWpxT3dxSGpKdW43X0RwRFdLRHA3aE5CaUhPaXlSbHBJeWdzOWRGWE8zMC02dXp5UmFXRnBxNjJUUnpyVG90djNaZFNXb1RqbXVpVjA?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 21:17:53 GMT"
     },
     {
       "src": "Google India News",
-      "title": "RIL's best day since 2020, Sebi\u2019s LTCG rollback proposal lift Dalal Street - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaTBlRHM0TXRaOGhkTnhldnhHM0FmWmJ2dnhXdGdJbGFZSV9YWWR5bzVCSEN3S1hwTnFGaXpxSlNRX2hrby14TGN1bWdSOFNpLTRBUDA0YWFyeVZjZVU4Q1k5cVpHTF9ldlV2QTYyVmwyT3ViMzdOcTRaUjlRX2dPYWttZHR0Zk9pYWFWNk1UYXU4dEw0SjRkN0N0OE13WXE1cEc3RmxrcnB6YmdwQVVwN3JfYnBOV3MwX21LOUZ5bjRSZmdsZm9lOFJjUlFVSW5aNmJILdIB2gFBVV95cUxQMWlHZlIyWVpPNUpfaXVmY2YzVTBBVzR3Tk84R01UaV90TjVYb2JpRW13b1BwZlBPSTZKb2FEWWFnaTRiZ29pYTRFeTl6YXR4d0VYYzBhd09oOTdPSTllMDJpOVBsajlRTmRSZWtTaFlvMDJZUDkzMmZrYjlzemh5bHhpMlF0MUFnNmJGZ2ZJSGVSbE52bXM2bHRJRnFtRDJPSEVYb2I4ZExKU0pNLWdNV0ZMeVNxbXVGSzF0bDVfWDh5TnVaakxhaUVhZjY2MXU5UFdCOUl1S3JvUQ?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 12:18:35 GMT"
+      "title": "'Most important midterm in our lifetime': Trump\u2019s fiery last-minute appeal to MAGA voters - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQUVJnZ1VfeEtsR3ZSbzFOclRIOXZwODVwMHhTN3hNRk5SeC14NzVONk1LRVEycjh3dk05LS1aM2ZpRGtnNXJ4YjM2a3ZHV0lFb29JVXlDYmNZREVXWmFwY2l1NnBKWlFnZF9KS0M4akZ3SnhPcXg2WkdwQmhmbkJzU2hEMzNPaGlkN3RDZWsxUWhTQ1BTUEF3V01KTlN1NnFGZmdqTjQxLWZVbnhqZGNldmtyMEw0RWktNGlocUduZGx3SjhWOHVfRV8yeWcybWo5RGM5WUx3U2xxNVgyYjNZSDUweVZEdml4VG1IcHZHUWVvQm1Vc1B1bG0yZ9IBgAJBVV95cUxQOGhZSEQ3NFpLdWFEclNScF92N3YzLUlKUWFjWXN5bU5IbnlBVmdvOHFaSDNuWG1rVjVCLW55U0pfZXQwb0dkWkJTOER6SjFTbC1qY3VJclVZMVFqaDlSUGtDcTFXQ0EtSmFxVkNLTWt6b3l1emVfdGc2cGx5SVl2TzVlZTM1a2tNRjBOOFlPTG1QSXJxaVVQYXc5enliSlhvRHBtY3ZLZnZuUEx6X3hZMzJEQVVGTVl5Skk1MzNpV2lIUmF0M3FBN0VSbUlBTW9OSWxrOW5tNENmSlRYTXg0cUxwaFVWZDl4SVdYclZEVWZUUnYta0FPQmtxRzlOenRJ?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 21:08:15 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NSDL Q2 FY2027 slides: revenue surges 35% as tech investments continue By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQ0lsdFhHOEtOdUpfN0JnVUNSLXcyd2hKQ3ZXNFdXekRkQTBrUkdzdE8yYl94MXZoMVlFMGpIeV9WZUk5b0FndGFfaTgybUxtcDRERTdxdm1XZHVNbFBJcUlXRW81TC0wNWl3OTVzN0VxZUlQOUFYOTRLZTJSTUFiRTc2UnlCLUJQVjMya2JqRGJPY2tkaGtIX2tMcWV3R3U3Mks2NXBfbG1OQUoxRTBzUXBwSGFhMTBHanZBOGFGUXZfcVRNUEhnUg?oc=5",
-      "pubDate": "Mon, 02 Nov 2026 12:13:57 GMT"
+      "title": "IS FAIRFAX BUYING IDBI WITH IDBI'S OWN MONEY? - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMTR6d001a2hOZU9GMi1YbXBsWGpYMnJaUm5jWEliU2szcGRLcHZFZGZiREp3MlhMM2dTY3IwQXl1YTBUZ0NMM3hwdjZGMmRXeXZEWHRtenMwNDUzWURPVEMyb0I5aWwtNklHMFZ2dUtqY1N6XzlEM3YtY3Iwbnp1cm1xUUVSMGIzb3BzTmVMTFJxdw?oc=5",
+      "pubDate": "Mon, 02 Nov 2026 21:09:51 GMT"
     }
   ],
-  "fetchedAt": 1793623585
+  "fetchedAt": 1793656712
 }
