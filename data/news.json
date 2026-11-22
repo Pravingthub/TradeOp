@@ -2,6 +2,18 @@
   "items": [
     {
       "src": "ET Markets",
+      "title": "South Korea prepares market stabilisation funds after KOSPI hits 10-month low",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/south-korea-prepares-market-stabilisation-funds-after-kospi-hits-10-month-low/articleshow/136073016.cms",
+      "pubDate": "Sun, 22 Nov 2026 17:15:31 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Crude oil futures brace for OPEC+ output decision amid supply glut concerns: Analysts",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/crude-oil-futures-brace-for-opec-output-decision-amid-supply-glut-concerns-analysts/articleshow/136072428.cms",
+      "pubDate": "Sun, 22 Nov 2026 16:30:27 +0530"
+    },
+    {
+      "src": "ET Markets",
       "title": "Why gold\u2019s five-year winning streak is under threat after dramatic selloff",
       "link": "https://economictimes.indiatimes.com/markets/commodities/why-golds-five-year-winning-streak-is-under-threat-after-dramatic-selloff/articleshow/136070323.cms",
       "pubDate": "Sun, 22 Nov 2026 13:51:09 +0530"
@@ -19,28 +31,10 @@
       "pubDate": "Sun, 22 Nov 2026 12:03:45 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Reliance Brands FY26 revenue up 3.8% to Rs 3,390.9 crore; loss narrows to Rs 137 crore",
-      "link": "https://economictimes.indiatimes.com/markets/stocks/earnings/reliance-brands-fy26-revenue-up-3-8-to-rs-3390-9-crore-loss-narrows-to-rs-137-crore/articleshow/136068185.cms",
-      "pubDate": "Sun, 22 Nov 2026 11:14:52 +0530"
-    },
-    {
-      "src": "ET Markets",
-      "title": "Anthropic's post-debut stumble delivers reality check for AI trade",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropics-post-debut-stumble-delivers-reality-check-for-ai-trade/articleshow/136066633.cms",
-      "pubDate": "Sun, 22 Nov 2026 09:00:15 +0530"
-    },
-    {
       "src": "Business Standard",
       "title": "FPI, crude oil, global trends to to steer markets in holiday-shortened week",
       "link": "https://www.business-standard.com/markets/news/fpi-crude-oil-global-trends-to-to-steer-markets-in-holiday-shortened-week-126112200353_1.html",
-      "pubDate": "Sun, 22 Nov 2026 15:17:11 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Anthropic stock slides 8.5%, but is its AI risk warning the reason?",
-      "link": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-anthropic-shares-fall-ai-doomsday-warning-ipo-valuation-126112200333_1.html",
-      "pubDate": "Sun, 22 Nov 2026 14:12:49 +0530"
+      "pubDate": "Sun, 22 Nov 2026 15:17:13 +0530"
     },
     {
       "src": "Business Standard",
@@ -50,45 +44,63 @@
     },
     {
       "src": "Business Standard",
-      "title": "Paint companies eye stronger Q3 demand on festival shift, weddings",
-      "link": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-paint-sector-demand-q3fy27-asian-paints-berger-kansai-nerolac-outlook-126112200081_1.html",
-      "pubDate": "Sun, 22 Nov 2026 07:43:46 +0530"
-    },
-    {
-      "src": "Business Standard",
       "title": "Bitcoin nears USD 60,000: What traders should watch, according to WazirX",
       "link": "https://www.business-standard.com/content/press-releases-ani/bitcoin-nears-usd-60-000-what-traders-should-watch-according-to-wazirx-126112000892_1.html",
       "pubDate": "Fri, 20 Nov 2026 17:35:24 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "RVNL vs Texmaco Rail: Which railway stock deserves a place in your portfolio for long-term gains? Check target price",
-      "link": "https://www.livemint.com/market/stock-market-news/rvnl-vs-texmaco-rail-which-railway-stock-deserves-a-place-in-your-portfolio-for-long-term-gains-check-target-price-11795331266376.html",
-      "pubDate": "Sun, 22 Nov 2026 15:30:39 +0530"
+      "src": "Business Standard",
+      "title": "Oil prices set for 3rd straight week of decline on West Asia export flows",
+      "link": "https://www.business-standard.com/markets/news/oil-prices-set-for-3rd-straight-week-of-decline-on-west-asia-export-flows-126112001415_1.html",
+      "pubDate": "Fri, 20 Nov 2026 22:58:17 +0530"
+    },
+    {
+      "src": "Business Standard",
+      "title": "Indian investors show strong appetite for Anthropic's blockbuster IPO",
+      "link": "https://www.business-standard.com/markets/news/indian-investors-show-strong-appetite-for-anthropic-s-blockbuster-ipo-126112001087_1.html",
+      "pubDate": "Fri, 20 Nov 2026 21:24:13 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "New Sebi proposal could flip fates of key men at NSE, BSE",
-      "link": "https://www.livemint.com/market/nse-bse-chief-tenure-rules-sebi-proposal-11795333434935.html",
-      "pubDate": "Sun, 22 Nov 2026 15:08:47 +0530"
+      "title": "Taiwan Mulls Lowering Margin Requirement to Support Stock Market",
+      "link": "https://www.livemint.com/market/taiwan-mulls-lowering-margin-requirement-to-support-stock-market-11795359097624.html",
+      "pubDate": "Sun, 22 Nov 2026 20:21:37 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "PBOC Anchors Yuan With Stable Fix as Volatility Jumps After APEC",
-      "link": "https://www.livemint.com/market/pboc-anchors-yuan-with-stable-fix-as-volatility-jumps-after-apec-11795338291477.html",
-      "pubDate": "Sun, 22 Nov 2026 14:34:50 +0530"
+      "title": "Gold, silver, copper, aluminium, platinum to zinc: Why are metal prices crashing to multi-month lows? Key reasons",
+      "link": "https://www.livemint.com/market/commodities/gold-silver-copper-aluminium-platinum-to-zinc-why-are-metal-prices-crashing-to-multi-month-lows-key-reasons-11795357679178.html",
+      "pubDate": "Sun, 22 Nov 2026 20:01:47 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Anthropic and SpaceX IPOs bring Bitcoin prices down? Is investor money shifting from crypto to AI stocks? What\u2019s next?",
-      "link": "https://www.livemint.com/market/cryptocurrency/anthropic-and-spacex-ipos-bring-bitcoin-prices-down-is-investor-money-shifting-from-crypto-to-ai-stocks-what-s-next-11795334594912.html",
-      "pubDate": "Sun, 22 Nov 2026 14:31:28 +0530"
+      "title": "Wall St Week Ahead-Black Friday brings consumer spending into focus for AI-rocked market",
+      "link": "https://www.livemint.com/market/wall-st-week-ahead-black-friday-brings-consumer-spending-into-focus-for-ai-rocked-market-11795356076825.html",
+      "pubDate": "Sun, 22 Nov 2026 19:31:16 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Mint Explainer| How Sebi\u2019s margin tweaks may boost agri commodities",
-      "link": "https://www.livemint.com/market/stock-market-news/sebi-agricultural-commodity-trading-margins-liquidity-11795330448989.html",
-      "pubDate": "Sun, 22 Nov 2026 14:06:01 +0530"
+      "title": "Markets with Bertie | Have high crude prices sown the seeds of their own destruction?",
+      "link": "https://www.livemint.com/market/have-high-crude-prices-sown-the-seeds-of-their-own-destruction-11795351295441.html",
+      "pubDate": "Sun, 22 Nov 2026 19:20:40 +0530"
+    },
+    {
+      "src": "LiveMint Markets",
+      "title": "52% rally in six months! Mukul Agrawal portfolio\u2019s defence stock has 19% upside, says ICICI Direct - Do you own it?",
+      "link": "https://www.livemint.com/market/stock-market-news/52-rally-in-six-months-mukul-agrawal-portfolio-s-defence-stock-has-19-upside-says-icici-direct-do-you-own-it-11795353943967.html",
+      "pubDate": "Sun, 22 Nov 2026 19:18:31 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "NSE tightens retail algo trading compliance, restricts static IP access to self-coding investors",
+      "link": "https://www.cnbctv18.com/market/nse-tightens-retail-algo-trading-compliance-restricts-static-ip-access-to-self-coding-investors-20039395.htm",
+      "pubDate": "Sun, 22 Nov 2026 21:27:56 +0530"
+    },
+    {
+      "src": "CNBC TV18",
+      "title": "Tata Steel's \u20b928,000 deal: All you need to know",
+      "link": "https://www.cnbctv18.com/business/companies/tata-steel-to-sell-tubes-colour-coated-steel-businesses-to-apl-apollo-in-deals-worth-up-to-rs-28000-crore-20039425.htm",
+      "pubDate": "Sun, 22 Nov 2026 23:26:23 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -109,47 +121,35 @@
       "pubDate": "Sun, 22 Nov 2026 14:10:55 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "RVNL emerges as L1 bidder for \u20b9348 crore East Coast Railway project",
-      "link": "https://www.cnbctv18.com/market/rvnl-share-price-emerges-as-l1-bidder-for-348-crore-east-coast-railway-project-20039309.htm",
-      "pubDate": "Sun, 22 Nov 2026 14:03:45 +0530"
-    },
-    {
-      "src": "CNBC TV18",
-      "title": "Stocks to Watch for November 23: Maruti Suzuki, Welspun Living, Ashoka Buildcon, Adani Energy and more",
-      "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-for-november-23-maruti-suzuki-welspun-living-ashoka-buildcon-adani-energy-share-price-20039268.htm",
-      "pubDate": "Sun, 22 Nov 2026 15:30:03 +0530"
+      "src": "Google India News",
+      "title": "SG Mart board to meet Nov 26 to consider fund raising via preferential issue - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWDdnWGt6NXA1S0tsRzdCaWdHYm1FUDNXSjdIaUpKaWpLcjRRZUpfLVZIOThPbEY0cVlla2tIR0xkbXJEMGFZb3hpUmRwTjBjZDhtUHBYNExOdzhIa1I1VFB6eWlHYmNRNWJYc3FvNkpUNkZDRmFQanhBNk9CaEJLODBIdFh6cVQwbkRDZFVTS1ZiWm10d1dlNF9tQm9pSlhveXB1dEhnWUstUVUyODNIcmlhMl95aHRxYzBMdkVsREFaeVdfVkE?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 18:16:50 GMT"
     },
     {
       "src": "Google India News",
-      "title": "SEBI proposals will open window to foreign funds with opaque offshore ownership structures, says Congress - The Hindu",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZzNYQXpqQnBFM19IMUIzM1d1R3d4Sm1xWVdlSWZCNnpKMjd1WTZzNjlUR0pjVzBKc0J4NVktaGstNEVzTGZ6WEZocnJocE53b3F0Vm9tblFudGRmLXVvX2hzQ2pyTU82QkVKQ3FtdkdUVndiMldPMU1oTGlMTnh6a2dFbFpnQjFhcHJkQWxwWHdBYjVxMTFrNkVXS3VQaU1tZ0JUelVnNDBhS0oxdlJyT0RqNEFJZE1RV3RGVWVmQzA4ZW9yMUVncGx4czRZckVhNDJuU2NGaF9MbjRXRUR6VnlmTTFUSnBRdUhVWE1ycjRpQ1Z5a3ZnUmdn0gGAAkFVX3lxTE1sbTZ6cmJHTFBMSHhzVTlPUzd4ZHFnOXVSdTdaWTJWbDAzaUdiVFFyQ1I4MjlfOGtnbkNPVWZxbEtxNE9EdjgtUjFBcXY4RkRiZnBPT0l0aUlRR0hDY3pMV1p4OTkzUTZBMHhzdlFOODFNMjZUT1JsSFBUQXpITHkyWjRNZ3c0TGhqeXl3T2tOTWpEVVEyVFNXRW1jdU5yTHkzRHh6YkxBV1A3Sy1qUzJEVHNNU3VRa2oyaG5hVnFDNVZaY0trYkl5TWpMWnUzSHEwVzFGTkJ5NC1jNy0ydFREWHdjUVV3Yk11M0gxSWNnU2tIQmttUDlHbUg1TmxWbFY?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 10:23:38 GMT"
+      "title": "India's software services exports boom leaves IT companies behind - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQU1FLdGNJNjhiTFNMcEd4Y2ZRbFYxNVBaSGllbHZtcUQzQ2tTclNaNkkzUGtnQTZaek15azhYMnFsYmpKcElhSUdLbHVMaWVPcXpSbDI5bFFwMUpJRWJLYlVxZi1WYkN1eDNEY3V2cXI4QUZPR2plYXFhdlBhazg1TG5JNUNhX3NuRVRPTldjZkhoNk5xSXdnaldveXhMTlFlSEN5MXVGVE85X3MyTmRxbHhJU2xGbG0wZ0FkSW1VdWtDaEVZVUMyOHUyRWLSAdIBQVVfeXFMTnFCNnBoU1BGRXZQendHMXVBWFVaeHFRWlJpamlpMGoyU0wxdHJua0lPM3E3cy1fNjBfVWROWUNLcEMtb2I2ME1INTR0UVJKOWVxT19YR0cteW1OcEtOSkx3SVlndnM3ak5OWG1OWDNBak5hMng4anFSTHNnOEZ3b0hSeW5ROVpKVGtvSXp0R043Z25zeWRUNUhNb3R3bUdwSGNZNnFESkl6ZV84YmMwVmFuOGJZOGwzcl93WEtfR3BXSHlxVTNidmhKc3BzdWJUcHFR?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 18:00:36 GMT"
     },
     {
       "src": "Google India News",
-      "title": "TCS Share Price Today - Tata Consultancy Services on NSE/BSE - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rZ0MxS29EY3VuVEpqempxSjVncnJhVXpVc2l4V0E0OUxWU2xtRHJRWlB0WmJZMmRuTzJidWdNdWJUY1YwSjRZZlV3R0NxTDgwUnZIYmNzd0dBQlAyT2tQQ05RdmRCeVdZb1NFR1lR?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 10:26:58 GMT"
+      "title": "Form 4 Deep Isolation Nuclear: Jesse Sloane (Executive VP of Engineering) For: 29 September By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRkdYcHVhM2hGQlA1TXhzUXkzU0ZMZVhTOXNTSGUzRTl3SFo0Q25uV2w0ck5Ha1pjdmtQNXV0MmxqMGlKSkZpNjc2aW5rM0pJcVpnSktyOWFVNzM0RVlJb3JRZlJCZUpLSENBVDFsLVhYb2ZCMUtqeDl0Qmc2dlFPOVBiWE4tSzhYTEF4N0drRWE5Tkt0Ukgyam1HOXkwU1oxR0RJSmE2QXlSVTZ0ZG9uMFp0SGR1bjdoZUxFYVNweGFEd2s3TkJTZ3RKZm1uMVBUTG1CRUZuMzktMWFFc0c0MVZR?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 17:52:58 GMT"
     },
     {
       "src": "Google India News",
-      "title": "VinFast to enter India's electric two-wheeler market in first half of 2027 - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbFVOejhqejBNY1ZHMm45SW1KRVYtcnNHLXNmei15bkdhckFiaEhmdVdybXpEcEZ5Uk1yVmktXzMtVDctTHZLZDg1UVpOUHpScEhTNVFQSkNXUThlRHVhWjVVRWRjbE1CQlFuZHdkSWVOdHJSeGdYMzlHb0lCZkk4ZjNNS2JFVVg2dUFxTC1HcmJkU21BU2xrT0UzajFsbkhsS1dmcGlsTDVzSlNjSEpxR0NUUzZHcFFxZzdjUlRfLXUtZGNYaklMZ2VBdHpCc3RjN1FyZVBqMnBjUdIB3wFBVV95cUxQVW16aExUYmhTSzgxQWVlcjdSZ2ZrUWRNU3RWekJjMHpMbXRHZjlXN0MxNFFRRTNPMHFGSkY3d0dlYnBzOTZZU2YtM0JTUk5FUTQxOVpjYkpWd25iZXRHSmFNYW10Y2lWU0ZON29aT3h2Z1ppZTNScXpjNXE4T2FGNm5yOTE3ZUVVc2ZqWHZmaGE5TVBkbmFxa09uUUhpeWV6YlFEd0ZJR3V0clpxbE44NnFPc1ctMUNWU3lNcGdvNkk0UWxZUEJlOXVLMmJnV1pOVUQ3Sk8xVkpZTGV2alM0?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 10:02:05 GMT"
+      "title": "Trade Setup for November 23: Top 15 things to know before the opening bell ahead of F&O expiry - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVEdiMGtaaUdVUnZCZHo0bXZaaDFrS3A2WWJWQlI3ektLMHBaWTVva2dBUWg1eVczcXFxVUc2eUVSVlNVT2VRNlNCS05GMk02bDZOSE1RdEMwdm1IM1kxTkpSRzNrbG96WTBfcHpELTBYWnlVWGtKeWQ0TG9COXlYN2Z5UXBPc2FmbjRSb0lieU5nNF9nZHFlRTBldjdTckdOR1BzOWpJTkRvakdkQXFxTWZFWl9EbGZzNFNUdG5NdjJwSTczdzdkZTJmYnBxVHBjSWN6dGxEb29NTFVGR1liLXY2SWRubk04aUJMNVpESdIB9AFBVV95cUxNX2hsTUlodU1qMW5mQ1ZORjBiZExUbTZrSkEzQTN6RGJQVGR4ZE54YjBBSkpwemtpNkx2X2NzSkhKR3EwVHdoOEtpdWZyOUlQWGcyUEJRbU55enJ0OHRDTXYyRXE3Vm1PMnhBOXd0LWt1cFVjS0VYb1pPRUZBbFRnblZsZHE1anZYZlZEVHhwb3dUSUc4cFU2OU02QnJNb1B5YXozcEdudjByTlBKOVd1akxKVkhPaU1jTWJTcTg0c3Q2M01KOVFqZVltZkpXNGhSX2lfX21OanBQSFJZUVM5UTZFMVpmdjByN2pPN011ZVZuVV9P?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 17:36:10 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Want to be more consistent and make an impact wherever I play: Rishabh Pant after sensational ton vs New... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPdnUwVEwxeWJYVm1ZQUFiUXZ0WE9PSWk0QUhkaDd1LVI5YXA4VlpXdHRWb0hEeFJleVJuV0hBaGQ0MHJTSjVkd0VKRi1udXBtdk9sRi1YSjM0NjBraDJPR3cyZUIteE9yN29HYzd6RllOaEl6LWxxVU9DX3lmU0YwclA5R0l6OG12UzVYR3ZWZ2xoOGNaS2tndmVleW1lMm1HQXJtNXJKTWN2Y2ROVndFWE9kQTduZkNSWFlnWHhIUE9jZnJYY0lsQ0pCVDlZUS15T0k0eklDR0ppSHhfRXFtTkRZdU0ycXhrS0RFSzZiblFkbkRNN1hBXzNZNndrMlhiTmhlbHoxcVA0dVc3QnfSAY4CQVVfeXFMT3Z1MFRMMXliWFZtWUFBYlF2dFhPT0lpNEFIZGg3dS1SOWFwOFZaV3R0Vm9IRHhSZXlSbldIQWhkNDByU0o1ZHdFSkYtbnVwbXZPbEYtWEozNDYwa2gyT0d3MmVCLXhPcjdvR2M3ekZZTmhJei1scVVPQ195ZlNGMHJQOUdJejhtdlM1WEd2VmdsaDhjWktrZ3ZlZXltZTJtR0FybTVySk1jdmNkTlZ3RVhPZEE3bmZDUlhZZ1h4SFBPY2ZyWGNJbENKQlQ5WVEteU9JNHpJQ0dKaUh4X0VxbU5EWXVNMnF4a0tERUs2Ym5RZG5ETTdYQV8zWTZ3azJYYk5oZWx6MXFQNHVXN0J3?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 10:08:03 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Aditya Birla Real Estate aims \u20b915,000 crore annual pre-sales in 3 years - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbU5VZko1UWkzQzdhdUp6bC02MTJTOERFZ243QlotSHFJVWc5MDYwQjZfNjh6SUFQeUlIRF9rbF9NRlhYYlNXV2ZYa0xjOVhHRWp3dmJRcS1sdHBCSUJ3Wlc5S0tjbWFUaEF4SW0taEFuSHZ5RlZYOVFYQzFxZHJhUVZRNHBSYWhmeGxfZ0g0Y1d4X1Mzc2pYZFZxYm0tQVdGNlFEbVRGNTNRX1l1WEVRRDZtRU82RUVnZmUwOVdfOFV4eTNXbXJnSDlGNGJUQjhQTHZXUTJJVFZLQdIB2gFBVV95cUxQbU5VZko1UWkzQzdhdUp6bC02MTJTOERFZ243QlotSHFJVWc5MDYwQjZfNjh6SUFQeUlIRF9rbF9NRlhYYlNXV2ZYa0xjOVhHRWp3dmJRcS1sdHBCSUJ3Wlc5S0tjbWFUaEF4SW0taEFuSHZ5RlZYOVFYQzFxZHJhUVZRNHBSYWhmeGxfZ0g0Y1d4X1Mzc2pYZFZxYm0tQVdGNlFEbVRGNTNRX1l1WEVRRDZtRU82RUVnZmUwOVdfOFV4eTNXbXJnSDlGNGJUQjhQTHZXUTJJVFZLQQ?oc=5",
-      "pubDate": "Sun, 22 Nov 2026 10:03:41 GMT"
+      "title": "India's Retail Infrastructure Needs to Keep Pace with 43.7 Million Sq. Ft. of New Supply - The Realty Today",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOakYxNVNGaXJkM3JKRlNsRTlPV1pYMXhrTnY1OTFvaTdPQlhpamNRdU1YZndxWm5UcWtrQ0JVb3RuVXRzQW5PUnRkWmV3RHNqWng3UXpRY0NNZVhPRzBORy0zMnV5bC1nNW1UaTF5ZXZwTEpNS1FnazZzYVY1Mk90cFhkb0l4QU9GQjNBeHNfX01jbGVvS0ZFUHFhMGNQaVU0cGd4N2h2YUxBUk9qeV91M3RHNlhJZFJ4OUVhbV9kSS1hTFFVdkQwZ0lmTHo0dERp?oc=5",
+      "pubDate": "Sun, 22 Nov 2026 18:16:42 GMT"
     }
   ],
-  "fetchedAt": 1795345263
+  "fetchedAt": 1795372071
 }
