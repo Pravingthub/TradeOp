@@ -2,7 +2,19 @@
   "items": [
     {
       "src": "ET Markets",
-      "title": "Nasdaq futures drop as AI stocks cool after Nvidia-fueled rally: US Stock Market Live Updates",
+      "title": "Nasdaq, S&amp;P 500 end lower as investors assess Jensen Huang's return to Nvidia",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/nasdaq-sp-500-end-lower-as-investors-assess-jensen-huangs-return-to-nvidia/articleshow/136141893.cms",
+      "pubDate": "Wed, 25 Nov 2026 02:39:28 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "PE/VC investments in India surge to USD 8.7 billion in October, highest monthly level in five years: EY-IVCA report",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/pe/vc-investments-in-india-surge-to-usd-8-7-billion-in-october-highest-monthly-level-in-five-years-ey-ivca-report/articleshow/136132831.cms",
+      "pubDate": "Tue, 24 Nov 2026 19:17:50 +0530"
+    },
+    {
+      "src": "ET Markets",
+      "title": "Nasdaq, S&amp;P 500 end lower as investors assess Jensen Huang's return to Nvidia: US Stock Market Highlights",
       "link": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/stock-market-live-updates-dow-jones-nasdaq-sp-500-nvidia-anthropic-iphone-google-meta-tesla-earnings-treasury-yield-news-24-nov-2026/liveblog/136131363.cms",
       "pubDate": "Tue, 24 Nov 2026 18:30:48 +0530"
     },
@@ -19,16 +31,16 @@
       "pubDate": "Tue, 24 Nov 2026 18:08:23 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "AI boom looms over Warsh's Fed as inflation worries grow",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-boom-looms-over-warshs-fed-as-inflation-worries-grow/articleshow/136129160.cms",
-      "pubDate": "Tue, 24 Nov 2026 17:09:37 +0530"
+      "src": "Business Standard",
+      "title": "IIFCL IPO: Govt to part sale stake, company to issue fresh shares",
+      "link": "https://www.business-standard.com/markets/ipo/iifcl-ipo-govt-to-part-sale-stake-company-to-issue-fresh-shares-126112400446_1.html",
+      "pubDate": "Tue, 24 Nov 2026 22:48:39 +0530"
     },
     {
-      "src": "ET Markets",
-      "title": "Anthropic CEO Dario Amodei sells shares worth USD 280.41 million following IPO",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/anthropic-ceo-dario-amodei-sells-shares-worth-usd-280-41-million-following-ipo/articleshow/136129119.cms",
-      "pubDate": "Tue, 24 Nov 2026 17:07:14 +0530"
+      "src": "Business Standard",
+      "title": "US markets slide, Asian markets rebound as Nvidia rally fizzles out",
+      "link": "https://www.business-standard.com/markets/news/us-markets-slide-asian-markets-rebound-as-nvidia-rally-fizzles-out-126112401181_1.html",
+      "pubDate": "Tue, 24 Nov 2026 22:28:55 +0530"
     },
     {
       "src": "Business Standard",
@@ -49,46 +61,40 @@
       "pubDate": "Tue, 24 Nov 2026 09:14:18 +0530"
     },
     {
-      "src": "Business Standard",
-      "title": "Nvidia shares soar 31% as Jensen Huang's return sparks Wall Street rally",
-      "link": "https://www.business-standard.com/markets/news/nvidia-shares-soar-31-as-jensen-huang-s-return-sparks-wall-street-rally-126112400047_1.html",
-      "pubDate": "Tue, 24 Nov 2026 08:41:15 +0530"
-    },
-    {
-      "src": "Business Standard",
-      "title": "Stock market holiday: NSE, BSE shut today for Guru Nanak Jayanti",
-      "link": "https://www.business-standard.com/markets/news/stock-market-holiday-today-nse-bse-closed-for-trading-on-gurpurab-2026-126112300598_1.html",
-      "pubDate": "Tue, 24 Nov 2026 07:50:58 +0530"
+      "src": "LiveMint Markets",
+      "title": "US stocks slide as Nvidia rally fizzles out, dollar falls",
+      "link": "https://www.livemint.com/market/us-stocks-slide-as-nvidia-rally-fizzles-out-dollar-falls-11795561223195.html",
+      "pubDate": "Wed, 25 Nov 2026 04:30:22 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "830% jump in five years! RMC Switchgears receives  \u20b9522 crore LoI, 3 times its market cap; will shares rebound?",
-      "link": "https://www.livemint.com/market/stock-market-news/830-jump-in-five-years-rmc-switchgears-receives-rs-522-crore-loi-3-times-its-market-cap-will-shares-rebound-11795524825577.html",
-      "pubDate": "Tue, 24 Nov 2026 18:35:23 +0530"
+      "title": "TSX ends lower as tech and\u00a0mining shares fall",
+      "link": "https://www.livemint.com/market/tsx-ends-lower-as-tech-and-mining-shares-fall-11795556702667.html",
+      "pubDate": "Wed, 25 Nov 2026 03:15:02 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Explained: Why Gold prices gained and extended a rebound from a 14-month low - 3 reasons",
-      "link": "https://www.livemint.com/market/stock-market-news/explained-why-gold-prices-gained-and-extended-a-rebound-from-a-14-month-low-3-reasons-11795514651749.html",
-      "pubDate": "Tue, 24 Nov 2026 18:01:45 +0530"
+      "title": "Nvidia Option Trader Scores 1,984% Gain After CEO Huang\u2019s Return",
+      "link": "https://www.livemint.com/market/nvidia-option-trader-scores-1-984-gain-after-ceo-huang-s-return-11795556330313.html",
+      "pubDate": "Wed, 25 Nov 2026 03:08:49 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Should you buy IDBI shares? Is it a good banking stock to bet on amid Fairfax stake sale deal \u2014 what market experts say",
-      "link": "https://www.livemint.com/market/stock-market-news/should-you-buy-idbi-shares-is-it-a-good-banking-stock-to-bet-on-amid-fairfax-stake-sale-deal-what-market-experts-say-11795518804386.html",
-      "pubDate": "Tue, 24 Nov 2026 17:56:52 +0530"
+      "title": "Bitcoin Surrenders Most Gains Amid Sustained ETF Outflows",
+      "link": "https://www.livemint.com/market/bitcoin-surrenders-most-gains-amid-sustained-etf-outflows-11795554238437.html",
+      "pubDate": "Wed, 25 Nov 2026 02:33:57 +0530"
     },
     {
       "src": "LiveMint Markets",
-      "title": "Nvidia's 37% rally wipes out gains for bearish investors; leveraged short ETFs plunge up to 92%",
-      "link": "https://www.livemint.com/market/nvidias-37-rally-wipes-out-gains-for-bearish-investors-leveraged-short-etfs-plunge-up-to-92-11795515861134.html",
-      "pubDate": "Tue, 24 Nov 2026 17:46:43 +0530"
+      "title": "US yields little changed as AI rally fades",
+      "link": "https://www.livemint.com/market/us-yields-little-changed-as-ai-rally-fades-11795550412000.html",
+      "pubDate": "Wed, 25 Nov 2026 01:30:11 +0530"
     },
     {
-      "src": "LiveMint Markets",
-      "title": "How will the AI boom impact gold prices? 4 key factors investors should watch, explains World Gold Council strategist",
-      "link": "https://www.livemint.com/market/how-will-the-ai-boom-impact-gold-prices-4-key-factors-investors-should-watch-explains-world-gold-council-strategist-11795519705028.html",
-      "pubDate": "Tue, 24 Nov 2026 17:44:16 +0530"
+      "src": "CNBC TV18",
+      "title": "Nifty Outlook for November 25: Will the AI rebound cause further profit booking?",
+      "link": "https://www.cnbctv18.com/market/nifty-outlook-wednesday-november-25-will-ai-rebound-cause-further-profit-booking-banking-index-20040566.htm",
+      "pubDate": "Tue, 24 Nov 2026 20:25:24 +0530"
     },
     {
       "src": "CNBC TV18",
@@ -115,41 +121,35 @@
       "pubDate": "Tue, 24 Nov 2026 15:24:05 +0530"
     },
     {
-      "src": "CNBC TV18",
-      "title": "South Indian Bank gets RBI nod for SBI Mutual Fund to acquire up to 9.99% stake",
-      "link": "https://www.cnbctv18.com/market/south-indian-bank-gets-rbi-nod-for-sbi-mutual-fund-to-acquire-up-to-9-pc-stake-20040446.htm",
-      "pubDate": "Tue, 24 Nov 2026 15:17:27 +0530"
+      "src": "Google India News",
+      "title": "Tata Sons weighs stake purchase, buybacks to unlock liquidity for SP - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSEhVcHJRVWtpbjlKMWJRM1VfZGpqUV9MSTJmU3MtSjIxRmxFN3JsLTZNQUctR1dDLVVLaXZMbklmT0F5RE5IbGs5U3ZfcmQwdGJjSFRmU2Q5VTFEQ2RhVnIyQXl5eGxXaEFDT3dkczBSVWk1Z2x5ZDAwdnc0blNwR01YOGZKYngtTnhGTmpGVjVHUW5Yclg1TDhTanZPVVpGWXI2Wk9TR01kdW1MaUJ4ZlVtUXlJSy1VTExnZ3hBcEU0Yk5yN2d1akJPLUFocUJ3cjNHZFNfQ2p2bTRrS1k2VDRaRW1UYy1O0gHuAUFVX3lxTE80ODRfeUVTTkhER2hrdWRuU2ZpVG5EYUdLLU5GcmRSV3hONndiVnE0eml3dy14MXJoa1cxSjJ5S2lqTmVhNEhCdmpxckZDRUdDbWNxOHJwZXZaNl84ZlVjRkViZW5EOG1nVG1DWV9aWXBLVnRxWTRNVE9KMFVvaGF3UmJPOEdiMHBhdEF4a1J1NVpCdVViSHNMTXN0bHlVRnpwNlJKWjc0bkdnbWR6VUdrMUZSU2RsWFdDNTAzOHYzZlVLX29WMWlnS0hhak96SG1OZzZwYVZhYUZuNTJhdTBFSHFBYVJuOFJFcllkeXc?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 23:07:00 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Green Energy Stocks Slide As Sensex Drops 1.8% Amid Broad Market Selling Pressure (24 November 2026) - SolarQuarter",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZWRlblUwaXVRaHkzYkQ0TlYydEh3aDhpRGJWMjhFelNkY2xhM0ViZVUxbDk4UGVJczItVEJTa0VHeDIwVkhuN0U4b1Z6Si1YSi1lSGpGSHJhZDE3SzdxZ3ZUUnNyOW5HMUJ4SUZ3Z1B5RVViUmtPbmtVZUxMN25ZWnRobWZqWlQ1U3BFNkZ2WVJERHAwOUxBaHJ6RlpTdGVOd1paMWgyX0N5ZklqbGVPbkQ0TlhLN2VJX1BUalNNX1RXTEtSWVF3b2N4MW5qTEk?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 12:55:17 GMT"
+      "title": "Southwest Gas Holdings announces $340 million at-the-market equity offering By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUGgxNUNwSWtCZ3R3QjZqbkJIM0FmQmxhVDlDRWhZcFh0LXRKdkNGV0lXT3Z1RWU0dldsOUpRbWFnbDl0azFvbE84VTlEZDYtYWlpQnhTVHR3cUdLX3RRWHFLVC0xMks0b0NzcHkzcjZudUxRckxLZGFGWDhJeC1xV1F4UFpxTmtOaEhLa1NxSkV2d1A3SWJUQ1hwVWlPanVHNkQzYWRRdnhRbEtsX1JpbkU5NFI2TFR1dXlwcXhNeHRFZHhScnhtbDJ1bllydw?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 22:27:58 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Maxgrow India seeks approval for \u20b987.5 crore debt-to-equity conversion - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRjJ6TzIwYW5nbW5aNWZzU2hEZ01WMFlHcXRsYzFJQVpnc096RVlLVkx0T0hDeHMtM2FBR1RMeGxVQ2hpdEVJZTMtajF0OUJ4VlYxOFBOanluZ0ZvTG1BTUFsN1R4Ykc4UnBvUXVJeWVHZmdGaWY1dVI5bXgxZ1gyeG1qWExOV3NHb2gyN2N3bmo4QURWdDVYa2FGRS1ZRjdzTW9EN1AxQ1NkX00zN1ZZN2lVQ0xUUWU4cFM0?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 13:15:16 GMT"
+      "title": "Dow Jones Industrial Average returns to 50,000 amid Nvidia-led tech decline - www.tmgm.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSy1DTGhLUnF5TW1sRV9FSHB3eWdPbjNCa2R0VzYwT3lndnNYdi1FQ2NWaHcxckVubkUtcnFLYnVWamFkVy1KTElwaVVOWVFUdmlYa1JBVVVUa2xyY3lvb21LY1kwMEFGZ3JfV01DS1R2UEc1ZUx3d3M1NS1BVThqVFlOSFdNTjVwS3FSdFBlRWhMRzFsTWh6VnM4YjQzQ2dzeUFSYXVLT3Npa015UTVDVVVqSzFDcmRkZUVqVTlqSnQxdkp0clpXVkRNcU9ZNXp3b3QzeA?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 22:29:34 GMT"
     },
     {
       "src": "Google India News",
-      "title": "NLC India scouts copper, gold mines in Australia and Chile to expand critical minerals portfolio - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVllVQ0Uycm9ZZThZR2U5MXFTVjlldWdBTzBpOWdaMTFkenl4TVBicUdCRHlXQVQ1dWpBR1lBeUg0YlpQbmM3M2U2Zlhqal9wZFRYdXdoT290MVRySnJVdGlac29sTHFBeFplMFFIbWhsWWUwU3NMQVRYZkFvOE14M0tsVHI3b0lvT0hHc0UySjdLMl9teTVYOE5qS09EWW5idTZOS3QwSXYxSURMbHBXUjFQbjJZY0NyZzE5b2YyUjJidEZtMXhUWGxpOWR6aFVUUXBCT0cyaEluU2h3SEhHdWpKQVlQRHNsTkpRcdIB7AFBVV95cUxQVllVQ0Uycm9ZZThZR2U5MXFTVjlldWdBTzBpOWdaMTFkenl4TVBicUdCRHlXQVQ1dWpBR1lBeUg0YlpQbmM3M2U2Zlhqal9wZFRYdXdoT290MVRySnJVdGlac29sTHFBeFplMFFIbWhsWWUwU3NMQVRYZkFvOE14M0tsVHI3b0lvT0hHc0UySjdLMl9teTVYOE5qS09EWW5idTZOS3QwSXYxSURMbHBXUjFQbjJZY0NyZzE5b2YyUjJidEZtMXhUWGxpOWR6aFVUUXBCT0cyaEluU2h3SEhHdWpKQVlQRHNsTkpRcQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 12:54:12 GMT"
+      "title": "FSSAI prohibited sale of only one Goa batch, no stocks in market: Bisleri - Daily Excelsior",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcGJiM1hDMGdQbjEzaGt0VWdLeUpGdFpQZlc0SDF6b1VJa2NZMjdtTDFPZjBzMlFYcjQxQ3ZHNVpKQTJvM21DQWRYblZyQVAtMzZOQ3kxZEpOS3hLNVNpdGlfV3lqam5Id25lOXhBV2lVdUJNclFXZmhIMzZlZHJYV1NTS0RleUJURVpkYVdQM2ZzZXJ3Y1RDdlNSVERfUFhDQklldFFn0gGqAUFVX3lxTFBidERxejhNQkg1QVdBYUQxRkppWmRRZC05RXJ3RDRpUWxkTHAzanZGODhNcmhFZ0M5aXZTRVVHcklkU2ZFUzBnMTg3SS1ockQ2ZjBTUjZmVFNuZzdzV29PNlZuOXJWcjZNRTg1MWt2dEx3c1hZSFZiWVYwWHp5cDhvMGgyM2FZX19wcEZBRWFtQmh4a09ad1MtWVlIT242Z0I4UGJET1dtZzFB?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 22:54:50 GMT"
     },
     {
       "src": "Google India News",
-      "title": "Delhivery Stock: Price Action, Valuation and Momentum - Kalkine India",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOclVGWFVRVnR0dFBhaXYyVl82R1VEQTBJSVAxWkhjdTZSN2VUc3lqN29TQmZXR3NsRjMyNm54SHVXck5DMFJlOGwxREdLNWdjcURsX1hINmxEcVlXbURLRW50QjdsRzVKZkhLWGZwcDJLZkpnZlhVRlhRbnlVQzAzb3Z2bEQzQWJ2NTd2T202TGUwbUg0WGRYY0JiVUN2WEJkbGIzWE0wS3EtVWc1TlZOdHdIVXh4VVo1V1d5TlZ1dnA0emhlX0JkdnNhQTJFdUFDT0VtUjRVc3BDSV83MDBVU2dRNDVMQQ?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 12:37:00 GMT"
-    },
-    {
-      "src": "Google India News",
-      "title": "Scindia announces advisory panel to address telecom startup, MSME issues - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORzYtX0pvSGRiN3N4LW1pY0Y2Z0FwbFlMYk9la3hqQmFjbktjYkZURC1YS1lMUnJKUGVkR3c3Sm5tLUFXbjV6VERlY0ZMY3ZVRFVkdzhXeGp1b2NFU1RKbEYycGtYOElKME9OeE1TOVlMVlJ0REJhNjFGdXJ3Ty1pMnFrM3dfYjNTVnNfN1J6Z2NlZjZSYkhKMUJHOWs5cWYybFFkdTRyZlhsYjJ5Q0VtTm9lWlpLbGo1bWZnTHlzU0o2NC04dGI4UFU5Zk9SSDBqLUHSAdcBQVVfeXFMTWFWUzZPMEdmYjkyS1U5N0pPSzZYc1BiaXR2WlBhNGNhdEwxQXVaMHhGQnNjVHRicGozYnpMMUFsM2pBYTB1STA5VTlVbHRWNk1CSVlDajc0aE9aR05sVmQ0dXB2b081ZnhERkg3eTJsSDEza1NacUVpdjItUXlOYUF2dHVZZ2F2VjJUZDhlLWRtYV9aVG8tNmdyQ2oyRzBUbHdXczZuWlRNemVTZGpVZlByMzBwNEZ0YVN5N3pOZ1dJajRlRW8wUHliRl9oZml2WFI4Mzl2RVE?oc=5",
-      "pubDate": "Tue, 24 Nov 2026 13:14:37 GMT"
+      "title": "Spero Therapeutics director buys $20,000 in common stock By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGZpekY3NENmeGtqN1VuOS1NSFllckZxV0R5S0tNQWR6NG0ySU1hb2tHVm9fZC1PdmtueUUyeWFXZ2NBSW1fYzVGZDhLek5MQkxrUGdpOGhqQnVrM2xkbVBFMjVBZDVSakhCRUdyVlM0dENJazRyM0dtWFhlSVpNaURUR1R3b2hOVm5yUzFpM25OQ3dYZElKU0tSWjV5OVNHRUpFeWtNVWtPT2FIbnVOaXdrR3dFUQ?oc=5",
+      "pubDate": "Tue, 24 Nov 2026 22:39:36 GMT"
     }
   ],
-  "fetchedAt": 1795527266
+  "fetchedAt": 1795562188
 }
